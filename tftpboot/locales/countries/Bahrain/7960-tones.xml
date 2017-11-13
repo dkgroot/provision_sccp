@@ -1,0 +1,32 @@
+<tones>
+<trkLocaleName>Bahrain</trkLocaleName>
+<trkBaseClearcaseVersion>/main/3.3.release/1</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<tone c1="30959" i1="-1879" c2="30959" i2="-1879" d="17" t="ringing">
+<part m="on" t="400"/>
+<part m="off" t="200"/>
+<part m="on" t="400"/>
+<part m="off" t="2000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" c2="30959" i2="-1879" d="17" t="reorder">
+<part m="on" t="400"/>
+<part m="off" t="350"/>
+<part m="on" t="225"/>
+<part m="off" t="525"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="busy">
+<part m="on" t="375"/>
+<part m="off" t="375"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="31674" i1="-735" c2="30831" i2="-971" d="2" t="odial">^M
+<part m="on" t="65535"/>^M
+<repeat c="65535"/>^M
+</tone>
+<tone c1="30831" i1="-1016" c2="31538" i2="-814" d="2" t="idial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+</tones>

@@ -1,0 +1,30 @@
+<tones>
+<trkLocaleName>Hong_Kong</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<tone c1="30831" i1="-971" c2="30467" i2="-1056" c3="30831" i3="-971" c4="30467" i4="-1056" d="34" t="ringing">
+<part m="on" t="400"/>
+<part m="off" t="200"/>
+<part m="on" t="400"/>
+<part m="off" t="3000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30467" i1="-1056" c2="28959" i2="-1342" d="2" t="reorder">
+<part m="on" t="250"/>
+<part m="off" t="250"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30467" i1="-1056" c2="28959" i2="-1342" d="2" t="busy">
+<part m="on" t="500"/>
+<part m="off" t="500"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="31538" i1="-778" c2="30831" i2="-971" d="2" t="odial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30743" i1="-993" c2="29758" i2="-1201" d="2" t="idial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+</tones>

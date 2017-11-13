@@ -1,0 +1,25 @@
+<!-- saved from url=(0014)about:internet -->
+<html>
+<head>
+<script language="JavaScript">
+function pophelp(){
+  if(top.location.search.substring() != ""){
+    st = top.location.search.substring()+top.location.hash;
+    if(st.indexOf("st=") != -1 && st.indexOf("pt=") != -1){
+      st = top.location.search.substring()+top.location.hash;
+      st = st.substring(st.indexOf("st=")+3,st.indexOf("pt="));
+
+      pt = top.location.search.substring()+top.location.hash;
+      pt = pt.substring(pt.indexOf("pt=")+3);
+
+      top.location = pt+"/indexta.html?"+st;
+    }
+  }
+}
+</script>
+
+</head>
+<body bgcolor="#FFFFFF" onLoad="pophelp();">
+
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!-- saved from url=(0014)about:internet -->
+<html>
+<!-- Copyright © 2009 Cisco Systems, Inc. Alle rechten voorbehouden. -->
+<head>
+<!-- DoNotProcess -->
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+var relPath = getRelativePath();
+
+function getSearchPath()
+{
+  if(location.search != "")
+  {
+    var i = location.search.indexOf("/");
+    var j = location.search.lastIndexOf("/");
+    if(i!=j)
+    {
+      return "/help"+location.search.substring(i,j+1);
+    }
+  }
+  return "";
+}
+
+function getRelativePath()
+{
+  var locat = window.location.toString();
+  var ind = locat.lastIndexOf("/help/");
+  if (ind != -1)
+    {
+      locat = locat.substr(ind + 6);
+      var str = "";
+      for(var i=0; i<locat.length ;i++)
+      {
+        if(locat.charAt(i) == '/')
+        {
+          str = str+"../";
+        }
+      }
+         return str;
+    } 
+  return "/help/";
+}
+self.document.write("<meta http-equiv='Content-Type' content='text/html; charset=ISO-8859-1'>");
+self.document.write("<script charset='ISO-8859-1' type='text/javascript' language='JavaScript' src='"+getRelativePath()+"shared/utilsV4.js'></script>");
+self.document.write("<script charset='ISO-8859-1' type='text/javascript' language='JavaScript' src='"+getSearchPath()+"config.js'></script>");
+self.document.write("<script charset='ISO-8859-1' type='text/javascript' language='JavaScript' src='"+getSearchPath()+"indexsch.js'></script>");
+self.document.write("<script charset='ISO-8859-1' type='text/javascript' language='JavaScript' src='"+getSearchPath()+"indexList.js'></script>");
+self.document.write("<script charset='ISO-8859-1' type='text/javascript' language='JavaScript' src='"+getRelativePath()+"shared/bdetect.js'></script>");
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+startPage='ipcugset09.html#wp83797';
+self.document.write("<title>"+parent.appTitle+"</title>");
+//-->
+</SCRIPT>
+
+</head>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+self.document.write("<script charset='ISO-8859-1' type='text/javascript' language='JavaScript' src='"+parent.searchFile+"'></script>");
+self.document.write("<script charset='ISO-8859-1' type='text/javascript' language='JavaScript' src='"+relPath+"shared/searchcode.js'></script>");
+//-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+
+writeFrames();
+
+//-->
+</SCRIPT>
+<noframes> 
+<body bgcolor="#FFFFFF" text="#000000">
+</body>
+</noframes> 
+</html>
+

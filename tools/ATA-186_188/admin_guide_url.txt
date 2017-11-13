@@ -1,0 +1,4 @@
+Administrator guides for the Cisco ATA 186 and Cisco ATA 188 can
+be found at the following web address:
+
+http://www.cisco.com/univercd/cc/td/doc/product/voice/ata/ataadmn/index.htm

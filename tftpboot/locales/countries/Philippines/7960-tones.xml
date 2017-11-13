@@ -1,0 +1,29 @@
+<tones>
+<trkLocaleName>Philippines</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>0</trkTranslationVersion>
+<tone c1="30743" i1="-1985" d="1" t="ringing">
+<part m="on" t="1000"/>
+<part m="off" t="10000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30467" i1="-1056" c2="28959" i2="-1342" d="2" t="reorder">
+<part m="on" t="250"/>
+<part m="off" t="250"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="busy">
+<part m="on" t="500"/>
+<part m="off" t="500"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="odial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="31164" i1="-1772" d="1" t="idial">
+<part m="on" t="200"/>
+<part m="off" t="200"/>
+<repeat c="65535"/>
+</tone>
+</tones>

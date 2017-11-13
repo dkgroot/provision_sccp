@@ -1,0 +1,12 @@
+Using "zupinfo.exe" program for Windows / DOS
+
+======================================================================
+
+If an ATA software image has had its original factory name changed, and 
+the original name is no longer known, this program may be used to 
+recover the original name from the image itself.  Place this program 
+and the image in question in a directory, and at the command line enter:
+
+C:\> zupinfo <current_image_name>
+
+The correct image name will be returned.

@@ -1,0 +1,26 @@
+{
+    "basedir": "/",
+    "os": "debian",
+    "pbx": {
+        "ip": "10.1.2.3",
+        "port": 2000
+    },
+    "generate_config": [
+        "dhcpd",
+        "nginx",
+        "apache",
+        "tftpd-hpa",
+        "inetd.d",
+        "xinetd.d",
+        "init.d"
+    ],
+    "generate_xml": [
+        "ringlist"
+    ],
+    "install": [
+        "nginx",
+        "tftpd-hpa",
+        "init.d",
+        "tftpboot"
+    ]
+}

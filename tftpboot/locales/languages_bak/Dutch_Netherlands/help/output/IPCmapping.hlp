@@ -1,0 +1,38 @@
+#########################
+# filename:  IPCmapping.hlp
+# application:  Cisco IP Communicator Online Help
+# 
+#Copyright (c) 2004 by Cisco Systems,Inc.
+#All rights reserved                        
+#########################
+# 
+DROPINPLACE "999", "suitename", "appname", /output/index.html
+
+#Search scope
+SEARCH, "All", "IPCmapping.sch"
+
+#################################
+# Following are the context-sensitive links
+#
+#################################
+# User Settings
+prefuser /output/ipc48.html#1005548
+
+# Network Settings
+prefnetwrk /output/ipc49.html#1005618
+
+# Audio Settings
+prefaudio /output/ipc410.html#1005676
+
+# Network Audio Settings
+netaudio /output/ipc412.html#1005852
+
+# Advanced Audio Settings
+advaudio /output/ipc413.html#1005902
+
+# Directories Settings
+prefdirs /output/ipc414.html#1006006
+
+# Using the Quick Search Feature
+qsearch /output/ipc64.html#1005480
+

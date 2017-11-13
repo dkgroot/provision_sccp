@@ -1,0 +1,236 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html>
+
+<head>
+<title>Naamloos document</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="help.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+:link, :visited { text-decoration: none; }
+:link { color: black; }
+:visited { color: black; }
+:link:hover, :visited:hover { color: #4A5AAA; }
+:link:hover, :visited:hover { text-decoration: underline; }
+</style>
+<script language="JavaScript"><!--
+
+var Astr = new Array();
+var numCookies=0;
+
+function loadItems()
+{ 
+  //create num cookie
+  if(document.cookie.length == 0)
+    createCookie('num',0,1);
+
+  var s = readCookie('num');
+  if(s!=null)
+    numCookies = parseInt(s);
+  //get cookies and display HTML
+  buildList();
+}
+
+function addItem()
+{
+  if(top.lowerFrame.mainFrame.basefrm.location.href.indexOf('search_results.htm')<0)
+  {
+    createCookie(numCookies,document.indexForm.indexLookup.value+'-_-'+top.lowerFrame.mainFrame.basefrm.location.href,1);
+    numCookies++;
+    createCookie('num',numCookies,1);
+    buildList();
+  }
+}
+
+function removeItem()
+{
+  var id;
+  id = getRemovedId();
+  if(id!=-1){
+    resetIds(id);
+    numCookies--;
+    createCookie('num',numCookies,1);
+    buildList();
+  }
+}
+
+function resetIds(id)
+{
+  var j=0;
+  var i=0;
+  var str;
+  for(;i<numCookies;i++)
+  {
+    if(i<id)
+      j++;
+    if(i==id){
+      eraseCookie(id); 
+    }
+    if(i>id){
+      str = readCookie(i);
+      createCookie(j,str,1);    
+      eraseCookie(i);  
+      j++;
+    }
+  }
+}
+
+function getRemovedId()
+{
+  var str = document.indexForm.indexLookup.value+'-_-'+top.lowerFrame.mainFrame.basefrm.location.href;
+
+  var tstr='';
+
+  for(i=0;i<numCookies;i++)
+  {
+    tstr = readCookie(i);
+    if(tstr == str)
+      return i;
+  }
+  //did not find it, try just the title
+  str = document.indexForm.indexLookup.value+'-_-';
+  for(i=0;i<numCookies;i++)
+  {
+    tstr = readCookie(i);
+    if(tstr.indexOf(str) == 0)
+      return i;
+  }
+  
+  return -1;
+}
+
+function buildList()
+{
+  setForm();
+  Astr.length = 0
+  Astr.push('<span class="indexentry"><table border="0" cellpadding="0" cellspacing="0">');
+  var str='';
+  for(i=0;i<numCookies;i++)
+  {
+    str = readCookie(i);
+    if(str!=null)
+      convertToHTML(str,i);
+  }
+  Astr.push('</table></span>');
+  parent.indexList.document.body.innerHTML = Astr.join('');
+}
+
+function setForm(str)
+{
+  if(str)
+    document.indexForm.indexLookup.value=str;
+  else if(top.lowerFrame.mainFrame.basefrm.location.href.indexOf('search_results.htm')<0)
+  {
+    document.indexForm.indexLookup.value=top.lowerFrame.mainFrame.basefrm.document.title;
+  }
+}
+
+function convertToHTML(inStr,ind)
+{
+  var title = inStr.substring(0,inStr.indexOf("-_-"));
+  var url = inStr.substring(inStr.indexOf("-_-")+3);
+  //build entry
+  Astr.push('<tr><td id="');
+  Astr.push(ind+'" ');
+  Astr.push(' nowrap>');
+  //set url info
+  Astr.push('<a href="');
+  Astr.push(url);
+  Astr.push('" onClick="parent.indexEnter.setForm(\'');
+  Astr.push(title);
+  Astr.push('\');" target="basefrm">');
+  Astr.push(title);
+  Astr.push('</a>');
+  Astr.push('</td></tr>');
+}
+
+function createCookie(name,value,days)
+{
+	if (days)
+	{
+		var date = new Date();
+		date.setTime(date.getTime()+(1825*24*60*60*1000));//5 years 1825
+		var expires = "; expires="+date.toGMTString();
+	}
+	else var expires = "";
+	document.cookie = name+"="+value+expires+"; path=/";
+}
+
+function readCookie(name)
+{
+	var nameEQ = name + "=";
+	var ca = document.cookie.split(';');
+	for(var i=0;i < ca.length;i++)
+	{
+		var c = ca[i];
+		while (c.charAt(0)==' ') c = c.substring(1,c.length);
+		if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+	}
+	return null;
+}
+
+function eraseCookie(name)
+{
+	createCookie(name,"",-1);
+}
+
+function setTitle()
+{//alert(top.lowerFrame.mainFrame.basefrm.location.href);
+  if(top.lowerFrame.mainFrame.basefrm.location.href.indexOf('search_results.htm')<0)
+  {//top.lowerFrame.mainFrame.basefrm.location.href.
+//alert(top.lowerFrame.mainFrame.basefrm.location.href.indexOf('search_results.htm'));
+    document.indexForm.indexLookup.value=top.lowerFrame.mainFrame.basefrm.document.title;
+  }
+}
+
+
+function checkForReady()
+{
+  if(parent.lowFavReady)
+  {
+    loadItems();
+  }
+  parent.topFavReady=true;
+}
+//--></script>
+
+</head>
+<body onload="checkForReady(); document.indexForm.indexLookup.focus(); top.lowerFrame.leftFrame.tabs.MM_showHideLayers('contents','','hide','index','','hide','favorites','','show');" bgcolor="#F8F8F8">
+
+<form name="indexForm" onsubmit="addItem();">
+  <table border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td valign="bottom"><table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    <td><span class="indexentry">
+<script javascript>document.write(top.favEnter);</script>
+</span></td>
+    </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    <td><input type="text" size="28" class="indexentry" name="indexLookup" disable readonly></td>
+    </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="bottom"><table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+    <td><script javascript>document.write('<input type="button" class="indexentry" name="favAdd" value="'+top.favAdd+'" onClick="addItem();">');</script></td>
+    <td>&nbsp;</td>
+    <td><script javascript>document.write('<input type="button" class="indexentry" name="favRemove" value="'+top.favRemove+'" onClick="removeItem();">');</script></td>
+
+    </tr>
+    </table></td>
+</tr>
+</table>
+</form>
+
+</body></html>
+
+
+
+

@@ -1,0 +1,121 @@
+<html>
+<NG_BANNER>
+<!-- Copyright (c) 2006 by Cisco Systems, Inc. All rights reserved -->
+
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+<title>help header</title>
+<STYLE TYPE="text/css">
+    A:link { color: white; text-decoration: none; }
+    A:visited { color: white; text-decoration: none; }
+    A:active { color: white; text-decoration: none; }
+    A:hover { color: white; text-decoration: none; }
+</STYLE>
+</head>
+
+<BODY BGCOLOR="#007878"  onload="self.focus();">
+
+<table border=0 cellspacing=0 cellpadding=0 width="100%">
+<tr>
+<td rowspan="4"><IMG SRC="CiscoLogo.gif" border=0></td>
+</tr>
+
+<tr>
+<td valign="top" width="100%">
+<FONT color='white' size='3' face='Arial, Helvetica, ms sans-serif, sans-serif'><strong>
+&nbsp;&nbsp;Help bij Cisco IP Communicator</strong></FONT>
+</td>
+</tr>
+
+<tr><td> &nbsp;</td></tr>
+
+<tr>
+<td width="100%" valign="bottom">
+
+<table border=0 cellspacing=2 cellpadding=5 width="100%">
+
+<tr>
+<!-- Home button -->
+    <TD WIDTH=20% BGCOLOR=BLACK VALIGN=CENTER>
+    <A HREF='index.html' TARGET='_top'>
+        <FONT size='2' face='Arial, Helvetica, ms sans-serif, sans-serif' color='white'>
+        <B>Startpagina</B></FONT></A>
+    </TD>
+<!-- END Home button -->
+
+<!-- Search button -->
+    <TD WIDTH=20% BGCOLOR=BLACK VALIGN=CENTER>
+        <A HREF='../search/PreSearch.html' TARGET='right' >
+        <FONT size='2' face='Arial, Helvetica, ms sans-serif, sans-serif' color='white'>
+        <B>Zoeken</B></FONT></A>
+    </TD>
+<!-- END Search button -->
+
+<!-- Using Help button -->
+    <TD WIDTH=20% BGCOLOR=BLACK VALIGN=CENTER>
+        <A HREF='../shared/ref_help.html' TARGET='right'>
+        <FONT size='2' face='Arial, Helvetica, ms sans-serif, sans-serif' color='white'>
+        <B>Help gebruiken</B></FONT></A>
+    </TD>
+
+<!-- Glossary and PDF button -->
+    <SCRIPT LANGUAGE="JavaScript">
+    <!--
+
+    var purl = "ipcuser.pdf";
+    var gurl = "http://www.cisco.com/univercd/cc/td/doc/cisintwk/ita/index.htm";
+    var pdftext = "PDF weergeven";
+    var glosstext = "Woordenlijst";
+    var ptarget = "pdf";
+    var gtarget = "_blank";
+
+    //No glossary button and no pdf button
+    if ((gurl.substring(1,7) == "GLOSS_") && (purl.substring(1,8) == "PDF_URL"))
+    {
+        document.write("<TD WIDTH=20% BGCOLOR='#007878' VALIGN=CENTER></TD>");
+        document.write("<TD WIDTH=20% BGCOLOR='#007878' VALIGN=CENTER></TD>");	  	  
+    }
+    //No glossary button but there is a pdf button
+    else if ((gurl.substring(1,7) == "GLOSS_") && (purl.substring(1,8) != "PDF_URL"))
+    {
+        document.write("<TD WIDTH=20% BGCOLOR=BLACK VALIGN=CENTER>");
+        document.write("<A HREF='"+purl+"' TARGET='"+ptarget+"' >");
+        document.write("<FONT size='2' face='Arial, Helvetica, ms sans-serif, sans-serif' color='white'>");
+        document.write("<B>"+pdftext+"</B></FONT></A></TD>");
+        document.write("<TD WIDTH=20% BGCOLOR='#007878' VALIGN=CENTER></TD>");
+    }
+    //There is a gloss button but no pdf button
+    else if ((gurl.substring(1,7) != "GLOSS_") && (purl.substring(1,8) == "PDF_URL"))
+    {
+        document.write("<TD WIDTH=20% BGCOLOR=BLACK VALIGN=CENTER>");
+        document.write("<A HREF='"+gurl+"' TARGET='"+gtarget+"' >");
+        document.write("<FONT size='2' face='Arial, Helvetica, ms sans-serif, sans-serif' color='white'>");
+        document.write("<B>"+glosstext+"</B></FONT></A></TD>");
+        document.write("<TD WIDTH=20% BGCOLOR='#007878' VALIGN=CENTER></TD>");
+    }
+    //There is both a gloss and a pdf button
+    else if ((gurl.substring(1,7) != "GLOSS_") && (purl.substring(1,8) != "PDF_URL"))
+    {
+        document.write("<TD WIDTH=20% BGCOLOR=BLACK VALIGN=CENTER>");
+        document.write("<A HREF='"+gurl+"' TARGET='"+gtarget+"' >");
+        document.write("<FONT size='2' face='Arial, Helvetica, ms sans-serif, sans-serif' color='white'>");
+        document.write("<B>"+glosstext+"</B></FONT></A></TD>");
+           
+        document.write("<TD WIDTH=20% BGCOLOR=BLACK VALIGN=CENTER>");
+        document.write("<A HREF='"+purl+"' TARGET='"+ptarget+"' >");
+        document.write("<FONT size='2' face='Arial, Helvetica, ms sans-serif, sans-serif' color='white'>");
+        document.write("<B>"+pdftext+"</B></FONT></A></TD>");
+    }
+    //-->
+    </SCRIPT>
+<!-- End Glossary and PDF button -->
+	
+</tr>
+</TABLE>
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>

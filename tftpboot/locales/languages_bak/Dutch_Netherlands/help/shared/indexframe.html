@@ -1,0 +1,32 @@
+<html>
+<head>
+<SCRIPT LANGUAGE="JavaScript">
+ <!--
+ if(parent.getActiveTab() != 2)
+ {
+   parent.setTab(2);
+ }
+ //-->
+</SCRIPT>
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+self.document.write("<title>"+parent.index+"</title>");
+//-->
+</SCRIPT>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+ <SCRIPT LANGUAGE="JavaScript">
+ <!--
+ self.document.write('<frameset rows="'+parent.indFrameSz+',*" frameborder="NO" border="0" framespacing="0"> ');
+  self.document.write('<frame name="alphaFrame" scrolling="NO" noresize src="'+top.getFullPath()+'alpha.html" marginwidth="0" marginheight="0" >');
+  self.document.write('<frame name="indexFrame" src="'+top.getFullPath()+'ind.html">');
+ self.document.write('</frameset>');
+ //-->
+ </SCRIPT>
+
+<noframes><body bgcolor="#FFFFFF" text="#000000">
+
+</body></noframes>
+</html>

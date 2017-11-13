@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<!-- saved from url=(0014)about:internet -->
+<html>
+
+<head>
+<style type="text/css">
+a {text-decoration: none }
+<!--
+-->
+</style>
+<title>Naamloos document</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="help.css" rel="stylesheet" type="text/css">
+
+<script language="JavaScript" type="text/JavaScript">
+<!--
+
+function clearButton(id) {
+var idR = id+'right';
+var idL = id+'left';
+newImage = "url(images/ToolbarGradient.gif)";
+document.getElementById(id).style.backgroundImage = newImage;
+document[idL].src='images/ToolbarGradient3px.gif';
+document[idR].src='images/ToolbarGradient3px.gif';
+}
+
+function makeButton(id) {
+var idR = id+'right';
+var idL = id+'left';
+newImage = "url(images/button_tile.gif)";
+document.getElementById(id).style.backgroundImage = newImage;
+document[idL].src='images/button_left.gif';
+document[idR].src='images/button_right.gif';
+}
+
+var show=true;
+function onHideShow() {
+  var td = this.document.getElementById('hs');
+  if(show){
+    document['hideshow'].src=top.relPath+'shared/images/show_icon.gif';
+    document['hideshow'].alt=top.show;
+    document['hideshow'].title=top.show;
+    td.innerHTML='<a href="javascript:void(0)"><span class="toolbarlabels">'+top.show+'</span></a>';
+    show=false;
+  }else{
+    document['hideshow'].src=top.relPath+'shared/images/hide_icon.gif';
+    document['hideshow'].alt=top.hide;
+    document['hideshow'].title=top.hide;
+    td.innerHTML ='<a href="javascript:void(0)"><span class="toolbarlabels">'+top.hide+'</span></a>';
+    show=true;
+  }
+}
+
+function openGlossary()
+{
+  window.open(top.glossaryUrl,top.glossaryTarget);
+}
+function openPDF()
+{
+  if(top.pdfUrl.indexOf("http")!=0){
+      if (top.ie) {window.open("iepdf.html");}
+      else{window.open("../"+top.appPath+"/"+top.pdfUrl,top.pdfTarget);}
+  }
+  else{window.open(top.pdfUrl,top.pdfTarget);}
+
+}
+function openOtherWin()
+{
+  window.open(top.seeAlsoUrl,top.seeAlsoTarget);
+}
+function openFeedBack()
+{
+  window.open(top.feedbackUrl,top.feedbackTarget);
+}
+
+function writeSeeAlso()
+{
+document.write('<td>');
+document.write('<table id="openwinbutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton(\'openwinbutton\');" onmouseout="clearButton(\'openwinbutton\');" onClick="openOtherWin();">');
+document.write('  <tr>');
+document.write('    <td width="3"><img name="openwinbuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('    <td><img src="images/open_new_win_icon.gif" alt="'+top.seeAlso+'" title="'+top.seeAlso+'"></td>');
+document.write('    <td><table  border="0" cellspacing="0" cellpadding="5">');
+document.write('  <tr>');
+document.write('          <td><a href="javascript:void(0)"><span class="toolbarlabels">'+top.seeAlso+'<span></a></td>');
+document.write('  </tr>');
+document.write('</table>');
+document.write('</td><td width="3"><img name="openwinbuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('  </tr>');
+document.write('</table>');
+document.write('</td>');
+}
+
+
+function writeFeedback()
+{
+document.write('<td><table id="feedbackbutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton(\'feedbackbutton\');" onmouseout="clearButton(\'feedbackbutton\');" onClick="openFeedBack();">');
+document.write(' <tr>');
+document.write('  <td width="3"><img name="feedbackbuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('  <td><img src="images/feedback_icon.gif" alt="'+top.feedback+'" title="'+top.feedback+'"></td>');
+document.write('  <td><table  border="0" cellspacing="0" cellpadding="5">');
+document.write('<tr>');
+document.write('        <td><a href="javascript:void(0)"><span class="toolbarlabels">'+top.feedback+'<span></a></td>');
+document.write('</tr>');
+document.write('</table>');
+document.write('</td>');
+document.write('    <td width="3"><img name="feedbackbuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('  </tr>');
+document.write('</table>');
+document.write('</td>');
+}
+
+function writePdf()
+{
+document.write(' <td><table id="pdfbutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton(\'pdfbutton\');" onmouseout="clearButton(\'pdfbutton\');" onClick="openPDF();">');
+document.write(' <tr>');
+document.write('   <td width="3"><img name="pdfbuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('  <td><img src="images/viewpdf_icon.gif" alt="'+top.pdf+'" title="'+top.pdf+'"></td>');
+document.write('  <td><table  border="0" cellspacing="0" cellpadding="5">');
+document.write(' <tr>');
+document.write('         <td><a href="javascript:void(0)"><span class="toolbarlabels">'+top.pdf+'</span></a></td>');
+document.write(' </tr>');
+document.write('</table>');
+document.write('</td>');
+document.write('    <td width="3"><img name="pdfbuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('  </tr>');
+document.write('</table>');
+document.write('</td>');
+}
+
+function writeGlossary()
+{
+document.write(' <td><table id="glossarybutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton(\'glossarybutton\');" onmouseout="clearButton(\'glossarybutton\');" onClick="openGlossary();">');
+document.write('  <tr>');
+document.write('    <td width="3"><img name="glossarybuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('    <td><img src="images/glossary_icon.gif" alt="'+top.glossary+'" title="'+top.glossary+'"></td>');
+document.write('    <td><table  border="0" cellspacing="0" cellpadding="5">');
+document.write('  <tr>');
+document.write('          <td><a href="javascript:void(0)"><span class="toolbarlabels">'+top.glossary+'</span></a></td>');
+document.write('  </tr>');
+document.write('</table>');
+document.write('</td>');
+document.write('  <td width="3"><img name="glossarybuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>');
+document.write('  </tr>');
+document.write('</table>');
+document.write('</td>');
+}
+//-->
+</script>
+</head>
+
+<body leftmargin="0" topmargin="0" background="images/ToolbarGradient.gif">
+<!-- Start regular layers -->
+  
+  <table  border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif">
+  <tr>
+<td><img src="images/ToolbarGradient.gif" alt="" name="gradient"></td>
+
+  <td>
+    <table id="hidebutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton('hidebutton');" onmouseout="clearButton('hidebutton');" onClick="parent.lowerFrame.switchFrameSet();onHideShow();">
+    <tr>
+      <td width="3"><img name="hidebuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+      <td><SCRIPT TYPE="text/JavaScript">document.write('<img name="hideshow" src="images/hide_icon.gif" alt="'+top.hide+'" title="'+top.hide+'">');</SCRIPT></td>
+      <td>
+        <table  border="0" cellspacing="0" cellpadding="4">
+        <tr>
+          <td id="hs"><a href="javascript:void(0)"><span class="toolbarlabels"><SCRIPT TYPE="text/JavaScript">document.write(top.hide);</SCRIPT></span></a></td>
+        </tr>
+        </table>
+        </td>
+      <td width="3"><img name="hidebuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+    </tr>
+    </table>
+  </td>
+
+  <td><table id="backbutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton('backbutton');" onmouseout="clearButton('backbutton');" onClick="parent.history.go(-1);">
+  <tr>
+    <td width="3"><img name="backbuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+    <td><SCRIPT TYPE="text/JavaScript">document.write('<img src="images/back_icon.gif" alt="'+top.back+'" title="'+top.back+'">');</SCRIPT></td>
+    <td><table  border="0" cellspacing="0" cellpadding="5">
+  <tr>
+          <td><a href="javascript:void(0)"><span class="toolbarlabels"><SCRIPT TYPE="text/JavaScript">document.write(top.back);</SCRIPT></span></a></td>
+  </tr>
+</table>
+</td>
+    <td width="3"><img name="backbuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+  </tr>
+</table>
+</td>
+
+  <td><table id="forwardbutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton('forwardbutton');" onmouseout="clearButton('forwardbutton');" onClick="parent.history.go(+1);">
+  <tr>
+    <td width="3"><img name="forwardbuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+    <td><SCRIPT TYPE="text/JavaScript">document.write('<img src="images/forward_icon.gif" alt="'+top.forward+'" title="'+top.forward+'">');</SCRIPT></td>
+    <td><table  border="0" cellspacing="0" cellpadding="5">
+  <tr>
+          <td ><a href="javascript:void(0)"><span class="toolbarlabels"><SCRIPT TYPE="text/JavaScript">document.write(top.forward);</SCRIPT></span></a></td>
+  </tr>
+</table>
+</td>
+    <td width="3"><img name="forwardbuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+  </tr>
+</table>
+</td>
+
+    <td><table id="printbutton" border="0" cellpadding="0" cellspacing="0" background="images/ToolbarGradient.gif" onMouseOver="makeButton('printbutton');" onmouseout="clearButton('printbutton');" onClick="top.lowerFrame.mainFrame.basefrm.focus();top.lowerFrame.mainFrame.basefrm.print();">
+  <tr>
+    <td width="3"><img name="printbuttonleft" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+    <td><SCRIPT TYPE="text/JavaScript">document.write('<img src="images/print_icon.gif" alt="'+top.print+'" title="'+top.print+'">');</SCRIPT></td>
+    <td><table  border="0" cellspacing="0" cellpadding="5">
+  <tr>
+          <td><a href="javascript:void(0)"><span class="toolbarlabels"><SCRIPT TYPE="text/JavaScript">document.write(top.print);</SCRIPT></span></a></td>
+  </tr>
+</table>
+</td>
+    <td width="3"><img name="printbuttonright" src="images/ToolbarGradient3px.gif" alt="" width="3" height="41"></td>
+  </tr>
+</table>
+</td>
+
+
+<SCRIPT TYPE="text/JavaScript">
+if(top.glossaryUrl!="")
+  writeGlossary();
+</SCRIPT>
+
+<SCRIPT TYPE="text/JavaScript">
+if(top.pdfUrl!="")
+  writePdf();
+</SCRIPT>
+
+<SCRIPT TYPE="text/JavaScript">
+if(top.seeAlsoUrl!="")
+  writeSeeAlso();
+</SCRIPT>
+
+<SCRIPT TYPE="text/JavaScript">
+if(top.feedbackUrl!="")
+  writeFeedback();
+</SCRIPT>
+
+</tr>
+</table>
+
+
+</body>
+</html>

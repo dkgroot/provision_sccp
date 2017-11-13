@@ -1,0 +1,32 @@
+<tones>
+<trkLocaleName>Republic_of_Serbia</trkLocaleName>
+<trkBaseClearcaseVersion>/main/3.3.release/1</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<tone c1="30514" i1="-1045" c2="30959" i2="-940" d="2" t="ringing">
+<part m="on" t="1000"/>
+<part m="off" t="9000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="24062" i1="-3892" c2="14876" i2="-5109" c3="5126" i3="-5663" d="273" t="reorder">
+<part m="on" t="333"/>
+<part m="off" t="1000"/>
+<part m="on" t="333"/>
+<part m="off" t="1000"/>
+<part m="on" t="333"/>
+<part m="off" t="1000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30743" i1="-1985" d="1" t="busy">
+<part m="on" t="150"/>
+<part m="off" t="200"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30743" i1="-1384" d="1" t="odial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30274" i1="-2194" d="1" t="idial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+</tones>

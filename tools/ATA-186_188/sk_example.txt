@@ -1,0 +1,1296 @@
+#txt
+# -----------------------------------------------------------------------------
+#             Example Profile for Cisco ATA (SCCP) 3.2.4 Release                                              
+# -----------------------------------------------------------------------------
+# IMPORTANT:  File must begin with "#txt" (without the quotes) for the 
+#             formatting tool (cfgfmt.exe) to treat it as a text file.
+#
+# NOTE: 1. A hash (#) at the beginning of the line is a comment.  The
+#          formatting tool ignores any line beginning with the token.
+#
+#       2. All parameter/value pairs are OPTIONAL; however, they may be
+#          needed nevertheless for the Cisco ATA to function properly 
+#          if no prior value had been programmed.
+#
+#       3. If IVR access code is available, either the alphanumeric or
+#          numeric entry method may be used to specify the parameter value. 
+#          A hexadecimal parameter value must be entered as a decimal value 
+#          when the IVR is used. 
+#
+#       4. Parameter values can be one of the following:
+#
+#           a. Alphanumeric string           
+#                 Ex:  SIP-4-Ever$#, 1234, #012-34la$!-
+#
+#           b. Numeric digit string          
+#                 Ex:  593, 960135, 19690489
+#
+#           c. Array of comma-separated short integer        
+#                 Ex:  {395,65534,20,32768,105}  (without brackets)
+#   
+#           d. IP address                    
+#                 Ex:  192.168.2.170, 64.15.243.3
+#
+#           e. Extended IP address -- IP address with Port           
+#                 Ex:  192.168.2.170.9001, 174.10.232.53.10364
+#
+#           f. Boolean       
+#                 Ex:  0 or 1
+#
+#           g. Bitmap value -- unsigned hex integer (32-bit)
+#                 Ex:  0x00060400, 0x125f0431
+#
+#           h. Integer (32-bit) 
+#                 Ex:  2147483647, 56, 65342 
+#
+#       5. Factory defaults are marked with an asterisk '*' 
+#
+#       6. "RESERVED" bits should be set to '0'. 
+#
+# -----------------------------------------------------------------------------
+
+# ============================= Security Parameter ============================
+# -----------------------------------------------------------------------------
+#   Parameter:  UIPassword 
+# Access Code:  7387277
+#  Value Type:  Alphanumeric string  (9 characters max) 
+#
+# Description:  Control access to the web page and IVR interface.  If set to
+#               a non-zero value, then every new web session will be prompted
+#               for the password.  The ATA will also prompt with P-A-S-S-W-D 
+#               when attempting to modify a protected configuration parameter 
+#               via the IVR.
+#
+#     Default:  0 = Password is disabled.  
+
+UIPassword:0
+
+# ========================== Provisioning Parameters ==========================
+# -----------------------------------------------------------------------------
+#   Parameter:  UseTftp
+# Access Code:  305
+#  Value Type:  Boolean
+#
+# Description:  Indicate whether a TFTP server should be contacted for  
+#               provisioning the ATA
+#
+#     Options: *1 = Use TFTP server for provisioning
+#               0 = Do not use TFTP server for provisioning
+
+UseTftp:1
+
+# -----------------------------------------------------------------------------
+#   Parameter:  TftpURL
+# Access Code:  905
+#  Value Type:  Alphanumeric string  (31 characters max) 
+#
+# Description:  IP address or URL of TFTP server to use. 
+#
+#               This value is required if the DHCP server will not provide
+#               the TFTP address.  You can optionally include the path prefix
+#               to the TFTP file to download.  Example:  If the TFTP server IP 
+#               address is 192.168.2.170 or wwww.cisco.com, and the path to 
+#               download the ATA profile is in /ata186, then you can 
+#               specify the URL as 192.168.2.170/ata186 or 
+#               www.cisco.com/ata186.  
+#
+#        Note:  From the IVR interface, you can only enter the IP address.
+#               From the web server interface, you can enter the actual URL.
+#
+#     Default:  0 = Use DHCP-provided TFTL URL, if "UseDhcp" parameter is
+#                   enabled.  If DHCP does not provide a TFTP URL, then the
+#                   ATA can not be provisioned automatically and it must be
+#                   manually provisioned. 
+
+TftpURL:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  AltTftpURL
+# Access Code:  935
+#  Value Type:  Alphanumeric string  (31 characters max) 
+#
+# Description:  Alternate IP address or URL of TFTP server to use in
+#		Call Manager Environment. 
+#
+#        Note:  From the IVR interface, you can only enter the IP address.
+#               From the web server interface, you can enter the actual URL.
+#
+#     Default:  0 = Use DHCP-provided Alternate TFTL URL (provided in
+#		the second value of option 150, if exists).
+
+AltTftpURL:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  CfgInterval (Not used for SCCP)
+# Access Code:  80002
+#  Value Type:  Integer  (60 - 4294967295 seconds)
+#
+# Description:  Interval between each configuration update.
+#
+#               When TFTP is used for provisioning, at every such interval
+#               expiration, the box will perform a TFTP GET of its 
+#               configuration file at the earliest possible time -- when the 
+#               box is idle.  CfgInterval can be set to some random value to 
+#               achieve random contact interval from individual ATA box to the
+#               TFTP server.
+#
+#     Default:  3600 seconds
+
+CfgInterval:3600
+
+# -----------------------------------------------------------------------------
+#   Parameter:  EncryptKey
+# Access Code:  320
+#  Value Type:  Hexadecimal character string  (8 Hex characters maximum) 
+#
+# Description:  Key that ATA will use to decrypt its configuration profile
+#
+#     Options: *0 = no encryption was made on the incoming profile from 
+#                   the TFTP server.
+#
+#               non-zero = profile from TFTP server is encrypted with this 
+#                          key using the RC4 encryption algorithm. 
+#
+#        Note:  The cfgfmt.exe program will automatically encrypt the binary 
+#               file when this parameter value is non-zero.
+
+EncryptKey:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  EncryptKeyEx
+# Access Code:  N/A
+#  Value Type:  Hexadecimal character string  (64 Hex characters maximum) 
+#
+# Description:  Stronger encryption key that ATA will use to decrypt its
+#               configuration profile. When this parameter is set to non-zero
+#               value, ATA will ignore EncryptKey parameter, and use this
+#               parameter instead. ATA will also look for ata<mac>.x file
+#               instead of ata<mac> file for its configuration profile.
+#
+#     Options: *0 = EncryptKey parameter value is used, and ATA will look
+#                   for ata<mac> file.
+#
+#               non-zero = profile from TFTP server is encrypted with this 
+#                          key using the stronger RC4 encryption algorithm. 
+#                          This profile is ata<mac>.x.
+#
+#        Note:  The cfgfmt.exe (version 2.1) program will generate
+#               ata<mac>.x file in addition to ata<mac> file if this
+#		parameter is specified.
+
+#EncryptKeyEx:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  ToConfig (Not used for SCCP)
+# Access Code:  80001
+#  Value Type:  Boolean  
+#
+# Description:  Indicate whether ATA has a valid operating configuration 
+#
+#     Options: *1 = ATA is fresh from the factory and it has no valid
+#                   operating configuration 
+#               0 = ATA has a valid operating configuration
+#
+#        Note:  The parameter value should be set to 0 once the ATA has a 
+#               valid operating configuration to prevent unnecessary contacts
+#               with the TFTP server, if it is enabled.
+
+ToConfig:0
+
+# ====================== Firmware Upgrade Parameters ==========================
+# -----------------------------------------------------------------------------
+#  Parameters:  upgradecode (Not used for SCCP unless for cross protocol)
+#
+# Access Code:  N/A
+#
+# Description:  Special parameter to provide information on how to upgrade 
+#               firmware code or language image.  The upgrade parameter values
+#               should be derived from the corresponding syntax below.
+#
+#      Syntax:  Upgradecode:3,0x301,0x0400,0x0200,tftp_ip_addr,69,image_id,image_filename
+#               Upgradelang:3,0x301,0x0400,0x0200,tftp_ip_addr,69,image_id,language_filename
+#
+#     Options:  tftp_ip_addr 
+#                - TFTP server IP address where the image_filename or 
+#                  language_filename is located
+#
+#               image_id 
+#                 - A unique 32-bit integer value different from upgrade to 
+#                   upgrade.  A simple way to derive this 32-bit integer value 
+#                   is to use the build date on the image file name and 
+#                   prepending it with "0x" (e.g. if the image_filename is 
+#                   ata18x-v2-15-ms-021115a, then the build date is 021115a
+#                   and image_id is 0x021115a)
+#
+#               image_filename  
+#                 - Firmware upgrade image file name.  The file name has the 
+#                   following syntax:
+#
+#                      ata18x-v{M}-{N}-ms-{yymmdd}{a-f}.{ext}
+#
+#                             M - Major version number 
+#                             N - Minor version number 
+#                                 (always expressed as 2 digits) 
+#                        yymmdd - 2 digit year, 2 digit month, 2 digit day 
+#                           a-f - Build letter:  a, b, c, d, e or f
+#                           ext - File extension name ".zup" or ".kxz"
+#                                 NOTE:  The file extension MUST be ".kxz" to
+#                                        upgrade from version 2.11 and below,
+#                                        and can be ".zup" for upgrading from
+#                                        version 2.12 and up for the ATA186, 
+#                                        but it MUST be ".zup" for upgrading
+#                                        an ATA188.
+#        
+#               language_filename
+#                 - Language upgrade image file name.  The file name has the 
+#                   following syntax:
+#
+#                      ata18x-v{M}-{N}-ms-{yymmdd}{a-f}-elang.kup
+#
+#
+# Example for Upgrading Software
+# ------------------------------
+# upgradecode:3,0x301,0x0400,0x0200,192.168.2.170,69,0x020514a,ata186-v2-14-ms-020514a.zup
+#
+#        NOTE:  The default values listed below will not trigger any upgrade.
+
+upgradecode:0,0x301,0x0400,0x0200,0.0.0.0,69,0,none
+
+# ===================== Network Configuration Parameters ======================
+
+# -----------------------------------------------------------------------------
+#   Parameter:  Dhcp  
+#    IVR Code:  20
+#  Value Type:  Boolean
+#
+# Description:  Enable or disable use of DHCP server for network settings
+#
+#     Options: *1 = Use DHCP to obtain IP, route, netmask, DNS, NTP, TFTP, etc.
+#               0 = Don't use DHCP, instead use hard coded parameter values for
+#                   IP, route, netmask, DNS, NTP, TFTP, etc.
+
+dhcp:1
+
+# -----------------------------------------------------------------------------
+#  Parameters:  staticIp
+#               staticRoute 
+#               staticSubNetMask
+#
+# Access Code:   1   StaticIp
+#                2   StaticRoute
+#               10   StaticNetMask
+#
+#  Value Type:  IP address
+#
+# Description:  If Dhcp parameter is set to 0, use these parameters to
+#               assign a static IP address, route IP address, and subnet mask
+#
+
+StaticIp:0
+StaticRoute:0
+StaticNetMask:0
+
+# -----------------------------------------------------------------------------
+#  Parameters:  DNS1IP
+#               DNS2IP
+#
+# Access Code:  916   DNS1IP   (Primary DNS Server)
+#               917   DNS2IP   (Secondary DNS Server)
+#
+#  Value Type:  IP address
+#
+# Description:  Primary and secondary DNS server IP addresses
+#
+#               If the DHCP server does not provide them or "Dhcp" parameter 
+#               is set to 0, you must provide at least the primary DNS server
+#               IP address; otherwise, domain names cannot be resolved.
+
+DNS1IP:0.0.0.0
+DNS2IP:0.0.0.0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  VLANSetting
+# Access Code:  324
+#  Value Type:  Bitmap
+#
+# Description:  Control various VLAN settings
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                0-2   Specify CoS bit value (802.1P priority) for Signaling 
+#                      IP packets
+#                3-5   Specify CoS bit value (802.1P priority) for Voice 
+#                      IP packets
+#                6-17  RESERVED
+#               18-29  Specify static 802.1Q VLAN ID
+#               30-31  RESERVED
+
+VLANSetting:0x0000002b
+
+# -----------------------------------------------------------------------------
+#   Parameter:  CA0OrCM0 (old, change to CallManager0)
+#               CA1orCM1 (old, change to CallManager1)
+#
+# Access code:  5   CA0OrCM0   (Primary Call Manager)
+#               6   CA1OrCM1   (Secondary Call Manager)
+#
+#  Value Type:  Alphanumeric string (31 characters maximum)
+#
+# Description:  Primary and secondary CallManager IP addresses or URLs.
+#
+#               The parameter value can be an IP address with or without a port
+#               parameter such as 123.123.110.45 or 123.123.110.45:2728, and it
+#               can also be a URL such as cs.cisco.com:2727. 
+#
+#
+#      Syntax:  <IP_address | URL>[:<Port>]
+
+CA0orCM0:0
+CA1orCM1:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  CA0UID (Not used for SCCP)
+#               CA1UID
+#
+# Access Code:   3  CA0UID  (Primary Call Agent ID String)
+#               13  CA1UID  (Secondary Call Agent ID String)
+#
+#  Value Type:  Alphanumeric string (31 characters maximum) 
+#
+# Description:  Primary and secondary Call Agent User ID strings
+
+CA0UID:0
+CA1UID:0
+
+# -----------------------------------------------------------------------------
+#  Parameters:  EPID0orSID0
+#               EPID1orSID1
+#
+# Access Code:  46   EPID0orSID0  (Line 1 ID)
+#               47   EPID1orSID1  (Line 2 ID)
+#
+#  Value Type:  Alphanumeric string  (51 characters maximum) 
+#
+# Description:  Enable/Disable Line 1 and 2 FXS ports and CallManager 
+#               registrations 
+#               0 - FXS port is disabled and no CallManager registration will
+#                   be attempted
+#              *. - FXS port is enabled and CallManager registration will be 
+#                   attempted
+#
+
+EPID0orSID0:.
+EPID1orSID1:.
+
+# -----------------------------------------------------------------------------
+#   Parameter:  PrfCodec (Not used for SCCP)
+# Access Code:  36
+#  Value Type:  Integer  (0 - 3)
+# Description:  Preferred audio codec.
+#
+#               The ATA's preferred codec is used only in the case when the
+#               Call Agent does not provide a list of preferred codecs in the
+#               Local Connection Options 'a' parameter and the remote party
+#               does not include a codec preference in its SDP.
+#
+#     Options:  0 = G.723.1 (can be selected only if LBRCodec is set to 0)
+#               1 = G.711a
+#               2 = G.711u
+#              *3 = G.729a (can be selected only if LBRCodec is set to 3)
+
+PrfCodec:1
+
+# -----------------------------------------------------------------------------
+#   Parameter:  LBRCodec
+# Access Code:  300
+#  Value Type:  Integer  (0 or 3)
+# Description:  Low bit rate codec that can be used during codec negotiation.
+#
+#     Options:  0 = Select g723.1 as the low bit rate codec
+#               3 = Select g729 as the low bit rate codec
+#
+
+LBRCodec:3
+
+# -----------------------------------------------------------------------------
+#   Parameter:  MediaPort
+# Access Code:  202
+#  Value Type:  Integer  (1 - 65535)
+# Description:  Base port for receiving RTP media.
+#        Note:  A value of 0 sets the default port to 16384.
+
+MediaPort:16384
+
+# -----------------------------------------------------------------------------
+#   Parameter:  Domain
+# Access Code:  931
+#  Value Type:  Alphanumeric string  (31 characters maximum)
+#
+# Description:  Specifies the domain name used for DNS search if the supplied
+#               CallManager URL or TftpURL does not contain a fully qualified
+#               domain name. For example, if cml is specified in CA0orCM0 (or
+#               by tftp configuration profile) as the CallManager URL, and 
+#               cisco.com is specified in Domain, then cml@cisco.com will be
+#               used for the DNS search
+#         
+
+Domain:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  PortsSetting
+# Access Code:  73876787
+#  Value Type:  Integer
+#
+# Description:  For setting switch ports
+#               Use this parameter to set up Uplink and PC-port speed and duplex
+#               Bit0 - bit 3 : PC-port
+#               Bit4 - bit 7 : Uplink port
+#
+#     Options:  Value  Description
+#               -----  --------------------------------------------------------
+#                 0    10M, HALF duplex
+#                 1    10M, FULL duplex
+#                 2    100M, HALF duplex
+#                 3    100M, FULL duplex
+#                 4    AUTO detect
+#
+#              others  invalid
+#
+#     Note: 1. If PC-port value is set to higher speed and duplex than that of 
+#           Uplink port, software will automatically set it to the maximum 
+#           speed and duplex allowed by the Uplink port.
+#           2. This parameter is only valid on ATA Halmahera. Switch ports can
+#           NOT be set on earlier version of ATA 188.
+#
+
+PortsSetting:0x00000044
+
+# -----------------------------------------------------------------------------
+#   Parameter:  L2KeepAlive 
+# Access Code:  52525483
+#  Value Type:  Integer
+#
+# Description:  For setting the interval of layer 2 keep alive packet.
+#               Default is 0, which means no layer 2 keep alive packets are
+#               sent. Set this parameter to non-zero value only if
+#               the switch port ATA is connected to require some traffic
+#               generated from ATA to keep the port open (you do not
+#               normally need this feature). The value represent time
+#               in second and valid value are in the range of 0 to
+#               21474836 (behaviour of value outside the range is undefined).
+
+L2KeepAlive:0
+
+# ======================= Audio Configuration Parameters ======================
+
+# -----------------------------------------------------------------------------
+#   Parameter:  AudioMode
+# Access Code:  312
+#  Value Type:  Bitmap 
+#
+# Description:  Control or fine-tune certain audio features.
+#  
+#        Note:  Lower 16-bit controls line 1 and upper 16-bit controls line 2 
+# 
+#     Options:     Lines 
+#                 1      2    
+#               Bits   Bits   Values
+#               -----  -----  -------------------------------------------------
+#                 0     16    G.711 Silence Suppression  (Not used for SCCP)
+#                               0 = Disable   
+#                              *1 = Enable
+#
+#                 1     17    Codec Availability For All Calls
+#                              *0 = G.711 and selected low bit rate codec
+#                               1 = G.711 only
+#
+#                 2     18    FAX CED Tone Detection
+#                               0 = Disable
+#                              *1 = Enable 
+# 
+#                 3     19    RESERVED 
+#
+#                4-5   20-21  DTMF Transmission Method (Not used for SCCP)
+#                               0 = Always in-band 
+#                               1 = By negotiation  
+#                               2 = Always out-of-band
+#                              *3 = Disabled.  No DTMF is sent.
+# 
+#                6-15  22-31  RESERVED
+
+AudioMode:0x00350035
+
+# -----------------------------------------------------------------------------
+#   Parameter:  NumTxFrames (Not used for SCCP)
+# Access Code:  35
+#  Value Type:  Integer  (1 - 6)
+#
+# Description:  Transmit frames per packet.  
+#
+#               The frame size for each G.711 and G.729 data packet is 10 ms.
+#               The frame size for each G.723 data packet is 30 ms.
+#
+#    Examples:  To obtain 60 ms of G.723 audio, set the value to 2 (=60/30).
+#               To obtain 120 ms of G.723 audio, set the value to 4 (=120/30).
+#               To obtain 20 ms of G.711 audio, set the value to 2 (=20/10).
+#
+#        Note:  Cisco recommends using the default value of 2.
+
+NumTxFrames:2
+
+# ========================= OPERATIONAL PARAMETERS ============================
+
+# -----------------------------------------------------------------------------
+#   Parameter:  CallerIdMethod
+# Access Code:  316 
+#  Value Type:  Bitmap 
+#
+# Description:  Setup Caller ID signaling method and transmission format.
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                0-1   Caller ID (CID) Signaling Standard
+#                       *0 = Bellcore 
+#                        1 = DTMF
+#                        2 = ETSI
+#                        3 = RESERVED
+#
+#              ----------------------------------------------------------------
+#                      (0) Bellcore CID Signaling Bit Definitions 
+#              ---------------------------------------------------------------- 
+#
+#                 2    RESERVED
+#
+#                3-8   Maximum number of digits in a phone number   
+#                        Range:  1-20   Default: 12
+#
+#                9-14  Maximum number of characters in a name
+#                        Range:  1-20   Default: 15
+#
+#                 15   Send 'O' (out of area) to CID device if number is unknown
+#                        0 = Disable
+#                       *1 = Enable
+#
+#                 16   Send 'P' (private) to CID device if number is restricted
+#                        0 = Disable
+#                       *1 = Enable
+#
+#               17-27  RESERVED
+# 
+#                 28   No Call Waiting Caller ID on line 0
+#                 29   No Call Waiting Caller ID on line 1
+#
+#              ----------------------------------------------------------------
+#                      (1) DTMF CID Signaling Bit Definitions
+#              ----------------------------------------------------------------
+#
+#                 2    RESERVED
+#
+#                3-6   Start digit for known numbers
+#                        12 = 'A'     14 = 'C'   
+#                        13 = 'B'     15 = 'D'
+#
+#                7-10  End digit for known numbers
+#                        11 = '#'     14 = 'C'
+#                        12 = 'A'     15 = 'D'
+#                        13 = 'B'
+# 
+#                 11   Polarity reversal before and after CID signal
+#                        0 = Disable
+#                        1 = Enable
+#
+#               12-16  Maximum number of digits in a phone number
+#                        Range:  1-32   Default:  15
+#
+#               17-19  Start digit for unknown/restricted numbers
+#                        4 = 'A'     6 = 'C'
+#                        5 = 'B'     7 = 'D'
+#
+#               20-22  End digit for unknown/restricted numbers
+#                        3 = '#'     6 = 'C' 
+#                        4 = 'A'     7 = 'D'
+#                        5 = 'B'
+#
+#               23-24  Code to send to CID device if number is unknown
+#                        0 = '00' 
+#                        1 = '0000000000'
+#                        2 = '3'
+#                        3 = RESERVED.  Do not use!
+#
+#               25-26  Code to send to CID device if number is restricted
+#                        0 = '10'
+#                        1 = '1'
+#                        2 = RESERVED.  Do not use!
+#                        3 = RESERVED.  Do not use!
+#
+#                 27   RESERVED
+#
+#                 28   No Call Waiting Caller ID on line 0
+#                 29   No Call Waiting Caller ID on line 1
+#
+#               30-31  DTMF VMWI interface
+#                        0 = disable
+#                        1 = TeleDanmark MWI, TDK-TS 900 301-5
+#                        2-3 = RESERVED
+#
+#              ----------------------------------------------------------------
+#                      (2) ETSI CID Signaling Bit Definitions 
+#              ---------------------------------------------------------------- 
+#
+#                 2    0 = data transmission prior ringing using RP-AS
+#                          (Ring Pulse Alerting Signal)
+#                      1 = data transmission after 1st ring
+#
+#                3-8   Maximum number of digits in a phone number   
+#                        Range:  1-20   Default: 12
+#
+#                9-14  Maximum number of characters in a name
+#                        Range:  1-20   Default: 15
+#
+#                 15   Send 'O' (out of area) to CID device if number is
+#                      unknown
+#                        0 = Disable
+#                       *1 = Enable
+#
+#                 16   Send 'P' (private) to CID device if number is restricted
+#                        0 = Disable
+#                       *1 = Enable
+#
+#               17-27  RESERVED
+#
+#               ---------------------------------------------------------------
+#
+#                 28   No Call Waiting Caller ID on line 0
+#                 29   No Call Waiting Caller ID on line 1
+#
+#        Note:  Cisco recommends the following settings:
+#
+#                     USA = 0x00019e60
+#                  Sweden = 0x0000ff61 or 0x006aff61
+#                 Denmark = 0x0000fde1 or 0x033efde1
+#                           0x4000fde1 or 0x433efde1 (VMWI enabled) 
+#                 Germany = 0x00019e62
+#                 Austria = 0x00019e66
+#
+CallerIdMethod:0x00019e60
+
+# -----------------------------------------------------------------------------
+#   Parameter:  Polarity
+# Access Code:  304
+#  Value Type:  Bitmap 
+#
+# Description:  Control the FXS ports connect and disconnect polarity
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                 0    CALLER_CONNECT_POLARITY
+#                        Polarity to use when ATA is the caller and the call
+#                        is connected.
+#
+#                         *0 = Use forward polarity
+#                          1 = Use reverse polarity 
+#
+#                 1    CALLER_DISCONNECT_POLARITY
+#                        Polarity to use when ATA is the caller and the call 
+#                        is disconnected.
+#
+#                         *0 = Use forward polarity 
+#                          1 = Use reverse polarity 
+#
+#                 2    CALLEE_CONNECT_POLARITY
+#                        Polarity to use when ATA is the callee and the call
+#                        is connected.
+#
+#                         *0 = Use forward polarity
+#                          1 = Use reverse polarity 
+#
+#                 3    CALLEE_DISCONNECT_POLARITY
+#                        Polarity to use when ATA is the callee and the call
+#                        is disconnected.
+#
+#                         *0 = Use forward polarity
+#                          1 = Use reverse polarity
+#
+#                4-31  RESERVED
+#
+
+Polarity:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  FXSInputLevel 
+# Access Code:  370 
+#  Value Type:  Integer   (-9 - 2)
+#
+# Description:  Input level (A/D) level control of the FXS ports 
+
+FXSInputLevel:-1
+
+
+# -----------------------------------------------------------------------------
+#   Parameter:  FXSOutputLevel 
+# Access Code:  371 
+#  Value Type:  Integer   (-9 - 2)
+#
+# Description:  Output level (D/A) level control of the FXS ports 
+
+FXSOutputLevel:-4
+
+# -----------------------------------------------------------------------------
+#   Parameter:  ConnectMode
+# Access Code:  311
+#  Value Type:  Bitmap
+#
+# Description:  SCCP Connection mode related parameters
+#
+#        Note:  Bits 2 and 8-15 are for FAX passthrough configuration
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                 0   Call progress tones configuration method 
+#                      *0 = Use CallManager Network Locale Feature
+# 		            (for 3.3(3) CallManager using Locale Installer)
+#                       1 = Use ATA Tone parameters 
+# 
+#                 1   RESERVED
+#                 2    G.711 Payload Type Number To Use In Fax Passthrough Mode 
+#                       *0 = Use 126 for G.711U and 127 for G.711A
+#                        1 = Use 0 for G.711U and 8 for G.711A
+#
+#                3-6   RESERVED
+#
+#                 7    Fax Passthrough Redundancy
+#                       *0 = Disable
+#                        1 = Enable
+#
+#                8-12  NSE Payload Type Number - The value is the offset to  
+#                      payload type 96 (valid range 0-23)
+#                      Default: 4  (= NSE Payload Type 100)
+#
+#                 13   FAX Passthrough Codec
+#                       *0 = G.711U
+#                        1 = G.711A
+#
+#                14-15 FAX Passthrough Mode
+#                      *0 = Enable
+#                       1 = Disable
+# 		        Others = RESERVED
+#
+#                16-20 RESERVED 
+#
+#                 21   G.729 Line Allocation
+#                       *0 = Enable G.729 on line 0
+#                        1 = Enable G.729 on line 1
+#
+#                22-24 RESERVED
+# 
+#                 25   *0 = use * as the first digit for the pre-call service
+#                           access code
+#                       1 = use # as the first digit for the pre-call service
+#                           access code
+#
+#       bits 26-31 reserved for SCCP configuration
+#                26:  Disable Resume softkey
+#                    *0 to enable Auto Resume Softkey in call waiting state.
+#                     1 to disable Auto Resume Softkey in call waiting state for TAPI & soft phone, see detail in CSCdy43324 & CSCea73129
+#
+#                27:  Registration mode  
+#                    *0 to diable ATA to register as 7960.
+#                     1 to enable ATA to register as 7960. (available in 2.16ms)
+#
+#                28-29 SCCP Mid-call Service Style
+#                       *0 - ATA Mid-call Style 
+#                        1 - Bellcore Mid-call Style
+#                        2 - VG248 Mid-call Style
+#
+#                 30   Cisco IOS Telephony Solution (ITS) Support  
+#			*0 - Disable ITS support (CallManager support) 
+#                        1 - Enable ITS support
+#
+#                 31   XML configuration profile support
+#                        0 - Disable XML configuration profile support (should
+#                            be used for CallManager version 3.0)
+#                       *1 - Enable XML configuration profile support (should 
+#                            be used for CallManager version 3.1 or later)
+#
+#               Defaults are marked with *.
+
+ConnectMode:0x90000400
+
+# -----------------------------------------------------------------------------
+#   Parameter:  SigTimer
+# Access Code:  318
+#  Value Type:  Bitmap
+#
+# Description:  Timeout values to start/stop the certain signaling events
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                0-7   CALL WAITING PERIOD (Not used for SCCP)
+#                      Period between each burst of call waiting tone
+#
+#                        Range: 0 - 255 
+#                       Factor: 0.1 second increment  
+#                         Note: 0 defaults to 100 (or 10 sec)
+#                      Default: 100 (0x64 = 10 sec)
+#
+#               8-21   RESERVED
+#               
+#               22-25  REORDER DELAY/PSTN-LIKE BEHAVIOR: (SCCP ONLY)
+#                      In a PSTN-like environment, when far-end disconnects 
+#                      first, there is always a period of silence heard
+#                      on the line before the reorder (fast busy) tone is
+#                      played.  The same reorder delay can be duplicated 
+#                      on the ATA by configuring these bits in the SigTimer 
+#                      field according to the guildine specified here:
+#
+#                      Valid Range: 0 - 15
+#
+#                      Value(s): 0       = wait 4 sec before playing reorder
+#                                1 - 14  = wait exactly n number of seconds 
+#                                          before starting reorder tone 
+#                                          (e.g. value of 2 means wait 2 sec)
+#                                15      = never play reorder 
+#
+#                      Default:  0  (wait 4 sec before playing reorder)
+# 
+#               26-27  MINIMUM FLASH-HOOK TIME
+#                      Minimum on-hook time required for flash-hook event
+#                      
+#                        *0 =  60 ms     2 = 200 ms
+#                         1 = 100 ms     3 = 300 ms
+#
+#               28-31  MAXIMUM FLASH-HOOK TIME
+#                      Maximum on-hook time allowed for flash-hook event
+#
+#                        *0 = 1000 ms    8 =  800 ms
+#                         1 = 100 ms     9 =  900 ms
+#                         2 = 200 ms    10 = 1000 ms
+#                         3 = 300 ms    11 = 1100 ms
+#                         4 = 400 ms    12 = 1200 ms
+#                         5 = 500 ms    13 = 1300 ms
+#                         6 = 600 ms    14 = 1400 ms
+#                         7 = 700 ms    15 = 1500 ms
+
+SigTimer:0x00000064
+
+# -----------------------------------------------------------------------------
+#   Parameter:  OpFlags
+# Access code:  323
+#  Value Type:  Bitmap 
+#
+# Description:  Turn ON/OFF various operational features 
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                 0    TFTP Configuration Filename 
+#                       *0 = Use DHCP provided TFTP filename, if available; 
+#                            otherwise, use the internal default TFTP 
+#                            configuration filename 
+#                        1 = Always use the internal default TFTP 
+#                            configuration filename
+#
+#                 1    Network Probing on Power Up
+#                        0 = Probe the static network router when power up
+#                       *1 = Do not perform static network router probing at 
+#                            power up
+#
+#                 2    RESERVED
+#
+#                 3    DHCP Option 150
+#                       *0 = Ask for DHCP option 150 in DHCP DISCOVERY message
+#                        1 = Do not ask for DHCP option 150 in DHCP DISCOVERY
+#                            message (some DHCP server will not respond if 
+#                            option 150 is requested)
+#
+#                 4    VLAN Network Operation 
+#                       *0 = Do not use the static VLAN ID 
+#                        1 = Use the static VLAN ID specified in VLANSetting,
+#                            (see VLANSetting parameter)
+# 
+#                 5    VLAN Encapsulation 
+#                       *0 = Use VLAN IP encapsulation
+#                        1 = Do not use VLAN IP encapsulation, i.e. force 
+#                            turning OFF VLAN tagging 
+#
+#                 6    Cisco Discovery Protocol (CDP)
+#                       *0 = Use CDP discovery
+#                        1 = Do not perform CDP discovery
+#
+#                 7    Web Configuration Access  (as of 2.14.020514)
+#                       *0 = Allow web configuration
+#                        1 = Do not allow web configuration
+#                     
+#                 8    TFTP Refresh Access  (Not used for SCCP)
+#                       *0 = Allow force profile update via http://ip/refresh 
+#                        1 = Do not allow http://ip/refresh
+#
+#                 9    Remote Reset Access  (Not used for SCCP)
+#                       *0 = Allow reset of ATA via http://ip/reset
+#                        1 = Do not allow reset of ATA via http://ip/reset
+#
+#                10    HOSTNAME of Device
+#                       *0 = Request device's HOSTNAME from DHCP server
+#                        1 = In device's DHCP packets, use device's name
+#                            as device's HOSTNAME (DHCP option 12)
+#
+#                11    RESERVED 
+#
+#                12    RESERVED
+#
+#                13    DNS Servers For Name Resolution
+#                       *0 = Use statically configured DNS servers, if 
+#                            available; otherwise, use DHCP provided DNS IPs 
+#                        1 = Use both statically configured (DNS1IP & DNS2IP)
+#                            and DHCP provided DNS IPs (up to 2) 
+#                            (This configuration bit gives precedence
+#                            to DHCP provided DNS IPs over statically
+#                            provided DNS IPs).
+#                      (Not available in version prior to 2.16)
+#
+#                14    DNS Servers For Name Resolution 2
+#                       *0 = Use statically configured DNS IPs (DNS1IP &
+#                            DNS2IP), if available; otherwise, use DHCP 
+#                            provided DNS IPs 
+#                        1 = Use both statically configured (DNS1IP & DNS2IP)
+#                            and DHCP provided DNS IPs (up to 2).
+#                            (This configuration bit gives precedence
+#                            to statically provided DNS IPs over DHCP
+#                            provided DNS IPs. When set, it also overwrites
+#                            configuration bit 13 in OpFlags parameter).
+#                      (Not available in version prior to 2.16)
+#
+#                15    Disable UDP checksum generation
+#                      (Not availabe in version prior to 2.16.2 031006)
+#                       *0 = generate UDP checksum in outgoing UDP packets.
+#                        1 = disable generation of of UDP checksum in
+#                            outgoing UDP packets.
+#
+#
+#               16-27  RESERVED
+#
+#               28-31  If set to 6, FactReset (322873738#) 
+#                      and Local Upgrade (100#) options will be protected
+#                      by UIPassword also.
+
+OpFlags:0x00000002
+
+# -----------------------------------------------------------------------------
+#   Parameter:  TOS
+# Access Code:  255
+#  Value Type:  Bitmap 
+#
+# Description:  ToS (Type of Service) bits.  This bitmap value specifies the
+#               precedence and delay of Audio and Signaling IP packets.
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                0-7   ToS Value For Voice Data Packets  
+#                        Range:  0-255   Default: 184
+#
+#                8-15  ToS Value For Signaling Data Packets
+#                        Range:  0-255   Default: 96
+#
+#               16-31  RESERVED
+
+TOS:0x000060B8
+
+# ======================== Tone Configuration Parameters ======================
+# -----------------------------------------------------------------------------
+#  Parameters:  DialTone
+#               DialTone2
+#               BusyTone
+#               ReorderTone
+#               RingBackTone
+#               CallWaitTone
+#               AlertTone
+#
+# Access Code:  920   DialTone
+#               927   DialTone2
+#               921   BusyTone
+#               922   ReorderTone
+#               923   RingBackTone
+#               924   CallWaitTone
+#               925   AlertTone
+#
+#  Note: When using ATA with CallManager 3.3(3) that has installed ATA
+#        Network Locale option using locale installer, one should specify 
+#        the call progress tones using the Network Locale option on the 
+#        CallManager configuration page. Only if the desired locale does 
+#        not exist, then one should use the ATA tone parameters for 
+#        configurating call progess tones. To do so, ConnectMode Bit 0 has 
+#        to be set to 1 to disable CallManager network locale setting. 
+#        Otherwise, CallManager default configuration (US tone) will 
+#        overwrite the ATA tone setting.
+#
+#  Value Type:  
+#     Tones can be specified using either Basic Format or Extended Format
+#
+#     Basic Format: 
+#       For all tones:
+#       Array of 9 comma-separated short integers 
+#
+#     Extended Format: 
+#       (a) For DialTone, DialTone2, BusyTone, RingbackTone, CallWaitTone, 
+#           AlertTone:
+#           Array of 11 comma-separated short integers  
+#       (b) For ReorderTone:
+#           Array of 17 comma-separated short integers
+#
+#     NOTE: Basic Format has the same physical number of fields as the
+#       extended format, so it is recommended that when specifying in
+#       basic format, the unused extended fields are padded with Zeroes
+#       (not doing so will not have any detrimental effect but just
+#       those unused extended fields may be displayed as random value
+#       in the web page interface).
+#
+# Description:  Call progress tone specifications
+#
+#     Basic Format:  
+#        NumOfFreqs,Tfreq1,Tfreq2,Tamp1,Tamp2,Steady,OnTime,OffTime,
+#        TotalToneTime
+#
+#
+#     Options:  NumOfFreqs: number of frequencies in the tone (1 or 2)
+# 
+#               Tfreq1, Tfreq2: the transformed frequencies of the first and 
+#                second frequencies, respectively. Calculated as follows, where 
+#                F is the desired frequency in Hz:
+#
+#                32767 * cos(2*pi*F/8000)
+#      
+#               Tamp1, Tamp2: the transformed amplitude of the first and second #                frequencies, respectively. Calculated as follows, where F is 
+#                desired frequency in Hz, k is the desired volume in dBm, n
+#                is the number of frequencies:
+#   
+#                32767 * A * sin(2*pi*F/8000)   
+#                A = 0.5 * 10^((k+10-(n-1)*3)/20)
+#               
+#               
+#               Steady: 0, if a tone with on-off cadence.
+#                       1, if a steady tone.   
+#                          
+#               OnTime: the length of time the sound is played
+#               OffTime: the length of time the silence is played 
+#                OnTime and OffTime are specified as number of samples with
+#                the sampling rate of 8kHz, valid range 1-0xffff
+#                For examples, for a lenght of 0.3 seconds, set a value to 2400
+#                  
+#               TotalToneTime: the total length of time the tone plays. If 
+#                this value is 0, the tone will play until another event stops
+#                the tone. For DialTone, DialTone2, BusyTone, ReorderTone, and 
+#                RingbackTone, the unit is 10 ms (specifying 100 = 1 second). 
+#                For others, the unit is sample with 8 kHz sampling rate 
+#                (specifying 8000 = 1 second).  
+#
+#
+#   Extended Format:
+#     a) NumOfFreqs,Tfreq1,Tamp1,Tfreq2,Tamp2,NumOfOnOffPairs,OnTime1,OffTime1,
+#        OnTime2,OffTime2,TotalToneTime
+#
+#     Options:  NumOfFreqs: 100 + number of frequencies in the tone (specify
+#                101 for one frequency, 102 for two frequencies)
+#
+#               Tfreq1, Tfreq2: the transformed frequencies of the first and 
+#                second frequencies, respectively. Calculated as follows, where 
+#                F is the desired frequency in Hz:
+#
+#                32767 * cos(2*pi*F/8000)
+#      
+#               Tamp1, Tamp2: the transformed amplitude of the first and second #                frequencies, respectively. Calculated as follows, where F is 
+#                desired frequency in Hz, k is the desired volume in dBm, n
+#                is the number of frequencies:
+#   
+#                32767 * A * sin(2*pi*F/8000)   
+#                A = 0.5 * 10^((k+10-(n-1)*3)/20)
+#               
+#               
+#               NumOfOnOffPairs: the number of on-off pairs in the cadence of 
+#                the tone (0, 1, or 2). For a steady tone, use 0.  
+#                          
+#               OnTime1, OnTime2: the length of time the sound is played for 
+#                the first and second on-off pairs of a cadence, respectively.
+# 
+#               OffTime1, OffTime2: the length of time the silence is played 
+#                for the first and second on-off pairs of a cadence, 
+#                respectively
+# 
+#                OnTime1, OnTime2, Offtime1, and OffTime2 are specified as 
+#                number of samples with the sampling rate of 8kHz, valid 
+#                range 1-0xffff
+#                For examples, for a lenght of 300 ms, set a value to 2400
+#                  
+#               TotalToneTime: the total length of time the tone plays. If 
+#                this value is 0, the tone will play until another event stops
+#                the tone. For DialTone, DialTone2, BusyTone, ReorderTone, and 
+#                RingbackTone, the unit is 10 ms (specifying 100 = 1 second). 
+#                For others, the unit is sample with 8 kHz sampling rate 
+#                (specifying 8000 = 1 second).  
+#
+#
+#     b) Sequential,NumOfFreqs,Tfreq1,Tamp1,Tfreq2,Tamp2,Tfreq3,Tamp3,
+#         NumOfOnOffPairs,OnTime1,OffTime1,OnTime2,OffTime2,OnTime2,OffTime3
+#         NumOfRepeat,TotalToneTime
+#
+#	
+#     Options:  Sequential: specifies whether multiple frequencies in a tone
+#                play simultaneously (100) or sequentially (101). Set to 100
+#                for a tone with one frequency. If Sequential is 101, 
+#                the number of frequencies (NumOfFreqs) has to be the same value
+#                as the number of on-off pairs in a cadence (NumOfOnOffPairs)
+# 
+#               NumOfFreqs: number of frequencies in the tone (1, 2, or 3)
+#
+#               Tfreq1, Tfreq2, Tfreq3: the transformed frequencies of the 
+#                first, second, and third frequencies, respectively. Calculated 
+#                as follows, where F is the desired frequency in Hz:
+#
+#                32767 * cos(2*pi*F/8000)
+#      
+#               Tamp1, Tamp2, Tamp3: the transformed amplitude of the first,
+#                second, and third frequencies, respectively. Calculated as 
+#                follows, where F is desired frequency in Hz, k is the desired 
+#                volume in dBm, n is the number of frequencies (If Sequential
+#                is set to 101, n is equal to 1):
+#   
+#                32767 * A * sin(2*pi*F/8000)   
+#                A = 0.5 * 10^((k+10-(n-1)*3)/20)
+#               
+#               
+#               NumOfOnOffPairs: the number of on-off pairs in the cadence of 
+#                the tone (0, 1, 2, 3). For a steady tone, use 0. 
+#                          
+#               OnTime1, OnTime2, OnTime3: the length of time the sound is 
+#                played for the first, second, and third on-off pairs of a 
+#                cadence, respectively.
+# 
+#               OffTime1, OffTime2, OffTime3: the length of time the silence 
+#                is played for the first, second and third on-off pairs of a 
+#                cadence, respectively.
+# 
+#                OnTime1, OnTime2, OnTime3, Offtime1, OffTime2, and OffTime3 
+#                are specified as number of samples with the sampling rate of
+#                8kHz, valid range 1-0xffff
+#                For examples, for a lenght of 300 ms, set a value to 2400
+#                
+#               NumOfRepeats: number of times that the first on-off pair of
+#                the cadence (specified by OnTime1, OffTime1) repeats before
+#                the second on-off pair (specified by OnTime2, OffTime2) plays
+#
+#                For example, if NumOfRepeats is 2, the first on-off pair will
+#                play three times (it will play once and then repeat two times)
+#                then the scond on-off pair will play
+#    
+#               TotalToneTime: the total length of time the tone plays. If 
+#                this value is 0, the tone will play until another event stops
+#                the tone. For DialTone, DialTone2, BusyTone, ReorderTone, and 
+#                RingbackTone the unit is 10 ms (specifying 100 = 1 second). 
+#                For others, the unit is sample with 8 kHz sampling rate 
+#                (specifying 8000 = 1 second).  
+#
+#
+
+DialTone:2,31538,30831,1380,1740,1,0,0,1000,0,0
+DialTone2:2,29780,30743,1252,1384,1,0,0,1000,0,0
+BusyTone:2,30467,28959,1191,1513,0,4000,4000,0,0,0
+ReorderTone:2,30467,28959,1191,1513,0,2000,2000,0,0,0,0,0,0,0,0,0
+RingBackTone:2,30831,30467,1943,2111,0,16000,32000,0,0,0
+CallWaitTone:1,30831,0,5493,0,0,2400,2400,4800,0,0
+AlertTone:1,30467,0,5970,0,0,480,480,1920,0,0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  RingCadence (Not used for SCCP)
+# Access Code:  929
+#  Value Type:  Array of three comma-separated, short integers 
+# Description:  Control phone ring characteristic.
+#
+#        Note:  Cisco recommends the following settings:
+#
+#                     USA = 2,4,25
+#                  Sweden = 1,5,25
+
+RingCadence:2,4,25
+
+# ============================ Diagnostic Parameters ==========================
+
+# -----------------------------------------------------------------------------
+#   Parameter:  NPrintf
+# Access Code:  81
+#  Value Type:  Extended IP 
+#
+# Description:  FOR DIANOSTIC USE.  Use this parameter to specify the IP 
+#               address and port number where the Cisco 7905 will send its
+#               debug output information.
+#
+#               The program "prserv.exe", which is included in all software
+#               upgrade package, is needed to capture the debug information.
+#               For example, to send message to the host at 192.168.2.170 and
+#               port number 9001, execute "prserv 9001" on a PC and specify 
+#               "192.168.2.170.9001" as the value of this parameter.
+#
+#      Syntax:  <HOST_IP>.<HOST_PORT>
+
+NPrintf:0
+
+# -----------------------------------------------------------------------------
+#   Parameter:  TraceFlags
+# Access Code:  313
+#  Value Type:  Bitmap 
+#
+# Description:  FOR DIAGNOSTIC USE.  Use this parameter to turn ON specific a
+#               specific trace.
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                0-6   RESERVED
+#                 7    0: simplified SCCP message log
+#                      1: detailed SCCP message log
+#                8-31  RESERVED
+
+TraceFlags:0x00000000
+
+# -----------------------------------------------------------------------------
+#   Parameter:  SyslogIP
+# Access Code:  7975640
+#  Value Type:  Extended IP 
+#
+# Description:  FOR DIANOSTIC USE.  Use this parameter to specify the IP 
+#               address and port number where the Cisco ATA 186/188 will send 
+#               its syslog output information.
+#
+#               The program "prserv.exe", which is included in all software
+#               upgrade package, is needed to capture the syslog information.
+#               For example, to send message to the host at 192.168.2.170 and
+#               port number 514, execute "prserv 514" on a PC and specify 
+#               "192.168.2.170.514" as the value of this parameter.
+#
+#      Syntax:  <HOST_IP>.<HOST_PORT>
+
+SyslogIP:0.0.0.0.514
+
+# -----------------------------------------------------------------------------
+#   Parameter:  SyslogCtrl
+# Access Code:  7975641
+#  Value Type:  Bitmap 
+#
+# Description:  FOR DIAGNOSTIC USE.  
+#               Use this parameter to turn ON specific syslog traces.  All 
+#               traces are sent to the syslog server specified in 'SyslogIP'.
+#               
+#
+#     Options:   Bit   Values
+#               -----  --------------------------------------------------------
+#                 0     ARP messages
+#                 1    DHCP messages
+#                 2    TFTP messages
+#                 3    ATA configuration update messages
+#                 4    system reboot messages
+#
+#                 9    ATA event messages
+#                10    FAX event messages
+#
+#                16    RTP STATISTICS messages
+#
+#              others  RESERVED
+
+SyslogCtrl:0x00000000
+

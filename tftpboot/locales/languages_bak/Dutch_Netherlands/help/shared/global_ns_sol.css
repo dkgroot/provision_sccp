@@ -1,0 +1,84 @@
+/* $Id: global_ns_sol.css,v 1.2 2001/09/22 02:09:52 khanhvn Exp $ */
+/* Global CSS by Joe NguyenLe 06.27.2000 */
+body {font-family: Arial, Helvetica, sans-serif; font-size: 17px; color: Black; } 
+a:link {color: #6666CC; text-decoration: none} 
+a:active {color: #000000} 
+a:visited {color: #993399; text-decoration: none} 
+a:hover {color: Red; text-decoration : underline;  } 
+
+td {font-family: Arial, Helvetica, sans-serif; font-size: 13pt; color: Black} 
+li {color: Black;} 
+ul {color: Black; list-style-type: square} 
+ol {color: Black}
+ 
+.mytext {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 15px; color: #666699} 
+a.mytext:link {color: #333333; text-decoration: none} 
+a.mytext:visited {color: #666666; text-decoration: none} 
+a.mytext:active {color: #333333; text-decoration: none} 
+a.mytext:hover {color: #999933; text-decoration: none}
+
+.toolBar {font-family: Arial, Helvetica, sans-serif; font-size: 12pt; color: #336666;}
+a.toolBar:link {color: #336666; text-decoration: none} 
+a.toolBar:visited {color: #336666; text-decoration: none} 
+a.toolBar:active {color: #336666; text-decoration: none} 
+a.toolBar:hover {color: Red; text-decoration: none}
+
+.indHeader {font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-weight : bold; color: Black} 
+.indEntry {font-family: Arial, Helvetica, sans-serif; font-size: 12pt; } 
+a.indEntry:hover {color: Red; text-decoration: none}
+
+.alpha {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #6666CC; font-weight : bold}
+a.alpha:hover {color: Red; text-decoration: none}
+.alpha2 {font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: black; font-weight : bold; text-decoration: none}
+
+	.menuItem {position:absolute; visibility:hidden; left:0px;}
+	.menuItem BR { clear: both; } 
+	.node { font-family: Arial, Helvetica, sans-serif;
+                font-size: 12pt; color: #6666CC;
+                text-decoration: none;
+                font-style: normal;
+                font-weight: normal
+              }
+	.node A:link { color: #6666CC; text-decoration: none; }
+	.node A:visited { color: #6666CC; text-decoration: none; }
+	.node A:active { color: #6666CC; text-decoration: none; }
+	.node A:hover { color: red; text-decoration: none; }
+	.leaf { font-family: Arial, Helvetica, sans-serif;
+                font-size: 12pt; color: #6666CC;
+                text-decoration: none;
+                font-style: normal;
+                font-weight: normal
+              }
+	.leaf A:link { color: #6666CC;; text-decoration: none; }
+	.leaf A:visited { color: #6666CC;; text-decoration: none; }
+	.leaf A:active { color: #6666CC; text-decoration: none; }
+	.leaf A:hover { color: red; text-decoration: none; }
+
+.areaBar {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14pt;
+	color: white;
+	font-weight : bold;
+	letter-spacing : 2px;
+}
+
+
+.copyright {font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 13px; color: #999999} 
+
+.BannerTitle {font-family: Times, sans-serif; font-size: 19pt; color: black;  font-weight : bold;  letter-spacing : 2px;  }
+
+.PageTitle {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 13pt; color: Black;  font-weight : bold;  letter-spacing : 2px;  }
+
+.PageSubTitle {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 13pt; color: Black;  font-weight : bold;  letter-spacing : 2px;  }
+
+.disTxt {color: #999999}
+
+.notice {font-family: Arial, Helvetica, sans-serif; font-size: 13pt; color: #999999; font-style: normal; clip:   rect(   ); text-indent: .15in} 
+
+.mode {font-family: Geneva, Arial, Helvetica, sans-serif; font-size: 12pt; color: White;  font-weight : bold;  letter-spacing : 1px;  }
+
+.btn {font-family: Arial, Helvetica, sans-serif; font-size: 13pt; color: #6666CC; font-weight : bold;} 
+a.btn:link {color: #6666CC; text-decoration: none} 
+a.btn:visited {color: #6666CC; text-decoration: none} 
+a.btn:active {color: #6666CC; text-decoration: none} 
+a.btn:hover {color: red; text-decoration : underline;}

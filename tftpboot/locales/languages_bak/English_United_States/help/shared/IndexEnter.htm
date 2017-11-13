@@ -1,0 +1,314 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Frameset//EN" "http://www.w3.org/TR/html4/frameset.dtd">
+<!-- saved from url=(0014)about:internet -->
+<html>
+
+<head>
+<title>Untitled Document</title>
+<link href="help.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language="JavaScript"><!--
+
+function getKeyPress(e)
+{
+  //IE
+  if (window.event){
+    //enter key -- open ind url into main frame
+    if(window.event.keyCode == 13){
+      return false;
+    }
+  //NN - Mozilla
+  } else if (e){
+    //enter key -- open ind url into main frame
+    if(e.which == 13) {
+      return false;
+    }
+  }
+  else
+    return false;
+}
+
+function docGetKeyDown(e)
+{
+  //IE 
+  if (window.event){
+    //backspace
+    if(window.event.keyCode == 8 && window.event.type != "text"){
+      document.indexForm.indexLookup.focus();
+    }
+    //enter
+    if(window.event.keyCode == 13){
+      if(curIndIndex >=0)
+        openIndUrl();
+      return false;
+    }
+    //down arrow key
+    if(window.event.keyCode == 40){//down arrow
+      setIndexEntry(curIndIndex+1,true);
+      return false;
+    }
+    //up arrow key
+    if(window.event.keyCode == 38)//up arrow
+      if(curIndIndex > 0){
+        setIndexEntry(curIndIndex-1);
+        return false;
+    }
+  }
+  //NN - Mozilla
+  else if(e) {
+    //backspace
+    if(e.which == 8){
+      document.indexForm.indexLookup.focus();
+    }
+    //enter
+    if(e.which == 13){
+      if(curIndIndex >=0)
+        openIndUrl();
+      return false;
+    }   
+    //down arrow key
+    if(e.which == 40){
+      setIndexEntry(curIndIndex+1,true);
+      return false;
+    }
+    //up arrow key
+    if(e.which == 38){
+      if(curIndIndex > 0)
+        setIndexEntry(curIndIndex-1);
+      return false;
+    } 
+  }
+}
+
+function getKeyUp(e)
+{
+  var myChar;
+  //IE 
+  if (window.event){
+    myChar =  String.fromCharCode(window.event.keyCode);
+    //backspace
+    if(window.event.keyCode == 8 && window.event.type != "text"){
+      window.event.cancelBubble = true;
+      if(document.indexForm.indexLookup.value.length==0){
+        clearPrevInd();
+        return true;
+      }
+      setSearchIndEntry(searchIndArray(document.indexForm.indexLookup.value));
+      return true;
+    }
+    if(window.event.keyCode == 13){
+      if(curIndIndex >=0)
+        openIndUrl();
+      return false;
+    }
+    //down arrow key
+    if(window.event.keyCode == 40){
+      return false;
+    }
+    //up arrow key
+    if(window.event.keyCode == 38){
+      return false;
+    }
+  }
+  //NN - Mozilla
+  else if(e) {
+    myChar = String.fromCharCode(e.which);
+    //backspace
+    if(e.which == 8) {
+      //no more characters
+      if(document.indexForm.indexLookup.value.length==0){
+        clearPrevInd();
+        return true;
+      }
+      setSearchIndEntry(searchIndArray(document.indexForm.indexLookup.value));
+      return true;
+    }  
+    if(e.which == 13) {
+      if(curIndIndex >=0)
+        openIndUrl();
+      return false;
+    }
+    //down arrow key
+    if(e.which == 40){
+      return false;
+    }
+    //up arrow key
+    if(e.which == 38) {
+      return false;
+    }
+  }
+  if(document.indexForm.indexLookup.value=='')
+    clearPrevInd();
+  else{//alert(searchIndArray(document.indexForm.indexLookup.value));
+    setSearchIndEntry(searchIndArray(document.indexForm.indexLookup.value));}
+}
+
+
+document.onkeydown = docGetKeyDown;
+
+var curIndIndex = -1;
+//var Sa = new Array();  //search array - removed, work is now done in WW.
+
+function openIndUrl()
+{
+  var td = parent.indexList.document.getElementById(curIndIndex);
+  if(td.href){
+ window.open(td,'basefrm');
+//    var str = td.innerHTML.toLowerCase();
+//    if(str.indexOf('href=') > -1)
+//    {
+//      i = str.indexOf('href="');
+//      url = str.substring(i+6,str.indexOf('"',i+7));      
+//      window.open(url,'basefrm');
+    }
+    else alert(top.indexPopup);
+  //}
+}
+
+function searchIndArray(searchTerm)
+{
+  var lcSearchTerm = searchTerm.toLowerCase();
+  var lcArray = '';
+
+  for(k=0;k<top.Sa.length;k++)
+  {
+    lcArray = top.Sa[k].text.toLowerCase();
+//alert('st='+lcSearchTerm+'\nlc='+lcArray);
+    if(lcArray.indexOf(lcSearchTerm) == 0) {
+      return top.Sa[k].index;
+    }
+  }
+  return -1;
+}
+
+function searchElement(index,text)
+{
+  this.index = index;
+  this.text = text;
+}
+
+function createSearchIndArray() // removed due to poor performace, it now just returns.
+{ return;
+  var i = 0;
+  var td = parent.indexList.document.getElementById(i);
+  var td2 = parent.indexList.document.getElementById(i+'b');
+//alert(td);
+  while(td){
+    if(td2.innerHTML.indexOf('&nbsp;') < 0)
+    {
+      Sa[Sa.length]=new searchElement(i,getTdText(td.innerHTML));
+    }
+    i++;
+    td = parent.indexList.document.getElementById(i);
+    td2 = parent.indexList.document.getElementById(i+'b');
+  }
+}
+
+function indPopup(ind)
+{
+var wid;
+var str = 'predefined user roles';
+var len = (str.length*8);
+wid = window.open('','indPopup','toolbar=0,location=0,status=0,menubar=0,directories=0,resizable=0,scrollbars=0,width='+len+',height=100'); 
+wid.document.write(str);
+//wid.moveTo(0,0);
+wid.moveTo(screen.width/2,screen.height/2);
+}
+
+function getTdText(td)
+{
+//  if(td.indexOf('<') < 0)
+//    return td;
+//  var text = td.substring(td.indexOf('>')+1,td.lastIndexOf('<'));
+  //clear all &nbsp;
+var text = td;
+  if(text.indexOf('&nbsp;') > -1)
+    text = text.substring(text.lastIndexOf('&nbsp;')+6);
+  return text;
+}
+
+function setSearchIndEntry(ind)
+{
+  clearPrevInd();
+  setCurInd(ind);
+}
+
+function setIndexEntry(ind,down)
+{
+  clearPrevInd(down);
+  setCurInd(ind);
+
+  var td = parent.indexList.document.getElementById(ind);
+  if(td){
+    document.indexForm.indexLookup.value = getTdText(td.innerHTML);}
+}
+
+function clearPrevInd(down)
+{
+  var td = parent.indexList.document.getElementById(curIndIndex);
+  var td2 = parent.indexList.document.getElementById(curIndIndex+1);
+
+  if(td==null || (td2==null && down))return;
+
+  if(!top.ie)
+    td.setAttribute('style', 'background: ');
+  else
+    td.style.backgroundColor='';
+
+  curIndIndex = -1;
+}
+
+function setCurInd(ind)
+{
+  var tda = parent.indexList.document.getElementById(ind);
+  if(tda)
+  {
+    if(!top.ie)
+      tda.setAttribute('style', 'background: #C0D5D5');
+    else
+      tda.style.backgroundColor='#C0D5D5';
+
+    curIndIndex = ind;
+  var td = parent.indexList.document.getElementById(ind+'t');    
+    if(((td.clientHeight*ind)+td.clientHeight+td.clientHeight)>(parent.indexList.document.documentElement.scrollTop+parent.indexList.document.documentElement.clientHeight))
+    {
+      if((td.clientHeight*ind)-td.clientHeight > parent.indexList.document.documentElement.scrollTop+parent.indexList.document.documentElement.clientHeight)
+      {
+        parent.indexList.scrollTo(0,td.clientHeight*ind);
+      }else {
+        parent.indexList.scrollBy(0,td.clientHeight);
+      }
+    } else if(((td.clientHeight*ind)) < parent.indexList.document.documentElement.scrollTop)
+    {
+      if((td.clientHeight*ind)+td.clientHeight < parent.indexList.document.documentElement.scrollTop)
+      {
+        parent.indexList.scrollTo(0,td.clientHeight*ind);
+      }else {
+        parent.indexList.scrollBy(0,-td.clientHeight);
+      }
+
+    }
+  }
+}
+
+function checkForReady()
+{
+  if(parent.lowIndexReady)
+  {
+    createSearchIndArray();
+  }
+  parent.topIndexReady=true;
+}
+//--></script>
+
+
+</head>
+<body onload="checkForReady(); document.indexForm.indexLookup.focus(); top.lowerFrame.leftFrame.tabs.MM_showHideLayers('contents','','hide','index','','show','favorites','','hide');" bgcolor="#F8F8F8">
+<form name="indexForm">
+<script javascript>document.write('<span class="indexentry">'+top.indexEnter+'</span>');</script>
+<br>
+<input type="text" size="28" class="indexentry" name="indexLookup" onKeyPress="return getKeyPress(event);"  onKeyup="return getKeyUp(event);">
+</form>
+</body></html>
+
+

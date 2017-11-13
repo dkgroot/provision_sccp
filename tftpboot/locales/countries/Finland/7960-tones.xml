@@ -1,0 +1,33 @@
+<tones>
+<trkLocaleName>Finland</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<tone c1="30959" i1="-1879" d="1" t="ringing">
+<part m="on" t="1000"/>
+<part m="off" t="4000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="reorder">
+<part m="on" t="200"/>
+<part m="off" t="250"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="busy">
+<part m="on" t="300"/>
+<part m="off" t="300"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="odial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" c2="30959" i2="-1879" c3="30959" i3="-1879" d="273" t="idial">
+<part m="on" t="200"/>
+<part m="off" t="300"/>
+<part m="on" t="200"/>
+<part m="off" t="300"/>
+<part m="on" t="300"/>
+<part m="off" t="800"/>
+<repeat c="65535"/>
+</tone>
+</tones>

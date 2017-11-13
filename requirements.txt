@@ -1,0 +1,1 @@
+hachoir_regex >= 1.0.5

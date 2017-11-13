@@ -1,0 +1,3 @@
+Release notes for the Cisco ATA 186 and Cisco ATA 188 can be found at the following URL:
+
+http://www.cisco.com/en/US/products/hw/gatecont/ps514/prod_release_notes_list.html

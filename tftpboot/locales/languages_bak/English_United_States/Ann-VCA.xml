@@ -1,0 +1,13 @@
+<CiscoTranscodeReport>
+  <InputFileName>Ann-VCA.wav</InputFileName>
+  <ErrorCode>0</ErrorCode>
+  <ErrorText>Translation Complete</ErrorText>
+  <LowDateTime>254683072</LowDateTime>
+  <HighDateTime>29634243</HighDateTime>
+  <OutputFileList>
+    <OutputFile id="1">Ann-VCA.ulaw.wav</OutputFile>
+    <OutputFile id="2">Ann-VCA.alaw.wav</OutputFile>
+    <OutputFile id="3">Ann-VCA.g729.wav</OutputFile>
+    <OutputFile id="4">Ann-VCA.wb.wav</OutputFile>
+  </OutputFileList>
+</CiscoTranscodeReport>

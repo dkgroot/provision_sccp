@@ -1,0 +1,92 @@
+sata186us version 3.1
+
+This is a newer manual upgrade server software, also previously known
+as "upgrade.exe"
+
+Upgrade for ATA 186/188
+
+NOTE: This software is to be run from dos command line
+      in Windows 9X/ME/NT/2000
+
+Requirements:
+	-) network connection between PC and Cisco ATA 186 
+	-) PC machine running windows O/S
+
+----------------------------------------------------
+To upgrade your box, save this executable and the software image
+(the software image will have a ".zup" extension) and language 
+image (the language image will have a ".kup" extension) in a 
+directory on your PC.  At the DOS prompt of the directory where
+the files are saved, you will enter the following:
+
+	sata186us <software_file_name> -d1 -any2
+
+WARNING -- When upgrading from software version 1.xx to 2.0, make
+sure there are entries in the UID0 and UID1 fields, and that you 
+hear a dial tone when you pick up the telephone handset.  Failure
+to do so can result in loss of the MAC address during upgrade.
+
+Your screen will prompt you with instructions on how to upgrade
+the box.  You will access the voice prompt of the ATA 186 and 
+enter the following commands:
+
+	100#<ip_address_of_PC>*8000#
+			(to upgrade the ATA 186's software version)
+
+	101#<ip_address_of_PC>*8000#
+			(to upgrade the ATA 186's language file)
+
+When upgrading many boxes, you can save time by saving the commands
+above in your telephone's speed-dial, and using them after accessing 
+the ATA 186's voice menu.
+----------------------------------------------------
+Available options: when using this upgrade software:
+
+usage: 
+
+sata186us version 3.1
+usage: sata186us {-h[host_ip]} {-p[port]} {-quiet} <imageFile>
+	-h[host_ip]  Set host IP to specific IP (in the case where there
+	               are more than one IP addresses for the host.
+	               Default use 1st IP address obtained by gethostbyname).
+	-p[port]     Set server port to specific port (default is 8000,
+	               use different port only if you are setting up an IP
+	               directed upgrade server other than the default).
+	-quiet         quiet mode, send all output to log file named
+	               as [port].log (useful when running the upgrade
+	               server as a deamon).
+	-any         Allow upgrade even if software version is less
+	               than or equal to those of client box.
+	-any2        Allow upgrade regardless of software type and version.
+	-d1,-d2,-d3  Set verbose level for debugging.
+	imageFile    Image file is file with a '.zup' or '.kup' extension.
+e.g.
+	sata186us -any -d1 test.zup
+	sata186us -h192.168.2.170 -p8002 -quiet test.zup
+
+----------------------------------------------------
+Below is a sample run of upgrade server in ready mode
+PC name: mypc
+PC IP:   192.168.1.10
+----------------------------------------------------
+Microsoft(R) Windows Millennium
+   (C)Copyright Microsoft Corp 1981-1999.
+
+C:\>ata186us ata134-elang.kup
+Using Host: mypc with IP : 192.168.1.10 as upgrade server
+image found: language 51 -- ata186.itsp2.v1.34
+
+Using dialpad of your telephone (attached to your ATA box),
+press ATA button to go to main menu, and enter:
+
+	101#192*168*1*10*8000#	(to upgrade language 51)
+
+NOTE:
+Pressing 123# will announce your code's version number.
+You can later verify that you have upgraded your ATA box.
+
+-------------------------------------------
+
+This program runs continuously; Press <ctrl>-c to abort.
+Upgrade server ready...
+

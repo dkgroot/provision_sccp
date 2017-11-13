@@ -1,0 +1,222 @@
+server {
+	listen 6970;
+	server_name tftp.servername.org;
+	#root /tftpboot;
+	root /data/development/sccp/sources/tftp/tftpboot;
+	index XMLDefault.cnf.xml;
+
+	# Normal Logging
+	access_log /var/log/nginx/tftp.access.log;
+	error_log /var/log/nginx/tftp.error.log;
+
+	# Debug Rewrite Rules
+	#rewrite_log on;
+	#access_log /var/log/nginx/tftp.access.log;
+	#error_log /var/log/nginx/tftp.error.log notice;
+
+	location / {
+		rewrite ^/((.*).cnf.xml)$ /settings/$1 last;
+		rewrite ^/((.*).(bin|bin.|loads|LOADS|sbn|SBN|sb2|sbin|zz|zup)(|.sgn))$ /firmware/$1;
+		rewrite ^/(RINGLIST|RingList|Ringlist|ringlist).(xml|XML)$ /ringtones/ringlist.xml;
+		try_files $uri $uri/ =404;
+		autoindex off;
+	}
+
+	# settings
+	location /settings {
+		try_files $uri $uri/ =404;
+		autoindex off;
+	}
+
+	# firmware
+	location /firmware {
+		# 6901 firmware (java-based)
+		rewrite ^/firmware/(APP6901SCCP.+\.sgn)$ /firmware/6901/$1 last;
+		rewrite ^/firmware/(KNL6901SCCP.+\.sgn)$ /firmware/6901/$1 last;
+		rewrite ^/firmware/(SCCP6901.+\.loads)$ /firmware/6901/$1 last;
+
+		# 6911 firmware (java-based)
+		rewrite ^/firmware/(APP6911SCCP.+\.sgn)$ /firmware/6911/$1 last;
+		rewrite ^/firmware/(BFS6911SCCP.+\.sgn)$ /firmware/6911/$1 last;
+		rewrite ^/firmware/(KNL6911SCCP.+\.sgn)$ /firmware/6911/$1 last;
+		rewrite ^/firmware/(SCCP6911.+\.loads)$ /firmware/6911/$1 last;
+
+		# 6921 firmware (java-based)
+		rewrite ^/firmware/(BOOT69xx.+\.sgn)$ /firmware/6921/$1 last;
+		rewrite ^/firmware/(DSP69xx.+\.sgn)$ /firmware/6921/$1 last;
+		rewrite ^/firmware/(SCCP69xx.+\.loads)$ /firmware/6921/$1 last;
+		rewrite ^/firmware/(SCCP69xx.+\.sgn)$ /firmware/6921/$1 last;
+
+		# 6945 firmware (java-based)
+		rewrite ^/firmware/(SCCP6945.+\.sgn)$ /firmware/6945/$1 last;
+		rewrite ^/firmware/(SCCP6945.+\.loads)$ /firmware/6945/$1 last;
+
+		# 69xx firmware (java-based)
+		rewrite ^/firmware/(BOOT69xx.+\.sgn)$ /firmware/69xx/$1 last;
+		rewrite ^/firmware/(DSP69xx.+\.sgn)$ /firmware/69xx/$1 last;
+		rewrite ^/firmware/(SCCP69xx.+\.loads)$ /firmware/69xx/$1 last;
+		rewrite ^/firmware/(SCCP69xx.+\.sgn)$ /firmware/69xx/$1 last;
+
+		# 7902 firmware (ancient)
+		rewrite ^/firmware/(CP7902080002SCCP060817A.sbin)$ /firmware/7902/$1 last;
+
+		# 7905 firmware (ancient)
+		rewrite ^/firmware/(CP7905080003SCCP070409A.sbin)$ /firmware/7905/$1 last;
+		rewrite ^/firmware/(CP7905080003SCCP070409A.zup)$ /firmware/7905/$1 last;
+
+		# 7906_7911 firmware (java-based)
+		rewrite ^/firmware/(apps11.+\.sbn)$ /firmware/7906_7911/$1 last;
+		rewrite ^/firmware/(cnu11.+\.sbn)$ /firmware/7906_7911/$1 last;
+		rewrite ^/firmware/(cvm11sccp.+\.sbn)$ /firmware/7906_7911/$1 last;
+		rewrite ^/firmware/(dsp11.+\.sbn)$ /firmware/7906_7911/$1 last;
+		rewrite ^/firmware/(jar11sccp.+\.sbn)$ /firmware/7906_7911/$1 last;
+		rewrite ^/firmware/(SCCP11.+\.loads)$ /firmware/7906_7911/$1 last;
+		rewrite ^/firmware/(term06.+\.loads)$ /firmware/7906_7911/$1 last;
+		rewrite ^/firmware/(term11.+\.loads)$ /firmware/7906_7911/$1 last;
+
+		# 7910 firmware (ancient)
+		rewrite ^/firmware/(P00405000700.bin)$ /firmware/7910/$1 last;
+		rewrite ^/firmware/(P00405000700.sbn)$ /firmware/7910/$1 last;
+
+		# 7912 firmware (ancient)
+		rewrite ^/firmware/(CP7912080004SCCP080108A.sbin)$ /firmware/7912/$1 last;
+
+		# 7915 firmware (ancient)
+		rewrite ^/firmware/(B015-1-0-4.SBN)$ /firmware/7915/$1 last;
+
+		# 7916 firmware (ancient)
+		rewrite ^/firmware/(B016-1-0-4.SBN)$ /firmware/7916/$1 last;
+
+		# 7920 firmware (ancient)
+		rewrite ^/firmware/(cmterm_7920.4.0-03-02.bin)$ /firmware/7920/$1 last;
+
+		# 7921_7925 firmware (ancient)
+		rewrite ^/firmware/(APPS-1.4.3.4.SBN)$ /firmware/7921_7925/$1 last;
+		rewrite ^/firmware/(CP7921G-1.4.3.4.LOADS)$ /firmware/7921_7925/$1 last;
+		rewrite ^/firmware/(GUI-1.4.3.4.SBN)$ /firmware/7921_7925/$1 last;
+		rewrite ^/firmware/(SYS-1.4.3.4.SBN)$ /firmware/7921_7925/$1 last;
+		rewrite ^/firmware/(TNUX-1.4.3.4.SBN)$ /firmware/7921_7925/$1 last;
+		rewrite ^/firmware/(TNUXR-1.4.3.4.SBN)$ /firmware/7921_7925/$1 last;
+		rewrite ^/firmware/(WLAN-1.4.3.4.SBN)$ /firmware/7921_7925/$1 last;
+
+		# 7926 firmware (ancient)
+		rewrite ^/firmware/(APPSS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(CP7926G-1.4.1SR1.LOADS)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(EA15FW-BF3-220.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(GUIS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(JSYSS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(JUIS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(SYSS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(TNUXRS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(TNUXS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+		rewrite ^/firmware/(WLANS-1.4.1SR1.SBN)$ /firmware/7926/$1 last;
+
+		# 7931 firmware (java-based)
+		rewrite ^/firmware/(apps31.+\.sbn)$ /firmware/7931/$1 last;
+		rewrite ^/firmware/(cnu31.+\.sbn)$ /firmware/7931/$1 last;
+		rewrite ^/firmware/(cvm31sccp.+\.sbn)$ /firmware/7931/$1 last;
+		rewrite ^/firmware/(dsp31.+\.sbn)$ /firmware/7931/$1 last;
+		rewrite ^/firmware/(jar31sccp.+\.sbn)$ /firmware/7931/$1 last;
+		rewrite ^/firmware/(SCCP31.+\.loads)$ /firmware/7931/$1 last;
+		rewrite ^/firmware/(term31.+\.loads)$ /firmware/7931/$1 last;
+
+		# 7935 firmware (ancient)
+		rewrite ^/firmware/(P00503021900.bin)$ /firmware/7935/$1 last;
+
+		# 7936 firmware (ancient)
+		rewrite ^/firmware/(cmterm_7936.3-3-21-0.bin)$ /firmware/7936/$1 last;
+
+		# 7937 firmware (ancient)
+		rewrite ^/firmware/(apps37sccp.1-4-5-7.bin)$ /firmware/7937/$1 last;
+
+		# 7940_7960 firmware (ancient)
+		rewrite ^/firmware/(P0030801SR01.bin)$ /firmware/7940_7960/$1 last;
+		rewrite ^/firmware/(P0030801SR01.loads)$ /firmware/7940_7960/$1 last;
+		rewrite ^/firmware/(P0030801SR01.sb2)$ /firmware/7940_7960/$1 last;
+		rewrite ^/firmware/(P0030801SR01.sbn)$ /firmware/7940_7960/$1 last;
+
+		# 7941_7961 firmware (java-based)
+		rewrite ^/firmware/(apps41.+\.sbn)$ /firmware/7941_7961/$1 last;
+		rewrite ^/firmware/(cnu41.+\.sbn)$ /firmware/7941_7961/$1 last;
+		rewrite ^/firmware/(cvm41sccp.+\.sbn)$ /firmware/7941_7961/$1 last;
+		rewrite ^/firmware/(dsp41.+\.sbn)$ /firmware/7941_7961/$1 last;
+		rewrite ^/firmware/(jar41sccp.+\.sbn)$ /firmware/7941_7961/$1 last;
+		rewrite ^/firmware/(SCCP41.+\.loads)$ /firmware/7941_7961/$1 last;
+		rewrite ^/firmware/(term41.+\.loads)$ /firmware/7941_7961/$1 last;
+		rewrite ^/firmware/(term61.+\.loads)$ /firmware/7941_7961/$1 last;
+
+		# 7942_7962 firmware (java-based)
+		rewrite ^/firmware/(apps42.+\.sbn)$ /firmware/7942_7962/$1 last;
+		rewrite ^/firmware/(cnu42.+\.sbn)$ /firmware/7942_7962/$1 last;
+		rewrite ^/firmware/(cvm42sccp.+\.sbn)$ /firmware/7942_7962/$1 last;
+		rewrite ^/firmware/(dsp42.+\.sbn)$ /firmware/7942_7962/$1 last;
+		rewrite ^/firmware/(jar42sccp.+\.sbn)$ /firmware/7942_7962/$1 last;
+		rewrite ^/firmware/(SCCP42.+\.loads)$ /firmware/7942_7962/$1 last;
+		rewrite ^/firmware/(term42.+\.loads)$ /firmware/7942_7962/$1 last;
+		rewrite ^/firmware/(term62.+\.loads)$ /firmware/7942_7962/$1 last;
+
+		# 7945_7965 firmware (java-based)
+		rewrite ^/firmware/(apps45.+\.sbn)$ /firmware/7945_7965/$1 last;
+		rewrite ^/firmware/(cnu45.+\.sbn)$ /firmware/7945_7965/$1 last;
+		rewrite ^/firmware/(cvm45sccp.+\.sbn)$ /firmware/7945_7965/$1 last;
+		rewrite ^/firmware/(dsp45.+\.sbn)$ /firmware/7945_7965/$1 last;
+		rewrite ^/firmware/(jar45sccp.+\.sbn)$ /firmware/7945_7965/$1 last;
+		rewrite ^/firmware/(SCCP45.+\.loads)$ /firmware/7945_7965/$1 last;
+		rewrite ^/firmware/(term45.+\.loads)$ /firmware/7945_7965/$1 last;
+		rewrite ^/firmware/(term65.+\.loads)$ /firmware/7945_7965/$1 last;
+
+		# 7970_7971 firmware (java-based)
+		rewrite ^/firmware/(apps70.+\.sbn)$ /firmware/7970_7971/$1 last;
+		rewrite ^/firmware/(cnu70.+\.sbn)$ /firmware/7970_7971/$1 last;
+		rewrite ^/firmware/(cvm70sccp.+\.sbn)$ /firmware/7970_7971/$1 last;
+		rewrite ^/firmware/(dsp70.+\.sbn)$ /firmware/7970_7971/$1 last;
+		rewrite ^/firmware/(jar70sccp.+\.sbn)$ /firmware/7970_7971/$1 last;
+		rewrite ^/firmware/(SCCP70.+\.loads)$ /firmware/7970_7971/$1 last;
+		rewrite ^/firmware/(term70.+\.loads)$ /firmware/7970_7971/$1 last;
+		rewrite ^/firmware/(term71.+\.loads)$ /firmware/7970_7971/$1 last;
+
+		# 7975 firmware (java-based)
+		rewrite ^/firmware/(apps75.+\.sbn)$ /firmware/7975/$1 last;
+		rewrite ^/firmware/(cnu75.+\.sbn)$ /firmware/7975/$1 last;
+		rewrite ^/firmware/(cvm75sccp.+\.sbn)$ /firmware/7975/$1 last;
+		rewrite ^/firmware/(dsp75.+\.sbn)$ /firmware/7975/$1 last;
+		rewrite ^/firmware/(jar75sccp.+\.sbn)$ /firmware/7975/$1 last;
+		rewrite ^/firmware/(SCCP75.+\.loads)$ /firmware/7975/$1 last;
+		rewrite ^/firmware/(term75.+\.loads)$ /firmware/7975/$1 last;
+
+		# 7985 firmware (ancient)
+		rewrite ^/firmware/(cmterm_7985.4-1-7-0.bin)$ /firmware/7985/$1 last;
+
+		# 894x firmware (java-based)
+		rewrite ^/firmware/(BOOT894x.+\.sgn)$ /firmware/894x/$1 last;
+		rewrite ^/firmware/(SCCP894x.+\.sgn)$ /firmware/894x/$1 last;
+		rewrite ^/firmware/(SCCP894x.+\.loads)$ /firmware/894x/$1 last;
+
+		# ata186 firmware (ancient)
+		rewrite ^/firmware/(ATA030204SCCP090202A.zup)$ /firmware/ata186/$1 last;
+
+		# ata188 firmware (ancient)
+		rewrite ^/firmware/(ATA030204SCCP090202A.zup)$ /firmware/ata188/$1 last;
+
+		try_files $uri $uri/ =404;
+		autoindex off;
+	}
+
+	# ringtones
+	location /ringtones/(.*).(xml|raw|pcm) {
+		try_files ringtones/$uri ringtones/$uri/ =404;
+		autoindex off;
+	}
+
+	# Deny access to .htaccess
+	location ~ /\.ht {
+		deny all;
+	}
+
+	error_page 404 /;
+
+	error_page 500 502 503 504 /50x.html;
+	location = /50x.html {
+		root /usr/share/nginx/html;
+	}
+}

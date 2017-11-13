@@ -1,0 +1,51 @@
+prserv.exe version 2.0
+
+To assist in troubleshooting, you have been provided with an executable
+file (prserv.exe) to be run on your PC.  Prserv.exe serves as a log server
+that captures debug information sends by the ATA software to your PC's IP
+address/port. Prserv.exe will compile the debug information from the ATA
+into a readable log file. To enable your ATA to send its debug information,
+you need to set the NPRINTF configuration parameter to your PC IP address
+and an available port, illustrated as follows:
+
+	<IP address>.<port>
+
+where <IP address> is the IP address of your PC, and <port> is any
+unused port (can be any number from 1024 to 65535) on your PC.
+
+To enter the IP address and port number, use voice menu (IVR) option 81#
+(or from the ATA configuration web page, look for the NPRINTF parameter).
+From the voice menu, you will use * for entering the dot character:
+
+e.g., for a computer with the IP address 192.168.2.170 and an unused
+port number 9001 (192.168.2.170.9001), you would enter the following
+on your telephone handset:
+
+	192*168*2*170*9001#
+
+Follow the voice menu option to save the parameter value.
+
+To operate the debug capture program "prserv.exe", place the prserv
+program in a folder on your PC, and at the DOS prompt of the folder
+where you have placed it, enter:
+
+C:>prserv <port>
+
+where <port> is the port number you have selected. If <port> is omitted,
+the port assumed is 9001.
+
+The output of the debug information recieved by prserv is sent to
+the DOS screen and the file <port>.log (in this case, 9001.log).
+
+Once you are finished capturing debug information, you can stop the log
+program by entering CNTL-C at the DOS prompt. If you restart the process
+without changing the name of the log file, any new debug information
+will be appended to the end of the original file.
+
+
+NOTE: This version of prserv contains -t option, when specified, will
+  record the local time on the PC when each line of debug trace log
+  is received. e.g.
+	C> prserv -t 9001
+
+

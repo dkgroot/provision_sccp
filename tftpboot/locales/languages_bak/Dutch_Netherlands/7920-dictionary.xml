@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Dutch_Netherlands</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.0.1.release/2</trkBaseClearcaseVersion>
+<trkTranslationVersion>0</trkTranslationVersion>
+<phrase i="650" t="Verifiëren"/>
+<phrase i="649" t="Configuratie"/>
+<phrase i="648" t="Non-Prioriteits gesprek"/>
+<phrase i="647" t="Prioriteits gesprek"/>
+<phrase i="646" t="RTP URI"/>
+<phrase i="645" t="Autom. kiezen geannuleerd"/>
+<phrase i="644" t="      Huidig gesprek afhandelen..."/>
+<phrase i="643" t="Alles wissen"/>
+<phrase i="642" t="In gebruik"/>
+<phrase i="641" t="Waarschuwingsvolume"/>
+<phrase i="640" t="CCM-instelling"/>
+<phrase i="639" t="Alleen geluidssignaal"/>
+<phrase i="638" t="Beltooninstelling"/>
+<phrase i="637" t="Waarschuwing opnieuw afspelen"/>
+<phrase i="636" t="Zwerven uitstellen"/>
+<phrase i="635" t="Statisch"/>
+<phrase i="634" t="Automatisch"/>
+<phrase i="633" t="Zwervend algoritme"/>
+<phrase i="632" t="UDI"/>
+<phrase i="631" t="Last Up Time"/>
+<phrase i="630" t="Seriële poort"/>
+<phrase i="629" t="Automatisch 60 sec."/>
+<phrase i="628" t="Automatisch 30 sec."/>
+<phrase i="627" t="Automatisch 15 sec."/>
+<phrase i="626" t="Automatisch KeyLock"/>
+<phrase i="625" t="NLP in-/uitschakelen"/>
+<phrase i="624" t="DempenUit"/>
+<phrase i="623" t="DempenAan"/>
+<phrase i="622" t="Headset"/>
+<phrase i="621" t="Luidspreker"/>
+<phrase i="620" t="Uitvoer"/>
+<phrase i="619" t="Hard lasergeluid"/>
+<phrase i="618" t="IP"/>
+<phrase i="617" t="Ongeldige gebruikersnaam"/>
+<phrase i="616" t="Lege gebruikersnaam en leeg wachtwoord"/>
+<phrase i="615" t="HTML-inhoud"/>
+<phrase i="614" t="Interne serverfout"/>
+<phrase i="613" t="Ongeldige inhoud"/>
+<phrase i="612" t="XML-parseerfout"/>
+<phrase i="611" t="Verzoek moet worden geverifieerd"/>
+<phrase i="610" t="De host is niet gevonden"/>
+<phrase i="609" t="Verzoek heeft fout geretourneerd"/>
+<phrase i="608" t="Verzoek is geannuleerd"/>
+<phrase i="607" t="Max. Jitter"/>
+<phrase i="606" t="Gem. Jitter"/>
+<phrase i="605" t="Bytes ontvangen"/>
+<phrase i="604" t="Bytes verzonden"/>
+<phrase i="603" t="Pkts Lost"/>
+<phrase i="602" t="Pkts Rcvd"/>
+<phrase i="601" t="Pkts Sent"/>
+<phrase i="600" t="Ophalen VQStats mislukt"/>
+<phrase i="599" t="Geen statistieken"/>
+<phrase i="598" t="Conceal Avg"/>
+<phrase i="597" t="Conceal Max"/>
+<phrase i="596" t="Conceal Curr"/>
+<phrase i="595" t="Max Mos"/>
+<phrase i="594" t="Min. Mos"/>
+<phrase i="593" t="AvgMos"/>
+<phrase i="592" t="Mos"/>
+<phrase i="591" t="Call Ref"/>
+<phrase i="590" t="Belstatistieken"/>
+<phrase i="589" t="XML"/>
+<phrase i="588" t="Intern"/>
+<phrase i="587" t="Lettertype"/>
+<phrase i="586" t="Parkeer"/>
+<phrase i="585" t="Modus"/>
+<phrase i="584" t="EAP-FAST PAC verifiëren"/>
+<phrase i="583" t="Geen bereik"/>
+<phrase i="582" t="Bereikwaarschuwing"/>
+<phrase i="581" t="Parkeren:"/>
+<phrase i="580" t="Bijwrk"/>
+<phrase i="579" t="Sluiten"/>
+<phrase i="578" t="XML-object - "/> 
+<phrase i="577" t="Niet-ondersteund XML-object"/> 
+<phrase i="576" t="Aanvraag mislukt"/>
+<phrase i="575" t="voor %s"/>
+<phrase i="574" t=" door %s"/>
+<phrase i="573" t="Van %s"/>
+<phrase i="572" t="Naar %s"/>
+<phrase i="571" t="CM-fallbackservice ingeschakeld"/>
+<phrase i="570" t="luid"/>
+<phrase i="569" t="(C)"/>
+<phrase i="568" t="INTERCOM"/>
+<phrase i="567" t="      Aanvragen"/>
+<phrase i="566" t="* : geen antwoord"/>
+<phrase i="565" t="Doorsch"/>          
+<phrase i="564" t="(Onbekend nummer)"/>
+<phrase i="563" t="Doorsch "/>
+<phrase i="562" t="Naar "/>
+<phrase i="561" t="Van "/>
+<phrase i="560" t="Za."/>
+<phrase i="559" t="Vr."/>
+<phrase i="558" t="Do."/>
+<phrase i="557" t="Wo."/>
+<phrase i="556" t="Di."/>           
+<phrase i="555" t="Ma."/>
+<phrase i="554" t="Zo."/>
+<phrase i="553" t="Van onbekend nummer"/>
+<phrase i="552" t="Extern gesprek"/>
+<phrase i="551" t="Privégesprek"/> 
+<phrase i="550" t="Onbekend nummer"/>
+<phrase i="549" t="Typ gebr.naam, wachtwoord"/>
+<phrase i="548" t="Informatie"/>           
+<phrase i="547" t="*TITEL*"/>
+<phrase i="546" t="(CM-opdr)"/>
+<phrase i="545" t="(Mgt-opdr)"/>
+<phrase i="544" t="(Update OK)"/>
+<phrase i="543" t="MP bezig..."/>
+<phrase i="542" t="HTTP-aanvraag geannuleerd"/> 
+<phrase i="541" t="Mislukt"/> 
+<phrase i="540" t="Overloop"/> 
+<phrase i="539" t="Buffer"/> 
+<phrase i="538" t="XML parseren"/> 
+<phrase i="537" t="Ontvangstfout"/> 
+<phrase i="536" t="EAP-fout 1 min uitstel"/> 
+<phrase i="535" t="is onjuist"/>                      
+<phrase i="534" t="WEP uitschakelen"/> 
+<phrase i="533" t="Gedupliceerd"/> 
+<phrase i="532" t="Mag niet leeg zijn"/> 
+<phrase i="531" t="Netwerk is bezet"/> 
+<phrase i="530" t="USB uitgesch."/> 
+<phrase i="529" t="IP ongeldig"/> 
+<phrase i="528" t="Verzonden"/> 
+<phrase i="527" t="Toets vergrend."/> 
+<phrase i="526" t="Registratie afgewezen"/> 
+<phrase i="525" t="Geen service"/>                      
+<phrase i="524" t="Netwerk bezet"/> 
+<phrase i="523" t="Verb. met CM mislukt"/> 
+<phrase i="522" t="TFTP mislukt"/> 
+<phrase i="521" t="TFTP reageert niet"/> 
+<phrase i="520" t="Geen TFTP-server"/> 
+<phrase i="519" t="IP-config mislukt"/> 
+<phrase i="518" t="Gemist gesprek"/> 
+<phrase i="517" t="toets eerst!"/> 
+<phrase i="516" t="WEP inschakelen"/> 
+<phrase i="515" t="U hebt voicemail"/>                      
+<phrase i="514" t="SSID vereist"/> 
+<phrase i="513" t="Geen netwerk"/> 
+<phrase i="512" t="Laad-id downloaden"/> 
+<phrase i="511" t="AP niet gevonden"/> 
+<phrase i="510" t="CallManager niet gevonden"/> 
+<phrase i="509" t="Zwak signaal gedetecteerd"/> 
+<phrase i="508" t="tijdens gesprek"/> 
+<phrase i="507" t="Niet actief"/> 
+<phrase i="506" t="IP-adres"/> 
+<phrase i="505" t="Dubbel"/> 
+<phrase i="504" t="Registreren bij CM"/> 
+<phrase i="503" t="Verificatie OK"/> 
+<phrase i="502" t="Koppeling OK"/> 
+<phrase i="501" t="CallManager uitgeschakeld"/>
+<phrase i="500" t="Selecteer een toon"/> 
+<phrase i="499" t="Typ telefoonwachtwoord"/> 
+<phrase i="498" t="Voltooid"/> 
+<phrase i="497" t="Laden"/> 
+<phrase i="496" t="Batterij"/> 
+<phrase i="495" t="Selecteer een symbool"/> 
+<phrase i="494" t="DHCP Disabled"/>                       
+<phrase i="493" t="DHCP actief"/> 
+<phrase i="492" t="Niet gekoppeld"/> 
+<phrase i="491" t="Buiten bereik"/> 
+<phrase i="490" t="Instellingsfout"/> 
+<phrase i="489" t="Stoppen"/> 
+<phrase i="488" t="Typ traceerroute IP"/> 
+<phrase i="487" t="Serverfout"/> 
+<phrase i="486" t="Geen beltoonbst."/> 
+<phrase i="485" t="Selecteer snelkeuze voor"/> 
+<phrase i="484" t="Ongeldige waarde"/>                      
+<phrase i="483" t="Standaard?"/> 
+<phrase i="482" t="Herstellen naar"/> 
+<phrase i="481" t="Wachten"/> 
+<phrase i="480" t="Gegevens herst."/> 
+<phrase i="479" t="Nieuw"/> 
+<phrase i="478" t="Geheugen vol"/> 
+<phrase i="477" t="Item wissen?"/> 
+<phrase i="476" t="Vereist"/> 
+<phrase i="475" t="Telefoonnummer"/> 
+<phrase i="474" t="Item opslaan..."/>                       
+<phrase i="473" t="Wachtwoordfout"/> 
+<phrase i="472" t="Typ EAP-gebruikersnaam"/> 
+<phrase i="471" t="Typ EAP-wachtwoord"/> 
+<phrase i="470" t="Lijn is bezet"/> 
+<phrase i="469" t="Trilsignaal uit"/> 
+<phrase i="468" t="Trilsignaal aan"/> 
+<phrase i="467" t="Toetsvergr. uit?"/> 
+<phrase i="466" t="Toetsvergr. aan"/> 
+<phrase i="465" t="Batterij bijna leeg"/> 
+<phrase i="464" t="Reg. bij CM mislukt"/>                       
+<phrase i="463" t="Verbinden met CM mislukt"/> 
+<phrase i="462" t="Update firmware mislukt"/> 
+<phrase i="461" t="Update van firmware"/> 
+<phrase i="460" t="DHCP-aanvraag mislukt"/> 
+<phrase i="459" t="EAP-verificatie mislukt"/> 
+<phrase i="458" t="EAP-verificatie OK"/> 
+<phrase i="457" t="Verificatie mislukt"/> 
+<phrase i="456" t="Koppeling mislukt"/> 
+<phrase i="455" t="Verbinden met CallManager"/> 
+<phrase i="454" t="Verbinden met TFTP"/>                       
+<phrase i="453" t="Config.bestand downloaden"/> 
+<phrase i="452" t="Config IP-netwerk mislukt"/> 
+<phrase i="451" t="IP-netwerk configureren"/> 
+<phrase i="450" t="EAP verifiëren"/> 
+<phrase i="449" t="Koppelen met AP"/> 
+<phrase i="448" t="Verifiëren bij AP"/> 
+<phrase i="447" t="Uitschakelen"/> 
+<phrase i="446" t="Inschakelen"/> 
+<phrase i="445" t="Wacht"/> 
+<phrase i="444" t="Gaat over"/>                      
+<phrase i="443" t="Verbonden"/> 
+<phrase i="442" t="Van"/> 
+<phrase i="441" t="Typ nummer om te kiezen"/> 
+<phrase i="440" t="Beschikbare opties"/> 
+<phrase i="439" t="Svcs"/>
+<phrase i="438" t="Afk."/>           
+<phrase i="437" t="Services"/>
+<phrase i="436" t="Gebruik"/>
+<phrase i="435" t="Snelkeuze"/>
+<phrase i="434" t="Vernieuwen"/>
+<phrase i="433" t="Einde"/>
+<phrase i="432" t="KiezBew"/>
+<phrase i="431" t="OK"/>
+<phrase i="430" t="Resetten"/>
+<phrase i="429" t="Afspelen"/>
+<phrase i="428" t="Annuleren"/>           
+<phrase i="427" t="Bewerk"/>
+<phrase i="426" t="Wissen"/>
+<phrase i="425" t="Toevoegen"/>
+<phrase i="424" t="Detail"/>
+<phrase i="423" t="Ophangen"/>
+<phrase i="422" t="Volume"/>
+<phrase i="421" t="Dempen"/>
+<phrase i="420" t="Beantw"/>
+<phrase i="419" t="Bewerk nr"/>
+<phrase i="418" t="Terug"/>
+<phrase i="417" t="Kies"/>
+<phrase i="416" t="Wissen"/> 
+<phrase i="415" t="Opslaan"/> 
+<phrase i="414" t="TelBoek"/>                       
+<phrase i="413" t="Menu"/> 
+<phrase i="412" t="Ruststand-url"/> 
+<phrase i="411" t="SSID 4"/> 
+<phrase i="410" t="SSID 3"/> 
+<phrase i="409" t="SSID 2"/> 
+<phrase i="408" t="SSID 1"/> 
+<phrase i="407" t="Tel. herstarten"/>
+<phrase i="406" t="Hop: "/>
+<phrase i="405" t="Traceerroute"/> 
+<phrase i="404" t="CDP TX-interval"/> 
+<phrase i="403" t="CDP TTL"/> 
+<phrase i="402" t="CDP TX aan/uit"/> 
+<phrase i="401" t="Niet beschikbaar"/>
+<phrase i="400" t="Huidige zendsterkte"/> 
+<phrase i="399" t="LEAP"/>
+<phrase i="398" t="EAP-FAST"/>
+<phrase i="397" t="EAP-modus"/>
+<phrase i="396" t="TKIP"/> 
+<phrase i="395" t="WEP 128"/> 
+<phrase i="394" t="WEP 40"/> 
+<phrase i="393" t="Multicast"/> 
+<phrase i="392" t="Unicast"/> 
+<phrase i="391" t="Gebruikt cijfer"/> 
+<phrase i="390" t="CCKM"/> 
+<phrase i="389" t="WPA"/> 
+<phrase i="388" t="Toetsbeheer gebruikt"/> 
+<phrase i="387" t="Huidig netwerkprofiel"/> 
+<phrase i="386" t="Huidig gebruikersprofiel"/>                       
+<phrase i="385" t="Infrastructuurmodus"/> 
+<phrase i="384" t="Netwerktype"/> 
+<phrase i="383" t="Gekoppelde AP SSID"/> 
+<phrase i="382" t="Gekoppelde AP MAC"/> 
+<phrase i="381" t="Drempel voor ED-modus"/> 
+<phrase i="380" t="CS1 of SQ1"/> 
+<phrase i="379" t="ED en (CS1 of SQ1)"/> 
+<phrase i="378" t="ED-modus"/> 
+<phrase i="377" t="CCA-modus"/> 
+<phrase i="376" t="CCA-instelling"/>                       
+<phrase i="375" t="I_kanaallijst"/> 
+<phrase i="374" t="O_kanaallijst"/> 
+<phrase i="373" t="N_kanaallijst"/> 
+<phrase i="372" t="A_kanaallijst"/> 
+<phrase i="371" t="Levering"/> 
+<phrase i="370" t="Passieve scantijd"/> 
+<phrase i="369" t="Actieve scantijd"/> 
+<phrase i="368" t="Scanfreq. I_kanaal"/> 
+<phrase i="367" t="Scanfreq. O_kanaal"/> 
+<phrase i="366" t="Scanfreq. N_kanaal"/> 
+<phrase i="365" t="Scanfreq. A_kanaal"/> 
+<phrase i="364" t="RSSI-drempel O_kanaal"/> 
+<phrase i="363" t="Drempel QBSS-verschil"/> 
+<phrase i="362" t="Drempel RSSI-verschil"/> 
+<phrase i="361" t="QBSS-drempel"/> 
+<phrase i="360" t="RSSI-drempel"/> 
+<phrase i="359" t="Kanaalverbetering"/> 
+<phrase i="358" t="Scannen"/> 
+<phrase i="357" t="Zwerven"/> 
+<phrase i="356" t="Draadloze instellingen"/> 
+<phrase i="355" t="Leeg"/>
+<phrase i="354" t="CU"/> 
+<phrase i="353" t="MAC"/> 
+<phrase i="352" t="RSSI"/>
+<phrase i="351" t="Kanaal"/>           
+<phrase i="350" t="Locatieonderzoek"/> 
+<phrase i="349" t="MAC-adres"/> 
+<phrase i="348" t="CallManager %d:"/>
+<phrase i="347" t="geen"/>
+<phrase i="346" t="Secundaire DNS:"/>
+<phrase i="345" t="Primaire DNS:"/>
+<phrase i="344" t="Primaire TFTP:"/>
+<phrase i="343" t="Primaire gateway:"/>
+<phrase i="342" t="Hostnaam:"/>
+<phrase i="341" t="Subnetmasker:"/>         
+<phrase i="340" t="IP-adres:"/>
+<phrase i="339" t="DHCP-server:"/>
+<phrase i="338" t=" Nee"/>
+<phrase i="337" t=" JA"/>
+<phrase i="336" t="DHCP is ingeschakeld"/>
+<phrase i="335" t="Huidige configuratie"/> 
+<phrase i="334" t="Functietoets van CM"/>            
+<phrase i="333" t="Opbellen"/> 
+<phrase i="332" t="Idle"/> 
+<phrase i="331" t="Instelling functietoets"/> 
+<phrase i="330" t="Naar TFTP via WLAN"/> 
+<phrase i="329" t="Naar TFTP via USB"/> 
+<phrase i="328" t="Telefoonlogboek"/> 
+<phrase i="327" t="WDog aan/uit"/> 
+<phrase i="326" t="Energiebesparing"/> 
+<phrase i="325" t="Fabrieksinstellingen"/> 
+<phrase i="324" t="USB aan/uit"/> 
+<phrase i="323" t="Aan/uit"/> 
+<phrase i="322" t="Telefoonvergrendeling"/> 
+<phrase i="321" t="Achtergrondverlichting"/> 
+<phrase i="320" t="Welkomstbericht"/> 
+<phrase i="319" t="Begroeting"/> 
+<phrase i="318" t="Nederlands"/> 
+<phrase i="317" t="Taal"/> 
+<phrase i="316" t="Wachten"/> 
+<phrase i="315" t="Beltoon downloaden"/> 
+<phrase i="314" t="Chirp 2"/> 
+<phrase i="313" t="Chirp 1"/> 
+<phrase i="312" t="Standaardbeltoon"/> 
+<phrase i="311" t="Beltoon kiezen"/> 
+<phrase i="310" t="Beltonen"/> 
+<phrase i="309" t="Domain"/> 
+<phrase i="308" t="Hardware Info"/> 
+<phrase i="307" t="Laad-id Bsp"/> 
+<phrase i="306" t="Laad-id voor opstarten"/> 
+<phrase i="305" t="Firmware-versie"/> 
+<phrase i="304" t="Firmware-info"/> 
+<phrase i="303" t="Retry Cnt "/> 
+<phrase i="302" t="Ack Failed "/> 
+<phrase i="301" t="Tx Failed "/>
+<phrase i="300" t="Bcast Rx "/> 
+<phrase i="299" t="Aged Pkts: "/> 
+<phrase i="298" t="Rx Pkts: "/> 
+<phrase i="297" t="Tx Pkts: "/> 
+<phrase i="296" t="Up Time "/> 
+<phrase i="295" t="Netwerkstatistieken"/> 
+<phrase i="294" t="Huidig config.bestand"/> 
+<phrase i="293" t="Telefoonstatus"/> 
+<phrase i="292" t="Wijzigen"/> 
+<phrase i="291" t="Profielnaam wijzigen"/> 
+<phrase i="290" t="100 mW"/> 
+<phrase i="289" t="50 mW"/> 
+<phrase i="288" t="20 mW"/> 
+<phrase i="287" t="5 mW"/> 
+<phrase i="286" t="1 mW"/> 
+<phrase i="285" t="Zendsterkte"/> 
+<phrase i="284" t="11 MB"/> 
+<phrase i="283" t="5,5 MB"/> 
+<phrase i="282" t="2 MB"/> 
+<phrase i="281" t="1 MB"/>
+<phrase i="280" t="Automatisch"/> 
+<phrase i="279" t="Max. gegevenssnelheid"/> 
+<phrase i="278" t="128 bits"/> 
+<phrase i="277" t="40 bits"/> 
+<phrase i="276" t="Geen"/> 
+<phrase i="275" t="Instellingen WEP-toets"/> 
+<phrase i="274" t="WEP-toets 4"/> 
+<phrase i="273" t="WEP-toets 3"/> 
+<phrase i="272" t="WEP-toets 2"/> 
+<phrase i="271" t="WEP-toets 1"/> 
+<phrase i="270" t="Codering"/> 
+<phrase i="269" t="ASCII"/> 
+<phrase i="268" t="Hexadecimaal"/> 
+<phrase i="267" t="WPA PSK-sleutel"/> 
+<phrase i="266" t="Notificatiemodus"/> 
+<phrase i="265" t="Wachtwoord"/> 
+<phrase i="264" t="Gebruikersnaam"/> 
+<phrase i="263" t="AKM"/> 
+<phrase i="262" t="EAP"/>
+<phrase i="261" t="Gedeelde sleutel"/> 
+<phrase i="260" t="Openen"/> 
+<phrase i="259" t="Verificatie"/> 
+<phrase i="258" t="Opgeven"/> 
+<phrase i="257" t="Alle"/> 
+<phrase i="256" t="SSID"/> 
+<phrase i="255" t="802.11b-configuratie"/> 
+<phrase i="254" t="Statisch gebruiken"/> 
+<phrase i="253" t="DHCP gebruiken"/> 
+<phrase i="252" t="TFTP-optie"/> 
+<phrase i="251" t="Secundaire DNS-server"/> 
+<phrase i="250" t="Primaire DNS-server"/> 
+<phrase i="249" t="Primaire TFTP-server"/> 
+<phrase i="248" t="Primaire gateway"/> 
+<phrase i="247" t="Subnetmasker"/> 
+<phrase i="246" t="IP-adres"/> 
+<phrase i="245" t="Statische instellingen"/> 
+<phrase i="244" t="Uitschakelen"/> 
+<phrase i="243" t="Inschakelen"/> 
+<phrase i="242" t="DHCP aan/uit"/> 
+<phrase i="241" t="Wijziging toepassen"/> 
+<phrase i="240" t="Automatisch"/> 
+<phrase i="239" t="Netwerkprofiel"/> 
+<phrase i="238" t="Trilsignaal"/> 
+<phrase i="237" t="Toon"/> 
+<phrase i="236" t="Uit"/> 
+<phrase i="235" t="Aan"/> 
+<phrase i="234" t="Waarschuwingsstijl"/> 
+<phrase i="233" t="Toetstonen"/> 
+<phrase i="232" t="Trilsignaal gesprek"/> 
+<phrase i="231" t="Waarsch. binnenk. gespr."/> 
+<phrase i="230" t="Beltoonvolume"/> 
+<phrase i="229" t="Luidsprekervolume"/> 
+<phrase i="228" t="Activeren"/> 
+<phrase i="227" t="Buiten"/> 
+<phrase i="226" t="Vergadering"/> 
+<phrase i="225" t="Stil"/> 
+<phrase i="224" t="Normaal"/> 
+<phrase i="223" t="Gebruikersprofiel"/>
+<phrase i="222" t="Gespreksoverzicht wissen"/> 
+<phrase i="221" t="Gevoerde gesprekken"/> 
+<phrase i="220" t="Ontvangen gesprekken"/> 
+<phrase i="219" t="Gemiste oproepen"/> 
+<phrase i="218" t="Voicemailbox"/> 
+<phrase i="217" t="Bedrijfstelefoonlijst"/> 
+<phrase i="216" t="E-mailadres"/> 
+<phrase i="215" t="Mobiel nummer"/> 
+<phrase i="214" t="Privé-nummer"/> 
+<phrase i="213" t="Zakelijk nummer"/> 
+<phrase i="212" t="Naam"/> 
+<phrase i="211" t="Snelkeuze"/> 
+<phrase i="210" t="Toevoegen"/> 
+<phrase i="209" t="Namen"/> 
+<phrase i="208" t="Telefoonboek"/> 
+<phrase i="207" t="Netwerkconfig"/>
+<phrase i="206" t="Telefooninstell."/> 
+<phrase i="205" t="Services"/> 
+<phrase i="204" t="Profielen"/> 
+<phrase i="203" t="Gespreksoverzicht"/> 
+<phrase i="202" t="Berichten"/> 
+<phrase i="201" t="Telefoonlijst"/> 
+</phrases>

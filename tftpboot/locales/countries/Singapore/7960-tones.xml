@@ -1,0 +1,30 @@
+<tones>
+<trkLocaleName>Singapore</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>0</trkTranslationVersion>
+<tone c1="31164" i1="-886" c2="30743" i2="-993" c3="31164" i3="-886" c4="30743" i4="-993" d="34" t="ringing">
+<part m="on" t="400"/>
+<part m="off" t="200"/>
+<part m="on" t="400"/>
+<part m="off" t="2000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="reorder">
+<part m="on" t="250"/>
+<part m="off" t="250"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="busy">
+<part m="on" t="750"/>
+<part m="off" t="750"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="odial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30274" i1="-2194" d="1" t="idial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+</tones>

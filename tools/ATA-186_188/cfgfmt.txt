@@ -1,0 +1,32 @@
+cfgfmt version 2.3
+
+This tool is used to create binary profile from input text
+profile (derived from one of sip_example.txt, sccp_example.txt,
+h323_example.txt, or mgcp_example.txt template text profile
+distributed with CCO image package) that Cisco ATA or Cisco IP
+Phone 7902/7905/7912 accepts in TFTP profile download. For detail
+on its usage, please refer to the respective administrator guide
+of the platform and protocol of interest. This tool also requires
+the appropriate "ptag.dat" file as its input. Please use
+the correct "ptag.dat" file along with the corresponding
+template text profile that are distributed as part of the
+CCO image package of interest.
+
+
+cfgfmt version 2.3
+usage: cfgfmt [options] input output
+options:
+	-eRc4Passwd -- use Rc4Passwd to encrypt or decrypt input
+	-E -- do not use EncryptKey parameter's value in the input
+	      text file to encrypt the output binary file
+	-xRc4Passwd -- use stronger Rc4Passwd to encrypt or decrypt input,
+		RC4Passwd entered must be in hex
+	-X -- do not use EncryptKeyEx parameter's value in the input
+	      text file to encrypt the output binary file
+	-tPtagFile -- specify an alternate PtagFile path
+	-sip -- limit to sip protocol parameters
+	-h323 -- limit to h323 protocol parameters
+	-mgcp -- limit to mgcp procotol parameters
+	-sccp -- limit to sccp protocol parameters
+	-g -- omit sensitive parameters in old ata<mac> file
+

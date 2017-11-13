@@ -1,0 +1,34 @@
+<tones>
+<trkLocaleName>Israel</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<tone c1="31164" i1="-1772" d="1" t="ringing">
+<part m="on" t="1000"/>
+<part m="off" t="3000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="reorder">
+<part m="on" t="250"/>
+<part m="off" t="250"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="busy">
+<part m="on" t="500"/>
+<part m="off" t="500"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="31164" i1="-1772" c2="31164" i2="-1772" c3="31164" i3="-1772" c4="31164" i4="-1772" d="4369" t="odial">
+<part m="on" t="100"/>
+<part m="off" t="100"/>
+<part m="on" t="100"/>
+<part m="off" t="100"/>
+<part m="on" t="100"/>
+<part m="off" t="100"/>
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="idial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+</tones>

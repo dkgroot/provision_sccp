@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="Unicode-1-1-utf-8"?>
+<phrases>
+<trkLocaleName>English_United_States</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+
+<!-- Energywise values-->
+<phrase i="1233" t="Shut"/>
+<phrase i="1232" t="Hibernate"/>
+<phrase i="1231" t="Sleep"/>
+<phrase i="1230" t="Standby"/>
+<phrase i="1229" t="Ready"/>
+<phrase i="1228" t="Frugal"/>
+<phrase i="1227" t="Medium"/>
+<phrase i="1226" t="Reduced"/>
+<phrase i="1225" t="Energywise Power Level"/>
+<phrase i="1224" t="Energywise Domain"/>
+<phrase i="1223" t="Power_Save_Plus"/>
+<phrase i="1222" t="Phone Off Error: Could not power off; the required Energywise Domain or Secret is not configured"/>
+<phrase i="1221" t="minutes"/>
+<phrase i="1220" t="Power off in"/>
+<phrase i="1219" t="Pwr off hit key delays"/>
+
+<phrase i="1218" t="Security Error"/>
+<phrase i="1217" t="FIPS Mode Enabled"/>
+<phrase i="1216" t="SSH Access Enabled"/>
+
+<!--VPN Tunnel Down Reasons for Device Unreg Alarm-->
+<phrase i="1215" t="Unknown VPN failure"/>
+<phrase i="1214" t="SSL compression reset failed"/>
+<phrase i="1213" t="DTLS rekey failed"/>
+<phrase i="1212" t="SSL rekey failed"/>
+<phrase i="1211" t="SSL rekey handshake failed"/>
+<phrase i="1210" t="SSL rekey renegotiation failed"/>
+<phrase i="1209" t="SSL rekey, renegotiation pending"/>
+<phrase i="1208" t="SSL rekey (reconnect) failed"/>
+<phrase i="1207" t="SSL KeepAlive send error"/>
+<phrase i="1206" t="VPN IP address renewal failed"/>
+<phrase i="1205" t="VPN tunnel read failure"/>
+<phrase i="1204" t="VPN tunnel error"/>
+<phrase i="1203" t="VPN internal error"/>
+<phrase i="1202" t="VPN-specific IP address lease expired"/>
+<phrase i="1201" t="SSL dead peer dection(DPD) error"/>
+<phrase i="1200" t="SSL dead peer detection(DPD) timeout"/>
+<phrase i="1199" t="DTLS dead peer detection(DPD) timeout"/>
+<phrase i="1198" t="DTLS KeepAlive send error"/>
+<phrase i="1197" t="DTLS dead peer detection(DPD) error"/>
+<phrase i="1196" t="DTLS read error"/>
+<phrase i="1195" t="DTLS write error"/>
+<phrase i="1194" t="SSL read error"/>
+<phrase i="1193" t="SSL write error"/>
+<phrase i="1192" t="VPN reconnection in progress"/>
+<phrase i="1191" t="VPN auto network detection mode changed"/>
+<phrase i="1190" t="Secure gateway inititated a VPN logout"/>
+<phrase i="1189" t="LSC changed"/>
+<phrase i="1188" t="VPN configuration changed"/>
+<phrase i="1187" t="Alternate TFTP changed"/>
+<phrase i="1186" t="VPN authentication method changed"/>
+<phrase i="1185" t="VPN concentrator address changed"/>
+<phrase i="1184" t="VPN disconnected by user"/>
+
+<!-- PAL values-->
+<phrase i="1183" t="Port Configuration Error"/>
+<phrase i="1182" t="PC Port Remote Configuration"/>
+<phrase i="1181" t="Switch Port Remote Configuration"/>
+<phrase i="1180" t="Automatic Port Synchronization"/>
+
+<!-- VPN values-->
+<phrase i="1177" t="VPN URL Too Long"/>
+<phrase i="1176" t="VPN Process Not Running"/>
+<phrase i="1175" t="Enterprise Detected...VPN Disabled"/>
+
+<!-- HTTPS Service -->
+<phrase i="1174" t="Proceed"/>
+<phrase i="1173" t="Do you want to proceed?"/>
+<phrase i="1172" t="Warning!"/>
+<phrase i="1171" t="You are about to send data to a non-secure site."/>
+
+<!-- Security By Default Phrase -->
+<phrase i="1170" t="Trust List Updated"/>
+
+<!-- VPN values -->
+<phrase i="1169" t="All Concentrators Failed"/>
+<phrase i="1168" t="VPN Certificate Failed"/>
+<phrase i="1167" t="VPN Client Not Running"/>
+<phrase i="1166" t="VPN Not Configured"/>
+
+<!-- Security by Default Phrases -->
+<phrase i="1165" t="Configuration (signed)"/>
+<phrase i="1164" t="ITL File"/>
+<phrase i="1163" t="Erasing CTL and ITL files"/>
+<phrase i="1162" t="TVS"/>
+<phrase i="1161" t="Trust List Update Failed"/>
+<phrase i="1160" t="ITL Update Failed"/>
+<phrase i="1159" t="No Trust List Installed"/>
+<phrase i="1158" t="ITL Installed"/>
+<phrase i="1157" t="CTL and ITL Installed"/>
+<phrase i="1156" t="Updating Trust List"/>
+
+<!-- TNP 902 - EMCC,ECC and DST Phrases -->
+<phrase i="1155" t="Time zone data download failed"/>
+<phrase i="1154" t="Recording Failed"/>
+<phrase i="1153" t="Recording"/>
+<phrase i="1152" t="Extension mobility Unavailable"/>
+
+<!-- VPN values -->
+<phrase i="1151" t="Vpn Tx Packets"/>
+<phrase i="1150" t="Vpn Tx Bytes"/>
+<phrase i="1149" t="Vpn Rx Packets"/>
+<phrase i="1148" t="Vpn Rx Bytes"/>
+<phrase i="1147" t="Vpn Tunnel Information"/>
+<phrase i="1146" t="Encryption Method"/>
+<phrase i="1145" t="Certificate"/>
+<phrase i="1144" t="Password and Certificate"/>
+<phrase i="1143" t="Username and Password"/>
+<phrase i="1142" t="Authentication Mode"/>
+<phrase i="1141" t="Url"/>
+<phrase i="1140" t="Inactive"/>
+<phrase i="1139" t="Not Connected"/>
+<phrase i="1138" t="Connected"/>
+<phrase i="1137" t="Concentrator"/>
+<phrase i="1136" t="Auto Network Detection"/>
+<phrase i="1135" t="Username and Password Cleared"/>
+<phrase i="1134" t="Clear Username and Password"/>
+<phrase i="1133" t="VPN"/>
+<phrase i="1132" t="VPN Configuration"/>
+<phrase i="1131" t="Password Failed"/>
+<phrase i="1130" t="VPN Authentication Failed"/>
+<phrase i="1129" t="Username and Password Failed"/>
+<phrase i="1128" t="Attempting VPN Connection..."/>
+<phrase i="1127" t="Enter Username and Password"/>
+<phrase i="1126" t="VPN Login"/>
+<phrase i="1125" t="Retry"/>
+<phrase i="1124" t="Disable"/>
+<phrase i="1123" t="Enable"/>
+<phrase i="1122" t="Select VPN Setting"/>
+
+<!-- Enbloc Dialing - Indicates if Enbloc dialing should be used -->
+<phrase i="1121" t="Use Enbloc Dialing"/>
+
+<!-- VM tool -->
+<phrase i="1120" t="Java Pool Free Memory"/>
+<phrase i="1119" t="System Free Memory"/>
+<phrase i="1118" t="Java Heap Free Memory"/>
+
+<phrase i="1117" t="IPv6 DNS Timeout"/>
+<phrase i="1116" t="No IPv4 TFTP Server"/>
+
+<!-- 802.1x Authentication -->
+<phrase i="1115" t="Successful"/>
+
+<!-- Test Tone Button -->
+<phrase i="1114" t="Tone"/>
+
+<phrase i="1113" t="No IPv6 TFTP Server"/>
+<phrase i="1112" t="DHCPv6 Timeout"/>
+<phrase i="1111" t="DNS Unknown IPv6 Host"/>
+<phrase i="1110" t="No IPv6 DNS Server"/>
+<phrase i="1109" t="Duplicate IPv6 Address"/>
+
+<phrase i="1108" t="Delayed Failure Detection"/>
+<phrase i="1107" t="Normal Failure Detection"/>
+<phrase i="1106" t="Unified CM Connection"/>
+
+<!-- Display refresh rate values -->
+<phrase i="1105" t="Display Flicker Correction"/>
+<phrase i="1104" t="Normal"/>
+
+<!-- New role in CTL file to handle Application Certs -->
+<phrase i="1103" t="Application Server"/>
+
+<!-- Unified CM Details -->
+<phrase i="1102" t="Unified CM"/>
+
+<!-- Network Protocol addition to Call Stats -->
+<phrase i="1101" t="Network Protocol"/>
+
+<!-- Added MIDP Phrases -->
+<phrase i="1100" t="Personal Directory"/>
+<phrase i="1099" t="Corporate Directory"/>
+<phrase i="1098" t="No Services Configured"/>
+<phrase i="1097" t="Ok"/>
+<phrase i="1096" t="Options..."/>
+<phrase i="999" t="am"/>
+<phrase i="998" t="pm"/>
+<phrase i="997" t="DeleteData"/>
+<phrase i="996" t="Application size"/>
+<phrase i="995" t="Application data size"/>
+<phrase i="994" t="Bytes"/>
+<phrase i="993" t="Error, contact administrator"/>
+<phrase i="992" t="Exiting application..."/>
+<phrase i="991" t="Installation canceled"/>
+<phrase i="990" t="Installing application..."/>
+<phrase i="989" t="Starting application..."/>
+
+<!-- Added [987-988] IPv6 Validation Messages -->
+<phrase i="988" t="Invalid IPv6 Prefix Length"/>
+<phrase i="987" t="Invalid IPv6 Address"/>
+
+<!-- Added [986] Bananarama -->
+<phrase i="986" t="%s %s-Button Line"/>
+
+<!-- Added [984 - 985] LCD flicker -->
+<phrase i="985" t="%d Hz"/>
+<phrase i="984" t="Display Refresh Rate"/>
+
+<!-- Added [971-983] IPv6 (Network Configuration->IPv6 Configuration) -->
+<phrase i="983" t="IPv6 Alternate TFTP"/>
+<phrase i="982" t="IPv6 TFTP Server 2"/>
+<phrase i="981" t="IPv6 TFTP Server 1"/>
+<phrase i="980" t="IPv6 Address Released"/>
+<phrase i="979" t="IPv6 DNS Server 2"/>
+<phrase i="978" t="IPv6 DNS Server 1"/>
+<phrase i="977" t="IPv6 Default Router 2"/>
+<phrase i="976" t="IPv6 Default Router 1"/>
+<phrase i="975" t="IPv6 Prefix Length"/>
+<phrase i="974" t="IPv6 Address"/>
+<phrase i="973" t="DHCPv6"/>
+<phrase i="972" t="IPv6 Configuration"/>
+<phrase i="971" t="IPv4 Configuration"/>
+
+<!-- Added [970-970] IPv6 (Security Configuration) -->
+<phrase i="970" t="IPv6 CAPF Server"/>
+
+<!-- Added [960-969] IPv6 (Device Configuration->Network Configuration) -->
+<phrase i="969" t="IPv6 Log Server"/>
+<phrase i="968" t="IPv6 Load Server"/>
+<phrase i="967" t="IPv6 Auto Configuration"/>
+<phrase i="966" t="V6"/>
+<phrase i="965" t="V4"/>
+<phrase i="964" t="IP Preference Mode Control"/>
+<phrase i="963" t="Both (IPv4 and IPv6)"/>
+<phrase i="962" t="IPv6 Only"/>
+<phrase i="961" t="IPv4 Only"/>
+<phrase i="960" t="IP Addressing Mode"/>
+
+<!-- Added [959] E-Hook -->
+<phrase i="959" t="Headset Hookswitch Control"/>
+<!-- Added [945-951] LLDP-MEDP -->
+<phrase i="958" t="LLDP FramesOutTotal"/>
+<phrase i="957" t="LLDP AgeoutsTotal"/>
+<phrase i="956" t="LLDP FramesDiscardedTotal"/>
+<phrase i="955" t="LLDP FramesInErrorsTotal"/>
+<phrase i="954" t="LLDP FramesInTotal"/>
+<phrase i="953" t="LLDP TLVDiscardedTotal"/>
+<phrase i="952" t="LLDP TLVUnrecognizedTotal"/>
+<phrase i="951" t="LLDP-MED: SW Port"/>
+<phrase i="950" t="LLDP: PC Port"/>
+<phrase i="949" t="Critical"/>
+<phrase i="948" t="High"/>
+<phrase i="947" t="Low"/>
+<phrase i="946" t="LLDP Asset ID"/>
+<phrase i="945" t="LLDP Power Priority"/>
+<phrase i="944" t="Alternate %s"/>
+<phrase i="943" t="Personalization"/>
+<phrase i="942" t="Single Button Barge"/>
+<phrase i="941" t="CDP: PC Port"/>
+<phrase i="940" t="CDP: SW Port"/>
+<phrase i="934" t="Use System Default"/>
+<phrase i="933" t="Device Advertise G.722"/>
+<phrase i="932" t="Enterprise Advertise G.722"/>
+<phrase i="931" t="Use Phone Default"/>
+<phrase i="930" t="Wideband Handset UI Control"/>
+<phrase i="929" t="Wideband Headset UI Control"/>
+<phrase i="928" t="Wideband Handset"/>
+<phrase i="926" t="Log Server"/>
+<phrase i="925" t="Peer Firmware Sharing"/>
+<phrase i="924" t="Intercom History"/>
+<phrase i="923" t="Timed Out"/>
+<phrase i="921" t="Held"/>
+<!-- Added new phrases for Firefly II-->
+<phrase i="920" t="&quot;%s&quot; Soft Key Timer"/>
+<phrase i="919" t="Auto Line Select"/>
+<phrase i="918" t="Auto Call Select"/>
+<!-- Added new phrases for OSAGE-->
+<phrase i="917" t="Authenticating"/>
+<phrase i="916" t="Select %s"/>
+<phrase i="915" t="Successful - MD5"/>
+<phrase i="914" t="Password Not Set"/>
+<phrase i="913" t="Password Set"/>
+<phrase i="912" t="Transaction Status"/>
+<phrase i="911" t="Enter Shared Secret"/>
+<phrase i="910" t="Shared Secret"/>
+<phrase i="909" t="Device ID"/>
+<phrase i="908" t="802.1X Authentication Status"/>
+<phrase i="907" t="802.1X Authentication"/>
+<phrase i="906" t="View 802.1X Status"/>
+<phrase i="905" t="EAP-MD5"/>
+<phrase i="904" t="Device Authentication"/>
+<phrase i="903" t="Select 802.1X Authentication Setting"/>
+<phrase i="902" t="Select Device Authentication Setting"/>
+<phrase i="901" t="Acquired"/>
+<phrase i="900" t="Disconnected"/>
+<!-- Added new phrases for WideWorld-->
+<phrase i="899" t="Wideband Headset"/>
+<!-- Added new phrases for RTP Control Protocol-->
+<phrase i="898" t="Sender Size"/>
+<phrase i="897" t="Rcvr Size"/>
+<phrase i="896" t="RTP Control Protocol"/>
+<phrase i="895" t="Rcvr Report Time Sent"/>
+<phrase i="894" t="Rcvr Reports Sent"/>
+<phrase i="893" t="Sender Report Time Sent"/>
+<phrase i="892" t="Sender Reports Sent"/>
+<phrase i="891" t="Stream Status"/>
+<phrase i="890" t="Latency"/>
+<phrase i="889" t="Rcvr Report Time Received"/>
+<phrase i="888" t="Rcvr Reports Received"/>
+<phrase i="887" t="Sender Report Time Received"/>
+<phrase i="886" t="Sender Reports Received"/>
+<phrase i="885" t="%d ms"/>
+<phrase i="884" t="%d%%"/>
+<phrase i="883" t="Recording Tone Duration"/>
+<phrase i="882" t="Recording Tone Remote Volume"/>
+<phrase i="881" t="Recording Tone Local Volume"/>
+<phrase i="880" t="Recording Tone"/>
+<phrase i="879" t="Unknown"/>
+<phrase i="878" t="On %s"/>
+<phrase i="877" t="Duration"/>
+<phrase i="876" t="Call Details"/>
+<phrase i="875" t="View Call Details"/>
+<phrase i="874" t="Higher"/>
+<phrase i="873" t="Lower"/>
+<phrase i="872" t="Even"/>
+<phrase i="871" t="Reverting Focus Priority"/>
+<phrase i="870" t="Request Pending..."/>
+<phrase i="866" t="Time Zone"/>
+<phrase i="865" t="Time"/>
+<phrase i="864" t="Date"/>
+<phrase i="863" t="UCM Configuration Unavailable"/>
+<phrase i="862" t="None"/>
+<phrase i="861" t="Details"/>
+<phrase i="860" t="Load Server is invalid"/>
+<phrase i="859" t="Load Server"/>
+<phrase i="858" t="MOS LQK Version"/>
+<phrase i="857" t="DSP Load ID"/>
+<phrase i="856" t="Tx unicast"/>
+<phrase i="855" t="Logging Display"/>
+<phrase i="854" t="PC Controlled"/>
+<phrase i="853" t="View Call Statistics"/>
+<phrase i="852" t="Severely Conceal Secs"/>
+<phrase i="851" t="Conceal Secs"/>
+<phrase i="850" t="Max Conceal Ratio"/>
+<phrase i="849" t="Interval Conceal Ratio"/>
+<phrase i="848" t="Cumulative Conceal Ratio"/>
+<phrase i="847" t="Max MOS LQK"/>
+<phrase i="846" t="Min MOS LQK"/>
+<phrase i="845" t="Avg MOS LQK"/>
+<phrase i="844" t="MOS LQK"/>
+<phrase i="843" t="BLF for Call Lists"/>
+<phrase i="842" t="URL"/>
+<phrase i="841" t="Number"/>
+<phrase i="840" t="Authentication Failed!"/>
+<phrase i="839" t="Enter Password"/>
+<phrase i="838" t="Not Configured"/>
+<phrase i="837" t="Offline"/>
+<phrase i="836" t="Online"/>
+<phrase i="835" t="Call Control Protocol"/>
+<phrase i="834" t="PC VLAN"/>
+<phrase i="830" t="MIC"/>
+<phrase i="829" t="LSC"/>
+<phrase i="828" t="Select an application"/>
+<phrase i="827" t="Applications"/>
+<phrase i="826" t="Not Assigned"/>
+<phrase i="825" t="Speed Dials"/>
+<phrase i="824" t="Dec"/>
+<phrase i="823" t="Nov"/>
+<phrase i="822" t="Oct"/>
+<phrase i="821" t="Sep"/>
+<phrase i="820" t="Aug"/>
+<phrase i="819" t="Jul"/>
+<phrase i="818" t="Jun"/>
+<phrase i="817" t="May"/>
+<phrase i="816" t="Apr"/>
+<phrase i="815" t="Mar"/>
+<phrase i="814" t="Feb"/>
+<phrase i="813" t="Jan"/>
+<phrase i="812" t="December"/>
+<phrase i="811" t="November"/>
+<phrase i="810" t="October"/>
+<phrase i="809" t="September"/>
+<phrase i="808" t="August"/>
+<phrase i="807" t="July"/>
+<phrase i="806" t="June"/>
+<phrase i="805" t="May"/>
+<phrase i="804" t="April"/>
+<phrase i="803" t="March"/>
+<phrase i="802" t="February"/>
+<phrase i="801" t="January"/>
+<phrase i="800" t="Sat"/>
+<phrase i="799" t="Fri"/>
+<phrase i="798" t="Thu"/>
+<phrase i="797" t="Wed"/>
+<phrase i="796" t="Tue"/>
+<phrase i="795" t="Mon"/>
+<phrase i="794" t="Sun"/>
+<phrase i="793" t="Expansion Module %d"/>
+<phrase i="792" t="Enter String"/>
+<phrase i="791" t="Core Dumps"/>
+<phrase i="790" t="Console Logs"/>
+<phrase i="789" t="Ethernet Disconnected"/>
+<phrase i="788" t="CTL File"/>
+<phrase i="787" t="End Call"/>
+<phrase i="786" t="Hold"/>
+<phrase i="785" t="Transfer"/>
+<phrase i="784" t="Handle Call: %s"/>
+<phrase i="783" t="Line %s is in use"/>
+<phrase i="782" t="No valid CAPF server"/>
+<phrase i="781" t="SRST Router"/>
+<phrase i="780" t="Trust List"/>
+<phrase i="779" t="Default"/>
+<phrase i="778" t="Contrast"/>
+<phrase i="776" t="TFTP Server"/>
+<phrase i="775" t="CAPF Server"/>
+<phrase i="774" t="Span to PC Port"/>
+<phrase i="773" t="Disabled"/>
+<phrase i="772" t="Enabled"/>
+<phrase i="770" t="UI Configuration"/>
+<phrase i="769" t="QoS Configuration"/>
+<phrase i="768" t="Media Configuration"/>
+<phrase i="767" t="Ethernet Configuration"/>
+<phrase i="765" t="Locale Configuration"/>
+<phrase i="764" t="HTTP Configuration"/>
+<phrase i="763" t="Enter or select number to dial"/>
+<phrase i="762" t="Edit number to dial"/>
+<phrase i="761" t="Stop"/>
+<phrase i="760" t="Authorization String"/>
+<phrase i="759" t="Pending"/>
+<phrase i="758" t="Not Installed"/>
+<phrase i="757" t="Installed"/>
+<phrase i="756" t="Updating Locale"/>
+<phrase i="755" t="TFTP NOT AUTHORIZED"/>
+<phrase i="754" t="Lock"/>
+<phrase i="753" t="Unlock"/>
+<phrase i="752" t="a"/>
+<phrase i="751" t="p"/>
+<phrase i="750" t="%d New Missed Calls"/>
+<phrase i="749" t="Rcvr Discarded"/>
+<phrase i="748" t="Max Jitter"/>
+<phrase i="747" t="Avg Jitter"/>
+<phrase i="746" t="Sender Size: %d ms"/>
+<phrase i="745" t="Rcvr Size: %d ms"/>
+<phrase i="744" t="Sender Codec"/>
+<phrase i="743" t="Rcvr Codec"/>
+<phrase i="742" t="Web Access Disabled"/>
+<phrase i="741" t="Erasing %s"/>
+<phrase i="740" t="Rx PacketNoDes"/>
+<phrase i="739" t="CTL installed"/>
+<phrase i="738" t="No CTL installed"/>
+<phrase i="737" t="CTL update failed"/>
+<phrase i="736" t="Updating CTL"/>
+<phrase i="735" t="TFTP not in CTL"/>
+<phrase i="734" t="Select Security Setting"/>
+<phrase i="733" t="Security Configuration"/>
+<phrase i="732" t="Encrypted"/>
+<phrase i="731" t="Authenticated"/>
+<phrase i="730" t="Non Secure"/>
+<phrase i="729" t="TLS error to "/>
+<phrase i="728" t="Processing..."/>
+<phrase i="727" t="Invalid input"/>
+<phrase i="726" t="Key generation failed"/>
+<phrase i="725" t="Connection failed"/>
+<phrase i="724" t="Failed"/>
+<phrase i="723" t="Timeout"/>
+<phrase i="721" t="Authorization Request..."/>
+<phrase i="720" t="Connecting..."/>
+<phrase i="719" t="Retrying CAPF..."/>
+<phrase i="718" t="Generating keys..."/>
+<phrase i="717" t="Operation Cancelled"/>
+<phrase i="716" t="Updating Certificate..."/>
+<phrase i="714" t="Neighbor IPv6 Address"/>
+<phrase i="713" t="DSCP For Services"/>
+<phrase i="712" t="DSCP For Configuration"/>
+<phrase i="711" t="DSCP For Call Control"/>
+<phrase i="710" t="File Auth Fail"/>
+<phrase i="709" t="Neighbor Port"/>
+<phrase i="708" t="Neighbor IP Address"/>
+<phrase i="707" t="Neighbor Device ID"/>
+<phrase i="706" t="By %s"/>
+<phrase i="705" t="Forwarded"/>
+<phrase i="704" t="Requesting Service URL Status"/>
+<phrase i="703" t="Requesting Feature Key Status"/>
+<phrase i="698" t="AbbrDial"/>
+<phrase i="697" t="Background Image Preview"/>
+<phrase i="696" t="Security Mode"/>
+<phrase i="695" t="Web Access Enabled"/>
+<phrase i="694" t="Preview"/>
+<phrase i="693" t="Select An Image"/>
+<phrase i="692" t="Selections Unavailable"/>
+<phrase i="689" t="Requesting Image"/>
+<phrase i="688" t="Requesting Selections"/>
+<phrase i="687" t="Background Images"/>
+<phrase i="686" t="Select Item"/>
+<phrase i="685" t="Select a Messaging Service"/>
+<phrase i="684" t="Maximum Input Received"/>
+<phrase i="683" t="Select"/>
+<phrase i="682" t="Realm"/>
+<phrase i="681" t="Video Capability Enabled"/>
+<phrase i="680" t="Auto Line Select Enabled"/>
+<phrase i="679" t="Voice VLAN Enabled"/>
+<phrase i="678" t="GARP Enabled"/>
+<phrase i="673" t="Erasing Network Settings"/>
+<phrase i="672" t="Connected: %s"/>
+<phrase i="671" t="HTTP 404: Page Not Found"/>
+<phrase i="670" t="Defaulting to TFTP server"/>
+<phrase i="669" t="Load Authenication Failed"/>
+<phrase i="668" t="No Files Changed"/>
+<phrase i="667" t="Select Port Config"/>
+<phrase i="666" t="No Link"/>
+<phrase i="665" t="Auto Negotiate"/>
+<phrase i="662" t="Select Line"/>
+<phrase i="661" t="Unlock Settings First!"/>
+<phrase i="660" t="Debug Mode Off!"/>
+<phrase i="659" t="Debug Mode On!"/>
+<phrase i="658" t="Settings Unlocked!"/>
+<phrase i="657" t="Settings Locked!"/>
+<phrase i="656" t="Enter New %s"/>
+<phrase i="655" t="OS Load ID"/>
+<phrase i="654" t="JVM Load ID"/>
+<phrase i="652" t="Default Ring"/>
+<phrase i="647" t="View Device Configuration"/>
+<phrase i="646" t="Select Device Setting"/>
+<phrase i="645" t="View Network Configuration"/>
+<phrase i="644" t="Select Audio Path"/>
+<phrase i="643" t="Select User Preference"/>
+<phrase i="642" t="Rings"/>
+<phrase i="641" t="Audio Preferences"/>
+<phrase i="640" t="User Preferences"/>
+<phrase i="639" t="Load File"/>
+<phrase i="638" t="Speaker Enabled"/>
+<phrase i="637" t="Headset Enabled"/>
+<phrase i="636" t="User Locale Char Set"/>
+<phrase i="635" t="Device Configuration"/>
+<phrase i="634" t="Phone-Abort"/>
+<phrase i="633" t="Network Locale Version"/>
+<phrase i="632" t="User Locale Version"/>
+<phrase i="631" t="TFTP Request Cancelled"/>
+<phrase i="630" t="Dhcp Disabled"/>
+<phrase i="629" t="Ip Address Required"/>
+<phrase i="628" t="State "/>
+<phrase i="627" t="Default"/>
+<phrase i="626" t="Message Waiting"/>
+<phrase i="625" t="Model Number"/>
+<phrase i="624" t="Select Model Setting"/>
+<phrase i="623" t="Model Information"/>
+<phrase i="608" t="Not Supported"/>
+<phrase i="607" t="Error Updating Locale"/>
+<phrase i="606" t="Waiting for state %d response from %s"/>
+<phrase i="605" t="Waiting for %s From %s"/>
+<phrase i="604" t="BOOTP Server"/>
+<phrase i="603" t="DHCP Server"/>
+<phrase i="596" t="Serial Number"/>
+<phrase i="595" t="Hardware Revision"/>
+<phrase i="594" t="Boot Load ID"/>
+<phrase i="593" t="App Load ID"/>
+<phrase i="592" t="Phone DN"/>
+<phrase i="591" t="more"/>
+<phrase i="590" t="Select"/>
+<phrase i="589" t="Exit"/>
+<phrase i="588" t="Down"/>
+<phrase i="587" t="Up"/>
+<phrase i="586" t="Cancel"/>
+<phrase i="585" t="Edit"/>
+<phrase i="584" t="No"/>
+<phrase i="583" t="Yes"/>
+<phrase i="582" t="Play"/>
+<phrase i="581" t="Dial"/>
+<phrase i="580" t="EditDial"/>
+<phrase i="579" t="Save"/>
+<phrase i="577" t="Delete"/>
+<phrase i="574" t="Validate"/>
+<phrase i="572" t="Next"/>
+<phrase i="571" t="Update"/>
+<phrase i="570" t="Clear"/>
+<phrase i="569" t="Submit"/>
+<phrase i="567" t="Network Locale"/>
+<phrase i="566" t="User Locale"/>
+<phrase i="565" t="Kate File"/>
+<phrase i="564" t="Tone File"/>
+<phrase i="563" t="Ringer Is Busy!"/>
+<phrase i="562" t="TFTP Server 2"/>
+<phrase i="559" t="SW Port Configuration"/>
+<phrase i="558" t="PC Port Configuration"/>
+<phrase i="557" t="PC Port Disabled"/>
+<phrase i="556" t="Error"/>
+<phrase i="555" t="Invalid Argument"/>
+<phrase i="554" t="Base Phone"/>
+<phrase i="553" t="Expansion Module(s)"/>
+<phrase i="550" t="Voice Mail"/>
+<phrase i="549" t="Messages"/>
+<phrase i="536" t="UCM-ICMP-Unreach"/>
+<phrase i="535" t="Select a Call..."/>
+<phrase i="534" t="Proxy Server URL"/>
+<phrase i="533" t="Authentication URL"/>
+<phrase i="532" t="AutoDial Cancelled!"/>
+<phrase i="528" t="HTTP File Error"/>
+<phrase i="527" t="XML Error [4]: Parse Error"/>
+<phrase i="526" t="File Create Err"/>
+<phrase i="525" t="Last="/>
+<phrase i="524" t="Load Rejected HC"/>
+<phrase i="523" t="Phone-Reg-Rej"/>
+<phrase i="522" t="Reset-Restart"/>
+<phrase i="521" t="Reset-Reset"/>
+<phrase i="520" t="Phone-Re-IP"/>
+<phrase i="519" t="Phone-Keypad"/>
+<phrase i="518" t="Phone-Diag."/>
+<phrase i="517" t="Failback"/>
+<phrase i="516" t="KeepaliveTO"/>
+<phrase i="515" t="UCM-NAKed"/>
+<phrase i="514" t="UCM-aborted-TCP"/>
+<phrase i="513" t="UCM-reset-TCP"/>
+<phrase i="512" t="TCP-Bad-ACK"/>
+<phrase i="511" t="Error Verifying Config Info"/>
+<phrase i="510" t="Port Information"/>
+<phrase i="509" t="Ethernet Information"/>
+<phrase i="508" t="%s Too Large"/>
+<phrase i="507" t="From "/>
+<phrase i="506" t="No Entries"/>
+<phrase i="505" t="Enter User Id and Password"/>
+<phrase i="504" t="Password"/>
+<phrase i="503" t="UserName"/>
+<phrase i="502" t="Select Service..."/>
+<phrase i="501" t="Handle Current Call..."/>
+<phrase i="500" t="TFTP Size Error"/>
+<phrase i="499" t="Phrase File"/>
+<phrase i="498" t="%s Unavailable"/>
+<phrase i="497" t="Bad %s"/>
+<phrase i="496" t="Log %d"/>
+<phrase i="495" t="Access"/>
+<phrase i="493" t="Phone"/>
+<phrase i="492" t="Network"/>
+<phrase i="491" t="Stream %d"/>
+<phrase i="490" t="Streaming Statistics"/>
+<phrase i="489" t="Device Logs"/>
+<phrase i="488" t="Port %d"/>
+<phrase i="487" t="Ethernet"/>
+<phrase i="486" t="Device Information"/>
+<phrase i="485" t="Forwarding Delay"/>
+<phrase i="484" t="Erase"/>
+<phrase i="483" t="Alternate TFTP"/>
+<phrase i="482" t="DHCP Address Released"/>
+<phrase i="481" t="DHCP"/>
+<phrase i="480" t="Bcast"/>
+<phrase i="479" t="REr"/>
+<phrase i="478" t="Xmt"/>
+<phrase i="477" t="Rcv"/>
+<phrase i="476" t="Version"/>
+<phrase i="474" t=" ON "/>
+<phrase i="473" t=" YES"/>
+<phrase i="472" t=" OFF"/>
+<phrase i="471" t=" NO"/>
+<phrase i="470" t="RTP delay"/>
+<phrase i="469" t="TFTP Error"/>
+<phrase i="468" t="TFTP Access Error"/>
+<phrase i="467" t="File Not Found"/>
+<phrase i="466" t="Last=0x%02X"/>
+<phrase i="465" t="UCM-closed-TCP"/>
+<phrase i="464" t="TCP-timeout"/>
+<phrase i="463" t="Initialized"/>
+<phrase i="462" t="Name=%15s"/>
+<phrase i="461" t="Updating Software"/>
+<phrase i="460" t="ROM Checksum Error"/>
+<phrase i="459" t=" Load="/>
+<phrase i="458" t="Microphone Mute Off"/>
+<phrase i="457" t="Microphone Mute On"/>
+<phrase i="456" t="Duplicate IPv4 Address"/>
+<phrase i="455" t="IPv4 Address Released"/>
+<phrase i="454" t="Resetting"/>
+<phrase i="453" t="Requesting Server List"/>
+<phrase i="452" t="Requesting Speed Status"/>
+<phrase i="451" t="Requesting Line Status"/>
+<phrase i="450" t="Requesting Softkey Set"/>
+<phrase i="449" t="Requesting Softkey Template"/>
+<phrase i="448" t="Requesting Template"/>
+<phrase i="447" t="Verifying Load"/>
+<phrase i="445" t="Registering"/>
+<phrase i="444" t="Opening "/>
+<phrase i="443" t="Configuring Unified CM List"/>
+<phrase i="442" t="Configuring IP"/>
+<phrase i="441" t="Configuring VLAN"/>
+<phrase i="440" t="%d of %d"/>
+<phrase i="439" t="Manufacturing Info Invalid"/>
+<phrase i="438" t="XML Error [%d]!"/>
+<phrase i="437" t="HTTP Error [%d]!"/>
+<phrase i="436" t="Host Not Found"/>
+<phrase i="435" t="HTTP Request Cancelled"/>
+<phrase i="434" t="Redirecting..."/>
+<phrase i="433" t="Authorization Required!"/>
+<phrase i="432" t="Half"/>
+<phrase i="431" t="Full"/>
+<phrase i="430" t="Elapsed Time"/>
+<phrase i="420" t="Invalid VLAN"/>
+<phrase i="419" t="Invalid IP Address"/>
+<phrase i="418" t="Invalid Subnet mask"/>
+<phrase i="414" t="BOOTP Server Used"/>
+<phrase i="412" t="Duplicate IP"/>
+<phrase i="411" t="No Default Router"/>
+<phrase i="409" t="Load ID Incorrect"/>
+<phrase i="408" t="No IPv4 DNS Server"/>
+<phrase i="407" t="IPv4 DNS Timeout"/>
+<phrase i="406" t="DNS Unknown IPv4 Host"/>
+<phrase i="405" t="TFTP General Error"/>
+<phrase i="404" t="CFG File Not Found"/>
+<phrase i="403" t="TFTP Timeout"/>
+<phrase i="402" t="IPv4 DHCP Timeout"/>
+<phrase i="401" t="Router Required"/>
+<phrase i="400" t="Router Not On Subnet"/>
+<phrase i="399" t="TFTP Server Required"/>
+<phrase i="398" t="Invalid Information"/>
+<phrase i="397" t="Handset Volume saved!"/>
+<phrase i="396" t="Headset Volume saved!"/>
+<phrase i="395" t="Speaker Volume saved!"/>
+<phrase i="394" t="Changes not saved!"/>
+<phrase i="393" t="Save Volume Adjustments?"/>
+<phrase i="392" t="Enter Input Data..."/>
+<phrase i="391" t="Services Unavailable"/>
+<phrase i="390" t="Services"/>
+<phrase i="389" t="View Hardware Information"/>
+<phrase i="388" t="Hardware Information"/>
+<phrase i="387" t="View Debug Information"/>
+<phrase i="386" t="Debug Display"/>
+<phrase i="385" t="Select Firmware Version Setting"/>
+<phrase i="384" t="Firmware Versions"/>
+<phrase i="383" t="View Network Statistics"/>
+<phrase i="382" t="Network Statistics"/>
+<phrase i="381" t="View Status Messages"/>
+<phrase i="380" t="Entry Validated"/>
+<phrase i="379" t="New %s:"/>
+<phrase i="378" t="Current %s:"/>
+<phrase i="377" t="Settings Status"/>
+<phrase i="376" t="Select Status Item"/>
+<phrase i="375" t="Status Messages"/>
+<phrase i="374" t="Select Network Setting"/>
+<phrase i="373" t="Ring List Unavailable!"/>
+<phrase i="372" t="Bad Ring List File!"/>
+<phrase i="371" t="Ring File Unavailable!"/>
+<phrase i="370" t="Requesting Ring File ..."/>
+<phrase i="369" t="Ring Type"/>
+<phrase i="368" t="Select Ringer"/>
+<phrase i="367" t="Requesting Ring List..."/>
+<phrase i="366" t="Chirp 2"/>
+<phrase i="365" t="Chirp 1"/>
+<phrase i="364" t="Change Accepted and Saved"/>
+<phrase i="362" t="All Changes Saved"/>
+<phrase i="359" t="Select Setting"/>
+<phrase i="358" t="Settings"/>
+<phrase i="357" t="Status"/>
+<phrase i="356" t="Network Configuration"/>
+<phrase i="355" t="Viewing Angle"/>
+<phrase i="354" t="Refine Search Criteria..."/>
+<phrase i="353" t="No Records"/>
+<phrase i="352" t="%d Records"/>
+<phrase i="351" t="%s Search"/>
+<phrase i="350" t="Call History Cleared!"/>
+<phrase i="349" t="Select Directory"/>
+<phrase i="348" t="Invalid Directory URL!..."/>
+<phrase i="347" t="Directories"/>
+<phrase i="346" t="Placed Calls"/>
+<phrase i="345" t="Received Calls"/>
+<phrase i="344" t="Missed Calls"/>
+<phrase i="343" t="UCM down, features disabled"/>
+<phrase i="342" t="%s for"/>
+<phrase i="341" t="That key is not active here"/>
+<phrase i="340" t="Requesting..."/>
+<phrase i="339" t="Call Statistics"/>
+<phrase i="338" t="Help"/>
+<phrase i="337" t="Choose an option or pause for help."/>
+<phrase i="336" t="Press ? key to cancel..."/>
+<phrase i="335" t="All Fields Saved"/>
+<phrase i="334" t="No Changes Saved"/>
+<phrase i="333" t="%d days, "/>
+<phrase i="332" t="1 day, "/>
+<phrase i="331" t="On %s at "/>
+<phrase i="330" t="%s at "/>
+<phrase i="329" t="Yesterday at "/>
+<phrase i="328" t="Today at "/>
+<phrase i="327" t="Saturday"/>
+<phrase i="326" t="Friday"/>
+<phrase i="325" t="Thursday"/>
+<phrase i="324" t="Wednesday"/>
+<phrase i="323" t="Tuesday"/>
+<phrase i="322" t="Monday"/>
+<phrase i="321" t="Sunday"/>
+<phrase i="320" t="To %s"/>
+<phrase i="319" t="Unknown Number"/>
+<phrase i="318" t="From %s"/>
+<phrase i="317" t="For %s"/>
+<phrase i="316" t="Forward %s"/>
+<phrase i="315" t="External Call"/>
+<phrase i="314" t="In Use Remotely"/>
+<phrase i="313" t="%d New Missed Call%c"/>
+<phrase i="312" t="Rx Longs"/>
+<phrase i="311" t="Rx Shorts"/>
+<phrase i="310" t="Rx Broadcasts"/>
+<phrase i="309" t="Rx Multicasts"/>
+<phrase i="308" t="Rx Runt"/>
+<phrase i="307" t="Rx Bad Preamble"/>
+<phrase i="306" t="Rx CRC Errors"/>
+<phrase i="305" t="Rx Frames"/>
+<phrase i="304" t="Rx Long/CRC"/>
+<phrase i="303" t="Rx Overruns"/>
+<phrase i="302" t="Tx Deferred Abort"/>
+<phrase i="301" t="Tx Collisions"/>
+<phrase i="300" t="Tx Multicasts"/>
+<phrase i="299" t="Tx Broadcasts"/>
+<phrase i="298" t="Tx Frames"/>
+<phrase i="297" t="Tx Excessive Collisions"/>
+<phrase i="296" t="overflow Drop"/>
+<phrase i="295" t="Tx size1024to1518"/>
+<phrase i="294" t="Tx size512to1023"/>
+<phrase i="293" t="Tx size256to511"/>
+<phrase i="292" t="Tx size128to255"/>
+<phrase i="291" t="Tx size65to127"/>
+<phrase i="290" t="Tx size64"/>
+<phrase i="289" t="Tx totalOct"/>
+<phrase i="288" t="Tx multicast"/>
+<phrase i="287" t="Tx broadcast"/>
+<phrase i="286" t="Tx excessLength"/>
+<phrase i="285" t="Tx fifoUnderrun"/>
+<phrase i="284" t="Tx collisions"/>
+<phrase i="283" t="Tx totalGoodPkt"/>
+<phrase i="282" t="Tx lateCollision"/>
+<phrase i="281" t="Tx excessDefer"/>
+<phrase i="280" t="Rx tokenDrop"/>
+<phrase i="279" t="Rx size1519to1548"/>
+<phrase i="278" t="Rx size1024to1518"/>
+<phrase i="277" t="Rx size512to1023"/>
+<phrase i="276" t="Rx size256to511"/>
+<phrase i="275" t="Rx size128to255"/>
+<phrase i="274" t="Rx size65to127"/>
+<phrase i="273" t="Rx size64"/>
+<phrase i="272" t="Rx longErr"/>
+<phrase i="271" t="Rx longGood"/>
+<phrase i="270" t="Rx shortGood"/>
+<phrase i="269" t="Rx shortErr"/>
+<phrase i="268" t="Rx unicast"/>
+<phrase i="267" t="Rx broadcast"/>
+<phrase i="266" t="Rx multicast"/>
+<phrase i="265" t="Rx alignErr"/>
+<phrase i="264" t="Rx crcErr"/>
+<phrase i="263" t="Total Octets"/>
+<phrase i="262" t="Rx totalPkt"/>
+<phrase i="261" t="Carrier Events"/>
+<phrase i="260" t="RTP Invalid"/>
+<phrase i="259" t="Not In Service"/>
+<phrase i="258" t="Not Ready"/>
+<phrase i="254" t="Rcvr Octets"/>
+<phrase i="253" t="Rcvr Packets"/>
+<phrase i="248" t="Rcvr Lost Packets"/>
+<phrase i="243" t="Sender Octets"/>
+<phrase i="242" t="Sender Packets"/>
+<phrase i="241" t="Name"/>
+<phrase i="239" t="Start Time"/>
+<phrase i="235" t="Local Address"/>
+<phrase i="234" t="Remote Address "/>
+<phrase i="232" t="Port Fast"/>
+<phrase i="230" t="DHCP Disabled"/>
+<phrase i="229" t="Idle URL Time"/>
+<phrase i="228" t="Idle URL"/>
+<phrase i="227" t="Services URL"/>
+<phrase i="226" t="Messages URL"/>
+<phrase i="225" t="Directories URL"/>
+<phrase i="224" t="Information URL"/>
+<phrase i="218" t="Admin. VLAN Id"/>
+<phrase i="217" t="Operational VLAN Id"/>
+<phrase i="216" t="DNS Server 5"/>
+<phrase i="215" t="DNS Server 4"/>
+<phrase i="214" t="DNS Server 3"/>
+<phrase i="213" t="DNS Server 2"/>
+<phrase i="212" t="DNS Server 1"/>
+<phrase i="211" t="Default Router 5"/>
+<phrase i="210" t="Default Router 4"/>
+<phrase i="209" t="Default Router 3"/>
+<phrase i="208" t="Default Router 2"/>
+<phrase i="207" t="Default Router 1"/>
+<phrase i="206" t="TFTP Server 1"/>
+<phrase i="205" t="Subnet Mask"/>
+<phrase i="204" t="IP Address"/>
+<phrase i="203" t="Domain Name"/>
+<phrase i="202" t="Host Name"/>
+<phrase i="201" t="MAC Address"/>
+</phrases>

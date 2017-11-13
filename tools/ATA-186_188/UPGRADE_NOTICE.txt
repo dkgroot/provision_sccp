@@ -1,0 +1,7 @@
+NOTE:  Users of ATA 186 v1.34 software (and earlier 
+versions) may not directly upgrade to v2.10 or higher
+software versions.  Instead, they must first upgrade 
+to v2.0, then to v2.10 or higher.  For user convenience, 
+a transition software image (transition.zup) has been 
+included in this zip file. Users of v1.34 and earlier 
+versions must upgrade to the transition image first.

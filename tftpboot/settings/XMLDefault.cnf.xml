@@ -1,0 +1,93 @@
+<!--
+  Example XMLDefault.cnf.xml file, with all known devices with there loadInformationNumbers and some of the firmware versions filled in.
+-->
+<Default>
+  <callManagerGroup>
+  <members>
+    <member priority="0">
+      <callManager>
+        <name>moviebox</name>
+        <ipv6Addr>2001:470:1f15:3ce::466</ipv6Addr>
+        <ports>
+          <ethernetPhonePort>2000</ethernetPhonePort>
+        </ports>
+        <processNodeName>moviebox.talon1.nl</processNodeName>
+      </callManager>
+    </member>
+    <!--<member priority="1">
+      <callManager>
+        <ports>
+          <ethernetPhonePort>2000</ethernetPhonePort>
+        </ports>
+        <processNodeName>192.168.178.3</processNodeName>
+      </callManager>
+    </member>-->
+  </members>
+  </callManagerGroup>
+  <loadInformation00005 model="Cisco IP Phone 7961">SCCP41.8-3-3S</loadInformation00005>
+  <loadInformation00006 model="Cisco IP Phone 7910">SCCP11.9-0-2SR1S</loadInformation00006>
+  <loadInformation00007 model="Cisco IP Phone 7960">P00308010200</loadInformation00007>
+  <loadInformation00008 model="Cisco IP Phone 7940">P00308010200</loadInformation00008>
+  <loadInformation00009 model="Cisco IP Conf  7935">P00503021900</loadInformation00009>
+  <loadInformation00115 model="Cisco IP Phone 7941">SCCP41.9-3-1SR1-1S</loadInformation00115>
+  <loadInformation00119 model="Cisco IP Phone 7971">SCCP70.9-3-1-1S</loadInformation00119>
+  <loadInformation00302 model="Cisco IP Phone 7985">cmterm_7985.4-1-7-0</loadInformation00302>
+  <loadInformation00307 model="Cisco IP Phone 7911">SCCP11.9-1-1SR1S</loadInformation00307>
+  <loadInformation00308 model="Cisco IP Phone 7961GE">SCCP41.9-3-1SR1-1S</loadInformation00308>
+  <loadInformation00309 model="Cisco IP Phone 7941GE">SCCP41.9-3-1SR1-1S</loadInformation00309>
+  <loadInformation00348 model="Cisco IP Phone 7931">SCCP31.8-3-3S</loadInformation00348>
+  <loadInformation00365 model="Cisco IP Phone 7921">CP7921G-1.4.3.4</loadInformation00365>
+  <loadInformation00484 model="Cisco IP Phone 7925">CP7925G-1.4.1SR1</loadInformation00484>
+  <loadInformation00577 model="Cisco IP Phone 7926">CP7926G-1.4.1SR1</loadInformation00577>
+  <loadInformation00369 model="Cisco IP Phone 7906">SCCP11.9-1-1SR1S</loadInformation00369>
+  <loadInformation00404 model="Cisco IP Phone 7962">SCCP42.9-4-2SR1-1S</loadInformation00404>
+  <loadInformation00431 model="Cisco IP Conf  7937">apps37sccp.1-4-5-7</loadInformation00431>
+  <loadInformation00434 model="Cisco IP Phone 7942">SCCP42.9-3-1-1S</loadInformation00434>
+  <loadInformation00435 model="Cisco IP Phone 7945">SCCP45.9-3-1SR1-1S</loadInformation00435>
+  <loadInformation00436 model="Cisco IP Phone 7965">SCCP45.9-3-1SR1-1S</loadInformation00436>
+  <loadInformation00437 model="Cisco IP Phone 7975">SCCP75.9-3-1SR1-1S</loadInformation00437>
+  <loadInformation00495 model="Cisco IP Phone 6921">SCCP69xx.9-4-1-3SR3</loadInformation00495>
+  <loadInformation00496 model="Cisco IP Phone 6941">SCCP69xx.9-3-1-3</loadInformation00496>
+  <loadInformation00497 model="Cisco IP Phone 6961">SCCP69xx.9-3-1-3</loadInformation00497>
+  <loadInformation00547 model="Cisco IP Phone 6901">SCCP6901.9-2-1-a</loadInformation00547>
+  <loadInformation00548 model="Cisco IP Phone 6911">SCCP6911.9-2-1-a</loadInformation00548>
+  <loadInformation00564 model="Cisco IP Phone 6945">SCCP6945.9-3-1-3</loadInformation00564>
+  <loadInformation00585 model="Cisco IP Phone 8945">SCCP894x.9-4-2SR1-2</loadInformation00585>
+  <loadInformation00586 model="Cisco IP Phone 8941">SCCP894x.9-4-2SR1-2</loadInformation00586>
+  <loadInformation20000 model="Cisco IP Phone 7905">CP7905080003SCCP070409A</loadInformation20000>
+  <loadInformation30002 model="Cisco IP Phone 7920">cmterm_7920.4.0-03-02</loadInformation30002>
+  <loadInformation30006 model="Cisco IP Phone 7970">SCCP70.9-3-1-1S</loadInformation30006>
+  <loadInformation30007 model="Cisco IP Phone 7912">CP7912080004SCCP080108A</loadInformation30007>
+  <loadInformation30008 model="Cisco IP Phone 7902">CP7902080002SCCP060817A</loadInformation30008>
+  <loadInformation30016 model="Cisco IP Communicator"></loadInformation30016>
+  <loadInformation30018 model="Cisco IP Phone 7961">SCCP41.9-3-1SR1-1S</loadInformation30018>
+  <loadInformation30019 model="Cisco IP Phone 7936">cmterm_7936.3-3-21-0</loadInformation30019>
+
+  <loadInformation80000 model="Cisco SPA 521S"></loadInformation80000>
+  <loadInformation80001 model="Cisco SPA 521SG"></loadInformation80001>
+  <loadInformation80003 model="Cisco SPA 502G"></loadInformation80003>
+  <loadInformation80004 model="Cisco SPA 504G">SPA504G-762</loadInformation80004>
+  <loadInformation80005 model="Cisco SPA 525G"></loadInformation80005>
+  <loadInformation80007 model="Cisco SPA 509G"></loadInformation80007>
+  <loadInformation80009 model="Cisco SPA 525G2"></loadInformation80009>
+  <loadInformation80011 model="Cisco SPA 303G"></loadInformation80011>
+  <loadInformation80012 model="Cisco SPA 512G"></loadInformation80012>
+  <loadInformation80013 model="Cisco SPA 514G"></loadInformation80013>
+
+  <loadInformation00275 model="Nokia E Series"></loadInformation00275>
+  <loadInformation00376 model="Nokia ICC client"></loadInformation00376>
+
+  <loadInformation00124 model="Cisco IP Phone 7914 14-Button Line Expansion Module">S00105000400</loadInformation00124>
+  <loadInformation00227 model="Cisco IP Phone 7915 12-Button Line Expansion Module">B015-1-0-4-2</loadInformation00227>
+  <loadInformation00228 model="Cisco IP Phone 7915 24-Button Line Expansion Module">B015-1-0-4-2</loadInformation00228>
+  <loadInformation00229 model="Cisco IP Phone 7916 12-Button Line Expansion Module">B016-1-0-4</loadInformation00229>
+  <loadInformation00230 model="Cisco IP Phone 7916 24-Button Line Expansion Module">B016-1-0-4</loadInformation00230>
+
+  <idleURL>http://192.168.178.3/idle.php</idleURL> 
+  <authenticationURL>http://192.168.178.3/authenticate.php</authenticationURL>
+  <informationURL>http://192.168.178.3/cisco_menu/help/help.php</informationURL>
+  <messagesURL/>
+  <proxyServerURL/>
+  <servicesURL>http://192.168.178.3/cisco_menu/menu.php</servicesURL>
+  <directoryURL>http://192.168.178.3/cisco_menu/directory/menu.php</directoryURL>
+</Default>

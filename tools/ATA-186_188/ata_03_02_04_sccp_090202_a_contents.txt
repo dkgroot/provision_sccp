@@ -1,0 +1,55 @@
+Contents of ata_03_02_03_sccp_051201_a.zip:
+
+1) This file (ata_03_02_03_sccp_051201_a_contents.txt)
+
+2) URL for ATA 188 Release Notes (release_notes.txt)
+
+3) ATA 188 Administrator's Guide URL (admin_guide_url.txt)
+
+4) ATA 188 software image (for PC-based and TFTP methods) 
+	(ATA030203SCCP051201A.zup)
+
+5) Executable upgrade program for PC, Linux, and Sun systems
+	(sata186us.exe, sata186us.linux, sata186us.sun)
+
+6) Upgrade program instructions (sata186us.txt)
+
+7) Executable debug program for PC, Linux, and Sun systems
+	(prserv.exe, prserv.linux, prserv.sun)
+
+8) Debug program instructions (prserv.txt)
+
+9) Image name extraction program (zupinfo.exe)
+
+10) Image name extraction program instructions (zupinfo.txt)
+
+11) Executable Windows file for use in creating provisioning 
+	files for PC, Linux, and Sun systems
+	(cfgfmt.exe, cfgfmt.linux, cfgfmt.sun)
+
+12) Provisioning file maker instructions (cfgfmt.txt)
+
+13) Auxiliary file for use with cfgfmt (ptag.dat)
+
+14) Example SCCP user profile (sccp_example.txt)
+
+15) Configuration tool for the ATA (bitaid.exe)
+
+16) Instructions for using the bitaid tool (bitaid.txt)
+
+17) Tool to allow ATA configuration from command-line prompt (atapost.pl)
+
+18) Atapost program instructions (atapost.txt)
+
+19) Sample web pages showing factory settings for SCCP environments
+	(SCCPCfg.htm, NetCfg.htm, ToneCfg.htm, 
+	 AudioCfg.htm, ServiceCfg.htm, DebugCfg.htm)
+
+20) Configuration information for call progress tones by country 
+	(cptones.txt)
+
+20) Special transition software image for upgrade from v1.xx 
+	(transition.zup)
+
+22) Important upgrade notice for users of software versions
+	v1.34 or lower (UPGRADE_NOTICE.txt)

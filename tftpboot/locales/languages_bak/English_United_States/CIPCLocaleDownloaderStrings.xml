@@ -1,0 +1,168 @@
+<?xml version="1.0"?>
+
+<CommunicatorStrings>
+	<label rtlFlag="0"/>
+	<label ok			="OK"/>
+	<label cancel		="Cancel"/>
+	<label apply		="Apply"/>
+	<label verify		="Verify"/>
+	<label yes			="Yes"/>
+	<label no			="No"/>
+	<label yesToAll		="Yes to all"/>
+	<label noToAll		="No to all"/>
+	<label abort		="Abort"/>
+	<label retry		="Retry"/>
+	<label error		="Error"/>
+	<label edit			="Edit"/>
+	<label exit			="Exit"/>
+	<label close		="Close"/>
+	<label view			="View"/>
+	<label update		="Update"/>
+	<label help			="Help"/>
+	<label about		="About"/>
+	<label proceed		="Proceed"/>
+	<label next			="Next"/>
+	<label back			="Back"/>
+	<label finish		="Finish"/>
+	<label accept		="Accept"/>
+	<label acceptAll	="Accept all"/>
+	<label reject		="Reject"/>
+	<label rejectAll	="Reject all"/>
+	<label status		="Status"/>
+	<label cannotProceed="Cannot Proceed"/>
+	<label details		="Details"/>
+	<label viewDetails	="View Details"/>
+	<label consultAdmin	="Consult your system administrator"/>
+	<label ensureNetwork="Ensure that you are connected to the network"/>
+
+	<label title		="Cisco IP Communicator"/>
+	<label autoUpdate	="CIPCLocaleDownloader"/>
+	<label file			="File"/>
+	<label module		="Module"/>
+	<label archive		="Archive"/>
+	<label downloading	="Downloading..."/>
+	<label installing	="Installing..."/>
+	<label extracting	="Extracting..."/>
+	<label progress		="Progress"/>
+	<label updateType	="Update Type"/>
+	<label recommended	="Recommended"/>
+	<label required		="Required"/>
+
+	<label bitsLong			="bits"/>
+	<label bitsShort		="b"/>
+	<label bytesLong		="bytes"/>
+	<label bytesShort		="B"/>
+	<label kiloLong			="Kilo"/>
+	<label kiloShort		="K"/>
+	<label kilobytesShort	="KB"/>
+	<label kilobytesLong	="Kilobytes"/>
+	<label megaLong			="Mega"/>
+	<label megaShort		="M"/>
+	<label megabytesShort	="MB"/>
+	<label megabytesLong	="Megabytes"/>
+	<label gigaLong			="Giga"/>
+	<label gigaShort		="G"/>
+	<label gigabytesShort	="GB"/>
+	<label gigabytesLong	="Gigabytes"/>
+	<label teraLong			="Tera"/>
+	<label teraShort		="T"/>
+	<label terabytesShort	="TB"/>
+	<label terabytesLong	="Terabytes"/>
+
+	<label downloadSpeed	="Download Speed"/>
+	<label timeRemaining	="Time Remaining"/>
+
+	<label secondShort		="s"/>
+	<label secondLong		="second"/>
+	<label secondsLong		="seconds"/>
+	<label minuteShort		="min"/>
+	<label minuteLong		="minute"/>
+	<label minutesLong		="minutes"/>
+	<label hourShort		="hr"/>
+	<label hoursLong		="hour"/>
+	<label hoursLong		="hours"/>
+
+	<label unknown					="Unknown"/>
+	<label overallProgress			="Overall Progress..."/>
+	<label gettingManifest			="Downloading install description..."/>
+	<label inspectingInstallation	="Inspecting current installation..."/>
+	<label preparingToInstallFiles	="Preparing to install files..."/>
+	<label doingUpdates				="Downloading and installing locales..."/>
+	<label confirmCancel			="Are you sure you want to cancel ?"/>
+
+	<label AU_usageString			="USAGE&#13;=======&#13;CIPCLocaleDownloader parameterName1=&lt;parameterValue1&gt; parameterName2=&lt;parameterValue2&gt; ...&#13;&#13;PARAMETERS:&#13;Must specify httpServer/tftpServer, installFolder, manifestFile&#13;Optional Parameters are mode, waitWindow and postUpdateScript&#13;Parameters are both order and case insensitive&#13;&#13;E.g.&#13;CIPCLocaleDownloader httpServer=http://www.webserver.com/Communicator installFolder=&quot;D:\Program Files\ACME Systems\ACME Studio&quot; mode=install waitWindow=&quot;ACME Studio&quot; postUpdateScript=Notepad.exe"/>
+	<label AU_errorTitle			="CIPCLocaleDownloader Error"/>
+	<label AU_errorHeading			="An error occurred"/>
+	<label AU_stackTrace			="Stack Trace"/>
+	<label AU_viewStackTrace		="View Stack Trace"/>
+	<label AU_autoupdateComponentNotDefined	="Error in CIPC Locale manifest file - Locale component not defined"/>
+	<label AU_closeWindowTitle		="Please close all windows with the following title"/>
+	<label AU_endProcesses			="Please end the following processes before continuing"/>
+
+	<label AU_repairs					="Repairs"/>
+	<label AU_repairsList				="The following modules contain files that are missing or have been altered"/>
+	<label AU_requiredUpdates			="Required Updates"/>
+	<label AU_requiredUpdatesList		="The following modules have required updates"/>
+	<label AU_recommendedUpdates		="Recommended Updates"/>
+	<label AU_recommendedUpdatesList	="The following modules have recommended updates"/>
+	<label AU_chooseIndividualUpdates	="Decide for each module"/>
+	<label AU_selectUpdate				="Do you want to apply recommended updates to the following module?"/>
+	<label AU_installAny				="Would you like to install any of them ?"/>
+	<label AU_module					="Module"/>
+	<label AU_downloadSize				="Download size"/>
+	<label AU_wantToDoUpdates			="There are some updates available&#13;&#13;Would you like to download and install them now ?" />
+
+	<label AU_olderVersionInstalled		="Installed file has an older version"/>
+	<label AU_newerVersionInstalled		="Installed file has a newer version"/>
+	<label AU_equalVersionInstalled		="Installed file has the same version"/>
+	<label AU_checksumMismatch			="File checksum does not match expected value"/>
+	<label AU_olderFileInstalled		="Modified date of installed file is older"/>
+	<label AU_newerFileInstalled		="Modified date of installed file is newer"/>
+	<label AU_modifiedDatesMatch		="Modified dates match"/>
+	<label AU_unableToCompareFiles		="Unable to compare files"/>
+
+	<label AU_Error_tftpHttpNotDefined			="You must specify either tftpServer or httpServer"/>
+	<label AU_Error_installFolderNotDefined		="Install folder not specified"/>
+	<label AU_Error_manifestFileNotDefined		="Manifest file not specified"/>
+	<label AU_Error_downloadManifestFailed		="Could not download manifest file"/>
+	<label AU_Error_invalidUpdateMode			="Invalid update mode. Allowed modes are 'install' and 'query'"/>
+	<label AU_Error_errorInManifest				="Manifest file is corrupt"/>
+	<label AU_Error_cannotProceed				="CIPCLocaleDownloader cannot proceed"/>
+	<label AU_Error_invalidVersionString		="Invalid version string"/>
+	<label AU_Error_fileNotFound				="File not found"/>
+	<label AU_Error_unsupportedProtocol			="Transfer protocol is unsupported or invalid"/>
+	<label AU_Error_downloadedFileInvalid		="Downloaded file does not match description"/>
+	<label AU_Error_requiredUpdateFailed		="Could not install required updates for the following module"/>
+	<label AU_Error_recommendedUpdateFailed		="Could not install recommended updates for the following module"/>
+	<label AU_Error_repairFailed				="Failed to update the following module"/>
+	<label AU_Error_preinstallFileInstall		="Installation of preinstall files failed"/>
+	<label AU_Error_postinstallFileInstall		="Installation of postinstall files failed"/>
+	<label AU_Error_moduleFileInstall			="Installation of module files failed"/>
+	<label AU_Error_preinstallFileDownload		="Download of preinstall files failed"/>
+	<label AU_Error_postinstallFileDownload		="Download of postinstall files failed"/>
+	<label AU_Error_moduleFileDownload			="Download of module files failed"/>
+	<label AU_Error_preinstallFileInstall		="Installation of preinstall files failed"/>
+	<label AU_Error_postinstallFileInstall		="Installation of postinstall files failed"/>
+	<label AU_Error_moduleFileInstall			="Installation of module files failed"/>
+	<label AU_Error_moduleSettingInstall		="Installation of module settings failed"/>
+	<label AU_Error_preinstallScript			="Preinstall script returned an error"/>
+	<label AU_Error_postinstallScript			="Postinstall script returned an error"/>
+	<label AU_Error_downloadFileError			="Could not download file"/>
+	<label AU_Error_installFileError			="Could not install file"/>
+	<label AU_Error_unableToChangeModifiedDate	="Unable to change the date of last modification"/>
+	<label AU_Error_archiveFileMismatch			="File in archive does not match its description"/>
+	<label AU_Error_archiveInstall				="Unable to install archive"/>
+	<label AU_Error_recommendedUpdateFailureList="The following recommended updates failed"/>
+	<label AU_Error_autoUpdateCancelled			="CIPCLocaleDownloader was cancelled !"/>
+
+	<label AU_Error_HTTPTimeout					="HTTP timeout"/>
+	<label AU_Error_HTTPError					="HTTP error"/>
+	<label AU_Error_HTTPConnectionClosed		="HTTP connection closed"/>
+
+	<label AU_Error_xmlTagNotFound		="XML tag not found"/>
+	<label AU_Error_xmlDataNotFound		="XML data not found"/>
+	
+	<label AU_Error_failedToInitialize			="Could not initialize CIPCLocaleDownloader"/>
+	<label AU_Error_ensureNoOtherApps			="Please close all other applications and retry"/>
+
+</CommunicatorStrings>

@@ -1,0 +1,62 @@
+/* Default style for links */
+
+/* Default style */
+body
+{
+  background-color: #FFFFFF;
+}
+
+blockquote
+{
+margin-left: 8px;
+margin-right: 12px; 
+}
+
+/* Use this style for footnote numbers */
+sup.Footnote
+{
+}
+
+/* Used by TOC styles */
+ul.wpTOCLevel1
+{
+  list-style-type: none;
+}
+ul.wpTOCLevel2
+{
+  list-style-type: none;
+}
+ul.wpTOCLevel3
+{
+  list-style-type: none;
+}
+ul.wpTOCLevel4
+{
+  list-style-type: none;
+}
+ul.wpTOCLevel5
+{
+  list-style-type: none;
+}
+
+/* Used by Index styles */
+ul.wpIndexLevel1
+{
+  list-style-type: none;
+}
+ul.wpIndexLevel2
+{
+  list-style-type: none;
+}
+ul.wpIndexLevel3
+{
+  list-style-type: none;
+}
+ul.wpIndexLevel4
+{
+  list-style-type: none;
+}
+ul.wpIndexLevel5
+{
+  list-style-type: none;
+}

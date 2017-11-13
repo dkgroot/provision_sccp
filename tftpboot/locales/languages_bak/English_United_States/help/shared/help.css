@@ -1,0 +1,79 @@
+/* Copyright (c) 2008 by Cisco Systems, Inc. */
+/* All rights reserved */
+
+/* Filename: help.css Version: 1.0.01 */
+/* Version 4 help 1.1 (non beta) */
+
+.cuesNonactiveTab          {position:relative;margin-top:0px;border-bottom:1px solid rgb(133,138,145);margin-bottom:0px;}
+.cuesTabContentRowBg  {background-repeat:repeat-x;background-image:url('images/tabAreaBg.gif');width:100%;padding:0;margin:0;}
+
+.search {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .7em;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.searchentry {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .7em;
+	font-weight: normal;
+}
+
+.breadcrumbs {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .6em;
+	font-weight: normal;
+}
+.title {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .7em;
+	font-weight: bold;
+	color: #000000;
+}
+.bodycopy {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .7em;
+	line-height: 16px;
+	font-weight: normal;
+	color: #333333;
+}
+.nextprevious {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .7em;
+	font-weight: normal;
+}
+.contentfooter {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .6em;
+	font-weight: normal;
+}
+.toolbarlabels {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .6em;
+	font-weight: normal;
+	color: #000000;
+}
+.tablabels {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .6em;
+	font-weight: normal;
+	color: #000000;
+}
+.tablabelsbold {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .6em;
+	font-weight: bold;
+	color: #000000;
+}
+.indexentry {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .7em;
+	font-weight: normal;
+}
+.treefunc {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: .6em;
+	font-weight: normal;
+	
+}

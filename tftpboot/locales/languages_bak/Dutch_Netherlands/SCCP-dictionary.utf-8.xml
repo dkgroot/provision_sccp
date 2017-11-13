@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Dutch_Netherlands</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Geen lijn beschikbaar voor opnemen"/>
+	<phrase i="197" t="Extern doorverbinden beperkt"/>
+	<phrase i="196" t="Geen bandbreedte beschikbaar voor opnemen"/>
+	<phrase i="195" t="Geen gesprek beschikbaar om op te nemen"/>
+	<phrase i="194" t="Parkeersleuf is niet beschikbaar"/>
+    <phrase i="193" t="Afgemeld bij groepsnummer"/>
+	<phrase i="192" t="GLog"/>
+	<phrase i="191" t="AOpn"/>
+	<phrase i="190" t="Wachttijd overschreden"/>
+	<phrase i="189" t="Gesprekstijd overschreden"/>
+	<phrase i="188" t="VidMode"/>
+	<phrase i="187" t="Geen videobandbreedte"/>
+	<phrase i="186" t="Beveiligingsfout"/>
+	<phrase i="185" t="Nummer niet geconfigureerd"/>
+	<phrase i="184" t="MCID gelukt"/>
+	<phrase i="183" t="Kan gesprekken niet samenvoegen"/>
+	<phrase i="182" t="Kan doorverbinden niet voltooien"/>
+	<phrase i="181" t="cInbrkn"/>
+	<phrase i="180" t="dOml"/>
+	<phrase i="179" t="ConfLst"/>
+	<phrase i="178" t="Kies"/>
+	<phrase i="177" t="DirDrvb"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Veel verkeer. Probeer later"/>
+	<phrase i="173" t="Service is niet actief"/>
+	<phrase i="172" t="Parkeren gesprek terugverw"/>
+	<phrase i="171" t="Geen parkeernummer beschikbaar"/>
+	<phrase i="170" t="Ongeschikt telefoontype"/>
+	<phrase i="169" t="Iemand anders breekt al in"/>
+	<phrase i="168" t="Kan niet inbreken"/>
+	<phrase i="167" t="Inbrkn"/>
+	<phrase i="166" t="Netwerkstagnatie, omleiden"/>
+	<phrase i="165" t="TrgBlln"/>
+	<phrase i="164" t="AllOml"/>
+	<phrase i="163" t="NST"/>
+	<phrase i="162" t="DrvrbVM"/>
+	<phrase i="161" t="BekInst"/>
+	<phrase i="160" t="Ondersch"/>
+	<phrase i="159" t="Omleiden"/>
+	<phrase i="158" t="Voicemail"/>
+	<phrase i="157" t="Verwdr"/>
+	<phrase i="156" t="Onbekend nummer"/>
+	<phrase i="155" t="Onvoldoende bandbreedte"/>
+	<phrase i="154" t="Privé"/>
+	<phrase i="153" t="Parkeer"/>
+	<phrase i="152" t="Conferentie"/>
+	<phrase i="151" t="Foute combinatie"/>
+	<phrase i="150" t="Onbekende fout"/>
+	<phrase i="149" t="Fout uitvoeringsgrens"/>
+	<phrase i="148" t="Fout database"/>
+	<phrase i="147" t="Fout DBConfigFout DBConfig"/>
+	<phrase i="146" t="Fout geen licentie"/>
+	<phrase i="145" t="Functie niet beschikbaar"/>
+	<phrase i="144" t="Te veel deelnemers"/>
+	<phrase i="143" t="Geen deelnemersinfo"/>
+	<phrase i="142" t="Al in conferentie"/>
+	<phrase i="141" t="Ongeldige deelnemer"/>
+	<phrase i="140" t="Geen wacht voor voorzitter"/>
+	<phrase i="139" t="Geen conferentie beschikbaar"/>
+	<phrase i="138" t="Kan conferentie niet opzetten"/>
+	<phrase i="137" t="Doorgeschakeld nr"/>
+	<phrase i="136" t="U hebt een voicemail"/>
+	<phrase i="135" t="Tijdelijke storing"/>
+	<phrase i="134" t="Alleen primair"/>
+	<phrase i="133" t="Geparkeerd op"/>
+	<phrase i="132" t="Kies bestemming"/>
+	<phrase i="131" t="Wordt elders gebruikt"/>
+	<phrase i="130" t="Gesprek wordt opgezet"/>
+	<phrase i="129" t="Parkeer gesprek"/>
+	<phrase i="128" t="Doorverbinden"/>
+	<phrase i="127" t="Wachtend gesprek"/>
+	<phrase i="126" t="Lijn in gebruik"/>
+	<phrase i="125" t="In gesprek"/>
+	<phrase i="124" t="Verbonden"/>
+	<phrase i="123" t="Van "/>
+	<phrase i="122" t="Gaat over"/>
+	<phrase i="121" t="Niet in gebruik"/>
+	<phrase i="120" t="In gebruik"/>
+	<phrase i="119" t="Beschikbare opties"/>
+	<phrase i="118" t="GOpn"/>
+	<phrase i="117" t="Opnemen"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Samenv"/>
+	<phrase i="114" t="Parkeren"/>
+	<phrase i="113" t="Confrn"/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Beantw"/>
+	<phrase i="110" t="Hervat"/>
+	<phrase i="109" t="Einde"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="DschakGnAntw"/>
+	<phrase i="106" t="DschakBz"/>
+	<phrase i="105" t="Dschak"/>
+	<phrase i="104" t="Doorvb"/>
+	<phrase i="103" t="Wacht"/>
+	<phrase i="102" t="Nieuw"/>
+	<phrase i="101" t="Herhaal"/>
+	<phrase i="81" t="Bezig met verbinden. Een ogenblik geduld."/>
+	<phrase i="80" t="Opnemen mislukt"/>
+	<phrase i="79" t="Opname"/>
+	<phrase i="69" t="CW uit"/>
+    	<phrase i="68" t="Kan conversatie niet verplaatsen"/>
+	<phrase i="67" t="Vastleggen"/>
+    <phrase i="65" t="Kan gesprek niet naar mobiel zenden"/>
+    <phrase i="64" t="Kan geparkeerd gesprek niet ophalen"/>
+    <phrase i="63" t="MeetMe is niet beschikbaar"/>
+    <phrase i="62" t="Conferentie is niet beschikbaar"/>
+    <phrase i="61" t="Opnemen is niet beschikbaar"/>
+    <phrase i="60" t="KortKies"/>
+    <phrase i="59" t="Aantal DschakAll-hops overschreden"/>
+    <phrase i="58" t="DschakAll-lus gedetecteerd"/>
+	<phrase i="57" t="Niet storen is ingeschakeld"/> 
+	<phrase i="56" t="Niet storen"/> 
+	<phrase i="55" t="Gebruik Lijn of Samenv om te voltooien"/>
+	<phrase i="54" t="Groepsnummer"/>
+	<phrase i="53" t="Hulpprogramma kwaliteitsrapporten"/>
+	<phrase i="52" t="Conferentielijst"/>
+	<phrase i="51" t="Einde"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Andere opnemen"/>
+    <phrase i="48" t="Laatste deelnemer verwijderen"/>
+    <phrase i="47" t="Groep opnemen"/>
+    <phrase i="46" t="Id van ongewenste gesprekken"/>
+    <phrase i="45" t="Alles dschak."/>
+	<phrase i="44" t="Fluisteren"/>
+        <phrase i="43" t="Mobiel"/>
+	<phrase i="42" t="Inactieve opnamesessie"/>
+	<phrase i="41" t="Opname al bezig"/>
+	<phrase i="40" t="Opname start bij begin gesprek"/>
+	<phrase i="39" t="Volgen"/>
+        <phrase i="38" t="Apparaat niet geautoriseerd"/>
+	<phrase i="37" t="Geen bronnen"/>
+	<phrase i="36" t="Installatie mislukt"/>
+	<phrase i="35" t="Terugverwijzing in wachtstand"/> 
+	<phrase i="34" t="Gesprek in de wacht"/>
+	<phrase i="33" t="NietKlaar"/>
+	<phrase i="32" t="Klaar"/>
+	<phrase i="31" t="Deelnemen aan groepsnummer"/>
+	<phrase i="30" t="Gesprek(ken) in wachtrij"/>
+	<phrase i="29" t="Zoekresultaten"/>
+	<phrase i="28" t="Geen record gevonden"/>
+	<phrase i="27" t="Records 1 tot"/>
+	<phrase i="26" t="van"/>
+	<phrase i="25" t="Geef PIN op"/>
+	<phrase i="24" t="PIN onjuist"/>
+	<phrase i="23" t="Aanmelden gelukt"/>
+	<phrase i="22" t="Nachtstand uitgeschakeld"/>
+	<phrase i="21" t="Nachtstand actief"/>
+	<phrase i="20" t="Nachtstand"/>
+	<phrase i="19" t="Zoekcriteria invoeren"/>
+	<phrase i="18" t="Lokale services"/>
+	<phrase i="17" t="Service selecteren"/>
+	<phrase i="16" t="Bestemming voor doorverbinden is bezet"/>
+	<phrase i="15" t="Lijn selecteren"/>
+	<phrase i="14" t="Pagen"/>
+	<phrase i="13" t="Gesprek beëindigen"/>
+	<phrase i="12" t="Lijn wordt opnieuw toegewezen"/>
+	<phrase i="11" t="Max telefoons overschreden"/>
+	<phrase i="10" t="CM-fallbackservice ingeschakeld"/>
+	<phrase i="9" t="Gesprekken beschikbaar voor opnemen"/>
+	<phrase i="8" t="Klantonderwerpcode invoeren"/>
+	<phrase i="7" t="Autorisatiecode invoeren"/>
+    <phrase i="6" t="Apparaat in zwervende locatie"/>
+    <phrase i="5" t="Apparaat in privé-locatie"/>
+	<phrase i="4" t="Aanmelden"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Account"/>
+</phrases>

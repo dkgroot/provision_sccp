@@ -1,0 +1,20 @@
+bitaid version 1.0
+
+The tool will assist the administrators to modify or retrieve the precise 
+bitmaps coresponding to configurations in hexadecimal format.  
+
+The program will ask for the initial value, bit range and the new setting
+(hit <cr> for retrieval), and it returns the results.
+
+The "initial value" should be in hexadecimal format, the "bit range" could
+be a single number (between 0 to 31) or a pair of numbers (<num>-<num>), 
+the "new setting" should be in binary format (hit <cr> for retrieval).
+The program will return the result in binay and hexadeciaml format (and
+deciaml format for retrieval).
+ 
+You may also consult the administrator's guide for more information 
+regarding this tool.
+
+bitaid version 1.0
+usage: bitaid
+
