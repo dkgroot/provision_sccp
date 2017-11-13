@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Hungarian_Hungary</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nincs vonal a felvételhez"/>
+	<phrase i="197" t="Külsõ átadás korlátozva"/>
+	<phrase i="196" t="Nincs sávszélesség a felvételhez"/>
+	<phrase i="195" t="Nincs elérhetõ hívás a felvételhez"/>
+	<phrase i="194" t="Parkoltató foglalat nem érhetõ el"/>
+	<phrase i="193" t="Kijelentkezett a keresési csoportból"/>
+	<phrase i="192" t="KCsJel"/>
+	<phrase i="191" t="MHFelv"/>
+	<phrase i="190" t="Maximális tartási idõ"/>
+	<phrase i="189" t="Maximális hívásidõ"/>
+	<phrase i="188" t="VidMód"/>
+	<phrase i="187" t="Videó-sávszéless. nem elegendõ"/>
+	<phrase i="186" t="Biztonsági hiba"/>
+	<phrase i="185" t="Nincs telefonszám beállítva"/>
+	<phrase i="184" t="Sikeres zaklatóazonosítás"/>
+	<phrase i="183" t="A hívások nem egyesíthetõk"/>
+	<phrase i="182" t="Az átirányítás sikertelen"/>
+	<phrase i="181" t="BelépésK"/>
+	<phrase i="180" t="TovHP"/>
+	<phrase i="179" t="KonfL"/>
+	<phrase i="178" t="Választ"/>
+	<phrase i="177" t="ÖsszKap"/>
+	<phrase i="176" t="R.H.Azon"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Nagy forgalom. Próbálja késõbb"/>
+	<phrase i="173" t="A szolgáltatás nem aktív"/>
+	<phrase i="172" t="Parkolt hívás visszakapcsolása"/>
+	<phrase i="171" t="Nincs megadva parkolási szám"/>
+	<phrase i="170" t="Nem kompatibilis eszköztípus"/>
+	<phrase i="169" t="A hívásba már más belépett"/>
+	<phrase i="168" t="Belépés a hívásba sikertelen"/>
+	<phrase i="167" t="Belépés"/>
+	<phrase i="166" t="Hálózati torlódás, átirányítás"/>
+	<phrase i="165" t="Visszhív"/>
+	<phrase i="164" t="ÁtirMind"/>
+	<phrase i="163" t="NeZavar"/>
+	<phrase i="162" t="ÁtirHP"/>
+	<phrase i="161" t="StátJelz"/>
+	<phrase i="160" t="Elfogás"/>
+	<phrase i="159" t="Átirány."/>
+	<phrase i="158" t="Hangposta"/>
+	<phrase i="157" t="UtRBont"/>
+	<phrase i="156" t="Ismeretlen szám"/>
+	<phrase i="155" t="Kevés a sávszélesség"/>
+	<phrase i="154" t="Privát"/>
+	<phrase i="153" t="Parkoltatási szám"/>
+	<phrase i="152" t="Konferencia"/>
+	<phrase i="151" t="Illesztési hiba"/>
+	<phrase i="150" t="Ismeretlen hiba"/>
+	<phrase i="149" t="Határérték-túllépés"/>
+	<phrase i="148" t="Adatbázishiba"/>
+	<phrase i="147" t="Adatbázis-konfigurálási hiba"/>
+	<phrase i="146" t="Hiba: nincs licenc"/>
+	<phrase i="145" t="A gomb nem aktív"/>
+	<phrase i="144" t="A résztvevõk száma túllépve"/>
+	<phrase i="143" t="A résztvevõ nem ismert"/>
+	<phrase i="142" t="Már konferenciában van"/>
+	<phrase i="141" t="Érvénytelen résztvevõ"/>
+	<phrase i="140" t="Nem helyezhetõ tartásba"/>
+	<phrase i="139" t="Nincs konferenciahíd"/>
+	<phrase i="138" t="Konferencia nem hozható létre"/>
+	<phrase i="137" t="Átirányítva:"/>
+	<phrase i="136" t="Új hangüzenete érkezett"/>
+	<phrase i="135" t="Ideiglenes hiba"/>
+	<phrase i="134" t="Csak elsõdleges"/>
+	<phrase i="133" t="A hívás itt parkol:"/>
+	<phrase i="132" t="Adja meg a számot"/>
+	<phrase i="131" t="Más által foglalt"/>
+	<phrase i="130" t="Hívás folytatása"/>
+	<phrase i="129" t="Hívásparkoltatás"/>
+	<phrase i="128" t="Hívásátadás"/>
+	<phrase i="127" t="Hívásvárakoztatás"/>
+	<phrase i="126" t="A vonal foglalt"/>
+	<phrase i="125" t="Foglalt"/>
+	<phrase i="124" t="Csatlakoztatva"/>
+	<phrase i="123" t="Hívó: "/>
+	<phrase i="122" t="Kitárcsázás"/>
+	<phrase i="121" t="Kagyló letéve"/>
+	<phrase i="120" t="Kagyló felvéve"/>
+	<phrase i="119" t="Aktuális lehetõségek"/>
+	<phrase i="118" t="CsHFelv"/>
+	<phrase i="117" t="Felvesz"/>
+	<phrase i="116" t="KonfHíd"/>
+	<phrase i="115" t="Egyesít"/>
+	<phrase i="114" t="Parkolás"/>
+	<phrase i="113" t="Konfer."/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Válasz"/>
+	<phrase i="110" t="Folytat"/>
+	<phrase i="109" t="HívVége"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="ÁtirNiV"/>
+	<phrase i="106" t="ÁtirFogl"/>
+	<phrase i="105" t="ÁtirMind"/>
+	<phrase i="104" t="Átadás"/>
+	<phrase i="103" t="Tartás"/>
+	<phrase i="102" t="Új hívás"/>
+	<phrase i="101" t="Újrahív"/>
+</phrases>

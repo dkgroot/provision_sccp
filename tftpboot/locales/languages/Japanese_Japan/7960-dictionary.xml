@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Japanese_Japan</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.0.1.release/2</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<!-- Please do not add phrases to this file - Add new phrases to file 7960-ext-dictionary.xml -->
+<phrase i="740" t="¾·­ØÃ¨¾¯Ã²"/><!-- This phrase is for the Sec Config Menu title -->
+<phrase i="739" t="Ó¼ÞÚÂ¦Æ­³Ø®¸¼Ã¸ÀÞ»²"/>
+<phrase i="738" t="¾Â¿Þ¸ÓÆÀ¶Ý¶¸"/>
+<phrase i="737" t="¼®³Ò²¼®Éº³¼ÝÁ­³..."/>
+<phrase i="736" t="DSPPollÀ½¸"/>
+<phrase i="735" t="Ø¾¯Ä¼®ØÁ­³..."/>
+<phrase i="734" t="¼®ØÁ­³"/>
+<phrase i="733" t="TLSÀ½¸"/>
+<phrase i="732" t="¼Ý×²Ø½ÄÉË®³¼Þ"/>
+<phrase i="731" t="CTLÌ§²ÙÉË®³¼Þ"/>
+<phrase i="730" t="CallManager / TFTP"/>
+<phrase i="729" t="CallManager"/>
+<phrase i="728" t="¼Ý×²Ø½Ä"/>
+<phrase i="727" t="CTLÌ§²Ù"/>
+<phrase i="726" t="TFTP¶ÞCTLÆ±ØÏ¾Ý"/>
+<phrase i="725" t="Á­³¼"/>
+<phrase i="724" t="Û¯¸"/>
+<phrase i="723" t="¶²¼Þ®"/>
+<phrase i="722" t="Web±¸¾½"/>
+<phrase i="721" t="Ð²Ý½Ä°Ù"/>
+<phrase i="720" t="²Ý½Ä°Ù½ÞÐ"/>
+<phrase i="719" t="Ñº³"/>
+<phrase i="718" t="Õ³º³"/>
+<phrase i="717" t="¾·­ØÃ¨¾¯Ã²É¾ÝÀ¸..."/>
+<phrase i="716" t="¾·­ØÃ¨¾¯Ã²"/><!-- This is the menu item on the Settings menu -->
+<phrase i="715" t="ÀÞ³Ý"/><!-- This phrase is used with Network statistics port status -->
+<phrase i="714" t="¿³»¶Þ·¬Ý¾Ù»ÚÏ¼À"/>
+<phrase i="713" t="ÆÝ¼®³»ÚÃ²Å²TFTP: %s"/>
+<phrase i="712" t="»¸¼Þ®"/>
+<phrase i="711" t="±ÝºÞ³¶½ÞÐ"/>
+<phrase i="710" t="ÆÝ¼®³½ÞÐ"/>
+<phrase i="709" t="±Ý¾ÞÝÃÞÅ²"/>
+<phrase i="708" t="TLS´×°: "/>
+<phrase i="707" t="Web±¸¾½¶É³"/>
+<phrase i="706" t="¾·­ØÃ¨Ó°ÄÞ"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="705" t="¼®ØÁ­³..."/>
+<phrase i="704" t="Ñº³ÅÆ­³Ø®¸"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="703" t="·°É¾²¾²Æ¼¯Êß²¼Ï¼À"/>
+<phrase i="702" t="¾Â¿Þ¸Æ¼¯Êß²¼Ï¼À"/>
+<phrase i="701" t="¼¯Êß²"/>
+<phrase i="700" t="À²Ñ±³Ä"/>
+<phrase i="699" t="¾²º³"/>
+<phrase i="698" t="ÆÝ¼®³Ö³·­³..."/><!-- Changed by Skate - may need retranslation -->
+<phrase i="697" t="¾Â¿Þ¸Á­³..."/>
+<phrase i="696" t="CAPF¦»²¼º³..."/>
+<phrase i="695" t="·°¦¾²¾²Á­³..."/>
+<phrase i="694" t="¿³»É·¬Ý¾Ù"/>
+<phrase i="693" t="¼®³Ò²¼®Éº³¼Ý"/>
+<phrase i="692" t="ÆÝ¼®³Ó¼ÞÚÂ"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="691" t="¼®³Ò²¼®"/>
+<phrase i="690" t="»°ËÞ½ÉDSCP"/>
+<phrase i="689" t="¾¯Ã²ÉDSCP"/>
+<phrase i="688" t="Â³Ü¾²·Þ®ÉDSCP"/>
+<phrase i="687" t="Ì§²ÙÉÆÝ¼®³¶Þ¼¯Êß²¼Ï¼À"/>
+<phrase i="686" t="CASTÀ½¸"/>
+<phrase i="685" t="ËÞÃÞµ·É³¦Â¶³"/>
+<phrase i="684" t="¼ÞÄÞ³¶²¾Ý¾ÝÀ¸¦Â¶³"/>
+<phrase i="683" t="ÎÞ²½VLAN¦Â¶³"/>
+<phrase i="682" t="GARP¦Â¶³"/>
+<phrase i="681" t="·Ý¾ÂÎß°Ä"/>
+<phrase i="680" t="·Ý¾ÂIP±ÄÞÚ½"/>
+<phrase i="679" t="·Ý¾ÂÃÞÊÞ²½ID"/>
+<phrase i="678" t="By %s"/>
+<phrase i="677" t="ÃÝ¿³"/>
+<phrase i="676" t="ÀÝ¼­¸"/>
+<phrase i="675" t="»°ËÞ½URLÉ½Ã°À½¦Ö³·­³Á­³"/>
+<phrase i="674" t="·É³·°É½Ã°À½¦Ö³·­³Á­³"/>
+<phrase i="673" t="a"/>
+<phrase i="672" t="p"/>
+<phrase i="671" t="%d¹ÝÉÌ»Þ²Á¬¸¼Ý"/><!-- %c will be replaced with &apos;s&apos;, it can be eliminated in translations. The singular form of this phrase is 322.  The %d will be replaced with the number of missed calls -->
+<phrase i="670" t="ÃÞÌ«ÙÄÖËÞÀÞ¼µÝ"/>
+<phrase i="669" t="¶²¾ÝÉ¾ÝÀ¸..."/>
+<phrase i="668" t="ÍÝ¼­³"/>
+<phrase i="667" t="Phone-Abort"/>
+<phrase i="666" t="È¯ÄÜ°¸Û¹°ÙÊÞ°¼Þ®Ý"/>
+<phrase i="665" t="Õ°»ÞÛ¹°ÙÊÞ°¼Þ®Ý"/>
+<phrase i="664" t="TFTPÖ³·­³¶Þ·¬Ý¾Ù»ÚÏ¼À"/>
+<phrase i="663" t="DHCP¶ÞÑº³ÃÞ½"/>
+<phrase i="662" t="IP±ÄÞÚ½¶ÞËÂÖ³ÃÞ½"/>
+<phrase i="661" t="¼Þ®³À² "/>
+<phrase i="660" t="ÃÞÌ«ÙÄ"/>
+<phrase i="659" t="Ò¯¾°¼Þ¼Þ­¼Ý"/>
+<phrase i="658" t="ÊÝÄÞ¾¯Ä¾ÝÖ³Ó°ÄÞ"/>
+<phrase i="657" t="ÓÃÞÙÊÞÝºÞ³"/>
+<phrase i="656" t="ÓÃÞÙ¼Þ®³Î³ÉË®³¼Þ"/>
+<phrase i="655" t="ÓÃÞÙ¼Þ®³Î³"/>
+<phrase i="654" t="ØÝ¸É¼Þ®³À² "/>
+<phrase i="653" t="¾ÞÝ¶²ÉÌ«ÝÄÎß²ÝÀ"/>
+<phrase i="652" t="Ì«ÝÄÎß²ÝÀ"/>
+<phrase i="651" t="±ÌßØ¹°¼®ÝÉ¼Þ¯º³"/>
+<phrase i="650" t="¾ÞÝ¶²ÉÌ«ÝÄÀÞ³ÝÛ°ÄÞ"/>
+<phrase i="649" t="Ì«ÝÄÀÞ³ÝÛ°ÄÞ"/>
+<phrase i="648" t="Ì«ÝÄÃ°ÌÞÙ¼Þ®³Î³"/>
+<phrase i="647" t="¾ÞÝ¶²É¾¸ÞÒÝÄÀÞ³ÝÛ°ÄÞ"/>
+<phrase i="646" t="¾¸ÞÒÝÄÀÞ³ÝÛ°ÄÞ"/>
+<phrase i="645" t="¾¸ÞÒÝÄÉº³¼Ý"/>
+<phrase i="644" t="Ê°ÄÞ³ª±¼Þ®³Î³"/>
+<phrase i="643" t="TFTPÊÞ°¼Þ®Ý"/>
+<phrase i="642" t="ÊÞ°¼Þ®Ý¼Þ®³Î³"/>
+<phrase i="641" t="±²ÄÞÙ"/>
+<phrase i="640" t="»Îß°Ä»ÚÃ²Ï¾Ý"/>
+<phrase i="639" t="Û¹°ÙÉº³¼Ý´×°"/>
+<phrase i="638" t="%s¶×É¼Þ®³À²%dÉµ³Ä³ÏÁ"/>
+<phrase i="637" t="%s(%s¶×)Éµ³Ä³ÏÁ"/>
+<phrase i="636" t="BOOTP»°ÊÞ"/>
+<phrase i="635" t="DHCP»°ÊÞ"/>
+<phrase i="634" t="3V Amp"/>
+<phrase i="633" t="5V Amp"/>
+<phrase i="632" t="ADCodec"/>
+<phrase i="631" t="ADLCodec"/>
+<phrase i="630" t="C3POØËÞ¼Þ®Ý"/>
+<phrase i="629" t="±ÝÍß±"/>
+<phrase i="628" t="Codec"/>
+<phrase i="627" t="¼Ø±ÙÊÞÝºÞ³"/>
+<phrase i="626" t="Ê°ÄÞ³ª±ÉØËÞ¼Þ®Ý"/>
+<phrase i="625" t="·ÄÞ³Û°ÄÞID"/>
+<phrase i="624" t="±ÌßØ¹°¼®ÝÛ°ÄÞID"/>
+<phrase i="623" t="ÃÞÝÜÊÞÝºÞ³"/>
+<phrase i="622" t="SYSÓ°ÄÞ"/>
+<phrase i="621" t="FIQÓ°ÄÞ"/>
+<phrase i="620" t="IRQÓ°ÄÞ"/>
+<phrase i="619" t="SVCÓ°ÄÞ"/>
+<phrase i="618" t="ÐÃ²·ÞÓ°ÄÞ"/>
+<phrase i="617" t="Audit Task"/>
+<phrase i="616" t="SNMP Task"/>
+<phrase i="615" t="Display Task"/>
+<phrase i="614" t="Config Task"/>
+<phrase i="613" t="RTP Task"/>
+<phrase i="612" t="Phone Task"/>
+<phrase i="611" t="Socket Task"/>
+<phrase i="610" t="Â·ÞÍ"/>
+<phrase i="609" t="¾ÝÀ¸"/>
+<phrase i="608" t="¼­³Ø®³"/>
+<phrase i="607" t="ÀÞ³Ý"/><!-- This phrase is used with "Down" softkey to decrease contrast -->
+<phrase i="606" t="±¯Ìß"/>
+<phrase i="605" t="·¬Ý¾Ù"/>
+<phrase i="604" t="ÍÝ¼­³"/>
+<phrase i="603" t="No"/>
+<phrase i="602" t="Yes"/>
+<phrase i="601" t="»²¾²"/>
+<phrase i="600" t="ÀÞ²ÔÙ"/>
+<phrase i="599" t="ÍÝ¼­³"/>
+<phrase i="598" t="Î¿ÞÝ"/>
+<phrase i="597" t="Ì¸¹ÞÝ"/>
+<phrase i="596" t="»¸¼Þ®"/>
+<phrase i="595" t="Ì§¸ÄØ"/>
+<phrase i="594" t="OK"/>
+<phrase i="593" t="¶¸ÆÝ"/>
+<phrase i="592" t="¹Ý»¸"/>
+<phrase i="591" t="Â·ÞÍ"/>
+<phrase i="590" t="º³¼Ý"/>
+<phrase i="589" t="¸Ø±"/>
+<phrase i="588" t="¿³¼Ý"/>
+<phrase i="587" t="Ä°Ý"/>
+<phrase i="586" t="È¯ÄÜ°¸Û¹°Ù"/>
+<phrase i="585" t="Õ°»ÞÛ¹°Ù"/>
+<phrase i="584" t="KateÌ§²Ù"/>
+<phrase i="583" t="Ä°ÝÌ§²Ù"/>
+<phrase i="582" t="ËÞ¼Þ°¡"/>
+<phrase i="581" t="TFTP»°ÊÞ2"/>
+<phrase i="580" t="¶¸Á®³Ó¼Þ­°Ù2ÉºÝÄ×½Ä"/>
+<phrase i="579" t="¶¸Á®³Ó¼Þ­°Ù1ÉºÝÄ×½Ä"/>
+<phrase i="578" t="SWÎß°Ä¾¯Ã²"/>
+<phrase i="577" t="PCÎß°Ä¾¯Ã²"/>
+<phrase i="576" t="PCÎß°Ä¦Ñº³Æ½Ù"/>
+<phrase i="575" t="´×°"/>
+<phrase i="574" t="Ë·½³¶ÞÑº³ÃÞ½"/>
+<phrase i="573" t="ÃÞÝÜÎÝÀ²"/>
+<phrase i="572" t="¶¸Á®³Ó¼Þ­°Ù"/>
+<phrase i="571" t="ºÝÄ×½ÄÒÆ­°"/>
+<phrase i="570" t="ºÝÄ×½ÄÁ®³¾²»·É¾ÝÀ¸"/>
+<phrase i="569" t="ÎÞ²½Ò°Ù"/>
+<phrase i="568" t="Ò¯¾°¼Þ"/>
+<phrase i="567" t="¶¸Á®³Ó¼Þ­°ÙÉÄ³¹²"/>
+<phrase i="566" t="¶¸Á®³Ó¼Þ­°ÙÉÄ³¹²"/>
+<phrase i="565" t="B TX Buffer Full"/>
+<phrase i="564" t="B RX Checksum Err"/>
+<phrase i="563" t="B RX Length Err"/>
+<phrase i="562" t="B RX Discarded Bytes"/>
+<phrase i="561" t="A TX Buffer Full"/>
+<phrase i="560" t="A TX Retransmit"/>
+<phrase i="559" t="A RX Invalid Message"/>
+<phrase i="558" t="A RX Checksum Err"/>
+<phrase i="557" t="A RX Length Err"/>
+<phrase i="556" t="A RX Discarded Bytes"/>
+<phrase i="555" t="CM-ICMP-Unreach"/>
+<phrase i="554" t="º°ÙÉ¾ÝÀ¸..."/>
+<phrase i="553" t="ÌßÛ·¼»°ÊÞÉURL"/>
+<phrase i="552" t="ÆÝ¼®³URL"/>
+<phrase i="551" t="¼ÞÄÞ³ÀÞ²ÔÙ¶Þ·¬Ý¾Ù»ÚÏ¼À"/>
+<phrase i="550" t="SidecarÀ½¸"/>
+<phrase i="549" t="¶¸Á®³Ó¼Þ­°Ù2"/>
+<phrase i="548" t="¶¸Á®³Ó¼Þ­°Ù1"/>
+<phrase i="547" t="HTTPÌ§²Ù´×°"/>
+<phrase i="546" t="XML´×°[4]: ¶²¾·´×°"/>
+<phrase i="545" t="Ì§²Ù»¸¾²´×°"/>
+<phrase i="544" t="¾ÞÝ¶²="/>
+<phrase i="543" t="·®Ë»ÚÀHCÉÛ°ÄÞ"/>
+<phrase i="542" t="Phone-Reg-Rej"/>
+<phrase i="541" t="Reset-Restart"/>
+<phrase i="540" t="Reset-Reset"/>
+<phrase i="539" t="Phone-Re-IP"/>
+<phrase i="538" t="Phone-Keypad"/>
+<phrase i="537" t="Phone-Diag."/>
+<phrase i="536" t="Failback"/>
+<phrase i="535" t="KeepaliveTO"/>
+<phrase i="534" t="CM-NAKed"/>
+<phrase i="533" t="CM-aborted-TCP"/>
+<phrase i="532" t="CM-reset-TCP"/>
+<phrase i="531" t="TCP-Bad-ACK"/>
+<phrase i="530" t="¾¯Ã²¼Þ®³Î³É¶¸ÆÝ´×°"/>
+<phrase i="529" t="Îß°Ä¼Þ®³Î³"/>
+<phrase i="528" t="²°»È¯Ä¼Þ®³Î³"/>
+<phrase i="527" t="%s¶Þµµ·½·ÞÏ½"/>
+<phrase i="526" t="From "/>
+<phrase i="525" t="´ÝÄØÅ¼"/>
+<phrase i="524" t="Õ°»ÞIDÄÊß½Ü°ÄÞÉÆ­³Ø®¸"/>
+<phrase i="523" t="Êß½Ü°ÄÞ"/>
+<phrase i="522" t="Õ°»ÞÒ²"/>
+<phrase i="521" t="»°ËÞ½É¾ÝÀ¸..."/>
+<phrase i="520" t="¹ÞÝ»Þ²Éº°ÙÉ¼®Ø..."/>
+<phrase i="519" t="TFTP»²½Þ´×°"/>
+<phrase i="518" t="ÌÚ°½ÞÌ§²Ù"/>
+<phrase i="517" t="GlyphÌ§²Ù"/>
+<phrase i="516" t="%s¦¼Ö³ÃÞ·Ï¾Ý"/>
+<phrase i="515" t="Ì¾²Å%s"/>
+<phrase i="514" t="Û¸Þ%d"/>
+<phrase i="513" t="±¸¾½"/>
+<phrase i="512" t="375000"/>
+<phrase i="511" t="ÃÞÝÜ"/>
+<phrase i="510" t="È¯ÄÜ°¸"/>
+<phrase i="509" t="½ÄØ°Ñ %d"/>
+<phrase i="508" t="½ÄØ°ÑÉÄ³¹²"/>
+<phrase i="507" t="ÃÞÊÞ²½Û¸Þ"/>
+<phrase i="506" t="Port %d"/>
+<phrase i="505" t="²°»È¯Ä"/>
+<phrase i="504" t="ÃÞÊÞ²½¼Þ®³Î³"/>
+<phrase i="503" t="ÃÝ¿³ÉÁ´Ý"/>
+<phrase i="502" t="¾¯Ã²É»¸¼Þ®"/>
+<phrase i="501" t="ÀÞ²À²TFTP"/>
+<phrase i="500" t="DHCP±ÄÞÚ½¶²Î³"/>
+<phrase i="499" t="DHCP¦Â¶³"/>
+<phrase i="498" t="Bcast"/>
+<phrase i="497" t="REr"/>
+<phrase i="496" t="Xmt"/>
+<phrase i="495" t="Rcv"/>
+<phrase i="494" t="ÊÞ°¼Þ®Ý"/>
+<phrase i="493" t="ÓÄÞÙ"/>
+<phrase i="492" t=" µÝ"/>
+<phrase i="491" t=" Yes"/>
+<phrase i="490" t=" µÌ"/>
+<phrase i="489" t=" No"/>
+<phrase i="488" t="RTPÁ´Ý"/>
+<phrase i="487" t="TFTP´×°"/>
+<phrase i="486" t="TFTP±¸¾½´×°"/>
+<phrase i="485" t="Ì§²Ù¶ÞÐÂ¶ØÏ¾Ý"/>
+<phrase i="484" t="¾ÞÝ¶²=0x%02X"/>
+<phrase i="483" t="CM-closed-TCP"/>
+<phrase i="482" t="TCP-timeout"/>
+<phrase i="481" t="¼®·¶»ÚÏ¼À"/>
+<phrase i="480" t="ÅÏ´=%15s"/>
+<phrase i="479" t="¿ÌÄ³ª±¦±¯ÌßÃÞ°ÄÁ­³"/>
+<phrase i="478" t="ROMÁª¯¸»Ñ´×°"/>
+<phrase i="477" t=" Û°ÄÞ="/>
+<phrase i="476" t="Ï²¸ÛÌ«ÝÉÐ­°ÄµÌ"/>
+<phrase i="475" t="Ï²¸ÛÌ«ÝÉÐ­°ÄµÝ"/>
+<phrase i="474" t="Á®³Ì¸½ÙIP±ÄÞÚ½"/>
+<phrase i="473" t="IP±ÄÞÚ½¶²Î³"/>
+<phrase i="472" t="Ø¾¯ÄÁ­³"/>
+<phrase i="471" t="»°ÊÞ²Á×Ý¦Ö³·­³Á­³"/>
+<phrase i="470" t="¿¸ÄÞ½Ã°À½¦Ö³·­³Á­³"/>
+<phrase i="469" t="¶²¾Ý½Ã°À½ÉÖ³·­³"/>
+<phrase i="468" t="¿ÌÄ·°¾¯Ä¦Ö³·­³Á­³"/>
+<phrase i="467" t="¿ÌÄ·°ÃÝÌßÚ°Ä¦Ö³·­³Á­³"/>
+<phrase i="466" t="ÃÝÌßÚ°Ä¦Ö³·­³Á­³"/>
+<phrase i="465" t="DSP¦·ÄÞ³Á­³"/>
+<phrase i="464" t="Û°ÄÞ¦¶¸ÆÝÁ­³"/>
+<phrase i="463" t="Ä³Û¸¶Þ·®Ë»ÚÏ¼À"/>
+<phrase i="462" t="Ä³Û¸"/>
+<phrase i="461" t="¾Â¿Þ¸Á­³ÃÞ½ "/>
+<phrase i="460" t="CM²Á×Ý¦¾¯Ã²Á­³"/>
+<phrase i="459" t="IP¦¾¯Ã²Á­³"/>
+<phrase i="458" t="VLAN¦¾¯Ã²Á­³"/>
+<phrase i="457" t="%d/%d"/>
+<phrase i="456" t="¼Þ®³Î³É¾²¾²¶ÞÑº³ÃÞ½"/>
+<phrase i="455" t="XML´×°[%d]"/>
+<phrase i="454" t="HTTP´×°[%d]"/>
+<phrase i="453" t="Î½Ä¦¹Ý¼­ÂÃÞ·Ï¾Ý"/>
+<phrase i="452" t="HTTPÖ³·­³¶Þ·¬Ý¾Ù»ÚÏ¼À"/>
+<phrase i="451" t="ØÀÞ²Ú¸ÄÁ­³..."/>
+<phrase i="450" t="¹Ý¹ÞÝ¶ÞËÂÖ³ÃÞ½"/>
+<phrase i="449" t="Ê°Ì"/>
+<phrase i="448" t="ÌÙ"/>
+<phrase i="447" t="¹²¶¼Þ¶Ý"/>
+<phrase i="446" t="±¯¼­¸À²Ìß´×°"/>
+<phrase i="445" t="TCP´×°º°ÄÞ"/>
+<phrase i="444" t="ÊÞ°¼Þ®Ý´×°"/>
+<phrase i="443" t="ÃÞ¨½¸ÌÙ´×°"/>
+<phrase i="442" t="CFG TFTP»²½Þ´×°"/>
+<phrase i="441" t="DSPÁ´Ý"/>
+<phrase i="440" t="Ì×¯¼­»ÚÏ¼À"/>
+<phrase i="439" t="DSP KeepaliveÀ²Ñ±³Ä"/>
+<phrase i="438" t="DSP´×°"/>
+<phrase i="437" t="VLAN¶ÞÑº³ÃÞ½"/>
+<phrase i="436" t="IP±ÄÞÚ½¶ÞÑº³ÃÞ½"/>
+<phrase i="435" t="»ÌÞÈ¯ÄÏ½¸¶ÞÑº³ÃÞ½"/>
+<phrase i="434" t=" ¼Ö³ÃÞ·Ï¾Ý"/>
+<phrase i="433" t=" ½ÀÝÊÞ²"/>
+<phrase i="432" t=" ±¸Ã¨ÌÞ"/>
+<phrase i="431" t="BOOTP»°ÊÞ¶Þ¼Ö³»ÚÃ²Ï½"/>
+<phrase i="430" t="ÌßÛ¸Þ×ÐÝ¸Þ´×°"/>
+<phrase i="429" t="IP¶ÞÁ®³Ì¸¼Ã²Ï½"/>
+<phrase i="428" t="ÃÞÌ«ÙÄÙ°À¶Þ±ØÏ¾Ý"/>
+<phrase i="427" t="CnfÌ§²Ù¦¼Ö³¶É³"/>
+<phrase i="426" t="Áª¯¸»Ñ´×°"/>
+<phrase i="425" t="Û°ÄÞID¶ÞÀÀÞ¼¸±ØÏ¾Ý"/>
+<phrase i="424" t="DNS»°ÊÞIP¶Þ±ØÏ¾Ý"/>
+<phrase i="423" t="DNSÀ²Ñ±³Ä"/>
+<phrase i="422" t="DNSÌÒ²Î½Ä"/>
+<phrase i="421" t="TFTP²¯ÊßÝ´×°"/>
+<phrase i="420" t="CFGÌ§²Ù¶ÞÐÂ¶ØÏ¾Ý"/>
+<phrase i="419" t="TFTPÀ²Ñ±³Ä"/>
+<phrase i="418" t="DHCPÀ²Ñ±³Ä"/>
+<phrase i="417" t="Ù°À¶ÞËÂÖ³ÃÞ½"/>
+<phrase i="416" t="Ù°À¶Þ»ÌÞÈ¯Ä¼Þ®³Æ±ØÏ¾Ý"/>
+<phrase i="415" t="TFTP»°ÊÞ¶ÞËÂÖ³ÃÞ½"/>
+<phrase i="414" t="Ñº³Å¼Þ®³Î³"/>
+<phrase i="413" t="BCast Supress OFF"/>
+<phrase i="412" t="BCast Supress ON"/>
+<phrase i="411" t="Daughter¶°ÄÞ¶Þ¹Ý¼­Â»ÚÏ¾Ý¡"/>
+<phrase i="410" t="ÊÝÄÞ¾¯ÄÉµÝØ®³¶ÞÎ¿ÞÝ»ÚÏ¼À"/>
+<phrase i="409" t="Í¯ÄÞ¾¯ÄÉµÝØ®³¶ÞÎ¿ÞÝ»ÚÏ¼À"/>
+<phrase i="408" t="½Ëß°¶ÉµÝØ®³¶ÞÎ¿ÞÝ»ÚÏ¼À"/>
+<phrase i="407" t="ÍÝº³¶ÞÎ¿ÞÝ»ÚÏ¾ÝÃÞ¼À"/>
+<phrase i="406" t="µÝØ®³Á®³¾Â¦Î¿ÞÝ¼Ï½¶?"/>
+<phrase i="405" t="ÃÞ°ÀÉÆ­³Ø®¸..."/>
+<phrase i="404" t="»°ËÞ½ÊØÖ³ÃÞ·Ï¾Ý"/>
+<phrase i="403" t="»°ËÞ½"/>
+<phrase i="402" t="Ê°ÄÞ³ª±¼Þ®³Î³ÉË®³¼Þ"/>
+<phrase i="401" t="Ê°ÄÞ³ª±¼Þ®³Î³"/>
+<phrase i="400" t="½À¯¸¼Þ®³Î³ÉË®³¼Þ"/>
+<phrase i="399" t="½À¯¸ÓÆÀ"/>
+<phrase i="398" t="ÃÞÊÞ¯¸Þ¼Þ®³Î³ÉË®³¼Þ"/>
+<phrase i="397" t="ÃÞÊÞ¯¸ÞÉË®³¼Þ"/>
+<phrase i="396" t="Ì§°Ñ³ª±ÉÊÞ°¼Þ®Ý"/>
+<phrase i="395" t="Ì§°Ñ³ª±ÊÞ°¼Þ®Ý"/>
+<phrase i="394" t="È¯ÄÜ°¸Ä³¹²ÉË®³¼Þ"/>
+<phrase i="393" t="È¯ÄÜ°¸Ä³¹²"/>
+<phrase i="392" t="½Ã°À½Ò¯¾°¼ÞÉË®³¼Þ"/>
+<phrase i="391" t="´ÝÄØ¶Þ¹Ý¼®³»ÚÏ¼À"/>
+<phrase i="390" t="¼Ý·%s:"/>
+<phrase i="389" t="¹ÞÝ»Þ²É%s:"/>
+<phrase i="388" t="%sÉÍÝ¼­³"/>
+<phrase i="387" t="¾¯Ã²É½Ã°À½"/>
+<phrase i="386" t="½Ã°À½º³Ó¸É¾ÝÀ¸..."/>
+<phrase i="385" t="½À¯¸ÉÄ³¹²"/>
+<phrase i="384" t="½Ã°À½Ò¯¾°¼Þ"/>
+<phrase i="383" t="È¯ÄÜ°¸¾¯Ã²É¾ÝÀ¸..."/>
+<phrase i="382" t="ÖËÞÀÞ¼µÝ²Á×Ý¶Þ¼Ö³ÃÞ·Ï¾Ý"/>
+<phrase i="381" t="ÖËÞÀÞ¼µÝ²Á×ÝÌ§²Ù¶ÞÑº³"/>
+<phrase i="380" t="ÖËÞÀÞ¼µÝÌ§²Ù¶Þ¼Ö³ÃÞ·Ï¾Ý"/>
+<phrase i="379" t="ÖËÞÀÞ¼µÝÌ§²Ù¦Ö³·­³Á­³..."/>
+<phrase i="378" t="ÖËÞÀÞ¼µÝÀ²Ìß"/>
+<phrase i="377" t="ÖËÞÀÞ¼µÝÉ¾ÝÀ¸..."/>
+<phrase i="376" t="ÖËÞÀÞ¼µÝ²Á×Ý¦Ö³·­³Á­³..."/>
+<phrase i="375" t="Chirp 2"/>
+<phrase i="374" t="Chirp 1"/>
+<phrase i="373" t="ÍÝº³»ÚÏ¼À"/>
+<phrase i="372" t="ºÝÄ×½ÄÉÍÝº³..."/>
+<phrase i="371" t="½ÍÞÃÉÍÝº³¶ÞÎ¿ÞÝ»ÚÏ¼À"/>
+<phrase i="370" t="Ì§¸ÄØ¾¯Ã²¶ÞÌ¸¹ÞÝ»ÚÏ¼À "/>
+<phrase i="369" t="Î¿ÞÝ»ÚÃ²Ù¾¯Ã²¶ÞÌ¸¹ÞÝ»ÚÏ¼À"/>
+<phrase i="368" t="¾¯Ã²É¾ÝÀ¸..."/>
+<phrase i="367" t="¾¯Ã²"/>
+<phrase i="366" t="½Ã°À½"/>
+<phrase i="365" t="È¯ÄÜ°¸É¾¯Ã²"/>
+<phrase i="364" t="ºÝÄ×½Ä"/>
+<phrase i="363" t="¹Ý»¸¼Þ®³¹ÝÉ»²¾¯Ã²..."/>
+<phrase i="362" t="ØÚ·¶Þ±ØÏ¾Ý"/>
+<phrase i="361" t="%d¹Ý"/>
+<phrase i="360" t="%s¹Ý»¸"/>
+<phrase i="359" t="ØÚ·¶Þ¸Ø±»ÚÏ¼À"/>
+<phrase i="358" t="ÃÞ¨Ú¸ÄØÉ¾ÝÀ¸..."/>
+<phrase i="357" t="ÃÞ¨Ú¸ÄØÉURL¶ÞÑº³ÃÞ½..."/>
+<phrase i="356" t="ÃÞ¨Ú¸ÄØ"/>
+<phrase i="355" t="Ê¯¼ÝØÚ·"/>
+<phrase i="354" t="Á¬¸¼ÝØÚ·"/>
+<phrase i="353" t="Ì»Þ²Á¬¸¼Ý"/>
+<phrase i="352" t="CM¶ÞÀÞ³Ý¼Ã²ÙÀÒ¤·É³Ê¼Ö³Ì¶"/>
+<phrase i="351" t="Â·ÞÉ%s:"/>
+<phrase i="350" t="·°¶Þ±¸Ã¨ÌÞÃÞ±ØÏ¾Ý"/>
+<phrase i="349" t="Ö³·­³Á­³..."/>
+<phrase i="348" t="º°ÙÄ³¹²"/>
+<phrase i="347" t="¼Þ®³Î³"/>
+<phrase i="346" t="¼®³»²ÆÂ²ÃÊ·°¦¾ÝÀ¸..."/>
+<!-- There is a special symbol for help icon in the following phrase - Please don't delete it  -->
+<phrase i="345" t=" ·°ÃÞ·¬Ý¾Ù¼Ï½..."/>
+<phrase i="344" t="½ÍÞÃÉÌ¨°ÙÄÞ¶ÞÎ¿ÞÝ»ÚÏ¼À"/>
+<phrase i="343" t="ÍÝº³ÊÎ¿ÞÝ»ÚÏ¾Ý"/>
+<phrase i="342" t="%dÆÁ¤ "/>
+<phrase i="341" t="1ÆÁ¤ "/>
+<phrase i="340" t="%sÉ"/>
+<phrase i="339" t="%sÉ"/>
+<phrase i="338" t="·É³É"/>
+<phrase i="337" t="·®³É"/>
+<phrase i="336" t="ÄÞÖ³ËÞ"/>
+<phrase i="335" t="·ÝÖ³ËÞ"/>
+<phrase i="334" t="Ó¸Ö³ËÞ"/>
+<phrase i="333" t="½²Ö³ËÞ"/>
+<phrase i="332" t="¶Ö³ËÞ"/>
+<phrase i="331" t="¹ÞÂÖ³ËÞ"/>
+<phrase i="330" t="ÆÁÖ³ËÞ"/>
+<phrase i="329" t="To %s"/>
+<phrase i="328" t="ÌÒ²ÅÊÞÝºÞ³"/>
+<phrase i="327" t="From %s"/>
+<phrase i="326" t="For %s"/>
+<!-- Note to translator:  Please abbreviate the following phrase (325) as concisely as
+     possible.  It is used for call forwarding scenarios, and the %s gets replaced with
+     a caller ID.  It is important to make as much space available for the caller ID
+     information as possible. -->
+<phrase i="325" t="ÃÝ¿³ : %s"/>
+<phrase i="324" t="¶Þ²¾Ýº°Ù"/>
+<phrase i="323" t="ØÓ°ÄÃÞ¼Ö³"/>
+<phrase i="322" t="%d¹ÝÉÌ»Þ²Á¬¸¼Ý"/><!-- %c will be replaced with &apos; &apos;, it was retained for backwards compatibility.  This phrase is the singular form and the %d will be replaced with a &apos;1&apos;.  The plural form of this phrase is 671 -->
+<phrase i="321" t="Rx Longs"/>
+<phrase i="320" t="Rx Shorts"/>
+<phrase i="319" t="Rx Broadcasts"/>
+<phrase i="318" t="Rx Multicasts"/>
+<phrase i="317" t="Rx Runt"/>
+<phrase i="316" t="Rx Bad Preamble"/>
+<phrase i="315" t="Rx CRC Errors"/>
+<phrase i="314" t="Rx Frames"/>
+<phrase i="313" t="Rx Long/CRC"/>
+<phrase i="312" t="Rx Overruns"/>
+<phrase i="311" t="Tx Deferred Abort"/>
+<phrase i="310" t="Tx Collisions"/>
+<phrase i="309" t="Tx Multicasts"/>
+<phrase i="308" t="Tx Broadcasts"/>
+<phrase i="307" t="Tx Frames"/>
+<phrase i="306" t="Tx Excessive Collisions"/>
+<phrase i="305" t="overflow Drop"/>
+<phrase i="304" t="bpdu Drop"/>
+<phrase i="303" t="cos 7 Drop"/>
+<phrase i="302" t="cos 6 Drop"/>
+<phrase i="301" t="cos 5 Drop"/>
+<phrase i="300" t="cos 4 Drop"/>
+<phrase i="299" t="cos 3 Drop"/>
+<phrase i="298" t="cos 2 Drop"/>
+<phrase i="297" t="cos 1 Drop"/>
+<phrase i="296" t="cos 0 Drop"/>
+<phrase i="295" t="Tx size1024to1518"/>
+<phrase i="294" t="Tx size512to1023"/>
+<phrase i="293" t="Tx size256to511"/>
+<phrase i="292" t="Tx size128to255"/>
+<phrase i="291" t="Tx size65to127"/>
+<phrase i="290" t="Tx size64"/>
+<phrase i="289" t="Tx totalOct"/>
+<phrase i="288" t="Tx multicast"/>
+<phrase i="287" t="Tx broadcast"/>
+<phrase i="286" t="Tx excessLength"/>
+<phrase i="285" t="Tx fifoUnderrun"/>
+<phrase i="284" t="Tx collisions"/>
+<phrase i="283" t="Tx totalGoodPkt"/>
+<phrase i="282" t="Tx lateCollision"/>
+<phrase i="281" t="Tx excessDefer"/>
+<phrase i="280" t="Rx tokenDrop"/>
+<phrase i="279" t="Rx size1519to1548"/>
+<phrase i="278" t="Rx size1024to1518"/>
+<phrase i="277" t="Rx size512to1023"/>
+<phrase i="276" t="Rx size256to511"/>
+<phrase i="275" t="Rx size128to255"/>
+<phrase i="274" t="Rx size65to127"/>
+<phrase i="273" t="Rx size64"/>
+<phrase i="272" t="Rx longErr"/>
+<phrase i="271" t="Rx longGood"/>
+<phrase i="270" t="Rx shortGood"/>
+<phrase i="269" t="Rx shortErr"/>
+<phrase i="268" t="Rx unicast"/>
+<phrase i="267" t="Rx broadcast"/>
+<phrase i="266" t="Rx multicast"/>
+<phrase i="265" t="Rx alignErr"/>
+<phrase i="264" t="Rx crcErr"/>
+<phrase i="263" t="Total Octets"/>
+<phrase i="262" t="Rx totalPkt"/>
+<phrase i="261" t="ÊÝ¿³²ÍÞÝÄ"/>
+<phrase i="260" t="RTP¶ÞÑº³ÃÞ½"/>
+<phrase i="259" t="»°ËÞ½¦¼Ö³ÃÞ·Ï¾Ý"/>
+<phrase i="258" t="¼Þ­¼ÝÌ¶"/>
+<phrase i="257" t="Ê·"/>
+<phrase i="256" t="376000"/>
+<phrase i="255" t="¼Þ­¼Ý¶²¼¼Þ¶Ý"/>
+<phrase i="254" t="¼Þ­¼Ýµ¸Ã¯Ä"/>
+<phrase i="253" t="¼Þ­¼ÝÊß¹¯Ä"/>
+<phrase i="252" t="¼Þ­¼ÝÚÎß°Ä¼Þ¶Ý"/>
+<phrase i="251" t="¼Þ­¼ÝÚÎß°Ä"/>
+<phrase i="250" t="¼Þ­¼ÝÂ°Ù"/>
+<phrase i="249" t="¼Þ­¼Ý¼Þ¯À"/>
+<phrase i="248" t="¼Þ­¼Ý¿³¼ÂÊß¹¯Ä"/>
+<phrase i="247" t="¿³¼Ý¶²¼¼Þ¶Ý"/>
+<phrase i="246" t="¿³¼ÝÚÎß°Ä¼Þ¶Ý"/>
+<phrase i="245" t="¿³¼ÝÚÎß°Ä"/>
+<phrase i="244" t="¿³¼ÝÂ°Ù"/>
+<phrase i="243" t="¿³¼Ýµ¸Ã¯Ä"/>
+<phrase i="242" t="¿³¼ÝÊß¹¯Ä"/>
+<phrase i="241" t="ÅÏ´"/>
+<phrase i="240" t="½Ã°À½"/>
+<phrase i="239" t="¶²¼¼Þ¶Ý"/>
+<phrase i="238" t="BYE"/>
+<phrase i="237" t="¼Þ­¼Ý»Ý¶"/>
+<phrase i="236" t="¿³¼Ý»Ý¶"/>
+<phrase i="235" t="Û°¶Ù±ÄÞÚ½"/>
+<phrase i="234" t="ØÓ°Ä±ÄÞÚ½ "/>
+<phrase i="233" t="ÄÞÒ²Ý"/>
+<phrase i="232" t="Port Fast"/>
+<phrase i="231" t="ºÃ²TFTP"/>
+<phrase i="230" t="DHCP¶ÞÑº³ÃÞ½"/>
+<phrase i="229" t="URLÉ±²ÄÞÙ¼Þ¶Ý"/>
+<phrase i="228" t="±²ÄÞÙURL"/>
+<phrase i="227" t="»°ËÞ½URL"/>
+<phrase i="226" t="Ò¯¾°¼ÞURL"/>
+<phrase i="225" t="ÃÞ¨Ú¸ÄØURL"/>
+<phrase i="224" t="¼Þ®³Î³URL"/>
+<phrase i="223" t="CallManager 5"/>
+<phrase i="222" t="CallManager 4"/>
+<phrase i="221" t="CallManager 3"/>
+<phrase i="220" t="CallManager 2"/>
+<phrase i="219" t="CallManager 1"/>
+<phrase i="218" t="¶ÝØVLAN ID"/>
+<phrase i="217" t="¾Â¿Þ¸»·VLAN ID"/>
+<phrase i="216" t="DNS»°ÊÞ5"/>
+<phrase i="215" t="DNS»°ÊÞ4"/>
+<phrase i="214" t="DNS»°ÊÞ3"/>
+<phrase i="213" t="DNS»°ÊÞ2"/>
+<phrase i="212" t="DNS»°ÊÞ1"/>
+<phrase i="211" t="ÃÞÌ«ÙÄÙ°À5"/>
+<phrase i="210" t="ÃÞÌ«ÙÄÙ°À4"/>
+<phrase i="209" t="ÃÞÌ«ÙÄÙ°À3"/>
+<phrase i="208" t="ÃÞÌ«ÙÄÙ°À2"/>
+<phrase i="207" t="ÃÞÌ«ÙÄÙ°À1"/>
+<phrase i="206" t="TFTP»°ÊÞ1"/>
+<phrase i="205" t="»ÌÞÈ¯ÄÏ½¸"/>
+<phrase i="204" t="IP±ÄÞÚ½"/>
+<phrase i="203" t="ÄÞÒ²ÝÒ²"/>
+<phrase i="202" t="Î½ÄÒ²"/>
+<phrase i="201" t="MAC±ÄÞÚ½"/>
+</phrases>

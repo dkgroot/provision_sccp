@@ -1,0 +1,47 @@
+<tones>
+<trkLocaleName>Norway</trkLocaleName>
+<trkBaseClearcaseVersion>/main/3.3.release/1</trkBaseClearcaseVersion>
+<trkTranslationVersion>0</trkTranslationVersion>
+<tone c1="30959" i1="-1879" d="1" t="ringing">
+<part m="on" t="1000"/>
+<part m="off" t="4000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="reorder">
+<part m="on" t="250"/>
+<part m="off" t="250"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="busy">
+<part m="on" t="500"/>
+<part m="off" t="500"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30959" i1="-1879" d="1" t="odial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30274" i1="-2194" d="1" t="idial">
+<part m="on" t="65535"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="14876" i1="-5346" d="1" t="recording">
+<part m="on" t="425"/>
+<part m="off" t="15000"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30561" i1="-2069" c2="30959" i2="-1879" d="17" t="amwi">
+<part m="on" t="400"/>
+<part m="off" t="400"/>
+<part m="on" t="400"/>
+<part m="off" t="400"/>
+<repeat c="65535"/>
+</tone>
+<tone c1="30831" i1="-2032" c2="30831" i2="-2032" d="17" t="monitoring">
+<part m="on" t="1500"/>
+<part m="off" t="8000"/>
+<part m="on" t="500"/>
+<part m="off" t="8000"/>
+<repeat c="65535"/>
+</tone>
+</tones>

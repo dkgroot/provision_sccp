@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Japanese_Japan</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.0.1.release/2</trkBaseClearcaseVersion>
+<trkTranslationVersion>0</trkTranslationVersion>
+<phrase i="650" t="ÌßÛËÞ¼Þ®ÆÝ¸Þ"/>
+<phrase i="649" t="¾¯Ã²"/>
+<phrase i="648" t="ËÌßØ´ÝÌß¼®Ýº°Ù"/>
+<phrase i="647" t="ÌßØ´ÝÌß¼®Ýº°Ù"/>
+<phrase i="646" t="RTP URI"/>
+<phrase i="645" t="¼ÞÄÞ³ÀÞ²ÔÙ¶Þ·¬Ý¾Ù»ÚÏ¼À"/>
+<phrase i="644" t="      ¹ÞÝ»Þ²Éº°ÙÉ¼®Ø..."/>
+<phrase i="643" t="½ÍÞÃ»¸¼Þ®"/>
+<phrase i="642" t="µÌÌ¯¸"/>
+<phrase i="641" t="¹²º¸µÝØ®³"/>
+<phrase i="640" t="CCM¾¯Ã²"/>
+<phrase i="639" t="ËÞ°ÌßµÝÉÐ"/>
+<phrase i="638" t="ÖËÞÀÞ¼µÝ¾¯Ã²"/>
+<phrase i="637" t="¹²º¸»²¾²"/>
+<phrase i="636" t="Û°ÑÎ°ÙÄÞµÌ"/>
+<phrase i="635" t="½ÀÃ¨¯¸"/>
+<phrase i="634" t="¼ÞÄÞ³"/>
+<phrase i="633" t="Û°ÐÝ¸Þ±ÙºÞØ½ÞÑ"/>
+<phrase i="632" t="UDI"/>
+<phrase i="631" t="¾ÞÝ¶²·ÄÞ³¼Þº¸"/>
+<phrase i="630" t="¼Ø±ÙÎß°Ä"/>
+<phrase i="629" t="¼ÞÄÞ³60ËÞ®³"/>
+<phrase i="628" t="¼ÞÄÞ³30ËÞ®³"/>
+<phrase i="627" t="¼ÞÄÞ³15ËÞ®³"/>
+<phrase i="626" t="¼ÞÄÞ³·°Û¯¸"/>
+<phrase i="625" t="NLPÕ³º³/Ñº³"/>
+<phrase i="624" t="Ð­°ÄµÌ"/>
+<phrase i="623" t="Ð­°ÄµÝ"/>
+<phrase i="622" t="Í¯ÄÞ¾¯Ä"/>
+<phrase i="621" t="½Ëß°¶"/>
+<phrase i="620" t="¼­ÂØ®¸"/>
+<phrase i="619" t="×³ÄÞÚ°»Þ°"/>
+<phrase i="618" t="IP"/>
+<phrase i="617" t="Õ°»ÞÒ²Ñº³"/>
+<phrase i="616" t="Õ°»ÞÒ²¤Êß½Ü°ÄÞ¶Þ¸³Ê¸"/>
+<phrase i="615" t="HTML Content-Type"/>
+<phrase i="614" t="Å²ÌÞ»°ÊÞ´×°"/>
+<phrase i="613" t="Content-TypeÑº³"/>
+<phrase i="612" t="XML¶²¾·´×°"/>
+<phrase i="611" t="Ö³·­³ÆÆÝ¼®³¶ÞËÂÖ³"/>
+<phrase i="610" t="Î½Ä¶ÞÐÂ¶ØÏ¾Ý"/>
+<phrase i="609" t="Ö³·­³Æ´×°¶Þ¶´»ÚÏ¼À"/>
+<phrase i="608" t="Ö³·­³Ê·¬Ý¾Ù»ÚÏ¼À"/>
+<phrase i="607" t="»²ÀÞ²¼Þ¯À"/>
+<phrase i="606" t="Í²·Ý¼Þ¯À"/>
+<phrase i="605" t="¼Þ­¼ÝÊÞ²Ä"/>
+<phrase i="604" t="¿³¼ÝÊÞ²Ä"/>
+<phrase i="603" t="¿³¼ÂÊß¹¯Ä"/>
+<phrase i="602" t="¼Þ­¼ÝÊß¹¯Ä"/>
+<phrase i="601" t="¿³¼ÝÊß¹¯Ä"/>
+<phrase i="600" t="VQStats¼­Ä¸ É ¼¯Êß²"/>
+<phrase i="599" t="Ä³¹²Å¼"/>
+<phrase i="598" t="Conceal Avg"/>
+<phrase i="597" t="Conceal Max"/>
+<phrase i="596" t="Conceal Curr"/>
+<phrase i="595" t="MaxMos"/>
+<phrase i="594" t="MinMos"/>
+<phrase i="593" t="AvgMos"/>
+<phrase i="592" t="Mos"/>
+<phrase i="591" t="Call Ref"/>
+<phrase i="590" t="º°ÙÄ³¹²"/>
+<phrase i="589" t="XML"/>
+<phrase i="588" t="²ÝÀ°ÅÙ"/>
+<phrase i="587" t="Ì«ÝÄ"/>
+<phrase i="586" t="Êß°¸ÊÞÝºÞ³"/>
+<phrase i="585" t="Ó°ÄÞ"/>
+<phrase i="584" t="ÌßÛËÞ¼Þ®Ý:EAP-FAST PAC"/>
+<phrase i="583" t="¹Ý¶Þ²"/>
+<phrase i="582" t="Ä³ÀÂ¹Ý Á­³²"/>
+<phrase i="581" t="Êß°¸ÊÞÝºÞ³:"/>
+<phrase i="580" t="º³¼Ý"/>
+<phrase i="579" t="¼­³Ø®³"/>
+<phrase i="578" t="XMLµÌÞ¼Þª¸Ä - "/> 
+<phrase i="577" t="Ð»Îß°Ä XMLµÌÞ¼Þª¸Ä"/> 
+<phrase i="576" t="Ö³·­³ ¶Þ ¼¯Êß²¼Ï¼À"/>
+<phrase i="575" t="for %s"/>
+<phrase i="574" t=" by %s"/>
+<phrase i="573" t="From %s"/>
+<phrase i="572" t="To %s"/>
+<phrase i="571" t="CMÌ«°ÙÊÞ¯¸»°ËÞ½Á­³"/>
+<phrase i="570" t="ÀÞ²µÝØ®³"/>
+<phrase i="569" t="(C)"/>
+<phrase i="568" t="²ÝÀ°ºÑ"/>
+<phrase i="567" t="      Ö³·­³Á­³"/>
+<phrase i="566" t="* : ÍÝÄ³Å¼"/>
+<phrase i="565" t="ÃÝ¿³"/>          
+<phrase i="564" t="(ÌÒ²ÅÊÞÝºÞ³)"/>
+<phrase i="563" t="ÃÝ¿³ "/>
+<phrase i="562" t="To "/>
+<phrase i="561" t="From "/>
+<phrase i="560" t="ÄÞÖ³ËÞ"/>
+<phrase i="559" t="·ÝÖ³ËÞ"/>
+<phrase i="558" t="Ó¸Ö³ËÞ"/>
+<phrase i="557" t="½²Ö³ËÞ"/>
+<phrase i="556" t="¶Ö³ËÞ"/>           
+<phrase i="555" t="¹ÞÂÖ³ËÞ"/>
+<phrase i="554" t="ÆÁÖ³ËÞ"/>
+<phrase i="553" t="From ÌÒ²ÅÊÞÝºÞ³"/>
+<phrase i="552" t="¶Þ²¾Ýº°Ù"/>
+<phrase i="551" t="ËÂ³Áº°Ù"/> 
+<phrase i="550" t="ÌÒ²ÅÊÞÝºÞ³"/>
+<phrase i="549" t="Õ°»ÞÒ²ÄÊß½Ü°ÄÞ Æ­³Ø®¸"/>
+<phrase i="548" t="¼Þ®³Î³"/>           
+<phrase i="547" t="*À²ÄÙ*"/>
+<phrase i="546" t="(CM Cmd)"/>
+<phrase i="545" t="(Mgt Cmd)"/>
+<phrase i="544" t="(º³¼ÝOK)"/>
+<phrase i="543" t="MP¼®ØÁ­³..."/>
+<phrase i="542" t="HTTPÖ³·­³ ·¬Ý¾Ù"/> 
+<phrase i="541" t="¼¯Êß²¡"/> 
+<phrase i="540" t="µ°ÊÞ°ÌÛ°¡"/> 
+<phrase i="539" t="ÊÞ¯Ì§"/> 
+<phrase i="538" t="XML É ¶²¾·"/> 
+<phrase i="537" t="Á¬¸¼Ý ´×°¡"/> 
+<phrase i="536" t="EAP ¼¯Êß² À²· 1 ÌßÝ"/> 
+<phrase i="535" t="Ì¾²ÃÞ½"/>                      
+<phrase i="534" t="WEPÑº³¶"/> 
+<phrase i="533" t="Á®³Ì¸¼Ã²Ï½¡"/> 
+<phrase i="532" t="¶×ÆÊÃÞ·Ï¾Ý"/> 
+<phrase i="531" t="È¯ÄÜ°¸ ËÞ¼Þ°¡"/> 
+<phrase i="530" t="USBÑº³¡"/> 
+<phrase i="529" t="Ì¾²Å IP¡"/> 
+<phrase i="528" t="¿³¼Ý ¾²º³¡"/> 
+<phrase i="527" t="·°Û¯¸"/> 
+<phrase i="526" t="Ä³Û¸ ¶Þ ·®Ë»ÚÏ¼À"/> 
+<phrase i="525" t="»°ËÞ½Å¼"/>                      
+<phrase i="524" t="È¯ÄÜ°¸ ËÞ¼Þ°"/> 
+<phrase i="523" t="CallManager ¾Â¿Þ¸ ¼¯Êß²"/> 
+<phrase i="522" t="TFTP¼¯Êß²"/> 
+<phrase i="521" t="TFTP µ³Ä³Å¼"/> 
+<phrase i="520" t="TFTP»°ÊÞÅ¼"/> 
+<phrase i="519" t="IP¾¯Ã² É ¼¯Êß²"/> 
+<phrase i="518" t="Ì»Þ²Á¬¸¼Ý"/> 
+<phrase i="517" t="»·ÆÕ³º³¶¼Ã¸ÀÞ»²"/> 
+<phrase i="516" t="WEP·°¦"/> 
+<phrase i="515" t="ÎÞ²½Ò°Ù ±Ø"/>                      
+<phrase i="514" t="SSID ¶Þ ËÂÖ³ÃÞ½"/> 
+<phrase i="513" t="È¯ÄÜ°¸ ¶Þ ±ØÏ¾Ý"/> 
+<phrase i="512" t="Û°ÄÞID É ÀÞ³ÝÛ°ÄÞÁ­³"/> 
+<phrase i="511" t="AP ¶Þ ÐÂ¶ØÏ¾Ý"/> 
+<phrase i="510" t="CallManager ¹Ý¼­ÂÌÉ³"/> 
+<phrase i="509" t="¼Þ¬¸¼ÝºÞ³ ¦ ¹Ý¼­Â¼Ï¼À"/> 
+<phrase i="508" t="Â³ÜÁ­³"/> 
+<phrase i="507" t="Ë±¸Ã¨ÌÞÅ ·É³"/> 
+<phrase i="506" t="IP±ÄÞÚ½"/> 
+<phrase i="505" t="Á®³Ì¸"/> 
+<phrase i="504" t="CallManager Ä³Û¸Á­³"/> 
+<phrase i="503" t="ÆÝ¼®³OK"/> 
+<phrase i="502" t="±¿¼´°¼®ÝOK"/> 
+<phrase i="501" t="CallManager ÀÞ³Ý"/>
+<phrase i="500" t="Ä°Ý É ¾ÝÀ¸"/> 
+<phrase i="499" t="ÃÞÝÜÊß½Ü°ÄÞ É Æ­³Ø®¸"/> 
+<phrase i="498" t="¶ÝØ®³"/> 
+<phrase i="497" t="¼Þ­³ÃÞÝÁ­³"/> 
+<phrase i="496" t="ÊÞ¯ÃØ"/> 
+<phrase i="495" t="¼ÝÎÞÙ É ¾ÝÀ¸"/> 
+<phrase i="494" t="DHCP ¶Þ Ñº³ÃÞ½"/>                       
+<phrase i="493" t="DHCP ¶Þ Õ³º³ÃÞ½"/> 
+<phrase i="492" t="±¿¼´°ÄÅ¼"/> 
+<phrase i="491" t="¹Ý¶Þ²"/> 
+<phrase i="490" t="¾¯Ã² ´×°¡"/> 
+<phrase i="489" t="Á­³¼"/> 
+<phrase i="488" t="ÄÚ°½Ù°ÄIP É Æ­³Ø®¸"/> 
+<phrase i="487" t="»°ÊÞ ´×°¡"/> 
+<phrase i="486" t="ÖËÞÀÞ¼µÝ Ì§²Ù Å¼¡"/> 
+<phrase i="485" t="Â·ÞÉ ÀÝ¼­¸ÀÞ²ÔÙ É ¾ÝÀ¸"/> 
+<phrase i="484" t="Ì¾²Å ±À²ÃÞ½¡"/>                      
+<phrase i="483" t="ÃÞÌ«ÙÄ?"/> 
+<phrase i="482" t="Ì¸¹ÞÝ»·:"/> 
+<phrase i="481" t="µÏÁ¸ÀÞ»²"/> 
+<phrase i="480" t="ÃÞ°ÀÌ¸¹ÞÝ ¶ÝØ®³"/> 
+<phrase i="479" t="¼Ý·"/> 
+<phrase i="478" t="ÒÓØ°¶ÞÌÙÃÞ½¡"/> 
+<phrase i="477" t="º³Ó¸ É »¸¼Þ®?"/> 
+<phrase i="476" t="ËÂÖ³¼Þ®³¹Ý"/> 
+<phrase i="475" t="ÃÞÝÜÊÞÝºÞ³"/> 
+<phrase i="474" t="Î¿ÞÝ¼Ï¼À..."/>                       
+<phrase i="473" t="Êß½Ü°ÄÞ ´×°"/> 
+<phrase i="472" t="EAPÕ°»ÞÒ² É Æ­³Ø®¸"/> 
+<phrase i="471" t="EAPÊß½Ü°ÄÞ É Æ­³Ø®¸"/> 
+<phrase i="470" t="¶²¾Ý ËÞ¼Þ°"/> 
+<phrase i="469" t="ÊÞ²ÌÞÚ°À µÌ"/> 
+<phrase i="468" t="ÊÞ²ÌÞÚ°À µÝ"/> 
+<phrase i="467" t="·°Û¯¸ µÌ?"/> 
+<phrase i="466" t="·°Û¯¸ µÝ"/> 
+<phrase i="465" t="ÊÞ¯ÃØ»ÞÝØ®³(Ã²)"/> 
+<phrase i="464" t="CallManagerÄ³Û¸ ¼¯Êß²"/>                       
+<phrase i="463" t="CallManager¾Â¿Þ¸ ¼¯Êß²"/> 
+<phrase i="462" t="Ì§°Ñ³ª± É º³¼Ý ¼¯Êß²"/> 
+<phrase i="461" t="Ì§°Ñ³ª± É º³¼Ý"/> 
+<phrase i="460" t="DHCPÖ³·­³ É ¼¯Êß²"/> 
+<phrase i="459" t="EAPÆÝ¼®³ É ¼¯Êß²"/> 
+<phrase i="458" t="EAPÆÝ¼®³OK"/> 
+<phrase i="457" t="ÆÝ¼®³Æ ¼¯Êß²¼Ï¼À"/> 
+<phrase i="456" t="±¿¼´°Ä ¼¯Êß²"/> 
+<phrase i="455" t="CallManager ¾Â¿Þ¸Á­³"/> 
+<phrase i="454" t="TFTPÆ¾Â¿Þ¸Á­³"/>                       
+<phrase i="453" t="¾¯Ã²Ì§²Ù ÀÞ³ÝÛ°ÄÞÁ­³"/> 
+<phrase i="452" t="IPÈ¯ÄÜ°¸ ¾¯Ã²¼¯Êß²"/> 
+<phrase i="451" t="IPÈ¯ÄÜ°¸ ¾¯Ã²Á­³"/> 
+<phrase i="450" t="EAPÆÝ¼®³Á­³"/> 
+<phrase i="449" t="AP±¿¼´°ÄÁ­³"/> 
+<phrase i="448" t="APÆÝ¼®³Á­³"/> 
+<phrase i="447" t="ÃÞÝ¹ÞÝ µÌ"/> 
+<phrase i="446" t="ÃÞÝ¹ÞÝ µÝ"/> 
+<phrase i="445" t="ÎØ­³"/> 
+<phrase i="444" t="Ê¯¼ÝÁ­³"/>                      
+<phrase i="443" t="¾Â¿Þ¸¼Ï¼À"/> 
+<phrase i="442" t="From"/> 
+<phrase i="441" t="ÊÞÝºÞ³ ¦ Æ­³Ø®¸¼Ã ÀÞ²ÔÙ"/> 
+<phrase i="440" t="µÌß¼®Ý"/> 
+<phrase i="439" t="»°ËÞ½"/>
+<phrase i="438" t="ÀÝ¼­¸"/>           
+<phrase i="437" t="»°ËÞ½"/>
+<phrase i="436" t="¼Ö³"/>
+<phrase i="435" t="ÀÝ¼­¸"/>
+<phrase i="434" t="º³¼Ý"/>
+<phrase i="433" t="¼­³Ø®³"/>
+<phrase i="432" t="ÍÝ¼­³"/>
+<phrase i="431" t="OK"/>
+<phrase i="430" t="Ø¾¯Ä"/>
+<phrase i="429" t="»²¾²"/>
+<phrase i="428" t="·¬Ý¾Ù"/>           
+<phrase i="427" t="ÍÝ¼­³"/>
+<phrase i="426" t="»¸¼Þ®"/>
+<phrase i="425" t="Â²¶"/>
+<phrase i="424" t="¼®³»²"/>
+<phrase i="423" t="¼­³Ø®³"/>
+<phrase i="422" t="ÎÞØ­°Ñ"/>
+<phrase i="421" t="Ð­°Ä"/>
+<phrase i="420" t="µ³Ä³"/>
+<phrase i="419" t="ÍÝ¼­³"/>
+<phrase i="418" t="ÓÄÞÙ"/>
+<phrase i="417" t="¾ÝÀ¸"/>
+<phrase i="416" t="¸Ø±"/> 
+<phrase i="415" t="Î¿ÞÝ"/> 
+<phrase i="414" t="ÃÞÝÜÁ®³"/>                       
+<phrase i="413" t="ÒÆ­°"/> 
+<phrase i="412" t="±²ÄÞÙURL"/> 
+<phrase i="411" t="SSID 4"/> 
+<phrase i="410" t="SSID 3"/> 
+<phrase i="409" t="SSID 2"/> 
+<phrase i="408" t="SSID 1"/> 
+<phrase i="407" t="ÃÞÝÜ Ø¾¯Ä"/>
+<phrase i="406" t="Î¯Ìß: "/>
+<phrase i="405" t="ÄÚ°½Ù°Ä"/> 
+<phrase i="404" t="CDP TX¶Ý¶¸"/> 
+<phrase i="403" t="CDP TTL"/> 
+<phrase i="402" t="CDP TXÕ³º³/Ñº³"/> 
+<phrase i="401" t="¼Ö³ÃÞ·Ï¾Ý"/>
+<phrase i="400" t="¹ÞÝ»Þ²É Tx Power"/> 
+<phrase i="399" t="LEAP"/>
+<phrase i="398" t="EAP-FAST"/>
+<phrase i="397" t="EAPÓ°ÄÞ"/>
+<phrase i="396" t="TKIP"/> 
+<phrase i="395" t="WEP 128"/> 
+<phrase i="394" t="WEP 40"/> 
+<phrase i="393" t="ÏÙÁ·¬½Ä"/> 
+<phrase i="392" t="ÕÆ·¬½Ä"/> 
+<phrase i="391" t="±ÝºÞ³¶Î³¼·"/> 
+<phrase i="390" t="CCKM"/> 
+<phrase i="389" t="WPA"/> 
+<phrase i="388" t="·°¶ÝØÎ³¼·"/> 
+<phrase i="387" t="¹ÞÝ»Þ² É È¯ÄÜ°¸ ÌßÛÌ§²Ù"/> 
+<phrase i="386" t="¹ÞÝ»Þ² É Õ°»Þ ÌßÛÌ§²Ù"/>                       
+<phrase i="385" t="²ÝÌ×½Ä×¸Á¬ Ó°ÄÞ"/> 
+<phrase i="384" t="È¯ÄÜ°¸ À²Ìß"/> 
+<phrase i="383" t="±¿¼´°Ä¼À AP É SSID"/> 
+<phrase i="382" t="±¿¼´°Ä¼À AP É MAC"/> 
+<phrase i="381" t="EDÓ°ÄÞ É ¼·²Á"/> 
+<phrase i="380" t="CS1 or SQ1"/> 
+<phrase i="379" t="ED and (CS1 or SQ1)"/> 
+<phrase i="378" t="EDÓ°ÄÞ"/> 
+<phrase i="377" t="CCAÓ°ÄÞ"/> 
+<phrase i="376" t="CCA¾¯Ã²"/>                       
+<phrase i="375" t="I_Á¬ÝÈÙ Ø½Ä"/> 
+<phrase i="374" t="O_Á¬ÝÈÙ Ø½Ä"/> 
+<phrase i="373" t="N_Á¬ÝÈÙ Ø½Ä"/> 
+<phrase i="372" t="A_Á¬ÝÈÙ Ø½Ä"/> 
+<phrase i="371" t="ÊÝÄÞµÌ"/> 
+<phrase i="370" t="Êß¯¼ÌÞ ½·¬Ý À²Ñ"/> 
+<phrase i="369" t="±¸Ã¨ÌÞ ½·¬Ý À²Ñ"/> 
+<phrase i="368" t="I_Á¬ÝÈÙ ½·¬Ý ËÝÄÞ"/> 
+<phrase i="367" t="O_Á¬ÝÈÙ ½·¬Ý ËÝÄÞ"/> 
+<phrase i="366" t="N_Á¬ÝÈÙ ½·¬Ý ËÝÄÞ"/> 
+<phrase i="365" t="A_Á¬ÝÈÙ ½·¬Ý ËÝÄÞ"/> 
+<phrase i="364" t="O_Á¬ÝÈÙ RSSI ¼·²Á"/> 
+<phrase i="363" t="QBSS Diff ¼·²Á"/> 
+<phrase i="362" t="RSSI Diff ¼·²Á"/> 
+<phrase i="361" t="QBSS ¼·²Á"/> 
+<phrase i="360" t="RSSI ¼·²Á"/> 
+<phrase i="359" t="Á¬ÈÙ ¶²¾ÞÝ"/> 
+<phrase i="358" t="½·¬Ý"/> 
+<phrase i="357" t="Û°ÐÝ¸Þ"/> 
+<phrase i="356" t="Ü²ÔÚ½ ¾¯Ã²"/> 
+<phrase i="355" t="¸³Ê¸"/>
+<phrase i="354" t="CU"/> 
+<phrase i="353" t="MAC"/> 
+<phrase i="352" t="RSSI"/>
+<phrase i="351" t="Á¬ÝÈÙ"/>           
+<phrase i="350" t="»²Ä»°ÍÞ²"/> 
+<phrase i="349" t="MAC±ÄÞÚ½"/> 
+<phrase i="348" t="Call Manager %d:"/>
+<phrase i="347" t="Å¼"/>
+<phrase i="346" t="¾¶ÝÀÞØDNS:"/>
+<phrase i="345" t="Ìß×²ÏØDNS:"/>
+<phrase i="344" t="Ìß×²ÏØTFTP:"/>
+<phrase i="343" t="Ìß×²ÏØ ¹Þ°Ä³ª²:"/>
+<phrase i="342" t="Î½ÄÒ²:"/>
+<phrase i="341" t="»ÌÞÈ¯ÄÏ½¸:"/>         
+<phrase i="340" t="IP±ÄÞÚ½:"/>
+<phrase i="339" t="DHCP»°ÊÞ:"/>
+<phrase i="338" t=" No"/>
+<phrase i="337" t=" Yes"/>
+<phrase i="336" t="DHCP¦Â¶³:"/>
+<phrase i="335" t="¹ÞÝ»Þ² É ¾¯Ã²"/> 
+<phrase i="334" t="CM¶× É ¿ÌÄ·°"/>            
+<phrase i="333" t="ÖËÞÀÞ¼"/> 
+<phrase i="332" t="±²ÄÞÙ"/> 
+<phrase i="331" t="¿ÌÄ·° ¾¯Ã²"/> 
+<phrase i="330" t="WLAN¶×TFTP"/> 
+<phrase i="329" t="USB¶×TFTP"/> 
+<phrase i="328" t="ÃÞÝÜ Û¸Þ"/> 
+<phrase i="327" t="WDogÕ³º³/Ñº³"/> 
+<phrase i="326" t="¼®³ÃÞÝØ®¸"/> 
+<phrase i="325" t="Ì§¸ÄØ¾¯Ã²"/> 
+<phrase i="324" t="USBÕ³º³/Ñº³"/> 
+<phrase i="323" t="µÝ/µÌ"/> 
+<phrase i="322" t="ÃÞÝÜ Û¯¸"/> 
+<phrase i="321" t="ÊÞ¯¸×²Ä"/> 
+<phrase i="320" t="¼®·¶ÞÒÝ Ò¯¾°¼Þ"/> 
+<phrase i="319" t="¸ÞØ°Ã¨Ý¸Þ Ò¯¾°¼Þ"/> 
+<phrase i="318" t="´²ºÞ"/> 
+<phrase i="317" t="¹ÞÝºÞ"/> 
+<phrase i="316" t="À²·Á­³"/> 
+<phrase i="315" t="ÖËÞÀÞ¼µÝÄ°Ý É ÀÞ³ÝÛ°ÄÞ"/> 
+<phrase i="314" t="Chirp 2"/> 
+<phrase i="313" t="Chirp 1"/> 
+<phrase i="312" t="ÃÞÌ«ÙÄ ÖËÞÀÞ¼µÝÄ°Ý"/> 
+<phrase i="311" t="ÖËÞÀÞ¼µÝÄ°Ý É ¾ÝÀ¸"/> 
+<phrase i="310" t="ÖËÞÀÞ¼µÝÄ°Ý"/> 
+<phrase i="309" t="ÄÞÒ²Ý"/> 
+<phrase i="308" t="Ê°ÄÞ³ª± ¼Þ®³Î³"/> 
+<phrase i="307" t="BspÛ°ÄÞID"/> 
+<phrase i="306" t="ÌÞ°Ä Û°ÄÞID"/> 
+<phrase i="305" t="Ì§°Ñ³ª± ÊÞ°¼Þ®Ý"/> 
+<phrase i="304" t="Ì§°Ñ³ª± ¼Þ®³Î³"/> 
+<phrase i="303" t="Retry Cnt.: "/> 
+<phrase i="302" t="Ack Failed: "/> 
+<phrase i="301" t="Tx Failed: "/>
+<phrase i="300" t="Bcast Rx: "/> 
+<phrase i="299" t="Aged Pkts: "/> 
+<phrase i="298" t="Rx Pkts: "/> 
+<phrase i="297" t="Tx Pkts: "/> 
+<phrase i="296" t="Up Time: "/> 
+<phrase i="295" t="È¯ÄÜ°¸ Ä³¹²"/> 
+<phrase i="294" t="¹ÞÝ»Þ² É ¾¯Ã²Ì§²Ù"/> 
+<phrase i="293" t="ÃÞÝÜ ½Ã°À½"/> 
+<phrase i="292" t="ÍÝº³"/> 
+<phrase i="291" t="ÌßÛÌ§²ÙÒ²ÉÍÝº³"/> 
+<phrase i="290" t="100 mW"/> 
+<phrase i="289" t="50 mW"/> 
+<phrase i="288" t="20 mW"/> 
+<phrase i="287" t="5 mW"/> 
+<phrase i="286" t="1 mW"/> 
+<phrase i="285" t="¿³¼Ý ÃÞÝØ®¸"/> 
+<phrase i="284" t="11 Mb"/> 
+<phrase i="283" t="5.5 Mb"/> 
+<phrase i="282" t="2 Mb"/> 
+<phrase i="281" t="1 Mb"/>
+<phrase i="280" t="¼ÞÄÞ³"/> 
+<phrase i="279" t="MAX ÃÞ°ÀÚ°Ä"/> 
+<phrase i="278" t="128 Bits"/> 
+<phrase i="277" t="40 Bits"/> 
+<phrase i="276" t="Å¼"/> 
+<phrase i="275" t="WEP·° ¾¯Ã²"/> 
+<phrase i="274" t="Wep Key 4"/> 
+<phrase i="273" t="Wep Key 3"/> 
+<phrase i="272" t="Wep Key 2"/> 
+<phrase i="271" t="Wep Key 1"/> 
+<phrase i="270" t="±ÝºÞ³¶"/> 
+<phrase i="269" t="ASCII"/> 
+<phrase i="268" t="16¼Ý½³"/> 
+<phrase i="267" t="WPA ¼Þ¾ÞÝ·®³Õ³·°"/> 
+<phrase i="266" t="ÌßÛÝÌßÄ Ó°ÄÞ"/> 
+<phrase i="265" t="Êß½Ü°ÄÞ"/> 
+<phrase i="264" t="Õ°»ÞÒ²"/> 
+<phrase i="263" t="AKM"/> 
+<phrase i="262" t="EAP"/>
+<phrase i="261" t="·®³Õ³·°"/> 
+<phrase i="260" t="µ°ÌßÝ"/> 
+<phrase i="259" t="ÆÝ¼®³"/> 
+<phrase i="258" t="¼Ã²"/> 
+<phrase i="257" t="½ÍÞÃ"/> 
+<phrase i="256" t="SSID"/> 
+<phrase i="255" t="802.11b¾¯Ã²"/> 
+<phrase i="254" t="½ÀÃ¨¯¸¼Ö³"/> 
+<phrase i="253" t="DHCP¼Ö³"/> 
+<phrase i="252" t="TFTPµÌß¼®Ý"/> 
+<phrase i="251" t="¾¶ÝÀÞØDNS»°ÊÞ"/> 
+<phrase i="250" t="Ìß×²ÏØDNS»°ÊÞ"/> 
+<phrase i="249" t="Ìß×²ÏØTFTP»°ÊÞ"/> 
+<phrase i="248" t="Ìß×²ÏØ ¹Þ°Ä³ª²"/> 
+<phrase i="247" t="»ÌÞÈ¯ÄÏ½¸"/> 
+<phrase i="246" t="IP±ÄÞÚ½"/> 
+<phrase i="245" t="½ÀÃ¨¯¸ ¾¯Ã²"/> 
+<phrase i="244" t="Ñº³"/> 
+<phrase i="243" t="Õ³º³"/> 
+<phrase i="242" t="DHCPÕ³º³/Ñº³"/> 
+<phrase i="241" t="ÍÝº³ É Ã·Ö³"/> 
+<phrase i="240" t="¼ÞÄÞ³"/> 
+<phrase i="239" t="È¯ÄÜ°¸ ÌßÛÌ§²Ù"/> 
+<phrase i="238" t="ÊÞ²ÌÞÚ°À"/> 
+<phrase i="237" t="Ä°Ý"/> 
+<phrase i="236" t="µÌ"/> 
+<phrase i="235" t="µÝ"/> 
+<phrase i="234" t="¹²º¸ ¼­Ù²"/> 
+<phrase i="233" t="·°¿³»µÝØ®³"/> 
+<phrase i="232" t="ÊÞ²ÌÞÚ°À ¹²º¸"/> 
+<phrase i="231" t="Á¬¸¼Ý ¹²º¸"/> 
+<phrase i="230" t="ÖËÞÀÞ¼ µÝØ®³"/> 
+<phrase i="229" t="½Ëß°¶ µÝØ®³"/> 
+<phrase i="228" t="±¸Ã¨ÍÞ°Ä"/> 
+<phrase i="227" t="±³ÄÄÞ±"/> 
+<phrase i="226" t="¶²·Þ"/> 
+<phrase i="225" t="ÏÅ°"/> 
+<phrase i="224" t="Ë®³¼Þ­Ý"/> 
+<phrase i="223" t="Õ°»ÞÌßÛÌ§²Ù"/>
+<phrase i="222" t="Â³ÜØÚ· É ¼®³·®"/> 
+<phrase i="221" t="Ê¯¼ÝØÚ·"/> 
+<phrase i="220" t="Á¬¸¼ÝØÚ·"/> 
+<phrase i="219" t="Ì»Þ²Á¬¸¼Ý"/> 
+<phrase i="218" t="ÎÞ²½Ò°Ù ÎÞ¯¸½"/> 
+<phrase i="217" t="¼¬Å² ÃÞ¨Ú¸ÄØ"/> 
+<phrase i="216" t="Ò°Ù±ÄÞÚ½"/> 
+<phrase i="215" t="¹²À²ÃÞÝÜÊÞÝºÞ³"/> 
+<phrase i="214" t="¼ÞÀ¸ É ÃÞÝÜÊÞÝºÞ³"/> 
+<phrase i="213" t="µÌ¨½ É ÃÞÝÜÊÞÝºÞ³"/> 
+<phrase i="212" t="ÅÏ´"/> 
+<phrase i="211" t="ÀÝ¼­¸ÀÞ²ÔÙ"/> 
+<phrase i="210" t="Â²¶"/> 
+<phrase i="209" t="ÅÏ´"/> 
+<phrase i="208" t="ÃÞÝÜÁ®³"/> 
+<phrase i="207" t="È¯ÄÜ°¸¾¯Ã²"/>
+<phrase i="206" t="ÃÞÝÜ É ¾¯Ã²"/> 
+<phrase i="205" t="»°ËÞ½"/> 
+<phrase i="204" t="ÌßÛÌ§²Ù"/> 
+<phrase i="203" t="Â³ÜØÚ·"/> 
+<phrase i="202" t="Ò¯¾°¼Þ"/> 
+<phrase i="201" t="ÃÞ¨Ú¸ÄØ"/> 
+</phrases>

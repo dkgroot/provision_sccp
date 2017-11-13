@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Finnish_Finland</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.0.1.release/2</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<!-- Please do not add phrases to this file - Add new phrases to file 7960-ext-dictionary.xml -->
+<phrase i="740" t="Suojausmääritykset"/><!-- This phrase is for the Sec Config Menu title -->
+<phrase i="739" t="Syötä merkkijono"/>
+<phrase i="738" t="Yhteydenvalvonnan kestoaika"/>
+<phrase i="737" t="Päivitetään varmennetta..."/>
+<phrase i="736" t="DSPPoll-tehtävä"/>
+<phrase i="735" t="Odottaa palauttamista..."/>
+<phrase i="734" t="Odottaa"/>
+<phrase i="733" t="TLS-tehtävä"/>
+<phrase i="732" t="Näytä luottosuhdeluettelo"/>
+<phrase i="731" t="Näytä CTL-tiedosto"/>
+<phrase i="730" t="CallManager / TFTP"/>
+<phrase i="729" t="CallManager"/>
+<phrase i="728" t="Luottosuhdeluettelo"/>
+<phrase i="727" t="CTL-tiedosto"/>
+<phrase i="726" t="TFTP ei CTL:ssä"/>
+<phrase i="725" t="Seis"/>
+<phrase i="724" t="Lukitus"/>
+<phrase i="723" t="Lukituksen poisto"/>
+<phrase i="722" t="Web-yhteys"/>
+<phrase i="721" t="Ei asennettu"/>
+<phrase i="720" t="Asennettu"/>
+<phrase i="719" t="Poissa käytöstä"/>
+<phrase i="718" t="Käytössä"/>
+<phrase i="717" t="Valitse suojausasetus..."/>
+<phrase i="716" t="Suojausmääritykset"/><!-- This is the menu item on the Settings menu -->
+<phrase i="715" t="Alhaalla"/><!-- This phrase is used with Network statistics port status -->
+<phrase i="714" t="Toiminto peruutettu"/>
+<phrase i="713" t="Ei TFTP-oikeuksia: %s"/>
+<phrase i="712" t="Tyhjennä"/>
+<phrase i="711" t="Salattu"/>
+<phrase i="710" t="Todennettu"/>
+<phrase i="709" t="Ei turvallinen"/>
+<phrase i="708" t="TLS-virhe kohteeseen "/>
+<phrase i="707" t="Web-yhteys käytössä"/>
+<phrase i="706" t="Suojaustila"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="705" t="Käsitellään..."/>
+<phrase i="704" t="Virheellinen syöte"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="703" t="Avaimen luonti epäonnistui"/>
+<phrase i="702" t="Yhteys epäonnistui"/>
+<phrase i="701" t="Epäonnistui"/>
+<phrase i="700" t="Aikakatkaisu"/>
+<phrase i="699" t="Onnistui"/>
+<phrase i="698" t="Todennuspyyntö..."/><!-- Changed by Skate - may need retranslation -->
+<phrase i="697" t="Muodostetaan yhteyttä..."/>
+<phrase i="696" t="Uusi CAPF-yritys..."/>
+<phrase i="695" t="Luodaan avaimia..."/>
+<phrase i="694" t="Peruuta toiminto"/>
+<phrase i="693" t="Päivitä varmenne"/>
+<phrase i="692" t="Todennusmerkkijono"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="691" t="Varmenteet"/>
+<phrase i="690" t="Palvelujen DSCP"/>
+<phrase i="689" t="Määritysten DSCP"/>
+<phrase i="688" t="Puhelunhallinnan DSCP"/>
+<phrase i="687" t="Tied. tarkistus epäonnistui"/>
+<phrase i="686" t="CAST-tehtävä"/>
+<phrase i="685" t="Videotoiminto käytössä"/>
+<phrase i="684" t="Autom. linjavalinta käytössä"/>
+<phrase i="683" t="Puhe-VLAN käytössä"/>
+<phrase i="682" t="GARP käytössä"/>
+<phrase i="681" t="Naapuriportti"/>
+<phrase i="680" t="IP-naapuriosoite"/>
+<phrase i="679" t="Naapurilaitteen tunnus"/>
+<phrase i="678" t="Siirtäjä: %s"/>
+<phrase i="677" t="Siirretty"/>
+<phrase i="676" t="LyhSoit"/>
+<phrase i="675" t="Pyydetään palvelun URL:n tilaa"/>
+<phrase i="674" t="Pyydetään toimintonäpp. tilaa"/>
+<phrase i="673" t="a"/>
+<phrase i="672" t="p"/>
+<phrase i="671" t="%d puhelua tullut%c"/><!-- %c will be replaced with &apos;s&apos;, it can be eliminated in translations. The singular form of this phrase is 322.  The %d will be replaced with the number of missed calls -->
+<phrase i="670" t="Oletussoittoääni"/>
+<phrase i="669" t="Valitse linja..."/>
+<phrase i="668" t="Muokkaa valintaa"/>
+<phrase i="667" t="Puhelin-keskeytä"/>
+<phrase i="666" t="Verkon kieliversio"/>
+<phrase i="665" t="Käyttäjän kieliversio"/>
+<phrase i="664" t="TFTP-pyyntö peruutettu"/>
+<phrase i="663" t="Dhcp ei käytössä"/>
+<phrase i="662" t="IP-osoite pakollinen"/>
+<phrase i="661" t="Tila "/>
+<phrase i="660" t="Oletus"/>
+<phrase i="659" t="Viesti odottaa"/>
+<phrase i="658" t="Vain kuuloke -tila"/>
+<phrase i="657" t="Mallin numero"/>
+<phrase i="656" t="Näytä mallin tiedot"/>
+<phrase i="655" t="Mallin tiedot"/>
+<phrase i="654" t="Linkin tila "/>
+<phrase i="653" t="Fonttiosoitin viimeksi"/>
+<phrase i="652" t="Fonttiosoitin"/>
+<phrase i="651" t="Suorita sovellus"/>
+<phrase i="650" t="Fontin lataaminen viim."/>
+<phrase i="649" t="Fontin lataaminen"/>
+<phrase i="648" t="Fonttitaulutiedot"/>
+<phrase i="647" t="Segm. lat. viimeksi"/>
+<phrase i="646" t="Segmentin lataaminen"/>
+<phrase i="645" t="Segmentin päivittäminen"/>
+<phrase i="644" t="Laitteistotiedot"/>
+<phrase i="643" t="Versio TFTP"/>
+<phrase i="642" t="Versiotiedot"/>
+<phrase i="641" t="Vapaa"/>
+<phrase i="640" t="Ei tuettu"/>
+<phrase i="639" t="Kiel.päiv.virhe"/>
+<phrase i="638" t="Odot. %d vastaus lähteestä %s"/>
+<phrase i="637" t="Odot. %s kohteesta %s"/>
+<phrase i="636" t="BOOTP-palvelin"/>
+<phrase i="635" t="DHCP-palvelin"/>
+<phrase i="634" t="3V Amp"/>
+<phrase i="633" t="5V Amp"/>
+<phrase i="632" t="ADCodec"/>
+<phrase i="631" t="ADLCodec"/>
+<phrase i="630" t="C3PO-tarkistusversio"/>
+<phrase i="629" t="Amps"/>
+<phrase i="628" t="Codec"/>
+<phrase i="627" t="Sarjanumero"/>
+<phrase i="626" t="Laitteistoversio"/>
+<phrase i="625" t="Käynnistyslataustunnus"/>
+<phrase i="624" t="Sovelluslataustunnus"/>
+<phrase i="623" t="Puhelimen luettelonumero"/>
+<phrase i="622" t="SYS-tila"/>
+<phrase i="621" t="FIQ-tila"/>
+<phrase i="620" t="IRQ-tila"/>
+<phrase i="619" t="SVC-tila"/>
+<phrase i="618" t="Määrittämätön tila"/>
+<phrase i="617" t="Audit-tehtävä"/>
+<phrase i="616" t="SNMP-tehtävä"/>
+<phrase i="615" t="Display-tehtävä"/>
+<phrase i="614" t="Config-tehtävä"/>
+<phrase i="613" t="RTP-tehtävä"/>
+<phrase i="612" t="Phone-tehtävä"/>
+<phrase i="611" t="Socket-tehtävä"/>
+<phrase i="610" t="lisää"/>
+<phrase i="609" t="Valitse"/>
+<phrase i="608" t="Poistu"/>
+<phrase i="607" t="Alas"/><!-- This phrase is used with "Down" softkey to decrease contrast -->
+<phrase i="606" t="Ylös"/>
+<phrase i="605" t="Peruuta"/>
+<phrase i="604" t="Muokkaa"/>
+<phrase i="603" t="Ei"/>
+<phrase i="602" t="Kyllä"/>
+<phrase i="601" t="Toista"/>
+<phrase i="600" t="Soita"/>
+<phrase i="599" t="Muokkaa"/>
+<phrase i="598" t="Tallenna"/>
+<phrase i="597" t="Palauta"/>
+<phrase i="596" t="Poista"/>
+<phrase i="595" t="Tehdas"/>
+<phrase i="594" t="OK"/>
+<phrase i="593" t="Tarkista"/>
+<phrase i="592" t="Hae"/>
+<phrase i="591" t="Seur."/>
+<phrase i="590" t="Päivitä"/>
+<phrase i="589" t="Tyhjennä"/>
+<phrase i="588" t="Lähetä"/>
+<phrase i="587" t="Äänitaajuus"/>
+<phrase i="586" t="Verkon kieli"/>
+<phrase i="585" t="Käyttäjän kieli"/>
+<phrase i="584" t="Kate-tiedosto"/>
+<phrase i="583" t="Äänitaajuustiedosto"/>
+<phrase i="582" t="Kello on varattu"/>
+<phrase i="581" t="TFTP-palvelin 2"/>
+<phrase i="580" t="Laajennusmoduulin 2 kontrasti"/>
+<phrase i="579" t="Laajennusmoduulin 1 kontrasti"/>
+<phrase i="578" t="Kytkinportin määrittely"/>
+<phrase i="577" t="PC-portin määrittely"/>
+<phrase i="576" t="PC-portti ei käytössä"/>
+<phrase i="575" t="Virhe"/>
+<phrase i="574" t="Argumentti ei kelpaa"/>
+<phrase i="573" t="Kantapuhelin"/>
+<phrase i="572" t="Laajennusmoduulit"/>
+<phrase i="571" t="KONTRASTI-VALIKKO"/>
+<phrase i="570" t="Säädä valits. kontrasti"/>
+<phrase i="569" t="Puheposti"/>
+<phrase i="568" t="VIESTIT"/>
+<phrase i="567" t="Näytä laaj.mod.tilastot"/>
+<phrase i="566" t="Laajennusmoduulitilastot"/>
+<phrase i="565" t="B TX Buffer Full"/>
+<phrase i="564" t="B RX Checksum Err"/>
+<phrase i="563" t="B RX Length Err"/>
+<phrase i="562" t="B RX Discarded Bytes"/>
+<phrase i="561" t="A TX Buffer Full"/>
+<phrase i="560" t="A TX Retransmit"/>
+<phrase i="559" t="A RX Invalid Message"/>
+<phrase i="558" t="A RX Checksum Err"/>
+<phrase i="557" t="A RX Length Err"/>
+<phrase i="556" t="A RX Discarded Bytes"/>
+<phrase i="555" t="CM-ICMP-ei-saav"/>
+<phrase i="554" t="Valitse puhelu..."/>
+<phrase i="553" t="Välityspalvelimen URL"/>
+<phrase i="552" t="Todennus-URL"/>
+<phrase i="551" t="Autom. soitto peruutettu"/>
+<phrase i="550" t="Sidecar-tehtävä"/>
+<phrase i="549" t="Laajennusmoduuli 2"/>
+<phrase i="548" t="Laajennusmoduuli 1"/>
+<phrase i="547" t="HTTP-tiedostovirhe"/>
+<phrase i="546" t="XML-virhe [4]: jäsennysvirhe"/>
+<phrase i="545" t="Tiedostonluontivirhe"/>
+<phrase i="544" t="Viimeinen="/>
+<phrase i="543" t="Puh. hylk. lat."/>
+<phrase i="542" t="Puh-rek-hyl"/>
+<phrase i="541" t="Pal-uudkäyn"/>
+<phrase i="540" t="Pal-Pal"/>
+<phrase i="539" t="Puh-2-IP"/>
+<phrase i="538" t="Puh-Numnäp"/>
+<phrase i="537" t="Puh-diag."/>
+<phrase i="536" t="Vikatak"/>
+<phrase i="535" t="KeepaliveTO"/>
+<phrase i="534" t="CM-NAKed"/>
+<phrase i="533" t="CM-aborted-TCP"/>
+<phrase i="532" t="CM-reset-TCP"/>
+<phrase i="531" t="TCP-Bad-ACK"/>
+<phrase i="530" t="Määr.tiet. tarkistusvirhe"/>
+<phrase i="529" t="Portin tiedot"/>
+<phrase i="528" t="Ethernet-tiedot"/>
+<phrase i="527" t="%s liian suuri"/>
+<phrase i="526" t="Soittaja: "/>
+<phrase i="525" t="Ei tietueita"/>
+<phrase i="524" t="Anna käytt.tunnus ja salasana"/>
+<phrase i="523" t="Salasana"/>
+<phrase i="522" t="Käyttäjänimi"/>
+<phrase i="521" t="Valitse palvelu..."/>
+<phrase i="520" t="Käsittele nyk. puhelu..."/>
+<phrase i="519" t="TFTP-kokovirhe"/>
+<phrase i="518" t="Lauseketiedosto"/>
+<phrase i="517" t="Glyyfitiedosto"/>
+<phrase i="516" t="%s ei käytettävissä"/>
+<phrase i="515" t="Huono %s"/>
+<phrase i="514" t="Kirjaa %d"/>
+<phrase i="513" t="Käyttöoikeudet"/>
+<phrase i="512" t="375000"/>
+<phrase i="511" t="Puhelin"/>
+<phrase i="510" t="Verkko"/>
+<phrase i="509" t="Virta %d"/>
+<phrase i="508" t="Tietovirtatilastot"/>
+<phrase i="507" t="Laitelokit"/>
+<phrase i="506" t="Portin %d"/>
+<phrase i="505" t="Ethernet"/>
+<phrase i="504" t="Laitetiedot"/>
+<phrase i="503" t="Siirtoviive"/>
+<phrase i="502" t="Tyhjennä määritykset"/>
+<phrase i="501" t="Vaihtoehto-TFTP"/>
+<phrase i="500" t="DHCP-osoite vapautettu"/>
+<phrase i="499" t="DHCP käytössä"/>
+<phrase i="498" t="Bcast"/>
+<phrase i="497" t="REr"/>
+<phrase i="496" t="Xmt"/>
+<phrase i="495" t="Rcv"/>
+<phrase i="494" t="Versio"/>
+<phrase i="493" t="Takaisin"/>
+<phrase i="492" t=" KÄYTÖSSÄ"/>
+<phrase i="491" t=" KYLLÄ"/>
+<phrase i="490" t=" POIS"/>
+<phrase i="489" t=" EI"/>
+<phrase i="488" t="RTP-viive"/>
+<phrase i="487" t="TFTP-virhe"/>
+<phrase i="486" t="TFTP-käyttöoikeusvirhe"/>
+<phrase i="485" t="Tiedostoa ei löydy"/>
+<phrase i="484" t="Viimeinen=0x%02X"/>
+<phrase i="483" t="CM-sammut-TCP"/>
+<phrase i="482" t="TCP-aikakatkaisu"/>
+<phrase i="481" t="Alustettu"/>
+<phrase i="480" t="Nimi=%15s"/>
+<phrase i="479" t="Päivitetään ohjelmistoa"/>
+<phrase i="478" t="ROM-tarkistussummavirhe"/>
+<phrase i="477" t=" Lataa="/>
+<phrase i="476" t="Kaiuttimen vaimennus pois"/>
+<phrase i="475" t="Kaiuttimen vaimennus käyttöön"/>
+<phrase i="474" t="Kaksois-IP-osoite"/>
+<phrase i="473" t="IP-osoite vapautettu"/>
+<phrase i="472" t="Palautetaan"/>
+<phrase i="471" t="Pyyd. palvelinluetteloa"/>
+<phrase i="470" t="Pyydetään nopeustilaa"/>
+<phrase i="469" t="Pyydetään linjatilaa"/>
+<phrase i="468" t="Pyydetään toimintonäppäinsarjaa"/>
+<phrase i="467" t="Pyydetään toimintonäppäinmallia"/>
+<phrase i="466" t="Pyydetään mallia"/>
+<phrase i="465" t="Käynnistetään DSP"/>
+<phrase i="464" t="Tarkistetaan latausta"/>
+<phrase i="463" t="Rekisteröinti hylätty"/>
+<phrase i="462" t="Rekisteröidään"/>
+<phrase i="461" t="Avataan "/>
+<phrase i="460" t="Määritetään CM-luettelo"/>
+<phrase i="459" t="Määritetään IP-osoite"/>
+<phrase i="458" t="Määritetään VLAN"/>
+<phrase i="457" t="%d / %d"/>
+<phrase i="456" t="Valm.tiedot eivät kelpaa"/>
+<phrase i="455" t="XML-virhe [%d]!"/>
+<phrase i="454" t="HTTP-virhe [%d]!"/>
+<phrase i="453" t="Isäntää ei löydy"/>
+<phrase i="452" t="HTTP-pyyntö peruutettu"/>
+<phrase i="451" t="Ohjataan uudelleen..."/>
+<phrase i="450" t="Oikeudet vahvistettava"/>
+<phrase i="449" t="Puoli"/>
+<phrase i="448" t="Täysi"/>
+<phrase i="447" t="Kulunut aika"/>
+<phrase i="446" t="Pakkaustyyppivirhe"/>
+<phrase i="445" t="TCP-virhekoodi"/>
+<phrase i="444" t="Versiovirhe"/>
+<phrase i="443" t="Levy täynnä -virhe"/>
+<phrase i="442" t="CFG TFTP -kokovirhe"/>
+<phrase i="441" t="DSP myöhässä"/>
+<phrase i="440" t="Poistettu"/>
+<phrase i="439" t="DSP-päälläolon aikakatkaisu"/>
+<phrase i="438" t="DSP-virhe"/>
+<phrase i="437" t="VLAN ei kelpaa"/>
+<phrase i="436" t="IP-osoite ei kelpaa"/>
+<phrase i="435" t="Aliverk.peite ei kelp."/>
+<phrase i="434" t=" Ei käyt."/>
+<phrase i="433" t=" Valmiustila"/>
+<phrase i="432" t=" Aktiivinen"/>
+<phrase i="431" t="Käyt. BOOTP-palvelinta"/>
+<phrase i="430" t="Ohjelmointivirhe"/>
+<phrase i="429" t="Kaksois-IP"/>
+<phrase i="428" t="Ei oletusreititintä"/>
+<phrase i="427" t="Määr.tiedosto valittav."/>
+<phrase i="426" t="Tarkistussummavirhe"/>
+<phrase i="425" t="Lataustunnus ei kelpaa"/>
+<phrase i="424" t="Ei DNS-palvelimen IP"/>
+<phrase i="423" t="DNS-aikakatkaisu"/>
+<phrase i="422" t="DNS tuntematon isäntä"/>
+<phrase i="421" t="Yleinen TFTP-virhe"/>
+<phrase i="420" t="CFG-tied. ei löydy"/>
+<phrase i="419" t="TFTP-aikakatkaisu"/>
+<phrase i="418" t="DHCP-aikakatkaisu"/>
+<phrase i="417" t="Reititin pakollinen"/>
+<phrase i="416" t="Aliverkossa ei reitit."/>
+<phrase i="415" t="TFTP-palvelin pakollinen"/>
+<phrase i="414" t="Tiedot eivät kelpaa"/>
+<phrase i="413" t="Lähet-vaimennus POIS"/>
+<phrase i="412" t="Lähet-vaimennus KÄYTÖSSÄ"/>
+<phrase i="411" t="Tytärkorttia ei havaittu."/>
+<phrase i="410" t="Kuul. voim. tallennettu"/>
+<phrase i="409" t="Ään.voim. tallennettu"/>
+<phrase i="408" t="Kaiutt. voim. tallenn."/>
+<phrase i="407" t="Muutoksia ei tallennettu"/>
+<phrase i="406" t="Tallenn. muutokset?"/>
+<phrase i="405" t="Anna lähtötiedot..."/>
+<phrase i="404" t="Palvelu ei käytettävissä"/>
+<phrase i="403" t="PALVELUT"/>
+<phrase i="402" t="Näytä laitteistotiedot"/>
+<phrase i="401" t="Laitteistotiedot"/>
+<phrase i="400" t="Näytä pinon tiedot"/>
+<phrase i="399" t="Pinonäyttö"/>
+<phrase i="398" t="Näytä virh.korj.tiedot"/>
+<phrase i="397" t="Korjaa näytön virheet"/>
+<phrase i="396" t="Näytä lait.ohj.versiot"/>
+<phrase i="395" t="Lait.ohj. versiot"/>
+<phrase i="394" t="Näytä verkon tilastot"/>
+<phrase i="393" t="Verkon tilastot"/>
+<phrase i="392" t="Näytä tilasanomat"/>
+<phrase i="391" t="Kirjausta tarkistetaan"/>
+<phrase i="390" t="Uusi %s:"/>
+<phrase i="389" t="Nykyinen %s:"/>
+<phrase i="388" t="Muokkaa %s"/>
+<phrase i="387" t="Asetusten tila"/>
+<phrase i="386" t="Valitse tilakohde..."/>
+<phrase i="385" t="Pinotilastot"/>
+<phrase i="384" t="Tilasanomat"/>
+<phrase i="383" t="Valitse verkon asetus"/>
+<phrase i="382" t="Soittol. ei valittavissa"/>
+<phrase i="381" t="Virh. soittol.tiedosto"/>
+<phrase i="380" t="Soittot. ei valittav."/>
+<phrase i="379" t="Pyyd. soittot."/>
+<phrase i="378" t="Soittotyyppi"/>
+<phrase i="377" t="Valitse soittoääni"/>
+<phrase i="376" t="Pyyd. soittol."/>
+<phrase i="375" t="Chirp 2"/>
+<phrase i="374" t="Chirp 1"/>
+<phrase i="373" t="Muut. hyv. ja tallennettu"/>
+<phrase i="372" t="Muuta kontrastia..."/>
+<phrase i="371" t="Kki muut. tallennettu"/>
+<phrase i="370" t="Tehd.as. palautettu "/>
+<phrase i="369" t="Tall. aset. palautettu"/>
+<phrase i="368" t="Valitse asetus..."/>
+<phrase i="367" t="ASETUKSET"/>
+<phrase i="366" t="Tila"/>
+<phrase i="365" t="Verkkomääritykset"/>
+<phrase i="364" t="Kontrasti"/>
+<phrase i="363" t="Tarkenna hakuehtoja..."/>
+<phrase i="362" t="Ei tietueita"/>
+<phrase i="361" t="%d tietuetta"/>
+<phrase i="360" t="Hae %s"/>
+<phrase i="359" t="Soittohistoria tyhjennetty"/>
+<phrase i="358" t="Valitse luettelo..."/>
+<phrase i="357" t="Luettelon URL ei kelp."/>
+<phrase i="356" t="LUETTELO"/>
+<phrase i="355" t="Soitetut puhelut"/>
+<phrase i="354" t="Vastatut puhelut"/>
+<phrase i="353" t="Ei-vastatut puhelut"/>
+<phrase i="352" t="CallMan.-vika, vajaatoiminnot"/>
+<phrase i="351" t="%s /"/>
+<phrase i="350" t="Näppäin ei ole käytössä"/>
+<phrase i="349" t="Pyyntö..."/>
+<phrase i="348" t="Puhelutilasto"/>
+<phrase i="347" t="TIEDOT"/>
+<phrase i="346" t="Katso lisät. val. näppäin"/>
+<!-- There is a special symbol for help icon in the following phrase - Please don't delete it  -->
+<phrase i="345" t="Peruuta pain. -näppäintä..."/>
+<phrase i="344" t="Kki kentät tall."/>
+<phrase i="343" t="Muutoksia ei tallennettu"/>
+<phrase i="342" t="%d vrk, "/>
+<phrase i="341" t="1 vrk, "/>
+<phrase i="340" t="%s /"/>
+<phrase i="339" t="%s /"/>
+<phrase i="338" t="Eilen klo"/>
+<phrase i="337" t="Tänään klo"/>
+<phrase i="336" t="lauantai"/>
+<phrase i="335" t="perjantai"/>
+<phrase i="334" t="torstai"/>
+<phrase i="333" t="keskiviikko"/>
+<phrase i="332" t="tiistai"/>
+<phrase i="331" t="maanantai"/>
+<phrase i="330" t="sunnuntai"/>
+<phrase i="329" t="--&gt; %s"/>
+<phrase i="328" t="Tuntematon numero"/>
+<phrase i="327" t="%s soittaa"/>
+<phrase i="326" t="Henkilölle %s"/>
+<!-- Note to translator:  Please abbreviate the following phrase (325) as concisely as
+     possible.  It is used for call forwarding scenarios, and the %s gets replaced with
+     a caller ID.  It is important to make as much space available for the caller ID
+     information as possible. -->
+<phrase i="325" t="Siirto: %s"/>
+<phrase i="324" t="Ulkoinen puhelu"/>
+<phrase i="323" t="Käytössä"/>
+<phrase i="322" t="%d puhelu tullut%c"/><!-- %c will be replaced with &apos; &apos;, it was retained for backwards compatibility.  This phrase is the singular form and the %d will be replaced with a &apos;1&apos;.  The plural form of this phrase is 671 -->
+<phrase i="321" t="Rx Longs"/>
+<phrase i="320" t="Rx Shorts"/>
+<phrase i="319" t="Rx Broadcasts"/>
+<phrase i="318" t="Rx Multicasts"/>
+<phrase i="317" t="Rx Runt"/>
+<phrase i="316" t="Rx Bad Preamble"/>
+<phrase i="315" t="Rx CRC Errors"/>
+<phrase i="314" t="Rx Frames"/>
+<phrase i="313" t="Rx Long/CRC"/>
+<phrase i="312" t="Rx Overruns"/>
+<phrase i="311" t="Tx Deferred Abort"/>
+<phrase i="310" t="Tx Collisions"/>
+<phrase i="309" t="Tx Multicasts"/>
+<phrase i="308" t="Tx Broadcasts"/>
+<phrase i="307" t="Tx Frames"/>
+<phrase i="306" t="Tx Excessive Collisions"/>
+<phrase i="305" t="overflow Drop"/>
+<phrase i="304" t="bpdu Drop"/>
+<phrase i="303" t="cos 7 Drop"/>
+<phrase i="302" t="cos 6 Drop"/>
+<phrase i="301" t="cos 5 Drop"/>
+<phrase i="300" t="cos 4 Drop"/>
+<phrase i="299" t="cos 3 Drop"/>
+<phrase i="298" t="cos 2 Drop"/>
+<phrase i="297" t="cos 1 Drop"/>
+<phrase i="296" t="cos 0 Drop"/>
+<phrase i="295" t="Tx size1024to1518"/>
+<phrase i="294" t="Tx size512to1023"/>
+<phrase i="293" t="Tx size256to511"/>
+<phrase i="292" t="Tx size128to255"/>
+<phrase i="291" t="Tx size65to127"/>
+<phrase i="290" t="Tx size64"/>
+<phrase i="289" t="Tx totalOct"/>
+<phrase i="288" t="Tx multicast"/>
+<phrase i="287" t="Tx broadcast"/>
+<phrase i="286" t="Tx excessLength"/>
+<phrase i="285" t="Tx fifoUnderrun"/>
+<phrase i="284" t="Tx collisions"/>
+<phrase i="283" t="Tx totalGoodPkt"/>
+<phrase i="282" t="Tx lateCollision"/>
+<phrase i="281" t="Tx excessDefer"/>
+<phrase i="280" t="Rx tokenDrop"/>
+<phrase i="279" t="Rx size1519to1548"/>
+<phrase i="278" t="Rx size1024to1518"/>
+<phrase i="277" t="Rx size512to1023"/>
+<phrase i="276" t="Rx size256to511"/>
+<phrase i="275" t="Rx size128to255"/>
+<phrase i="274" t="Rx size65to127"/>
+<phrase i="273" t="Rx size64"/>
+<phrase i="272" t="Rx longErr"/>
+<phrase i="271" t="Rx longGood"/>
+<phrase i="270" t="Rx shortGood"/>
+<phrase i="269" t="Rx shortErr"/>
+<phrase i="268" t="Rx unicast"/>
+<phrase i="267" t="Rx broadcast"/>
+<phrase i="266" t="Rx multicast"/>
+<phrase i="265" t="Rx alignErr"/>
+<phrase i="264" t="Rx crcErr"/>
+<phrase i="263" t="Yht. oktetit"/>
+<phrase i="262" t="Rx totalPkt"/>
+<phrase i="261" t="Kantajan tapaht"/>
+<phrase i="260" t="RTP ei kelpaa"/>
+<phrase i="259" t="Ei käytössä"/>
+<phrase i="258" t="Ei valmis"/>
+<phrase i="257" t="Tuhoa"/>
+<phrase i="256" t="376000"/>
+<phrase i="255" t="Vast.ott. aloitusaika"/>
+<phrase i="254" t="Vast.ott. oktetit"/>
+<phrase i="253" t="Vast.ott. paketit"/>
+<phrase i="252" t="Vast.ott. raporttiaika"/>
+<phrase i="251" t="Vast.ott. raportit"/>
+<phrase i="250" t="Vastaanottajan työkalu"/>
+<phrase i="249" t="Vast.ott. häiriö"/>
+<phrase i="248" t="Vast.ott. menetetyt paketit"/>
+<phrase i="247" t="Lähett. aloitusaika"/>
+<phrase i="246" t="Lähett. raportointiaika"/>
+<phrase i="245" t="Lähettäjän raportit"/>
+<phrase i="244" t="Lähettäjän työkalu"/>
+<phrase i="243" t="Lähettäjän oktetit"/>
+<phrase i="242" t="Lähettäjän paketit"/>
+<phrase i="241" t="Nimi"/>
+<phrase i="240" t="Rivin tila"/>
+<phrase i="239" t="Aloitusaika"/>
+<phrase i="238" t="Heit"/>
+<phrase i="237" t="Vastaanottaja liittyy"/>
+<phrase i="236" t="Lähettäjä liittyy"/>
+<phrase i="235" t="Paikallinen osoite"/>
+<phrase i="234" t="Etäosoite "/>
+<phrase i="233" t="Alue"/>
+<phrase i="232" t="Port Fast"/>
+<phrase i="231" t="Kiinteä TFTP"/>
+<phrase i="230" t="DHCP ei käytössä"/>
+<phrase i="229" t="Vapaa URL-aika"/>
+<phrase i="228" t="Vapaa URL"/>
+<phrase i="227" t="Palvelut URL"/>
+<phrase i="226" t="Viestit URL"/>
+<phrase i="225" t="Luettelot URL"/>
+<phrase i="224" t="Tiedot URL"/>
+<phrase i="223" t="CallManager 5"/>
+<phrase i="222" t="CallManager 4"/>
+<phrase i="221" t="CallManager 3"/>
+<phrase i="220" t="CallManager 2"/>
+<phrase i="219" t="CallManager 1"/>
+<phrase i="218" t="Valvojan VLAN-tunnus"/>
+<phrase i="217" t="Toiminta VLAN-tunnus"/>
+<phrase i="216" t="DNS-palvelin 5"/>
+<phrase i="215" t="DNS-palvelin 4"/>
+<phrase i="214" t="DNS-palvelin 3"/>
+<phrase i="213" t="DNS-palvelin 2"/>
+<phrase i="212" t="DNS-palvelin 1"/>
+<phrase i="211" t="Oletusreititin 5"/>
+<phrase i="210" t="Oletusreititin 4"/>
+<phrase i="209" t="Oletusreititin 3"/>
+<phrase i="208" t="Oletusreititin 2"/>
+<phrase i="207" t="Oletusreititin 1"/>
+<phrase i="206" t="TFTP-palvelin 1"/>
+<phrase i="205" t="Aliverkon peite"/>
+<phrase i="204" t="IP-osoite"/>
+<phrase i="203" t="Toimialueen nimi"/>
+<phrase i="202" t="Isäntänimi"/>
+<phrase i="201" t="MAC-osoite"/>
+</phrases>

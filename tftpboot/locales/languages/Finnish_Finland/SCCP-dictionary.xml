@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Finnish_Finland</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Ei linjoja poimintaa varten"/>
+	<phrase i="197" t="Ulkoinen siirto rajoitettu"/>
+	<phrase i="196" t="Ei kaistanleveyttä poimintaa varten"/>
+	<phrase i="195" t="Ei poimittavia puheluita"/>
+	<phrase i="194" t="Parkin paikka ei valittavissa"/>
+	<phrase i="193" t="Kirjautunut ulos etsintäryhmästä"/>
+	<phrase i="192" t="Ets.kirj"/>
+	<phrase i="191" t="MPoimin"/>
+	<phrase i="190" t="Pidon keston aikakatkaisu"/>
+	<phrase i="189" t="Puhelun keston aikakatkaisu"/>
+	<phrase i="188" t="Vid.tila"/>
+	<phrase i="187" t="Videokaistanleveys ei käytössä"/>
+	<phrase i="186" t="Suojausvirhe"/>
+	<phrase i="185" t="Numeroa ei määritetty"/>
+	<phrase i="184" t="Puhelun jäljitys onnistui"/>
+	<phrase i="183" t="Puheluja ei voi yhdistää"/>
+	<phrase i="182" t="Siirtoa ei voi viedä loppuun"/>
+	<phrase i="181" t="nVäliint"/>
+	<phrase i="180" t="vKääntö"/>
+	<phrase i="179" t="NeuvLue"/>
+	<phrase i="178" t="Valitse"/>
+	<phrase i="177" t="SuorSiir"/>
+	<phrase i="176" t="Jäljitys"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Ruuhkaa - yritä myöh. uud."/>
+	<phrase i="173" t="Palvelu ei ole aktiivinen"/>
+	<phrase i="172" t="Puhelun palautt. parkista"/>
+	<phrase i="171" t="Parkkinroa ei käytettävissä"/>
+	<phrase i="170" t="Yhteensopimaton laitetyyppi"/>
+	<phrase i="169" t="Toinen väliint. olemassa"/>
+	<phrase i="168" t="Väliintulon asennus epäonn."/>
+	<phrase i="167" t="Väliint"/>
+	<phrase i="166" t="Verkkoruuhkaa, reitin vaihto"/>
+	<phrase i="165" t="Jonotus"/>
+	<phrase i="164" t="KäänKaik"/>
+	<phrase i="163" t="ESH"/>
+	<phrase i="162" t="SiirPP"/>
+	<phrase i="161" t="Aseta"/>
+	<phrase i="160" t="Kaappaa"/>
+	<phrase i="159" t="OhjUud."/>
+	<phrase i="158" t="Puheposti"/>
+	<phrase i="157" t="PoisViim"/>
+	<phrase i="156" t="Tuntematon numero"/>
+	<phrase i="155" t="Kaistanleveys ei riitä"/>
+	<phrase i="154" t="Yksityinen"/>
+	<phrase i="153" t="Parkin nro"/>
+	<phrase i="152" t="Neuvottelu"/>
+	<phrase i="151" t="Toimintavirhe"/>
+	<phrase i="150" t="Tuntematon virhe"/>
+	<phrase i="149" t="Virhe yli rajan"/>
+	<phrase i="148" t="Tietokantavirhe"/>
+	<phrase i="147" t="Virhe tietokantamäärityksissä"/>
+	<phrase i="146" t="Ei lisenssiä toimintaan"/>
+	<phrase i="145" t="Näppäin ei ole käytössä"/>
+	<phrase i="144" t="Kapasiteetti ylitetty"/>
+	<phrase i="143" t="Tuntematon osanottaja"/>
+	<phrase i="142" t="Valmiiksi neuvottelussa"/>
+	<phrase i="141" t="Ei voida lisätä neuvotteluun"/>
+	<phrase i="140" t="Ei voida laittaa pitoon"/>
+	<phrase i="139" t="Ei Conference Bridgeä"/>
+	<phrase i="138" t="Neuvottelua ei voi päättää"/>
+	<phrase i="137" t="Siirretty nroon"/>
+	<phrase i="136" t="Puhepostia"/>
+	<phrase i="135" t="Väliaikainen vika"/>
+	<phrase i="134" t="Vain ensisijainen"/>
+	<phrase i="133" t="Parkissa nrossa"/>
+	<phrase i="132" t="Valitse numero"/>
+	<phrase i="131" t="Käytössä"/>
+	<phrase i="130" t="Yhdistyy"/>
+	<phrase i="129" t="Parkissa"/>
+	<phrase i="128" t="Puhelu siirtyy"/>
+	<phrase i="127" t="Puhelu odottaa"/>
+	<phrase i="126" t="Linja käytössä"/>
+	<phrase i="125" t="Varattu"/>
+	<phrase i="124" t="Yhdistetty"/>
+	<phrase i="123" t="Soittaja "/>
+	<phrase i="122" t="Puhelu"/>
+	<phrase i="121" t="Linja vapaa"/>
+	<phrase i="120" t="Linja auki"/>
+	<phrase i="119" t="Valitse toiminto"/>
+	<phrase i="118" t="RPoimin"/>
+	<phrase i="117" t="Poimi"/>
+	<phrase i="116" t="Neuvott"/>
+	<phrase i="115" t="Liitä"/>
+	<phrase i="114" t="Parkki"/>
+	<phrase i="113" t="Neuvot"/>
+	<phrase i="112" t="Tiedot"/>
+	<phrase i="111" t="Vastaa"/>
+	<phrase i="110" t="Palaa"/>
+	<phrase i="109" t="Lopeta"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="EiVastS"/>
+	<phrase i="106" t="VarSiir"/>
+	<phrase i="105" t="Siirto"/>
+	<phrase i="104" t="Siirrä"/>
+	<phrase i="103" t="Pito"/>
+	<phrase i="102" t="Soita"/>
+	<phrase i="101" t="Toista"/>
+</phrases>

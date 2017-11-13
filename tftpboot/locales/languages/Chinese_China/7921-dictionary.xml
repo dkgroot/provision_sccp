@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Chinese_China</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="正在下载 MIDlet..."/>
+  <phrase i="8003" t="应用程序已最小化"/>
+  <phrase i="8002" t="已成功安装 MIDP 模块"/>
+  <phrase i="8001" t="正在等待安装 MIDP 模块..."/>
+  <phrase i="8000" t="正在更新固件..."/>
+  <phrase i="7999" t="正在下载固件...%d%%"/>
+  <phrase i="7998" t="正在恢复固件..."/>
+  <phrase i="7997" t="固件更新失败"/>
+  <phrase i="7996" t="电池电量低! 无法更新"/>
+  <phrase i="7995" t="图像下载失败"/>
+  <phrase i="7994" t="图像验证失败"/>
+  <phrase i="7993" t="内存不足! 正在重新启动..."/>
+  <phrase i="7992" t="EAP-TLS/PEAP 已启用"/>
+  <phrase i="7991" t="验证服务器证书"/>
+  <phrase i="7990" t="AOM 安装失败"/>
+  <phrase i="7989" t="正在下载 AOM(%d/%d)"/>
+  <phrase i="7988" t="正在安装 AOM(%d/%d)...%d%%"/>
+  <phrase i="7987" t="映像完整性检查失败"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="正在安装扫描仪固件: %d%%"/>
+  <phrase i="7984" t="正在下载扫描仪固件"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="受限制的数据速率"/>
+  <phrase i="7080" t="扫描模式"/>
+  <phrase i="7079" t="自动"/>
+  <phrase i="7078" t="连续"/>
+  <phrase i="7077" t="电池电源局限"/>
+  <phrase i="7076" t="电源限制"/>
+  <phrase i="7075" t="EAP-TLS 证书"/>
+  <phrase i="7074" t="用户安装"/>
+  <phrase i="7073" t="厂商发布"/>
+  <phrase i="7072" t="CAPF 发布"/>
+  <phrase i="7071" t="找不到验证证书"/>
+  <phrase i="7070" t="验证证书无效"/>
+  <phrase i="7069" t="验证证书过期: %s"/>
+  <phrase i="7068" t="验证证书即将过期"/>
+  <phrase i="7067" t="验证证书将在 %d 天内过期"/>
+  <phrase i="7066" t="验证证书已过期"/>
+  <phrase i="7065" t="检查证书时钟设置"/>
+  <phrase i="7064" t="找不到 WLAN 验证证书"/>
+  <phrase i="7063" t="找不到验证证书"/>
+  <phrase i="7062" t="验证证书将在 %d 天后到期"/>
+  <phrase i="7061" t="WLAN 验证证书已到期!"/>
+  <phrase i="7060" t="验证证书已到期!"/>
+  <phrase i="7059" t="基站计数"/>
+  <phrase i="7057" t="警告标记"/>
+  <phrase i="7056" t="信号间隔"/>
+  <phrase i="7055" t="DTIM 周期"/>
+  <phrase i="7054" t="功能"/>
+  <phrase i="7053" t="速率位图"/>
+  <phrase i="7052" t="基本速率位图"/>
+  <phrase i="7051" t="跳频"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="频谱管理"/>
+  <phrase i="7047" t="通道不受支持"/>
+  <phrase i="7046" t="通道配置文件"/>
+  <phrase i="7045" t="隐私"/>
+  <phrase i="7044" t="低速率"/>
+  <phrase i="7043" t="代理 ARP"/>
+  <phrase i="7042" t="基本速率"/>
+  <phrase i="7041" t="可选速率"/>
+  <phrase i="7040" t="AC 背景"/>
+  <phrase i="7039" t="AC 最大努力"/>
+  <phrase i="7038" t="AC 视频"/>
+  <phrase i="7037" t="AC 语音"/>
+  <phrase i="7036" t="ECW 最小值"/>
+  <phrase i="7035" t="ECW 最大值"/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="接纳控制"/>
+  <phrase i="7032" t="多播密码"/>
+  <phrase i="7031" t="单播密码"/>
+  <phrase i="7030" t="BSS 丢失计数"/>
+  <phrase i="7029" t="支持"/>
+  <phrase i="7028" t="可用接纳容量"/>
+  <phrase i="7027" t="在场"/>
+  <phrase i="7026" t="不在场"/>
+  <phrase i="7025" t="访问类别"/>
+  <phrase i="7024" t="不推荐"/>
+  <phrase i="7023" t="不一致"/>
+  <phrase i="7022" t="参考 AP"/>
+  <phrase i="7021" t="国家/地区"/>
+  <phrase i="7020" t="CCA 阈值"/>
+  <phrase i="7019" t="公共密钥证书"/>
+  <phrase i="7018" t="公共密钥基础设施"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="有效期"/>
+  <phrase i="7015" t="根键"/>
+  <phrase i="7014" t="证书权限"/>
+  <phrase i="7013" t="私人密钥"/>
+  <phrase i="7012" t="公共密钥"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="验证服务器"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="验证失败"/>
+  <phrase i="7008" t="没有网络配置文件"/>
+  <phrase i="7007" t="正在离开服务区!"/>
+  <phrase i="7006" t="正在查找网络服务"/>
+  <phrase i="7005" t="没有选择任何配置文件"/>
+  <phrase i="7003" t="已建立连接"/>
+  <phrase i="7002" t="正在尝试连接..."/>
+  <phrase i="7001" t="WLAN 故障"/>
+  <phrase i="7000" t="正在扫描通道..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="清除所有呼叫记录?"/>
+  <phrase i="6406" t="扫描仪诊断"/>
+  <phrase i="6405" t="重置"/>
+  <phrase i="6404" t="符号组"/>
+  <phrase i="6403" t="扩展"/>
+  <phrase i="6402" t="基本"/>
+  <phrase i="6401" t="扫描仪"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="蓝牙"/>
+  <phrase i="6399" t="设备列表"/>
+  <phrase i="6398" t="扫描"/>
+  <phrase i="6397" t="重新扫描"/>
+  <phrase i="6396" t="配对"/>
+  <phrase i="6395" t="取消配对"/>
+  <phrase i="6394" t="设备对"/>
+  <phrase i="6393" t="正在扫描"/>
+  <phrase i="6392" t="正在配对"/>
+  <phrase i="6391" t="%s 已配对"/>
+  <phrase i="6390" t="正在取消配对"/>
+  <phrase i="6389" t="%s 已取消配对"/>
+  <phrase i="6388" t="找到设备: %d"/>
+  <phrase i="6387" t="是否取消配对 %s?"/>
+  <phrase i="6386" t="扫描结果"/>
+  <phrase i="6385" t="输入蓝牙密钥"/>
+  <phrase i="6384" t="配对失败!"/>
+  <phrase i="6383" t="%s 已连接!"/>
+  <phrase i="6382" t="%s 已断开!"/>
+  <phrase i="6381" t="连接"/>
+  <phrase i="6380" t="断开"/>
+  <phrase i="6379" t="调节头戴式耳机音量"/>
+  <phrase i="6378" t="超过最大设备数"/>
+  <phrase i="6377" t="蓝牙连接失败"/>
+  <phrase i="6376" t="这是已配对设备!"/>
+  <phrase i="6375" t="全部取消配对"/>
+  <phrase i="6374" t="蓝牙未就绪"/>
+  <phrase i="6373" t="蓝牙内部错误"/>
+  <phrase i="6372" t="操作失败"/>
+  <phrase i="6371" t="已选择蓝牙"/>
+  <phrase i="6370" t="已选择扬声器"/>
+  <phrase i="6369" t="已选择听筒"/>
+  <phrase i="6368" t="已选择听筒"/>
+  <phrase i="6367" t="诊断"/>
+  <phrase i="6366" t="键盘"/>
+  <phrase i="6365" t="音频"/>
+  <phrase i="6364" t="选择诊断"/>
+  <phrase i="6363" t="按任意按键"/>
+  <phrase i="6362" t="键盘诊断"/>
+  <phrase i="6361" t="已按下"/>
+  <phrase i="6360" t="已松开"/>
+  <phrase i="6359" t="音频诊断"/>
+  <phrase i="6358" t="本地音频回送"/>
+  <phrase i="6357" t="软键 %d"/>
+  <phrase i="6356" t="调低音量"/>
+  <phrase i="6355" t="调高音量"/>
+  <phrase i="6354" t="右"/>
+  <phrase i="6353" t="左"/>
+  <phrase i="6352" t="电源"/>
+  <phrase i="6351" t="静音"/>
+  <phrase i="6350" t="未成功安装 Java"/>
+  <phrase i="6349" t="选择 %s"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="启动错误"/>
+  <phrase i="6298" t="%s 当前处于打开"/>
+  <phrase i="6297" t="请先关闭，然后再启动其它"/>
+  <phrase i="6296" t="切换到"/>
+  <phrase i="6295" t="关闭程序"/>
+  <phrase i="6294" t="暂停程序"/>
+  <phrase i="6293" t="来电"/>
+  <phrase i="6292" t="忽略"/>
+  <phrase i="6291" t="完成"/>
+  <phrase i="6290" t="设置"/>
+  <phrase i="6289" t="关于 Java"/>
+  <phrase i="6288" t="启动"/>
+  <phrase i="6287" t="安装"/>
+  <phrase i="6286" t="运行"/>
+  <phrase i="6285" t="转至"/>
+  <phrase i="6284" t="异常"/>
+  <phrase i="6283" t="应用程序"/>
+  <phrase i="6282" t="应用程序"/>
+  <phrase i="6281" t="信息"/>
+  <phrase i="6280" t="删除"/>
+  <phrase i="6279" t="安装应用程序"/>
+  <phrase i="6278" t="管理证书权限"/>
+  <phrase i="6277" t="结束"/>
+  <phrase i="6276" t="制造商"/>
+  <phrase i="6275" t="服务提供商"/>
+  <phrase i="6274" t="第三方"/>
+  <phrase i="6273" t="中午"/>
+  <phrase i="6272" t="午夜"/>
+  <phrase i="6271" t="mmm dd, yyyy"/>
+  <phrase i="6270" t="hh:mm ??"/>
+  <phrase i="6269" t="mmm dd, yyyy hh:mm  "/>
+  <phrase i="6268" t="星期日"/>
+  <phrase i="6267" t="星期一"/>
+  <phrase i="6266" t="星期二"/>
+  <phrase i="6265" t="星期三"/>
+  <phrase i="6264" t="星期四"/>
+  <phrase i="6263" t="星期五"/>
+  <phrase i="6262" t="星期六"/>
+  <phrase i="6261" t="一月"/>
+  <phrase i="6260" t="二月"/>
+  <phrase i="6259" t="三月"/>
+  <phrase i="6258" t="四月"/>
+  <phrase i="6257" t="五月"/>
+  <phrase i="6256" t="六月"/>
+  <phrase i="6255" t="七月"/>
+  <phrase i="6254" t="八月"/>
+  <phrase i="6253" t="九月"/>
+  <phrase i="6252" t="十月"/>
+  <phrase i="6251" t="十一月"/>
+  <phrase i="6250" t="十二月"/>
+  <phrase i="6249" t="一月"/>
+  <phrase i="6248" t="二月"/>
+  <phrase i="6247" t="三月"/>
+  <phrase i="6246" t="四月"/>
+  <phrase i="6245" t="五月"/>
+  <phrase i="6244" t="六月"/>
+  <phrase i="6243" t="七月"/>
+  <phrase i="6242" t="八月"/>
+  <phrase i="6241" t="九月"/>
+  <phrase i="6240" t="十月"/>
+  <phrase i="6239" t="十一月"/>
+  <phrase i="6238" t="十二月"/>
+  <phrase i="6237" t="之前"/>
+  <phrase i="6236" t="之后"/>
+  <phrase i="6235" t="时间:"/>
+  <phrase i="6234" t="日期:"/>
+  <phrase i="6233" t="符号"/>
+  <phrase i="6232" t="预测"/>
+  <phrase i="6231" t="预测"/>
+  <phrase i="6230" t="预测"/>
+  <phrase i="6229" t="确定"/>
+  <phrase i="6228" t="选项..."/>
+  <phrase i="6227" t="上午"/>
+  <phrase i="6226" t="下午"/>
+  <phrase i="6225" t="删除数据"/>
+  <phrase i="6224" t="应用程序大小"/>
+  <phrase i="6223" t="应用程序数据大小"/>
+  <phrase i="6222" t="Bytes"/>
+  <phrase i="6221" t="错误，请与管理员联系"/>
+  <phrase i="6220" t="正在退出应用程序..."/>
+  <phrase i="6219" t="安装已取消"/>
+  <phrase i="6218" t="安装应用程序失败"/>
+  <phrase i="6217" t="正在安装应用程序..."/>
+  <phrase i="6216" t="正在启动应用程序..."/>
+  <phrase i="6215" t="确认"/>
+  <phrase i="6214" t="正在加载"/>
+  <phrase i="6213" t="正在启动"/>
+  <phrase i="6212" t="JAR 大小"/>
+  <phrase i="6211" t="JAR URL"/>
+  <phrase i="6210" t="说明"/>
+  <phrase i="6209" t="供应商"/>
+  <phrase i="6208" t="MicroEdition - 配置"/>
+  <phrase i="6207" t="MicroEdition - 配置文件"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="个性化"/>
+  <phrase i="6205" t="单键插入"/>
+  <phrase i="6204" t="宽带头戴式耳机 UI 控件"/>
+  <phrase i="6203" t="自动呼叫选择"/>
+  <phrase i="6202" t="呼叫列表的线路忙功能"/>
+  <phrase i="6201" t="自动线路选择"/>
+  <phrase i="6200" t="UI 信息"/>
+  <phrase i="6199" t="UI"/>
+  <phrase i="6198" t="欢迎消息"/>
+  <phrase i="6197" t="问候消息"/>
+  <phrase i="6196" t="新建联系人"/>
+  <phrase i="6195" t="保存至现有联系人"/>
+  <phrase i="6194" t="正在加载... 请稍候"/>
+  <phrase i="6193" t="系统配置"/>
+  <phrase i="6192" t="只能使用字母数字字符!"/>
+  <phrase i="6191" t="保留跟踪级别"/>
+  <phrase i="6190" t="远程系统日志"/>
+  <phrase i="6189" t="跟踪级别"/>
+  <phrase i="6188" t="启用诊断"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="组织"/>
+  <phrase i="6186" t="选择默认值"/>
+  <phrase i="6185" t="选择视图"/>
+  <phrase i="6184" t="选择图像"/>
+  <phrase i="6183" t="定制软键"/>
+  <phrase i="6182" t="线路 %d (%s)"/>
+  <phrase i="6181" t="选择要查看的线路"/>
+  <phrase i="6180" t="电话线路"/>
+  <phrase i="6179" t="主页"/>
+  <phrase i="6178" t="电话簿"/>
+  <phrase i="6177" t="背景图像"/>
+  <phrase i="6176" t="首选视图"/>
+  <phrase i="6175" t="左软键"/>
+  <phrase i="6174" t="定制主页"/>
+  <phrase i="6173" t="%s (%d 个未接呼叫)"/>
+  <phrase i="6172" t="配置文件受到限制!"/>
+  <phrase i="6171" t="未分配"/>
+  <phrase i="6170" t="选择联系人字段"/>
+  <phrase i="6169" t="姓氏, 名字"/>
+  <phrase i="6168" t="名字, 姓氏"/>
+  <phrase i="6167" t="目录排序顺序"/>
+  <phrase i="6166" t="无默认号码"/>
+  <phrase i="6165" t="选择未分配的快速拨号!"/>
+  <phrase i="6164" t="选择要分配的快速拨号"/>
+  <phrase i="6163" t="选择联系人号码"/>
+  <phrase i="6162" t="分配快速拨号 %d"/>
+  <phrase i="6161" t="分配新快速拨号?"/>
+  <phrase i="6160" t="选择电话类型"/>
+  <phrase i="6159" t="选择联系人"/>
+  <phrase i="6158" t="全部删除"/>
+  <phrase i="6157" t="已删除所有联系人!"/>
+  <phrase i="6156" t="删除所有联系人?"/>
+  <phrase i="6155" t="已更新主电话!"/>
+  <phrase i="6154" t="背景图像预览"/>
+  <phrase i="6153" t="已保存新振铃音!"/>
+  <phrase i="6152" t="匹配 0 个记录"/>
+  <phrase i="6151" t="空间不足，无法存放新号码!"/>
+  <phrase i="6150" t="重命名"/>
+  <phrase i="6149" t="合并"/>
+  <phrase i="6148" t="改写"/>
+  <phrase i="6147" t="已更新联系人!"/>
+  <phrase i="6146" t="联系人已经存在!"/>
+  <phrase i="6145" t="已删除联系人!"/>
+  <phrase i="6144" t="删除联系人?"/>
+  <phrase i="6143" t="删除快速拨号?"/>
+  <phrase i="6142" t="IM 地址"/>
+  <phrase i="6141" t="昵称"/>
+  <phrase i="6140" t="已分配快速拨号 %d !"/>
+  <phrase i="6139" t="快速拨号"/>
+  <phrase i="6138" t="新建快速拨号项"/>
+  <phrase i="6137" t="(空)"/>
+  <phrase i="6136" t="空号!"/>
+  <phrase i="6135" t="已删除快速拨号!"/>
+  <phrase i="6134" t="按住以激活"/>
+  <phrase i="6133" t="按住以禁用"/>
+  <phrase i="6132" t="%d 个快速拨号号码"/>
+  <phrase i="6131" t="1 个快速拨号号码"/>
+  <phrase i="6130" t="需要联系人姓名!"/>
+  <phrase i="6129" t="已达到最大容量!"/>
+  <phrase i="6128" t="1 个联系人"/>
+  <phrase i="6127" t="1 条记录"/>
+  <phrase i="6126" t="无联系人"/>
+  <phrase i="6125" t="请细化您的搜索。"/>
+  <phrase i="6124" t="重置所有系统?"/>
+  <phrase i="6123" t="重新启动电话?"/>
+  <phrase i="6122" t="请输入十六进制的密钥"/>
+  <phrase i="6121" t="输入无效或缺失"/>
+  <phrase i="6120" t="正在等待来自 %s 的 %d 响应"/>
+  <phrase i="6119" t="没有可用的带宽"/>
+  <phrase i="6118" t="等待激活以录音"/>
+  <phrase i="6117" t="更高"/>
+  <phrase i="6116" t="均等"/>
+  <phrase i="6115" t="更低"/>
+  <phrase i="6114" t="DND 打开"/>
+  <phrase i="6113" t="DND 关闭"/>
+  <phrase i="6112" t="返回焦点优先级"/>
+  <phrase i="6111" t="Avalanche 消息"/>
+  <phrase i="6110" t="已成功更新配置"/>
+  <phrase i="6109" t="配置更新失败"/>
+  <phrase i="6108" t="已成功更新配置包"/>
+  <phrase i="6107" t="更新配置包失败"/>
+  <phrase i="6106" t="HTTPS 客户端配置"/>
+  <phrase i="6105" t="接受未验证的证书"/>
+  <phrase i="6104" t="拒绝未验证的证书"/>
+  <phrase i="6103" t="选择证书选项"/>
+  <phrase i="6102" t="用户信息"/>
+  <phrase i="6101" t="已禁用设置"/>
+  <phrase i="6100" t="字段为只读!"/>
+  <phrase i="6099" t="管理员已锁定配置文件"/>
+  <phrase i="6098" t="管理员已限制访问权限"/>
+  <phrase i="6097" t="配置文件为只读"/>
+  <phrase i="6096" t="请输入个人识别码"/>
+  <phrase i="6095" t="请与管理员联系以获取个人识别码"/>
+  <phrase i="6094" t="丢弃"/>
+  <phrase i="6093" t="使用中间的按钮选择"/>
+  <phrase i="6092" t="使用中间的按钮取消选择"/>
+  <phrase i="6091" t="密码无效或者验证服务器停机"/>
+  <phrase i="6090" t="更改 WLAN 密码?"/>
+  <phrase i="6089" t="用户信息"/>
+  <phrase i="6088" t="WLAN 访问被拒绝!"/>
+  <phrase i="6087" t="服务器已关闭"/>
+  <phrase i="6086" t="电话簿"/>
+  <phrase i="6085" t="按 [继续] 以继续"/>
+  <phrase i="6084" t="新建联系人"/>
+  <phrase i="6083" t="更改联系人"/>
+  <phrase i="6082" t="联系人"/>
+  <phrase i="6081" t="%d 个联系人"/>
+  <phrase i="6080" t="%d 个联系人 (共 %d 个)"/>
+  <phrase i="6079" t="全名"/>
+  <phrase i="6078" t="显示首选项"/>
+  <phrase i="6077" t="选择显示顺序"/>
+  <phrase i="6076" t="文件为"/>
+  <phrase i="6075" t="办公电话"/>
+  <phrase i="6074" t="移动电话"/>
+  <phrase i="6073" t="住宅电话"/>
+  <phrase i="6072" t="其他电话"/>
+  <phrase i="6071" t="电子邮件地址"/>
+  <phrase i="6070" t="公司"/>
+  <phrase i="6069" t="办公地址"/>
+  <phrase i="6068" t="街道"/>
+  <phrase i="6067" t="城市"/>
+  <phrase i="6066" t="州/省"/>
+  <phrase i="6065" t="邮政编码"/>
+  <phrase i="6064" t="存储"/>
+  <phrase i="6063" t="存储联系人"/>
+  <phrase i="6062" t="选择号码类型"/>
+  <phrase i="6061" t="选择联系人的设备类型"/>
+  <phrase i="6060" t="排序"/>
+  <phrase i="6059" t="继续"/>
+  <phrase i="6058" t="办公"/>
+  <phrase i="6057" t="个人"/>
+  <phrase i="6056" t="国际"/>
+  <phrase i="6055" t="收藏夹"/>
+  <phrase i="6054" t="常用联系人"/>
+  <phrase i="6053" t="主要客户"/>
+  <phrase i="6052" t="其他"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="类别"/>
+  <phrase i="6049" t="类别"/>
+  <phrase i="6048" t="选择联系人类别"/>
+  <phrase i="6047" t="选择类别"/>
+  <phrase i="6046" t="选择联系人类别"/>
+  <phrase i="6045" t="选择类别"/>
+  <phrase i="6044" t="过滤器"/>
+  <phrase i="6043" t="选择联系人过滤器"/>
+  <phrase i="6042" t="选择过滤器"/>
+  <phrase i="6041" t="快速拨号"/>
+  <phrase i="6040" t="快速拨号号码"/>
+  <phrase i="6039" t="输入快速拨号号码"/>
+  <phrase i="6038" t="快速拨号号码无效"/>
+  <phrase i="6037" t="未分配快速拨号 %d"/>
+  <phrase i="6036" t="快速拨号为空"/>
+  <phrase i="6035" t="使用 [选项] 以保存"/>
+  <phrase i="6034" t="按 [选项] 以保存"/>
+  <phrase i="6033" t="已保存联系人"/>
+  <phrase i="6032" t="未保存联系人!"/>
+  <phrase i="6031" t="已保存设置"/>
+  <phrase i="6030" t="未保存设置!"/>
+  <phrase i="6029" t="已取消"/>
+  <phrase i="6028" t="已取消更改"/>
+  <phrase i="6027" t="未接听 %d 个来自主叫方的呼叫"/>
+  <phrase i="6026" t="已接听 %d 个来自主叫方的呼叫"/>
+  <phrase i="6025" t="已呼叫此号码 %d 次"/>
+  <phrase i="6024" t="充电模式"/>
+  <phrase i="6023" t="显示屏保持暗淡"/>
+  <phrase i="6022" t="显示屏保持最高亮度"/>
+  <phrase i="6021" t="选择显示屏首选项"/>
+  <phrase i="6020" t="定制主页"/>
+  <phrase i="6019" t="快捷键"/>
+  <phrase i="6018" t="线路视图"/>
+  <phrase i="6017" t="主菜单"/>
+  <phrase i="6016" t="选择应用程序"/>
+  <phrase i="6015" t="应用程序"/>
+  <phrase i="6014" t="选择要分配的快捷键"/>
+  <phrase i="6013" t="分配"/>
+  <phrase i="6012" t="扬声器已启用"/>
+  <phrase i="6011" t="已禁用扬声器"/>
+  <phrase i="6010" t="跟踪设置"/>
+  <phrase i="6009" t="重新启动电话以禁用"/>
+  <phrase i="6008" t="允许"/>
+  <phrase i="6007" t="未配置"/>
+  <phrase i="6006" t="活动振铃首选项"/>
+  <phrase i="6005" t="仅哔声"/>
+  <phrase i="6004" t="电话振铃"/>
+  <phrase i="6003" t="选择告警首选项"/>
+  <phrase i="6002" t="未接"/>
+  <phrase i="6001" t="全部"/>
+  <!-- GUI -->
+  <phrase i="6000" t="选择状态项"/>
+  <phrase i="5999" t="选择型号设置"/>
+  <phrase i="5998" t="网络配置"/>
+  <phrase i="5997" t="选择网络设置"/>
+  <phrase i="5996" t="电话设置"/>
+  <phrase i="5995" t="选择电话设置"/>
+  <phrase i="5994" t="选择安全设置"/>
+  <phrase i="5993" t="选择设备设置"/>
+  <phrase i="5992" t="选择设置"/>
+  <phrase i="5991" t="选择配置文件"/>
+  <phrase i="5990" t="选择 WLAN 设置"/>
+  <phrase i="5989" t="802.11 模式"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Auto-b/g"/>
+  <phrase i="5985" t="Auto-a"/>
+  <phrase i="5984" t="Auto-RSSI"/>
+  <phrase i="5983" t="开放"/>
+  <phrase i="5982" t="开放+WEP"/>
+  <phrase i="5981" t="共享+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="自动 (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Poll"/>
+  <phrase i="5976" t="U-APSD/无"/>
+  <phrase i="5975" t="PS 轮询"/>
+  <phrase i="5973" t="HEX"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 位"/>
+  <phrase i="5970" t="128 位"/>
+  <phrase i="5969" t="关闭"/>
+  <phrase i="5968" t="响亮"/>
+  <phrase i="5967" t="安全模式"/>
+  <phrase i="5966" t="单访问点"/>
+  <phrase i="5965" t="呼叫节电模式"/>
+  <phrase i="5964" t="密钥样式"/>
+  <phrase i="5963" t="静态 WEP 密钥"/>
+  <phrase i="5962" t="WEP 密钥"/>
+  <phrase i="5961" t="主"/>
+  <phrase i="5960" t="预共享密钥"/>
+  <phrase i="5959" t="网络配置文件"/>
+  <phrase i="5958" t="插接扬声器"/>
+  <phrase i="5957" t="插接振铃"/>
+  <phrase i="5956" t="头戴式耳机"/>
+  <phrase i="5955" t="普通"/>
+  <phrase i="5954" t="会议"/>
+  <phrase i="5953" t="户外"/>
+  <phrase i="5952" t="无声"/>
+  <phrase i="5951" t="自定义 1"/>
+  <phrase i="5950" t="自定义 2"/>
+  <phrase i="5949" t="按键音"/>
+  <phrase i="5948" t="告警方式"/>
+  <phrase i="5947" t="仅振铃"/>
+  <phrase i="5946" t="仅振动"/>
+  <phrase i="5945" t="先振动后振铃"/>
+  <phrase i="5944" t="振铃器关闭!"/>
+  <phrase i="5943" t="振铃"/>
+  <phrase i="5942" t="秒"/>
+  <phrase i="5941" t="选择 "/>
+  <phrase i="5940" t="调节 "/>
+  <phrase i="5939" t="新建"/>
+  <phrase i="5938" t="当前"/>
+  <phrase i="5937" t="输入新值"/>
+  <phrase i="5936" t="旧值"/>
+  <phrase i="5935" t="启用"/>
+  <phrase i="5934" t="禁用"/>
+  <phrase i="5933" t="警告"/>
+  <phrase i="5932" t="配置错误"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP 启用/禁用"/>
+  <phrase i="5928" t="CallManager 信息"/>
+  <phrase i="5927" t="HTTP 信息"/>
+  <phrase i="5926" t="区域设置信息"/>
+  <phrase i="5925" t="QoS 信息"/>
+  <phrase i="5924" t="CallManager 信息"/>
+  <phrase i="5923" t="安全信息"/>
+  <phrase i="5922" t="WLAN 配置"/>
+  <phrase i="5921" t="WLAN 配置"/>
+  <phrase i="5920" t="配置文件名称"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="选择 USB 设置"/>
+  <phrase i="5914" t="USB 配置"/>
+  <phrase i="5913" t="接入点搜寻"/>
+  <phrase i="5912" t="加载服务器"/>
+  <phrase i="5911" t="选择通道"/>
+  <phrase i="5910" t="通道"/>
+  <phrase i="5909" t="配置文件 %d"/>
+  <phrase i="5908" t="用户配置文件"/>
+  <phrase i="5907" t="选择用户配置文件"/>
+  <phrase i="5906" t="选择用户设置"/>
+  <phrase i="5905" t="网络配置文件"/>
+  <phrase i="5904" t="选择网络配置文件"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="显示屏亮度"/>
+  <phrase i="5901" t="显示屏超时"/>
+  <phrase i="5900" t="从不"/>
+  <phrase i="5899" t="任意键应答"/>
+  <phrase i="5898" t="启用"/>
+  <phrase i="5897" t="禁用"/>
+  <phrase i="5896" t="充电完毕!"/>
+  <phrase i="5895" t="电池被取出!"/>
+  <phrase i="5894" t="电池电量低!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="输入字串"/>
+  <phrase i="5890" t="授权字串"/>
+  <phrase i="5889" t="LSC 操作完毕"/>
+  <phrase i="5888" t="LSC 操作已开始"/>
+  <phrase i="5887" t="停止"/>
+  <phrase i="5886" t="正在连接到 CAPF 服务器"/>
+  <phrase i="5885" t="连接到 CAPF 服务器失败"/>
+  <phrase i="5884" t="已连接到 CAPF 服务器"/>
+  <phrase i="5883" t="正在使用 CAPF 进行验证"/>
+  <phrase i="5882" t="CAPF 服务器"/>
+  <phrase i="5881" t="LSC 验证错误"/>
+  <phrase i="5880" t="正在为 LSC 生成密钥"/>
+  <phrase i="5879" t="生成 LSC 密钥失败"/>
+  <phrase i="5878" t="LSC 操作正在进行"/>
+  <phrase i="5877" t="正在重试...请稍候"/>
+  <phrase i="5876" t="LSC 操作已取消"/>
+  <phrase i="5875" t="LSC 操作已中止"/>
+  <phrase i="5874" t="LSC 操作已超时"/>
+  <phrase i="5873" t="LSC 操作失败"/>
+  <phrase i="5872" t="所需的最小长度"/>
+  <phrase i="5871" t="未配置 URL!"/>
+  <phrase i="5870" t="无"/>
+  <phrase i="5869" t="未知"/>
+  <phrase i="5867" t="未安装"/>
+  <phrase i="5866" t="已安装"/>
+  <phrase i="5864" t="已安装 LSC"/>
+  <phrase i="5863" t="已更新 LSC"/>
+  <phrase i="5862" t="已删除 LSC"/>
+  <phrase i="5861" t="详细信息"/>
+  <phrase i="5860" t="已禁止设置访问权限!"/>
+  <phrase i="5859" t="正在重新启动电话..."/>
+  <phrase i="5858" t="立即恢复出厂设置?"/>
+  <phrase i="5857" t="CTL 文件"/>
+  <phrase i="5856" t="信任列表"/>
+  <phrase i="5855" t="已清除 CTL 文件!"/>
+  <phrase i="5854" t="找不到"/>
+  <phrase i="5853" t="电话上的 MIC 已损坏"/>
+  <phrase i="5852" t="CTL 更新失败"/>
+  <phrase i="5851" t="CTL 已安装"/>
+  <phrase i="5850" t="电池充电器已停止!"/>
+  <phrase i="5849" t="电池充电器已启动!"/>
+  <phrase i="5848" t="未连接 AC!"/>
+  <phrase i="5847" t="已连接 AC!"/>
+  <phrase i="5846" t="未连接 USB!"/>
+  <phrase i="5845" t="已连接 USB!"/>
+  <phrase i="5844" t="已断开插接装置!"/>
+  <phrase i="5843" t="已连接插接装置!"/>
+  <phrase i="5842" t="未连接头戴式耳机!"/>
+  <phrase i="5841" t="已连接头戴式耳机!"/>
+  <phrase i="5840" t="已到达最大长度!"/>
+  <phrase i="5839" t="键盘已解锁!"/>
+  <phrase i="5838" t="键盘已锁定!"/>
+  <phrase i="5837" t="解锁键盘?"/>
+  <phrase i="5836" t="锁定键盘?"/>
+  <phrase i="5835" t="振动关闭!"/>
+  <phrase i="5834" t="振动打开!"/>
+  <phrase i="5833" t="LSC 更新失败!"/>
+  <phrase i="5832" t="MIC 更新失败!"/>
+  <phrase i="5831" t="设置已解锁!"/>
+  <phrase i="5830" t="设置已锁定!"/>
+  <phrase i="5829" t="电池电量低...正在关机!"/>
+  <phrase i="5828" t="TFTP 不在 CTL 中"/>
+  <phrase i="5827" t="USB 接口打开"/>
+  <phrase i="5826" t="USB 接口关闭"/>
+  <phrase i="5825" t="%d 秒"/>
+  <phrase i="5824" t="键盘自动锁定"/>
+  <phrase i="5823" t="选择自动锁定计时器"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="选择目录"/>
+  <phrase i="5820" t="网络忙"/>
+  <phrase i="5819" t="WLAN 工作域"/>
+  <phrase i="5818" t="USB 供应商 ID"/>
+  <phrase i="5817" t="USB 产品 ID"/>
+  <phrase i="5816" t="RNDIS 设备地址"/>
+  <phrase i="5815" t="RNDIS 主机地址"/>
+  <phrase i="5814" t="隐藏"/>
+  <phrase i="5813" t="选项"/>
+  <phrase i="5812" t="按中间的按钮选择"/>
+  <phrase i="5811" t="按中间的按钮编辑"/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="保留日志"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="安全配置"/>
+  <phrase i="5785" t="配置文件被阻止!"/>
+  <phrase i="5784" t="配置文件被阻止!"/>
+  <phrase i="5783" t="WLAN 驱动程序 ID"/>
+  <phrase i="5782" t="WLAN 固件 ID"/>
+  <phrase i="5781" t="查看呼叫统计"/>
+  <phrase i="5780" t="接收器编解码器"/>
+  <phrase i="5779" t="发送器编解码器"/>
+  <phrase i="5778" t="接收器大小"/>
+  <phrase i="5777" t="发送器大小"/>
+  <phrase i="5776" t="平均信号不稳定性"/>
+  <phrase i="5775" t="最大信号不稳定性"/>
+  <phrase i="5774" t="接收器已废弃"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="平均 MOS LQK"/>
+  <phrase i="5771" t="最小 MOS LQK"/>
+  <phrase i="5770" t="最大 MOS LQK"/>
+  <phrase i="5769" t="MOS LQK 版本"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="隐蔽秒数"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="网络信息"/>
+  <phrase i="5761" t="WLAN 信息"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="区域设置"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="安全"/>
+  <phrase i="5755" t="选择音量"/>
+  <phrase i="5754" t="声音设置"/>
+  <phrase i="5753" t="显示屏设置"/>
+  <phrase i="5752" t="键盘设置"/>
+  <phrase i="5751" t="默认振铃类型"/>
+  <phrase i="5750" t="选择声音设置"/>
+  <phrase i="5749" t="选择显示屏设置"/>
+  <phrase i="5748" t="选择键盘设置"/>
+  <phrase i="5747" t="加密类型"/>
+  <phrase i="5746" t="CCKM 模式"/>
+  <phrase i="5745" t="密钥管理"/>
+  <phrase i="5744" t="发射功率"/>
+  <phrase i="5743" t="共享"/>
+  <phrase i="5742" t="自动切换"/>
+  <phrase i="5741" t="WPA None"/>
+  <phrase i="5740" t="Web 访问"/>
+  <phrase i="5739" t="只读"/>
+  <phrase i="5738" t="编辑要拨的号码"/>
+  <phrase i="5737" t="音量设置"/>
+  <phrase i="5736" t="选择音量"/>
+  <phrase i="5735" t="音量"/>
+  <phrase i="5734" t="振铃"/>
+  <phrase i="5733" t="听筒"/>
+  <phrase i="5732" t="扬声器"/>
+  <phrase i="5731" t="振动和振铃"/>
+  <phrase i="5730" t="级别 %d"/>
+  <phrase i="5729" t="分钟"/>
+  <phrase i="5728" t="分钟"/>
+  <phrase i="5727" t="呼叫进行中..."/>
+  <phrase i="5726" t="呼叫已取消!"/>
+  <phrase i="5725" t="呼叫失败。请重试。"/>
+  <phrase i="5724" t="无法启用: 空 SSID!"/>
+  <phrase i="5723" t="此处不允许空 SSID!"/>
+  <phrase i="5722" t="振铃音"/>
+  <phrase i="5721" t="当前设置"/>
+  <phrase i="5720" t="可用振铃音"/>
+  <phrase i="5719" t="振铃音设置"/>
+  <phrase i="5718" t="查看"/>
+  <phrase i="5717" t="选择振铃音"/>
+  <phrase i="5716" t="应用振铃音"/>
+  <phrase i="5715" t="应用"/>
+  <phrase i="5714" t="LED 覆盖范围指示灯"/>
+  <phrase i="5713" t="安全配置"/>
+  <phrase i="5712" t="振铃输出"/>
+  <phrase i="5711" t="扬声器和头戴式耳机"/>
+  <phrase i="5710" t="更改"/>
+  <phrase i="5709" t="Wavelink 配置"/>
+  <phrase i="5708" t="选择 Wavelink 设置"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="替代 Wavelink 服务器"/>
+  <phrase i="5705" t="Wavelink 服务器"/>
+  <phrase i="5704" t="Wavelink 服务器端口"/>
+  <phrase i="5703" t="启动程序版本"/>
+  <phrase i="5702" t="定制名称"/>
+  <phrase i="5701" t="定制值"/>
+  <phrase i="5700" t="通道"/>
+  <phrase i="5699" t="邻居列表"/>
+  <phrase i="5698" t="AP 名称"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NullRcv"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="解锁"/>
+  <phrase i="5689" t="个人目录"/>
+  <phrase i="5688" t="公司目录"/>
+  <phrase i="5687" t="按 [解锁]"/>
+  <phrase i="5686" t="按 # 解锁"/>
+  <phrase i="5685" t="按住 # 解锁"/>
+  <phrase i="5684" t="键盘已锁定"/>
+  <phrase i="5683" t="背景光"/>
+  <phrase i="5682" t="选择音频路径"/>
+  <phrase i="5681" t="扬声器和蓝牙"/>
+  <phrase i="5680" t="头戴式耳机振铃"/>
+  <phrase i="5679" t="高"/>
+  <phrase i="5678" t="中"/>
+  <phrase i="5677" t="低"/>
+  <phrase i="5676" t="按 %s 进入主屏幕"/>
+  <phrase i="5675" t="呼叫详细信息"/>
+  <phrase i="5674" t="于 %s，%s"/>
+  <phrase i="5673" t="持续时间"/>
+  <phrase i="5672" t="提示模式"/>
+  <phrase i="5671" t="您的用户凭证可能不正确。"/>
+  <phrase i="5670" t="要立即更改吗?"/>
+  <phrase i="5669" t="扬声器模式"/>
+  <phrase i="5668" t="永久"/>
+  <phrase i="5667" t="每次呼叫"/>
+  <phrase i="5666" t="网络配置文件登录"/>
+  <phrase i="5665" t="字号"/>
+  <phrase i="5664" t="增大"/>
+  <phrase i="5663" t="64 位"/>
+  <phrase i="5662" t="104 位"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="内部通信"/>
+  <phrase i="4998" t="来电振铃"/>
+  <phrase i="4997" t="本地目录"/>
+  <phrase i="4996" t="本地快速拨号"/>
+  <phrase i="4995" t="姓氏"/>
+  <phrase i="4994" t="名字"/>
+  <phrase i="4993" t="本地目录搜索"/>
+  <phrase i="4992" t="匹配项过多，请细化您的搜索。"/>
+  <phrase i="4991" t="找不到任何记录。"/>
+  <phrase i="4990" t="记录 1 到 ...，共"/>
+  <phrase i="4989" t="没有可用的线路"/>
+  <phrase i="4988" t="无法转接"/>
+  <phrase i="4987" t="转接功能忙"/>
+  <phrase i="4986" t="输入或选择要拨的号码"/>
+  <phrase i="4985" t="是否要将所有系统设置"/>
+  <phrase i="4984" t="重置为默认值?"/>
+  <phrase i="4983" t="目录服务"/>
+  <phrase i="4982" t="XML 服务"/>
+  <phrase i="4981" t="连接到服务器"/>
+  <phrase i="4980" t="连接失败"/>
+  <phrase i="4979" t="是否要重新启动电话?"/>
+  <phrase i="4978" t="菜单"/>
+  <phrase i="4977" t="语言"/>
+  <phrase i="4976" t="替代域"/>
+  <phrase i="4975" t="替代 DNS"/>
+  <phrase i="4974" t="当前值"/>
+  <phrase i="4973" t="新值"/>
+  <phrase i="4972" t="默认路由器"/>
+  <phrase i="4971" t="VLAN 已启用"/>
+  <phrase i="4970" t="CDP 已启用"/>
+  <phrase i="4969" t="服务"/>
+  <phrase i="4968" t="快速拨号"/>
+  <phrase i="4967" t="输入服务器"/>
+  <phrase i="4966" t="静态"/>
+  <phrase i="4965" t="注册模式"/>
+  <phrase i="4964" t="模式"/>
+  <phrase i="4963" t="旧"/>
+  <phrase i="4962" t="固件升级"/>
+  <phrase i="4961" t="对比度菜单"/>
+  <phrase i="4960" t="更改管理密码"/>
+  <phrase i="4959" t="无法接通"/>
+  <phrase i="4958" t="样例文本"/>
+  <phrase i="4957" t="升级"/>
+  <phrase i="4956" t="输入新密码"/>
+  <phrase i="4955" t="留言"/>
+  <phrase i="4954" t="设置"/>
+  <phrase i="4953" t="目录"/>
+  <phrase i="4952" t="错误密码"/>
+  <phrase i="4951" t="输入管理密码"/>
+  <phrase i="4950" t="输入值无效"/>
+  <phrase i="4949" t="密钥字串长度无效"/>
+  <phrase i="4948" t="密钥字串无效: 必须是十六进制数字"/>
+  <phrase i="4947" t="快速拨号"/>
+  <phrase i="4946" t="以太网未连接"/>
+  <phrase i="4945" t="通过 TFTP 进行配置"/>
+  <phrase i="4944" t="通过 DHCP 配置 IP"/>
+  <phrase i="4943" t="配置 VLAN 设置"/>
+  <phrase i="4942" t="号码不可用"/>
+  <phrase i="4941" t="未分配"/>
+  <phrase i="4940" t="振铃音量"/>
+  <phrase i="4939" t="听筒音量"/>
+  <phrase i="4938" t="扬声器音量"/>
+  <phrase i="4937" t="重试"/>
+  <phrase i="4936" t="输入"/>
+  <phrase i="4935" t="字母"/>
+  <phrase i="4934" t="监听关"/>
+  <phrase i="4933" t="监听"/>
+  <phrase i="4932" t="号码"/>
+  <phrase i="4931" t="留言"/>
+  <phrase i="718" t="内部通信历史"/>
+  <phrase i="717" t="所有线路"/>
+  <phrase i="716" t="线路 %d"/>
+  <phrase i="715" t="向下"/>
+  <phrase i="714" t="操作已取消"/>
+  <phrase i="713" t="TFTP 未授权: %s"/>
+  <phrase i="712" t="清除"/>
+  <phrase i="711" t="已加密"/>
+  <phrase i="710" t="已经过身份验证"/>
+  <phrase i="709" t="非安全"/>
+  <phrase i="708" t="TLS 错误 "/>
+  <phrase i="707" t="Web 访问已启用"/>
+  <phrase i="706" t="设备安全模式"/>
+  <phrase i="705" t="正在处理..."/>
+  <phrase i="704" t="无效输入或无信息"/>
+  <phrase i="703" t="密钥生成失败"/>
+  <phrase i="702" t="连接丢失或失败"/>
+  <phrase i="701" t="失败"/>
+  <phrase i="700" t="超时"/>
+  <phrase i="699" t="成功"/>
+  <phrase i="698" t="授权请求..."/>
+  <phrase i="697" t="正在连接..."/>
+  <phrase i="696" t="重试 CAPF..."/>
+  <phrase i="695" t="正在生成密钥..."/>
+  <phrase i="694" t="取消操作"/>
+  <phrase i="693" t="更新证书"/>
+  <phrase i="692" t="授权字串"/>
+  <phrase i="691" t="证书"/>
+  <phrase i="690" t="服务的 DSCP"/>
+  <phrase i="689" t="配置的 DSCP"/>
+  <phrase i="688" t="呼叫控制的 DSCP"/>
+  <phrase i="687" t="文件验证失败"/>
+  <phrase i="686" t="CAST 任务"/>
+  <phrase i="685" t="视频功能已启用"/>
+  <phrase i="684" t="自动线路选择已启用"/>
+  <phrase i="683" t="语音 VLAN 已启用"/>
+  <phrase i="682" t="GARP 已启用"/>
+  <phrase i="681" t="相邻端口"/>
+  <phrase i="680" t="相邻 IP 地址"/>
+  <phrase i="679" t="相邻设备 ID"/>
+  <phrase i="678" t="经 %s"/>
+  <phrase i="677" t="已前转"/>
+  <phrase i="676" t="缩拨"/>
+  <phrase i="675" t="正在请求服务 URL 状态"/>
+  <phrase i="674" t="正在请求功能键状态"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d 个新的未接呼叫"/>
+  <phrase i="670" t="默认振铃"/>
+  <phrase i="669" t="选择线路..."/>
+  <phrase i="668" t="编辑拨号"/>
+  <phrase i="667" t="电话中断"/>
+  <phrase i="666" t="网络区域设置版本"/>
+  <phrase i="665" t="用户区域设置版本"/>
+  <phrase i="664" t="TFTP 请求已取消"/>
+  <phrase i="663" t="DHCP 已禁用"/>
+  <phrase i="662" t="需要 IP 地址"/>
+  <phrase i="661" t="状态 "/>
+  <phrase i="660" t="默认值"/>
+  <phrase i="659" t="留言通知"/>
+  <phrase i="658" t="仅听筒模式"/>
+  <phrase i="657" t="型号"/>
+  <phrase i="656" t="查看型号信息"/>
+  <phrase i="655" t="型号信息"/>
+  <phrase i="654" t="链路状态 "/>
+  <phrase i="653" t="字体指针持续时间"/>
+  <phrase i="652" t="字体指针"/>
+  <phrase i="651" t="运行应用程序"/>
+  <phrase i="650" t="字体下载持续时间"/>
+  <phrase i="649" t="字体下载"/>
+  <phrase i="648" t="字体表信息"/>
+  <phrase i="647" t="片断下载持续时间"/>
+  <phrase i="646" t="片断下载"/>
+  <phrase i="645" t="片断更新"/>
+  <phrase i="644" t="硬件信息"/>
+  <phrase i="643" t="版本 TFTP"/>
+  <phrase i="642" t="版本信息"/>
+  <phrase i="641" t="空闲"/>
+  <phrase i="640" t="不支持"/>
+  <phrase i="639" t="更新区域设置时出现错误"/>
+  <phrase i="638" t="等待来自 %s 的状态 %d 响应"/>
+  <phrase i="637" t="等待 %s（来自 %s）"/>
+  <phrase i="636" t="BOOTP 服务器"/>
+  <phrase i="635" t="DHCP 服务器"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO 修订"/>
+  <phrase i="629" t="Amp"/>
+  <phrase i="628" t="编解码器"/>
+  <phrase i="627" t="序列号"/>
+  <phrase i="626" t="硬件修订"/>
+  <phrase i="625" t="启动加载 ID"/>
+  <phrase i="624" t="应用程序加载 ID"/>
+  <phrase i="623" t="电话号码"/>
+  <phrase i="622" t="SYS 模式"/>
+  <phrase i="621" t="FIQ 模式"/>
+  <phrase i="620" t="IRQ 模式"/>
+  <phrase i="619" t="SVC 模式"/>
+  <phrase i="618" t="未定义的模式"/>
+  <phrase i="610" t="更多"/>
+  <phrase i="609" t="选择"/>
+  <phrase i="608" t="退出"/>
+  <phrase i="607" t="关闭"/>
+  <phrase i="606" t="向上"/>
+  <phrase i="605" t="取消"/>
+  <phrase i="604" t="编辑"/>
+  <phrase i="603" t="否"/>
+  <phrase i="602" t="是"/>
+  <phrase i="601" t="播放"/>
+  <phrase i="600" t="拨号"/>
+  <phrase i="599" t="编辑拨号"/>
+  <phrase i="598" t="保存"/>
+  <phrase i="597" t="恢复"/>
+  <phrase i="596" t="删除"/>
+  <phrase i="595" t="出厂设置"/>
+  <phrase i="594" t="确定"/>
+  <phrase i="593" t="验证"/>
+  <phrase i="592" t="搜索"/>
+  <phrase i="591" t="下一步"/>
+  <phrase i="590" t="更新"/>
+  <phrase i="589" t="清除"/>
+  <phrase i="588" t="提交"/>
+  <phrase i="587" t="音频"/>
+  <phrase i="586" t="网络区域设置"/>
+  <phrase i="585" t="用户区域设置"/>
+  <phrase i="584" t="Kate 文件"/>
+  <phrase i="583" t="音频文件"/>
+  <phrase i="582" t="振铃器正忙!"/>
+  <phrase i="581" t="TFTP 服务器 2"/>
+  <phrase i="578" t="SW 端口配置"/>
+  <phrase i="577" t="PC 端口配置"/>
+  <phrase i="576" t="PC 端口已禁用"/>
+  <phrase i="575" t="错误"/>
+  <phrase i="574" t="参数无效"/>
+  <phrase i="573" t="电话主机"/>
+  <phrase i="571" t="对比度菜单"/>
+  <phrase i="570" t="选择要调节的对比度"/>
+  <phrase i="569" t="语音邮件"/>
+  <phrase i="568" t="留言"/>
+  <phrase i="555" t="CM-ICMP-未到达"/>
+  <phrase i="554" t="选择呼叫..."/>
+  <phrase i="553" t="代理服务器 URL"/>
+  <phrase i="552" t="身份验证 URL"/>
+  <phrase i="551" t="自动拨号已取消!"/>
+  <phrase i="550" t="Sidecar 任务"/>
+  <phrase i="547" t="HTTP 文件错误"/>
+  <phrase i="546" t="XML 错误 [4]: 解析错误"/>
+  <phrase i="545" t="文件创建错误"/>
+  <phrase i="544" t="持续时间="/>
+  <phrase i="543" t="加载被拒绝的 HC"/>
+  <phrase i="542" t="电话-注册被拒绝"/>
+  <phrase i="541" t="重置-重新启动"/>
+  <phrase i="540" t="重置-重置"/>
+  <phrase i="539" t="电话-重复 IP"/>
+  <phrase i="538" t="电话-键盘"/>
+  <phrase i="537" t="电话-诊断"/>
+  <phrase i="536" t="故障回复"/>
+  <phrase i="535" t="Keepalive 超时"/>
+  <phrase i="534" t="CM-NAK"/>
+  <phrase i="533" t="CM-已中止-TCP"/>
+  <phrase i="532" t="CM-重置-TCP"/>
+  <phrase i="531" t="TCP-已损坏-ACK"/>
+  <phrase i="530" t="验证配置信息时出现错误"/>
+  <phrase i="529" t="端口信息"/>
+  <phrase i="528" t="以太网信息"/>
+  <phrase i="527" t="%s 太大"/>
+  <phrase i="526" t="自 "/>
+  <phrase i="525" t="无项"/>
+  <phrase i="524" t="输入用户 ID 和密码"/>
+  <phrase i="523" t="密码"/>
+  <phrase i="522" t="用户名"/>
+  <phrase i="521" t="选择服务..."/>
+  <phrase i="520" t="处理当前呼叫..."/>
+  <phrase i="519" t="TFTP 大小错误"/>
+  <phrase i="518" t="短语文件"/>
+  <phrase i="517" t="字形文件"/>
+  <phrase i="516" t="%s 不可用"/>
+  <phrase i="515" t="%s 已损坏"/>
+  <phrase i="514" t="记录 %d"/>
+  <phrase i="513" t="访问"/>
+  <phrase i="511" t="电话"/>
+  <phrase i="510" t="网络"/>
+  <phrase i="509" t="流 %d"/>
+  <phrase i="508" t="流统计"/>
+  <phrase i="507" t="设备记录"/>
+  <phrase i="506" t="端口 %d"/>
+  <phrase i="505" t="以太网"/>
+  <phrase i="504" t="设备信息"/>
+  <phrase i="503" t="前转延迟"/>
+  <phrase i="502" t="清除配置"/>
+  <phrase i="501" t="替代 TFTP"/>
+  <phrase i="500" t="DHCP 地址已释放"/>
+  <phrase i="499" t="DHCP 已启用"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="版本"/>
+  <phrase i="493" t="返回"/>
+  <phrase i="492" t=" 开"/>
+  <phrase i="491" t=" 是"/>
+  <phrase i="490" t=" 关"/>
+  <phrase i="489" t=" 否"/>
+  <phrase i="488" t="RTP 延迟"/>
+  <phrase i="487" t="TFTP 错误"/>
+  <phrase i="486" t="TFTP 访问错误"/>
+  <phrase i="485" t="找不到文件"/>
+  <phrase i="484" t="持续时间=0x%02X"/>
+  <phrase i="483" t="CM-已关闭-TCP"/>
+  <phrase i="482" t="TCP - 超时"/>
+  <phrase i="481" t="已初始化"/>
+  <phrase i="480" t="名称=%15s"/>
+  <phrase i="479" t="更新软件"/>
+  <phrase i="478" t="ROM 校验和错误"/>
+  <phrase i="477" t=" 负载="/>
+  <phrase i="474" t="重复 IP 地址"/>
+  <phrase i="473" t="IP 地址已释放"/>
+  <phrase i="472" t="重置"/>
+  <phrase i="471" t="正在请求服务器列表"/>
+  <phrase i="470" t="正在请求快速状态"/>
+  <phrase i="469" t="正在请求线路状态"/>
+  <phrase i="468" t="正在请求软键集"/>
+  <phrase i="467" t="正在请求软键模板"/>
+  <phrase i="466" t="正在请求模板"/>
+  <phrase i="465" t="正在启动 DSP"/>
+  <phrase i="464" t="验证加载"/>
+  <phrase i="463" t="注册被拒绝"/>
+  <phrase i="462" t="注册"/>
+  <phrase i="461" t="打开 "/>
+  <phrase i="460" t="配置 CM 列表"/>
+  <phrase i="459" t="配置 IP"/>
+  <phrase i="458" t="配置 VLAN"/>
+  <phrase i="457" t="%d（共 %d 个）"/>
+  <phrase i="456" t="生产信息无效"/>
+  <phrase i="455" t="XML 错误 [%d]!"/>
+  <phrase i="454" t="HTTP 错误 [%d]!"/>
+  <phrase i="453" t="找不到主机"/>
+  <phrase i="452" t="HTTP 请求已取消"/>
+  <phrase i="451" t="正在重定向..."/>
+  <phrase i="450" t="必须获得授权!"/>
+  <phrase i="449" t="半双工"/>
+  <phrase i="448" t="全双工"/>
+  <phrase i="447" t="运行时间"/>
+  <phrase i="446" t="压缩类型错误"/>
+  <phrase i="445" t="TCP 错误代码"/>
+  <phrase i="444" t="版本错误"/>
+  <phrase i="443" t="磁盘已满错误"/>
+  <phrase i="442" t="CFG TFTP 大小错误"/>
+  <phrase i="441" t="DSP 滞后"/>
+  <phrase i="440" t="已刷新"/>
+  <phrase i="439" t="DSP 保持连接超时"/>
+  <phrase i="438" t="DSP 错误"/>
+  <phrase i="437" t="VLAN 无效"/>
+  <phrase i="436" t="IP 地址无效"/>
+  <phrase i="435" t="子网掩码无效"/>
+  <phrase i="434" t=" 无法接通"/>
+  <phrase i="433" t=" 备用"/>
+  <phrase i="432" t=" 活动"/>
+  <phrase i="431" t="使用了 BOOTP 服务器"/>
+  <phrase i="430" t="编程错误"/>
+  <phrase i="429" t="重复 IP"/>
+  <phrase i="428" t="无默认路由器"/>
+  <phrase i="427" t="Cnf 文件可用"/>
+  <phrase i="426" t="校验和错误"/>
+  <phrase i="425" t="加载 ID 错误"/>
+  <phrase i="424" t="无 DNS 服务器 IP"/>
+  <phrase i="423" t="DNS 超时"/>
+  <phrase i="422" t="DNS 未知主机"/>
+  <phrase i="421" t="TFTP 一般错误"/>
+  <phrase i="420" t="找不到 CFG 文件"/>
+  <phrase i="419" t="TFTP 超时"/>
+  <phrase i="418" t="DHCP 超时"/>
+  <phrase i="417" t="需要路由器"/>
+  <phrase i="416" t="子网上没有路由器"/>
+  <phrase i="415" t="需要 TFTP 服务器"/>
+  <phrase i="414" t="信息无效"/>
+  <phrase i="413" t="禁用 BCast 抑制"/>
+  <phrase i="412" t="启用 BCast 抑制"/>
+  <phrase i="410" t="听筒音量已保存!"/>
+  <phrase i="409" t="头戴式耳机音量已保存!"/>
+  <phrase i="408" t="扬声器音量已保存!"/>
+  <phrase i="407" t="更改未保存!"/>
+  <phrase i="406" t="是否保存音量调节?"/>
+  <phrase i="405" t="输入输入数据..."/>
+  <phrase i="404" t="服务不可用"/>
+  <phrase i="403" t="服务"/>
+  <phrase i="402" t="查看硬件信息"/>
+  <phrase i="401" t="硬件信息"/>
+  <phrase i="400" t="查看堆栈信息"/>
+  <phrase i="399" t="堆栈监视器"/>
+  <phrase i="398" t="查看调试信息"/>
+  <phrase i="397" t="调试显示"/>
+  <phrase i="396" t="查看固件版本"/>
+  <phrase i="395" t="固件版本"/>
+  <phrase i="394" t="查看网络统计"/>
+  <phrase i="393" t="网络统计"/>
+  <phrase i="392" t="查看状态信息"/>
+  <phrase i="391" t="条目已验证"/>
+  <phrase i="390" t="新 %s:"/>
+  <phrase i="389" t="当前 %s:"/>
+  <phrase i="388" t="编辑 %s"/>
+  <phrase i="387" t="设置状态"/>
+  <phrase i="386" t="选择状态项..."/>
+  <phrase i="385" t="堆栈统计"/>
+  <phrase i="384" t="状态信息"/>
+  <phrase i="383" t="选择网络设置..."/>
+  <phrase i="382" t="振铃列表不可用!"/>
+  <phrase i="381" t="振铃列表文件已损坏!"/>
+  <phrase i="380" t="振铃文件不可用!"/>
+  <phrase i="379" t="正在请求振铃文件..."/>
+  <phrase i="378" t="振铃类型"/>
+  <phrase i="377" t="选择铃声"/>
+  <phrase i="376" t="正在请求振铃列表..."/>
+  <phrase i="375" t="啾鸣信号 2"/>
+  <phrase i="374" t="啾鸣信号 1"/>
+  <phrase i="373" t="已接受并保存更改"/>
+  <phrase i="372" t="更改对比度..."/>
+  <phrase i="371" t="所有更改已保存"/>
+  <phrase i="370" t="已恢复出厂设置 "/>
+  <phrase i="369" t="已恢复保存的设置"/>
+  <phrase i="368" t="选择设置..."/>
+  <phrase i="367" t="设置"/>
+  <phrase i="366" t="状态"/>
+  <phrase i="365" t="网络配置"/>
+  <phrase i="364" t="对比度"/>
+  <phrase i="363" t="细化搜索条件..."/>
+  <phrase i="362" t="无记录"/>
+  <phrase i="361" t="%d 个记录"/>
+  <phrase i="360" t="%s 搜索"/>
+  <phrase i="359" t="呼叫历史记录已清除!"/>
+  <phrase i="358" t="选择目录..."/>
+  <phrase i="357" t="目录 URL 无效!..."/>
+  <phrase i="356" t="目录"/>
+  <phrase i="355" t="已拨呼叫"/>
+  <phrase i="354" t="已接通话"/>
+  <phrase i="353" t="未接呼叫"/>
+  <phrase i="352" t="CM 关闭, 功能已禁用"/>
+  <phrase i="351" t="%s 为"/>
+  <phrase i="350" t="此处未激活该键"/>
+  <phrase i="349" t="正在请求..."/>
+  <phrase i="348" t="呼叫统计"/>
+  <phrase i="347" t="信息"/>
+  <phrase i="346" t="请选择一个按键以获取详细信息..."/>
+  <phrase i="345" t="按  键取消..."/>
+  <phrase i="344" t="所有字段已保存"/>
+  <phrase i="343" t="未保存任何更改"/>
+  <phrase i="342" t="%d 天, "/>
+  <phrase i="341" t="1 天, "/>
+  <phrase i="340" t="在 %s"/>
+  <phrase i="339" t="%s"/>
+  <phrase i="338" t="昨天"/>
+  <phrase i="337" t="今天"/>
+  <phrase i="336" t="星期六"/>
+  <phrase i="335" t="星期五"/>
+  <phrase i="334" t="星期四"/>
+  <phrase i="333" t="星期三"/>
+  <phrase i="332" t="星期二"/>
+  <phrase i="331" t="星期一"/>
+  <phrase i="330" t="星期日"/>
+  <phrase i="329" t="至 %s"/>
+  <phrase i="328" t="未知号码"/>
+  <phrase i="327" t="自 %s"/>
+  <phrase i="326" t="至 %s"/>
+  <phrase i="325" t="前转发话 %s"/>
+  <phrase i="324" t="外部呼叫"/>
+  <phrase i="323" t="远程使用"/>
+  <phrase i="322" t="%d 个新的未接呼叫 %c"/>
+  <phrase i="321" t="Rx Longs"/>
+  <phrase i="320" t="Rx Shorts"/>
+  <phrase i="319" t="Rx Broadcasts"/>
+  <phrase i="318" t="Rx Multicasts"/>
+  <phrase i="317" t="Rx Runt"/>
+  <phrase i="316" t="Rx Bad Preamble"/>
+  <phrase i="315" t="Rx CRC Errors"/>
+  <phrase i="314" t="Rx Frames"/>
+  <phrase i="313" t="Rx Long/CRC"/>
+  <phrase i="312" t="Rx Overruns"/>
+  <phrase i="311" t="Tx Deferred Abort"/>
+  <phrase i="310" t="Tx Collisions"/>
+  <phrase i="309" t="Tx Multicasts"/>
+  <phrase i="308" t="Tx Broadcasts"/>
+  <phrase i="307" t="Tx Frames"/>
+  <phrase i="306" t="Tx Excessive Collisions"/>
+  <phrase i="305" t="溢出中断"/>
+  <phrase i="304" t="bpdu Drop"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Tx multicast"/>
+  <phrase i="287" t="Tx broadcast"/>
+  <phrase i="286" t="Tx excessLength"/>
+  <phrase i="285" t="Tx fifoUnderrun"/>
+  <phrase i="284" t="Tx collisions"/>
+  <phrase i="283" t="Tx totalGoodPkt"/>
+  <phrase i="282" t="Tx lateCollision"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx longErr"/>
+  <phrase i="271" t="Rx longGood"/>
+  <phrase i="270" t="Rx shortGood"/>
+  <phrase i="269" t="Rx shortErr"/>
+  <phrase i="268" t="Rx unicast"/>
+  <phrase i="267" t="Rx broadcast"/>
+  <phrase i="266" t="Rx multicast"/>
+  <phrase i="265" t="Rx alignErr"/>
+  <phrase i="264" t="Rx crcErr"/>
+  <phrase i="263" t="总计八位字节数"/>
+  <phrase i="262" t="Rx totalPkt"/>
+  <phrase i="261" t="线路事件"/>
+  <phrase i="260" t="RTP 无效"/>
+  <phrase i="259" t="不在服务中"/>
+  <phrase i="258" t="未就绪"/>
+  <phrase i="257" t="破坏"/>
+  <phrase i="255" t="接收器开始时间"/>
+  <phrase i="254" t="接收器八位字节"/>
+  <phrase i="253" t="接收器信息包"/>
+  <phrase i="252" t="接收器报告时间"/>
+  <phrase i="251" t="接收器报告"/>
+  <phrase i="250" t="接收器工具"/>
+  <phrase i="249" t="接收器信号不稳定性"/>
+  <phrase i="248" t="接收器丢失的信息包"/>
+  <phrase i="247" t="发送器开始时间"/>
+  <phrase i="246" t="发送器报告时间"/>
+  <phrase i="245" t="发送器报告"/>
+  <phrase i="244" t="发送器工具"/>
+  <phrase i="243" t="发送器八位字节"/>
+  <phrase i="242" t="发送器信息包"/>
+  <phrase i="241" t="名称"/>
+  <phrase i="240" t="行状态"/>
+  <phrase i="239" t="开始时间"/>
+  <phrase i="238" t="Byes"/>
+  <phrase i="237" t="接收器连接"/>
+  <phrase i="236" t="发送器连接"/>
+  <phrase i="235" t="本地地址"/>
+  <phrase i="234" t="远程地址 "/>
+  <phrase i="233" t="域"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="固定 TFTP"/>
+  <phrase i="230" t="DHCP 已禁用"/>
+  <phrase i="229" t="空闲 URL 时间"/>
+  <phrase i="228" t="空闲 URL"/>
+  <phrase i="227" t="服务 URL"/>
+  <phrase i="226" t="消息 URL"/>
+  <phrase i="225" t="目录 URL"/>
+  <phrase i="224" t="信息 URL"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="管理 VLAN ID"/>
+  <phrase i="217" t="工作 VLAN ID"/>
+  <phrase i="216" t="DNS 服务器 5"/>
+  <phrase i="215" t="DNS 服务器 4"/>
+  <phrase i="214" t="DNS 服务器 3"/>
+  <phrase i="213" t="DNS 服务器 2"/>
+  <phrase i="212" t="DNS 服务器 1"/>
+  <phrase i="211" t="默认路由器 5"/>
+  <phrase i="210" t="默认路由器 4"/>
+  <phrase i="209" t="默认路由器 3"/>
+  <phrase i="208" t="默认路由器 2"/>
+  <phrase i="207" t="默认路由器 1"/>
+  <phrase i="206" t="TFTP 服务器 1"/>
+  <phrase i="205" t="子网掩码"/>
+  <phrase i="204" t="IP 地址"/>
+  <phrase i="203" t="域名"/>
+  <phrase i="202" t="主机名"/>
+  <phrase i="201" t="MAC 地址"/>
+  <phrase i="199" t="拒绝"/>
+  <phrase i="198" t="没有可以代答的线路"/>
+  <phrase i="197" t="外部转接受到限制"/>
+  <phrase i="196" t="没有可以代答的带宽"/>
+  <phrase i="195" t="没有可以代答的呼叫"/>
+  <phrase i="194" t="暂留插槽不可用"/>
+  <phrase i="193" t="注销寻线组"/>
+  <phrase i="192" t="HLog"/>
+  <phrase i="191" t="另组代答"/>
+  <phrase i="190" t="最长保留持续时间超时"/>
+  <phrase i="189" t="最长呼叫持续时间超时"/>
+  <phrase i="188" t="视频模式"/>
+  <phrase i="187" t="视频带宽不可用"/>
+  <phrase i="186" t="安全错误"/>
+  <phrase i="185" t="号码未配置"/>
+  <phrase i="184" t="MCID 成功"/>
+  <phrase i="183" t="无法加入呼叫"/>
+  <phrase i="182" t="无法完成转接"/>
+  <phrase i="181" t="介入"/>
+  <phrase i="180" t="转移"/>
+  <phrase i="179" t="会议表"/>
+  <phrase i="178" t="选择"/>
+  <phrase i="177" t="直接呼转"/>
+  <phrase i="176" t="MCID"/>
+  <phrase i="175" t="QRT"/>
+  <phrase i="174" t="线路拥挤稍候再试"/>
+  <phrase i="173" t="服务未激活"/>
+  <phrase i="172" t="呼叫暂留复原"/>
+  <phrase i="171" t="无可用的暂留号码"/>
+  <phrase i="170" t="不兼容的设置类型"/>
+  <phrase i="169" t="存在另一个插入"/>
+  <phrase i="168" t="设置插入失败"/>
+  <phrase i="167" t="插入"/>
+  <phrase i="166" t="网络拥挤, 正重新确定线路"/>
+  <phrase i="165" t="回叫"/>
+  <phrase i="164" t="全转"/>
+  <phrase i="163" t="免打扰"/>
+  <phrase i="162" t="转留言"/>
+  <phrase i="161" t="设监控"/>
+  <phrase i="160" t="截接"/>
+  <phrase i="159" t="重定向"/>
+  <phrase i="158" t="语音邮件"/>
+  <phrase i="157" t="RmLstC"/>
+  <phrase i="156" t="未知号码"/>
+  <phrase i="155" t="带宽不足"/>
+  <phrase i="154" t="私人"/>
+  <phrase i="153" t="暂留号码"/>
+  <phrase i="152" t="会议"/>
+  <phrase i="151" t="不匹配错误"/>
+  <phrase i="150" t="未知错误"/>
+  <phrase i="149" t="超过限制错误"/>
+  <phrase i="148" t="数据库错误"/>
+  <phrase i="147" t="数据库配置错误"/>
+  <phrase i="146" t="未获授权错误"/>
+  <phrase i="145" t="该键未激活"/>
+  <phrase i="144" t="超过最大用户数"/>
+  <phrase i="143" t="无参与者信息"/>
+  <phrase i="142" t="已进入会议"/>
+  <phrase i="141" t="会议参与者无效"/>
+  <phrase i="140" t="无法保留主控制"/>
+  <phrase i="139" t="无会议桥"/>
+  <phrase i="138" t="无法完成会议"/>
+  <phrase i="137" t="已前转至"/>
+  <phrase i="136" t="收到语音邮件"/>
+  <phrase i="135" t="临时分机失败"/>
+  <phrase i="134" t="仅基本分机"/>
+  <phrase i="133" t="呼叫暂留在"/>
+  <phrase i="132" t="输入号码"/>
+  <phrase i="131" t="远程使用"/>
+  <phrase i="130" t="呼叫已进行"/>
+  <phrase i="129" t="呼叫暂留"/>
+  <phrase i="128" t="呼叫转接"/>
+  <phrase i="127" t="呼叫等待"/>
+  <phrase i="126" t="线路在使用中"/>
+  <phrase i="125" t="忙"/>
+  <phrase i="124" t="已连接"/>
+  <phrase i="123" t="自 "/>
+  <phrase i="122" t="呼出"/>
+  <phrase i="121" t="挂机"/>
+  <phrase i="120" t="摘机"/>
+  <phrase i="119" t="当前选项"/>
+  <phrase i="118" t="组代答"/>
+  <phrase i="117" t="代答"/>
+  <phrase i="116" t="碰头会"/>
+  <phrase i="115" t="加入"/>
+  <phrase i="114" t="暂留"/>
+  <phrase i="113" t="会议"/>
+  <phrase i="112" t="信息"/>
+  <phrase i="111" t="应答"/>
+  <phrase i="110" t="恢复"/>
+  <phrase i="109" t="结束呼叫"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="CFwdNoAnswer"/>
+  <phrase i="106" t="CFwdBusy"/>
+  <phrase i="105" t="前转所有"/>
+  <phrase i="104" t="转接"/>
+  <phrase i="103" t="保留"/>
+  <phrase i="102" t="新呼叫"/>
+  <phrase i="101" t="重拨"/>
+  <phrase i="65" t="无法将呼叫发送到手机"/>
+  <phrase i="64" t="无法提取暂留的呼叫"/>
+  <phrase i="63" t="[碰头会] 不可用"/>
+  <phrase i="62" t="[会议] 不可用"/>
+  <phrase i="61" t="[接听] 不可用"/>
+  <phrase i="60" t="缩拨"/>
+  <phrase i="59" t="超出前转跃点数"/>
+  <phrase i="58" t="检测到前转循环"/>
+  <phrase i="57" t="已激活 [免打扰]"/>
+  <phrase i="56" t="免打扰"/>
+  <phrase i="55" t="使用 [线路] 或 [加入] 来完成"/>
+  <phrase i="54" t="寻线组"/>
+  <phrase i="53" t="质量报告工具"/>
+  <phrase i="52" t="会议列表"/>
+  <phrase i="51" t="结束呼叫"/>
+  <phrase i="50" t="视频"/>
+  <phrase i="49" t="其他代答"/>
+  <phrase i="48" t="删除最后一个参与者"/>
+  <phrase i="47" t="组代答"/>
+  <phrase i="46" t="恶意电话 ID"/>
+  <phrase i="45" t="前转所有"/>
+  <phrase i="44" t="密谈"/>
+  <phrase i="43" t="移动"/>
+  <phrase i="42" t="不活动的录音会话"/>
+  <phrase i="41" t="正在录音"/>
+  <phrase i="40" t="录音操作正在等待呼叫激活"/>
+  <phrase i="39" t="监控"/>
+  <phrase i="38" t="设备未授权"/>
+  <phrase i="37" t="无资源"/>
+  <phrase i="36" t="设置失败"/>
+  <phrase i="35" t="保留返回"/>
+  <phrase i="34" t="保留呼叫"/>
+  <phrase i="33" t="未就绪"/>
+  <phrase i="32" t="就绪"/>
+  <phrase i="31" t="加入寻线组"/>
+  <phrase i="30" t="队列中的呼叫"/>
+  <phrase i="29" t="搜索结果"/>
+  <phrase i="28" t="找不到记录"/>
+  <phrase i="27" t="记录 1 到"/>
+  <phrase i="26" t="共"/>
+  <phrase i="25" t="请输入个人识别码"/>
+  <phrase i="24" t="个人识别码不正确"/>
+  <phrase i="23" t="登录成功"/>
+  <phrase i="22" t="夜间服务已禁用"/>
+  <phrase i="21" t="夜间服务已激活"/>
+  <phrase i="20" t="夜间服务"/>
+  <phrase i="19" t="输入搜索条件"/>
+  <phrase i="18" t="本地服务"/>
+  <phrase i="17" t="选择一项服务"/>
+  <phrase i="16" t="转接目标正忙"/>
+  <phrase i="15" t="选择线路"/>
+  <phrase i="14" t="正在寻呼"/>
+  <phrase i="13" t="请终止呼叫"/>
+  <phrase i="12" t="等待复原"/>
+  <phrase i="11" t="已超出最大电话数"/>
+  <phrase i="10" t="CM 备用服务正在运行"/>
+  <phrase i="9" t="可以代答的呼叫"/>
+  <phrase i="8" t="输入客户码"/>
+  <phrase i="7" t="输入授权码"/>
+  <phrase i="6" t="漫游设备"/>
+  <phrase i="5" t="网内设备"/>
+  <phrase i="4" t="登录"/>
+  <phrase i="3" t="闪存"/>
+  <phrase i="2" t="帐户"/>
+</phrases>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Norwegian_Norway</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Ingen linje tilgjengelig for gruppeanrop"/>
+	<phrase i="197" t="Ikke tillatt med ekstern overføring"/>
+	<phrase i="196" t="Ingen båndbredde tilgjengelig for gruppeanrop"/>
+	<phrase i="195" t="Ingen samtale tilgjengelig for gruppeanrop"/>
+	<phrase i="194" t="Parkeringsspor ikke tilgjengelig"/>
+	<phrase i="193" t="Logget av søkegruppen"/>
+	<phrase i="192" t="SLogg"/>
+	<phrase i="191" t="A.GrAnr"/>
+	<phrase i="190" t="Tidsavbrudd - for lenge på vent"/>
+	<phrase i="189" t="Tidsavbrudd - for lang samtale"/>
+	<phrase i="188" t="VidMod"/>
+	<phrase i="187" t="Videobåndbredde ikke tilgj."/>
+	<phrase i="186" t="Sikkerhetsfeil"/>
+	<phrase i="185" t="Nummeret er ikke konfigurert"/>
+	<phrase i="184" t="Fant ID for useriøse samtaler"/>
+	<phrase i="183" t="Kan ikke delta i samtaler"/>
+	<phrase i="182" t="Kan ikke fullføre overføring"/>
+	<phrase i="181" t="Bryt inn"/>
+	<phrase i="180" t="TilTalep"/>
+	<phrase i="179" t="KonfList"/>
+	<phrase i="178" t="Velg"/>
+	<phrase i="177" t="SettOver"/>
+	<phrase i="176" t="MobbeID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Stor trafikk, prøv igjen senere"/>
+	<phrase i="173" t="Tjenesten er ikke aktiv"/>
+	<phrase i="172" t="Tilbakestill parkert samtale"/>
+	<phrase i="171" t="Ingen parkeringsnumre tilgj."/>
+	<phrase i="170" t="Ikke-kompatibel enhetstype"/>
+	<phrase i="169" t="En annen BrytInn eksisterer"/>
+	<phrase i="168" t="BrytInn feilet"/>
+	<phrase i="167" t="Bryt inn"/>
+	<phrase i="166" t="Nettverkskork, omruting"/>
+	<phrase i="165" t="TbkRing"/>
+	<phrase i="164" t="VidrAlle"/>
+	<phrase i="163" t="IkkeFor"/>
+	<phrase i="162" t="OverfTP"/>
+	<phrase i="161" t="OvervPå"/>
+	<phrase i="160" t="Ta over"/>
+	<phrase i="159" t="Omadr."/>
+	<phrase i="158" t="Talepost"/>
+	<phrase i="157" t="FjSistD"/>
+	<phrase i="156" t="Ukjent nummer"/>
+	<phrase i="155" t="Utilstrekkelig båndbredde"/>
+	<phrase i="154" t="Privat"/>
+	<phrase i="153" t="Parker nummer"/>
+	<phrase i="152" t="Konferanse"/>
+	<phrase i="151" t="Samsvarsfeil"/>
+	<phrase i="150" t="Ukjent feil"/>
+	<phrase i="149" t="Grensen er overskredet"/>
+	<phrase i="148" t="Databasefeil"/>
+	<phrase i="147" t="Feil ved DB-konfigurasjon"/>
+	<phrase i="146" t="Lisens mangler"/>
+	<phrase i="145" t="Tasten er ikke i bruk"/>
+	<phrase i="144" t="Overskrid maks. ant deltakere"/>
+	<phrase i="143" t="Ingen deltakerinformasjon"/>
+	<phrase i="142" t="Opptatt - i konferanse"/>
+	<phrase i="141" t="Ugyldig konferansedeltaker"/>
+	<phrase i="140" t="Primær kontroll ikke på vent"/>
+	<phrase i="139" t="Ingen konferansebro"/>
+	<phrase i="138" t="Kan ikke fullføre konferanse"/>
+	<phrase i="137" t="Viderekoblet til"/>
+	<phrase i="136" t="Du har talepost"/>
+	<phrase i="135" t="Midlertidig feil"/>
+	<phrase i="134" t="Kun primær"/>
+	<phrase i="133" t="Parker samtale ved"/>
+	<phrase i="132" t="Angi nummer"/>
+	<phrase i="131" t="I bruk eksternt"/>
+	<phrase i="130" t="Fortsett samtale"/>
+	<phrase i="129" t="Parker samtale"/>
+	<phrase i="128" t="Overfør samtale"/>
+	<phrase i="127" t="Samtale venter"/>
+	<phrase i="126" t="Linje i bruk"/>
+	<phrase i="125" t="Opptatt"/>
+	<phrase i="124" t="Tilkoblet"/>
+	<phrase i="123" t="Fra "/>
+	<phrase i="122" t="Ring ut"/>
+	<phrase i="121" t="Rør på"/>
+	<phrase i="120" t="Rør av"/>
+	<phrase i="119" t="Gjeldende valg"/>
+	<phrase i="118" t="Hent G."/>
+	<phrase i="117" t="Hent A."/>
+	<phrase i="116" t="Møterom"/>
+	<phrase i="115" t="Ta med"/>
+	<phrase i="114" t="Parker"/>
+	<phrase i="113" t="Konfrns"/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Svar"/>
+	<phrase i="110" t="HentAnr"/>
+	<phrase i="109" t="LeggPå"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="VidIkkeSvar"/>
+	<phrase i="106" t="VidOppt"/>
+	<phrase i="105" t="VidrAlle"/>
+	<phrase i="104" t="Overfør"/>
+	<phrase i="103" t="Vent"/>
+	<phrase i="102" t="Ring"/>
+	<phrase i="101" t="Gjenta"/>
+</phrases>

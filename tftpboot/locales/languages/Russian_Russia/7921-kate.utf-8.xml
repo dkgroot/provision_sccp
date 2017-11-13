@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selectLists>
+	<trkLocaleName>Russian_Russian_Federation</trkLocaleName>
+	<trkBaseClearcaseVersion>/main/3.3.release/2</trkBaseClearcaseVersion>
+	<trkTranslationVersion></trkTranslationVersion>
+	<selectList t="Alpha">
+		<list i="0" l="0 ,.&apos;&quot;|_~`ЪЫЬъыь"/>
+		<list i="1" l="1!@&lt;&gt;$%^&amp;ЁёЙй"/>
+		<list i="2" l="АБВABC2абвabc"/>
+		<list i="3" l="ГДЕDEF3гдеdef"/>
+		<list i="4" l="ЖЗИGHI4жзиghi"/>
+		<list i="5" l="КЛМJKL5клмjkl"/>
+		<list i="6" l="НОПMNO6нопmno"/>
+		<list i="7" l="РСPQRS7рсpqrs"/>
+		<list i="8" l="ТУФTUV8туфtuv"/>
+		<list i="9" l="ХЦWXYZ9хцwxyz"/>
+		<list i="10" l="*+-/=\:;ЧШЩчшщ"/>
+		<list i="11" l="#?()[]{}ЭЮЯэюя"/>
+	</selectList>
+	<selectList t="Upper">
+		<list i="0" l="+ ЪЫЬ"/>
+		<list i="1" l=".-_ ЙЁ"/>
+		<list i="2" l="АБВABC"/>
+		<list i="3" l="ГДЕDEF"/>
+		<list i="4" l="ЖЗИGHI"/>
+		<list i="5" l="КЛМJKL"/>
+		<list i="6" l="НОПMNO"/>
+		<list i="7" l="РСPQRS"/>
+		<list i="8" l="ТУФTUV"/>
+		<list i="9" l="ХЦWXYZ"/>
+		<list i="10" l="ЧШЩ"/>
+		<list i="11" l="ЭЮЯ"/>
+	</selectList>
+	<selectList t="Lower">
+		<list i="0" l="+ ъыь"/>
+		<list i="1" l=".-_ йё"/>
+		<list i="2" l="абвabc"/>
+		<list i="3" l="гдеdef"/>
+		<list i="4" l="жзиghi"/>
+		<list i="5" l="клмjkl"/>
+		<list i="6" l="нопmno"/>
+		<list i="7" l="рсpqrs"/>
+		<list i="8" l="туфtuv"/>
+		<list i="9" l="хцwxyz"/>
+		<list i="10" l="чшщ"/>
+		<list i="11" l="эюя"/>
+	</selectList>
+	<selectList t="Equation">
+		<list i="0" l="0"/>
+		<list i="1" l="1"/>
+		<list i="2" l="2"/>
+		<list i="3" l="3"/>
+		<list i="4" l="4"/>
+		<list i="5" l="5"/>
+		<list i="6" l="6"/>
+		<list i="7" l="7"/>
+		<list i="8" l="8"/>
+		<list i="9" l="9"/>
+		<list i="10" l="*/(."/>
+		<list i="11" l="+-)^"/>
+	</selectList>
+</selectLists>

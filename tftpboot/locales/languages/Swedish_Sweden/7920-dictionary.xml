@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Swedish_Sweden</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.0.1.release/2</trkBaseClearcaseVersion>
+<trkTranslationVersion>0</trkTranslationVersion>
+<phrase i="650" t="Autentisering"/>
+<phrase i="649" t="Konfiguration"/>
+<phrase i="648" t="Blockerat samtal"/>
+<phrase i="647" t="Ej blockerat samtal"/>
+<phrase i="646" t="RTP URI"/>
+<phrase i="645" t="Autom ringning avbr"/>
+<phrase i="644" t="      Hantera aktuellt samtal..."/>
+<phrase i="643" t="Radera alla"/>
+<phrase i="642" t="Lur av"/>
+<phrase i="641" t="Varningsvolym"/>
+<phrase i="640" t="CCM-inställningar"/>
+<phrase i="639" t="Endast pip"/>
+<phrase i="638" t="Ringinställningar"/>
+<phrase i="637" t="Återuppspelning varning"/>
+<phrase i="636" t="Byt ej vid svag signal"/>
+<phrase i="635" t="Static"/>
+<phrase i="634" t="Automatisk"/>
+<phrase i="633" t="Roamingalgoritm"/>
+<phrase i="632" t="UDI"/>
+<phrase i="631" t="Senaste drifttid"/>
+<phrase i="630" t="Seriell port"/>
+<phrase i="629" t="Auto 60 sek"/>
+<phrase i="628" t="Auto 30 sek"/>
+<phrase i="627" t="Auto 15 sek"/>
+<phrase i="626" t="Auto tangentlås"/>
+<phrase i="625" t="NLP aktivera/inaktivera"/>
+<phrase i="624" t="TystAv"/>
+<phrase i="623" t="TystPå"/>
+<phrase i="622" t="Headset"/>
+<phrase i="621" t="Högtalare"/>
+<phrase i="620" t="Ljud ut"/>
+<phrase i="619" t="Hög laser"/>
+<phrase i="618" t="IP"/>
+<phrase i="617" t="Ogiltigt användarnamn"/>
+<phrase i="616" t="Tomt användarnamn och lösenord"/>
+<phrase i="615" t="HTML-Content-Type"/>
+<phrase i="614" t="Internt serverfel"/>
+<phrase i="613" t="Ogiltig Content-Type"/>
+<phrase i="612" t="XML-tolkningsfel"/>
+<phrase i="611" t="Begäran måste autentiseras"/>
+<phrase i="610" t="Värden hittades inte"/>
+<phrase i="609" t="Begäran returnerade ett fel"/>
+<phrase i="608" t="Begäran avbröts"/>
+<phrase i="607" t="Max jitter"/>
+<phrase i="606" t="Genomsn. jitter"/>
+<phrase i="605" t="Bytes mott."/>
+<phrase i="604" t="Bytes sända"/>
+<phrase i="603" t="Pkts Lost"/>
+<phrase i="602" t="Pkts Rcvd"/>
+<phrase i="601" t="Pkts Sent"/>
+<phrase i="600" t="Hämta VQStats misslyckades"/>
+<phrase i="599" t="Ingen statistik"/>
+<phrase i="598" t="Conceal Avg"/>
+<phrase i="597" t="Conceal Max"/>
+<phrase i="596" t="Conceal Curr"/>
+<phrase i="595" t="MaxMos"/>
+<phrase i="594" t="MinMos"/>
+<phrase i="593" t="AvgMos"/>
+<phrase i="592" t="Mos"/>
+<phrase i="591" t="Call Ref"/>
+<phrase i="590" t="Samtalsstatistik"/>
+<phrase i="589" t="XML"/>
+<phrase i="588" t="Intern"/>
+<phrase i="587" t="Teckensnitt"/>
+<phrase i="586" t="Parkerat nr"/>
+<phrase i="585" t="Läge"/>
+<phrase i="584" t="Autentisering EAP-FAST PAC"/>
+<phrase i="583" t="Ingen täckning"/>
+<phrase i="582" t="Täckningsvarning"/>
+<phrase i="581" t="Parkerat nr"/>
+<phrase i="580" t="Uppdat"/>
+<phrase i="579" t="Avsluta"/>
+<phrase i="578" t="XML-objekt - "/> 
+<phrase i="577" t="XML-objektet stöds inte"/> 
+<phrase i="576" t="Begäran misslyckades"/>
+<phrase i="575" t="till %s"/>
+<phrase i="574" t=" av %s"/>
+<phrase i="573" t="Från %s"/>
+<phrase i="572" t="Till %s"/>
+<phrase i="571" t="Tjänsten CM Fallback i drift"/>
+<phrase i="570" t="högt ljud"/>
+<phrase i="569" t="(C)"/>
+<phrase i="568" t="SNABBTELEFON"/>
+<phrase i="567" t="      Begär"/>
+<phrase i="566" t="* : inget svar"/>
+<phrase i="565" t="Vdb"/>          
+<phrase i="564" t="(Okänt nr)"/>
+<phrase i="563" t="Vdb "/>
+<phrase i="562" t="Till "/>
+<phrase i="561" t="Från "/>
+<phrase i="560" t="Lör"/>
+<phrase i="559" t="Fre"/>
+<phrase i="558" t="Tor"/>
+<phrase i="557" t="Ons"/>
+<phrase i="556" t="Tis"/>           
+<phrase i="555" t="Mån"/>
+<phrase i="554" t="Sön"/>
+<phrase i="553" t="Från okänt nummer"/>
+<phrase i="552" t="Externt samtal"/>
+<phrase i="551" t="Privatsamtal"/> 
+<phrase i="550" t="Okänt nr"/>
+<phrase i="549" t="Ange användarens lösenord"/>
+<phrase i="548" t="Information"/>           
+<phrase i="547" t="*BEFATTNING*"/>
+<phrase i="546" t="(CM-kommando)"/>
+<phrase i="545" t="(Mgt-kommando)"/>
+<phrase i="544" t="(Uppdatering OK)"/>
+<phrase i="543" t="MP pågår..."/>
+<phrase i="542" t="HTTP-begäran avbröts"/> 
+<phrase i="541" t="Misslyckades!"/> 
+<phrase i="540" t="Spill!"/> 
+<phrase i="539" t="Buffert"/> 
+<phrase i="538" t="Tolkar XML"/> 
+<phrase i="537" t="Mottagningsfel!"/> 
+<phrase i="536" t="EAP-fel, vänta i 1 minut"/> 
+<phrase i="535" t="är fel"/>                      
+<phrase i="534" t="Inaktivera WEP"/> 
+<phrase i="533" t="Dubblett!!"/> 
+<phrase i="532" t="Får inte vara tom"/> 
+<phrase i="531" t="Nätverk upptaget"/> 
+<phrase i="530" t="USB ej aktiverat"/> 
+<phrase i="529" t="Ogiltig IP!"/> 
+<phrase i="528" t="Sändn. lyckades!"/> 
+<phrase i="527" t="Nyckeln är låst!"/> 
+<phrase i="526" t="Registreringen avvisades"/> 
+<phrase i="525" t="Ingen tjänst"/>                      
+<phrase i="524" t="Nätverk upptaget"/> 
+<phrase i="523" t="CallManager-anslutningsfel"/> 
+<phrase i="522" t="TFTP-fel"/> 
+<phrase i="521" t="TFTP svarar inte"/> 
+<phrase i="520" t="Ingen TFTP-serv."/> 
+<phrase i="519" t="IP-konfigurationsfel"/> 
+<phrase i="518" t="Missat samtal"/> 
+<phrase i="517" t="Nyckeln först!"/> 
+<phrase i="516" t="Aktivera WEP"/> 
+<phrase i="515" t="Du har ett röstmeddelande"/>                      
+<phrase i="514" t="SSID krävs"/> 
+<phrase i="513" t="Inget nätverk"/> 
+<phrase i="512" t="Hämtar laddnings-ID"/> 
+<phrase i="511" t="Hittade inget AP"/> 
+<phrase i="510" t="Hittade ingen CallManager"/> 
+<phrase i="509" t="Svag signal identifierad"/> 
+<phrase i="508" t="under samtal"/> 
+<phrase i="507" t="Funktion inaktiv"/> 
+<phrase i="506" t="IP-adress"/> 
+<phrase i="505" t="Dubblett"/> 
+<phrase i="504" t="Reg. till CallManager"/> 
+<phrase i="503" t="Verifiering OK"/> 
+<phrase i="502" t="Association OK"/> 
+<phrase i="501" t="CallManager fungerar inte"/>
+<phrase i="500" t="Välj en ton"/> 
+<phrase i="499" t="Ange telefon-lösenordet"/> 
+<phrase i="498" t="Klar"/> 
+<phrase i="497" t="Laddar"/> 
+<phrase i="496" t="Batteri"/> 
+<phrase i="495" t="Välj en symbol"/> 
+<phrase i="494" t="DHCP inaktiverad"/>                       
+<phrase i="493" t="DHCP aktiverad"/> 
+<phrase i="492" t="Inte associerad"/> 
+<phrase i="491" t="Utanför intervall"/> 
+<phrase i="490" t="Inställningsfel!"/> 
+<phrase i="489" t="Stoppa"/> 
+<phrase i="488" t="Ange IP för Traceroute"/> 
+<phrase i="487" t="Serverfel!"/> 
+<phrase i="486" t="Ingen ringfil!"/> 
+<phrase i="485" t="Välj snabbval för"/> 
+<phrase i="484" t="Ogiltigt värde!"/>                      
+<phrase i="483" t="Standard?"/> 
+<phrase i="482" t="Återställ till"/> 
+<phrase i="481" t="Vänta"/> 
+<phrase i="480" t="Data återställda"/> 
+<phrase i="479" t="Nytt"/> 
+<phrase i="478" t="Minnet är fullt!"/> 
+<phrase i="477" t="Ta bort objekt?"/> 
+<phrase i="476" t="Obligatoriskt"/> 
+<phrase i="475" t="Telefonnummer:"/> 
+<phrase i="474" t="Objekt sparat..."/>                       
+<phrase i="473" t="Lösenordsfel"/> 
+<phrase i="472" t="Ange EAP-användarnamn"/> 
+<phrase i="471" t="Ange EAP-lösenord"/> 
+<phrase i="470" t="Linjen upptagen"/> 
+<phrase i="469" t="Vibration av"/> 
+<phrase i="468" t="Vibration på"/> 
+<phrase i="467" t="Tangentlås av?"/> 
+<phrase i="466" t="Tangentlås på"/> 
+<phrase i="465" t="Batteriet är nästan slut"/> 
+<phrase i="464" t="CallManager-registr.fel"/>                       
+<phrase i="463" t="CallManager-anslutn.fel"/> 
+<phrase i="462" t="Kunde inte uppd. firmware"/> 
+<phrase i="461" t="Uppdaterar firmware"/> 
+<phrase i="460" t="DHCP-begäran misslyckades"/> 
+<phrase i="459" t="Kunde inte verifiera EAP"/> 
+<phrase i="458" t="EAP-verifiering OK"/> 
+<phrase i="457" t="Kunde inte verifiera"/> 
+<phrase i="456" t="Kunde inte associera"/> 
+<phrase i="455" t="Ansluter till CallManager"/> 
+<phrase i="454" t="Ansluter till TFTP"/>                       
+<phrase i="453" t="Hämtar konfigurationsfil"/> 
+<phrase i="452" t="IP-nätverkskonfig.fel"/> 
+<phrase i="451" t="Konfigurerar IP-nätverk"/> 
+<phrase i="450" t="Verifierar EAP"/> 
+<phrase i="449" t="Associerar med AP"/> 
+<phrase i="448" t="Verifierar med AP"/> 
+<phrase i="447" t="Stänger av"/> 
+<phrase i="446" t="Startar"/> 
+<phrase i="445" t="Förfr"/> 
+<phrase i="444" t="Ring ut"/>                      
+<phrase i="443" t="Kopplad"/> 
+<phrase i="442" t="Från"/> 
+<phrase i="441" t="Ange nummer att ringa"/> 
+<phrase i="440" t="Aktuella val"/> 
+<phrase i="439" t="Tjänster"/>
+<phrase i="438" t="Snabb"/>           
+<phrase i="437" t="Tjänster"/>
+<phrase i="436" t="Använd"/>
+<phrase i="435" t="Snabbval"/>
+<phrase i="434" t="Uppdatera"/>
+<phrase i="433" t="AvslSam"/>
+<phrase i="432" t="Red uppr"/>
+<phrase i="431" t="OK"/>
+<phrase i="430" t="Återst."/>
+<phrase i="429" t="Spela"/>
+<phrase i="428" t="Avbryt"/>           
+<phrase i="427" t="Redigera"/>
+<phrase i="426" t="Radera"/>
+<phrase i="425" t="Lägg till"/>
+<phrase i="424" t="Info"/>
+<phrase i="423" t="Lägg på"/>
+<phrase i="422" t="Volym"/>
+<phrase i="421" t="Tyst"/>
+<phrase i="420" t="Svara"/>
+<phrase i="419" t="RedNr"/>
+<phrase i="418" t="Bakåt"/>
+<phrase i="417" t="Välj"/>
+<phrase i="416" t="Rensa"/> 
+<phrase i="415" t="Spara"/> 
+<phrase i="414" t="Tfnbok"/>                       
+<phrase i="413" t="Meny"/> 
+<phrase i="412" t="Passiv URL"/> 
+<phrase i="411" t="SSID 4"/> 
+<phrase i="410" t="SSID 3"/> 
+<phrase i="409" t="SSID 2"/> 
+<phrase i="408" t="SSID 1"/> 
+<phrase i="407" t="Återställ telef."/>
+<phrase i="406" t="Hopp: "/>
+<phrase i="405" t="Traceroute"/> 
+<phrase i="404" t="CDP TX-intervall"/> 
+<phrase i="403" t="CDP TTL"/> 
+<phrase i="402" t="Aktivera/inaktiv. CDP TX"/> 
+<phrase i="401" t="Inte tillgänglig"/>
+<phrase i="400" t="Aktuell TX-effekt"/> 
+<phrase i="399" t="LEAP"/>
+<phrase i="398" t="EAP-FAST"/>
+<phrase i="397" t="EAP-läge"/>
+<phrase i="396" t="TKIP"/> 
+<phrase i="395" t="WEP 128"/> 
+<phrase i="394" t="WEP 40"/> 
+<phrase i="393" t="Multicast"/> 
+<phrase i="392" t="Unicast"/> 
+<phrase i="391" t="Använd kryptering"/> 
+<phrase i="390" t="CCKM"/> 
+<phrase i="389" t="WPA"/> 
+<phrase i="388" t="Använd nyckelhantering"/> 
+<phrase i="387" t="Aktuell nätverksprofil"/> 
+<phrase i="386" t="Aktuell användarprofil"/>                       
+<phrase i="385" t="Infrastrukturläge"/> 
+<phrase i="384" t="Nätverkstyp"/> 
+<phrase i="383" t="Associerat AP SSID"/> 
+<phrase i="382" t="Associerat AP MAC"/> 
+<phrase i="381" t="Tröskel för ED-läge"/> 
+<phrase i="380" t="CS1 eller SQ1"/> 
+<phrase i="379" t="ED och (CS1 eller SQ1)"/> 
+<phrase i="378" t="ED-läge"/> 
+<phrase i="377" t="CCA-läge"/> 
+<phrase i="376" t="CCA-inställning"/>                       
+<phrase i="375" t="I_kanal-lista"/> 
+<phrase i="374" t="O_kanal-lista"/> 
+<phrase i="373" t="N_kanal-lista"/> 
+<phrase i="372" t="A_kanal-lista"/> 
+<phrase i="371" t="Vidarebefordra"/> 
+<phrase i="370" t="Passiv avsökningstid"/> 
+<phrase i="369" t="Aktiv avsökningstid"/> 
+<phrase i="368" t="I_kanal-avsökn.frekv."/> 
+<phrase i="367" t="O_kanal-avsökn.frekv."/> 
+<phrase i="366" t="N_kanal-avsökn.frekv."/> 
+<phrase i="365" t="A_kanal-avsökn.frekv."/> 
+<phrase i="364" t="O_kanal-RSSI-tröskel"/> 
+<phrase i="363" t="QBSS Diff-tröskel"/> 
+<phrase i="362" t="RSSI Diff-tröskel"/> 
+<phrase i="361" t="QBSS-tröskel"/> 
+<phrase i="360" t="RSSI-tröskel"/> 
+<phrase i="359" t="Kanalförbättring"/> 
+<phrase i="358" t="Sökning"/> 
+<phrase i="357" t="Central"/> 
+<phrase i="356" t="Inst. för trådlöst"/> 
+<phrase i="355" t="Tom"/>
+<phrase i="354" t="CU"/> 
+<phrase i="353" t="MAC"/> 
+<phrase i="352" t="RSSI"/>
+<phrase i="351" t="Kanal"/>           
+<phrase i="350" t="Platsundersökning"/> 
+<phrase i="349" t="MAC-adress"/> 
+<phrase i="348" t="CallManager %d:"/>
+<phrase i="347" t="ingen"/>
+<phrase i="346" t="Sekundär DNS:"/>
+<phrase i="345" t="Primär DNS:"/>
+<phrase i="344" t="Primär TFTP:"/>
+<phrase i="343" t="Primär gateway:"/>
+<phrase i="342" t="Värdnamn:"/>
+<phrase i="341" t="Nätmask:"/>         
+<phrase i="340" t="IP-adress:"/>
+<phrase i="339" t="DHCP-server:"/>
+<phrase i="338" t=" Nej"/>
+<phrase i="337" t=" JA"/>
+<phrase i="336" t="DHCP aktiverad:"/>
+<phrase i="335" t="Aktuell konfiguration"/> 
+<phrase i="334" t="Pgmstyrd knapp från CM"/>            
+<phrase i="333" t="Ring"/> 
+<phrase i="332" t="Passiv"/> 
+<phrase i="331" t="Inst. för pgmstyrd knapp"/> 
+<phrase i="330" t="Till TFTP via WLAN"/> 
+<phrase i="329" t="Till TFTP via USB"/> 
+<phrase i="328" t="Telefonlogg"/> 
+<phrase i="327" t="Aktivera/inaktivera WDog"/> 
+<phrase i="326" t="Energisparläge"/> 
+<phrase i="325" t="Standardinställningar"/> 
+<phrase i="324" t="Aktivera/inaktivera USB"/> 
+<phrase i="323" t="På/av"/> 
+<phrase i="322" t="Telefonlås"/> 
+<phrase i="321" t="Bakgrundsljus"/> 
+<phrase i="320" t="Välkomstmeddelande"/> 
+<phrase i="319" t="Hälsningsmeddelande"/> 
+<phrase i="318" t="Swedish"/> 
+<phrase i="317" t="Språk"/> 
+<phrase i="316" t="Väntar"/> 
+<phrase i="315" t="Hämta ringsignal"/> 
+<phrase i="314" t="Chirp 2"/> 
+<phrase i="313" t="Chirp 1"/> 
+<phrase i="312" t="Standardringsignal"/> 
+<phrase i="311" t="Välj ringsignal"/> 
+<phrase i="310" t="Ringsignaler"/> 
+<phrase i="309" t="Domän"/> 
+<phrase i="308" t="Maskinvaruinfo"/> 
+<phrase i="307" t="Bsp Load ID"/> 
+<phrase i="306" t="Bootladdnings-ID"/> 
+<phrase i="305" t="Firmware-version"/> 
+<phrase i="304" t="Firmware-info"/> 
+<phrase i="303" t="Retry Cnt.: "/> 
+<phrase i="302" t="Ack Failed: "/> 
+<phrase i="301" t="Tx Failed: "/>
+<phrase i="300" t="Bcast Rx: "/> 
+<phrase i="299" t="Aged Pkts: "/> 
+<phrase i="298" t="Rx Pkts: "/> 
+<phrase i="297" t="Tx Pkts: "/> 
+<phrase i="296" t="Up Time: "/> 
+<phrase i="295" t="Nätverksstatistik"/> 
+<phrase i="294" t="Aktuell konfig.fil"/> 
+<phrase i="293" t="Telefonstatus"/> 
+<phrase i="292" t="Ändra"/> 
+<phrase i="291" t="Ändra profilnamn"/> 
+<phrase i="290" t="100 mW"/> 
+<phrase i="289" t="50 mW"/> 
+<phrase i="288" t="20 mW"/> 
+<phrase i="287" t="5 mW"/> 
+<phrase i="286" t="1 mW"/> 
+<phrase i="285" t="Överföringseffekt"/> 
+<phrase i="284" t="11 MB"/> 
+<phrase i="283" t="5,5 MB"/> 
+<phrase i="282" t="2 MB"/> 
+<phrase i="281" t="1 MB"/>
+<phrase i="280" t="Automatisk"/> 
+<phrase i="279" t="Max datahastighet"/> 
+<phrase i="278" t="128 bitar"/> 
+<phrase i="277" t="40 bitar"/> 
+<phrase i="276" t="Ingen"/> 
+<phrase i="275" t="WEP-nyckelinställningar"/> 
+<phrase i="274" t="WEP-nyckel 4"/> 
+<phrase i="273" t="WEP-nyckel 3"/> 
+<phrase i="272" t="WEP-nyckel 2"/> 
+<phrase i="271" t="WEP-nyckel 1"/> 
+<phrase i="270" t="Kryptering"/> 
+<phrase i="269" t="ASCII"/> 
+<phrase i="268" t="Hexadecimal"/> 
+<phrase i="267" t="I förv. delad WPA-nyckel"/> 
+<phrase i="266" t="Frågeläge"/> 
+<phrase i="265" t="Lösenord"/> 
+<phrase i="264" t="Användarnamn"/> 
+<phrase i="263" t="AKM"/> 
+<phrase i="262" t="EAP"/>
+<phrase i="261" t="Delad nyckel"/> 
+<phrase i="260" t="Öppna"/> 
+<phrase i="259" t="Verifiering"/> 
+<phrase i="258" t="Ange"/> 
+<phrase i="257" t="Valfri"/> 
+<phrase i="256" t="SSID"/> 
+<phrase i="255" t="802.11b-konfig."/> 
+<phrase i="254" t="Använd statisk"/> 
+<phrase i="253" t="Använd DHCP"/> 
+<phrase i="252" t="TFTP-alternativ"/> 
+<phrase i="251" t="Sekundär DNS-server"/> 
+<phrase i="250" t="Primär DNS-server"/> 
+<phrase i="249" t="Primär TFTP-server"/> 
+<phrase i="248" t="Primär gateway"/> 
+<phrase i="247" t="Nätmask"/> 
+<phrase i="246" t="IP-adress"/> 
+<phrase i="245" t="Statiska inställningar"/> 
+<phrase i="244" t="Inaktivera"/> 
+<phrase i="243" t="Aktivera"/> 
+<phrase i="242" t="Aktivera/inaktivera DHCP"/> 
+<phrase i="241" t="Använd ändring"/> 
+<phrase i="240" t="Auto"/> 
+<phrase i="239" t="Nätverksprofil"/> 
+<phrase i="238" t="Vibration"/> 
+<phrase i="237" t="Ton"/> 
+<phrase i="236" t="Av"/> 
+<phrase i="235" t="På"/> 
+<phrase i="234" t="Varningsformat"/> 
+<phrase i="233" t="Knappsatstoner"/> 
+<phrase i="232" t="Vibr.varning om samtal"/> 
+<phrase i="231" t="Varning om ink. samtal"/> 
+<phrase i="230" t="Signalvolym"/> 
+<phrase i="229" t="Högtalarvolym"/> 
+<phrase i="228" t="Aktivera"/> 
+<phrase i="227" t="Utomhus"/> 
+<phrase i="226" t="Möte"/> 
+<phrase i="225" t="Tyst"/> 
+<phrase i="224" t="Normal"/> 
+<phrase i="223" t="Användarprofil"/>
+<phrase i="222" t="Radera samtalshistorik"/> 
+<phrase i="221" t="Ringda samtal"/> 
+<phrase i="220" t="Mottagna samtal"/> 
+<phrase i="219" t="Missade samtal"/> 
+<phrase i="218" t="Röstbrevlåda"/> 
+<phrase i="217" t="Företagskatalog"/> 
+<phrase i="216" t="E-postadress"/> 
+<phrase i="215" t="Mobiltelefonnummer"/> 
+<phrase i="214" t="Hemtelefonnummer"/> 
+<phrase i="213" t="Arbetsnummer"/> 
+<phrase i="212" t="Namn"/> 
+<phrase i="211" t="Snabbval"/> 
+<phrase i="210" t="Lägg till"/> 
+<phrase i="209" t="Namn"/> 
+<phrase i="208" t="Telefonbok"/> 
+<phrase i="207" t="Nätverkskonfig."/>
+<phrase i="206" t="Telefoninställn."/> 
+<phrase i="205" t="Tjänster"/> 
+<phrase i="204" t="Profiler"/> 
+<phrase i="203" t="Samtalshistorik"/> 
+<phrase i="202" t="Meddelanden"/> 
+<phrase i="201" t="Katalog"/> 
+</phrases>

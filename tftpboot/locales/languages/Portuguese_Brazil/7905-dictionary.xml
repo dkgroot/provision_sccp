@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Portuguese_Brazil</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <phrase i="1055" t="Iniciar sessão"/>
+  <phrase i="1054" t="Piscar"/>
+  <phrase i="1053" t="Acct"/>
+  <phrase i="1052" t="Deseja restaurar todos os padrões"/>
+  <phrase i="1051" t="do sistema?"/>
+  <phrase i="1050" t="Serviços de diretório"/>
+  <phrase i="1049" t="Serviços XML"/>
+  <phrase i="1048" t="Conectando-se ao servidor"/>
+  <phrase i="1047" t="A ligação falhou"/>
+  <phrase i="1046" t="Pretende reiniciar o telefone?"/>
+  <phrase i="1045" t="MENU"/>
+  <phrase i="1044" t="Idioma"/>
+  <phrase i="1043" t="Domínio alternativo"/>
+  <phrase i="1042" t="DNS alternativo"/>
+  <phrase i="1041" t="Valor atual"/>     
+  <phrase i="1040" t="Novo valor"/>   
+  <phrase i="1039" t="Router padrão"/>
+  <phrase i="1038" t="VLAN ativada"/>
+  <phrase i="1037" t="CDP ativado"/>
+  <phrase i="1036" t="Serviços"/>
+  <phrase i="1035" t="Discagem rápida"/>
+  <phrase i="1034" t="Introduzir servidor"/>
+  <phrase i="1033" t="Estático"/>
+  <phrase i="1032" t="Modo de registro"/>     
+  <phrase i="1031" t="Modo"/>   
+  <phrase i="1030" t="Aplicações antigas"/>
+  <phrase i="1029" t="Atualização de firmware"/>   
+  <phrase i="1028" t="Menu de contraste"/>
+  <phrase i="1027" t="Alterar senha admin."/>  
+  <phrase i="1026" t="Não disponível"/>
+  <phrase i="1025" t="Exemplo"/>     
+  <phrase i="1024" t="Atualizar"/>   
+  <phrase i="1023" t="Introduzir nova senha"/>
+  <phrase i="1022" t="Mensagens"/>
+  <phrase i="1021" t="Defin."/>     
+  <phrase i="1020" t="Diretórios"/>   
+  <phrase i="1019" t="Senha errada"/>  
+  <phrase i="1018" t="Introduzir senha admin."/> 
+  <phrase i="1017" t="Valor de entrada inválido"/> 
+  <phrase i="1016" t="DISCAGEM RÁPIDA"/>   
+  <phrase i="1015" t="Ethernet desligada"/>     
+  <phrase i="1014" t="Configurar através de TFTP"/>   
+  <phrase i="1013" t="Configurar IP através de DHCP"/>
+  <phrase i="1012" t="Configurar definição VLAN"/>   
+  <phrase i="1011" t="Número não disponível"/> 
+  <phrase i="1010" t="Não atribuído"/> 
+  <phrase i="1009" t="Volume do toque"/> 
+  <phrase i="1008" t="Volume do monofone"/> 
+  <phrase i="1007" t="Volume do alto-falante"/> 
+  <phrase i="1006" t="Repetir"/> 
+  <phrase i="1005" t="Intrdz."/> 
+  <phrase i="1004" t="Alpha"/> 
+  <phrase i="1003" t="MonDslg"/>
+  <phrase i="1002" t="Monitor"/>
+  <phrase i="1001" t="Número"/> 
+  <phrase i="1000" t="Mensagem"/> 
+  <phrase i="715" t="Inativa"/>
+  <phrase i="714" t="Operação cancelada"/>
+  <phrase i="713" t="TFTP não autorizado: %s"/>
+  <phrase i="712" t="Apagar"/>
+  <phrase i="711" t="Encriptado"/>
+  <phrase i="710" t="Autenticado"/>
+  <phrase i="709" t="Não Seguro"/>
+  <phrase i="708" t="Erro TLS para "/>
+  <phrase i="707" t="Acesso à Web ativado"/>
+  <phrase i="706" t="Modo segurança dispositivo"/>
+  <phrase i="704" t="Entrada inválida ou s/info."/>
+  <phrase i="703" t="Falha na geração de chaves"/>
+  <phrase i="701" t="Falha"/>
+  <phrase i="700" t="Limite de tempo esgotado"/>
+  <phrase i="699" t="Operação bem-sucedida"/>
+  <phrase i="697" t="Conectando..."/>
+  <phrase i="690" t="DSCP para serviços"/>
+  <phrase i="689" t="DSCP para configuração"/>
+  <phrase i="688" t="DSCP para controle chamada"/>
+  <phrase i="683" t="VLAN de voz ativada"/>
+  <phrase i="682" t="GARP ativado"/>
+  <phrase i="678" t="Por %s"/>
+  <phrase i="677" t="Desviado"/>
+  <phrase i="676" t="DiscAbr"/>
+  <phrase i="675" t="Solicitando status URL serviço"/>
+  <phrase i="674" t="Solicitando stat. tecla função"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d chamadas não atendidas"/>
+  <phrase i="670" t="Toque padrão"/>
+  <phrase i="669" t="Selecionar linha..."/>
+  <phrase i="668" t="Editar discagem"/>  
+  <phrase i="667" t="Telefone-Cancelar"/>
+  <phrase i="666" t="Versão localização rede"/>
+  <phrase i="665" t="Versão localização usuário"/>
+  <phrase i="664" t="Pedido TFTP cancelado"/>
+  <phrase i="663" t="Dhcp desativado"/>
+  <phrase i="662" t="Endereço IP necessário"/> 
+  <phrase i="661" t="Estado "/>
+  <phrase i="660" t="Padrão"/>
+  <phrase i="659" t="Mensagem em espera"/>
+  <phrase i="658" t="Modo somente monofone"/>
+  <phrase i="657" t="Número do modelo"/>
+  <phrase i="656" t="Exibir info. telefone"/>
+  <phrase i="655" t="Informações do telefone"/>
+  <phrase i="654" t="Estado do link "/>
+  <phrase i="644" t="Informações sobre o hardware"/>
+  <phrase i="643" t="Versão TFTP"/>
+  <phrase i="642" t="Informações sobre a versão"/>
+  <phrase i="641" t="Inativo"/>
+  <phrase i="640" t="Não suportado"/>
+  <phrase i="639" t="Erro ao atualizar localização"/>
+  <phrase i="638" t="Aguard. resp. %d estado %s"/>
+  <phrase i="637" t="Aguardando %s de %s"/>
+  <phrase i="636" t="Servidor BOOTP"/>
+  <phrase i="635" t="Servidor DHCP"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="Revisão C3PO"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Número de série"/>
+  <phrase i="626" t="Revisão do hardware"/>
+  <phrase i="625" t="Firmware de inicialização"/>
+  <phrase i="624" t="Firmware de aplicação"/>
+  <phrase i="623" t="Número do telefone"/>
+  <phrase i="610" t="mais"/>
+  <phrase i="609" t="Selec."/>
+  <phrase i="608" t="Sair"/>
+  <phrase i="607" t="-"/>
+  <phrase i="606" t="+"/>
+  <phrase i="605" t="Cancelar"/>
+  <phrase i="604" t="Editar"/>
+  <phrase i="603" t="Não"/>
+  <phrase i="602" t="Sim"/>
+  <phrase i="601" t="Tocar"/>
+  <phrase i="600" t="Discar"/>
+  <phrase i="599" t="EditDisc"/>
+  <phrase i="598" t="Salvar"/>
+  <phrase i="597" t="Restaurar"/>
+  <phrase i="596" t="Excluir"/>
+  <phrase i="595" t="Fábrica"/>
+  <phrase i="594" t="OK"/>
+  <phrase i="593" t="Validar"/>
+  <phrase i="592" t="Buscar"/>
+  <phrase i="591" t="Próximo"/>
+  <phrase i="590" t="Atual."/>
+  <phrase i="589" t="Limpar"/>
+  <phrase i="588" t="Enviar"/>
+  <phrase i="587" t="Tom"/>
+  <phrase i="586" t="Localização da rede"/>
+  <phrase i="585" t="Localização do usuário"/>
+  <phrase i="584" t="Kate File"/>
+  <phrase i="583" t="Arquivo de tons"/>
+  <phrase i="582" t="Campainha ocupada!"/>
+  <phrase i="581" t="Servidor TFTP 2"/>
+  <phrase i="578" t="Config. porta do switch"/>
+  <phrase i="577" t="Config. porta do computador"/>
+  <phrase i="576" t="Porta PC desativ."/>
+  <phrase i="575" t="Erro"/>
+  <phrase i="574" t="Argumento inválido"/>
+  <phrase i="573" t="Telefone base"/>
+  <phrase i="571" t="MENU DE CONTRASTE"/>
+  <phrase i="570" t="Selec. contraste p/ajuste"/>
+  <phrase i="569" t="Correio de voz"/>
+  <phrase i="568" t="MENSAGENS"/>
+  <phrase i="555" t="CM-ICMP-não alcançável"/>
+  <phrase i="554" t="Selecionar uma chamada..."/>
+  <phrase i="553" t="URL do servidor proxy"/>
+  <phrase i="552" t="URL de autenticação"/>
+  <phrase i="551" t="Discagem automática cancelada!"/>
+  <phrase i="550" t="Sidecar Task"/>
+  <phrase i="547" t="Erro de arquivo HTTP"/>
+  <phrase i="546" t="Erro XML [4]: Erro de análise"/>
+  <phrase i="544" t="Último="/>
+  <phrase i="543" t="Carregamento rejeitado HC"/>
+  <phrase i="542" t="Tel-Reg-Rej"/>
+  <phrase i="541" t="Reset-Restart"/>
+  <phrase i="540" t="Reset-Reset"/>
+  <phrase i="539" t="Tel-Re-IP"/>
+  <phrase i="538" t="Tel-Teclado"/>
+  <phrase i="537" t="Phone-Diag."/>
+  <phrase i="536" t="Recuperação de falhas"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-aborted-TCP"/>
+  <phrase i="532" t="CM-reset-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="526" t="De "/>
+  <phrase i="525" t="Sem entradas"/>
+  <phrase i="524" t="Introduzir ID us./senha"/>
+  <phrase i="523" t="Senha"/>
+  <phrase i="522" t="Nome do usuário"/>
+  <phrase i="521" t="Selecionar serviço..."/>
+  <phrase i="520" t="Processar a chamada atual..."/>
+  <phrase i="519" t="Erro de tamanho de TFTP"/>
+  <phrase i="518" t="Arquivo de expressões"/>
+  <phrase i="517" t="Arquivo Glyph"/>
+  <phrase i="516" t="%s indisponíveis"/>
+  <phrase i="515" t="%s inválidos"/>
+  <phrase i="514" t="Registro %d"/>
+  <phrase i="513" t="Acesso"/>
+  <phrase i="511" t="Telefone"/>
+  <phrase i="510" t="Rede"/>
+  <phrase i="509" t="Sequência %d"/>
+  <phrase i="508" t="Estatísticas transm. em seq."/>
+  <phrase i="507" t="Registros de dispositivo"/>
+  <phrase i="506" t="Porta %d"/>
+  <phrase i="505" t="Ethernet"/>
+  <phrase i="504" t="Informações sobre dispositivo"/>
+  <phrase i="503" t="Atraso de desvio"/>
+  <phrase i="502" t="Apagar configuração"/>
+  <phrase i="501" t="TFTP Alternativo"/>
+  <phrase i="500" t="Endereço DHCP liberado"/>
+  <phrase i="499" t="DHCP ativado"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="Versão"/>
+  <phrase i="493" t="Voltar"/>
+  <phrase i="492" t=" LIG."/>
+  <phrase i="491" t=" SIM"/>
+  <phrase i="490" t=" DESLIG."/>
+  <phrase i="489" t=" NÃO"/>
+  <phrase i="488" t="Atraso RTP"/>
+  <phrase i="487" t="Erro de TFTP"/>
+  <phrase i="486" t="Erro de acesso ao TFTP"/>
+  <phrase i="485" t="Arquivo não encontrado"/>
+  <phrase i="484" t="Last=0x%02X"/>
+  <phrase i="483" t="CM-closed-TCP"/>
+  <phrase i="482" t="TCP-timeout"/>
+  <phrase i="481" t="Inicializado"/>
+  <phrase i="480" t="Nome=%15s"/>
+  <phrase i="479" t="Atualizando software"/>
+  <phrase i="478" t="Erro soma de verificação ROM"/>
+  <phrase i="477" t=" Load="/>
+  <phrase i="474" t="Endereço IP duplicado"/>
+  <phrase i="473" t="Endereço IP liberado"/>
+  <phrase i="472" t="Redefinindo"/>
+  <phrase i="463" t="Registro rejeitado"/>
+  <phrase i="462" t="Registrando"/>
+  <phrase i="461" t="Abrindo "/>
+  <phrase i="460" t="Configurando lista CM"/>
+  <phrase i="459" t="Configurando IP"/>
+  <phrase i="458" t="Configurando VLAN"/>
+  <phrase i="457" t="%d de %d"/>
+  <phrase i="456" t="Info. de fábrica inválidas"/>
+  <phrase i="455" t="Erro XML [%d]!"/>
+  <phrase i="454" t="Erro HTTP [%d]!"/>
+  <phrase i="453" t="Host não encontrado"/>
+  <phrase i="452" t="Pedido HTTP cancelado"/>
+  <phrase i="451" t="Redirecionando..."/>
+  <phrase i="450" t="Autorização necessária!"/>
+  <phrase i="449" t="Meio"/>
+  <phrase i="448" t="Todo"/>
+  <phrase i="447" t="Tempo decorrido"/>
+  <phrase i="446" t="Erro de tipo de compressão"/>
+  <phrase i="445" t="Código de erro de TCP"/>
+  <phrase i="444" t="Erro de versão"/>
+  <phrase i="437" t="VLAN inválida"/>
+  <phrase i="436" t="Endereço IP inválido"/>
+  <phrase i="435" t="Máscara de sub-rede inválida"/>
+  <phrase i="434" t=" Indisponível"/>
+  <phrase i="433" t=" Suspensão"/>
+  <phrase i="432" t=" Ativo"/>
+  <phrase i="431" t="Servidor BOOTP utilizado"/>
+  <phrase i="430" t="Erro de programação"/>
+  <phrase i="429" t="IP duplicado"/>
+  <phrase i="428" t="Sem Roteador padrão"/>
+  <phrase i="427" t="Arquivo config. disponível"/>
+  <phrase i="426" t="Erro de soma de verificação"/>
+  <phrase i="425" t="ID de carregamento incorreto"/>
+  <phrase i="424" t="Sem IP de servidor DNS"/>
+  <phrase i="423" t="Tempo esgotado p/ DNS"/>
+  <phrase i="422" t="Host desconhecido para DNS"/>
+  <phrase i="421" t="Erro geral de TFTP"/>
+  <phrase i="420" t="Arquivo CFG não encontrado"/>
+  <phrase i="419" t="Tempo esgotado p/ TFTP"/>
+  <phrase i="418" t="Tempo esgotado p/DHCP"/>
+  <phrase i="417" t="Roteador necessário"/>
+  <phrase i="416" t="Rotead. não está na sub-rede"/>
+  <phrase i="415" t="Servidor TFTP necessário"/>
+  <phrase i="414" t="Informação inválida"/>
+  <phrase i="413" t="Supres. Broadcast deslig."/>
+  <phrase i="412" t="Supres. Broadcast ligada"/>
+  <phrase i="410" t="Volume monofone gravado!"/>
+  <phrase i="409" t="Volume fone gravado!"/>
+  <phrase i="408" t="Volume alto-falante gravado!"/>
+  <phrase i="407" t="Alterações não gravadas!"/>
+  <phrase i="406" t="Salvar alterações do volume?"/>
+  <phrase i="405" t="Introduzir dados de entrada..."/>
+  <phrase i="404" t="Serviços indisponíveis"/>
+  <phrase i="403" t="SERVIÇOS"/>
+  <phrase i="402" t="Ver info. sobre o hardware"/>
+  <phrase i="401" t="Informações sobre o hardware"/>
+  <phrase i="400" t="Ver informações sobre a pilha"/>
+  <phrase i="399" t="Monitoramento da pilha"/>
+  <phrase i="398" t="Ver info. sobre depuração"/>
+  <phrase i="397" t="Exibição de depuração"/>
+  <phrase i="396" t="Visualizar versões de firmware"/>
+  <phrase i="395" t="Versões de firmware"/>
+  <phrase i="394" t="Ver estatísticas de rede"/>
+  <phrase i="393" t="Estatísticas de rede"/>
+  <phrase i="392" t="Ver mensagens de status"/>
+  <phrase i="391" t="Entrada validada"/>
+  <phrase i="390" t="Novo %s:"/>
+  <phrase i="389" t="%s atual:"/>
+  <phrase i="388" t="Editar %s"/>
+  <phrase i="387" t="Status das definições"/>
+  <phrase i="386" t="Selecionar item de status..."/>
+  <phrase i="385" t="Estatísticas de pilha"/>
+  <phrase i="384" t="Mensagens de status"/>
+  <phrase i="383" t="Selecionar def. de rede..."/>
+  <phrase i="382" t="Lista de toques indisponível!"/>
+  <phrase i="381" t="Arq. lista toques inválido!"/>
+  <phrase i="380" t="Arquivo toques indisponível!"/>
+  <phrase i="379" t="Solicitando arquivo toques..."/>
+  <phrase i="378" t="Tipo de toque"/>
+  <phrase i="377" t="Selecionar campainha..."/>
+  <phrase i="376" t="Solicitando lista de toques..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Alteração aceita e gravada"/>
+  <phrase i="372" t="Alterar contraste..."/>
+  <phrase i="371" t="Todas as alterações gravadas"/>
+  <phrase i="370" t="Def. de fábrica restauradas "/>
+  <phrase i="369" t="Def. gravadas restauradas"/>
+  <phrase i="368" t="Selecionar definição..."/>
+  <phrase i="367" t="DEFINIÇÕES"/>
+  <phrase i="366" t="Status"/>
+  <phrase i="365" t="Configuração da rede"/>
+  <phrase i="364" t="Contraste"/>
+  <phrase i="363" t="Limitar critérios procura..."/>
+  <phrase i="362" t="Sem registros"/>
+  <phrase i="361" t="%d registros"/>
+  <phrase i="360" t="Procura de %s"/>
+  <phrase i="359" t="Histórico de chamadas limpo!"/>
+  <phrase i="358" t="Selecionar diretório..."/>
+  <phrase i="357" t="URL de diretório inválido!..."/>
+  <phrase i="356" t="DIRETÓRIO"/>
+  <phrase i="355" t="Chamadas efetuadas"/>
+  <phrase i="354" t="Chamadas recebidas"/>
+  <phrase i="353" t="Cham. Não atend."/>
+  <phrase i="352" t="CM indisp., funções desativ."/>
+  <phrase i="351" t="%s para"/>
+  <phrase i="350" t="Tecla inativa neste local"/>
+  <phrase i="349" t="Solicitando..."/>
+  <phrase i="348" t="Estatísticas de chamada"/>
+  <phrase i="347" t="INFORMAÇÕES"/>
+  <phrase i="346" t="Selec. tecla para mais info..."/>
+  <phrase i="345" t="Pressione  para cancelar..."/>
+  <phrase i="344" t="Todos os campos gravados"/>
+  <phrase i="343" t="Nenhuma alteração foi gravada"/>
+  <phrase i="342" t="%d dias, "/>
+  <phrase i="341" t="1 dia, "/>
+  <phrase i="340" t="Em %s às"/>
+  <phrase i="339" t="%s às"/>
+  <phrase i="338" t="Ontem às"/>
+  <phrase i="329" t="Para %s"/>
+  <phrase i="328" t="Número desconhecido"/>
+  <phrase i="327" t="De %s"/>
+  <phrase i="326" t="Para %s"/>
+  <phrase i="325" t="Desviar %s"/>
+  <phrase i="324" t="Chamada externa"/>
+  <phrase i="323" t="Em utilização remota"/>
+  <phrase i="322" t="%d chamada não atendida"/>
+  <phrase i="260" t="RTP Inválido"/>
+  <phrase i="259" t="Fora de serviço"/>
+  <phrase i="258" t="Não está pronto"/>
+  <phrase i="241" t="Nome"/>
+  <phrase i="240" t="Status da linha"/>
+  <phrase i="239" t="Hora de início"/>
+  <phrase i="238" t="Byes"/>
+  <phrase i="237" t="Receptor entra"/>
+  <phrase i="236" t="Emissor entra"/>
+  <phrase i="235" t="Endereço local"/>
+  <phrase i="234" t="Endereço remoto "/>
+  <phrase i="233" t="Domínio"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="TFTP fixo"/>
+  <phrase i="230" t="DHCP desativado"/>
+  <phrase i="229" t="Tempo URL de inatividade"/>
+  <phrase i="228" t="URL de inatividade"/>
+  <phrase i="227" t="URL de serviços"/>
+  <phrase i="226" t="URL de mensagens"/>
+  <phrase i="225" t="URL de diretórios"/>
+  <phrase i="224" t="URL de informações"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="ID VLAN administrativa"/>
+  <phrase i="217" t="ID da VLAN operacional"/>
+  <phrase i="213" t="Servidor DNS 2"/>
+  <phrase i="212" t="Servidor DNS 1"/>
+  <phrase i="207" t="Roteador padrão 1"/>
+  <phrase i="206" t="Servidor TFTP 1"/>
+  <phrase i="205" t="Máscara de sub-rede"/>
+  <phrase i="204" t="Endereço IP"/>
+  <phrase i="203" t="Nome do domínio"/>
+  <phrase i="202" t="Nome do host"/>
+  <phrase i="201" t="Endereço MAC"/>
+  <phrase i="199" t="Reservado2"/>
+  <phrase i="198" t="Reservado1"/>
+	<phrase i="197" t="Transferência externa restringida"/>
+  <phrase i="194" t="Slot de estacionamento não disponível"/>
+  <phrase i="193" t="Sess. do grp de bsca encerr."/>
+  <phrase i="192" t="LogGrupo"/>
+	<phrase i="191" t="OutrCap"/>
+	<phrase i="190" t="Tempo máx. espera esgotado"/>
+	<phrase i="189" t="Tempo máx. chamada esgotado"/>
+	<phrase i="188" t="ModoVíd."/>  
+	<phrase i="187" t="Banda para vídeo indisponível"/>
+	<phrase i="186" t="Erro de segurança"/>  
+  <phrase i="185" t="Número não configurado"/>
+  <phrase i="184" t="Idcm com êxito"/>
+	<phrase i="183" t="Não é possível unir chamadas"/>
+	<phrase i="182" t="Impossível concluir transf."/>
+	<phrase i="181" t="IntercC"/>
+	<phrase i="180" t="DesvIme"/>
+	<phrase i="179" t="LstConf."/>
+	<phrase i="178" t="Selec."/>
+	<phrase i="177" t="TransfDir"/>
+	<phrase i="176" t="IDCM"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Muito tráf., tente mais tarde"/>
+	<phrase i="173" t="Serviço inativo"/>
+	<phrase i="172" t="Reversão estac. chamada"/>
+	<phrase i="171" t="Não há núm. estac. disponível"/>
+	<phrase i="170" t="Dispositivo incompatível"/>
+	<phrase i="169" t="Outra intercalação existente"/>
+	<phrase i="168" t="Falha configurar interc."/>
+	<phrase i="167" t="Interc"/>
+	<phrase i="166" t="Congest. rede, reencaminh."/>
+	<phrase i="165" t="ReCham."/>
+	<phrase i="164" t="DesvTd"/>
+	<phrase i="163" t="NaoPtb"/>
+	<phrase i="162" t="TrnsfCV"/>
+	<phrase i="161" t="Visual."/>
+	<phrase i="160" t="Intercep."/>
+	<phrase i="159" t="DesvIme"/>
+	<phrase i="158" t="Corr. voz"/>
+	<phrase i="157" t="DesÚltC"/>
+	<phrase i="156" t="Número desconhecido"/>
+	<phrase i="155" t="Banda insuficiente"/>
+	<phrase i="154" t="Privado"/>
+	<phrase i="153" t="Núm. estacionam."/>
+	<phrase i="152" t="Conferência"/>
+	<phrase i="151" t="Erro: combinação inválida"/>
+	<phrase i="150" t="Erro: desconhecido"/>
+	<phrase i="149" t="Erro: limite ultrapassado"/>
+	<phrase i="148" t="Erro: base de dados"/>
+	<phrase i="147" t="Erro: DBConfig"/>
+	<phrase i="146" t="Erro: sem licença"/>
+	<phrase i="145" t="Tecla inativa"/>
+	<phrase i="144" t="Excesso de participantes"/>
+	<phrase i="143" t="Sem info. sobre participantes"/>
+	<phrase i="142" t="Já em conferência"/>
+	<phrase i="141" t="Participante de conf. inválido"/>
+	<phrase i="140" t="Impos. manter ctrl primário"/>
+	<phrase i="139" t="Sem recursos de conferência"/>
+	<phrase i="138" t="Não é possível concluir conf."/>
+	<phrase i="137" t="Desviada para"/>
+	<phrase i="136" t="Há msgs em correio voz"/>
+	<phrase i="135" t="Falha temporária"/>
+	<phrase i="134" t="Apenas primário"/>
+	<phrase i="133" t="Cham. estacion. na linha"/>
+	<phrase i="132" t="Introduza número"/>
+	<phrase i="131" t="Em utilização remota"/>
+	<phrase i="130" t="Prosseguimento de chamada"/>
+	<phrase i="129" t="Estacionamento de chamada"/>
+	<phrase i="128" t="Transferência de chamada"/>
+	<phrase i="127" t="Chamada em espera"/>
+	<phrase i="126" t="Linha em utilização"/>
+	<phrase i="125" t="Ocupado"/>
+	<phrase i="124" t="Conectado"/>
+	<phrase i="123" t="De "/>
+	<phrase i="122" t="Ligando"/>
+	<phrase i="121" t="No gancho"/>
+	<phrase i="120" t="Fora do gancho"/>
+	<phrase i="119" t="Opções atuais"/>
+	<phrase i="118" t="GrupoCap"/>
+	<phrase i="117" t="Captura"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Unir"/>
+	<phrase i="114" t="Estac."/>
+	<phrase i="113" t="Confrn."/>
+	<phrase i="112" t="Info."/>
+	<phrase i="111" t="Atender"/>
+	<phrase i="110" t="Contin."/>
+	<phrase i="109" t="TermCh."/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="DsvNA"/>
+	<phrase i="106" t="DsvOcpd"/>
+	<phrase i="105" t="DsvTdCh."/>
+	<phrase i="104" t="Transf."/>
+	<phrase i="103" t="Espera"/>
+	<phrase i="102" t="NovaCh."/>
+	<phrase i="101" t="Rediscar"/>
+	<phrase i="9" t="Chamadas disponíveis para captura"/>
+	<phrase i="8" t="Introduzir código de assunto de cliente"/>
+	<phrase i="7" t="Introduzir código de autorização"/>
+	<phrase i="6" t="Dispositivo em roaming"/>
+	<phrase i="5" t="Dispositivo no local"/>
+</phrases>

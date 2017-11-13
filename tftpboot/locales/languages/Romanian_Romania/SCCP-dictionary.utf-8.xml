@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Romanian_Romania</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nu există nici o linie disponibilă pentru Preluare"/>
+	<phrase i="197" t="Transfer extern restricţionat"/>
+	<phrase i="196" t="Nu există bandă disponibilă pentru Preluare"/>
+	<phrase i="195" t="Nici un apel disponibil pentru Preluare"/>
+	<phrase i="194" t="Loc de parcare indisponibil"/>
+    <phrase i="193" t="Deconectat de la grupul de hunting"/>
+	<phrase i="192" t="IeşireH"/>
+	<phrase i="191" t="PrelAlt"/>
+	<phrase i="190" t="Max. expirare durată aşteptare"/>
+	<phrase i="189" t="Max expirare durată apel"/>
+	<phrase i="188" t="ModVideo"/>
+	<phrase i="187" t="Lăţime bandă video indisp."/>
+	<phrase i="186" t="Eroare securitate"/>
+	<phrase i="185" t="Număr neconfigurat"/>
+	<phrase i="184" t="Mcid reuşit"/>
+	<phrase i="183" t="Imposibil de alăturat apeluri"/>
+	<phrase i="182" t="Imp. de finalizat transferul"/>
+	<phrase i="181" t="ForţareC"/>
+	<phrase i="180" t="DevIm"/>
+	<phrase i="179" t="ListConf"/>
+	<phrase i="178" t="Select."/>
+	<phrase i="177" t="TrnsfDir"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Trafic aglomerat. Reîncercaţi."/>
+	<phrase i="173" t="Serviciu inactiv"/>
+	<phrase i="172" t="Revenire ParcareApel"/>
+	<phrase i="171" t="Nici un nr. parcare disponibil"/>
+	<phrase i="170" t="Tip dispozitiv incompatibil"/>
+	<phrase i="169" t="Există o altă intrare forţată"/>
+	<phrase i="168" t="Eşec setare intrare forţată"/>
+	<phrase i="167" t="IntrarF"/>
+	<phrase i="166" t="Congestie reţea,rerutare"/>
+	<phrase i="165" t="ApelInv"/>
+	<phrase i="164" t="DevTot"/>
+	<phrase i="163" t="ND"/>
+	<phrase i="162" t="TrnsfMV"/>
+	<phrase i="161" t="SetSupv"/>
+	<phrase i="160" t="Intrcpt"/>
+	<phrase i="159" t="Redirecţionare"/>
+	<phrase i="158" t="Căsuţă Vocală"/>
+	<phrase i="157" t="ElUltAp"/>
+	<phrase i="156" t="Număr necunoscut"/>
+	<phrase i="155" t="Lăţime bandă insuficientă"/>
+	<phrase i="154" t="Privat"/>
+	<phrase i="153" t="Număr parcare"/>
+	<phrase i="152" t="Conferinţă"/>
+	<phrase i="151" t="Eroare nepotrivire"/>
+	<phrase i="150" t="Eroare necunoscută"/>
+	<phrase i="149" t="Eroare depăşire limită"/>
+	<phrase i="148" t="Eroare bază de date"/>
+	<phrase i="147" t="Eroare configDB"/>
+	<phrase i="146" t="Eroare fără licenţă"/>
+	<phrase i="145" t="Tastă inactivă"/>
+	<phrase i="144" t="Depăşire părţi maxime"/>
+	<phrase i="143" t="Info participant inexistente"/>
+	<phrase i="142" t="Deja în conferinţă"/>
+	<phrase i="141" t="Participant conf. incorect"/>
+	<phrase i="140" t="Imp. pus aştept. contr. primar"/>
+	<phrase i="139" t="Nici un pod conferinţă"/>
+	<phrase i="138" t="Imp. de finalizat conferinţa"/>
+	<phrase i="137" t="Redirecţionat către"/>
+	<phrase i="136" t="Aveţi căsuţă vocală"/>
+	<phrase i="135" t="Eşec temp."/>
+	<phrase i="134" t="Numai primar"/>
+	<phrase i="133" t="Apel parcat la"/>
+	<phrase i="132" t="Introducere număr"/>
+	<phrase i="131" t="În uz la distanţă"/>
+	<phrase i="130" t="Continuare apel"/>
+	<phrase i="129" t="Parcare apel"/>
+	<phrase i="128" t="Transfer apel"/>
+	<phrase i="127" t="Apel în aşteptare"/>
+	<phrase i="126" t="Linie în uz"/>
+	<phrase i="125" t="Ocupat"/>
+	<phrase i="124" t="Conectat"/>
+	<phrase i="123" t="De la "/>
+	<phrase i="122" t="Sonerie ieşire"/>
+	<phrase i="121" t="În furcă"/>
+	<phrase i="120" t="Scos din furcă"/>
+	<phrase i="119" t="Opţiuni curente"/>
+	<phrase i="118" t="PrelGrp"/>
+	<phrase i="117" t="Preluare"/>
+	<phrase i="116" t="Întâln."/>
+	<phrase i="115" t="Alăt."/>
+	<phrase i="114" t="Parcare"/>
+	<phrase i="113" t="Conf."/>
+	<phrase i="112" t="Informaţii"/>
+	<phrase i="111" t="Răspuns"/>
+	<phrase i="110" t="Reluare"/>
+	<phrase i="109" t="TermApel"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="RedirFărăRăsp"/>
+	<phrase i="106" t="RedirOcp"/>
+	<phrase i="105" t="RedirTOT"/>
+	<phrase i="104" t="Transfer"/>
+	<phrase i="103" t="Aştept."/>
+	<phrase i="102" t="Apel nou"/>
+	<phrase i="101" t="Reapel"/>
+	<phrase i="81" t="În curs de conectare, aşteptaţi"/>
+	<phrase i="80" t="Înregistrarea a eşuat"/>
+	<phrase i="79" t="Înregistrare"/>
+	<phrase i="69" t="CW dez."/>
+    	<phrase i="68" t="Imposibil de mutat conversaţia"/>
+	<phrase i="67" t="Înregistrare"/>
+    <phrase i="65" t="Imposibil de trimis apelul la mobil"/>
+    <phrase i="64" t="Imposibil de preluat apel parcat"/>
+    <phrase i="63" t="Întâln. este indisponibil"/>
+    <phrase i="62" t="Conferinţă indisponibilă"/>
+    <phrase i="61" t="Preluare indisponibilă"/>
+    <phrase i="60" t="ApelAbr"/>
+    <phrase i="59" t="Salturi RedirTot depăşite"/>
+    <phrase i="58" t="Buclă RedirTot detectată"/>
+	<phrase i="57" t="Nu deranjaţi este activ"/> 
+	<phrase i="56" t="Nu deranjaţi"/> 
+	<phrase i="55" t="Utilizaţi Linie sau Alăt. pt. finalizare"/>
+	<phrase i="54" t="Grup de hunting"/>
+	<phrase i="53" t="Instrument de raportare a calităţii"/>
+	<phrase i="52" t="Listă conferinţă"/>
+	<phrase i="51" t="Terminare apel"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Altă preluare"/>
+    <phrase i="48" t="Eliminare ultim participant"/>
+    <phrase i="47" t="Preluare grup"/>
+    <phrase i="46" t="ID apel periculos"/>
+    <phrase i="45" t="RedirTotală"/>
+	<phrase i="44" t="Şoaptă"/>
+        <phrase i="43" t="Mobil"/>
+	<phrase i="42" t="Sesiune înregistrare inactivă"/>
+	<phrase i="41" t="Înregistrare deja în derulare"/>
+	<phrase i="40" t="Înregistr în aştept activ apel"/>
+	<phrase i="39" t="Monitorizare"/>
+        <phrase i="38" t="Dispozitiv neautorizat"/>
+	<phrase i="37" t="Fără resurse"/>
+	<phrase i="36" t="Configurare nereuşită"/>
+	<phrase i="35" t="Revenire din aşteptare"/> 
+	<phrase i="34" t="Apel în aşteptare"/>
+	<phrase i="33" t="Nepreg."/>
+	<phrase i="32" t="Pregătit"/>
+	<phrase i="31" t="Alăturare la grupul de hunting"/>
+	<phrase i="30" t="Apeluri în coadă"/>
+	<phrase i="29" t="Rezultate căutare"/>
+	<phrase i="28" t="Nici o înregistrare găsită"/>
+	<phrase i="27" t="Înregistrări 1 la"/>
+	<phrase i="26" t="din"/>
+	<phrase i="25" t="Introduceţi PIN-ul"/>
+	<phrase i="24" t="PIN greşit"/>
+	<phrase i="23" t="Login reuşit"/>
+	<phrase i="22" t="Serviciu de noapte dezactivat"/>
+	<phrase i="21" t="Serviciu de noapte activ"/>
+	<phrase i="20" t="Serviciu de noapte"/>
+	<phrase i="19" t="Introduceţi criterii de căutare"/>
+	<phrase i="18" t="Servicii locale"/>
+	<phrase i="17" t="Selectaţi un serviciu"/>
+	<phrase i="16" t="Destinaţie transfer ocupată"/>
+	<phrase i="15" t="Selectare linie"/>
+	<phrase i="14" t="Apelare"/>
+	<phrase i="13" t="Terminaţi apelul"/>
+	<phrase i="12" t="Aşteptare server secundar"/>
+	<phrase i="11" t="Nr. maxim telefoane depăşit"/>
+	<phrase i="10" t="Serv. CM Fallback operaţional"/>
+	<phrase i="9" t="Apeluri disponib. pt. preluare"/>
+	<phrase i="8" t="Introduceţi cod problemă client"/>
+	<phrase i="7" t="Introduceţi codul de autorizare"/>
+    <phrase i="6" t="Dispoz în locaţie la distanţă"/>
+    <phrase i="5" t="Dispozitiv în locaţie proprie"/>
+	<phrase i="4" t="Login"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Cont"/>
+</phrases>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Swedish_Sweden</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Ingen linje tillgänglig för hämtning"/>
+	<phrase i="197" t="Extern överföring begränsad"/>
+	<phrase i="196" t="Ingen bandbredd tillgänglig för hämtning"/>
+	<phrase i="195" t="Inget samtal tillgängligt för hämtning"/>
+	<phrase i="194" t="Parkeringsplats otillgänglig"/>
+    <phrase i="193" t="Utloggad från svarsgrupp"/>
+	<phrase i="192" t="HLogg"/>
+	<phrase i="191" t="HämtA"/>
+	<phrase i="190" t="Maxtid  för vänteläge"/>
+	<phrase i="189" t="Maxtid för samtal uppnådd"/>
+	<phrase i="188" t="VidLäge"/>
+	<phrase i="187" t="Videobandbredd inte tillgängl."/>
+	<phrase i="186" t="Säkerhetsfel"/>
+	<phrase i="185" t="Nummer inte konfigurerat"/>
+	<phrase i="184" t="SpårID lyckades"/>
+	<phrase i="183" t="Funktionen Delta fungerar inte"/>
+	<phrase i="182" t="Kan inte slutföra överföring"/>
+	<phrase i="181" t="BrytInKf"/>
+	<phrase i="180" t="&gt;Rstmedd"/>
+	<phrase i="179" t="KonfList"/>
+	<phrase i="178" t="Välj"/>
+	<phrase i="177" t="DirÖvf"/>
+	<phrase i="176" t="SpårID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Hög trafik - Försök senare"/>
+	<phrase i="173" t="Ogiltig tjänst"/>
+	<phrase i="172" t="Återställning av CallPark"/>
+	<phrase i="171" t="Inget tillgängl. parkeringsnr"/>
+	<phrase i="170" t="Inkompatibel enhetstyp"/>
+	<phrase i="169" t="Det finns en annan BrytIn"/>
+	<phrase i="168" t="Det gick inte att inst. BrytIn"/>
+	<phrase i="167" t="BrytIn"/>
+	<phrase i="166" t="Överbel. i nätv., dirigerar om"/>
+	<phrase i="165" t="Återuppr"/>
+	<phrase i="164" t="VidAlla"/>
+	<phrase i="163" t="StörEj"/>
+	<phrase i="162" t="ÖverRB"/>
+	<phrase i="161" t="AngeÖvr"/>
+	<phrase i="160" t="Hämta"/>
+	<phrase i="159" t="Vidareb."/>
+	<phrase i="158" t="Rstmedd"/>
+	<phrase i="157" t="AvbSKd"/>
+	<phrase i="156" t="Okänt nr"/>
+	<phrase i="155" t="Otillräcklig bandbredd"/>
+	<phrase i="154" t="Privat"/>
+	<phrase i="153" t="Parkerat nr"/>
+	<phrase i="152" t="Konf"/>
+	<phrase i="151" t="Fel: Mismatch"/>
+	<phrase i="150" t="Okänt fel"/>
+	<phrase i="149" t="Fel: Pass Limit"/>
+	<phrase i="148" t="Fel: Databas"/>
+	<phrase i="147" t="Fel: DBConfig"/>
+	<phrase i="146" t="Fel: IngenLic"/>
+	<phrase i="145" t="Ogiltig knapptryckning"/>
+	<phrase i="144" t="Överskrider maxantal parter"/>
+	<phrase i="143" t="Ingen deltagarinfo"/>
+	<phrase i="142" t="Redan i konferens"/>
+	<phrase i="141" t="Ogiltig konferensdeltagare"/>
+	<phrase i="140" t="Konferensledare ej i vänteläge"/>
+	<phrase i="139" t="Ingen konferensbrygga"/>
+	<phrase i="138" t="Kan ej slutföra konferens"/>
+	<phrase i="137" t="Vidarebf till"/>
+	<phrase i="136" t="Du har röstmeddelande"/>
+	<phrase i="135" t="Tillfälligt fel"/>
+	<phrase i="134" t="Endast primär"/>
+	<phrase i="133" t="Samtal parkerat på"/>
+	<phrase i="132" t="Ange nummer"/>
+	<phrase i="131" t="Fjärranvänds"/>
+	<phrase i="130" t="Fortsätt samtal"/>
+	<phrase i="129" t="Parkera samtal"/>
+	<phrase i="128" t="Överför samtal"/>
+	<phrase i="127" t="Samtal väntar"/>
+	<phrase i="126" t="Linje används"/>
+	<phrase i="125" t="Upptaget"/>
+	<phrase i="124" t="Kopplad"/>
+	<phrase i="123" t="Från "/>
+	<phrase i="122" t="Ring ut"/>
+	<phrase i="121" t="Lur på"/>
+	<phrase i="120" t="Lur av"/>
+	<phrase i="119" t="Aktuella val"/>
+	<phrase i="118" t="HämtG"/>
+	<phrase i="117" t="Hämta"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Delta"/>
+	<phrase i="114" t="Parkera"/>
+	<phrase i="113" t="Konf"/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Svara"/>
+	<phrase i="110" t="Återuppta"/>
+	<phrase i="109" t="AvslSam"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="VdbEjSvar"/>
+	<phrase i="106" t="VdbUppt"/>
+	<phrase i="105" t="Vdb alla"/>
+	<phrase i="104" t="Överför"/>
+	<phrase i="103" t="Förfr"/>
+	<phrase i="102" t="Ny. sam."/>
+	<phrase i="101" t="Ring Igen"/>
+	<phrase i="81" t="Ansluter, vänta"/>
+	<phrase i="80" t="Inspelningen misslyckades"/>
+	<phrase i="79" t="Inspelning"/>
+	<phrase i="69" t="SV av"/>
+    	<phrase i="68" t="Kan inte flytta instruktioner"/>
+	<phrase i="67" t="Spela in"/>
+    <phrase i="65" t="Kan ej skicka samtal till mobil"/>
+    <phrase i="64" t="Kan ej hämta parkerat samtal"/>
+    <phrase i="63" t="MeetMe är inte tillgängligt"/>
+    <phrase i="62" t="Konferens är inte tillgängligt"/>
+    <phrase i="61" t="Hämta är inte tillgängligt"/>
+    <phrase i="60" t="Snabbval"/>
+    <phrase i="59" t="Vdb-hopp överskreds"/>
+    <phrase i="58" t="Vdb-slinga upptäcktes"/>
+	<phrase i="57" t="Stör ej har aktiverats"/> 
+	<phrase i="56" t="Stör ej"/> 
+	<phrase i="55" t="Använd Linje eller Delta för att slutföra"/>
+	<phrase i="54" t="Svarsgrupp"/>
+	<phrase i="53" t="Kvalitetsrapporteringsverktyg"/>
+	<phrase i="52" t="Konferenslista"/>
+	<phrase i="51" t="Avsluta"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Hämta annan"/>
+    <phrase i="48" t="Ta bort den sista deltagaren"/>
+    <phrase i="47" t="Hämta grupp"/>
+    <phrase i="46" t="Hotsamtals-ID"/>
+    <phrase i="45" t="Vidareb alla"/>
+	<phrase i="44" t="Viskning"/>
+        <phrase i="43" t="Mobility"/>
+	<phrase i="42" t="Inaktiv inspelningssession"/>
+	<phrase i="41" t="Inspelning pågår redan"/>
+	<phrase i="40" t="Inspelning väntar på aktiveringssamtal"/>
+	<phrase i="39" t="Övervakning"/>
+        <phrase i="38" t="Enheten har inte auktoriserats"/>
+	<phrase i="37" t="Inga resurser"/>
+	<phrase i="36" t="Inställningen misslyckades"/>
+	<phrase i="35" t="Återställ förfrågan"/> 
+	<phrase i="34" t="Samtal under förfrågan"/>
+	<phrase i="33" t="Inte färdig"/>
+	<phrase i="32" t="Färdig"/>
+	<phrase i="31" t="Anslut till anslutningsgrupp"/>
+	<phrase i="30" t="Samtal i kö"/>
+	<phrase i="29" t="Sökresultat"/>
+	<phrase i="28" t="Hittade ingen post"/>
+	<phrase i="27" t="Posterna 1 till"/>
+	<phrase i="26" t="av"/>
+	<phrase i="25" t="Ange PIN"/>
+	<phrase i="24" t="Fel PIN"/>
+	<phrase i="23" t="Inloggningen är klar"/>
+	<phrase i="22" t="Nattjänsten är inaktiverad"/>
+	<phrase i="21" t="Nattjänsten är aktiverad"/>
+	<phrase i="20" t="Nattjänst"/>
+	<phrase i="19" t="Skriv in sökord"/>
+	<phrase i="18" t="Lokala tjänster"/>
+	<phrase i="17" t="Välj tjänst"/>
+	<phrase i="16" t="Överföringsdestination upptagen"/>
+	<phrase i="15" t="Välj linje"/>
+	<phrase i="14" t="Söker"/>
+	<phrase i="13" t="Avsluta samtal"/>
+	<phrase i="12" t="Väntar på nytt reg. försök"/>
+	<phrase i="11" t="Maxantal telefoner överskreds"/>
+	<phrase i="10" t="Tjänsten CM Fallback i drift"/>
+	<phrase i="9" t="Samtal finns för hämtning"/>
+	<phrase i="8" t="Ange ärendekod"/>
+	<phrase i="7" t="Ange behörighetskod"/>
+    <phrase i="6" t="Enhet på roamingplats"/>
+    <phrase i="5" t="Enhet på hemmaplats"/>
+	<phrase i="4" t="Logga in"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Konto"/>
+</phrases>

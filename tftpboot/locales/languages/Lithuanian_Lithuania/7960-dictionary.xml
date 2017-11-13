@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Lithuanian_Lithuania</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.0.1.release/2</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<!-- Please do not add phrases to this file - Add new phrases to file 7960-ext-dictionary.xml -->
+<phrase i="740" t="Saugos sàranka"/><!-- This phrase is for the Sec Config Menu title -->
+<phrase i="739" t="Áveskite tekstà"/>
+<phrase i="738" t="Ryðio monitoriaus veikimo trukmë"/>
+<phrase i="737" t="Naujinamas sertifikatas..."/>
+<phrase i="736" t="DSPPoll uþduotis"/>
+<phrase i="735" t="Laukiama atstatos..."/>
+<phrase i="734" t="Laukiama"/>
+<phrase i="733" t="TLS uþduotis"/>
+<phrase i="732" t="Perþiûrëti patikimøjø sàraðà"/>
+<phrase i="731" t="Perþiûrëti CTL rinkmenà"/>
+<phrase i="730" t="CallManager / TFTP"/>
+<phrase i="729" t="CallManager"/>
+<phrase i="728" t="Patikimøjø sàraðas"/>
+<phrase i="727" t="CTL rinkmena"/>
+<phrase i="726" t="TFTP ne priemonëje CTL"/>
+<phrase i="725" t="Stabdyti"/>
+<phrase i="724" t="Uþblokuoti"/>
+<phrase i="723" t="Atblokuoti"/>
+<phrase i="722" t="Tinklo prieiga"/>
+<phrase i="721" t="Neádiegta"/>
+<phrase i="720" t="Ádiegta"/>
+<phrase i="719" t="Iðjungta"/>
+<phrase i="718" t="Ájungta"/>
+<phrase i="717" t="Pasirinkti saugos nuostatà..."/>
+<phrase i="716" t="Saugos sàranka"/><!-- This is the menu item on the Settings menu -->
+<phrase i="715" t="Atsiunèiama"/><!-- This phrase is used with Network statistics port status -->
+<phrase i="714" t="Operacija atðaukta"/>
+<phrase i="713" t="TFTP nepatvirtinta: %s"/>
+<phrase i="712" t="Trinti"/>
+<phrase i="711" t="Uþðifruota"/>
+<phrase i="710" t="Tapatybë patvirtinta"/>
+<phrase i="709" t="Nesaugoma"/>
+<phrase i="708" t="TLS klaida "/>
+<phrase i="707" t="Suteikta þiniatinklio prieiga"/>
+<phrase i="706" t="Saugumo statusas"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="705" t="Apdorojama..."/>
+<phrase i="704" t="Negalima ávestis"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="703" t="Nepavyko generuoti rakto"/>
+<phrase i="702" t="Prisijungti nepavyko"/>
+<phrase i="701" t="Nepavyko"/>
+<phrase i="700" t="Laiko baigtis"/>
+<phrase i="699" t="Sëkmingai"/>
+<phrase i="698" t="Tapatybës patvirtinimo uþklausa..."/><!-- Changed by Skate - may need retranslation -->
+<phrase i="697" t="Jungiamasi..."/>
+<phrase i="696" t="Bandyti CAPF dar..."/>
+<phrase i="695" t="Generuojami raktai..."/>
+<phrase i="694" t="Atðaukti operacijà"/>
+<phrase i="693" t="Atnaujinti sertifikatà"/>
+<phrase i="692" t="Tapatybës tvirtinimo teksto segmentas"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="691" t="Sertifikatai"/>
+<phrase i="690" t="Tarnybø DSCP"/>
+<phrase i="689" t="Sàarankos DSCP"/>
+<phrase i="688" t="Skambuèiø kontrolës DSCP"/>
+<phrase i="687" t="Rinkmenos tapat. patvirt. nepavyko"/>
+<phrase i="686" t="CAST uþduotis"/>
+<phrase i="685" t="Vaizdo funkcija ájungta"/>
+<phrase i="684" t="Autom. eil. pasirink. funkcija ájungta"/>
+<phrase i="683" t="Ájungtas balso VLAN"/>
+<phrase i="682" t="Ájungtas GARP"/>
+<phrase i="681" t="Gretimas prievadas"/>
+<phrase i="680" t="Gretimas IP adresas"/>
+<phrase i="679" t="Gretimo átaiso ID"/>
+<phrase i="678" t="Iki %s"/>
+<phrase i="677" t="Peradresuotas"/>
+<phrase i="676" t="SutrRink"/>
+<phrase i="675" t="Uþklausa dël tarnybos URL bûsenos"/>
+<phrase i="674" t="Uþklausa dël ypatybës rakto bûsenos"/>
+<phrase i="673" t="a"/>
+<phrase i="672" t="p"/>
+<phrase i="671" t="%d naujas praleistas skamb.%c"/><!-- %c will be replaced with &apos;s&apos;, it can be eliminated in translations. The singular form of this phrase is 322.  The %d will be replaced with the number of missed calls -->
+<phrase i="670" t="Numatytasis skambëjimas"/>
+<phrase i="669" t="Pasirinkti eilutæ..."/>
+<phrase i="668" t="Taisyti rinktà numerá"/>
+<phrase i="667" t="Ryðio nutraukimas"/>
+<phrase i="666" t="Tinklo vietos versija"/>
+<phrase i="665" t="Naudotojo vietos versija"/>
+<phrase i="664" t="TFTP uþklausa atðaukta"/>
+<phrase i="663" t="DHCP iðjungta"/>
+<phrase i="662" t="Reikia IP adreso"/>
+<phrase i="661" t="Bûsena "/>
+<phrase i="660" t="Numatyt."/>
+<phrase i="659" t="Bus praneðimas"/>
+<phrase i="658" t="Tik ragelio veiksena"/>
+<phrase i="657" t="Modelio numeris"/>
+<phrase i="656" t="Perþiûrëti modelio informacijà"/>
+<phrase i="655" t="Modelio informacija"/>
+<phrase i="654" t="Ryðio bûsena "/>
+<phrase i="653" t="Ðrifto rodyklë pask."/>
+<phrase i="652" t="Ðrifto rodyklë"/>
+<phrase i="651" t="Vykdyti programà"/>
+<phrase i="650" t="Ðrifto atsisiuntimas pask."/>
+<phrase i="649" t="Ðrifto atsisiuntimas"/>
+<phrase i="648" t="Informacija apie ðrifto lentelæ"/>
+<phrase i="647" t="Segmento atsisiuntimas pask."/>
+<phrase i="646" t="Segmento atsisiuntimas"/>
+<phrase i="645" t="Segmento naujinimas"/>
+<phrase i="644" t="Aparat. árangos informacija"/>
+<phrase i="643" t="TFTP versija"/>
+<phrase i="642" t="Versijos informacija"/>
+<phrase i="641" t="Laisvas"/>
+<phrase i="640" t="Neatpaþástama"/>
+<phrase i="639" t="Vietos naujinimo klaida"/>
+<phrase i="638" t="Laukiama bûsenos %d atsako ið %s"/>
+<phrase i="637" t="Laukiama %s ið %s"/>
+<phrase i="636" t="BOOTP serveris"/>
+<phrase i="635" t="DHCP serveris"/>
+<phrase i="634" t="3 V amp."/>
+<phrase i="633" t="5 V amp."/>
+<phrase i="632" t="AD kodekas"/>
+<phrase i="631" t="ADL kodekas"/>
+<phrase i="630" t="C3PO perþiûra"/>
+<phrase i="629" t="Amp."/>
+<phrase i="628" t="Kodekas"/>
+<phrase i="627" t="Serijos numeris"/>
+<phrase i="626" t="Aparat. árangos perþiûra"/>
+<phrase i="625" t="Ákrovos sektoriaus ID"/>
+<phrase i="624" t="Programos ákrovos ID"/>
+<phrase i="623" t="Tel. DN"/>
+<phrase i="622" t="SYS veiksena"/>
+<phrase i="621" t="FIQ veiksena"/>
+<phrase i="620" t="IRQ veiksena"/>
+<phrase i="619" t="SVC veiksena"/>
+<phrase i="618" t="Neapibrëþta veiksena"/>
+<phrase i="617" t="Audito uþduotis"/>
+<phrase i="616" t="SNMP uþduotis"/>
+<phrase i="615" t="Ekrano uþduotis"/>
+<phrase i="614" t="Sàrankos uþduotis"/>
+<phrase i="613" t="RTP uþduotis"/>
+<phrase i="612" t="Telefono uþduotis"/>
+<phrase i="611" t="Lizdo uþduotis"/>
+<phrase i="610" t="daugiau"/>
+<phrase i="609" t="Rinktis"/>
+<phrase i="608" t="Iðeiti"/>
+<phrase i="607" t="Atsiunèiama"/><!-- This phrase is used with "Down" softkey to decrease contrast -->
+<phrase i="606" t="Nusiunèiama"/>
+<phrase i="605" t="Atðaukti"/>
+<phrase i="604" t="Taisyti"/>
+<phrase i="603" t="Ne"/>
+<phrase i="602" t="Taip"/>
+<phrase i="601" t="Groti"/>
+<phrase i="600" t="Rinkti"/>
+<phrase i="599" t="TaisNr"/>
+<phrase i="598" t="Áraðyti"/>
+<phrase i="597" t="Atstatyti"/>
+<phrase i="596" t="Ðalinti"/>
+<phrase i="595" t="Gamyklinës"/>
+<phrase i="594" t="Gerai"/>
+<phrase i="593" t="Patvirtinti"/>
+<phrase i="592" t="Ieðkoti"/>
+<phrase i="591" t="Toliau"/>
+<phrase i="590" t="Naujinti"/>
+<phrase i="589" t="Iðvalyti"/>
+<phrase i="588" t="Pateikti"/>
+<phrase i="587" t="Tonas"/>
+<phrase i="586" t="Tinklo vieta"/>
+<phrase i="585" t="Naudotojo vieta"/>
+<phrase i="584" t="Keitës rinkmena"/>
+<phrase i="583" t="Tono rinkmena"/>
+<phrase i="582" t="Skambutis uþimtas!"/>
+<phrase i="581" t="TFTP 2 serveris"/>
+<phrase i="580" t="2 plëtimo modulio kontrastas"/>
+<phrase i="579" t="1 plëtimo modulio kontrastas"/>
+<phrase i="578" t="Progr. prievado sàranka"/>
+<phrase i="577" t="Komp. prievado sàranka"/>
+<phrase i="576" t="PC prievadas iðjungtas"/>
+<phrase i="575" t="Klaida"/>
+<phrase i="574" t="Netinkamas argumentas"/>
+<phrase i="573" t="Bazinis telefonas"/>
+<phrase i="572" t="Plëtimo modulis (-iai)"/>
+<phrase i="571" t="KONTRASTO MENIU"/>
+<phrase i="570" t="Pasir. reguliuotinà kontrastà"/>
+<phrase i="569" t="Balso paðtas"/>
+<phrase i="568" t="PRANEÐIMAI"/>
+<phrase i="567" t="Perþiûrëti plëtimo modulio bûsenà"/>
+<phrase i="566" t="Plëtimo modulio statistika"/>
+<phrase i="565" t="B TX buferis pilnas"/>
+<phrase i="564" t="B RX sumos patikros klaida"/>
+<phrase i="563" t="B RX ilgio klaida"/>
+<phrase i="562" t="B RX iðmesti baitai"/>
+<phrase i="561" t="A TX buferis pilnas"/>
+<phrase i="560" t="A TX persiøsti"/>
+<phrase i="559" t="A RX netinkamas praneðimas"/>
+<phrase i="558" t="A RX sumos patikros klaida"/>
+<phrase i="557" t="A RX ilgio klaida"/>
+<phrase i="556" t="A RX iðmesti baitai"/>
+<phrase i="555" t="CM-ICMP nepasiekta"/>
+<phrase i="554" t="Pasirinkite skambutá..."/>
+<phrase i="553" t="Tarpinio serverio URL"/>
+<phrase i="552" t="Tapatybës tvirtinimo URL"/>
+<phrase i="551" t="Autom. rinkimas atðauktas!"/>
+<phrase i="550" t="Priekabos uþduotis"/>
+<phrase i="549" t="2 plëtimo modulis"/>
+<phrase i="548" t="1 plëtimo modulis"/>
+<phrase i="547" t="HTTP rinkmenos klaida"/>
+<phrase i="546" t="XML klaida [4]: nagrinëjimo klaida"/>
+<phrase i="545" t="Rinkmenos kûrimo klaida"/>
+<phrase i="544" t="Paskutinis="/>
+<phrase i="543" t="Ákelti atmestus HC"/>
+<phrase i="542" t="Telefonas-registruoti-atmesti"/>
+<phrase i="541" t="Atstatyti-paleisti ið naujo"/>
+<phrase i="540" t="Atstatyti-atstatyti"/>
+<phrase i="539" t="Telefonas-re-IP"/>
+<phrase i="538" t="Telefonas-klaviatûra"/>
+<phrase i="537" t="Telefonas-diag."/>
+<phrase i="536" t="Atsarga trikties atveju"/>
+<phrase i="535" t="KeepaliveTO"/>
+<phrase i="534" t="CM-NAKed"/>
+<phrase i="533" t="CM-aborted-TCP"/>
+<phrase i="532" t="CM-reset-TCP"/>
+<phrase i="531" t="TCP-Bad-ACK"/>
+<phrase i="530" t="Sàrankos inf. tikrinimo klaida"/>
+<phrase i="529" t="Prievado informacija"/>
+<phrase i="528" t="Eterneto informacija"/>
+<phrase i="527" t="%s per didelis"/>
+<phrase i="526" t="Nuo "/>
+<phrase i="525" t="Ávesèiø nëra"/>
+<phrase i="524" t="Áveskite naudotojo ID ir slaptaþodá"/>
+<phrase i="523" t="Slaptaþodis"/>
+<phrase i="522" t="Naudotojo vardas"/>
+<phrase i="521" t="Pasirinkti tarnybà..."/>
+<phrase i="520" t="Tvarkyti esamà skambutá..."/>
+<phrase i="519" t="TFTP dydþio klaida"/>
+<phrase i="518" t="Frazës rinkmena"/>
+<phrase i="517" t="Simbolio rinkmena"/>
+<phrase i="516" t="%s negalima"/>
+<phrase i="515" t="Blogas %s"/>
+<phrase i="514" t="Þurnalas %d"/>
+<phrase i="513" t="Prieiga"/>
+<phrase i="512" t="375000"/>
+<phrase i="511" t="Telefonas"/>
+<phrase i="510" t="Tinklas"/>
+<phrase i="509" t="Srautas %d"/>
+<phrase i="508" t="Srauto statistika"/>
+<phrase i="507" t="Átaiso þurnalai"/>
+<phrase i="506" t="Prievadas %d"/>
+<phrase i="505" t="Eternetas"/>
+<phrase i="504" t="Átaiso informacija"/>
+<phrase i="503" t="Peradresavimo delsa"/>
+<phrase i="502" t="Trinti sàrankà"/>
+<phrase i="501" t="Kintantis TFTP"/>
+<phrase i="500" t="DHCP adresas iðleistas"/>
+<phrase i="499" t="DHCP ájungtas"/>
+<phrase i="498" t="Transliavimas"/>
+<phrase i="497" t="PrK"/>
+<phrase i="496" t="Snt"/>
+<phrase i="495" t="Prm"/>
+<phrase i="494" t="Versija"/>
+<phrase i="493" t="Atgal"/>
+<phrase i="492" t=" ÁJ."/>
+<phrase i="491" t=" TAIP"/>
+<phrase i="490" t=" IÐJ."/>
+<phrase i="489" t=" NE"/>
+<phrase i="488" t="RTP delsa"/>
+<phrase i="487" t="TFTP klaida"/>
+<phrase i="486" t="TFTP prieigos klaida"/>
+<phrase i="485" t="Rinkmena nerasta"/>
+<phrase i="484" t="Paskutinis=0x%02X"/>
+<phrase i="483" t="CM-closed-TCP"/>
+<phrase i="482" t="TCP-timeout"/>
+<phrase i="481" t="Paleista"/>
+<phrase i="480" t="Pavadinimas=%15s"/>
+<phrase i="479" t="Naujinama programa"/>
+<phrase i="478" t="ROM sumos patikros klaida"/>
+<phrase i="477" t=" Ákelti="/>
+<phrase i="476" t="Mikrofono nutildymo funkcija iðj."/>
+<phrase i="475" t="Mikrofono nutildymas"/>
+<phrase i="474" t="Dubliuotas IP adresas"/>
+<phrase i="473" t="IP adresas iðleistas"/>
+<phrase i="472" t="Atstatoma"/>
+<phrase i="471" t="Uþklausa dël serveriø sàraðo"/>
+<phrase i="470" t="Uþklausa dël greièio bûsenos"/>
+<phrase i="469" t="Uþklausa dël eilutës bûsenos"/>
+<phrase i="468" t="Uþklausa dël progr. klaviðø rinkinio"/>
+<phrase i="467" t="Uþklausa dël progr. klav. ruoðinio"/>
+<phrase i="466" t="Uþklausa dël ruoðinio"/>
+<phrase i="465" t="Ákeliama DSP"/>
+<phrase i="464" t="Tikrinama apkrova"/>
+<phrase i="463" t="Registracija atmesta"/>
+<phrase i="462" t="Registruojama"/>
+<phrase i="461" t="Atveriama "/>
+<phrase i="460" t="Sàrankos CM sàraðas"/>
+<phrase i="459" t="Konfigûruojamas IP"/>
+<phrase i="458" t="Konfigûruojamas VLAN"/>
+<phrase i="457" t="%d ið %d"/>
+<phrase i="456" t="Netinkama gamybos informacija"/>
+<phrase i="455" t="XML klaida [%d]!"/>
+<phrase i="454" t="HTTP klaida [%d]!"/>
+<phrase i="453" t="Pagr. kompiuteris nerastas"/>
+<phrase i="452" t="HTTP uþklausa atðaukta"/>
+<phrase i="451" t="Nukreipiama..."/>
+<phrase i="450" t="Reikalingas tapat. patvirtinimas!"/>
+<phrase i="449" t="Pusë"/>
+<phrase i="448" t="Visas"/>
+<phrase i="447" t="Praëjo laiko"/>
+<phrase i="446" t="Glaudinimo tipo klaida"/>
+<phrase i="445" t="TCP klaidos kodas"/>
+<phrase i="444" t="Versijos klaida"/>
+<phrase i="443" t="Uþpildyto disko klaida"/>
+<phrase i="442" t="CFG TFTP dydþio klaida"/>
+<phrase i="441" t="DSP Late"/>
+<phrase i="440" t="Iðplauta"/>
+<phrase i="439" t="DSP Keepalive laiko baigtis"/>
+<phrase i="438" t="DSP klaida"/>
+<phrase i="437" t="Netinkamas VLAN"/>
+<phrase i="436" t="Netinkamas IP adresas"/>
+<phrase i="435" t="Netinkamas potinklio trafaretas"/>
+<phrase i="434" t=" Nepasiekiama"/>
+<phrase i="433" t=" Pristabdymas"/>
+<phrase i="432" t=" Aktyvus"/>
+<phrase i="431" t="BOOTP serveris naudojamas"/>
+<phrase i="430" t="Programavimo klaida"/>
+<phrase i="429" t="IP dublikatas"/>
+<phrase i="428" t="Nëra numatytojo kelvedþio"/>
+<phrase i="427" t="CNF rinkmena galima"/>
+<phrase i="426" t="Sumos patikros klaida"/>
+<phrase i="425" t="Netikslus ákëlimo ID"/>
+<phrase i="424" t="Nëra DNS serverio IP"/>
+<phrase i="423" t="DNS laiko baigtis"/>
+<phrase i="422" t="DNS neþinomas pagrindinis kompiuteris"/>
+<phrase i="421" t="TFTP bendroji klaida"/>
+<phrase i="420" t="Nerasta CFG rinkmena"/>
+<phrase i="419" t="TFTP laiko baigtis"/>
+<phrase i="418" t="DHCP laiko baigtis"/>
+<phrase i="417" t="Reikalingas kelvedis"/>
+<phrase i="416" t="Kelvedis – ne potinklyje"/>
+<phrase i="415" t="Reikalingas TFTP serveris"/>
+<phrase i="414" t="Netinkama informacija"/>
+<phrase i="413" t="Transliacijos slopinimo funkcija IÐJ."/>
+<phrase i="412" t="Transliacijos slopinimo funkcija ÁJ."/>
+<phrase i="411" t="Antrinë plokðtë neaptikta."/>
+<phrase i="410" t="Ragelio garsumas áraðytas!"/>
+<phrase i="409" t="Ausiniø garsumas áraðytas!"/>
+<phrase i="408" t="Garsiakalbio garsumas áraðytas!"/>
+<phrase i="407" t="Keitiniai neáraðyti!"/>
+<phrase i="406" t="Áraðyti garsumo reguliavimà?"/>
+<phrase i="405" t="Ávesti ávesties duomenis..."/>
+<phrase i="404" t="Paslaugos negalimos"/>
+<phrase i="403" t="PASLAUGOS"/>
+<phrase i="402" t="Perþiûrëti aparat. árangos informacijà"/>
+<phrase i="401" t="Aparat. árangos informacija"/>
+<phrase i="400" t="Perþiûrëti paketo informacijà"/>
+<phrase i="399" t="Paketø monitorius"/>
+<phrase i="398" t="Perþiûrëti taisymo informacijà"/>
+<phrase i="397" t="Taisymo rodinys"/>
+<phrase i="396" t="Perþiûrëti mikroprogramos versijas"/>
+<phrase i="395" t="Mikroprogramos versijos"/>
+<phrase i="394" t="Perþiûrëti tinklo statistikà"/>
+<phrase i="393" t="Tinklo statistika"/>
+<phrase i="392" t="Perþiûrëti bûsenos praneðimus"/>
+<phrase i="391" t="Ávestis aprobuota"/>
+<phrase i="390" t="Naujas %s:"/>
+<phrase i="389" t="Esamas %s:"/>
+<phrase i="388" t="Taisyti %s"/>
+<phrase i="387" t="Nuostatos bûsena"/>
+<phrase i="386" t="Pasirinkite bûsenos el..."/>
+<phrase i="385" t="Paketo statistika"/>
+<phrase i="384" t="Bûsenos praneðimai"/>
+<phrase i="383" t="Pasirinkite tinklo nuostatà..."/>
+<phrase i="382" t="Tonø sàr. negalimas!"/>
+<phrase i="381" t="Bloga tonø sàraðo rinkmena!"/>
+<phrase i="380" t="Tonø sàr. negalimas!"/>
+<phrase i="379" t="Uþklausa dël tonø rinkmenos..."/>
+<phrase i="378" t="Skambëjimo tipas"/>
+<phrase i="377" t="Pasirinkite skambutá..."/>
+<phrase i="376" t="Uþklausa dël tonø sàraðo..."/>
+<phrase i="375" t="Chirp 2"/>
+<phrase i="374" t="Chirp 1"/>
+<phrase i="373" t="Keitinys priimtas ir áraðytas"/>
+<phrase i="372" t="Keisti kontrastà..."/>
+<phrase i="371" t="Áraðyti visi keitiniai"/>
+<phrase i="370" t="Atstatytos gamyklinës nuostatos "/>
+<phrase i="369" t="Atstatytos áraðytos nuostatos"/>
+<phrase i="368" t="Pasirinkti nuostatà..."/>
+<phrase i="367" t="NUOSTATOS"/>
+<phrase i="366" t="Bûsena"/>
+<phrase i="365" t="Tinklo sàranka"/>
+<phrase i="364" t="Kontrastas"/>
+<phrase i="363" t="Tobulinti ieðkos kriterijus..."/>
+<phrase i="362" t="Áraðø nëra"/>
+<phrase i="361" t="%d áraðai"/>
+<phrase i="360" t="%s ieðka"/>
+<phrase i="359" t="Skambuèiø istorija iðvalyta!"/>
+<phrase i="358" t="Pasirinkite katalogà..."/>
+<phrase i="357" t="Netinkamas katalogo URL!..."/>
+<phrase i="356" t="KATALOGAS"/>
+<phrase i="355" t="Rinkti numeriai"/>
+<phrase i="354" t="Priimti skambuèiai"/>
+<phrase i="353" t="Praleisti skambuèiai"/>
+<phrase i="352" t="CM neveikia, funkcijos neveiksnios"/>
+<phrase i="351" t="%s"/>
+<phrase i="350" t="Tas klaviðas èia neveikia"/>
+<phrase i="349" t="Vykdoma uþklausa..."/>
+<phrase i="348" t="Skambuèiø statistika"/>
+<phrase i="347" t="INFORMACIJA"/>
+<phrase i="346" t="Rinkitës klaviðà ir gaukite daugiau informacijos..."/>
+<!-- There is a special symbol for help icon in the following phrase - Please don't delete it  -->
+<phrase i="345" t="Paspauskite  klaviðà, kad atðauktumëte..."/>
+<phrase i="344" t="Áraðyti visi laukai"/>
+<phrase i="343" t="Neáraðyti jokie keitiniai"/>
+<phrase i="342" t="%d dienos, "/>
+<phrase i="341" t="1 diena, "/>
+<phrase i="340" t="%s"/>
+<phrase i="339" t="%s"/>
+<phrase i="338" t="Vakar"/>
+<phrase i="337" t="Ðiandien"/>
+<phrase i="336" t="Ðeðtadienis"/>
+<phrase i="335" t="Penktadienis"/>
+<phrase i="334" t="Ketvirtadienis"/>
+<phrase i="333" t="Treèiadienis"/>
+<phrase i="332" t="Antradienis"/>
+<phrase i="331" t="Pirmadienis"/>
+<phrase i="330" t="Sekmadienis"/>
+<phrase i="329" t="Iki %s"/>
+<phrase i="328" t="Neþinomas numeris"/>
+<phrase i="327" t="Nuo %s"/>
+<phrase i="326" t="Kam %s"/>
+<!-- Note to translator:  Please abbreviate the following phrase (325) as concisely as
+     possible.  It is used for call forwarding scenarios, and the %s gets replaced with
+     a caller ID.  It is important to make as much space available for the caller ID
+     information as possible. -->
+<phrase i="325" t="Peradr. %s"/>
+<phrase i="324" t="Iðorinis skambutis"/>
+<phrase i="323" t="Naudojamas nuotoliniu bûdu"/>
+<phrase i="322" t="%d naujas praleistas skamb.%c"/><!-- %c will be replaced with &apos; &apos;, it was retained for backwards compatibility.  This phrase is the singular form and the %d will be replaced with a &apos;1&apos;.  The plural form of this phrase is 671 -->
+<phrase i="321" t="Rx Longs"/>
+<phrase i="320" t="Rx Shorts"/>
+<phrase i="319" t="Rx Broadcasts"/>
+<phrase i="318" t="Rx Multicasts"/>
+<phrase i="317" t="Rx Runt"/>
+<phrase i="316" t="Rx Bad Preamble"/>
+<phrase i="315" t="Rx CRC Errors"/>
+<phrase i="314" t="Rx Frames"/>
+<phrase i="313" t="Rx Long/CRC"/>
+<phrase i="312" t="Rx Overruns"/>
+<phrase i="311" t="Tx Deferred Abort"/>
+<phrase i="310" t="Tx Collisions"/>
+<phrase i="309" t="Tx Multicasts"/>
+<phrase i="308" t="Tx Broadcasts"/>
+<phrase i="307" t="Tx Frames"/>
+<phrase i="306" t="Tx Excessive Collisions"/>
+<phrase i="305" t="overflow Drop"/>
+<phrase i="304" t="bpdu Drop"/>
+<phrase i="303" t="cos 7 Drop"/>
+<phrase i="302" t="cos 6 Drop"/>
+<phrase i="301" t="cos 5 Drop"/>
+<phrase i="300" t="cos 4 Drop"/>
+<phrase i="299" t="cos 3 Drop"/>
+<phrase i="298" t="cos 2 Drop"/>
+<phrase i="297" t="cos 1 Drop"/>
+<phrase i="296" t="cos 0 Drop"/>
+<phrase i="295" t="Tx size1024to1518"/>
+<phrase i="294" t="Tx size512to1023"/>
+<phrase i="293" t="Tx size256to511"/>
+<phrase i="292" t="Tx size128to255"/>
+<phrase i="291" t="Tx size65to127"/>
+<phrase i="290" t="Tx size64"/>
+<phrase i="289" t="Tx totalOct"/>
+<phrase i="288" t="Tx multicast"/>
+<phrase i="287" t="Tx broadcast"/>
+<phrase i="286" t="Tx excessLength"/>
+<phrase i="285" t="Tx fifoUnderrun"/>
+<phrase i="284" t="Tx collisions"/>
+<phrase i="283" t="Tx totalGoodPkt"/>
+<phrase i="282" t="Tx lateCollision"/>
+<phrase i="281" t="Tx excessDefer"/>
+<phrase i="280" t="Rx tokenDrop"/>
+<phrase i="279" t="Rx size1519to1548"/>
+<phrase i="278" t="Rx size1024to1518"/>
+<phrase i="277" t="Rx size512to1023"/>
+<phrase i="276" t="Rx size256to511"/>
+<phrase i="275" t="Rx size128to255"/>
+<phrase i="274" t="Rx size65to127"/>
+<phrase i="273" t="Rx size64"/>
+<phrase i="272" t="Rx longErr"/>
+<phrase i="271" t="Rx longGood"/>
+<phrase i="270" t="Rx shortGood"/>
+<phrase i="269" t="Rx shortErr"/>
+<phrase i="268" t="Rx unicast"/>
+<phrase i="267" t="Rx broadcast"/>
+<phrase i="266" t="Rx multicast"/>
+<phrase i="265" t="Rx alignErr"/>
+<phrase i="264" t="Rx crcErr"/>
+<phrase i="263" t="Visi oktetai"/>
+<phrase i="262" t="Rx totalPkt"/>
+<phrase i="261" t="Operatoriaus ávykiai"/>
+<phrase i="260" t="RTP netinkamas"/>
+<phrase i="259" t="Neveikia"/>
+<phrase i="258" t="Neparengta"/>
+<phrase i="257" t="Sunaikinti"/>
+<phrase i="256" t="376000"/>
+<phrase i="255" t="Imtuvo pradþios laikas"/>
+<phrase i="254" t="Imtuvo oktetai"/>
+<phrase i="253" t="Imtuvo paketai"/>
+<phrase i="252" t="Imtuvo ataskaitos laikas"/>
+<phrase i="251" t="Imtuvo ataskaitos"/>
+<phrase i="250" t="Imtuvo árankis"/>
+<phrase i="249" t="Imtuvo poslinkis"/>
+<phrase i="248" t="Imtuvo prarasti paketai"/>
+<phrase i="247" t="Siøstuvo pradþios laikas"/>
+<phrase i="246" t="Siuntëjo ataskaitos laikas"/>
+<phrase i="245" t="Siuntëjo ataskaitos"/>
+<phrase i="244" t="Siuntëjo priemonë"/>
+<phrase i="243" t="Siuntëjo oktetai"/>
+<phrase i="242" t="Siuntëjo paketai"/>
+<phrase i="241" t="Pavadinimas"/>
+<phrase i="240" t="Eilutës bûsena"/>
+<phrase i="239" t="Pradþios laikas"/>
+<phrase i="238" t="Praleidþia"/>
+<phrase i="237" t="Gavëjas sujungia"/>
+<phrase i="236" t="Siuntëjas sujungia"/>
+<phrase i="235" t="Vietinis adresas"/>
+<phrase i="234" t="Nuotolinis adresas "/>
+<phrase i="233" t="Domenas"/>
+<phrase i="232" t="Spartusis prievadas"/>
+<phrase i="231" t="Fiksuotas TFTP"/>
+<phrase i="230" t="DHCP iðjungtas"/>
+<phrase i="229" t="Tuðèias URL laikas"/>
+<phrase i="228" t="Tuðèias URL"/>
+<phrase i="227" t="Tarnybø URL"/>
+<phrase i="226" t="Praneðimø URL"/>
+<phrase i="225" t="Katalogø URL"/>
+<phrase i="224" t="Informacijos URL"/>
+<phrase i="223" t="CallManager 5"/>
+<phrase i="222" t="CallManager 4"/>
+<phrase i="221" t="CallManager 3"/>
+<phrase i="220" t="CallManager 2"/>
+<phrase i="219" t="CallManager 1"/>
+<phrase i="218" t="Admin. VLAN ID"/>
+<phrase i="217" t="Darbinis VLAN ID"/>
+<phrase i="216" t="DNS 5 serveris"/>
+<phrase i="215" t="DNS 4 serveris"/>
+<phrase i="214" t="DNS 3 serveris"/>
+<phrase i="213" t="DNS 2 serveris"/>
+<phrase i="212" t="DNS 1 serveris"/>
+<phrase i="211" t="5 numatytasis kelvedis"/>
+<phrase i="210" t="4 numatytasis kelvedis"/>
+<phrase i="209" t="3 numatytasis kelvedis"/>
+<phrase i="208" t="2 numatytasis kelvedis"/>
+<phrase i="207" t="1 numatytasis kelvedis"/>
+<phrase i="206" t="TFTP 1 serveris"/>
+<phrase i="205" t="Potinklio trafaretas"/>
+<phrase i="204" t="IP adresas"/>
+<phrase i="203" t="Domeno pavadinimas"/>
+<phrase i="202" t="Pagr. kompiuterio pavadinimas"/>
+<phrase i="201" t="MAC adresas"/>
+</phrases>

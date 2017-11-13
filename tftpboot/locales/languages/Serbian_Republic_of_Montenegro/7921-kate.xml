@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<selectLists>
+	<trkLocaleName>Serbian_Republic_of_Montenegro</trkLocaleName>
+	<trkBaseClearcaseVersion>/main/3.3.release/2</trkBaseClearcaseVersion>
+	<trkTranslationVersion>0</trkTranslationVersion>
+	<selectList t="Alpha">
+		<list i="0" l="0 ,.&apos;&quot;|_~`"/>
+		<list i="1" l="1!@&lt;&gt;$%^&amp;"/>
+		<list i="2" l="abcèæ2ABCÈÆ"/>
+		<list i="3" l="dðef3DÐEF"/>
+		<list i="4" l="ghi4GHI"/>
+		<list i="5" l="jkl5JKL"/>
+		<list i="6" l="mno6MNO"/>
+		<list i="7" l="pqrs¹7PQRS©"/>
+		<list i="8" l="tuv8TUV"/>
+		<list i="9" l="wxyz¾9WXYZ®"/>
+		<list i="10" l="*+-/=\:;"/>
+		<list i="11" l="#?()[]{}"/>
+	</selectList>
+	<selectList t="Upper">
+		<list i="0" l="+ "/>
+		<list i="1" l=".-_ "/>
+		<list i="2" l="ABCÈÆ"/>
+		<list i="3" l="DÐEF"/>
+		<list i="4" l="GHI"/>
+		<list i="5" l="JKL"/>
+		<list i="6" l="MNO"/>
+		<list i="7" l="PQRS©"/>
+		<list i="8" l="TUV"/>
+		<list i="9" l="WXYZ®"/>
+		<list i="10" l=" "/>
+		<list i="11" l=" "/>
+	</selectList>
+	<selectList t="Lower">
+		<list i="0" l="+ "/>
+		<list i="1" l=".-_ "/>
+		<list i="2" l="abcèæ"/>
+		<list i="3" l="dðef"/>
+		<list i="4" l="ghi"/>
+		<list i="5" l="jkl"/>
+		<list i="6" l="mno"/>
+		<list i="7" l="pqrs¹"/>
+		<list i="8" l="tuv"/>
+		<list i="9" l="9wxyz¾"/>
+		<list i="10" l=" "/>
+		<list i="11" l=" "/>
+	</selectList>
+	<selectList t="Equation">
+		<list i="0" l="0"/>
+		<list i="1" l="1"/>
+		<list i="2" l="2"/>
+		<list i="3" l="3"/>
+		<list i="4" l="4"/>
+		<list i="5" l="5"/>
+		<list i="6" l="6"/>
+		<list i="7" l="7"/>
+		<list i="8" l="8"/>
+		<list i="9" l="9"/>
+		<list i="10" l="*/(."/>
+		<list i="11" l="+-)^"/>
+	</selectList>
+</selectLists>

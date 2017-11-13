@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Lithuanian_Lithuania</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nëra linijø, kurias bûtø galima perimti"/>
+	<phrase i="197" t="Iðorinis persiuntimas apribotas"/>
+	<phrase i="196" t="Nëra perëmimui prieinamos daþniø juostos"/>
+	<phrase i="195" t="Nëra skambuèiø, kuriuos bûtø galima perimti"/>
+	<phrase i="194" t="Nukëlimo lizdas neprieinamas"/>
+	<phrase i="193" t="Atjungta nuo paieðkos grupës"/>
+	<phrase i="192" t="PÞurnalas"/>
+	<phrase i="191" t="KPerimti"/>
+	<phrase i="190" t="Maks. sulaikymo trukmës pertrûkis"/>
+	<phrase i="189" t="Maks. skambuèio trukmës pertrûkis"/>
+	<phrase i="188" t="VaizdVeiksena"/>
+	<phrase i="187" t="Vaizdo áraðø daþniø juosta neprieinama"/>
+	<phrase i="186" t="Apsaugos klaida"/>
+	<phrase i="185" t="Numeris nekonfigûruotas"/>
+	<phrase i="184" t="Pkid pavyko"/>
+	<phrase i="183" t="Nepavyksta sujungti skambuèiø"/>
+	<phrase i="182" t="Perjungimas negalimas"/>
+	<phrase i="181" t="KÁterpti"/>
+	<phrase i="180" t="Nukreipti"/>
+	<phrase i="179" t="KonfSàraðas"/>
+	<phrase i="178" t="Rinktis"/>
+	<phrase i="177" t="Suj2Pok"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="SiøsPrbl"/>
+	<phrase i="174" t="Didelis uþimtumas, bandykite vëliau vël"/>
+	<phrase i="173" t="Paslauga neaktyvi"/>
+	<phrase i="172" t="SkambuèioNukëlimo apgràþa"/>
+	<phrase i="171" t="Nëra prieinamo nukëlimo numerio"/>
+	<phrase i="170" t="Nesuderinamo tipo prietaisas"/>
+	<phrase i="169" t="Yra kitas ásiterpimas"/>
+	<phrase i="168" t="Nepavyko nustatyti ásiterpimo"/>
+	<phrase i="167" t="Ásiterpti"/>
+	<phrase i="166" t="Tinklo perkrova, ið naujo parenkamas marðrutas"/>
+	<phrase i="165" t="Atskamb"/>
+	<phrase i="164" t="NukrVisus"/>
+	<phrase i="163" t="Netrukdyti"/>
+	<phrase i="162" t="PersáBP"/>
+	<phrase i="161" t="NustSteb"/>
+	<phrase i="160" t="Perimti"/>
+	<phrase i="159" t="Nukreipti"/>
+	<phrase i="158" t="Balso paðtas"/>
+	<phrase i="157" t="ÐalPaskS"/>
+	<phrase i="156" t="Neþinomas numeris"/>
+	<phrase i="155" t="Nepakanka pralaidumo"/>
+	<phrase i="154" t="Privatus"/>
+	<phrase i="153" t="Fiksavimo numeris"/>
+	<phrase i="152" t="Konferencija"/>
+	<phrase i="151" t="Neatitikimo klaida"/>
+	<phrase i="150" t="Neþinoma klaida"/>
+	<phrase i="149" t="Klaidos praleidimo riba"/>
+	<phrase i="148" t="Duomenø bazës klaida"/>
+	<phrase i="147" t="DBKonfig klaida"/>
+	<phrase i="146" t="Nesanèios licencijos klaida"/>
+	<phrase i="145" t="Kodas neaktyvus"/>
+	<phrase i="144" t="Virðytas didþiausias ðaliø skaièius"/>
+	<phrase i="143" t="Nëra informacijos apie dalyvá"/>
+	<phrase i="142" t="Jau konferencijoje"/>
+	<phrase i="141" t="Neteisëtas konferencijos dalyvis"/>
+	<phrase i="140" t="Nepavyksta sulaikyti pagrindinio valdymo"/>
+	<phrase i="139" t="Nëra konferencijos tilto"/>
+	<phrase i="138" t="Nepavyksta uþbaigti konferencijos"/>
+	<phrase i="137" t="Kam persiøsta"/>
+	<phrase i="136" t="Turite balso paðto praneðimø"/>
+	<phrase i="135" t="Laikinoji triktis"/>
+	<phrase i="134" t="Tik pagrindinis"/>
+	<phrase i="133" t="Nukelti skambutá"/>
+	<phrase i="132" t="Áveskite numerá"/>
+	<phrase i="131" t="Naudojamas nuotolinis"/>
+	<phrase i="130" t="Tæsti skambutá"/>
+	<phrase i="129" t="Skambuèio nukëlimas"/>
+	<phrase i="128" t="Skambuèio persiuntimas"/>
+	<phrase i="127" t="Laukiama skambuèio"/>
+	<phrase i="126" t="Linija naudojama"/>
+	<phrase i="125" t="Uþimta"/>
+	<phrase i="124" t="Prijungtas"/>
+	<phrase i="123" t="Nuo "/>
+	<phrase i="122" t="Skambuèio siuntimas"/>
+	<phrase i="121" t="Ragelis padëtas"/>
+	<phrase i="120" t="Ragelis pakeltas"/>
+	<phrase i="119" t="Esamos Jûsø parinktys"/>
+	<phrase i="118" t="GPerimti"/>
+	<phrase i="117" t="Perimti"/>
+	<phrase i="116" t="Susitik su manimi"/>
+	<phrase i="115" t="Prijungt"/>
+	<phrase i="114" t="Nukelti"/>
+	<phrase i="113" t="Konf."/>
+	<phrase i="112" t="Informacija"/>
+	<phrase i="111" t="Atsakymas"/>
+	<phrase i="110" t="Tæsti"/>
+	<phrase i="109" t="BaigtPok"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="SPeradrNeatsiliepia"/>
+	<phrase i="106" t="SPersiuntUþimta"/>
+	<phrase i="105" t="VisSPerd"/>
+	<phrase i="104" t="Perjungt"/>
+	<phrase i="103" t="Sulaikyti"/>
+	<phrase i="102" t="Naujas skambutis"/>
+	<phrase i="101" t="Rinkti vël"/>
+</phrases>

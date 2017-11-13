@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Korean_Korea_Republic</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="MIDlet 다운로드 중..."/>
+  <phrase i="8003" t="애플리케이션 최소화됨"/>
+  <phrase i="8002" t="MIDP 모듈을 성공적으로 설치하였습니다."/>
+  <phrase i="8001" t="MIDP 모듈 설치 대기 중..."/>
+  <phrase i="8000" t="펌웨어 업데이트 중..."/>
+  <phrase i="7999" t="펌웨어 다운로드 중...%d%%"/>
+  <phrase i="7998" t="펌웨어 복구 중..."/>
+  <phrase i="7997" t="펌웨어 업데이트 실패"/>
+  <phrase i="7996" t="배터리 부족! 업데이트할 수 없습니다."/>
+  <phrase i="7995" t="이미지 다운로드 실패"/>
+  <phrase i="7994" t="이미지 인증 실패"/>
+  <phrase i="7993" t="메모리 부족! 재부팅 중..."/>
+  <phrase i="7992" t="EAP-TLS/PEAP 사용"/>
+  <phrase i="7991" t="서버 인증서 확인"/>
+  <phrase i="7990" t="AOM 설치 실패"/>
+  <phrase i="7989" t="AOM 다운로드 중(%d/%d)"/>
+  <phrase i="7988" t="AOM 설치 중(%d/%d)...%d%%"/>
+  <phrase i="7987" t="이미지 무결성 확인 실패"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="스캐너 FW 설치 중:%d%%"/>
+  <phrase i="7984" t="스캐너 FW 다운로드 중"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="제한된 데이터 속도"/>
+  <phrase i="7080" t="스캔 모드"/>
+  <phrase i="7079" t="자동"/>
+  <phrase i="7078" t="지속"/>
+  <phrase i="7077" t="전지 전원 한계"/>
+  <phrase i="7076" t="전원 제약 조건"/>
+  <phrase i="7075" t="EAP-TLS 인증서"/>
+  <phrase i="7074" t="사용자 설치"/>
+  <phrase i="7073" t="제조 발급"/>
+  <phrase i="7072" t="CAPF 발급"/>
+  <phrase i="7071" t="인증서를 찾을 수 없습니다."/>
+  <phrase i="7070" t="인증서가 잘못되었습니다."/>
+  <phrase i="7069" t="인증서 만료: %s"/>
+  <phrase i="7068" t="인증서가 곧 만료됩니다."/>
+  <phrase i="7067" t="인증서가 %d일 내에 만료됩니다."/>
+  <phrase i="7066" t="인증서가 만료되었습니다."/>
+  <phrase i="7065" t="인증서 시간 클럭 설정 확인"/>
+  <phrase i="7064" t="WLAN 인증서를 찾을 수 없습니다."/>
+  <phrase i="7063" t="인증서를 찾을 수 없습니다."/>
+  <phrase i="7062" t="인증서 만료: %d일"/>
+  <phrase i="7061" t="WLAN 인증서가 만료되었습니다!"/>
+  <phrase i="7060" t="인증서가 만료되었습니다!"/>
+  <phrase i="7059" t="스테이션 수"/>
+  <phrase i="7057" t="경고 플래그"/>
+  <phrase i="7056" t="표지 간격"/>
+  <phrase i="7055" t="DTIM 기간"/>
+  <phrase i="7054" t="기능"/>
+  <phrase i="7053" t="속도 비트맵"/>
+  <phrase i="7052" t="기본 속도 비트맵"/>
+  <phrase i="7051" t="주파수 호핑"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="스펙트럼 관리"/>
+  <phrase i="7047" t="지원되지 않는 채널"/>
+  <phrase i="7046" t="채널 프로파일"/>
+  <phrase i="7045" t="프라이버시"/>
+  <phrase i="7044" t="저속"/>
+  <phrase i="7043" t="프록시 ARP"/>
+  <phrase i="7042" t="기본 속도"/>
+  <phrase i="7041" t="선택 속도"/>
+  <phrase i="7040" t="AC 배경"/>
+  <phrase i="7039" t="AC Best Effort"/>
+  <phrase i="7038" t="AC 비디오"/>
+  <phrase i="7037" t="AC 음성"/>
+  <phrase i="7036" t="ECW 최소"/>
+  <phrase i="7035" t="ECW 최대"/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="승인 제어"/>
+  <phrase i="7032" t="멀티캐스트 암호"/>
+  <phrase i="7031" t="유니캐스트 암호"/>
+  <phrase i="7030" t="BSS 손실 수"/>
+  <phrase i="7029" t="지원됨"/>
+  <phrase i="7028" t="사용 가능한 승인 수용 능력"/>
+  <phrase i="7027" t="있음"/>
+  <phrase i="7026" t="없음"/>
+  <phrase i="7025" t="액세스 범주"/>
+  <phrase i="7024" t="권장되지 않음"/>
+  <phrase i="7023" t="불일치"/>
+  <phrase i="7022" t="참조 AP"/>
+  <phrase i="7021" t="국가"/>
+  <phrase i="7020" t="CCA 임계값"/>
+  <phrase i="7019" t="공개 키 인증서"/>
+  <phrase i="7018" t="공개 키 인프라"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="유효 기간"/>
+  <phrase i="7015" t="루트 키"/>
+  <phrase i="7014" t="CA(인증 기관)"/>
+  <phrase i="7013" t="개인 키"/>
+  <phrase i="7012" t="공개 키"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="인증 서버"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="인증 실패"/>
+  <phrase i="7008" t="네트워크 프로파일이 없습니다."/>
+  <phrase i="7007" t="서비스 영역 이탈!"/>
+  <phrase i="7006" t="네트워크 서비스 찾기"/>
+  <phrase i="7005" t="선택된 프로파일이 없습니다."/>
+  <phrase i="7003" t="연결되었습니다."/>
+  <phrase i="7002" t="연결 시도 중..."/>
+  <phrase i="7001" t="WLAN 실패"/>
+  <phrase i="7000" t="채널 스캔 중..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="모든 통화 기록을 지우시겠습니까?"/>
+  <phrase i="6406" t="스캐너 진단"/>
+  <phrase i="6405" t="재설정"/>
+  <phrase i="6404" t="기호 그룹"/>
+  <phrase i="6403" t="확장"/>
+  <phrase i="6402" t="기본"/>
+  <phrase i="6401" t="스캐너"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="블루투스"/>
+  <phrase i="6399" t="장치 목록"/>
+  <phrase i="6398" t="스캔"/>
+  <phrase i="6397" t="다시 스캔"/>
+  <phrase i="6396" t="페어링"/>
+  <phrase i="6395" t="페어링 해제"/>
+  <phrase i="6394" t="페어링된 장치"/>
+  <phrase i="6393" t="스캔 중"/>
+  <phrase i="6392" t="페어링 중"/>
+  <phrase i="6391" t="%s 페어링됨"/>
+  <phrase i="6390" t="페어링 해제 중"/>
+  <phrase i="6389" t="%s 페어링 해제됨"/>
+  <phrase i="6388" t="장치 발견: %d개"/>
+  <phrase i="6387" t="%s 페어링 해제?"/>
+  <phrase i="6386" t="스캔 결과"/>
+  <phrase i="6385" t="Bluetooth 패스키 입력"/>
+  <phrase i="6384" t="페어링 실패!"/>
+  <phrase i="6383" t="%s 연결됨!"/>
+  <phrase i="6382" t="%s 연결 끊어짐!"/>
+  <phrase i="6381" t="연결"/>
+  <phrase i="6380" t="연결 끊기"/>
+  <phrase i="6379" t="헤드셋 볼륨 조절"/>
+  <phrase i="6378" t="최대 장치 수 초과"/>
+  <phrase i="6377" t="Bluetooth 연결 실패"/>
+  <phrase i="6376" t="페어링된 장치입니다!"/>
+  <phrase i="6375" t="페어링 모두 해제"/>
+  <phrase i="6374" t="Bluetooth 준비 안 됨"/>
+  <phrase i="6373" t="Bluetooth 내부 오류"/>
+  <phrase i="6372" t="작동 실패"/>
+  <phrase i="6371" t="Bluetooth 선택됨"/>
+  <phrase i="6370" t="스피커 선택됨"/>
+  <phrase i="6369" t="핸드셋 선택됨"/>
+  <phrase i="6368" t="헤드셋 선택됨"/>
+  <phrase i="6367" t="진단"/>
+  <phrase i="6366" t="키패드"/>
+  <phrase i="6365" t="오디오"/>
+  <phrase i="6364" t="진단 선택"/>
+  <phrase i="6363" t="임의의 단추를 누릅니다."/>
+  <phrase i="6362" t="키패드 진단"/>
+  <phrase i="6361" t="누름"/>
+  <phrase i="6360" t="해제됨"/>
+  <phrase i="6359" t="오디오 진단"/>
+  <phrase i="6358" t="로컬 오디오 루프백"/>
+  <phrase i="6357" t="%d 소프트키"/>
+  <phrase i="6356" t="볼륨 낮추기"/>
+  <phrase i="6355" t="볼륨 높이기"/>
+  <phrase i="6354" t="오른쪽"/>
+  <phrase i="6353" t="왼쪽"/>
+  <phrase i="6352" t="전원"/>
+  <phrase i="6351" t="음소거"/>
+  <phrase i="6350" t="Java 설치 실패"/>
+  <phrase i="6349" t="%s 선택"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="시작오류"/>
+  <phrase i="6298" t="%s가 현재 열려 있습니다."/>
+  <phrase i="6297" t="닫은 후에 다른 항목 시작:"/>
+  <phrase i="6296" t="전환대상"/>
+  <phrase i="6295" t="앱 닫기"/>
+  <phrase i="6294" t="앱 중지"/>
+  <phrase i="6293" t="수신 전화"/>
+  <phrase i="6292" t="무시"/>
+  <phrase i="6291" t="완료"/>
+  <phrase i="6290" t="설정"/>
+  <phrase i="6289" t="Java 정보"/>
+  <phrase i="6288" t="시작"/>
+  <phrase i="6287" t="설치"/>
+  <phrase i="6286" t="이동"/>
+  <phrase i="6285" t="(으)로 이동"/>
+  <phrase i="6284" t="예외"/>
+  <phrase i="6283" t="애플리케이션"/>
+  <phrase i="6282" t="애플리케이션"/>
+  <phrase i="6281" t="정보"/>
+  <phrase i="6280" t="제거"/>
+  <phrase i="6279" t="설치 애플리케이션"/>
+  <phrase i="6278" t="CA(인증 기관) 관리"/>
+  <phrase i="6277" t="종료"/>
+  <phrase i="6276" t="제조업체"/>
+  <phrase i="6275" t="서비스 제공자"/>
+  <phrase i="6274" t="타사"/>
+  <phrase i="6273" t="정오"/>
+  <phrase i="6272" t="중간"/>
+  <phrase i="6271" t="yyyy-mm-dd"/>
+  <phrase i="6270" t="hh:mm ??"/>
+  <phrase i="6269" t="yyyy-mm-dd hh:mm  "/>
+  <phrase i="6268" t="일"/>
+  <phrase i="6267" t="월"/>
+  <phrase i="6266" t="화"/>
+  <phrase i="6265" t="수"/>
+  <phrase i="6264" t="목"/>
+  <phrase i="6263" t="금"/>
+  <phrase i="6262" t="토"/>
+  <phrase i="6261" t="1월"/>
+  <phrase i="6260" t="2월"/>
+  <phrase i="6259" t="3월"/>
+  <phrase i="6258" t="4월"/>
+  <phrase i="6257" t="5월"/>
+  <phrase i="6256" t="6월"/>
+  <phrase i="6255" t="7월"/>
+  <phrase i="6254" t="8월"/>
+  <phrase i="6253" t="9월"/>
+  <phrase i="6252" t="10월"/>
+  <phrase i="6251" t="11월"/>
+  <phrase i="6250" t="12월"/>
+  <phrase i="6249" t="1월"/>
+  <phrase i="6248" t="2월"/>
+  <phrase i="6247" t="3월"/>
+  <phrase i="6246" t="4월"/>
+  <phrase i="6245" t="5월"/>
+  <phrase i="6244" t="6월"/>
+  <phrase i="6243" t="7월"/>
+  <phrase i="6242" t="8월"/>
+  <phrase i="6241" t="9월"/>
+  <phrase i="6240" t="10월"/>
+  <phrase i="6239" t="11월"/>
+  <phrase i="6238" t="12월"/>
+  <phrase i="6237" t="전"/>
+  <phrase i="6236" t="후"/>
+  <phrase i="6235" t="시간:"/>
+  <phrase i="6234" t="날짜:"/>
+  <phrase i="6233" t="기호"/>
+  <phrase i="6232" t="예측"/>
+  <phrase i="6231" t="예측"/>
+  <phrase i="6230" t="예측"/>
+  <phrase i="6229" t="확인"/>
+  <phrase i="6228" t="옵션..."/>
+  <phrase i="6227" t="오전"/>
+  <phrase i="6226" t="오후"/>
+  <phrase i="6225" t="데이터 삭제"/>
+  <phrase i="6224" t="애플리케이션 크기"/>
+  <phrase i="6223" t="애플리케이션 데이터 크기"/>
+  <phrase i="6222" t="바이트"/>
+  <phrase i="6221" t="오류, 관리자에게 문의하십시오."/>
+  <phrase i="6220" t="애플리케이션 종료 중..."/>
+  <phrase i="6219" t="설치가 취소됨"/>
+  <phrase i="6218" t="애플리케이션 설치에 실패"/>
+  <phrase i="6217" t="애플리케이션 설치 중..."/>
+  <phrase i="6216" t="애플리케이션 시작 중..."/>
+  <phrase i="6215" t="확인"/>
+  <phrase i="6214" t="로드 중"/>
+  <phrase i="6213" t="시작 중"/>
+  <phrase i="6212" t="JAR 크기"/>
+  <phrase i="6211" t="JAR URL"/>
+  <phrase i="6210" t="설명"/>
+  <phrase i="6209" t="공급업체"/>
+  <phrase i="6208" t="MicroEdition-구성"/>
+  <phrase i="6207" t="MicroEdition-프로파일"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="개인 설정"/>
+  <phrase i="6205" t="통화끼어들기 단일 단추"/>
+  <phrase i="6204" t="와이드밴드 헤드셋 UI 제어"/>
+  <phrase i="6203" t="자동 통화 선택"/>
+  <phrase i="6202" t="통화 목록에 대한 BLF"/>
+  <phrase i="6201" t="자동 회선 선택"/>
+  <phrase i="6200" t="UI 정보"/>
+  <phrase i="6199" t="UI"/>
+  <phrase i="6198" t="시작 메시지"/>
+  <phrase i="6197" t="인사말 메시지"/>
+  <phrase i="6196" t="새 연락처 생성"/>
+  <phrase i="6195" t="기존 연락처에 저장"/>
+  <phrase i="6194" t="로드 중... 기다려 주십시오."/>
+  <phrase i="6193" t="시스템 구성"/>
+  <phrase i="6192" t="영숫자만 가능합니다!"/>
+  <phrase i="6191" t="추적 수준 선택"/>
+  <phrase i="6190" t="원격 Syslog"/>
+  <phrase i="6189" t="추적 수준"/>
+  <phrase i="6188" t="진단 사용"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="조직"/>
+  <phrase i="6186" t="기본값 선택"/>
+  <phrase i="6185" t="뷰 선택"/>
+  <phrase i="6184" t="이미지 선택"/>
+  <phrase i="6183" t="소프트키 사용자 정의"/>
+  <phrase i="6182" t="회선 %d(%s)"/>
+  <phrase i="6181" t="표시할 회선 선택"/>
+  <phrase i="6180" t="전화 회선"/>
+  <phrase i="6179" t="홈 페이지"/>
+  <phrase i="6178" t="번호목록"/>
+  <phrase i="6177" t="배경 이미지"/>
+  <phrase i="6176" t="기본 뷰"/>
+  <phrase i="6175" t="왼쪽 소프트키"/>
+  <phrase i="6174" t="홈 페이지 사용자 정의"/>
+  <phrase i="6173" t="%s(%d 없음)"/>
+  <phrase i="6172" t="프로파일이 제한되었습니다!"/>
+  <phrase i="6171" t="할당되지 않음"/>
+  <phrase i="6170" t="연락처 필드 선택"/>
+  <phrase i="6169" t="성, 이름"/>
+  <phrase i="6168" t="이름, 성"/>
+  <phrase i="6167" t="디렉터리 정렬 순서"/>
+  <phrase i="6166" t="기본 번호 없음"/>
+  <phrase i="6165" t="할당되지 않은 단축 다이얼을 선택하십시오!"/>
+  <phrase i="6164" t="할당할 단축 다이얼 선택"/>
+  <phrase i="6163" t="연락처 번호 선택"/>
+  <phrase i="6162" t="단축 다이얼 %d 할당"/>
+  <phrase i="6161" t="새 단축 다이얼로 할당하시겠습니까?"/>
+  <phrase i="6160" t="전화 유형 선택"/>
+  <phrase i="6159" t="연락처 선택"/>
+  <phrase i="6158" t="모두삭제"/>
+  <phrase i="6157" t="모든 연락처를 삭제했습니다!"/>
+  <phrase i="6156" t="모든 연락처를 삭제하시겠습니까?"/>
+  <phrase i="6155" t="기본 전화를 업데이트했습니다!"/>
+  <phrase i="6154" t="배경 이미지 미리보기"/>
+  <phrase i="6153" t="새 벨소리를 저장했습니다!"/>
+  <phrase i="6152" t="일치하는 레코드가 없습니다."/>
+  <phrase i="6151" t="새 번호를 저장할 공간이 없습니다!"/>
+  <phrase i="6150" t="이름 변경"/>
+  <phrase i="6149" t="병합"/>
+  <phrase i="6148" t="덮어쓰기"/>
+  <phrase i="6147" t="연락처를 업데이트했습니다!"/>
+  <phrase i="6146" t="연락처가 이미 있습니다!"/>
+  <phrase i="6145" t="연락처를 삭제했습니다!"/>
+  <phrase i="6144" t="연락처를 삭제하시겠습니까?"/>
+  <phrase i="6143" t="단축 다이얼을 삭제하시겠습니까?"/>
+  <phrase i="6142" t="IM 주소"/>
+  <phrase i="6141" t="별칭"/>
+  <phrase i="6140" t="단축 다이얼 %d을(를) 할당했습니다!"/>
+  <phrase i="6139" t="바로 호출"/>
+  <phrase i="6138" t="새 단축 다이얼 항목"/>
+  <phrase i="6137" t="(비어 있음)"/>
+  <phrase i="6136" t="빈 번호!"/>
+  <phrase i="6135" t="단축 다이얼을 삭제했습니다!"/>
+  <phrase i="6134" t="길게 눌러 활성화하십시오."/>
+  <phrase i="6133" t="길게 눌러 비활성화하십시오."/>
+  <phrase i="6132" t="%d개 단축 다이얼 번호"/>
+  <phrase i="6131" t="1개 단축 다이얼 번호"/>
+  <phrase i="6130" t="연락처 이름 필요!"/>
+  <phrase i="6129" t="최대 용량을 사용하고 있습니다!"/>
+  <phrase i="6128" t="1개 연락처"/>
+  <phrase i="6127" t="1개 레코드"/>
+  <phrase i="6126" t="연락처 없음"/>
+  <phrase i="6125" t="검색 조건을 구체화하십시오."/>
+  <phrase i="6124" t="모든 시스템을 재설정하시겠습니까?"/>
+  <phrase i="6123" t="전화기 재부팅을 시작하시겠습니까?"/>
+  <phrase i="6122" t="키(16진수)를 입력하십시오."/>
+  <phrase i="6121" t="잘못되었거나 없는 입력"/>
+  <phrase i="6120" t="%s에서 %d 응답 대기 중"/>
+  <phrase i="6119" t="사용 가능한 대역폭 없음"/>
+  <phrase i="6118" t="기록이 활성화될 때까지 대기"/>
+  <phrase i="6117" t="높음"/>
+  <phrase i="6116" t="같음"/>
+  <phrase i="6115" t="낮음"/>
+  <phrase i="6114" t="DND 켜기"/>
+  <phrase i="6113" t="DND 끄기"/>
+  <phrase i="6112" t="우선 순위 되돌리기"/>
+  <phrase i="6111" t="메시지 쇄도"/>
+  <phrase i="6110" t="구성 업데이트 성공"/>
+  <phrase i="6109" t="구성 업데이트 실패"/>
+  <phrase i="6108" t="구성 패키지 업데이트 성공"/>
+  <phrase i="6107" t="구성 패키지 업데이트 실패"/>
+  <phrase i="6106" t="HTTPS 클라이언트 구성"/>
+  <phrase i="6105" t="검증되지 않은 인증서 허용"/>
+  <phrase i="6104" t="검증되지 않은 인증서 거부"/>
+  <phrase i="6103" t="인증서 옵션 선택"/>
+  <phrase i="6102" t="사용자 정보"/>
+  <phrase i="6101" t="설정 사용 안 함"/>
+  <phrase i="6100" t="필드가 읽기 전용입니다!"/>
+  <phrase i="6099" t="관리자에 의해 프로파일 잠김"/>
+  <phrase i="6098" t="관리자에 의해 액세스 제한됨"/>
+  <phrase i="6097" t="프로파일이 읽기 전용입니다."/>
+  <phrase i="6096" t="PIN을 입력하십시오."/>
+  <phrase i="6095" t="Pin은 관리자에게 문의하십시오."/>
+  <phrase i="6094" t="해산"/>
+  <phrase i="6093" t="가운데 버튼을 사용하여 선택하십시오."/>
+  <phrase i="6092" t="가운데 버튼을 사용하여 선택을 취소하십시오."/>
+  <phrase i="6091" t="잘못된 암호 또는 인증 서버 중지"/>
+  <phrase i="6090" t="WLAN 암호를 변경하시겠습니까?"/>
+  <phrase i="6089" t="UserInfo"/>
+  <phrase i="6088" t="WLAN 액세스가 거부되었습니다!"/>
+  <phrase i="6087" t="서버 작동 중단"/>
+  <phrase i="6086" t="전화 번호부"/>
+  <phrase i="6085" t="계속하려면 [계속]을 누르십시오."/>
+  <phrase i="6084" t="새 연락처"/>
+  <phrase i="6083" t="연락처 변경"/>
+  <phrase i="6082" t="연락처"/>
+  <phrase i="6081" t="%d개 연락처"/>
+  <phrase i="6080" t="%d개(%d개 중) 연락처"/>
+  <phrase i="6079" t="전체 이름"/>
+  <phrase i="6078" t="기본 설정 표시"/>
+  <phrase i="6077" t="표시 순서 선택"/>
+  <phrase i="6076" t="다른 이름의 파일"/>
+  <phrase i="6075" t="직장 전화"/>
+  <phrase i="6074" t="휴대폰"/>
+  <phrase i="6073" t="집 전화"/>
+  <phrase i="6072" t="기타 전화"/>
+  <phrase i="6071" t="전자 메일 주소"/>
+  <phrase i="6070" t="회사"/>
+  <phrase i="6069" t="직장 주소"/>
+  <phrase i="6068" t="동"/>
+  <phrase i="6067" t="시"/>
+  <phrase i="6066" t="시/도"/>
+  <phrase i="6065" t="우편번호"/>
+  <phrase i="6064" t="저장"/>
+  <phrase i="6063" t="연락처 저장"/>
+  <phrase i="6062" t="번호 유형 선택"/>
+  <phrase i="6061" t="연락처 장치 유형 선택"/>
+  <phrase i="6060" t="정렬"/>
+  <phrase i="6059" t="계속"/>
+  <phrase i="6058" t="회사"/>
+  <phrase i="6057" t="전용번호"/>
+  <phrase i="6056" t="국제"/>
+  <phrase i="6055" t="즐겨찾기"/>
+  <phrase i="6054" t="자주 사용하는 연락처"/>
+  <phrase i="6053" t="주요 고객"/>
+  <phrase i="6052" t="기타"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="범주"/>
+  <phrase i="6049" t="범주"/>
+  <phrase i="6048" t="연락처 범주 선택"/>
+  <phrase i="6047" t="범주 선택"/>
+  <phrase i="6046" t="연락처 범주 선택"/>
+  <phrase i="6045" t="범주 선택"/>
+  <phrase i="6044" t="필터"/>
+  <phrase i="6043" t="연락처 필터 선택"/>
+  <phrase i="6042" t="필터 선택"/>
+  <phrase i="6041" t="단축 다이얼"/>
+  <phrase i="6040" t="단축 다이얼 번호"/>
+  <phrase i="6039" t="단축 다이얼 번호 입력"/>
+  <phrase i="6038" t="잘못된 단축 다이얼 번호"/>
+  <phrase i="6037" t="단축 다이얼 %d이(가) 할당되지 않음"/>
+  <phrase i="6036" t="단축 다이얼이 비어 있음"/>
+  <phrase i="6035" t="옵션을 사용하여 저장하십시오."/>
+  <phrase i="6034" t="저장하려면 옵션을 누르십시오."/>
+  <phrase i="6033" t="연락처가 저장되었습니다."/>
+  <phrase i="6032" t="연락처가 저장되지 않았습니다!"/>
+  <phrase i="6031" t="설정이 저장되었습니다."/>
+  <phrase i="6030" t="설정이 저장되지 않았습니다!"/>
+  <phrase i="6029" t="취소됨"/>
+  <phrase i="6028" t="변경 취소됨"/>
+  <phrase i="6027" t="발신자로부터 부재 중 전화: %d건"/>
+  <phrase i="6026" t="발신자로부터 수신 전화: %d건"/>
+  <phrase i="6025" t="이 번호로 발신 전화: %d건"/>
+  <phrase i="6024" t="요금 부과 모드"/>
+  <phrase i="6023" t="디스플레이를 흐리게 유지"/>
+  <phrase i="6022" t="디스플레이를 완전 밝기로 유지"/>
+  <phrase i="6021" t="디스플레이 기본 설정 선택"/>
+  <phrase i="6020" t="홈 페이지 사용자 정의"/>
+  <phrase i="6019" t="바로 가기"/>
+  <phrase i="6018" t="회선 뷰"/>
+  <phrase i="6017" t="주 메뉴"/>
+  <phrase i="6016" t="애플리케이션 선택"/>
+  <phrase i="6015" t="애플리케이션"/>
+  <phrase i="6014" t="할당할 바로 가기 선택"/>
+  <phrase i="6013" t="할당"/>
+  <phrase i="6012" t="스피커 사용"/>
+  <phrase i="6011" t="스피커 사용 안 함"/>
+  <phrase i="6010" t="추적 설정"/>
+  <phrase i="6009" t="비활성화하려면 전화기 재부팅"/>
+  <phrase i="6008" t="허용됨"/>
+  <phrase i="6007" t="구성되지 않음"/>
+  <phrase i="6006" t="현재 신호음 기본 설정"/>
+  <phrase i="6005" t="경고음만"/>
+  <phrase i="6004" t="전화 신호음 울리기"/>
+  <phrase i="6003" t="경고 기본 설정 선택"/>
+  <phrase i="6002" t="부재 중"/>
+  <phrase i="6001" t="모두"/>
+  <!-- GUI -->
+  <phrase i="6000" t="상태 항목 선택"/>
+  <phrase i="5999" t="모델 설정 선택"/>
+  <phrase i="5998" t="네트워크 구성"/>
+  <phrase i="5997" t="네트워크 설정 선택"/>
+  <phrase i="5996" t="전화 설정"/>
+  <phrase i="5995" t="전화 설정 선택"/>
+  <phrase i="5994" t="보안 설정 선택"/>
+  <phrase i="5993" t="장치 설정 선택"/>
+  <phrase i="5992" t="설정 선택"/>
+  <phrase i="5991" t="프로파일 선택"/>
+  <phrase i="5990" t="WLAN 설정 선택"/>
+  <phrase i="5989" t="802.11 모드"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="자동-b/g"/>
+  <phrase i="5985" t="자동-a"/>
+  <phrase i="5984" t="자동-RSSI"/>
+  <phrase i="5983" t="열기"/>
+  <phrase i="5982" t="열기+WEP"/>
+  <phrase i="5981" t="공유+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="자동(AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Poll"/>
+  <phrase i="5976" t="U-APSD/없음"/>
+  <phrase i="5975" t="PS-Poll"/>
+  <phrase i="5973" t="HEX"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40비트"/>
+  <phrase i="5970" t="128비트"/>
+  <phrase i="5969" t="끄기"/>
+  <phrase i="5968" t="고성"/>
+  <phrase i="5967" t="보안 모드"/>
+  <phrase i="5966" t="단일 액세스 지점"/>
+  <phrase i="5965" t="통화 절전 모드"/>
+  <phrase i="5964" t="키 스타일"/>
+  <phrase i="5963" t="정적 WEP 키"/>
+  <phrase i="5962" t="WEP 키"/>
+  <phrase i="5961" t="기본"/>
+  <phrase i="5960" t="사전 공유 키"/>
+  <phrase i="5959" t="네트워크 프로파일"/>
+  <phrase i="5958" t="도킹 스피커"/>
+  <phrase i="5957" t="도킹 벨소리"/>
+  <phrase i="5956" t="헤드셋"/>
+  <phrase i="5955" t="일반"/>
+  <phrase i="5954" t="회의"/>
+  <phrase i="5953" t="외부"/>
+  <phrase i="5952" t="무음"/>
+  <phrase i="5951" t="사용자 정의 1"/>
+  <phrase i="5950" t="사용자 정의 2"/>
+  <phrase i="5949" t="키패드 신호음"/>
+  <phrase i="5948" t="경보 패턴"/>
+  <phrase i="5947" t="벨소리만"/>
+  <phrase i="5946" t="진동만"/>
+  <phrase i="5945" t="진동 후 벨소리"/>
+  <phrase i="5944" t="벨소리 꺼짐!"/>
+  <phrase i="5943" t="벨소리"/>
+  <phrase i="5942" t="초"/>
+  <phrase i="5941" t="호선택 "/>
+  <phrase i="5940" t="조정 "/>
+  <phrase i="5939" t="새로입력"/>
+  <phrase i="5938" t="현재"/>
+  <phrase i="5937" t="새로 입력"/>
+  <phrase i="5936" t="이전 값"/>
+  <phrase i="5935" t="활성화"/>
+  <phrase i="5934" t="비활성화"/>
+  <phrase i="5933" t="경고"/>
+  <phrase i="5932" t="구성 오류"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP 활성화/비활성화"/>
+  <phrase i="5928" t="CallManager 정보"/>
+  <phrase i="5927" t="HTTP 정보"/>
+  <phrase i="5926" t="로케일 정보"/>
+  <phrase i="5925" t="QoS 정보"/>
+  <phrase i="5924" t="CallManager 정보"/>
+  <phrase i="5923" t="보안 정보"/>
+  <phrase i="5922" t="WLAN 구성"/>
+  <phrase i="5921" t="WLAN 구성"/>
+  <phrase i="5920" t="프로파일 이름"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="USB 설정 선택"/>
+  <phrase i="5914" t="USB 구성"/>
+  <phrase i="5913" t="사이트 설문 조사"/>
+  <phrase i="5912" t="로드 서버"/>
+  <phrase i="5911" t="채널 선택"/>
+  <phrase i="5910" t="채널"/>
+  <phrase i="5909" t="프로파일 %d"/>
+  <phrase i="5908" t="사용자 프로파일"/>
+  <phrase i="5907" t="사용자 프로파일 선택"/>
+  <phrase i="5906" t="사용자 설정 선택"/>
+  <phrase i="5905" t="네트워크 프로파일"/>
+  <phrase i="5904" t="네트워크 프로파일 선택"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="디스플레이 밝기"/>
+  <phrase i="5901" t="디스플레이 시간 초과"/>
+  <phrase i="5900" t="없음"/>
+  <phrase i="5899" t="모든 키 응답"/>
+  <phrase i="5898" t="활성화됨"/>
+  <phrase i="5897" t="비활성화됨"/>
+  <phrase i="5896" t="충전 완료!"/>
+  <phrase i="5895" t="배터리 제거됨!"/>
+  <phrase i="5894" t="배터리 부족!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="문자열 입력"/>
+  <phrase i="5890" t="인증 문자열"/>
+  <phrase i="5889" t="LSC 작업 완료"/>
+  <phrase i="5888" t="LSC 작업 시작됨"/>
+  <phrase i="5887" t="중지"/>
+  <phrase i="5886" t="CAPF 서버에 연결 중"/>
+  <phrase i="5885" t="CAPF 서버 연결 실패"/>
+  <phrase i="5884" t="CAPF 서버에 연결됨"/>
+  <phrase i="5883" t="CAPF에 인증 중"/>
+  <phrase i="5882" t="CAPF 서버"/>
+  <phrase i="5881" t="애플리케이션 인증 오류"/>
+  <phrase i="5880" t="LSC에 대한 키 생성 중"/>
+  <phrase i="5879" t="LSC 키 생성 실패"/>
+  <phrase i="5878" t="LSC 작업 진행 중"/>
+  <phrase i="5877" t="재시도 중...기다려 주십시오."/>
+  <phrase i="5876" t="LSC 작업 취소됨"/>
+  <phrase i="5875" t="LSC 작업 중단됨"/>
+  <phrase i="5874" t="LSC 작업 시간 초과됨"/>
+  <phrase i="5873" t="LSC 작업 실패"/>
+  <phrase i="5872" t="필수 최소 길이"/>
+  <phrase i="5871" t="URL이 구성되지 않았음!"/>
+  <phrase i="5870" t="없음"/>
+  <phrase i="5869" t="알 수 없음"/>
+  <phrase i="5867" t="설치되지 않음"/>
+  <phrase i="5866" t="설치됨"/>
+  <phrase i="5864" t="LSC 설치됨"/>
+  <phrase i="5863" t="LSC 업데이트됨"/>
+  <phrase i="5862" t="LSC 삭제됨"/>
+  <phrase i="5861" t="상세정보"/>
+  <phrase i="5860" t="설정 액세스 비활성화됨!"/>
+  <phrase i="5859" t="전화 재부팅 중..."/>
+  <phrase i="5858" t="초기 설정값으로 재설정하시겠습니까?"/>
+  <phrase i="5857" t="CTL 파일"/>
+  <phrase i="5856" t="신뢰 목록"/>
+  <phrase i="5855" t="CTL 파일 지워짐!"/>
+  <phrase i="5854" t="찾을 수 없음"/>
+  <phrase i="5853" t="전화의 MIC 불량"/>
+  <phrase i="5852" t="CTL 업데이트 실패"/>
+  <phrase i="5851" t="CTL 설치됨"/>
+  <phrase i="5850" t="배터리 충전기 중지됨!"/>
+  <phrase i="5849" t="배터리 충전기 시작됨!"/>
+  <phrase i="5848" t="AC 연결 끊어짐!"/>
+  <phrase i="5847" t="AC 연결됨!"/>
+  <phrase i="5846" t="USB 연결 끊어짐!"/>
+  <phrase i="5845" t="USB 연결됨!"/>
+  <phrase i="5844" t="도킹 연결 끊어짐!"/>
+  <phrase i="5843" t="도킹 연결됨!"/>
+  <phrase i="5842" t="헤드셋 연결 끊어짐!"/>
+  <phrase i="5841" t="헤드셋 연결됨!"/>
+  <phrase i="5840" t="최대 길이 도달!"/>
+  <phrase i="5839" t="키패드 잠금 해제됨!"/>
+  <phrase i="5838" t="키패드 잠김!"/>
+  <phrase i="5837" t="키패드 잠금을 해제하시겠습니까?"/>
+  <phrase i="5836" t="키패드를 잠그시겠습니까?"/>
+  <phrase i="5835" t="진동 꺼짐!"/>
+  <phrase i="5834" t="진동 켜짐!"/>
+  <phrase i="5833" t="LSC 업데이트 실패!"/>
+  <phrase i="5832" t="MIC 업데이트 실패!"/>
+  <phrase i="5831" t="설정 잠금 해제됨!"/>
+  <phrase i="5830" t="설정 잠김!"/>
+  <phrase i="5829" t="배터리 부족...종료 중!"/>
+  <phrase i="5828" t="CTL에 TFTP 없음"/>
+  <phrase i="5827" t="USB 인터페이스 위로"/>
+  <phrase i="5826" t="USB 인터페이스 아래로"/>
+  <phrase i="5825" t="%d초"/>
+  <phrase i="5824" t="키패드 자동 잠금"/>
+  <phrase i="5823" t="자동 잠금 타이머 선택"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="디렉터리 선택"/>
+  <phrase i="5820" t="네트워크 사용 중"/>
+  <phrase i="5819" t="WLAN 관리 도메인"/>
+  <phrase i="5818" t="USB 공급업체 ID"/>
+  <phrase i="5817" t="USB 제품 ID"/>
+  <phrase i="5816" t="RNDIS 장치 주소"/>
+  <phrase i="5815" t="RNDIS 호스트 주소"/>
+  <phrase i="5814" t="숨김"/>
+  <phrase i="5813" t="옵션"/>
+  <phrase i="5812" t="선택하려면 가운데 단추를 누르십시오."/>
+  <phrase i="5811" t="편집하려면 가운데 단추를 누르십시오."/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="로그 유지"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="보안 구성"/>
+  <phrase i="5785" t="프로파일 차단됨!"/>
+  <phrase i="5784" t="프로파일 차단됨!"/>
+  <phrase i="5783" t="WLAN 드라이버 ID"/>
+  <phrase i="5782" t="WLAN 펌웨어 ID"/>
+  <phrase i="5781" t="통화 통계 보기"/>
+  <phrase i="5780" t="수신자 코덱"/>
+  <phrase i="5779" t="송신자 코덱"/>
+  <phrase i="5778" t="수신자 크기"/>
+  <phrase i="5777" t="송신자 크기"/>
+  <phrase i="5776" t="평균 지터"/>
+  <phrase i="5775" t="최대 지터"/>
+  <phrase i="5774" t="수신자 폐기됨"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="평균 MOS LQK"/>
+  <phrase i="5771" t="최소 MOS LQK"/>
+  <phrase i="5770" t="최대 MOS LQK"/>
+  <phrase i="5769" t="MOS LQK 버전"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="숨김(초)"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="네트워크 정보"/>
+  <phrase i="5761" t="WLAN 정보"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="로케일"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="보안"/>
+  <phrase i="5755" t="볼륨 수준 선택"/>
+  <phrase i="5754" t="사운드 설정"/>
+  <phrase i="5753" t="디스플레이 설정"/>
+  <phrase i="5752" t="키패드 설정"/>
+  <phrase i="5751" t="기본 벨소리 종류"/>
+  <phrase i="5750" t="사운드 설정 선택"/>
+  <phrase i="5749" t="디스플레이 설정 선택"/>
+  <phrase i="5748" t="키패드 설정 선택"/>
+  <phrase i="5747" t="암호화 유형"/>
+  <phrase i="5746" t="CCKM 모드"/>
+  <phrase i="5745" t="키 관리"/>
+  <phrase i="5744" t="TX 전원"/>
+  <phrase i="5743" t="공유"/>
+  <phrase i="5742" t="자동 전환"/>
+  <phrase i="5741" t="WPA 없음"/>
+  <phrase i="5740" t="웹 액세스"/>
+  <phrase i="5739" t="읽기 전용"/>
+  <phrase i="5738" t="전화를 걸 번호 편집"/>
+  <phrase i="5737" t="볼륨 설정"/>
+  <phrase i="5736" t="볼륨 선택"/>
+  <phrase i="5735" t="볼륨"/>
+  <phrase i="5734" t="벨소리"/>
+  <phrase i="5733" t="핸드셋"/>
+  <phrase i="5732" t="스피커"/>
+  <phrase i="5731" t="진동 후 벨소리"/>
+  <phrase i="5730" t="수준 %d"/>
+  <phrase i="5729" t="분"/>
+  <phrase i="5728" t="분"/>
+  <phrase i="5727" t="통화 처리 중..."/>
+  <phrase i="5726" t="통화 취소됨!"/>
+  <phrase i="5725" t="통화 실패. 다시 시도하십시오."/>
+  <phrase i="5724" t="활성화할 수 없음: 빈 SSID!"/>
+  <phrase i="5723" t="빈 SSID는 여기에 사용할 수 없습니다."/>
+  <phrase i="5722" t="벨소리"/>
+  <phrase i="5721" t="현재 설정"/>
+  <phrase i="5720" t="사용 가능한 벨소리"/>
+  <phrase i="5719" t="벨소리 설정"/>
+  <phrase i="5718" t="보기"/>
+  <phrase i="5717" t="벨소리 선택"/>
+  <phrase i="5716" t="벨소리 적용"/>
+  <phrase i="5715" t="적용"/>
+  <phrase i="5714" t="LED 통화권 표시기"/>
+  <phrase i="5713" t="보안 구성"/>
+  <phrase i="5712" t="벨소리 출력"/>
+  <phrase i="5711" t="스피커 및 헤드셋"/>
+  <phrase i="5710" t="변경"/>
+  <phrase i="5709" t="Wavelink 구성"/>
+  <phrase i="5708" t="Wavelink 설정 선택"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="대체 Wavelink 서버"/>
+  <phrase i="5705" t="Wavelink 서버"/>
+  <phrase i="5704" t="Wavelink 서버 포트"/>
+  <phrase i="5703" t="활성화 도구 버전"/>
+  <phrase i="5702" t="사용자 정의 이름"/>
+  <phrase i="5701" t="사용자 정의 값"/>
+  <phrase i="5700" t="Ch."/>
+  <phrase i="5699" t="이웃 목록"/>
+  <phrase i="5698" t="AP 이름"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NullRcv"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="잠금해제"/>
+  <phrase i="5689" t="개인 전화번호부"/>
+  <phrase i="5688" t="기업 전화번호부"/>
+  <phrase i="5687" t="잠금 해제 누르기"/>
+  <phrase i="5686" t="잠금 해제하려면 #을 누르십시오."/>
+  <phrase i="5685" t="잠금 해제하려면 #을 길게 누르십시오."/>
+  <phrase i="5684" t="키패드 잠김"/>
+  <phrase i="5683" t="백라이트"/>
+  <phrase i="5682" t="오디오 경로 선택"/>
+  <phrase i="5681" t="스피커 및 Bluetooth"/>
+  <phrase i="5680" t="헤드셋 벨소리"/>
+  <phrase i="5679" t="높음"/>
+  <phrase i="5678" t="중간"/>
+  <phrase i="5677" t="낮음"/>
+  <phrase i="5676" t="메인 화면을 표시하려면 %s을(를) 누르십시오."/>
+  <phrase i="5675" t="통화 세부 정보"/>
+  <phrase i="5674" t="%s(위치 %s)"/>
+  <phrase i="5673" t="통화 시간"/>
+  <phrase i="5672" t="프롬프트 모드"/>
+  <phrase i="5671" t="사용자 인증서가 잘못된 것 같습니다."/>
+  <phrase i="5670" t="지금 변경하시겠습니까?"/>
+  <phrase i="5669" t="스피커 모드"/>
+  <phrase i="5668" t="영구"/>
+  <phrase i="5667" t="통화 당"/>
+  <phrase i="5666" t="네트워크 프로파일 로그인"/>
+  <phrase i="5665" t="글꼴 크기"/>
+  <phrase i="5664" t="증가됨"/>
+  <phrase i="5663" t="64비트"/>
+  <phrase i="5662" t="104비트"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="인터콤"/>
+  <phrase i="4998" t="링인"/>
+  <phrase i="4997" t="로컬 디렉터리"/>
+  <phrase i="4996" t="로컬 단축 다이얼"/>
+  <phrase i="4995" t="성"/>
+  <phrase i="4994" t="이름"/>
+  <phrase i="4993" t="로컬 디렉터리 검색"/>
+  <phrase i="4992" t="일치 항목이 너무 많습니다."/>
+  <phrase i="4991" t="발견된 레코드가 없습니다."/>
+  <phrase i="4990" t="레코드 1 ~ ... /"/>
+  <phrase i="4989" t="사용할 수 있는 회선 없음"/>
+  <phrase i="4988" t="호전환할 수 없음"/>
+  <phrase i="4987" t="호전환 대상 통화 중"/>
+  <phrase i="4986" t="전화를 걸 번호 입력 또는 선택"/>
+  <phrase i="4985" t="모든 시스템을 재설정하시겠습니까?"/>
+  <phrase i="4984" t="설정을 기본값으로 변경하시겠습니까?"/>
+  <phrase i="4983" t="디렉터리 서비스"/>
+  <phrase i="4982" t="XML 서비스"/>
+  <phrase i="4981" t="서버에 연결하는 중"/>
+  <phrase i="4980" t="연결 실패"/>
+  <phrase i="4979" t="통화를 다시 시작하시겠습니까?"/>
+  <phrase i="4978" t="메뉴"/>
+  <phrase i="4977" t="언어"/>
+  <phrase i="4976" t="대체 도메인"/>
+  <phrase i="4975" t="대체 DNS"/>
+  <phrase i="4974" t="현재 값"/>
+  <phrase i="4973" t="새 값"/>
+  <phrase i="4972" t="기본 라우터"/>
+  <phrase i="4971" t="VLAN 사용"/>
+  <phrase i="4970" t="CDP 사용"/>
+  <phrase i="4969" t="서비스"/>
+  <phrase i="4968" t="단축 다이얼"/>
+  <phrase i="4967" t="서버 입력"/>
+  <phrase i="4966" t="정적"/>
+  <phrase i="4965" t="등록 모드"/>
+  <phrase i="4964" t="모드"/>
+  <phrase i="4963" t="레거시"/>
+  <phrase i="4962" t="펌웨어 업그레이드"/>
+  <phrase i="4961" t="명암조절 메뉴"/>
+  <phrase i="4960" t="관리자 암호 변경"/>
+  <phrase i="4959" t="사용할 수 없음"/>
+  <phrase i="4958" t="샘플 텍스트"/>
+  <phrase i="4957" t="업그레이드"/>
+  <phrase i="4956" t="새 암호 입력"/>
+  <phrase i="4955" t="메시지"/>
+  <phrase i="4954" t="설정"/>
+  <phrase i="4953" t="디렉터리"/>
+  <phrase i="4952" t="잘못된 암호"/>
+  <phrase i="4951" t="관리자 암호 입력"/>
+  <phrase i="4950" t="잘못된 입력 값"/>
+  <phrase i="4949" t="잘못된 키 문자열 길이"/>
+  <phrase i="4948" t="잘못된 키 문자열: HEX 숫자여야 함"/>
+  <phrase i="4947" t="단축 다이얼"/>
+  <phrase i="4946" t="이더넷 연결 끊어짐"/>
+  <phrase i="4945" t="TFTP를 통해 구성"/>
+  <phrase i="4944" t="DHCP를 통해 IP 구성"/>
+  <phrase i="4943" t="VLAN 설정 구성"/>
+  <phrase i="4942" t="사용할 수 없는 번호"/>
+  <phrase i="4941" t="할당되지 않음"/>
+  <phrase i="4940" t="벨소리 볼륨"/>
+  <phrase i="4939" t="핸드셋 볼륨"/>
+  <phrase i="4938" t="스피커 볼륨"/>
+  <phrase i="4937" t="재시도"/>
+  <phrase i="4936" t="입력"/>
+  <phrase i="4935" t="알파"/>
+  <phrase i="4934" t="끄기"/>
+  <phrase i="4933" t="모니터"/>
+  <phrase i="4932" t="번호"/>
+  <phrase i="4931" t="메시지"/>
+  <phrase i="718" t="인터콤 내역"/>
+  <phrase i="717" t="모든 회선"/>
+  <phrase i="716" t="회선 %d"/>
+  <phrase i="715" t="아래"/>
+  <phrase i="714" t="작업 취소됨"/>
+  <phrase i="713" t="TFTP 승인되지 않음: %s"/>
+  <phrase i="712" t="지우기"/>
+  <phrase i="711" t="암호화됨"/>
+  <phrase i="710" t="인증됨"/>
+  <phrase i="709" t="안전하지 않음"/>
+  <phrase i="708" t="TLS 오류 "/>
+  <phrase i="707" t="웹 액세스 사용"/>
+  <phrase i="706" t="장치 보안 모드"/>
+  <phrase i="705" t="처리 중..."/>
+  <phrase i="704" t="잘못된 입력 또는 정보가 없음"/>
+  <phrase i="703" t="키 생성을 실패함"/>
+  <phrase i="702" t="연결 손실 또는 실패"/>
+  <phrase i="701" t="실패함"/>
+  <phrase i="700" t="시간 초과"/>
+  <phrase i="699" t="성공"/>
+  <phrase i="698" t="인증 요청..."/>
+  <phrase i="697" t="연결 중..."/>
+  <phrase i="696" t="CAPF 재시도..."/>
+  <phrase i="695" t="키 생성 중..."/>
+  <phrase i="694" t="작업 취소"/>
+  <phrase i="693" t="인증서 업데이트"/>
+  <phrase i="692" t="인증 문자열"/>
+  <phrase i="691" t="인증서"/>
+  <phrase i="690" t="서비스에 대한 DSCP"/>
+  <phrase i="689" t="구성에 대한 DSCP"/>
+  <phrase i="688" t="통화 제어에 대한 DSCP"/>
+  <phrase i="687" t="파일 인증 실패"/>
+  <phrase i="686" t="CAST 작업"/>
+  <phrase i="685" t="비디오 기능 사용"/>
+  <phrase i="684" t="자동 회선 선택 사용"/>
+  <phrase i="683" t="음성 VLAN 사용"/>
+  <phrase i="682" t="GARP 사용"/>
+  <phrase i="681" t="인접 포트"/>
+  <phrase i="680" t="인접 IP 주소"/>
+  <phrase i="679" t="인접 장치 ID"/>
+  <phrase i="678" t="%s에 의해"/>
+  <phrase i="677" t="착신 전환됨"/>
+  <phrase i="676" t="단축 다이얼"/>
+  <phrase i="675" t="서비스 URL 상태 요구 중"/>
+  <phrase i="674" t="기능 키 상태 요구 중"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="부재 중 전화 %d"/>
+  <phrase i="670" t="기본 벨소리"/>
+  <phrase i="669" t="회선 선택..."/>
+  <phrase i="668" t="번호 편집"/>
+  <phrase i="667" t="통화 중단"/>
+  <phrase i="666" t="네트워크 로케일 버전"/>
+  <phrase i="665" t="사용자 로케일 버전"/>
+  <phrase i="664" t="TFTP 요청 취소됨"/>
+  <phrase i="663" t="DHCP 비활성화됨"/>
+  <phrase i="662" t="IP 주소 필요"/>
+  <phrase i="661" t="상태 "/>
+  <phrase i="660" t="기본값"/>
+  <phrase i="659" t="메시지 대기 중"/>
+  <phrase i="658" t="핸드셋 전용 모드"/>
+  <phrase i="657" t="모델 번호"/>
+  <phrase i="656" t="모델 정보 보기"/>
+  <phrase i="655" t="모델 정보"/>
+  <phrase i="654" t="연결 상태 "/>
+  <phrase i="653" t="마지막 글꼴 포인터"/>
+  <phrase i="652" t="글꼴 포인터"/>
+  <phrase i="651" t="애플리케이션 실행"/>
+  <phrase i="650" t="마지막 글꼴 다운로드"/>
+  <phrase i="649" t="글꼴 다운로드"/>
+  <phrase i="648" t="글꼴 테이블 정보"/>
+  <phrase i="647" t="마지막 세그먼트 다운로드"/>
+  <phrase i="646" t="세그먼트 다운로드"/>
+  <phrase i="645" t="세그먼트 업데이트"/>
+  <phrase i="644" t="하드웨어 정보"/>
+  <phrase i="643" t="버전 TFTP"/>
+  <phrase i="642" t="버전 정보"/>
+  <phrase i="641" t="유휴"/>
+  <phrase i="640" t="지원되지 않음"/>
+  <phrase i="639" t="로케일 업데이트 오류"/>
+  <phrase i="638" t="상태 %d 응답을 %s(으)로부터 기다리는 중"/>
+  <phrase i="637" t="%s을(를) %s(으)로부터 기다리는 중"/>
+  <phrase i="636" t="BOOTP 서버"/>
+  <phrase i="635" t="DHCP 서버"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO 개정"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="일련 번호"/>
+  <phrase i="626" t="하드웨어 개정"/>
+  <phrase i="625" t="부트 로드 ID"/>
+  <phrase i="624" t="애플리케이션 로드 ID"/>
+  <phrase i="623" t="전화 번호"/>
+  <phrase i="622" t="SYS 모드"/>
+  <phrase i="621" t="FIQ 모드"/>
+  <phrase i="620" t="IRQ 모드"/>
+  <phrase i="619" t="SVC 모드"/>
+  <phrase i="618" t="정의되지 않은 모드"/>
+  <phrase i="610" t="다음"/>
+  <phrase i="609" t="선택"/>
+  <phrase i="608" t="종료"/>
+  <phrase i="607" t="아래"/>
+  <phrase i="606" t="위"/>
+  <phrase i="605" t="취소"/>
+  <phrase i="604" t="편집"/>
+  <phrase i="603" t="아니요"/>
+  <phrase i="602" t="예"/>
+  <phrase i="601" t="재생"/>
+  <phrase i="600" t="다이얼"/>
+  <phrase i="599" t="번호편집"/>
+  <phrase i="598" t="저장"/>
+  <phrase i="597" t="복원"/>
+  <phrase i="596" t="삭제"/>
+  <phrase i="595" t="공장"/>
+  <phrase i="594" t="확인"/>
+  <phrase i="593" t="확인"/>
+  <phrase i="592" t="검색"/>
+  <phrase i="591" t="다음"/>
+  <phrase i="590" t="업데이트"/>
+  <phrase i="589" t="지우기"/>
+  <phrase i="588" t="제출"/>
+  <phrase i="587" t="신호음"/>
+  <phrase i="586" t="네트워크 로케일"/>
+  <phrase i="585" t="사용자 로케일"/>
+  <phrase i="584" t="Kate File"/>
+  <phrase i="583" t="신호음 파일"/>
+  <phrase i="582" t="벨소리 장치 사용 중!"/>
+  <phrase i="581" t="TFTP 서버 2"/>
+  <phrase i="578" t="SW 포트 구성"/>
+  <phrase i="577" t="PC 포트 구성"/>
+  <phrase i="576" t="PC 포트 비활성화됨"/>
+  <phrase i="575" t="오류"/>
+  <phrase i="574" t="잘못된 인수"/>
+  <phrase i="573" t="베이스 폰"/>
+  <phrase i="571" t="명암조절 메뉴"/>
+  <phrase i="570" t="조절할 명암 선택"/>
+  <phrase i="569" t="음성메일"/>
+  <phrase i="568" t="메시지"/>
+  <phrase i="555" t="CM-ICMP-연결 못 함"/>
+  <phrase i="554" t="통화 선택..."/>
+  <phrase i="553" t="프록시 서버 URL"/>
+  <phrase i="552" t="인증 URL"/>
+  <phrase i="551" t="자동 다이얼 취소됨!"/>
+  <phrase i="550" t="Sidecar Task"/>
+  <phrase i="547" t="HTTP 파일 오류"/>
+  <phrase i="546" t="XML 오류 [4]: 구문 분석 오류"/>
+  <phrase i="545" t="파일 생성 오류"/>
+  <phrase i="544" t="마지막="/>
+  <phrase i="543" t="거부된 HC 로드"/>
+  <phrase i="542" t="전화-등록-거부"/>
+  <phrase i="541" t="재설정-재시작"/>
+  <phrase i="540" t="재설정-재설정"/>
+  <phrase i="539" t="전화-IP-재구성"/>
+  <phrase i="538" t="전화 키패드"/>
+  <phrase i="537" t="전화 구성도"/>
+  <phrase i="536" t="장애 복구"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-중단됨-TCP"/>
+  <phrase i="532" t="CM-재설정-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="530" t="구성 정보 확인 오류"/>
+  <phrase i="529" t="포트 정보"/>
+  <phrase i="528" t="이더넷 정보"/>
+  <phrase i="527" t="%s 너무 큼"/>
+  <phrase i="526" t="발신: "/>
+  <phrase i="525" t="항목 없음"/>
+  <phrase i="524" t="사용자 ID 및 암호 입력"/>
+  <phrase i="523" t="암호"/>
+  <phrase i="522" t="사용자 이름"/>
+  <phrase i="521" t="서비스 선택..."/>
+  <phrase i="520" t="현재 통화 처리..."/>
+  <phrase i="519" t="TFTP 크기 오류"/>
+  <phrase i="518" t="관용구 파일"/>
+  <phrase i="517" t="글리프 파일"/>
+  <phrase i="516" t="%s을(를) 사용할 수 없음"/>
+  <phrase i="515" t="잘못된 %s"/>
+  <phrase i="514" t="로그 %d"/>
+  <phrase i="513" t="액세스"/>
+  <phrase i="511" t="전화"/>
+  <phrase i="510" t="네트워크"/>
+  <phrase i="509" t="스트림 %d"/>
+  <phrase i="508" t="스트리밍 통계"/>
+  <phrase i="507" t="장치 로그"/>
+  <phrase i="506" t="포트 %d"/>
+  <phrase i="505" t="이더넷"/>
+  <phrase i="504" t="장치 정보"/>
+  <phrase i="503" t="착신 전환 지연"/>
+  <phrase i="502" t="삭제 구성"/>
+  <phrase i="501" t="대체 TFTP"/>
+  <phrase i="500" t="DHCP 주소 해제됨"/>
+  <phrase i="499" t="DHCP 사용"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="버전"/>
+  <phrase i="493" t="뒤로"/>
+  <phrase i="492" t=" 켜기"/>
+  <phrase i="491" t=" 예"/>
+  <phrase i="490" t=" 끄기"/>
+  <phrase i="489" t=" 아니요"/>
+  <phrase i="488" t="RTP 지연"/>
+  <phrase i="487" t="TFTP 오류"/>
+  <phrase i="486" t="TFTP 액세스 오류"/>
+  <phrase i="485" t="파일을 찾을 수 없음"/>
+  <phrase i="484" t="마지막=0x%02X"/>
+  <phrase i="483" t="CM-종료됨-TCP"/>
+  <phrase i="482" t="TCP-시간 초과"/>
+  <phrase i="481" t="초기화됨"/>
+  <phrase i="480" t="이름=%15s"/>
+  <phrase i="479" t="소프트웨어 업데이트"/>
+  <phrase i="478" t="ROM 체크섬 오류"/>
+  <phrase i="477" t=" 로드="/>
+  <phrase i="474" t="중복 IP 주소"/>
+  <phrase i="473" t="IP 주소 해제됨"/>
+  <phrase i="472" t="재설정"/>
+  <phrase i="471" t="서버 목록 요청"/>
+  <phrase i="470" t="속도 상태 요청"/>
+  <phrase i="469" t="회선 상태 요청"/>
+  <phrase i="468" t="소프트키 집합 요청"/>
+  <phrase i="467" t="소프트키 템플릿 요청"/>
+  <phrase i="466" t="템플릿 요청"/>
+  <phrase i="465" t="DSP 부팅"/>
+  <phrase i="464" t="로드 확인"/>
+  <phrase i="463" t="등록 거부됨"/>
+  <phrase i="462" t="등록"/>
+  <phrase i="461" t="열기 "/>
+  <phrase i="460" t="CM 목록 구성"/>
+  <phrase i="459" t="IP 구성"/>
+  <phrase i="458" t="VLAN 구성"/>
+  <phrase i="457" t="%d / %d"/>
+  <phrase i="456" t="제조 정보 잘못됨"/>
+  <phrase i="455" t="XML 오류 [%d]!"/>
+  <phrase i="454" t="HTTP 오류 [%d]!"/>
+  <phrase i="453" t="호스트를 찾을 수 없음"/>
+  <phrase i="452" t="HTTP 요청 취소됨"/>
+  <phrase i="451" t="재전송하는 중..."/>
+  <phrase i="450" t="인증 필요!"/>
+  <phrase i="449" t="절반"/>
+  <phrase i="448" t="전체"/>
+  <phrase i="447" t="실행 시간"/>
+  <phrase i="446" t="압축 유형 오류"/>
+  <phrase i="445" t="TCP 오류 코드"/>
+  <phrase i="444" t="버전 오류"/>
+  <phrase i="443" t="디스크 가득 참 오류"/>
+  <phrase i="442" t="CFG TFTP 크기 오류"/>
+  <phrase i="441" t="DSP 지연"/>
+  <phrase i="440" t="플러시됨"/>
+  <phrase i="439" t="DSP 킵 얼라이브 시간 초과"/>
+  <phrase i="438" t="DSP 오류"/>
+  <phrase i="437" t="잘못된 VLAN"/>
+  <phrase i="436" t="잘못된 IP 주소"/>
+  <phrase i="435" t="잘못된 서브넷 마스크"/>
+  <phrase i="434" t=" 사용할 수 없음"/>
+  <phrase i="433" t=" 대기"/>
+  <phrase i="432" t=" 활성"/>
+  <phrase i="431" t="BOOTP 서버 사용됨"/>
+  <phrase i="430" t="프로그래밍 오류"/>
+  <phrase i="429" t="중복 IP"/>
+  <phrase i="428" t="기본 라우터 없음"/>
+  <phrase i="427" t="구성 파일을 사용할 수 있음"/>
+  <phrase i="426" t="체크섬 오류"/>
+  <phrase i="425" t="로드 ID 잘못됨"/>
+  <phrase i="424" t="DNS 서버 IP 없음"/>
+  <phrase i="423" t="DNS 시간 초과"/>
+  <phrase i="422" t="DNS 알 수 없는 호스트"/>
+  <phrase i="421" t="TFTP 일반 오류"/>
+  <phrase i="420" t="CFG 파일을 찾을 수 없음"/>
+  <phrase i="419" t="TFTP 시간 초과"/>
+  <phrase i="418" t="DHCP 시간 초과"/>
+  <phrase i="417" t="라우터 필요"/>
+  <phrase i="416" t="서브넷에 라우터 없음"/>
+  <phrase i="415" t="TFTP 서버 필요"/>
+  <phrase i="414" t="잘못된 정보"/>
+  <phrase i="413" t="브로드캐스트 무시 끄기"/>
+  <phrase i="412" t="브로드캐스트 무시 켜기"/>
+  <phrase i="410" t="핸드셋 볼륨이 저장되었습니다!"/>
+  <phrase i="409" t="헤드셋 볼륨이 저장되었습니다!"/>
+  <phrase i="408" t="스피커 볼륨이 저장되었습니다!"/>
+  <phrase i="407" t="변경 사항이 저장되지 않았습니다!"/>
+  <phrase i="406" t="볼륨 조절을 저장하시겠습니까?"/>
+  <phrase i="405" t="입력 데이터 지정..."/>
+  <phrase i="404" t="서비스를 사용할 수 없음"/>
+  <phrase i="403" t="서비스"/>
+  <phrase i="402" t="하드웨어 정보 보기"/>
+  <phrase i="401" t="하드웨어 정보"/>
+  <phrase i="400" t="스택 정보 보기"/>
+  <phrase i="399" t="스택 모니터"/>
+  <phrase i="398" t="디버그 정보 보기"/>
+  <phrase i="397" t="디버그 표시"/>
+  <phrase i="396" t="펌웨어 버전 보기"/>
+  <phrase i="395" t="펌웨어 버전"/>
+  <phrase i="394" t="네트워크 통계 보기"/>
+  <phrase i="393" t="네트워크 통계"/>
+  <phrase i="392" t="상태 메시지 보기"/>
+  <phrase i="391" t="항목 확인됨"/>
+  <phrase i="390" t="새 %s:"/>
+  <phrase i="389" t="현재 %s:"/>
+  <phrase i="388" t="%s 편집"/>
+  <phrase i="387" t="설정 상태"/>
+  <phrase i="386" t="상태 항목 선택..."/>
+  <phrase i="385" t="스택 통계"/>
+  <phrase i="384" t="상태 메시지"/>
+  <phrase i="383" t="네트워크 설정 선택..."/>
+  <phrase i="382" t="벨소리 목록을 사용할 수 없음!"/>
+  <phrase i="381" t="잘못된 벨소리 목록 파일!"/>
+  <phrase i="380" t="벨소리 파일을 사용할 수 없음!"/>
+  <phrase i="379" t="벨소리 파일 요청 중..."/>
+  <phrase i="378" t="벨소리 종류"/>
+  <phrase i="377" t="벨소리 장치 선택"/>
+  <phrase i="376" t="벨소리 목록 요청 중..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="변경 승인 및 저장됨"/>
+  <phrase i="372" t="명암 변경..."/>
+  <phrase i="371" t="모든 변경 사항 저장됨"/>
+  <phrase i="370" t="공장 설정 복원됨 "/>
+  <phrase i="369" t="저장된 설정 복원됨"/>
+  <phrase i="368" t="설정 선택..."/>
+  <phrase i="367" t="설정"/>
+  <phrase i="366" t="상태"/>
+  <phrase i="365" t="네트워크 구성"/>
+  <phrase i="364" t="명암조절"/>
+  <phrase i="363" t="검색 조건 구체화..."/>
+  <phrase i="362" t="레코드 없음"/>
+  <phrase i="361" t="%d개 레코드"/>
+  <phrase i="360" t="%s 검색"/>
+  <phrase i="359" t="통화 내역 지워짐!"/>
+  <phrase i="358" t="디렉터리 선택..."/>
+  <phrase i="357" t="잘못된 디렉터리 URL!..."/>
+  <phrase i="356" t="디렉터리"/>
+  <phrase i="355" t="발신된 전화"/>
+  <phrase i="354" t="수신된 전화"/>
+  <phrase i="353" t="부재 중 전화"/>
+  <phrase i="352" t="CM 중지, 기능 비활성화됨"/>
+  <phrase i="351" t="%s:"/>
+  <phrase i="350" t="해당 키는 여기서 활성화 안됨"/>
+  <phrase i="349" t="요청 중..."/>
+  <phrase i="348" t="통화 통계"/>
+  <phrase i="347" t="정보"/>
+  <phrase i="346" t="추가 정보를 보려면 키 선택..."/>
+  <phrase i="345" t="취소하려면  키 누름..."/>
+  <phrase i="344" t="모든 필드 저장됨"/>
+  <phrase i="343" t="변경 사항 저장 안 됨"/>
+  <phrase i="342" t="%d일, "/>
+  <phrase i="341" t="1일, "/>
+  <phrase i="340" t="%s,"/>
+  <phrase i="339" t="%s,"/>
+  <phrase i="338" t="어제,"/>
+  <phrase i="337" t="오늘"/>
+  <phrase i="336" t="토요일"/>
+  <phrase i="335" t="금요일"/>
+  <phrase i="334" t="목요일"/>
+  <phrase i="333" t="수요일"/>
+  <phrase i="332" t="화요일"/>
+  <phrase i="331" t="월요일"/>
+  <phrase i="330" t="일요일"/>
+  <phrase i="329" t="수신자: %s"/>
+  <phrase i="328" t="알 수 없는 번호"/>
+  <phrase i="327" t="발신자: %s"/>
+  <phrase i="326" t="대상 %s"/>
+  <phrase i="325" t="%s 착신 전환"/>
+  <phrase i="324" t="외부 통화"/>
+  <phrase i="323" t="원격 사용 중"/>
+  <phrase i="322" t="부재 중 전화 %d"/>
+  <phrase i="321" t="Rx Longs"/>
+  <phrase i="320" t="Rx Shorts"/>
+  <phrase i="319" t="Rx Broadcasts"/>
+  <phrase i="318" t="Rx Multicasts"/>
+  <phrase i="317" t="Rx Runt"/>
+  <phrase i="316" t="Rx Bad Preamble"/>
+  <phrase i="315" t="Rx CRC Errors"/>
+  <phrase i="314" t="Rx Frames"/>
+  <phrase i="313" t="Rx Long/CRC"/>
+  <phrase i="312" t="Rx Overruns"/>
+  <phrase i="311" t="Tx Deferred Abort"/>
+  <phrase i="310" t="Tx Collisions"/>
+  <phrase i="309" t="Tx Multicasts"/>
+  <phrase i="308" t="Tx Broadcasts"/>
+  <phrase i="307" t="Tx Frames"/>
+  <phrase i="306" t="Tx Excessive Collisions"/>
+  <phrase i="305" t="overflow Drop"/>
+  <phrase i="304" t="bpdu 드롭"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Tx multicast"/>
+  <phrase i="287" t="Tx broadcast"/>
+  <phrase i="286" t="Tx excessLength"/>
+  <phrase i="285" t="Tx fifoUnderrun"/>
+  <phrase i="284" t="Tx collisions"/>
+  <phrase i="283" t="Tx totalGoodPkt"/>
+  <phrase i="282" t="Tx lateCollision"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx longErr"/>
+  <phrase i="271" t="Rx longGood"/>
+  <phrase i="270" t="Rx shortGood"/>
+  <phrase i="269" t="Rx shortErr"/>
+  <phrase i="268" t="Rx unicast"/>
+  <phrase i="267" t="Rx broadcast"/>
+  <phrase i="266" t="Rx multicast"/>
+  <phrase i="265" t="Rx alignErr"/>
+  <phrase i="264" t="Rx crcErr"/>
+  <phrase i="263" t="옥텟 합계"/>
+  <phrase i="262" t="Rx totalPkt"/>
+  <phrase i="261" t="캐리어 이벤트"/>
+  <phrase i="260" t="RTP 잘못됨"/>
+  <phrase i="259" t="서비스 중 아님"/>
+  <phrase i="258" t="준비 안 됨"/>
+  <phrase i="257" t="삭제"/>
+  <phrase i="255" t="수신자 시작 시간"/>
+  <phrase i="254" t="수신자 옥텟"/>
+  <phrase i="253" t="수신자 패킷"/>
+  <phrase i="252" t="수신자 보고 시간"/>
+  <phrase i="251" t="수신자 보고서"/>
+  <phrase i="250" t="수신자 도구"/>
+  <phrase i="249" t="수신자 지터"/>
+  <phrase i="248" t="수신자 손실 패킷"/>
+  <phrase i="247" t="송신자 시작 시간"/>
+  <phrase i="246" t="송신자 보고 시간"/>
+  <phrase i="245" t="송신자 보고서"/>
+  <phrase i="244" t="송신자 도구"/>
+  <phrase i="243" t="송신자 옥텟"/>
+  <phrase i="242" t="송신자 패킷"/>
+  <phrase i="241" t="이름"/>
+  <phrase i="240" t="행 상태"/>
+  <phrase i="239" t="시작 시간"/>
+  <phrase i="238" t="작별인사"/>
+  <phrase i="237" t="수신자 참가"/>
+  <phrase i="236" t="송신자 참가"/>
+  <phrase i="235" t="로컬 주소"/>
+  <phrase i="234" t="원격 주소 "/>
+  <phrase i="233" t="도메인"/>
+  <phrase i="232" t="포트 패스트"/>
+  <phrase i="231" t="고정 TFTP"/>
+  <phrase i="230" t="DHCP 비활성화됨"/>
+  <phrase i="229" t="유휴 URL 시간"/>
+  <phrase i="228" t="유휴 URL"/>
+  <phrase i="227" t="서비스 URL"/>
+  <phrase i="226" t="메시지 URL"/>
+  <phrase i="225" t="디렉터리 URL"/>
+  <phrase i="224" t="정보 URL"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="관리자 VLAN ID"/>
+  <phrase i="217" t="사용 가능한 VLAN ID"/>
+  <phrase i="216" t="DNS 서버 5"/>
+  <phrase i="215" t="DNS 서버 4"/>
+  <phrase i="214" t="DNS 서버 3"/>
+  <phrase i="213" t="DNS 서버 2"/>
+  <phrase i="212" t="DNS 서버 1"/>
+  <phrase i="211" t="기본 라우터 5"/>
+  <phrase i="210" t="기본 라우터 4"/>
+  <phrase i="209" t="기본 라우터 3"/>
+  <phrase i="208" t="기본 라우터 2"/>
+  <phrase i="207" t="기본 라우터 1"/>
+  <phrase i="206" t="TFTP 서버 1"/>
+  <phrase i="205" t="서브넷 마스크"/>
+  <phrase i="204" t="IP 주소"/>
+  <phrase i="203" t="도메인 이름"/>
+  <phrase i="202" t="호스트 이름"/>
+  <phrase i="201" t="MAC 주소"/>
+  <phrase i="199" t="거부"/>
+  <phrase i="198" t="당겨받기용으로 사용할 수 있는 회선 없음"/>
+  <phrase i="197" t="외부 호전환 제한"/>
+  <phrase i="196" t="당겨받기용으로 사용할 수 있는 광대역 없음"/>
+  <phrase i="195" t="당겨받기용으로 사용할 수 있는 통화 없음"/>
+  <phrase i="194" t="지정보류 슬롯 사용할 수 없음"/>
+  <phrase i="193" t="헌트 그룹 로그아웃"/>
+  <phrase i="192" t="헌트로그"/>
+  <phrase i="191" t="기타픽업"/>
+  <phrase i="190" t="최대 보류 시간 초과"/>
+  <phrase i="189" t="최대 통화 시간 초과"/>
+  <phrase i="188" t="비디오"/>
+  <phrase i="187" t="비디오 대역폭을 사용할 수 없음"/>
+  <phrase i="186" t="보안 오류"/>
+  <phrase i="185" t="번호가 구성되지 않음"/>
+  <phrase i="184" t="Mcid 성공"/>
+  <phrase i="183" t="통화에 참가할 수 없음"/>
+  <phrase i="182" t="호전환을 완료할 수 없음"/>
+  <phrase i="181" t="회의끼기"/>
+  <phrase i="180" t="전환"/>
+  <phrase i="179" t="회의인원"/>
+  <phrase i="178" t="선택"/>
+  <phrase i="177" t="호연결"/>
+  <phrase i="176" t="MCID"/>
+  <phrase i="175" t="QRT"/>
+  <phrase i="174" t="트래픽 양이 많음. 나중에 다시 시도"/>
+  <phrase i="173" t="서비스가 활성 상태가 아님"/>
+  <phrase i="172" t="통화 지정보류 복귀"/>
+  <phrase i="171" t="지정보류 번호를 사용할 수 없음"/>
+  <phrase i="170" t="호환되지 않는 장치 유형"/>
+  <phrase i="169" t="다른 끼어들기가 있음"/>
+  <phrase i="168" t="참여를 설정하지 못함"/>
+  <phrase i="167" t="참여"/>
+  <phrase i="166" t="네트워크 혼잡, 재라우팅"/>
+  <phrase i="165" t="콜백"/>
+  <phrase i="164" t="모두"/>
+  <phrase i="163" t="방해사절"/>
+  <phrase i="162" t="전환VM"/>
+  <phrase i="161" t="감시 설정"/>
+  <phrase i="160" t="차단"/>
+  <phrase i="159" t="재전송"/>
+  <phrase i="158" t="음성메일"/>
+  <phrase i="157" t="거부"/>
+  <phrase i="156" t="알 수 없는 번호"/>
+  <phrase i="155" t="대역폭이 충분하지 않음"/>
+  <phrase i="154" t="전용번호"/>
+  <phrase i="153" t="지정보류 번호"/>
+  <phrase i="152" t="전화회의"/>
+  <phrase i="151" t="오류: 불일치"/>
+  <phrase i="150" t="오류: 알 수 없음"/>
+  <phrase i="149" t="오류: 통과 제한"/>
+  <phrase i="148" t="오류: 데이터베이스"/>
+  <phrase i="147" t="오류: DB 구성"/>
+  <phrase i="146" t="오류: 라이센스 없음"/>
+  <phrase i="145" t="키가 활성 상태가 아님"/>
+  <phrase i="144" t="최대 상대방 수 초과"/>
+  <phrase i="143" t="참가자 정보 없음"/>
+  <phrase i="142" t="전화회의에 이미 참가 중임"/>
+  <phrase i="141" t="잘못된 전화회의 참가자"/>
+  <phrase i="140" t="기본 제어권을 가질 수 없음"/>
+  <phrase i="139" t="전화회의 브리지 없음"/>
+  <phrase i="138" t="전화회의를 완료할 수 없음"/>
+  <phrase i="137" t="수신자:"/>
+  <phrase i="136" t="음성메일이 도착했습니다."/>
+  <phrase i="135" t="임시 실패"/>
+  <phrase i="134" t="기본만"/>
+  <phrase i="133" t="통화 지정보류:"/>
+  <phrase i="132" t="번호 입력"/>
+  <phrase i="131" t="원격 사용 중"/>
+  <phrase i="130" t="통화 처리"/>
+  <phrase i="129" t="통화 지정보류"/>
+  <phrase i="128" t="통화 호전환"/>
+  <phrase i="127" t="통화 대기"/>
+  <phrase i="126" t="회선 사용 중"/>
+  <phrase i="125" t="통화 중"/>
+  <phrase i="124" t="연결됨"/>
+  <phrase i="123" t="발신: "/>
+  <phrase i="122" t="링아웃"/>
+  <phrase i="121" t="온 훅"/>
+  <phrase i="120" t="오프 훅"/>
+  <phrase i="119" t="현재 옵션"/>
+  <phrase i="118" t="그룹픽업"/>
+  <phrase i="117" t="당겨받기"/>
+  <phrase i="116" t="회의개설"/>
+  <phrase i="115" t="통화참가"/>
+  <phrase i="114" t="지정보류"/>
+  <phrase i="113" t="전화회의"/>
+  <phrase i="112" t="정보"/>
+  <phrase i="111" t="전화받기"/>
+  <phrase i="110" t="보류해제"/>
+  <phrase i="109" t="통화종료"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="무응답"/>
+  <phrase i="106" t="통화 중"/>
+  <phrase i="105" t="착신전환"/>
+  <phrase i="104" t="돌려주기"/>
+  <phrase i="103" t="보류"/>
+  <phrase i="102" t="전화걸기"/>
+  <phrase i="101" t="재다이얼"/>
+  <phrase i="65" t="휴대폰에 전화를 걸 수 없음"/>
+  <phrase i="64" t="지정보류된 통화를 검색할 수 없음"/>
+  <phrase i="63" t="회의접속을 사용할 수 없습니다."/>
+  <phrase i="62" t="전화회의를 사용할 수 없습니다."/>
+  <phrase i="61" t="픽업을 사용할 수 없습니다."/>
+  <phrase i="60" t="단축 다이얼"/>
+  <phrase i="59" t="착신전환 홉 수 초과함"/>
+  <phrase i="58" t="착신전환 루프 검색됨"/>
+  <phrase i="57" t="방해사절 기능이 활성화됨"/>
+  <phrase i="56" t="방해사절"/>
+  <phrase i="55" t="회선 또는 참가를 선택하십시오."/>
+  <phrase i="54" t="헌트 그룹"/>
+  <phrase i="53" t="품질 보고 도구"/>
+  <phrase i="52" t="전화회의 목록"/>
+  <phrase i="51" t="통화종료"/>
+  <phrase i="50" t="비디오"/>
+  <phrase i="49" t="다른 당겨받기"/>
+  <phrase i="48" t="마지막 참가자 제거"/>
+  <phrase i="47" t="그룹 당겨받기"/>
+  <phrase i="46" t="장난 전화 ID"/>
+  <phrase i="45" t="착신 전환"/>
+  <phrase i="44" t="귓속말"/>
+  <phrase i="43" t="이동성"/>
+  <phrase i="42" t="비활성 녹음 세션"/>
+  <phrase i="41" t="이미 녹음 진행 중"/>
+  <phrase i="40" t="활성화할 통화 녹음 대기 중"/>
+  <phrase i="39" t="모니터링"/>
+  <phrase i="38" t="장치 인증 안 됨"/>
+  <phrase i="37" t="리소스 없음"/>
+  <phrase i="36" t="설정 실패"/>
+  <phrase i="35" t="보류 복귀"/>
+  <phrase i="34" t="통화 보류"/>
+  <phrase i="33" t="준비 안 됨"/>
+  <phrase i="32" t="준비"/>
+  <phrase i="31" t="헌트 그룹에 참가"/>
+  <phrase i="30" t="대기 중인 통화"/>
+  <phrase i="29" t="검색 결과"/>
+  <phrase i="28" t="발견된 레코드 없음"/>
+  <phrase i="27" t="레코드 1 ~"/>
+  <phrase i="26" t="/"/>
+  <phrase i="25" t="PIN을 입력하십시오."/>
+  <phrase i="24" t="잘못된 PIN"/>
+  <phrase i="23" t="로그인 성공"/>
+  <phrase i="22" t="나이트 서비스 비활성화됨"/>
+  <phrase i="21" t="나이트 서비스 활성화"/>
+  <phrase i="20" t="나이트 서비스"/>
+  <phrase i="19" t="검색 조건 입력"/>
+  <phrase i="18" t="로컬 서비스"/>
+  <phrase i="17" t="서비스 선택"/>
+  <phrase i="16" t="호전환 대상이 통화 중입니다."/>
+  <phrase i="15" t="회선 선택"/>
+  <phrase i="14" t="페이징"/>
+  <phrase i="13" t="통화를 종료하십시오."/>
+  <phrase i="12" t="홈으로 돌아가기 위해 대기 중"/>
+  <phrase i="11" t="최대 전화 수를 초과함"/>
+  <phrase i="10" t="CM 폴백 서비스 작동 중"/>
+  <phrase i="9" t="당겨받기용 통화 사용 가능"/>
+  <phrase i="8" t="Client Matter Code 입력"/>
+  <phrase i="7" t="Authorization Code 입력"/>
+  <phrase i="6" t="로밍 위치에 있는 장치"/>
+  <phrase i="5" t="홈 위치에 있는 장치"/>
+  <phrase i="4" t="로그인"/>
+  <phrase i="3" t="깜박임"/>
+  <phrase i="2" t="계정"/>
+</phrases>

@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Norwegian_Norway</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="Laster ned MIDlets..."/>
+  <phrase i="8003" t="Programmet er minimert"/>
+  <phrase i="8002" t="MIDP-modul er installert"/>
+  <phrase i="8001" t="Venter på installasjon av MIDP-modul ..."/>
+  <phrase i="8000" t="Oppdaterer fastvare ..."/>
+  <phrase i="7999" t="Laster ned fastvare...%d%%"/>
+  <phrase i="7998" t="Gjenoppretter fastvare..."/>
+  <phrase i="7997" t="Fastvareoppdatering mislyktes"/>
+  <phrase i="7996" t="Lite batteri! Kan ikke oppd."/>
+  <phrase i="7995" t="Bildenedlasting mislyktes"/>
+  <phrase i="7994" t="Bildegodkjenning mislyktes"/>
+  <phrase i="7993" t="Lite minne! Starter på nytt ..."/>
+  <phrase i="7992" t="EAP-TLS/PEAP aktivert"/>
+  <phrase i="7991" t="Valider serversertifikat"/>
+  <phrase i="7990" t="AOM-installasjon mislyktes"/>
+  <phrase i="7989" t="Laster ned AOM(%d/%d)"/>
+  <phrase i="7988" t="Installerer AOM(%d/%d)...%d%%"/>
+  <phrase i="7987" t="Bildeintegritetskontroll mislyktes"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="Installerer skanner-FW:%d%%"/>
+  <phrase i="7984" t="Laster ned skanner-FW"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="Begrensede datahastigheter"/>
+  <phrase i="7080" t="Skannemodus"/>
+  <phrase i="7079" t="Automatisk"/>
+  <phrase i="7078" t="Kontinuerlig"/>
+  <phrase i="7077" t="Grense for mobilstrøm"/>
+  <phrase i="7076" t="Strømbegrensning"/>
+  <phrase i="7075" t="EAP-TLS-sertifikat"/>
+  <phrase i="7074" t="Bruker installert"/>
+  <phrase i="7073" t="Produsent-installert"/>
+  <phrase i="7072" t="CAPF-installert"/>
+  <phrase i="7071" t="Godkj. sertifikat ikke funnet"/>
+  <phrase i="7070" t="Godkj. sertifikat ikke gyldig"/>
+  <phrase i="7069" t="Godkj. sertifikat utløper: %s"/>
+  <phrase i="7068" t="Godkj. sertifikat utløper snart"/>
+  <phrase i="7067" t="Godkj. sert. utløp. om %d dager"/>
+  <phrase i="7066" t="Godkjenningssertifikat utløpt"/>
+  <phrase i="7065" t="Kontr. klokkeinst. for sertif."/>
+  <phrase i="7064" t="WLAN-godkj. sertif. ikke funnet"/>
+  <phrase i="7063" t="Godkj. sertifikater ikke funnet"/>
+  <phrase i="7062" t="Godkj.sertifikat utløper: %d d"/>
+  <phrase i="7061" t="WLAN-godkj. sertifikat utløpt!"/>
+  <phrase i="7060" t="Godkjenningssertifikat utløpt!"/>
+  <phrase i="7059" t="Antall stasjoner"/>
+  <phrase i="7057" t="Advarselsflagg"/>
+  <phrase i="7056" t="Signalintervall"/>
+  <phrase i="7055" t="DTIM-periode"/>
+  <phrase i="7054" t="Funksjon"/>
+  <phrase i="7053" t="Hastighet bittilordning"/>
+  <phrase i="7052" t="Basis hastighet for bitmapping"/>
+  <phrase i="7051" t="Frekvenshopping"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="Spekterbehandling"/>
+  <phrase i="7047" t="Kanal støttes ikke"/>
+  <phrase i="7046" t="Kanalprofil"/>
+  <phrase i="7045" t="Personvern"/>
+  <phrase i="7044" t="Lav hastighet"/>
+  <phrase i="7043" t="Proxy-ARP"/>
+  <phrase i="7042" t="Grunnleggende hastigheter"/>
+  <phrase i="7041" t="Valgfrie hastigheter"/>
+  <phrase i="7040" t="AC Bakgrunn"/>
+  <phrase i="7039" t="AC Beste forsøk"/>
+  <phrase i="7038" t="AC Video"/>
+  <phrase i="7037" t="AC Tale"/>
+  <phrase i="7036" t="ECW Min"/>
+  <phrase i="7035" t="ECW Maks"/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="Tilgangskontroll"/>
+  <phrase i="7032" t="Multicast-chiffer"/>
+  <phrase i="7031" t="Unicast-chiffer"/>
+  <phrase i="7030" t="BSS ute av telling"/>
+  <phrase i="7029" t="Støttes"/>
+  <phrase i="7028" t="Tilgjengelig tilgangskapasitet"/>
+  <phrase i="7027" t="Til stede"/>
+  <phrase i="7026" t="Ikke til stede"/>
+  <phrase i="7025" t="Tilgangskategori"/>
+  <phrase i="7024" t="Anbefales ikke"/>
+  <phrase i="7023" t="Inkonsekvent"/>
+  <phrase i="7022" t="Referansetilgangspunkt"/>
+  <phrase i="7021" t="Land"/>
+  <phrase i="7020" t="CCA-terskel"/>
+  <phrase i="7019" t="Fellesnøkkelsertifikat"/>
+  <phrase i="7018" t="Fellesnøkkelinfrastruktur"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="Gyldighetsperiode"/>
+  <phrase i="7015" t="Rotnøkkel"/>
+  <phrase i="7014" t="Sertifiseringsinstans"/>
+  <phrase i="7013" t="Privat nøkkel"/>
+  <phrase i="7012" t="Fellesnøkkel"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="Godkjenningsserver"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="Godkjenning mislyktes"/>
+  <phrase i="7008" t="Ingen nettverksprofil"/>
+  <phrase i="7007" t="Forlater tjenesteområdet!"/>
+  <phrase i="7006" t="Finner nettverkstjenester"/>
+  <phrase i="7005" t="Ingen profiler er valgt"/>
+  <phrase i="7003" t="Tilkoblingen er opprettet"/>
+  <phrase i="7002" t="Prøver å koble til..."/>
+  <phrase i="7001" t="WLAN-feil"/>
+  <phrase i="7000" t="Skanner kanaler..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="Vil du tømme samtaleloggen?"/>
+  <phrase i="6406" t="Skannerdiagnostikk"/>
+  <phrase i="6405" t="Nullstl."/>
+  <phrase i="6404" t="Symbolgruppe"/>
+  <phrase i="6403" t="Utvidet"/>
+  <phrase i="6402" t="Grunnleggende"/>
+  <phrase i="6401" t="Skanner"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="Bluetooth"/>
+  <phrase i="6399" t="Enhetsliste"/>
+  <phrase i="6398" t="Skann"/>
+  <phrase i="6397" t="Ny skann"/>
+  <phrase i="6396" t="Slå sammen"/>
+  <phrase i="6395" t="Ta fra hverandre"/>
+  <phrase i="6394" t="Sammenslåtte enheter"/>
+  <phrase i="6393" t="Skanner"/>
+  <phrase i="6392" t="Slår sammen"/>
+  <phrase i="6391" t="%s slått sammen"/>
+  <phrase i="6390" t="Tar fra hverandre"/>
+  <phrase i="6389" t="%s tatt fra hverandre"/>
+  <phrase i="6388" t="Enheter funnet: %d"/>
+  <phrase i="6387" t="Tatt fra hverandre %s?"/>
+  <phrase i="6386" t="Skanneresultater"/>
+  <phrase i="6385" t="Angi Bluetooth-koden"/>
+  <phrase i="6384" t="Sammenslåing mislykket"/>
+  <phrase i="6383" t="%s koblet"/>
+  <phrase i="6382" t="%s frakoblet"/>
+  <phrase i="6381" t="Koble"/>
+  <phrase i="6380" t="Frakoble"/>
+  <phrase i="6379" t="Juster volum på hodetelefon"/>
+  <phrase i="6378" t="Overskrid maks. antall enheter"/>
+  <phrase i="6377" t="Bluetooth-tilkobling mislyktes"/>
+  <phrase i="6376" t="Dette er en sammenslått enhet."/>
+  <phrase i="6375" t="Ta fra hverandre alle"/>
+  <phrase i="6374" t="Bluetooth ikke klar"/>
+  <phrase i="6373" t="Intern Bluetooth-feil"/>
+  <phrase i="6372" t="Operasjon mislyktes"/>
+  <phrase i="6371" t="Bluetooth valgt"/>
+  <phrase i="6370" t="Høyttaler valgt"/>
+  <phrase i="6369" t="Håndsett valgt"/>
+  <phrase i="6368" t="Hodetelefoner valgt"/>
+  <phrase i="6367" t="Diagnostikk"/>
+  <phrase i="6366" t="Tastatur"/>
+  <phrase i="6365" t="Lyd"/>
+  <phrase i="6364" t="Velg diagnostikk"/>
+  <phrase i="6363" t="Trykk på en knapp"/>
+  <phrase i="6362" t="Tastaturdiagnostikk"/>
+  <phrase i="6361" t="Trykket"/>
+  <phrase i="6360" t="Sluppet"/>
+  <phrase i="6359" t="Lyddiagnostikk"/>
+  <phrase i="6358" t="Lokal lyd-loopback"/>
+  <phrase i="6357" t="Funksjonstast %d"/>
+  <phrase i="6356" t="Volum ned"/>
+  <phrase i="6355" t="Volum opp"/>
+  <phrase i="6354" t="Høyre"/>
+  <phrase i="6353" t="Venstre"/>
+  <phrase i="6352" t="Strøm"/>
+  <phrase i="6351" t="Demp"/>
+  <phrase i="6350" t="Java-installasjonen mislyktes"/>
+  <phrase i="6349" t="Velg %s"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="Startf."/>
+  <phrase i="6298" t="%s er åpent"/>
+  <phrase i="6297" t="Lukk før du åpner et annet"/>
+  <phrase i="6296" t="Bytt til"/>
+  <phrase i="6295" t="Lukk prg"/>
+  <phrase i="6294" t="Paus prg"/>
+  <phrase i="6293" t="Innkommende anrop"/>
+  <phrase i="6292" t="Ignorer"/>
+  <phrase i="6291" t="Ferdig"/>
+  <phrase i="6290" t="Angi"/>
+  <phrase i="6289" t="Om Java"/>
+  <phrase i="6288" t="Lanser"/>
+  <phrase i="6287" t="Installer"/>
+  <phrase i="6286" t="Start"/>
+  <phrase i="6285" t="Gå til"/>
+  <phrase i="6284" t="Unntak"/>
+  <phrase i="6283" t="Program"/>
+  <phrase i="6282" t="Prog"/>
+  <phrase i="6281" t="Info"/>
+  <phrase i="6280" t="Fjern"/>
+  <phrase i="6279" t="Installer program"/>
+  <phrase i="6278" t="Administrer sertifikatmyndigheter"/>
+  <phrase i="6277" t="Slutt"/>
+  <phrase i="6276" t="Produsent"/>
+  <phrase i="6275" t="Tjenesteleverandør"/>
+  <phrase i="6274" t="Tredjeparter"/>
+  <phrase i="6273" t="kl. 12"/>
+  <phrase i="6272" t="midn"/>
+  <phrase i="6271" t="mmm dd, åååå"/>
+  <phrase i="6270" t="tt:mm ??"/>
+  <phrase i="6269" t="mmm dd, åååå tt:mm  "/>
+  <phrase i="6268" t="Søn"/>
+  <phrase i="6267" t="Man"/>
+  <phrase i="6266" t="Tir"/>
+  <phrase i="6265" t="Ons"/>
+  <phrase i="6264" t="Tor"/>
+  <phrase i="6263" t="Fre"/>
+  <phrase i="6262" t="Lør"/>
+  <phrase i="6261" t="Januar"/>
+  <phrase i="6260" t="Februar"/>
+  <phrase i="6259" t="Mars"/>
+  <phrase i="6258" t="April"/>
+  <phrase i="6257" t="Mai"/>
+  <phrase i="6256" t="Juni"/>
+  <phrase i="6255" t="Juli"/>
+  <phrase i="6254" t="August"/>
+  <phrase i="6253" t="September"/>
+  <phrase i="6252" t="Oktober"/>
+  <phrase i="6251" t="November"/>
+  <phrase i="6250" t="Desember"/>
+  <phrase i="6249" t="Jan"/>
+  <phrase i="6248" t="Feb"/>
+  <phrase i="6247" t="Mar"/>
+  <phrase i="6246" t="Apr"/>
+  <phrase i="6245" t="Mai"/>
+  <phrase i="6244" t="Jun"/>
+  <phrase i="6243" t="Jul"/>
+  <phrase i="6242" t="Aug"/>
+  <phrase i="6241" t="Sep"/>
+  <phrase i="6240" t="Okt"/>
+  <phrase i="6239" t="Nov"/>
+  <phrase i="6238" t="Des"/>
+  <phrase i="6237" t="Før"/>
+  <phrase i="6236" t="Etter"/>
+  <phrase i="6235" t="Kl.:"/>
+  <phrase i="6234" t="Dato:"/>
+  <phrase i="6233" t="Symboler"/>
+  <phrase i="6232" t="Ordliste"/>
+  <phrase i="6231" t="ordliste"/>
+  <phrase i="6230" t="ORDLISTE"/>
+  <phrase i="6229" t="OK"/>
+  <phrase i="6228" t="Alternativer..."/>
+  <phrase i="6227" t="am"/>
+  <phrase i="6226" t="pm"/>
+  <phrase i="6225" t="Slett data"/>
+  <phrase i="6224" t="Programstørrelse"/>
+  <phrase i="6223" t="Programdatastørrelse"/>
+  <phrase i="6222" t="Byte"/>
+  <phrase i="6221" t="Feil, kontakt administrator"/>
+  <phrase i="6220" t="Avslutt program..."/>
+  <phrase i="6219" t="Installering avbrutt"/>
+  <phrase i="6218" t="Programinstallering mislyktes"/>
+  <phrase i="6217" t="Installerer program..."/>
+  <phrase i="6216" t="Starter program..."/>
+  <phrase i="6215" t="Bekreftelse"/>
+  <phrase i="6214" t="Laster"/>
+  <phrase i="6213" t="Starter"/>
+  <phrase i="6212" t="JAR-størrelse"/>
+  <phrase i="6211" t="JAR-Web-adresse"/>
+  <phrase i="6210" t="Beskrivelse"/>
+  <phrase i="6209" t="Leverandør"/>
+  <phrase i="6208" t="MicroEdition-konfigurasjon"/>
+  <phrase i="6207" t="MicroEdition-profil"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="Egendefinering"/>
+  <phrase i="6205" t="Bryt inn med én knapp"/>
+  <phrase i="6204" t="Grensesn.kont.for bredb.hodetlf."/>
+  <phrase i="6203" t="Autovalg av samtale"/>
+  <phrase i="6202" t="OLF for samtalelister"/>
+  <phrase i="6201" t="Autovalg av linje"/>
+  <phrase i="6200" t="UI-informasjon"/>
+  <phrase i="6199" t="UI"/>
+  <phrase i="6198" t="Velkomstmelding"/>
+  <phrase i="6197" t="Velkomsthilsen"/>
+  <phrase i="6196" t="Opprett ny kontakt"/>
+  <phrase i="6195" t="Lagre i eksisterende kontakt"/>
+  <phrase i="6194" t="Laster... Vent litt"/>
+  <phrase i="6193" t="Systemkonfigurasjon"/>
+  <phrase i="6192" t="Bare alfanumeriske tegn!"/>
+  <phrase i="6191" t="Behold sporingsnivåer"/>
+  <phrase i="6190" t="Ekstern Syslog"/>
+  <phrase i="6189" t="Sporingsnivå"/>
+  <phrase i="6188" t="Diagnostikk aktivert"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="Organisasjon"/>
+  <phrase i="6186" t="Velg standard"/>
+  <phrase i="6185" t="Velg visning"/>
+  <phrase i="6184" t="Velg bilde"/>
+  <phrase i="6183" t="Tilpass funksjonstast"/>
+  <phrase i="6182" t="Linje %d (%s)"/>
+  <phrase i="6181" t="Velg en linje du vil vise"/>
+  <phrase i="6180" t="Telefonlinjer"/>
+  <phrase i="6179" t="Hjemmeside"/>
+  <phrase i="6178" t="Tlf bok"/>
+  <phrase i="6177" t="Bakgrunnsbilde"/>
+  <phrase i="6176" t="Ønsket visning"/>
+  <phrase i="6175" t="Venstre funksjonstast"/>
+  <phrase i="6174" t="Tilpass hjemmeside"/>
+  <phrase i="6173" t="%s (%d ubesvarte)"/>
+  <phrase i="6172" t="Begrenset profil!"/>
+  <phrase i="6171" t="Ikke tilordnet"/>
+  <phrase i="6170" t="Velg kontaktfelt"/>
+  <phrase i="6169" t="Etternavn, fornavn"/>
+  <phrase i="6168" t="Fornavn, etternavn"/>
+  <phrase i="6167" t="Sorteringsrekkef. for katalog"/>
+  <phrase i="6166" t="Ingen standardnummer"/>
+  <phrase i="6165" t="Velg ikke-tilordnet kortnummer."/>
+  <phrase i="6164" t="Velg et kortnummer å tilordne"/>
+  <phrase i="6163" t="Velg et kontaktnummer"/>
+  <phrase i="6162" t="Tilordne kortnummer %d"/>
+  <phrase i="6161" t="Tilordne nytt kortnummer?"/>
+  <phrase i="6160" t="Velg telefontype"/>
+  <phrase i="6159" t="Velg kontakt"/>
+  <phrase i="6158" t="SlettAlt"/>
+  <phrase i="6157" t="Alle kontakter slettet!"/>
+  <phrase i="6156" t="Slett alle kontakter?"/>
+  <phrase i="6155" t="Primær telefon er oppdatert."/>
+  <phrase i="6154" t="Forhåndsvisning av bakgrunnsbilde"/>
+  <phrase i="6153" t="Ny ringetone lagret."/>
+  <phrase i="6152" t="Samsvarer med 0 oppføringer"/>
+  <phrase i="6151" t="Ingen plass til nytt nummer!"/>
+  <phrase i="6150" t="Gi nytt navn"/>
+  <phrase i="6149" t="Slå sammen"/>
+  <phrase i="6148" t="Overskriv"/>
+  <phrase i="6147" t="Kontakten er oppdatert."/>
+  <phrase i="6146" t="Kontakten finnes allerede."/>
+  <phrase i="6145" t="Kontakten er slettet."/>
+  <phrase i="6144" t="Slette kontakt?"/>
+  <phrase i="6143" t="Slette kortnummer?"/>
+  <phrase i="6142" t="Direktemeldingsadresse"/>
+  <phrase i="6141" t="Kallenavn"/>
+  <phrase i="6140" t="Kortnummer %d er tilordnet."/>
+  <phrase i="6139" t="HrtgAnr"/>
+  <phrase i="6138" t="Ny hurtignummeroppføring"/>
+  <phrase i="6137" t="(Tom)"/>
+  <phrase i="6136" t="Tomt nummer!"/>
+  <phrase i="6135" t="Kortnummer slettet!"/>
+  <phrase i="6134" t="Trykk og hold for å aktivere"/>
+  <phrase i="6133" t="Trykk og hold for å deaktivere"/>
+  <phrase i="6132" t="%d kortnumre"/>
+  <phrase i="6131" t="1 kortnummer"/>
+  <phrase i="6130" t="Må ha kontaktnavn."/>
+  <phrase i="6129" t="Maksimal kapasitet nådd."/>
+  <phrase i="6128" t="1 kontakt"/>
+  <phrase i="6127" t="1 oppføring"/>
+  <phrase i="6126" t="Ingen kontakter"/>
+  <phrase i="6125" t="Begrens søket."/>
+  <phrase i="6124" t="Tilbakestille alle systemer?"/>
+  <phrase i="6123" t="Starte telefonen på nytt?"/>
+  <phrase i="6122" t="Angi nøkkel i HEX"/>
+  <phrase i="6121" t="Ugyldig eller manglende inndata"/>
+  <phrase i="6120" t="Venter på %d svar fra %s"/>
+  <phrase i="6119" t="Ingen båndbredde tilgjengelig"/>
+  <phrase i="6118" t="Vent til aktiv for oppføring"/>
+  <phrase i="6117" t="Høyere"/>
+  <phrase i="6116" t="Likt"/>
+  <phrase i="6115" t="Lavere"/>
+  <phrase i="6114" t="DND på"/>
+  <phrase i="6113" t="DND av"/>
+  <phrase i="6112" t="Tilbakestiller fokusprioritet"/>
+  <phrase i="6111" t="Overveldende melding"/>
+  <phrase i="6110" t="Konfigurasjon ble oppdatert"/>
+  <phrase i="6109" t="Konfig. oppdatering feilet"/>
+  <phrase i="6108" t="Konfig. pakke ble oppdatert"/>
+  <phrase i="6107" t="Konfig. pakke oppdat. feilet"/>
+  <phrase i="6106" t="Konfigurasjon av HTTPS-klient"/>
+  <phrase i="6105" t="Godta ikke validert sertifikat"/>
+  <phrase i="6104" t="Avslå ikke validert sertifikat"/>
+  <phrase i="6103" t="Velg sertifikatalternativ"/>
+  <phrase i="6102" t="Brukerinformasjon"/>
+  <phrase i="6101" t="Innstillinger deaktivert"/>
+  <phrase i="6100" t="Feltet er skrivebeskyttet!"/>
+  <phrase i="6099" t="Profil låst av administrator"/>
+  <phrase i="6098" t="Adgang begrenset av admin."/>
+  <phrase i="6097" t="Profil er skrivebeskyttet"/>
+  <phrase i="6096" t="Angi Pin-kode"/>
+  <phrase i="6095" t="Kontakt admin. for Pin-kode"/>
+  <phrase i="6094" t="Forkast"/>
+  <phrase i="6093" t="Bruk midtre knapp for å velge"/>
+  <phrase i="6092" t="Bruk midtknapp for å velge om"/>
+  <phrase i="6091" t="Ug. passord / godkj.server nede"/>
+  <phrase i="6090" t="Endre WLAN-passord."/>
+  <phrase i="6089" t="Brukerinformasjon"/>
+  <phrase i="6088" t="Nektet tilgang til WLAN."/>
+  <phrase i="6087" t="Server nede"/>
+  <phrase i="6086" t="Telefonbok"/>
+  <phrase i="6085" t="Trykk Fortsett for å fortsette"/>
+  <phrase i="6084" t="Ny kontakt"/>
+  <phrase i="6083" t="Endre kontakt"/>
+  <phrase i="6082" t="Kontakt"/>
+  <phrase i="6081" t="%d kontakter"/>
+  <phrase i="6080" t="%d av %d kontakter"/>
+  <phrase i="6079" t="Fullt navn"/>
+  <phrase i="6078" t="Vis innstilling"/>
+  <phrase i="6077" t="Velg visningsrekkefølge"/>
+  <phrase i="6076" t="Lagre som"/>
+  <phrase i="6075" t="Telefon arbeid"/>
+  <phrase i="6074" t="Mobiltelefon"/>
+  <phrase i="6073" t="Telefon privat"/>
+  <phrase i="6072" t="Annen telefon"/>
+  <phrase i="6071" t="E-postadresse"/>
+  <phrase i="6070" t="Selskap"/>
+  <phrase i="6069" t="Jobbadresse"/>
+  <phrase i="6068" t="Gateadresse"/>
+  <phrase i="6067" t="Sted"/>
+  <phrase i="6066" t="Land/område"/>
+  <phrase i="6065" t="Postnummer"/>
+  <phrase i="6064" t="Lagre"/>
+  <phrase i="6063" t="Lagre kontakt"/>
+  <phrase i="6062" t="Velg nummertype"/>
+  <phrase i="6061" t="Velg enhetstype for kontakt"/>
+  <phrase i="6060" t="Sorter"/>
+  <phrase i="6059" t="Fortsett"/>
+  <phrase i="6058" t="Arbeid"/>
+  <phrase i="6057" t="Personlig"/>
+  <phrase i="6056" t="Internasjonal"/>
+  <phrase i="6055" t="Favoritter"/>
+  <phrase i="6054" t="Viktige kontakter"/>
+  <phrase i="6053" t="Viktig kunde"/>
+  <phrase i="6052" t="Diverse"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="Kategorier"/>
+  <phrase i="6049" t="Kategori"/>
+  <phrase i="6048" t="Velg kategorier for kontakt"/>
+  <phrase i="6047" t="Velg kategorier"/>
+  <phrase i="6046" t="Velg kategori for kontakt"/>
+  <phrase i="6045" t="Velg kategori"/>
+  <phrase i="6044" t="Filter"/>
+  <phrase i="6043" t="Velg filter for kontakter"/>
+  <phrase i="6042" t="Velg filter"/>
+  <phrase i="6041" t="Kortnumre"/>
+  <phrase i="6040" t="Kortnummer"/>
+  <phrase i="6039" t="Angi kortnummer"/>
+  <phrase i="6038" t="Ugyldig kortnummer"/>
+  <phrase i="6037" t="Kortnummer %d ikke tilordnet"/>
+  <phrase i="6036" t="Kortnummer tomt"/>
+  <phrase i="6035" t="Bruk alternativer for å lagre"/>
+  <phrase i="6034" t="Trykk Alternativer for å lagre"/>
+  <phrase i="6033" t="Kontakt lagret"/>
+  <phrase i="6032" t="Kontakt ikke lagret."/>
+  <phrase i="6031" t="Innstillinger lagret"/>
+  <phrase i="6030" t="Innstillinger ikke lagret."/>
+  <phrase i="6029" t="Avbrutt"/>
+  <phrase i="6028" t="Endringer avbrutt"/>
+  <phrase i="6027" t="%d ubesvarte anrop fra anroper"/>
+  <phrase i="6026" t="%d mottatte anrop fra anroper"/>
+  <phrase i="6025" t="%d anrop til dette nummeret"/>
+  <phrase i="6024" t="Lademodus"/>
+  <phrase i="6023" t="Skjerm forblir grå"/>
+  <phrase i="6022" t="Skjerm forblir fullt opplyst"/>
+  <phrase i="6021" t="Velg skjerminnstilling"/>
+  <phrase i="6020" t="Tilpasninger av hjemmeside"/>
+  <phrase i="6019" t="Snarveier"/>
+  <phrase i="6018" t="Linjevisning"/>
+  <phrase i="6017" t="Hovedmeny"/>
+  <phrase i="6016" t="Velg program"/>
+  <phrase i="6015" t="Programmer"/>
+  <phrase i="6014" t="Velg snarvei som skal tilordnes"/>
+  <phrase i="6013" t="Tildel"/>
+  <phrase i="6012" t="Høyttaleren er aktivert"/>
+  <phrase i="6011" t="Høyttaler deaktivert"/>
+  <phrase i="6010" t="Sporingsinnstillinger"/>
+  <phrase i="6009" t="Deaktiver ved å omstarte telef."/>
+  <phrase i="6008" t="Tillatt"/>
+  <phrase i="6007" t="Ikke konfigurert"/>
+  <phrase i="6006" t="Aktiv ringeinnstilling"/>
+  <phrase i="6005" t="Bare piping"/>
+  <phrase i="6004" t="Ring telefon"/>
+  <phrase i="6003" t="Velg varselinnstilling"/>
+  <phrase i="6002" t="Ubesvart"/>
+  <phrase i="6001" t="Alle"/>
+  <!-- GUI -->
+  <phrase i="6000" t="Velg statuselement..."/>
+  <phrase i="5999" t="Velg modellinnstilling"/>
+  <phrase i="5998" t="Nettverkskonfigurasjon"/>
+  <phrase i="5997" t="Velg nettverksinnstilling"/>
+  <phrase i="5996" t="Telefoninnstillinger"/>
+  <phrase i="5995" t="Velg telefoninnstilling"/>
+  <phrase i="5994" t="Velg sikkerhetsinnstilling"/>
+  <phrase i="5993" t="Velg enhetsinnstilling"/>
+  <phrase i="5992" t="Velg innstilling"/>
+  <phrase i="5991" t="Velg profil"/>
+  <phrase i="5990" t="Velg WLAN-innstilling"/>
+  <phrase i="5989" t="802.11-modus"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Automatisk-b/g"/>
+  <phrase i="5985" t="Automatisk-a"/>
+  <phrase i="5984" t="Automatisk-RSSI"/>
+  <phrase i="5983" t="Åpne"/>
+  <phrase i="5982" t="Åpen+WEP"/>
+  <phrase i="5981" t="Delt+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="Automatisk (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Poll"/>
+  <phrase i="5976" t="U-APSD/Ingen"/>
+  <phrase i="5975" t="PS-Poll"/>
+  <phrase i="5973" t="HEX"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 biter"/>
+  <phrase i="5970" t="128 biter"/>
+  <phrase i="5969" t="Av"/>
+  <phrase i="5968" t="Høyt"/>
+  <phrase i="5967" t="Sikkerhetsmodus"/>
+  <phrase i="5966" t="Ett aksesspunkt"/>
+  <phrase i="5965" t="Strømsparingsmodus for samtale"/>
+  <phrase i="5964" t="Nøkkelstil"/>
+  <phrase i="5963" t="Statisk WEP-nøkkel"/>
+  <phrase i="5962" t="WEP-nøkkel"/>
+  <phrase i="5961" t="Primær"/>
+  <phrase i="5960" t="Forhåndsdelt tast"/>
+  <phrase i="5959" t="Nettverksprofil"/>
+  <phrase i="5958" t="Høyttaler for dokkingstasjon"/>
+  <phrase i="5957" t="Ringevolum for dokkingstasjon"/>
+  <phrase i="5956" t="Hodetelefoner"/>
+  <phrase i="5955" t="Normal"/>
+  <phrase i="5954" t="Møte"/>
+  <phrase i="5953" t="Ute"/>
+  <phrase i="5952" t="Stille"/>
+  <phrase i="5951" t="Tilpasset 1"/>
+  <phrase i="5950" t="Tilpasset 2"/>
+  <phrase i="5949" t="Tastetone"/>
+  <phrase i="5948" t="Varslingsmønster"/>
+  <phrase i="5947" t="Bare ringing"/>
+  <phrase i="5946" t="Bare vibrering"/>
+  <phrase i="5945" t="Vibrering, deretter ringing"/>
+  <phrase i="5944" t="Ringetone av!"/>
+  <phrase i="5943" t="Ringetoner"/>
+  <phrase i="5942" t="Sekunder"/>
+  <phrase i="5941" t="Velg "/>
+  <phrase i="5940" t="Juster "/>
+  <phrase i="5939" t="Ny"/>
+  <phrase i="5938" t="Gjeldende"/>
+  <phrase i="5937" t="Angi ny"/>
+  <phrase i="5936" t="Gammel verdi"/>
+  <phrase i="5935" t="Aktiver"/>
+  <phrase i="5934" t="Slå av"/>
+  <phrase i="5933" t="Advarsel"/>
+  <phrase i="5932" t="Konfigurasjonsfeil"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP aktiver/deaktiver"/>
+  <phrase i="5928" t="CallManager-informasjon"/>
+  <phrase i="5927" t="HTTP-informasjon"/>
+  <phrase i="5926" t="Språkinformasjon"/>
+  <phrase i="5925" t="QoS-informasjon"/>
+  <phrase i="5924" t="CallManager 2"/>
+  <phrase i="5923" t="Sikkerhetsinformasjon"/>
+  <phrase i="5922" t="WLAN-konfigurasjon"/>
+  <phrase i="5921" t="WLAN-konfig"/>
+  <phrase i="5920" t="Profilnavn"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="Velg USB-innstilling"/>
+  <phrase i="5914" t="Tkv-konfigurasjon"/>
+  <phrase i="5913" t="Undersøkelse av Web-område"/>
+  <phrase i="5912" t="Lasteserver"/>
+  <phrase i="5911" t="Velg kanal"/>
+  <phrase i="5910" t="Kanal"/>
+  <phrase i="5909" t="Profil %d"/>
+  <phrase i="5908" t="Brukerprofiler"/>
+  <phrase i="5907" t="Velg brukerprofil"/>
+  <phrase i="5906" t="Velg brukerinnstilling"/>
+  <phrase i="5905" t="Nettverksprofiler"/>
+  <phrase i="5904" t="Velg nettverksprofiler"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="Lysstyrke på skjermen"/>
+  <phrase i="5901" t="Tidsavbrudd for skjermen"/>
+  <phrase i="5900" t="Aldri"/>
+  <phrase i="5899" t="Svar med hvilken som helst tast"/>
+  <phrase i="5898" t="Aktivert"/>
+  <phrase i="5897" t="Deaktivert"/>
+  <phrase i="5896" t="Ladingen er ferdig!"/>
+  <phrase i="5895" t="Batteriet er fjernet!"/>
+  <phrase i="5894" t="Lite batteri!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="Angi streng"/>
+  <phrase i="5890" t="Godkjenningsstreng"/>
+  <phrase i="5889" t="LSC-operasjon fullført"/>
+  <phrase i="5888" t="LSC-operasjon har startet"/>
+  <phrase i="5887" t="Stopp"/>
+  <phrase i="5886" t="Kobler til CAPF-server"/>
+  <phrase i="5885" t="Kunne ikke koble til CAPF-serv."/>
+  <phrase i="5884" t="Koblet til CAPF-server"/>
+  <phrase i="5883" t="Godkjenner med CAPF"/>
+  <phrase i="5882" t="CAPF-server"/>
+  <phrase i="5881" t="Programautentiseringsfeil"/>
+  <phrase i="5880" t="Lager nøkkel for LSC"/>
+  <phrase i="5879" t="Laging av LSC-nøkkel mislyktes"/>
+  <phrase i="5878" t="LSC-operasjon pågår"/>
+  <phrase i="5877" t="Prøver på nytt ... Vent litt"/>
+  <phrase i="5876" t="Operasjonen ble avbrutt"/>
+  <phrase i="5875" t="LSC-operasjon avbrutt"/>
+  <phrase i="5874" t="LSC-operasjon tidsavbrutt"/>
+  <phrase i="5873" t="LSC-operasjon mislyktes"/>
+  <phrase i="5872" t="Minimumslengde"/>
+  <phrase i="5871" t="URLen er ikke konfigurert!"/>
+  <phrase i="5870" t="Ingen"/>
+  <phrase i="5869" t="Ukjent"/>
+  <phrase i="5867" t="Ikke installert"/>
+  <phrase i="5866" t="Installert"/>
+  <phrase i="5864" t="Ikke installert"/>
+  <phrase i="5863" t="LSC oppdatert"/>
+  <phrase i="5862" t="LSC slettet"/>
+  <phrase i="5861" t="Detaljer"/>
+  <phrase i="5860" t="Tilgang innstilling deaktivert"/>
+  <phrase i="5859" t="Starter telefonen på nytt ..."/>
+  <phrase i="5858" t="Gjenopprett fabrikkinnst. nå?"/>
+  <phrase i="5857" t="CTL-fil"/>
+  <phrase i="5856" t="Klareringsliste"/>
+  <phrase i="5855" t="CTL-filen er slettet!"/>
+  <phrase i="5854" t="Ikke funnet"/>
+  <phrase i="5853" t="Feil MIC på telefonen"/>
+  <phrase i="5852" t="Oppdatering av CTL mislyktes"/>
+  <phrase i="5851" t="CTL er installert"/>
+  <phrase i="5850" t="Batterilader stoppet!"/>
+  <phrase i="5849" t="Batterilader startet!"/>
+  <phrase i="5848" t="AC frakoblet!"/>
+  <phrase i="5847" t="AC tilkoblet!"/>
+  <phrase i="5846" t="USB koblet fra!"/>
+  <phrase i="5845" t="USB tilkoblet!"/>
+  <phrase i="5844" t="Dokkingstasjon frakoblet."/>
+  <phrase i="5843" t="Dokkingstasjon tilkoblet."/>
+  <phrase i="5842" t="Hodetelefonene er koblet fra!"/>
+  <phrase i="5841" t="Hodetelefonene er tilkoblet!"/>
+  <phrase i="5840" t="Maksimumslengden er nådd!"/>
+  <phrase i="5839" t="Tastaturet er låst opp."/>
+  <phrase i="5838" t="Tastaturet er låst."/>
+  <phrase i="5837" t="Låse opp tastatur?"/>
+  <phrase i="5836" t="Låse tastatur?"/>
+  <phrase i="5835" t="Vibrering av."/>
+  <phrase i="5834" t="Vibrering på!"/>
+  <phrase i="5833" t="LSC-oppdatering mislyktes!"/>
+  <phrase i="5832" t="MIC-oppdatering mislyktes!"/>
+  <phrase i="5831" t="Innstillingene er låst opp"/>
+  <phrase i="5830" t="Innstillingene er låst"/>
+  <phrase i="5829" t="Lite batteri ... avslutter!"/>
+  <phrase i="5828" t="TFTP er ikke i CTL"/>
+  <phrase i="5827" t="USB-grensesnitt oppe"/>
+  <phrase i="5826" t="USB-grensesnitt nede"/>
+  <phrase i="5825" t="%d sekunder"/>
+  <phrase i="5824" t="Automatisk tastelås"/>
+  <phrase i="5823" t="Velg tidtaking for automat. lås"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="Velg telefonkatalog"/>
+  <phrase i="5820" t="Nettverket er opptatt"/>
+  <phrase i="5819" t="Jurisdiksjon for WLAN"/>
+  <phrase i="5818" t="USB-leverandør-ID"/>
+  <phrase i="5817" t="USB-produkt-ID"/>
+  <phrase i="5816" t="RNDIS-enhetsadresse"/>
+  <phrase i="5815" t="RNDIS-vertsadresse"/>
+  <phrase i="5814" t="Skjul"/>
+  <phrase i="5813" t="Altrnt."/>
+  <phrase i="5812" t="Trykk midtre knapp for å velge"/>
+  <phrase i="5811" t="Trykk midtre knapp - rediger"/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="Behold logger"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="Sikkerhetskonfigurasjon"/>
+  <phrase i="5785" t="Profilen er blokkert!"/>
+  <phrase i="5784" t="Profilen er blokkert!"/>
+  <phrase i="5783" t="WLAN-driver-ID"/>
+  <phrase i="5782" t="WLAN-fastvare-ID"/>
+  <phrase i="5781" t="Vis anropsstatistikk"/>
+  <phrase i="5780" t="Mottaker-Codec"/>
+  <phrase i="5779" t="Sender-Codec"/>
+  <phrase i="5778" t="Mottakerstørrelse"/>
+  <phrase i="5777" t="Avsenderstørrelse"/>
+  <phrase i="5776" t="Gjennomsnittlig forstyrrelse"/>
+  <phrase i="5775" t="Maksimal forstyrrelse"/>
+  <phrase i="5774" t="Mottaker avslo"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="Gj.snitt. MOS LQK"/>
+  <phrase i="5771" t="Min. MOS LQK"/>
+  <phrase i="5770" t="Maks. MOS LQK"/>
+  <phrase i="5769" t="MOS LQK-versjon"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="Skjul sekunder"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="Nettverkskonfigurasjon"/>
+  <phrase i="5761" t="WLAN-informasjon"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="Språk"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="Sikkerhet"/>
+  <phrase i="5755" t="Velg volumnivå"/>
+  <phrase i="5754" t="Lydinnstillinger"/>
+  <phrase i="5753" t="Skjerminnstillinger"/>
+  <phrase i="5752" t="Tastaturinnstillinger"/>
+  <phrase i="5751" t="Standardringetone"/>
+  <phrase i="5750" t="Velg lydinnstilling"/>
+  <phrase i="5749" t="Velg skjerminnstilling"/>
+  <phrase i="5748" t="Velg tastaturinnstilling"/>
+  <phrase i="5747" t="Krypteringstype"/>
+  <phrase i="5746" t="CCKM-modus"/>
+  <phrase i="5745" t="Key Management"/>
+  <phrase i="5744" t="Tx Power"/>
+  <phrase i="5743" t="Delt"/>
+  <phrase i="5742" t="Automatisk svitsj"/>
+  <phrase i="5741" t="Ingen WPA"/>
+  <phrase i="5740" t="Web-tilgang"/>
+  <phrase i="5739" t="Skrivebeskyttet"/>
+  <phrase i="5738" t="Rediger nummeret du vil ringe"/>
+  <phrase i="5737" t="Voluminnstillinger"/>
+  <phrase i="5736" t="Velg volum"/>
+  <phrase i="5735" t="Volum"/>
+  <phrase i="5734" t="Ring"/>
+  <phrase i="5733" t="Håndsett"/>
+  <phrase i="5732" t="Høyttaler"/>
+  <phrase i="5731" t="Vibrasjon og ringing"/>
+  <phrase i="5730" t="Nivå %d"/>
+  <phrase i="5729" t="Minutt"/>
+  <phrase i="5728" t="Minutter"/>
+  <phrase i="5727" t="Samtale pågår..."/>
+  <phrase i="5726" t="Anropet ble avbrutt!"/>
+  <phrase i="5725" t="Anrop mislyktes. Prøv på nytt."/>
+  <phrase i="5724" t="Kan ikke aktivere: Tom SSID!"/>
+  <phrase i="5723" t="Tom SSID ikke tillatt her!"/>
+  <phrase i="5722" t="Ringetone"/>
+  <phrase i="5721" t="Gjeldende innstillinger"/>
+  <phrase i="5720" t="Tilgjengelige ringetoner"/>
+  <phrase i="5719" t="Ringetoneinnstillinger"/>
+  <phrase i="5718" t="Vis"/>
+  <phrase i="5717" t="Velg ringetone"/>
+  <phrase i="5716" t="Bruk ringetone"/>
+  <phrase i="5715" t="Bruk"/>
+  <phrase i="5714" t="LED-indikator for dekning"/>
+  <phrase i="5713" t="Sikkerhetskonfigurasjon"/>
+  <phrase i="5712" t="Ringeutdata"/>
+  <phrase i="5711" t="Høyttaler og hodetelefon"/>
+  <phrase i="5710" t="Endre"/>
+  <phrase i="5709" t="Wavelink-konfigurasjon"/>
+  <phrase i="5708" t="Velg Wavelink-innstilling"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="Alternativ Wavelink-server"/>
+  <phrase i="5705" t="Wavelink-server"/>
+  <phrase i="5704" t="Wavelink-serverport"/>
+  <phrase i="5703" t="Aktiveringsversjon"/>
+  <phrase i="5702" t="Tilpasset navn"/>
+  <phrase i="5701" t="Tilpasset verdi"/>
+  <phrase i="5700" t="Ka."/>
+  <phrase i="5699" t="Naboliste"/>
+  <phrase i="5698" t="AP-navn"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NullRcv"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="Lås opp"/>
+  <phrase i="5689" t="Personlig katalog"/>
+  <phrase i="5688" t="Telefonkatalog"/>
+  <phrase i="5687" t="Trykk på Lås opp"/>
+  <phrase i="5686" t="Trykk på # for å låse opp"/>
+  <phrase i="5685" t="Trykk og hold # for å låse opp"/>
+  <phrase i="5684" t="Tastaturet er låst."/>
+  <phrase i="5683" t="Bakgrunnsbelysning"/>
+  <phrase i="5682" t="Velg lydbane"/>
+  <phrase i="5681" t="Høyttaler og Bluetooth"/>
+  <phrase i="5680" t="Hodetelefonringing"/>
+  <phrase i="5679" t="Høy"/>
+  <phrase i="5678" t="Medium"/>
+  <phrase i="5677" t="Lav"/>
+  <phrase i="5676" t="Trykk på %s for hovedskjermbilde"/>
+  <phrase i="5675" t="Samtaleinformasjon"/>
+  <phrase i="5674" t="På %s klokken %s"/>
+  <phrase i="5673" t="Varighet"/>
+  <phrase i="5672" t="Beskjed-modus"/>
+  <phrase i="5671" t="Brukerlegitimasjonen kan være feil."/>
+  <phrase i="5670" t="Endre nå?"/>
+  <phrase i="5669" t="Høyttalermodus"/>
+  <phrase i="5668" t="Permanent"/>
+  <phrase i="5667" t="Per samtale"/>
+  <phrase i="5666" t="Nettverksprofilpålogging"/>
+  <phrase i="5665" t="Skriftstørrelse"/>
+  <phrase i="5664" t="Økt"/>
+  <phrase i="5663" t="64 biter"/>
+  <phrase i="5662" t="104 biter"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="INTERCOM"/>
+  <phrase i="4998" t="Innringing"/>
+  <phrase i="4997" t="Lokal katalog"/>
+  <phrase i="4996" t="Lokalt kortnummer"/>
+  <phrase i="4995" t="Etternavn"/>
+  <phrase i="4994" t="Fornavn"/>
+  <phrase i="4993" t="Lokalt katalogsøk"/>
+  <phrase i="4992" t="For mange treff. Avgrens søket."/>
+  <phrase i="4991" t="Ingen oppføringer funnet."/>
+  <phrase i="4990" t="Oppføring 1 til ... av"/>
+  <phrase i="4989" t="Ingen tilgjengelig linje"/>
+  <phrase i="4988" t="Kan ikke overføre"/>
+  <phrase i="4987" t="Overføringsmålet er opptatt"/>
+  <phrase i="4986" t="Angi/velg nummer du vil ringe"/>
+  <phrase i="4985" t="Vil du tilbakestille system-"/>
+  <phrase i="4984" t="innstillingene til standard?"/>
+  <phrase i="4983" t="Katalogtjenester"/>
+  <phrase i="4982" t="XML-tjenester"/>
+  <phrase i="4981" t="Koble til serveren"/>
+  <phrase i="4980" t="Tilkoblingen mislyktes"/>
+  <phrase i="4979" t="Starte telefonen på nytt?"/>
+  <phrase i="4978" t="Meny"/>
+  <phrase i="4977" t="Språk"/>
+  <phrase i="4976" t="Alternativt domene"/>
+  <phrase i="4975" t="Alternativ DNS"/>
+  <phrase i="4974" t="Gjeldende verdi"/>
+  <phrase i="4973" t="Ny verdi"/>
+  <phrase i="4972" t="Standardruter"/>
+  <phrase i="4971" t="VLAN aktivert"/>
+  <phrase i="4970" t="CDP aktivert"/>
+  <phrase i="4969" t="Tjenester"/>
+  <phrase i="4968" t="Kortnummer"/>
+  <phrase i="4967" t="Angi server"/>
+  <phrase i="4966" t="Statisk"/>
+  <phrase i="4965" t="Registreringsmodus"/>
+  <phrase i="4964" t="Modus"/>
+  <phrase i="4963" t="Historikk"/>
+  <phrase i="4962" t="Fastvareoppgradering"/>
+  <phrase i="4961" t="Kontrastmeny"/>
+  <phrase i="4960" t="Endre administratorpassord"/>
+  <phrase i="4959" t="Ikke tilgjengelig"/>
+  <phrase i="4958" t="Eksempeltekst"/>
+  <phrase i="4957" t="Oppgradering"/>
+  <phrase i="4956" t="Angi nytt passord"/>
+  <phrase i="4955" t="Meldinger"/>
+  <phrase i="4954" t="Innstillinger"/>
+  <phrase i="4953" t="Kataloger"/>
+  <phrase i="4952" t="Feil passord"/>
+  <phrase i="4951" t="Angi administratorpassord"/>
+  <phrase i="4950" t="Ugyldig inndataverdi"/>
+  <phrase i="4949" t="Ugyldig lengde på nøkkelstreng"/>
+  <phrase i="4948" t="Ugyldig streng: bruk HEX-sifre"/>
+  <phrase i="4947" t="KORTNUMMER"/>
+  <phrase i="4946" t="Ethernet er ikke tilkoblet"/>
+  <phrase i="4945" t="Konfigurering via TFTP"/>
+  <phrase i="4944" t="Konfigurering av IP via DHCP"/>
+  <phrase i="4943" t="Konfigurering av VLAN-innst."/>
+  <phrase i="4942" t="Nummeret er ikke tilgjengelig"/>
+  <phrase i="4941" t="Ikke tilgjengelig"/>
+  <phrase i="4940" t="Ringevolum"/>
+  <phrase i="4939" t="Telefonrørvolum"/>
+  <phrase i="4938" t="Høyttalervolum"/>
+  <phrase i="4937" t="Igjen"/>
+  <phrase i="4936" t="Angi"/>
+  <phrase i="4935" t="Alpha"/>
+  <phrase i="4934" t="OvåkAv"/>
+  <phrase i="4933" t="Overvåk"/>
+  <phrase i="4932" t="Nummer"/>
+  <phrase i="4931" t="Melding"/>
+  <phrase i="718" t="Intercom-historikk"/>
+  <phrase i="717" t="Alle linjer"/>
+  <phrase i="716" t="Linje %d"/>
+  <phrase i="715" t="Ned"/>
+  <phrase i="714" t="Operasjonen ble avbrutt"/>
+  <phrase i="713" t="TFTP ikke godkjent: %s"/>
+  <phrase i="712" t="Slett"/>
+  <phrase i="711" t="Kryptert"/>
+  <phrase i="710" t="Godkjent"/>
+  <phrase i="709" t="Ikke sikker"/>
+  <phrase i="708" t="TLS-feil til "/>
+  <phrase i="707" t="Web-tilgang er aktivert"/>
+  <phrase i="706" t="Sikkerhetsmodus for enheten"/>
+  <phrase i="705" t="Behandler..."/>
+  <phrase i="704" t="Ugyldige data / ingen info"/>
+  <phrase i="703" t="Tastgenerering mislyktes"/>
+  <phrase i="702" t="Tilkobling avbrutt/mislyktes"/>
+  <phrase i="701" t="Mislykket"/>
+  <phrase i="700" t="Tidsavbrudd"/>
+  <phrase i="699" t="Vellykket"/>
+  <phrase i="698" t="Godkjenningsforespørsel..."/>
+  <phrase i="697" t="Kobler til..."/>
+  <phrase i="696" t="Prøv CAPF på nytt..."/>
+  <phrase i="695" t="Genererer taster..."/>
+  <phrase i="694" t="Avbryt operasjon"/>
+  <phrase i="693" t="Oppdater sertifikat"/>
+  <phrase i="692" t="Godkjenningsstreng"/>
+  <phrase i="691" t="Sertifikater"/>
+  <phrase i="690" t="DSCP for tjenester"/>
+  <phrase i="689" t="DSCP for konfigurasjon"/>
+  <phrase i="688" t="DSCP for samtalestyring"/>
+  <phrase i="687" t="Filautentisering mislyktes"/>
+  <phrase i="686" t="CAST-oppgave"/>
+  <phrase i="685" t="Videofunksjon er aktivert"/>
+  <phrase i="684" t="Autovalg av linje er aktivert"/>
+  <phrase i="683" t="Tale-VLAN er aktivert"/>
+  <phrase i="682" t="GARP er aktivert"/>
+  <phrase i="681" t="Naboport"/>
+  <phrase i="680" t="Nabo-IP-adresse"/>
+  <phrase i="679" t="Naboenhets-ID"/>
+  <phrase i="678" t="Av %s"/>
+  <phrase i="677" t="Viderekoblet"/>
+  <phrase i="676" t="Kortnr"/>
+  <phrase i="675" t="Ber om tjeneste-URL-status"/>
+  <phrase i="674" t="Ber om funksjonstaststatus"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d nye ubesvarte anrop"/>
+  <phrase i="670" t="Standard ringetone"/>
+  <phrase i="669" t="Velg linje..."/>
+  <phrase i="668" t="Rediger nummer"/>
+  <phrase i="667" t="Telefon-Avbryt"/>
+  <phrase i="666" t="Versjon for nettverksspråk"/>
+  <phrase i="665" t="Versjon for brukerspråk"/>
+  <phrase i="664" t="TFTP-forespørsel avbrutt"/>
+  <phrase i="663" t="DHCP deaktivert"/>
+  <phrase i="662" t="IP-adresse kreves"/>
+  <phrase i="661" t="Status "/>
+  <phrase i="660" t="Standard"/>
+  <phrase i="659" t="Melding venter"/>
+  <phrase i="658" t="Håndsettmodus"/>
+  <phrase i="657" t="Modellnummer"/>
+  <phrase i="656" t="Vis modellinformasjon"/>
+  <phrase i="655" t="Modellinformasjon"/>
+  <phrase i="654" t="Koblingstilstand "/>
+  <phrase i="653" t="Siste skriftpeker"/>
+  <phrase i="652" t="Skriftpeker"/>
+  <phrase i="651" t="Kjør program"/>
+  <phrase i="650" t="Siste nedlasting av skrifttype"/>
+  <phrase i="649" t="Nedlasting av skrifttype"/>
+  <phrase i="648" t="Info - skrifttabell"/>
+  <phrase i="647" t="Siste nedlasting av segment"/>
+  <phrase i="646" t="Nedlasting av segment"/>
+  <phrase i="645" t="Oppdatering av segment"/>
+  <phrase i="644" t="Maskinvareinfo"/>
+  <phrase i="643" t="TFTP-versjon"/>
+  <phrase i="642" t="Versjonsinfo"/>
+  <phrase i="641" t="Ledig"/>
+  <phrase i="640" t="Støttes ikke"/>
+  <phrase i="639" t="Feil under språkoppdatering"/>
+  <phrase i="638" t="Venter status %d resp fra %s"/>
+  <phrase i="637" t="Venter på %s Fra %s"/>
+  <phrase i="636" t="BOOTP-server"/>
+  <phrase i="635" t="DHCP-server"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO-revisjon"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Serienummer"/>
+  <phrase i="626" t="Maskinvarerevisjon"/>
+  <phrase i="625" t="Oppstart av laste-ID"/>
+  <phrase i="624" t="Program for laste-ID"/>
+  <phrase i="623" t="Katalognumre for telefon"/>
+  <phrase i="622" t="SYS-modus"/>
+  <phrase i="621" t="FIQ-modus"/>
+  <phrase i="620" t="IRQ-modus"/>
+  <phrase i="619" t="SVC-modus"/>
+  <phrase i="618" t="Udefinert modus"/>
+  <phrase i="610" t="mer"/>
+  <phrase i="609" t="Velg"/>
+  <phrase i="608" t="Avslutt"/>
+  <phrase i="607" t="Ned"/>
+  <phrase i="606" t="Opp"/>
+  <phrase i="605" t="Avbryt"/>
+  <phrase i="604" t="Rediger"/>
+  <phrase i="603" t="Nei"/>
+  <phrase i="602" t="Ja"/>
+  <phrase i="601" t="SpillAv"/>
+  <phrase i="600" t="Ring"/>
+  <phrase i="599" t="Rediger"/>
+  <phrase i="598" t="Lagre"/>
+  <phrase i="597" t="Gjenopprett"/>
+  <phrase i="596" t="Slett"/>
+  <phrase i="595" t="Fabrikk"/>
+  <phrase i="594" t="OK"/>
+  <phrase i="593" t="Valider"/>
+  <phrase i="592" t="Søk"/>
+  <phrase i="591" t="Neste"/>
+  <phrase i="590" t="Oppdater"/>
+  <phrase i="589" t="Fjern"/>
+  <phrase i="588" t="Bekreft"/>
+  <phrase i="587" t="Tone"/>
+  <phrase i="586" t="Nettverksspråk"/>
+  <phrase i="585" t="Brukerspråk"/>
+  <phrase i="584" t="Kate-fil"/>
+  <phrase i="583" t="Tone-fil"/>
+  <phrase i="582" t="Ringetone opptatt"/>
+  <phrase i="581" t="TFTP-server 2"/>
+  <phrase i="578" t="Svitsjeportkonfigurasjon"/>
+  <phrase i="577" t="PC-portkonfigurasjon"/>
+  <phrase i="576" t="PC-port deaktivert"/>
+  <phrase i="575" t="Feil"/>
+  <phrase i="574" t="Ugyldig argument"/>
+  <phrase i="573" t="Telefon"/>
+  <phrase i="571" t="KONTRASTMENY"/>
+  <phrase i="570" t="Velg en kontrast for å justere"/>
+  <phrase i="569" t="Talepost"/>
+  <phrase i="568" t="MELDINGER"/>
+  <phrase i="555" t="CM ICMP utilgjengelig"/>
+  <phrase i="554" t="Velg en samtale..."/>
+  <phrase i="553" t="URL for proxy-server"/>
+  <phrase i="552" t="URL for autentisering"/>
+  <phrase i="551" t="Automatisk oppringing avbrutt"/>
+  <phrase i="550" t="Sidecar Task"/>
+  <phrase i="547" t="Feil ved HTTP-fil"/>
+  <phrase i="546" t="XML-feil [4]: Parserfeil"/>
+  <phrase i="545" t="Feil under oppretting av fil"/>
+  <phrase i="544" t="Siste="/>
+  <phrase i="543" t="Lasting avviste maskinvarekomp"/>
+  <phrase i="542" t="Tlf.reg avvist"/>
+  <phrase i="541" t="Tilbakestill-Omstart"/>
+  <phrase i="540" t="Tilbakestill-Tilbakestill"/>
+  <phrase i="539" t="Tlf. rekonf IP"/>
+  <phrase i="538" t="Telefontastatur"/>
+  <phrase i="537" t="Telefondiagnose"/>
+  <phrase i="536" t="Tilbake"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-aborted-TCP"/>
+  <phrase i="532" t="CM-reset-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="530" t="Feil ved test av konfig.info"/>
+  <phrase i="529" t="Portinformasjon"/>
+  <phrase i="528" t="Ethernet-informasjon"/>
+  <phrase i="527" t="%s for stor"/>
+  <phrase i="526" t="Fra "/>
+  <phrase i="525" t="Ingen oppføringer"/>
+  <phrase i="524" t="Angi bruker-ID og passord"/>
+  <phrase i="523" t="Passord"/>
+  <phrase i="522" t="Brukernavn"/>
+  <phrase i="521" t="Velg tjeneste..."/>
+  <phrase i="520" t="Håndter gjeldende anrop..."/>
+  <phrase i="519" t="TFTP-størrelsesfeil"/>
+  <phrase i="518" t="Frasefil"/>
+  <phrase i="517" t="Glyph-fil"/>
+  <phrase i="516" t="%s utilgjengelig"/>
+  <phrase i="515" t="Skadet %s"/>
+  <phrase i="514" t="Logg %d"/>
+  <phrase i="513" t="Tilgang"/>
+  <phrase i="511" t="Telefon"/>
+  <phrase i="510" t="Nettverk"/>
+  <phrase i="509" t="Stream %d"/>
+  <phrase i="508" t="Statistikk- streaming"/>
+  <phrase i="507" t="Enhetslogger"/>
+  <phrase i="506" t="Port %d"/>
+  <phrase i="505" t="Ethernet"/>
+  <phrase i="504" t="Enhetsinformasjon"/>
+  <phrase i="503" t="Viderekoblingsforsinkelse"/>
+  <phrase i="502" t="Slett konfigurasjon"/>
+  <phrase i="501" t="Alternativ TFTP"/>
+  <phrase i="500" t="DHCP-adresse frigitt"/>
+  <phrase i="499" t="DHCP aktivert"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="Versjon"/>
+  <phrase i="493" t="Tilbake"/>
+  <phrase i="492" t=" PÅ"/>
+  <phrase i="491" t=" JA"/>
+  <phrase i="490" t=" AV"/>
+  <phrase i="489" t=" NEI"/>
+  <phrase i="488" t="RTP-forsinkelse"/>
+  <phrase i="487" t="TFTP-feil"/>
+  <phrase i="486" t="Feil ved TFTP-tilgang"/>
+  <phrase i="485" t="Finner ikke filen"/>
+  <phrase i="484" t="Siste=0x%02X"/>
+  <phrase i="483" t="CM-stengt TCP"/>
+  <phrase i="482" t="TCP-tidsavbrudd"/>
+  <phrase i="481" t="Initialisert"/>
+  <phrase i="480" t="Navn=%15s"/>
+  <phrase i="479" t="Oppdaterer programvare"/>
+  <phrase i="478" t="ROM-kontrollsumfeil"/>
+  <phrase i="477" t=" Laster="/>
+  <phrase i="474" t="Lik IP-adresse"/>
+  <phrase i="473" t="IP-adresse frigitt"/>
+  <phrase i="472" t="Tilbakestiller"/>
+  <phrase i="471" t="Serverliste etterspørres"/>
+  <phrase i="470" t="Hastighetsstatus etterspørres"/>
+  <phrase i="469" t="Linjestatus etterspørres"/>
+  <phrase i="468" t="Funksjonstaster etterspørres"/>
+  <phrase i="467" t="Funksjonstastmal etterspørres"/>
+  <phrase i="466" t="Mal etterspørres"/>
+  <phrase i="465" t="Starter DSP"/>
+  <phrase i="464" t="Kontrollerer lasting"/>
+  <phrase i="463" t="Registrering avvist"/>
+  <phrase i="462" t="Registrerer"/>
+  <phrase i="461" t="Åpner "/>
+  <phrase i="460" t="CM-liste konfigureres"/>
+  <phrase i="459" t="IP konfigureres"/>
+  <phrase i="458" t="VLAN konfigureres"/>
+  <phrase i="457" t="%d av %d"/>
+  <phrase i="456" t="Ugyldig produksjonsinfo"/>
+  <phrase i="455" t="XML-feil [%d]"/>
+  <phrase i="454" t="HTTP-feil [%d]"/>
+  <phrase i="453" t="Finner ikke vert"/>
+  <phrase i="452" t="HTTP-forespørsel avbrutt"/>
+  <phrase i="451" t="Viderekobler..."/>
+  <phrase i="450" t="Krever godkjenning"/>
+  <phrase i="449" t="Halv"/>
+  <phrase i="448" t="Full"/>
+  <phrase i="447" t="Oppetid"/>
+  <phrase i="446" t="Kompresjonstypefeil"/>
+  <phrase i="445" t="TCP-feilkode"/>
+  <phrase i="444" t="Versjonsfeil"/>
+  <phrase i="443" t="Feil på grunn av full disk"/>
+  <phrase i="442" t="Størrelsesfeil i konfig-TFTP"/>
+  <phrase i="441" t="DSP-forsinkelse"/>
+  <phrase i="440" t="Tømt"/>
+  <phrase i="439" t="DSP Keepalive-tidsavbrudd"/>
+  <phrase i="438" t="DSP-feil"/>
+  <phrase i="437" t="VLAN ugyldig"/>
+  <phrase i="436" t="IP-adresse ugyldig"/>
+  <phrase i="435" t="Nettverksmaske ugyldig"/>
+  <phrase i="434" t=" Utilgjengelig"/>
+  <phrase i="433" t=" Ventemodus"/>
+  <phrase i="432" t=" Opptatt"/>
+  <phrase i="431" t="BOOTP-server brukt"/>
+  <phrase i="430" t="Programmeringsfeil"/>
+  <phrase i="429" t="Lik IP"/>
+  <phrase i="428" t="Ingen standardruter"/>
+  <phrase i="427" t="Konfigurasjonsfil tilgjengelig"/>
+  <phrase i="426" t="Kontrollsumfeil"/>
+  <phrase i="425" t="Feil laste-ID"/>
+  <phrase i="424" t="IP mangler for DNS-server"/>
+  <phrase i="423" t="DNS-tidsavbrudd"/>
+  <phrase i="422" t="Ukjent DNS-vert"/>
+  <phrase i="421" t="Generell TFTP-feil"/>
+  <phrase i="420" t="Finner ikke konfigurasjonsfil"/>
+  <phrase i="419" t="TFTP-tidsavbrudd"/>
+  <phrase i="418" t="DHCP-tidsavbrudd"/>
+  <phrase i="417" t="Ruter kreves"/>
+  <phrase i="416" t="Ruter er ikke på nettverk"/>
+  <phrase i="415" t="TFTP-server kreves"/>
+  <phrase i="414" t="Ugyldig informasjon"/>
+  <phrase i="413" t="Deakt. av kringkasting AV"/>
+  <phrase i="412" t="Deakt. av kringkasting PÅ"/>
+  <phrase i="410" t="Telefonrørvolum lagret"/>
+  <phrase i="409" t="Hodetelefonvolum lagret"/>
+  <phrase i="408" t="Høyttalervolum lagret"/>
+  <phrase i="407" t="Endringer ikke lagret"/>
+  <phrase i="406" t="Lagre volumjusteringer?"/>
+  <phrase i="405" t="Angi inndata..."/>
+  <phrase i="404" t="Tjenester ikke tilgjengelig"/>
+  <phrase i="403" t="TJENESTER"/>
+  <phrase i="402" t="Vis maskinvareinformasjon"/>
+  <phrase i="401" t="Maskinvareinformasjon"/>
+  <phrase i="400" t="Vis stakkinformasjon"/>
+  <phrase i="399" t="Stakkovervåker"/>
+  <phrase i="398" t="Vis feilsøkingsinformasjon"/>
+  <phrase i="397" t="Vis feilsøking"/>
+  <phrase i="396" t="Vis fastvareversjoner"/>
+  <phrase i="395" t="Fastvareversjon"/>
+  <phrase i="394" t="Vis nettverksstatistikk"/>
+  <phrase i="393" t="Nettverksstatistikk"/>
+  <phrase i="392" t="Vis statusmeldinger"/>
+  <phrase i="391" t="Oppføring godkjent"/>
+  <phrase i="390" t="Ny %s:"/>
+  <phrase i="389" t="Gjeldende %s:"/>
+  <phrase i="388" t="Rediger %s"/>
+  <phrase i="387" t="Status for innstillinger"/>
+  <phrase i="386" t="Velg statuselement..."/>
+  <phrase i="385" t="Stakkstatistikk"/>
+  <phrase i="384" t="Statusmeldinger"/>
+  <phrase i="383" t="Velg nettverksinnstilling ..."/>
+  <phrase i="382" t="Liste med ringetoner utilgj."/>
+  <phrase i="381" t="Skadet ringetonefil"/>
+  <phrase i="380" t="Ringetonefil utilgjengelig."/>
+  <phrase i="379" t="Ringetonefil etterspørres..."/>
+  <phrase i="378" t="Ringetone"/>
+  <phrase i="377" t="Velg ringetone..."/>
+  <phrase i="376" t="Ringetoneliste etterspørres..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Endring godtatt og lagret"/>
+  <phrase i="372" t="Endre kontrast..."/>
+  <phrase i="371" t="Alle endringer lagret"/>
+  <phrase i="370" t="Fabrikkinnst. gjenopprettet "/>
+  <phrase i="369" t="Lagrede innst. gjenopprettet"/>
+  <phrase i="368" t="Velg innstilling ..."/>
+  <phrase i="367" t="INNSTILLINGER"/>
+  <phrase i="366" t="Status"/>
+  <phrase i="365" t="Nettverkskonfigurasjon"/>
+  <phrase i="364" t="Kontrast"/>
+  <phrase i="363" t="Avgrens søkekriterier..."/>
+  <phrase i="362" t="Ingen oppføringer"/>
+  <phrase i="361" t="%d oppføring(er)"/>
+  <phrase i="360" t="%s søk"/>
+  <phrase i="359" t="Anropslogg slettet"/>
+  <phrase i="358" t="Velg katalog..."/>
+  <phrase i="357" t="Ugyldig Katalog-URL..."/>
+  <phrase i="356" t="KATALOG"/>
+  <phrase i="355" t="Oppringte numre"/>
+  <phrase i="354" t="Mottatte anrop"/>
+  <phrase i="353" t="Ubesvarte anrop"/>
+  <phrase i="352" t="CM nede, funksjoner deaktivert"/>
+  <phrase i="351" t="%s for"/>
+  <phrase i="350" t="Tasten er ikke aktiv her"/>
+  <phrase i="349" t="Ber om..."/>
+  <phrase i="348" t="Anropsstatistikk"/>
+  <phrase i="347" t="INFORMASJON"/>
+  <phrase i="346" t="Velg en tast for mer info"/>
+  <phrase i="345" t="Trykk på  for å avbryte..."/>
+  <phrase i="344" t="Alle felt lagret"/>
+  <phrase i="343" t="Ingen endringer lagret"/>
+  <phrase i="342" t="%d dager, "/>
+  <phrase i="341" t="1 dag, "/>
+  <phrase i="340" t="På %s kl."/>
+  <phrase i="339" t="%s kl."/>
+  <phrase i="338" t="I går kl."/>
+  <phrase i="337" t="I dag kl."/>
+  <phrase i="336" t="Lørdag"/>
+  <phrase i="335" t="Fredag"/>
+  <phrase i="334" t="Torsdag"/>
+  <phrase i="333" t="Onsdag"/>
+  <phrase i="332" t="Tirsdag"/>
+  <phrase i="331" t="Mandag"/>
+  <phrase i="330" t="Søndag"/>
+  <phrase i="329" t="Til %s"/>
+  <phrase i="328" t="Ukjent nummer"/>
+  <phrase i="327" t="Fra %s"/>
+  <phrase i="326" t="Til %s"/>
+  <phrase i="325" t="Viderekoble %s"/>
+  <phrase i="324" t="Eksternt anrop"/>
+  <phrase i="323" t="Brukes eksternt"/>
+  <phrase i="322" t="%d nytt ubesvart anrop%c"/>
+  <phrase i="321" t="Rx Longs"/>
+  <phrase i="320" t="Rx Shorts"/>
+  <phrase i="319" t="Rx Broadcasts"/>
+  <phrase i="318" t="Rx Multicasts"/>
+  <phrase i="317" t="Rx Runt"/>
+  <phrase i="316" t="Rx Bad Preamble"/>
+  <phrase i="315" t="Rx CRC Errors"/>
+  <phrase i="314" t="Rx Frames"/>
+  <phrase i="313" t="Rx Long/CRC"/>
+  <phrase i="312" t="Rx Overruns"/>
+  <phrase i="311" t="Tx Deferred Abort"/>
+  <phrase i="310" t="Tx Collisions"/>
+  <phrase i="309" t="Tx Multicasts"/>
+  <phrase i="308" t="Tx Broadcasts"/>
+  <phrase i="307" t="Tx Frames"/>
+  <phrase i="306" t="Tx Excessive Collisions"/>
+  <phrase i="305" t="overflytsfall"/>
+  <phrase i="304" t="bpdu Drop"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Tx multicast"/>
+  <phrase i="287" t="Tx broadcast"/>
+  <phrase i="286" t="Tx excessLength"/>
+  <phrase i="285" t="Tx fifoUnderrun"/>
+  <phrase i="284" t="Tx Collisions"/>
+  <phrase i="283" t="Tx totalGoodPkt"/>
+  <phrase i="282" t="Tx lateCollision"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx longErr"/>
+  <phrase i="271" t="Rx longGood"/>
+  <phrase i="270" t="Rx shortGood"/>
+  <phrase i="269" t="Rx shortErr"/>
+  <phrase i="268" t="Rx unicast"/>
+  <phrase i="267" t="Rx broadcast"/>
+  <phrase i="266" t="Rx multicast"/>
+  <phrase i="265" t="Rx alignErr"/>
+  <phrase i="264" t="Rx crcErr"/>
+  <phrase i="263" t="Oktetter totalt"/>
+  <phrase i="262" t="Rx totalPkt"/>
+  <phrase i="261" t="Transporthendelser"/>
+  <phrase i="260" t="RTP ugyldig"/>
+  <phrase i="259" t="Ikke i bruk"/>
+  <phrase i="258" t="Ikke klar"/>
+  <phrase i="257" t="Ødelegg"/>
+  <phrase i="255" t="Mottakers starttid"/>
+  <phrase i="254" t="Mottakers oktetter"/>
+  <phrase i="253" t="Mottakers pakker"/>
+  <phrase i="252" t="Mottakers rapporttid"/>
+  <phrase i="251" t="Mottakers rapport"/>
+  <phrase i="250" t="Mottakers verktøy"/>
+  <phrase i="249" t="Mottakers variasjon i forsink."/>
+  <phrase i="248" t="Mottakers pakketap"/>
+  <phrase i="247" t="Senders starttid"/>
+  <phrase i="246" t="Senders rapporttid"/>
+  <phrase i="245" t="Senders rapporter"/>
+  <phrase i="244" t="Senders verktøy"/>
+  <phrase i="243" t="Senders oktetter"/>
+  <phrase i="242" t="Senders pakker"/>
+  <phrase i="241" t="Navn"/>
+  <phrase i="240" t="Radstatus"/>
+  <phrase i="239" t="Starttid"/>
+  <phrase i="238" t="Brudd"/>
+  <phrase i="237" t="Mottaker deltar"/>
+  <phrase i="236" t="Sender deltar"/>
+  <phrase i="235" t="Lokal adresse"/>
+  <phrase i="234" t="Ekstern adresse "/>
+  <phrase i="233" t="Domene"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="Fast TFTP"/>
+  <phrase i="230" t="DHCP deaktivert"/>
+  <phrase i="229" t="Tid inaktiv URL"/>
+  <phrase i="228" t="URL inaktiv"/>
+  <phrase i="227" t="Tjeneste-URL"/>
+  <phrase i="226" t="Meldings-URL"/>
+  <phrase i="225" t="Katalog-URL"/>
+  <phrase i="224" t="Informasjons-URL"/>
+  <phrase i="223" t="CallManager 5"/>
+  <phrase i="222" t="CallManager 4"/>
+  <phrase i="221" t="CallManager 3"/>
+  <phrase i="220" t="CallManager 2"/>
+  <phrase i="219" t="CallManager 1"/>
+  <phrase i="218" t="VLAN-ID for admin"/>
+  <phrase i="217" t="Operativ VLAN-ID"/>
+  <phrase i="216" t="DNS-server 5"/>
+  <phrase i="215" t="DNS-server 4"/>
+  <phrase i="214" t="DNS-server 3"/>
+  <phrase i="213" t="DNS-server 2"/>
+  <phrase i="212" t="DNS-server 1"/>
+  <phrase i="211" t="Standardruter 5"/>
+  <phrase i="210" t="Standardruter 4"/>
+  <phrase i="209" t="Standardruter 3"/>
+  <phrase i="208" t="Standardruter 2"/>
+  <phrase i="207" t="Standardruter 1"/>
+  <phrase i="206" t="TFTP-server 1"/>
+  <phrase i="205" t="Nettverksmaske"/>
+  <phrase i="204" t="IP-adresse"/>
+  <phrase i="203" t="Domenenavn"/>
+  <phrase i="202" t="Vertsnavn"/>
+  <phrase i="201" t="MAC-adresse"/>
+  <phrase i="199" t="Avvis"/>
+  <phrase i="198" t="Ingen linje tilgj. for henting"/>
+  <phrase i="197" t="Ekstern overføring ikke tillatt"/>
+  <phrase i="196" t="Ingen båndbredde for henting"/>
+  <phrase i="195" t="Ingen samtale for gruppeanrop"/>
+  <phrase i="194" t="Parkeringsspor utilgjengelig"/>
+  <phrase i="193" t="Logget av søkegruppen"/>
+  <phrase i="192" t="SLogg"/>
+  <phrase i="191" t="A.GrAnr"/>
+  <phrase i="190" t="Tidsavbrudd - for lenge på vent"/>
+  <phrase i="189" t="Tidsavbrudd - for lang samtale"/>
+  <phrase i="188" t="VidMod"/>
+  <phrase i="187" t="Videobåndbredde ikke tilgj."/>
+  <phrase i="186" t="Sikkerhetsfeil"/>
+  <phrase i="185" t="Nummeret er ikke konfigurert"/>
+  <phrase i="184" t="Fant ID for useriøse samtaler"/>
+  <phrase i="183" t="Kan ikke delta i samtaler"/>
+  <phrase i="182" t="Kan ikke fullføre overføring"/>
+  <phrase i="181" t="Bryt inn"/>
+  <phrase i="180" t="TilTalep"/>
+  <phrase i="179" t="KonfList"/>
+  <phrase i="178" t="Velg"/>
+  <phrase i="177" t="SettOver"/>
+  <phrase i="176" t="MobbeID"/>
+  <phrase i="175" t="QRT"/>
+  <phrase i="174" t="Stor trafikk, prøv igjen senere"/>
+  <phrase i="173" t="Tjenesten er ikke aktiv"/>
+  <phrase i="172" t="Tilbakestill parkert samtale"/>
+  <phrase i="171" t="Ingen parkeringsnumre tilgj."/>
+  <phrase i="170" t="Ikke-kompatibel enhetstype"/>
+  <phrase i="169" t="En annen BrytInn eksisterer"/>
+  <phrase i="168" t="BrytInn feilet"/>
+  <phrase i="167" t="Bryt inn"/>
+  <phrase i="166" t="Nettverkskork, omruting"/>
+  <phrase i="165" t="TbkRing"/>
+  <phrase i="164" t="VidrAlle"/>
+  <phrase i="163" t="IkkeFor"/>
+  <phrase i="162" t="OverfTP"/>
+  <phrase i="161" t="OvervPå"/>
+  <phrase i="160" t="Ta over"/>
+  <phrase i="159" t="Omadr."/>
+  <phrase i="158" t="Talepost"/>
+  <phrase i="157" t="FjSistD"/>
+  <phrase i="156" t="Ukjent nummer"/>
+  <phrase i="155" t="Utilstrekkelig båndbredde"/>
+  <phrase i="154" t="Privat"/>
+  <phrase i="153" t="Parker nummer"/>
+  <phrase i="152" t="Konferanse"/>
+  <phrase i="151" t="Samsvarsfeil"/>
+  <phrase i="150" t="Ukjent feil"/>
+  <phrase i="149" t="Grensen er overskredet"/>
+  <phrase i="148" t="Databasefeil"/>
+  <phrase i="147" t="Feil ved DB-konfigurasjon"/>
+  <phrase i="146" t="Lisens mangler"/>
+  <phrase i="145" t="Tasten er ikke i bruk"/>
+  <phrase i="144" t="Overskrid maks. ant deltakere"/>
+  <phrase i="143" t="Ingen deltakerinformasjon"/>
+  <phrase i="142" t="Opptatt - i konferanse"/>
+  <phrase i="141" t="Ugyldig konferansedeltaker"/>
+  <phrase i="140" t="Primær kontroll ikke på vent"/>
+  <phrase i="139" t="Ingen konferansebro"/>
+  <phrase i="138" t="Kan ikke fullføre konferanse"/>
+  <phrase i="137" t="Viderekoblet til"/>
+  <phrase i="136" t="Du har talepost"/>
+  <phrase i="135" t="Midlertidig feil"/>
+  <phrase i="134" t="Kun primær"/>
+  <phrase i="133" t="Parker samtale ved"/>
+  <phrase i="132" t="Angi nummer"/>
+  <phrase i="131" t="I bruk eksternt"/>
+  <phrase i="130" t="Fortsett samtale"/>
+  <phrase i="129" t="Parker samtale"/>
+  <phrase i="128" t="Overfør samtale"/>
+  <phrase i="127" t="Samtale venter"/>
+  <phrase i="126" t="Linje i bruk"/>
+  <phrase i="125" t="Opptatt"/>
+  <phrase i="124" t="Tilkoblet"/>
+  <phrase i="123" t="Fra "/>
+  <phrase i="122" t="Ring ut"/>
+  <phrase i="121" t="Rør på"/>
+  <phrase i="120" t="Rør av"/>
+  <phrase i="119" t="Gjeldende valg"/>
+  <phrase i="118" t="Hent G."/>
+  <phrase i="117" t="HentSamt"/>
+  <phrase i="116" t="Møterom"/>
+  <phrase i="115" t="Ta med"/>
+  <phrase i="114" t="Parker"/>
+  <phrase i="113" t="Konfrns"/>
+  <phrase i="112" t="Info"/>
+  <phrase i="111" t="Svar"/>
+  <phrase i="110" t="HentAnr"/>
+  <phrase i="109" t="LeggPå"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="VidIkkeSvar"/>
+  <phrase i="106" t="VidOppt"/>
+  <phrase i="105" t="VidrAlle"/>
+  <phrase i="104" t="Overfør"/>
+  <phrase i="103" t="Vent"/>
+  <phrase i="102" t="Ring"/>
+  <phrase i="101" t="Gjenta"/>
+  <phrase i="65" t="Kan ikke sende anrop til mobiltelefon"/>
+  <phrase i="64" t="Kan ikke hente parkert samtale"/>
+  <phrase i="63" t="Møterom er ikke tilgjengelig"/>
+  <phrase i="62" t="Konferanse er ikke tilgjengelig"/>
+  <phrase i="61" t="Henting er ikke tilgjengelig"/>
+  <phrase i="60" t="Kortnr"/>
+  <phrase i="59" t="VidAlle-hop overskredet"/>
+  <phrase i="58" t="VidAlle-loop registrert"/>
+  <phrase i="57" t="Ikke forstyrr er aktivert"/>
+  <phrase i="56" t="Ikke forstyrr"/>
+  <phrase i="55" t="Linje/Delta for å fullføre"/>
+  <phrase i="54" t="Søkegruppe"/>
+  <phrase i="53" t="Kvalitetsrapporteringsverktøy"/>
+  <phrase i="52" t="Konferanseliste"/>
+  <phrase i="51" t="Avslutt"/>
+  <phrase i="50" t="Video"/>
+  <phrase i="49" t="Andre gruppeanrop"/>
+  <phrase i="48" t="Fjern siste deltaker"/>
+  <phrase i="47" t="Henting av gruppeanrop"/>
+  <phrase i="46" t="ID for useriøs samtale"/>
+  <phrase i="45" t="Viderekoble alle"/>
+  <phrase i="44" t="Hvisk"/>
+  <phrase i="43" t="Mobilt"/>
+  <phrase i="42" t="Inaktiv innspillingsøkt"/>
+  <phrase i="41" t="Innspilling pågår allerede"/>
+  <phrase i="40" t="Innspilling venter aktivt anrop"/>
+  <phrase i="39" t="Overvåking"/>
+  <phrase i="38" t="Enhet ikke godkjent"/>
+  <phrase i="37" t="Ingen ressurser"/>
+  <phrase i="36" t="Oppsett mislyktes"/>
+  <phrase i="35" t="Tilbakestilling av vent"/>
+  <phrase i="34" t="Samtale på vent"/>
+  <phrase i="33" t="Ikkeklar"/>
+  <phrase i="32" t="Klar"/>
+  <phrase i="31" t="Legg til i søkegruppe"/>
+  <phrase i="30" t="Anrop i kø"/>
+  <phrase i="29" t="Søkeresultater"/>
+  <phrase i="28" t="Ingen oppføringer funnet"/>
+  <phrase i="27" t="Poster 1 til"/>
+  <phrase i="26" t="av"/>
+  <phrase i="25" t="Angi PIN-kode"/>
+  <phrase i="24" t="Feil PIN-kode"/>
+  <phrase i="23" t="Pålogging vellykket"/>
+  <phrase i="22" t="Nattjeneste deaktivert"/>
+  <phrase i="21" t="Nattjeneste aktiv"/>
+  <phrase i="20" t="Nattjeneste"/>
+  <phrase i="19" t="Angi søkekriterier"/>
+  <phrase i="18" t="Lokale tjenester"/>
+  <phrase i="17" t="Velg en tjeneste"/>
+  <phrase i="16" t="Overføringsmål er opptatt"/>
+  <phrase i="15" t="Velg linje"/>
+  <phrase i="14" t="Personsøking"/>
+  <phrase i="13" t="Avslutt samtale"/>
+  <phrase i="12" t="Venter på å koble til på nytt"/>
+  <phrase i="11" t="For mange telefoner"/>
+  <phrase i="10" t="CM Fallback-tjenesten i drift"/>
+  <phrase i="9" t="Samtale(r) tilgj. for henting"/>
+  <phrase i="8" t="Angi klientkode"/>
+  <phrase i="7" t="Angi godkjenningskode"/>
+  <phrase i="6" t="Enhet i roaming-plassering"/>
+  <phrase i="5" t="Enhet i hjemmeplassering"/>
+  <phrase i="4" t="Logg på"/>
+  <phrase i="3" t="Flash"/>
+  <phrase i="2" t="Konto"/>
+</phrases>

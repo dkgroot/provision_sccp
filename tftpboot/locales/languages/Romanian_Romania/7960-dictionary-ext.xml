@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Romanian_Romania</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.2.release/1</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<phrase i="760" t="Inferior"/>
+<phrase i="759" t="Superior"/>
+<phrase i="758" t="Acelaºi nivel"/>
+<phrase i="757" t="Revenire la prioritate focalizare"/>
+<phrase i="756" t="Fus orar"/>
+<phrase i="755" t="Data"/>
+<phrase i="754" t="Ora"/>
+<phrase i="753" t="Id încãrcare DSP"/>
+<phrase i="752" t="Fãrã"/>
+<phrase i="751" t="Versiune MOS LQK"/>
+<phrase i="750" t="Vizualizare statistici apel"/>
+<phrase i="749" t="Ascundere puternicã secunde"/>
+<phrase i="748" t="Ascundere secunde"/>
+<phrase i="747" t="Proporþie maximã de ascundere"/>
+<phrase i="746" t="Proporþie de ascundere interval"/>
+<phrase i="745" t="Proporþie cumulativã de ascundere"/>
+<phrase i="744" t="MOS LQK maxim"/>
+<phrase i="743" t="MOS LQK minim"/>
+<phrase i="742" t="MOS LQK mediu"/>
+<phrase i="741" t="MOS LQK"/>
+<phrase i="740" t="Configuraþie securitate"/><!-- This phrase is for the Sec Config Menu title -->
+<phrase i="739" t="Introducere ºir"/>
+<phrase i="738" t="Duratã conectare monitor"/>
+<phrase i="737" t="Actualizare certificat..."/>
+<phrase i="736" t="Activitate DSPPoll"/>
+<phrase i="735" t="Reiniþializare în aºteptare..."/>
+<phrase i="734" t="În aºteptare"/>
+<phrase i="733" t="Activitate TLS"/>
+<phrase i="732" t="Vizualizare listã încredere"/>
+<phrase i="731" t="Vizualizare fiºier CTL"/>
+<phrase i="730" t="CallManager / TFTP"/>
+<phrase i="729" t="CallManager"/>
+<phrase i="728" t="Listã încredere"/>
+<phrase i="727" t="Fiºier CTL"/>
+<phrase i="726" t="TFTP nu este în CTL"/>
+<phrase i="725" t="Oprire"/>
+<phrase i="724" t="Blocare"/>
+<phrase i="723" t="Deblocare"/>
+<phrase i="722" t="Acces web"/>
+<phrase i="721" t="Neinstalat"/>
+<phrase i="720" t="Instalat"/>
+<phrase i="719" t="Dezactivat"/>
+<phrase i="718" t="Activat"/>
+<phrase i="717" t="Selectare setãri securitate..."/>
+<phrase i="716" t="Configuraþie securitate"/><!-- This is the menu item on the Settings menu -->
+<phrase i="715" t="Jos"/><!-- This phrase is used with Network statistics port status -->
+<phrase i="714" t="Operaþie anulatã"/>
+<phrase i="713" t="TFTP neautorizat: %s"/>
+<phrase i="712" t="Elimin."/>
+<phrase i="711" t="Criptat"/>
+<phrase i="710" t="Autentificat"/>
+<phrase i="709" t="Nesecurizat"/>
+<phrase i="708" t="Eroare TLS la "/>
+<phrase i="707" t="Acces web activat"/>
+<phrase i="706" t="Mod securitate"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="705" t="Procesare..."/>
+<phrase i="704" t="Intrare incorectã"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="703" t="Eºec generare cheie"/>
+<phrase i="702" t="Eºec conectare"/>
+<phrase i="701" t="Eºec"/>
+<phrase i="700" t="Expirare"/>
+<phrase i="699" t="Succes"/>
+<phrase i="698" t="Solicitare autentificare..."/><!-- Changed by Skate - may need retranslation -->
+<phrase i="697" t="Conectare..."/>
+<phrase i="696" t="Reîncercare CAPF..."/>
+<phrase i="695" t="Generare chei..."/>
+<phrase i="694" t="Anulare operaþie"/>
+<phrase i="693" t="Actualizare certificat"/>
+<phrase i="692" t="ªir de autentificare"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="691" t="Certificate"/>
+<phrase i="690" t="DSCP pentru servicii"/>
+<phrase i="689" t="DSCP pentru configurare"/>
+<phrase i="688" t="DSCP pentru control apel"/>
+<phrase i="687" t="Eºec aut. fiºier"/>
+<phrase i="686" t="Activitate CAST"/>
+<phrase i="685" t="Capabilitate video activatã"/>
+<phrase i="684" t="Selectare linie auto activatã"/>
+<phrase i="683" t="VLAN voce activat"/>
+<phrase i="682" t="GARP activat"/>
+<phrase i="681" t="Port vecin"/>
+<phrase i="680" t="Adresã IP vecin"/>
+<phrase i="679" t="ID dispozitiv vecin"/>
+<phrase i="678" t="De %s"/>
+<phrase i="677" t="Redirecþionat"/>
+<phrase i="676" t="ApelAbr"/>
+<phrase i="675" t="Solicitare stare URL serviciu"/>
+<phrase i="674" t="Solicitare stare cheie caract."/>
+<phrase i="673" t="a"/>
+<phrase i="672" t="p"/>
+<phrase i="671" t="%d apel nou pierdut%c"/><!-- %c will be replaced with &apos;s&apos;, it can be eliminated in translations. The singular form of this phrase is 322.  The %d will be replaced with the number of missed calls -->
+<phrase i="670" t="Sonerie implicitã"/>
+<phrase i="669" t="Selectare linie..."/>
+<phrase i="668" t="Editare apel"/>
+<phrase i="667" t="Anulare-telefon"/>
+<phrase i="666" t="Versiune Setãri locale reþea"/>
+<phrase i="665" t="Versiune Setãri locale utiliz."/>
+<phrase i="664" t="Solicitare TFTP anulatã"/>
+<phrase i="663" t="Dhcp dezactivat"/>
+<phrase i="662" t="Adresã Ip solicitatã"/>
+<phrase i="661" t="Stare "/>
+<phrase i="660" t="Implicit"/>
+<phrase i="659" t="Mesaj în aºteptare"/>
+<phrase i="658" t="Mod numai receptor"/>
+<phrase i="657" t="Numãr model"/>
+<phrase i="656" t="Vizualizare informaþii model"/>
+<phrase i="655" t="Informaþii model"/>
+<phrase i="654" t="Stare legãturã "/>
+<phrase i="653" t="Ultimul indicator font"/>
+<phrase i="652" t="Indicator font"/>
+<phrase i="651" t="Executare aplicaþie"/>
+<phrase i="650" t="Ultima descãrcare font"/>
+<phrase i="649" t="Descãrcare font"/>
+<phrase i="648" t="Informaþii tabel fonturi"/>
+<phrase i="647" t="Ultima descãrcare segment"/>
+<phrase i="646" t="Descãrcare segment"/>
+<phrase i="645" t="Actualizare segment"/>
+<phrase i="644" t="Informaþii hardware"/>
+<phrase i="643" t="Versiune TFTP"/>
+<phrase i="642" t="Informaþii versiune"/>
+<phrase i="641" t="Inactiv"/>
+<phrase i="640" t="Neacceptat"/>
+<phrase i="639" t="Eroare actualiz. Setãri locale"/>
+<phrase i="638" t="Se aºt. rãs. stare %d de la %s"/>
+<phrase i="637" t="Se aºteaptã %s de la %s"/>
+<phrase i="636" t="Server BOOTP"/>
+<phrase i="635" t="Server DHCP"/>
+<phrase i="634" t="3V Amp"/>
+<phrase i="633" t="5V Amp"/>
+<phrase i="632" t="CodecAD"/>
+<phrase i="631" t="CodecADL"/>
+<phrase i="630" t="Revizie C3PO"/>
+<phrase i="629" t="Amps"/>
+<phrase i="628" t="Codec"/>
+<phrase i="627" t="Numãr serial"/>
+<phrase i="626" t="Revizie hardware"/>
+<phrase i="625" t="ID încãrcare pornire"/>
+<phrase i="624" t="ID încãrcare aplicaþie"/>
+<phrase i="623" t="ND telefon"/>
+<phrase i="622" t="Mod SYS"/>
+<phrase i="621" t="Mod FIQ"/>
+<phrase i="620" t="Mod IRQ"/>
+<phrase i="619" t="Mod SVC"/>
+<phrase i="618" t="Mod nedefinit"/>
+<phrase i="617" t="Audit Task"/>
+<phrase i="616" t="SNMP Task"/>
+<phrase i="615" t="Display Task"/>
+<phrase i="614" t="Config Task"/>
+<phrase i="613" t="RTP Task"/>
+<phrase i="612" t="Phone Task"/>
+<phrase i="611" t="Socket Task"/>
+<phrase i="610" t="MaiMult"/>
+<phrase i="609" t="Select."/>
+<phrase i="608" t="Ieºire"/>
+<phrase i="607" t="Jos"/><!-- This phrase is used with "Down" softkey to decrease contrast -->
+<phrase i="606" t="Sus"/>
+<phrase i="605" t="Anulare"/>
+<phrase i="604" t="Editare"/>
+<phrase i="603" t="Nu"/>
+<phrase i="602" t="Da"/>
+<phrase i="601" t="Redare"/>
+<phrase i="600" t="Apelare"/>
+<phrase i="599" t="EditApel"/>
+<phrase i="598" t="Salvare"/>
+<phrase i="597" t="Restau."/>
+<phrase i="596" t="ªtergere"/>
+<phrase i="595" t="Fabricã"/>
+<phrase i="594" t="Ok"/>
+<phrase i="593" t="Validare"/>
+<phrase i="592" t="Cãutare"/>
+<phrase i="591" t="Urmãtor"/>
+<phrase i="590" t="Actual."/>
+<phrase i="589" t="Golire"/>
+<phrase i="588" t="Remitere"/>
+<phrase i="587" t="Ton"/>
+<phrase i="586" t="Setãri locale reþea"/>
+<phrase i="585" t="Setãri locale utilizator"/>
+<phrase i="584" t="Fiºier Kate"/>
+<phrase i="583" t="Fiºier ton"/>
+<phrase i="582" t="Sonerie ocupatã!"/>
+<phrase i="581" t="Server TFTP 2"/>
+<phrase i="580" t="Contrast modul ext. 2"/>
+<phrase i="579" t="Contrast modul ext. 1"/>
+<phrase i="578" t="Configuraþie port SW"/>
+<phrase i="577" t="Configuraþie port PC"/>
+<phrase i="576" t="Port PC dezactivat"/>
+<phrase i="575" t="Eroare"/>
+<phrase i="574" t="Argument incorect"/>
+<phrase i="573" t="Telefon bazã"/>
+<phrase i="572" t="Modul(e) extensie"/>
+<phrase i="571" t="MENIU CONTRAST"/>
+<phrase i="570" t="Sel. contrast pentru reglare"/>
+<phrase i="569" t="Cãsuþã vocalã"/>
+<phrase i="568" t="MESAJE"/>
+<phrase i="567" t="Viz. statistici modul extensie"/>
+<phrase i="566" t="Statistici modul extensie"/>
+<phrase i="565" t="B TX Buffer Full"/>
+<phrase i="564" t="B RX Checksum Err"/>
+<phrase i="563" t="B RX Length Err"/>
+<phrase i="562" t="B RX Discarded Bytes"/>
+<phrase i="561" t="A TX Buffer Full"/>
+<phrase i="560" t="A TX Retransmit"/>
+<phrase i="559" t="A RX Invalid Message"/>
+<phrase i="558" t="A RX Checksum Err"/>
+<phrase i="557" t="A RX Length Err"/>
+<phrase i="556" t="A RX Discarded Bytes"/>
+<phrase i="555" t="CM-ICMP-Imposibil de contactat"/>
+<phrase i="554" t="Selectare apel..."/>
+<phrase i="553" t="URL server proxy"/>
+<phrase i="552" t="URL autentificare"/>
+<phrase i="551" t="ApelAuto anulat!"/>
+<phrase i="550" t="Activitate Sidecar"/>
+<phrase i="549" t="Modul extensie 2"/>
+<phrase i="548" t="Modul extensie 1"/>
+<phrase i="547" t="Eroare fiºier HTTP"/>
+<phrase i="546" t="Eroare XML [4]: Er. analizare"/>
+<phrase i="545" t="Eroare creare fiºier"/>
+<phrase i="544" t="Ultimul="/>
+<phrase i="543" t="Încãrcare HC respins"/>
+<phrase i="542" t="Telefon-Înreg-Resp"/>
+<phrase i="541" t="Reiniþializare-Repornire"/>
+<phrase i="540" t="Reiniþializare-reiniþializare"/>
+<phrase i="539" t="Telefon-reiniþializare-IP"/>
+<phrase i="538" t="Tastaturã-telefon"/>
+<phrase i="537" t="Diag.-telefon"/>
+<phrase i="536" t="Failback"/>
+<phrase i="535" t="KeepaliveTO"/>
+<phrase i="534" t="CM-NAKed"/>
+<phrase i="533" t="CM-abandonat-TCP"/>
+<phrase i="532" t="CM-reiniþializare-TCP"/>
+<phrase i="531" t="TCP-Incorect-ACK"/>
+<phrase i="530" t="Eroare verificare info config."/>
+<phrase i="529" t="Informaþii port"/>
+<phrase i="528" t="Informaþii Ethernet"/>
+<phrase i="527" t="Prea mare %s"/>
+<phrase i="526" t="De la "/>
+<phrase i="525" t="Nici o intrare"/>
+<phrase i="524" t="Introd. ID utiliz. ºi parola"/>
+<phrase i="523" t="Parola"/>
+<phrase i="522" t="NumeUtilizator"/>
+<phrase i="521" t="Selectare serviciu..."/>
+<phrase i="520" t="Gestionare apel curent..."/>
+<phrase i="519" t="Eroare dimensiune TFTP"/>
+<phrase i="518" t="Fiºier frazã"/>
+<phrase i="517" t="Fiºier imagine"/>
+<phrase i="516" t="%s indisponibil"/>
+<phrase i="515" t="%s incorect"/>
+<phrase i="514" t="Înregistrare în jurnal %d"/>
+<phrase i="513" t="Acces"/>
+<phrase i="512" t="375000"/>
+<phrase i="511" t="Telefon"/>
+<phrase i="510" t="Reþea"/>
+<phrase i="509" t="Flux %d"/>
+<phrase i="508" t="Statistici flux"/>
+<phrase i="507" t="Jurnale dispozitiv"/>
+<phrase i="506" t="Port %d"/>
+<phrase i="505" t="Ethernet"/>
+<phrase i="504" t="Informaþii dispozitiv"/>
+<phrase i="503" t="Întârziere redirecþionare"/>
+<phrase i="502" t="Eliminare configuraþie"/>
+<phrase i="501" t="TFTP alternativ"/>
+<phrase i="500" t="Adresã DHCP eliberatã"/>
+<phrase i="499" t="DHCP activat"/>
+<phrase i="498" t="Bcast"/>
+<phrase i="497" t="REr"/>
+<phrase i="496" t="Xmt"/>
+<phrase i="495" t="Receptor"/>
+<phrase i="494" t="Versiune"/>
+<phrase i="493" t="Înapoi"/>
+<phrase i="492" t=" ACTIVAT"/>
+<phrase i="491" t=" DA"/>
+<phrase i="490" t=" DEZACTIVAT"/>
+<phrase i="489" t=" NU"/>
+<phrase i="488" t="Întârziere RTP"/>
+<phrase i="487" t="Eroare TFTP"/>
+<phrase i="486" t="Eroare acces TFTP"/>
+<phrase i="485" t="Fiºier negãsit"/>
+<phrase i="484" t="Ultimul=0x%02X"/>
+<phrase i="483" t="CM-închis-TCP"/>
+<phrase i="482" t="Expirare-TCP"/>
+<phrase i="481" t="Iniþializat"/>
+<phrase i="480" t="Nume=%15s"/>
+<phrase i="479" t="Actualizare software"/>
+<phrase i="478" t="Eroare sumã de control ROM"/>
+<phrase i="477" t=" Încãrcare="/>
+<phrase i="476" t="Microfon fãrã sunet dezactivat"/>
+<phrase i="475" t="Microfon fãrã sunet activat"/>
+<phrase i="474" t="Adresã IP dublatã"/>
+<phrase i="473" t="Adresã IP emisã"/>
+<phrase i="472" t="Se reiniþializeazã"/>
+<phrase i="471" t="Solicitare listã servere"/>
+<phrase i="470" t="Solicitare stare vitezã"/>
+<phrase i="469" t="Solicitare stare linie"/>
+<phrase i="468" t="Solicitare set cheie soft"/>
+<phrase i="467" t="Solicitare ºablon cheie soft"/>
+<phrase i="466" t="Solicitare ºablon"/>
+<phrase i="465" t="Pornire DSP"/>
+<phrase i="464" t="Verificare încãrcare"/>
+<phrase i="463" t="Înregistrare respinsã"/>
+<phrase i="462" t="Înregistrare"/>
+<phrase i="461" t="Se deschide "/>
+<phrase i="460" t="Configurare listã CM"/>
+<phrase i="459" t="Configurare IP"/>
+<phrase i="458" t="Configurare VLAN"/>
+<phrase i="457" t="%d din %d"/>
+<phrase i="456" t="Info fabricaþie incorecte"/>
+<phrase i="455" t="Eroare XML [%d]!"/>
+<phrase i="454" t="Eroare HTTP [%d]!"/>
+<phrase i="453" t="Gazdã negãsitã"/>
+<phrase i="452" t="Cerere HTTP anulatã"/>
+<phrase i="451" t="Redirecþionare..."/>
+<phrase i="450" t="Este necesarã o autorizaþie!"/>
+<phrase i="449" t="Jumãtate"/>
+<phrase i="448" t="Complet"/>
+<phrase i="447" t="Timp scurs"/>
+<phrase i="446" t="Eroare tip comprimare"/>
+<phrase i="445" t="Cod eroare TCP"/>
+<phrase i="444" t="Eroare versiune"/>
+<phrase i="443" t="Eroare disc plin"/>
+<phrase i="442" t="Eroare dimensiune CFG TFTP"/>
+<phrase i="441" t="Întârziere DSP"/>
+<phrase i="440" t="Golit"/>
+<phrase i="439" t="Expirare DSP Keepalive"/>
+<phrase i="438" t="Eroare DSP"/>
+<phrase i="437" t="VLAN incorect"/>
+<phrase i="436" t="Adresã IP incorectã"/>
+<phrase i="435" t="Mascã subreþea incorectã"/>
+<phrase i="434" t=" Indisp."/>
+<phrase i="433" t=" În aºteptare"/>
+<phrase i="432" t=" Activ"/>
+<phrase i="431" t="Server BOOTP utilizat"/>
+<phrase i="430" t="Eroare programare"/>
+<phrase i="429" t="IP dublat"/>
+<phrase i="428" t="Nici un ruter implicit"/>
+<phrase i="427" t="Fiºier Cnf disponibil"/>
+<phrase i="426" t="Eroare sumã de control"/>
+<phrase i="425" t="ID încãrcare incorect"/>
+<phrase i="424" t="Nici un IP server DNS"/>
+<phrase i="423" t="Expirare DNS"/>
+<phrase i="422" t="Gazdã DNS necunoscutã"/>
+<phrase i="421" t="Eroare generalã TFTP"/>
+<phrase i="420" t="Fiºier CFG negãsit"/>
+<phrase i="419" t="Expirare TFTP"/>
+<phrase i="418" t="Expirare DHCP"/>
+<phrase i="417" t="Ruter solicitat"/>
+<phrase i="416" t="Ruterul nu este în subreþea"/>
+<phrase i="415" t="Server TFTP solicitat"/>
+<phrase i="414" t="Informaþie incorectã"/>
+<phrase i="413" t="Suprimare BCast DEZACTIVATÃ"/>
+<phrase i="412" t="Suprimare BCast ACTIVATÃ"/>
+<phrase i="411" t="Card fiicã nedetectat"/>
+<phrase i="410" t="Volum receptor salvat!"/>
+<phrase i="409" t="Volum cascã salvat!"/>
+<phrase i="408" t="Volum difuzor salvat!"/>
+<phrase i="407" t="Modif. nu au fost salvate!"/>
+<phrase i="406" t="Salvaþi ajustãrile de volum?"/>
+<phrase i="405" t="Introducere date intrare..."/>
+<phrase i="404" t="Servicii indisponibile"/>
+<phrase i="403" t="SERVICII"/>
+<phrase i="402" t="Vizualizare info hardware"/>
+<phrase i="401" t="Informaþii hardware"/>
+<phrase i="400" t="Vizualizare informaþii stivã"/>
+<phrase i="399" t="Monitor stivã"/>
+<phrase i="398" t="Vizualizare info depanare"/>
+<phrase i="397" t="Ecran depanare"/>
+<phrase i="396" t="Vizualizare versiuni firmware"/>
+<phrase i="395" t="Versiuni firmware"/>
+<phrase i="394" t="Vizualizare statistici reþea"/>
+<phrase i="393" t="Statistici reþea"/>
+<phrase i="392" t="Vizualizare mesaje de stare"/>
+<phrase i="391" t="Intrare validatã"/>
+<phrase i="390" t="%s nou:"/>
+<phrase i="389" t="%s curent:"/>
+<phrase i="388" t="Editare %s"/>
+<phrase i="387" t="Stare setãri"/>
+<phrase i="386" t="Selectare element stare..."/>
+<phrase i="385" t="Statistici stivã"/>
+<phrase i="384" t="Mesaje de stare"/>
+<phrase i="383" t="Selectare setare reþea..."/>
+<phrase i="382" t="Listã sonerii indisponibilã!"/>
+<phrase i="381" t="Fiºier listã sonerie incorect!"/>
+<phrase i="380" t="Fiºier sonerie indisponibil!"/>
+<phrase i="379" t="Solicitare fiºier sonerie ..."/>
+<phrase i="378" t="Tip sonerie"/>
+<phrase i="377" t="Selectare sonerie..."/>
+<phrase i="376" t="Solicitare listã sonerii..."/>
+<phrase i="375" t="Chirp 2"/>
+<phrase i="374" t="Chirp 1"/>
+<phrase i="373" t="Modif. acceptatã ºi salvatã"/>
+<phrase i="372" t="Modificare contrast..."/>
+<phrase i="371" t="Toate modificãrile salvate"/>
+<phrase i="370" t="Setãri fabricã restaurate "/>
+<phrase i="369" t="Setãrile salvate restaurate"/>
+<phrase i="368" t="Selectare setare..."/>
+<phrase i="367" t="SETÃRI"/>
+<phrase i="366" t="Stare"/>
+<phrase i="365" t="Configuraþie reþea"/>
+<phrase i="364" t="Contrast"/>
+<phrase i="363" t="Rafinare criterii cãutare..."/>
+<phrase i="362" t="Nici o înregistrare"/>
+<phrase i="361" t="%d înregistrãri"/>
+<phrase i="360" t="Cãutare %s"/>
+<phrase i="359" t="Istoric apeluri golit!"/>
+<phrase i="358" t="Selectare director..."/>
+<phrase i="357" t="URL director incorect!..."/>
+<phrase i="356" t="DIRECTOR"/>
+<phrase i="355" t="Apeluri efectuate"/>
+<phrase i="354" t="Apeluri primite"/>
+<phrase i="353" t="Apeluri pierdute"/>
+<phrase i="352" t="CM închis, caract. dezactivate"/>
+<phrase i="351" t="%s pentru"/>
+<phrase i="350" t="Acea tastã nu este activã aici"/>
+<phrase i="349" t="Solicitare..."/>
+<phrase i="348" t="Statistici apeluri"/>
+<phrase i="347" t="INFORMAÞII"/>
+<phrase i="346" t="Sel. o cheie pt. inf. sup..."/>
+<!-- There is a special symbol for help icon in the following phrase - Please don't delete it  -->
+<phrase i="345" t="Apãsaþi tasta  pt. anulare.."/>
+<phrase i="344" t="Toate câmpurile salvate"/>
+<phrase i="343" t="Nici o modificare salvatã"/>
+<phrase i="342" t="%d zile, "/>
+<phrase i="341" t="1 zi, "/>
+<phrase i="340" t="La%s la"/>
+<phrase i="339" t="%s la"/>
+<phrase i="338" t="Ieri la"/>
+<phrase i="337" t="Azi la"/>
+<phrase i="336" t="Sâmbãtã"/>
+<phrase i="335" t="Vineri"/>
+<phrase i="334" t="Joi"/>
+<phrase i="333" t="Miercuri"/>
+<phrase i="332" t="Marþi"/>
+<phrase i="331" t="Luni"/>
+<phrase i="330" t="Duminicã"/>
+<phrase i="329" t="Cãtre %s"/>
+<phrase i="328" t="Numãr necunoscut"/>
+<phrase i="327" t="De la %s"/>
+<phrase i="326" t="Pentru %s"/>
+<!-- Note to translator:  Please abbreviate the following phrase (325) as concisely as
+     possible.  It is used for call forwarding scenarios, and the %s gets replaced with
+     a caller ID.  It is important to make as much space available for the caller ID
+     information as possible. -->
+<phrase i="325" t="Redirecþionat %s"/>
+<phrase i="324" t="Apel extern"/>
+<phrase i="323" t="În uz la distanþã"/>
+<phrase i="322" t="%d apel nou pierdut%c"/><!-- %c will be replaced with &apos; &apos;, it was retained for backwards compatibility.  This phrase is the singular form and the %d will be replaced with a &apos;1&apos;.  The plural form of this phrase is 671 -->
+<phrase i="321" t="Lungiri Rx"/>
+<phrase i="320" t="Scurtãri Rx"/>
+<phrase i="319" t="Difuzãri Rx"/>
+<phrase i="318" t="Difuzãri multiple Rx"/>
+<phrase i="317" t="Pitic Rx"/>
+<phrase i="316" t="Preambul incorect Rx"/>
+<phrase i="315" t="Erori CRC Rx"/>
+<phrase i="314" t="Cadre Rx"/>
+<phrase i="313" t="Lungire/CRC Rx"/>
+<phrase i="312" t="Ieºiri din execuþie Rx"/>
+<phrase i="311" t="Abandonare amânatã Tx"/>
+<phrase i="310" t="Coliziuni Tx"/>
+<phrase i="309" t="Difuzãri multiple Tx"/>
+<phrase i="308" t="Difuzãri Tx"/>
+<phrase i="307" t="Cadre Tx"/>
+<phrase i="306" t="Coliziuni excesive Tx"/>
+<phrase i="305" t="depãºire Suprimare"/>
+<phrase i="304" t="bpdu Drop"/>
+<phrase i="303" t="cos 7 Drop"/>
+<phrase i="302" t="cos 6 Drop"/>
+<phrase i="301" t="cos 5 Drop"/>
+<phrase i="300" t="cos 4 Drop"/>
+<phrase i="299" t="cos 3 Drop"/>
+<phrase i="298" t="cos 2 Drop"/>
+<phrase i="297" t="cos 1 Drop"/>
+<phrase i="296" t="cos 0 Drop"/>
+<phrase i="295" t="Tx size1024to1518"/>
+<phrase i="294" t="Tx size512to1023"/>
+<phrase i="293" t="Tx size256to511"/>
+<phrase i="292" t="Tx size128to255"/>
+<phrase i="291" t="Tx size65to127"/>
+<phrase i="290" t="Tx size64"/>
+<phrase i="289" t="Tx totalOct"/>
+<phrase i="288" t="Difuzare multiplã Tx"/>
+<phrase i="287" t="Difuzare Tx"/>
+<phrase i="286" t="LungimeExces Tx"/>
+<phrase i="285" t="ExecuþieNecorespFifo Tx"/>
+<phrase i="284" t="Coliziuni Tx"/>
+<phrase i="283" t="PachBuneTotal Tx"/>
+<phrase i="282" t="ColiziuneÎntârziatã Tx"/>
+<phrase i="281" t="ÎntârzExces Tx"/>
+<phrase i="280" t="SuprimareJeton Rx"/>
+<phrase i="279" t="Rx size1519to1548"/>
+<phrase i="278" t="Rx size1024to1518"/>
+<phrase i="277" t="Rx size512to1023"/>
+<phrase i="276" t="Rx size256to511"/>
+<phrase i="275" t="Rx size128to255"/>
+<phrase i="274" t="Rx size65to127"/>
+<phrase i="273" t="Rx size64"/>
+<phrase i="272" t="EroareLung Rx"/>
+<phrase i="271" t="Rx lungBine"/>
+<phrase i="270" t="Rx scurtBine"/>
+<phrase i="269" t="EroareScurt Rx"/>
+<phrase i="268" t="Dif. simplã Rx"/>
+<phrase i="267" t="Difuzare Rx"/>
+<phrase i="266" t="Difuzare multiplã Rx"/>
+<phrase i="265" t="EroareAliniere Rx"/>
+<phrase i="264" t="EroareCRC Rx"/>
+<phrase i="263" t="Total octeþi"/>
+<phrase i="262" t="PachTotal Rx"/>
+<phrase i="261" t="Evenimente purtãtoare"/>
+<phrase i="260" t="RTP incorect"/>
+<phrase i="259" t="Nu funcþioneazã"/>
+<phrase i="258" t="Nepregãtit"/>
+<phrase i="257" t="Distrugere"/>
+<phrase i="256" t="376000"/>
+<phrase i="255" t="Orã început receptor"/>
+<phrase i="254" t="Octeþi receptor"/>
+<phrase i="253" t="Pachete receptor"/>
+<phrase i="252" t="Orã raport receptor"/>
+<phrase i="251" t="Rapoarte receptor"/>
+<phrase i="250" t="Instrument receptor"/>
+<phrase i="249" t="Variaþie Întârziere receptor"/>
+<phrase i="248" t="Pachete pierdute receptor"/>
+<phrase i="247" t="Orã început expeditor"/>
+<phrase i="246" t="Orã raport expeditor"/>
+<phrase i="245" t="Rapoarte expeditor"/>
+<phrase i="244" t="Instrument expeditor"/>
+<phrase i="243" t="Octeþi expeditor"/>
+<phrase i="242" t="Pachete expeditor"/>
+<phrase i="241" t="Nume"/>
+<phrase i="240" t="Stare rând"/>
+<phrase i="239" t="Orã începere"/>
+<phrase i="238" t="La revedere"/>
+<phrase i="237" t="Alãturãri receptor"/>
+<phrase i="236" t="Alãturãri expeditor"/>
+<phrase i="235" t="Adresã localã"/>
+<phrase i="234" t="Adresã la distanþã "/>
+<phrase i="233" t="Domeniu"/>
+<phrase i="232" t="Port rapid"/>
+<phrase i="231" t="TFTP fixat"/>
+<phrase i="230" t="DHCP dezactivat"/>
+<phrase i="229" t="Duratã URL inactivitate"/>
+<phrase i="228" t="URL inactivitate"/>
+<phrase i="227" t="URL servicii"/>
+<phrase i="226" t="URL mesaje"/>
+<phrase i="225" t="URL directoare"/>
+<phrase i="224" t="URL informaþii"/>
+<phrase i="223" t="CallManager 5"/>
+<phrase i="222" t="CallManager 4"/>
+<phrase i="221" t="CallManager 3"/>
+<phrase i="220" t="CallManager 2"/>
+<phrase i="219" t="CallManager 1"/>
+<phrase i="218" t="ID VLAN admin."/>
+<phrase i="217" t="ID VLAN operaþional"/>
+<phrase i="216" t="Server DNS 5"/>
+<phrase i="215" t="Server DNS 4"/>
+<phrase i="214" t="Server DNS 3"/>
+<phrase i="213" t="Server DNS 2"/>
+<phrase i="212" t="Server DNS 1"/>
+<phrase i="211" t="Ruter implicit 5"/>
+<phrase i="210" t="Ruter implicit 4"/>
+<phrase i="209" t="Ruter implicit 3"/>
+<phrase i="208" t="Ruter implicit 2"/>
+<phrase i="207" t="Ruter implicit 1"/>
+<phrase i="206" t="Server TFTP 1"/>
+<phrase i="205" t="Mascã subreþea"/>
+<phrase i="204" t="Adresã IP"/>
+<phrase i="203" t="Nume domeniu"/>
+<phrase i="202" t="Nume gazdã"/>
+<phrase i="201" t="Adresã MAC"/>
+</phrases>

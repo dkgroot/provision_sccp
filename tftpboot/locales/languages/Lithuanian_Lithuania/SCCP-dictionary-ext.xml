@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Lithuanian_Lithuania</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nëra linijø, kurias bûtø galima perimti"/>
+	<phrase i="197" t="Iðorinis persiuntimas apribotas"/>
+	<phrase i="196" t="Nëra perëmimui prieinamos daþniø juostos"/>
+	<phrase i="195" t="Nëra skambuèiø, kuriuos bûtø galima perimti"/>
+	<phrase i="194" t="Nukëlimo lizdas neprieinamas"/>
+    <phrase i="193" t="Atjungta nuo paieðkos grupës"/>
+	<phrase i="192" t="PÞurnal."/>
+	<phrase i="191" t="KPerimti"/>
+	<phrase i="190" t="Maks. sulaikymo trukmës pertrûkis"/>
+	<phrase i="189" t="Maks. skambuèio trukmës pertrûkis"/>
+	<phrase i="188" t="VzdVksn."/>
+	<phrase i="187" t="Vaizdo áraðø daþniø juosta neprieinama"/>
+	<phrase i="186" t="Apsaugos klaida"/>
+	<phrase i="185" t="Numeris nekonfigûruotas"/>
+	<phrase i="184" t="Pkid pavyko"/>
+	<phrase i="183" t="Nepavyksta sujungti skambuèiø"/>
+	<phrase i="182" t="Perjungimas Negalimas"/>
+	<phrase i="181" t="KÁterpti"/>
+	<phrase i="180" t="Nukreip."/>
+	<phrase i="179" t="KonfSàr"/>
+	<phrase i="178" t="Rinktis"/>
+	<phrase i="177" t="Suj2Pok"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="SiøsPrbl"/>
+	<phrase i="174" t="Didelis uþimtumas, bandykite vëliau vël"/>
+	<phrase i="173" t="Paslauga neaktyvi"/>
+	<phrase i="172" t="SkambuèioNukëlimo apgràþa"/>
+	<phrase i="171" t="Nëra prieinamo nukëlimo numerio"/>
+	<phrase i="170" t="Nesuderinamo tipo prietaisas"/>
+	<phrase i="169" t="Yra kitas ásiterpimas"/>
+	<phrase i="168" t="Nepavyko nustatyti ásiterpimo"/>
+	<phrase i="167" t="Ásiterp."/>
+	<phrase i="166" t="Tinklo perkrova, keièiamas marðrutas"/>
+	<phrase i="165" t="Atskamb"/>
+	<phrase i="164" t="NukrVis"/>
+	<phrase i="163" t="Netrukd."/>
+	<phrase i="162" t="PersáBP"/>
+	<phrase i="161" t="NustSteb"/>
+	<phrase i="160" t="Perimti"/>
+	<phrase i="159" t="Peradresuoti"/>
+	<phrase i="158" t="Balso paðtas"/>
+	<phrase i="157" t="ÐalPaskS"/>
+	<phrase i="156" t="Neþinomas numeris"/>
+	<phrase i="155" t="Nepakanka pralaidumo"/>
+	<phrase i="154" t="Privatus"/>
+	<phrase i="153" t="Fiksavimo numeris"/>
+	<phrase i="152" t="Konferencija"/>
+	<phrase i="151" t="Neatitikimo klaida"/>
+	<phrase i="150" t="Neþinoma klaida"/>
+	<phrase i="149" t="Klaidos praleidimo riba"/>
+	<phrase i="148" t="Duomenø bazës klaida"/>
+	<phrase i="147" t="DBKonfig klaida"/>
+	<phrase i="146" t="Nesanèios licencijos klaida"/>
+	<phrase i="145" t="Kodas neaktyvus"/>
+	<phrase i="144" t="Virðytas didþiausias ðaliø skaièius"/>
+	<phrase i="143" t="Nëra informacijos apie dalyvá"/>
+	<phrase i="142" t="Jau konferencijoje"/>
+	<phrase i="141" t="Neteisëtas konferencijos dalyvis"/>
+	<phrase i="140" t="Nepavyksta sulaikyti pagrindinio valdymo"/>
+	<phrase i="139" t="Nëra konferencijos tilto"/>
+	<phrase i="138" t="Nepavyksta uþbaigti konferencijos"/>
+	<phrase i="137" t="Kam persiøsta"/>
+	<phrase i="136" t="Turite balso paðto praneðimø"/>
+	<phrase i="135" t="Laikinoji triktis"/>
+	<phrase i="134" t="Tik pagrindinis"/>
+	<phrase i="133" t="Nukelti skambutá"/>
+	<phrase i="132" t="Áveskite numerá"/>
+	<phrase i="131" t="Naudojamas nuotolinis"/>
+	<phrase i="130" t="Tæsti skambutá"/>
+	<phrase i="129" t="Skambuèio nukëlimas"/>
+	<phrase i="128" t="Skambuèio persiuntimas"/>
+	<phrase i="127" t="Skambuèio laukimas"/>
+	<phrase i="126" t="Linija naudojama"/>
+	<phrase i="125" t="Uþimta"/>
+	<phrase i="124" t="Prijungtas"/>
+	<phrase i="123" t="Nuo "/>
+	<phrase i="122" t="Skambuèio siuntimas"/>
+	<phrase i="121" t="Ragelis padëtas"/>
+	<phrase i="120" t="Ragelis pakeltas"/>
+	<phrase i="119" t="Esamos Jûsø parinktys"/>
+	<phrase i="118" t="GPerimti"/>
+	<phrase i="117" t="Perëm."/>
+	<phrase i="116" t="Susitik."/>
+	<phrase i="115" t="Prijungt"/>
+	<phrase i="114" t="Fiks."/>
+	<phrase i="113" t="Konf."/>
+	<phrase i="112" t="Informacija"/>
+	<phrase i="111" t="Atsakymas"/>
+	<phrase i="110" t="Tæsti"/>
+	<phrase i="109" t="BaigtPok"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="SPersiuntNeatsiliepia"/>
+	<phrase i="106" t="SPersUþ"/>
+	<phrase i="105" t="PersVisS"/>
+	<phrase i="104" t="Perjungt"/>
+	<phrase i="103" t="Sulaikyt"/>
+	<phrase i="102" t="N.Skamb."/>
+	<phrase i="101" t="Perrink."/>
+	<phrase i="81" t="Jungiamasi, praðom palaukti"/>
+	<phrase i="80" t="Nepavyko áraðyti"/>
+	<phrase i="79" t="Áraðymas"/>
+	<phrase i="69" t="SL Iðj."/>
+    	<phrase i="68" t="Nepavyksta perkelti pokalbio"/>
+	<phrase i="67" t="Áraðyti"/>
+    <phrase i="65" t="Nepavyko nusiøsti pokalbio á mobiløjá telefonà"/>
+    <phrase i="64" t="Nepavyko iðkviesti nukelto pokalbio"/>
+    <phrase i="63" t="Susitikimo funkcija nepasiekiama"/>
+    <phrase i="62" t="Konferencija nepasiekiama"/>
+    <phrase i="61" t="Perimti negalima"/>
+    <phrase i="60" t="SutrRink"/>
+    <phrase i="59" t="Virðytas CFwdAll ðuoliø skaièius"/>
+    <phrase i="58" t="Aptiktas CFwdAll ciklas"/>
+	<phrase i="57" t="Netrukdyti aktyvus"/> 
+	<phrase i="56" t="Netrukdyti"/> 
+	<phrase i="55" t="Naudokite linijà arba prisijunkite, kad uþbaigtumëte"/>
+	<phrase i="54" t="Paieðkos grupë"/>
+	<phrase i="53" t="Praneðimø apie kokybæ priemonë"/>
+	<phrase i="52" t="Konferencijø sàraðas"/>
+	<phrase i="51" t="Baigti pokalbá"/>
+    <phrase i="50" t="Vaizdo áraðas"/>
+    <phrase i="49" t="Kitas perëmimas"/>
+    <phrase i="48" t="Ðalinti paskutiná dalyvá"/>
+    <phrase i="47" t="Grupinis perëmimas"/>
+    <phrase i="46" t="Kenkëjiðkas skambuèio ID"/>
+    <phrase i="45" t="Peradresuoti visus"/>
+	<phrase i="44" t="Ðnabþdesys"/>
+        <phrase i="43" t="Mobilumas"/>
+	<phrase i="42" t="Neaktyvus áraðymo seansas"/>
+	<phrase i="41" t="Jau áraðoma"/>
+	<phrase i="40" t="Áraðymo átaisas priims aktyvø skambutá"/>
+	<phrase i="39" t="Stebëjimas"/>
+        <phrase i="38" t="Neleistinas prietaisas"/>
+	<phrase i="37" t="Iðtekliø nëra"/>
+	<phrase i="36" t="Nustatyti nepavyko"/>
+	<phrase i="35" t="Sulaikymo apgràþa"/> 
+	<phrase i="34" t="Skambutis sulaikytas"/>
+	<phrase i="33" t="Neparengtas"/>
+	<phrase i="32" t="Parengtas"/>
+	<phrase i="31" t="Prijungti prie paieðkos grupës"/>
+	<phrase i="30" t="Skambuèiø eilëje"/>
+	<phrase i="29" t="Paieðkos rezultatai"/>
+	<phrase i="28" t="Nerasta áraðø"/>
+	<phrase i="27" t="Áraðai nuo 1 iki"/>
+	<phrase i="26" t="ið"/>
+	<phrase i="25" t="Áveskite PIN"/>
+	<phrase i="24" t="Neteisingas PIN"/>
+	<phrase i="23" t="Prisijungti pavyko"/>
+	<phrase i="22" t="Naktinës paslaugos iðjungtos"/>
+	<phrase i="21" t="Naktinës paslaugos aktyvios"/>
+	<phrase i="20" t="Naktinës paslaugos"/>
+	<phrase i="19" t="Áveskite paieðkos kriterijus"/>
+	<phrase i="18" t="Vietinës paslaugos"/>
+	<phrase i="17" t="Pasirinkite paslaugà"/>
+	<phrase i="16" t="Persiuntimo paskirties vieta uþimta"/>
+	<phrase i="15" t="Pasirinkti linijà"/>
+	<phrase i="14" t="Kaita"/>
+	<phrase i="13" t="Baikite pokalbá"/>
+	<phrase i="12" t="Laukiama pakartotinio gráþimo á pradþià"/>
+	<phrase i="11" t="Virðytas didþiausias telefonø skaièius"/>
+	<phrase i="10" t="CM atsarginë paslauga veikia"/>
+	<phrase i="9" t="Yra skambuèiø, kuriuos reikia perimti"/>
+	<phrase i="8" t="Ávesti kliento turinio kodà"/>
+	<phrase i="7" t="Ávesti leidimo kodà"/>
+    <phrase i="6" t="Prietaisas tinklinio ryðio vietoje"/>
+    <phrase i="5" t="Prietaisas pradinëje vietoje"/>
+	<phrase i="4" t="Prisijungimo vardas"/>	
+	<phrase i="3" t="Atmintukas"/>
+	<phrase i="2" t="Pask"/>
+</phrases>

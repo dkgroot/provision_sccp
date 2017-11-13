@@ -23,7 +23,7 @@ def generate_nginx_rules(regex, dirname, outfile):
 if __name__ == '__main__':
     rootdir = "./tftpboot/firmware/"
     tftpd_rules = open("etc/tftpd-hpa/tftpd.rules", "w")
-    nginx_rules = open("etc/nginx/site-available/nginx.rules", "w")
+    nginx_rules = open("etc/nginx/sites-available/nginx.rules", "w")
     
     for subdir in next(os.walk(rootdir))[1]:
         regex = generate_regex(os.path.join(rootdir, subdir))

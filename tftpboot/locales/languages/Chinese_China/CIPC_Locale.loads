@@ -1,0 +1,1371 @@
+<AutoUpdateManifest>
+  <component name="Chinese_China" upgradeAction="recommended" downgradeAction="recommended">
+    <files>
+
+ <archive name="Chinese_China/CIPC_Locale.zip" path="CIPC_Locale.zip"
+       checksum="9b4c5c59703ea7e4113d1cdca7f393eb"
+       modified="Tue May 27 23:20:25 2014"
+       size="951033"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="CIPCLocaleDownloaderStrings.xml"
+       modified="Tue May 27 23:20:21 2014"
+       size="8227"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="ErrorReportStrings.xml"
+       modified="Tue May 27 23:20:21 2014"
+       size="2435"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="ProblemReportStrings.txt"
+       modified="Tue May 27 23:20:21 2014"
+       size="1786"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="SFBStrings.xml"
+       modified="Tue May 27 23:20:21 2014"
+       size="19766"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="AudioTuningWizardStrings.xml"
+       modified="Tue May 27 23:20:25 2014"
+       size="12775"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/helpAPI.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="481"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/index.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="744"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/pophelp.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="1042"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan09.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5056"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/IPCmapping_hlp.js"
+       modified="Tue May 27 23:20:22 2014"
+       size="1031"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/IPCmapping_sch.js"
+       modified="Tue May 27 23:20:22 2014"
+       size="139102"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/advaudio.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/catalog.css"
+       modified="Tue May 27 23:20:22 2014"
+       size="15871"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/config.js"
+       modified="Tue May 27 23:20:22 2014"
+       size="2377"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/document.css"
+       modified="Tue May 27 23:20:22 2014"
+       size="770"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/expand.js"
+       modified="Tue May 27 23:20:22 2014"
+       size="3750"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/index.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2351"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/indexList.js"
+       modified="Tue May 27 23:20:22 2014"
+       size="134141"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/indexsch.js"
+       modified="Tue May 27 23:20:22 2014"
+       size="10149"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/indexta.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2429"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugdev1.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3203"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugdev2.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2405"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugdev3.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="7099"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugdev4.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5665"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugdev5.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4273"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugdev6.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6928"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/page.js"
+       modified="Tue May 27 23:20:22 2014"
+       size="1980"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs1.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4050"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs2.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3079"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs3.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4786"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs4.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6615"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs5.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4448"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs6.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4347"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs7.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6963"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs8.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6072"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcuggs9.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4567"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan01.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2726"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan02.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3882"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan03.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="17095"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan04.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3621"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan05.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="7588"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan06.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4927"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan07.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5765"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan08.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3736"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan27.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3207"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan10.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3642"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan11.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5496"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan12.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3890"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan13.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6676"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan14.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6435"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan15.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3246"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan16.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3782"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan17.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5026"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan18.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3255"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan19.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4446"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan20.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3981"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan21.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3865"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan22.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4675"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan23.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="8325"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan24.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4250"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan25.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3730"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan26.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4767"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt10.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="7329"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan28.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6490"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan29.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4531"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan30.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2884"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan31.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5548"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan32.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3606"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan33.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4443"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan34.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4832"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcughan35.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6469"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt01.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3925"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt02.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4409"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt03.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5157"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt04.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6685"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt05.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6790"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt06.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="8282"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt07.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5262"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt08.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="7987"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugopt09.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="8434"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset01.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2946"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov01.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2860"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov02.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="8724"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov03.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="2811"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov04.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="13309"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov05.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6441"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov06.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3301"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov07.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="7582"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov08.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6609"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov09.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6066"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov10.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3343"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov11.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3704"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov12.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4154"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov13.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3362"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov14.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3814"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov15.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="12194"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov16.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4992"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugov17.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6481"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugts3.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="16284"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset02.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3692"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset03.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="4328"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset04.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5987"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset05.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3826"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset06.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3250"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset07.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="6215"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset08.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5058"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset09.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="5840"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset10.html"
+       modified="Tue May 27 23:20:22 2014"
+       size="3728"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset11.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4575"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset12.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4888"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset13.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4211"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset14.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4181"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset15.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="5888"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugset16.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3224"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugts1.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2941"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugts2.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="9755"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugts4.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3557"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugts5.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3052"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugts6.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="5627"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm1.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2845"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm2.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="5306"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm3.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="9157"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm4.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3125"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm5.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="5200"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm6.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="11876"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm7.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4111"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/ipcugvm8.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="5884"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/netaudio.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/prefaudio.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/prefdirs.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/prefnetwrk.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/prefuser.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/qsearch.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2394"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/tocNodes.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="9904"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113691.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="923"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105031.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="29796"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105079.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="918"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105079bs.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="918"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105079u.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="902"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105780.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="2602"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105781.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="4943"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105781co.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="5034"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105782.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="2378"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/105782cp.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="2401"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113630.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="809"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113661.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="839"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113681.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="913"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113687.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="929"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113687t.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="929"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113688.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="859"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113688s.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="859"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113689.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="897"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113689r.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="897"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113690.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="822"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113690p.jpg"
+       modified="Tue May 27 23:20:21 2014"
+       size="833"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113690q.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="823"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113690w.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="842"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/99920.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="864"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113693.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="889"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113693br.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="889"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113693v.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="919"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113703.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="844"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113703bm.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="861"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/113703bp.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="860"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/120781.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="15491"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/140189.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="903"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/140189bl.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="848"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/140189bo.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="848"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/140190.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/140190bk.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/140190bn.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/140191.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="887"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/141209.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="29383"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/181091.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="870"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/181094.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="877"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/181096.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="904"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/181521.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="890"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/181521bq.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="872"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/181994.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="942"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/96526.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="1175"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/96540.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="1241"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/99911.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="908"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/99921.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="924"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/99924.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="788"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/99925.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="798"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/99987.jpg"
+       modified="Tue May 27 23:20:22 2014"
+       size="888"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/collapse.gif"
+       modified="Tue May 27 23:20:22 2014"
+       size="53"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/Output/Images/expanded.gif"
+       modified="Tue May 27 23:20:22 2014"
+       size="52"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/mappingfiles/IPCmapping_hlp.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="1113"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan08.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3736"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/IPCmapping_hlp.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="1031"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/IPCmapping_sch.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="139102"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/advaudio.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/catalog.css"
+       modified="Tue May 27 23:20:23 2014"
+       size="15871"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/config.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="2377"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/document.css"
+       modified="Tue May 27 23:20:23 2014"
+       size="770"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/expand.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="3750"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/index.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2351"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/indexList.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="135117"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/indexsch.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="10149"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/indexta.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2429"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/indexta.html.org"
+       modified="Tue May 27 23:20:23 2014"
+       size="2461"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugdev1.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3203"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugdev2.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2405"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugdev3.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="7099"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugdev4.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="5665"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugdev5.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4273"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/page.js"
+       modified="Tue May 27 23:20:23 2014"
+       size="1980"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugdev6.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="6928"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs1.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4050"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs2.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3079"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs3.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4786"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs4.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="6615"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs5.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4448"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs6.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4347"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs7.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="6963"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs8.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="6072"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcuggs9.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="4567"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan01.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="2726"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan02.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="3882"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan03.html"
+       modified="Tue May 27 23:20:23 2014"
+       size="17095"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan04.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3621"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan05.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="7588"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan06.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4927"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan07.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5765"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan26.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4767"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan09.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5056"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan10.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3642"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan11.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5496"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan12.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3890"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan13.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6676"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan14.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6435"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan15.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3246"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan16.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3782"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan17.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5026"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan18.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3255"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan19.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4446"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan20.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3981"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan21.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3865"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan22.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4675"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan23.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="8325"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan24.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4250"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan25.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3730"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt08.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="7987"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan27.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3207"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan28.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6490"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan29.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4531"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan30.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2884"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan31.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5548"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan32.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3606"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan33.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4443"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan34.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4832"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan35.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6469"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcughan36.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="7347"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt01.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3925"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt02.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4409"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt03.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5157"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt04.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6685"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt05.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6790"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt06.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="8282"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt07.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5262"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov16.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4992"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt09.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="8434"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugopt10.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="7329"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov01.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2860"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov02.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="8724"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov03.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2811"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov04.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="13309"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov05.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6441"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov06.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3301"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov07.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="7582"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov08.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6609"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov09.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6066"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov10.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3343"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov11.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3704"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov12.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4154"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov13.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3362"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov14.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3814"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov15.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="12194"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugts1.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2941"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugov17.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6481"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset01.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2946"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset02.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3692"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset03.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4328"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset04.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5987"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset05.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3826"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset06.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3250"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset07.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="6215"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset08.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5058"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset09.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5840"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset10.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3728"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset11.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4575"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset12.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4888"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset13.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4211"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset14.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4181"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset15.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5888"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugset16.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3224"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/prefuser.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugts2.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="9755"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugts3.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="16284"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugts4.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3557"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugts5.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3052"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugts6.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5627"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm1.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2845"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm2.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5306"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm3.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="9157"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm4.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="3125"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm5.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5200"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm6.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="11876"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm7.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="4111"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/ipcugvm8.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="5884"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/netaudio.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/prefaudio.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/prefdirs.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/prefnetwrk.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2396"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/qsearch.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2394"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/tocNodes.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="9904"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113689.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="897"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105031.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="29796"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105079.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="918"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105079as.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="902"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105079bs.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="918"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105079eh.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="918"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105079u.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="902"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105780.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="2602"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105781.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="4943"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105781co.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="5034"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105781fz.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="5034"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105782.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="2378"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105782cp.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="2401"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/105782ga.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="2401"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113630.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="809"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113661.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="839"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113681.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="913"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113687.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="929"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113687ar.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="929"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113687t.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="929"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113688.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="859"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113688aq.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="859"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113688s.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="859"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140189ea.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="849"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113689ap.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="897"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113689r.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="897"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113690.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="822"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113690an.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="833"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113690ao.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="832"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113690au.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="832"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113690p.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="833"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113690q.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="823"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113690w.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="842"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113691.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="923"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113693.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="889"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113693at.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="919"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113693br.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="889"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113693eg.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="889"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113693v.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="919"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113703.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="844"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113703bm.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="861"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113703bp.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="860"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113703eb.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="861"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/113703ee.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="861"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/120781.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="15491"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140189.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="903"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140189bl.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="848"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140189bo.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="848"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/expanded.gif"
+       modified="Tue May 27 23:20:23 2014"
+       size="52"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140189ed.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="849"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140190.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140190bk.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140190bn.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140190dz.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140190ec.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/140191.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="887"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/141209.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="29383"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/181091.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="870"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/181094.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="877"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/181096.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="904"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/181521.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="890"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/181521bq.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="872"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/181521ef.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="919"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/181994.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="942"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/96526.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="1175"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/96540.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="1241"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/99911.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="908"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/99920.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="864"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/99921.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="924"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/99924.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="788"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/99925.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="798"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/99987.jpg"
+       modified="Tue May 27 23:20:23 2014"
+       size="888"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/output/images/collapse.gif"
+       modified="Tue May 27 23:20:23 2014"
+       size="53"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/help.css"
+       modified="Tue May 27 23:20:24 2014"
+       size="1909"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/ContentFrameSet.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="717"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/FavEnter.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="5878"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/FavList.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="868"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/IndexEnter.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="8130"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/IndexList.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="2787"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/LeftNavFav.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="687"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/LeftNavFrameSet.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="570"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/LeftNavIndex.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="695"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/LeftNavToc.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="566"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/LeftNavTop.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="9284"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/LowerFrameSet.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="875"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/SearchBar.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="5899"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/ToolbarFrame.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="11005"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/bdetect.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="800"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/con_utils.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="3189"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/ftiens4.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="35552"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/search_results.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="793"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/iepdf.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="977"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/tocFrame.html"
+       modified="Tue May 27 23:20:24 2014"
+       size="2116"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/searchcode.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="8478"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/style.css"
+       modified="Tue May 27 23:20:24 2014"
+       size="2711"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/tocEnter.htm"
+       modified="Tue May 27 23:20:24 2014"
+       size="1237"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/toc_utils.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="2622"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/ua.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="4277"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/utilsV4.js"
+       modified="Tue May 27 23:20:24 2014"
+       size="1932"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/ToolbarGradient3px.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="187"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/ToolbarGradient.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="161"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/button_left.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="300"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/back_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="233"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/button_tile.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="290"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/button_right.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="298"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/open_new_win_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="1239"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/feedback_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="1200"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/forward_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="337"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/ftv2blank.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="135"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/ftv2doc.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="916"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/ftv2folderclosed.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="968"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/ftv2folderopen.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="979"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/glossary_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="1224"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/hide_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="659"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/nblank.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="91"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/next_arrow.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="55"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/sblank.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="807"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/open_new_win16.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="546"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabLeftActiveContent.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="282"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/previous_arrow.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="55"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/print_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="1235"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/resize_bg.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="63"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/show_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="456"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabAreaBg.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="45"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabBgActiveDark.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="140"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabBgNonActive.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="147"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActiveAdjacent.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="162"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabLeftActiveDark.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="102"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActive.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="177"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabRightNonActiveAdjacent.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="162"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActiveContent.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="177"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActiveLeftmost.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="181"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabRightActiveDark.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="101"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabRightNonActive.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="180"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/viewpdf_icon.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="1279"/>
+   <file archive="Chinese_China/CIPC_Locale.zip" path="help/shared/images/tabspacer.gif"
+       modified="Tue May 27 23:20:24 2014"
+       size="58"/>
+
+    </files>
+  </component>
+</AutoUpdateManifest>

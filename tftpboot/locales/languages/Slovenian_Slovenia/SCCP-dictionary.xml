@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Slovenian_Slovenia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nobena linija ni na voljo za prevzem"/>
+	<phrase i="197" t="Zunanji prenos omejen"/>
+	<phrase i="196" t="Nobena pasovna ¹irina ni na voljo za prevzem"/>
+	<phrase i="195" t="Noben klic ni na voljo za prevzem"/>
+	<phrase i="194" t="Mesto za parkiranje klica ni na voljo"/>
+	<phrase i="193" t="Odjavljen iz klicne skupine"/>
+	<phrase i="192" t="DnevKlSk"/>
+	<phrase i="191" t="ODvig"/>
+	<phrase i="190" t="Maks. trajanje prekinitve za Zadr¾i"/>
+	<phrase i="189" t="Maks. trajanje prekinitve za klic"/>
+	<phrase i="188" t="VidNaèin"/>
+	<phrase i="187" t="Video propustnost ni na voljo"/>
+	<phrase i="186" t="Varnostna napaka"/>
+	<phrase i="185" t="©tevilka ni nastavljena"/>
+	<phrase i="184" t="Prepoznavanje skrite ¹tevilke uspe¹no"/>
+	<phrase i="183" t="Klicev ni mogoèe zdru¾iti"/>
+	<phrase i="182" t="Prenosa ni mogoèe dokonèati"/>
+	<phrase i="181" t="PrkKonf"/>
+	<phrase i="180" t="TakPreu"/>
+	<phrase i="179" t="SezKonKl"/>
+	<phrase i="178" t="Izberi"/>
+	<phrase i="177" t="Zdru¾Kl"/>
+	<phrase i="176" t="PreSkSte"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Gost promet Poskusi ponovno"/>
+	<phrase i="173" t="Storitev ni aktivna"/>
+	<phrase i="172" t="Povrnitev parkiranih klicev"/>
+	<phrase i="171" t="Nobena Park ©t. ni na voljo"/>
+	<phrase i="170" t="Nezdru¾ljiva vrsta naprave"/>
+	<phrase i="169" t="Obstaja druga konferenca"/>
+	<phrase i="168" t="Ni uspelo vzpostaviti konference"/>
+	<phrase i="167" t="VklKonf"/>
+	<phrase i="166" t="Zastoj v omre¾ju, preusmerjanje"/>
+	<phrase i="165" t="PovKlic"/>
+	<phrase i="164" t="PreusKl"/>
+	<phrase i="163" t="Ne moti"/>
+	<phrase i="162" t="PreuGP"/>
+	<phrase i="161" t="Vkl/Izk"/>
+	<phrase i="160" t="PrestrKl"/>
+	<phrase i="159" t="Preusmeri"/>
+	<phrase i="158" t="GPo¹ta"/>
+	<phrase i="157" t="OdstrZK"/>
+	<phrase i="156" t="Neznana ¹tevilka"/>
+	<phrase i="155" t="Ni dovolj prepustnosti"/>
+	<phrase i="154" t="Zasebno"/>
+	<phrase i="153" t="Parkiraj ¹tevilko"/>
+	<phrase i="152" t="Konferenca"/>
+	<phrase i="151" t="Napaka: neskladje"/>
+	<phrase i="150" t="Napaka: neznana"/>
+	<phrase i="149" t="Napaka: prazne omejitve"/>
+	<phrase i="148" t="Napaka: zbirka podatkov"/>
+	<phrase i="147" t="Napaka: nastavitev zbirke pod."/>
+	<phrase i="146" t="Napaka: ni licence"/>
+	<phrase i="145" t="Tipka ni aktivna"/>
+	<phrase i="144" t="Prese¾eno maksimalno ¹tevilo udele¾encev"/>
+	<phrase i="143" t="Ni informacij o udele¾encu"/>
+	<phrase i="142" t="®e v konferenci"/>
+	<phrase i="141" t="Neveljaven udele¾enec konference"/>
+	<phrase i="140" t="Primarni nadzor ni mogoè"/>
+	<phrase i="139" t="Ni konferenènega mosta"/>
+	<phrase i="138" t="Konference ni mogoèe dokonèati"/>
+	<phrase i="137" t="Preusmerjeno na:"/>
+	<phrase i="136" t="Nova glasovna po¹ta"/>
+	<phrase i="135" t="Predloga neuspela"/>
+	<phrase i="134" t="Samo primarno"/>
+	<phrase i="133" t="Parkiraj klic na"/>
+	<phrase i="132" t="Vnesite ¹tevilko"/>
+	<phrase i="131" t="V oddaljeni uporabi"/>
+	<phrase i="130" t="Nadaljevanje klica"/>
+	<phrase i="129" t="Parkiranje klica"/>
+	<phrase i="128" t="Prenos klica"/>
+	<phrase i="127" t="Klic na èakanju"/>
+	<phrase i="126" t="Linija v uporabi"/>
+	<phrase i="125" t="Zasedeno"/>
+	<phrase i="124" t="Povezano"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Zvonjenje"/>
+	<phrase i="121" t="Odlo¾ena slu¹alka"/>
+	<phrase i="120" t="Dvignjena slu¹alka"/>
+	<phrase i="119" t="Va¹e trenutne mo¾nosti"/>
+	<phrase i="118" t="SDvig"/>
+	<phrase i="117" t="Dvigni"/>
+	<phrase i="116" t="SreèajMe"/>
+	<phrase i="115" t="Pridru¾i"/>
+	<phrase i="114" t="Parkiraj"/>
+	<phrase i="113" t="Konf."/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Odgovori"/>
+	<phrase i="110" t="Nadaljuj"/>
+	<phrase i="109" t="Konèaj"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PreuNiOdg"/>
+	<phrase i="106" t="PreuZas"/>
+	<phrase i="105" t="PreuVse"/>
+	<phrase i="104" t="Preusm."/>
+	<phrase i="103" t="Zadr¾i"/>
+	<phrase i="102" t="Nov klic"/>
+	<phrase i="101" t="Ponovi"/>
+</phrases>

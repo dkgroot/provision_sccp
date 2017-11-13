@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Turkish_Turkey</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="MIDlet'ler karşıdan yükleniyor..."/>
+  <phrase i="8003" t="Uygulama Küçültülmüş"/>
+  <phrase i="8002" t="MIDP modülü başarıyla yüklendi"/>
+  <phrase i="8001" t="MIDP modül yüklemesi bekleniyor..."/>
+  <phrase i="8000" t="Üreti. y. güncelleştiriliyor..."/>
+  <phrase i="7999" t="Üreti. y. ka. yükleniyor...%d%%"/>
+  <phrase i="7998" t="Üretici yaz. kurtarılıyor..."/>
+  <phrase i="7997" t="Üretici yaz. güncel. başarısız"/>
+  <phrase i="7996" t="Pil zayıf! Güncelleştirilemiyor"/>
+  <phrase i="7995" t="Karşıdan görüntü yük. başarısız"/>
+  <phrase i="7994" t="Görüntü kimlik doğru. başarısız"/>
+  <phrase i="7993" t="Düşük bellek! Yen. başlatıl ..."/>
+  <phrase i="7992" t="EAP-TLS/PEAP etkinleştirilmiş"/>
+  <phrase i="7991" t="Sunucu Sertifikasını Doğrula"/>
+  <phrase i="7990" t="AOM yüklemesi başarısız"/>
+  <phrase i="7989" t="AOM Karşıdan yükleniyor(%d/%d)"/>
+  <phrase i="7988" t="AOM Yükleniyor(%d/%d)...%d%%"/>
+  <phrase i="7987" t="Görüntü bütünlüğü denetimi başarız"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="Tarayıcı FW yükleniyor:%d%%"/>
+  <phrase i="7984" t="Tarayıcı FW karşıdan yükleniyor"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="Kısıtlanmış Veri Hızları"/>
+  <phrase i="7080" t="Tarama Modu"/>
+  <phrase i="7079" t="Otomatik"/>
+  <phrase i="7078" t="Sürekli"/>
+  <phrase i="7077" t="Hücre Güç Sınırı"/>
+  <phrase i="7076" t="Güç Kısıtlaması"/>
+  <phrase i="7075" t="EAP-TLS Sertifikası"/>
+  <phrase i="7074" t="Kullanıcının Yüklediği"/>
+  <phrase i="7073" t="Üreticinin Verdiği"/>
+  <phrase i="7072" t="CAPF'nin Verdiği"/>
+  <phrase i="7071" t="Kimlik doğru. sert. bulunamadı"/>
+  <phrase i="7070" t="Kimlik doğrulama sert. geçersiz"/>
+  <phrase i="7069" t="Kimlik doğr. ser. süre sonu: %s"/>
+  <phrase i="7068" t="Kimlik doğ. ser. süre dol. üze."/>
+  <phrase i="7067" t="Kimlik doğrulama sertifikası süresi %d gün sonra doluyor"/>
+  <phrase i="7066" t="Kimlik doğ. sert. süresi doldu"/>
+  <phrase i="7065" t="Sert. süresi saat ayar. denetle"/>
+  <phrase i="7064" t="WLAN Kim. Doğ. Sert. bulunamadı"/>
+  <phrase i="7063" t="Kim. doğ. sertif. bulunamadı"/>
+  <phrase i="7062" t="Kim. Doğr. Sert. süre sonu: %d gün"/>
+  <phrase i="7061" t="WLAN Kim. Doğ Sert. süre doldu"/>
+  <phrase i="7060" t="Kim. doğ. sert. süresi doldu!"/>
+  <phrase i="7059" t="İstasyon Sayısı"/>
+  <phrase i="7057" t="Uyarı Bayrakları"/>
+  <phrase i="7056" t="Radyo Farı Aralığı"/>
+  <phrase i="7055" t="DTIM Süresi"/>
+  <phrase i="7054" t="Özellik"/>
+  <phrase i="7053" t="Hız Bit Eşlemi"/>
+  <phrase i="7052" t="Temel Hız Bit Eşlemi"/>
+  <phrase i="7051" t="Frekans Hoplaması"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="Spektrum Yönetimi"/>
+  <phrase i="7047" t="Kanal Desteklenmiyor"/>
+  <phrase i="7046" t="Kanal profili"/>
+  <phrase i="7045" t="Gizlilik"/>
+  <phrase i="7044" t="LowRate"/>
+  <phrase i="7043" t="Proxy ARP"/>
+  <phrase i="7042" t="Ana Oranlar"/>
+  <phrase i="7041" t="İsteğe Bağlı Oranlar"/>
+  <phrase i="7040" t="AC Arka Planı"/>
+  <phrase i="7039" t="AC En İyi Girişim"/>
+  <phrase i="7038" t="AC Video"/>
+  <phrase i="7037" t="AC Ses"/>
+  <phrase i="7036" t="ECW Minimum"/>
+  <phrase i="7035" t="ECW Maksimum"/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="Kabul Denetimi"/>
+  <phrase i="7032" t="Çok Noktaya Yayın Şifresi"/>
+  <phrase i="7031" t="Tek Noktaya Yayın Şifresi"/>
+  <phrase i="7030" t="BSS Kayıp Sayısı"/>
+  <phrase i="7029" t="Destekleniyor"/>
+  <phrase i="7028" t="Kullanılabilir Kabul Kapasitesi"/>
+  <phrase i="7027" t="Var"/>
+  <phrase i="7026" t="Yok"/>
+  <phrase i="7025" t="Erişim Kategorisi"/>
+  <phrase i="7024" t="Önerilmez"/>
+  <phrase i="7023" t="Tutarsız"/>
+  <phrase i="7022" t="Başvuru AP'si"/>
+  <phrase i="7021" t="Ülke"/>
+  <phrase i="7020" t="CCA Eşiği"/>
+  <phrase i="7019" t="Genel Anahtar Sertifikası"/>
+  <phrase i="7018" t="Genel Anahtar Altyapısı"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="Geçerlilik Süresi"/>
+  <phrase i="7015" t="Kök Anahtarı"/>
+  <phrase i="7014" t="Sertifika Yetkilisi"/>
+  <phrase i="7013" t="Özel Anahtar"/>
+  <phrase i="7012" t="Genel Anahtar"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="Kimlik Doğrulama Sunucusu"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="Kimlik doğrulama başarısız"/>
+  <phrase i="7008" t="Ağ Profili Yok"/>
+  <phrase i="7007" t="Hizmet Alanından Çıkılıyor!"/>
+  <phrase i="7006" t="Ağ Hizmetleri Bulunuyor"/>
+  <phrase i="7005" t="Profil seçilmedi"/>
+  <phrase i="7003" t="Bağlantı kuruldu"/>
+  <phrase i="7002" t="Bağlanmaya çalışılıyor..."/>
+  <phrase i="7001" t="WLAN Hatası"/>
+  <phrase i="7000" t="Kanallar taranıyor..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="Tüm çağrı geçmişi silinsin mi?"/>
+  <phrase i="6406" t="Tarayıcı Tanı Bilgileri"/>
+  <phrase i="6405" t="Sıfırla"/>
+  <phrase i="6404" t="Semboloji Grubu"/>
+  <phrase i="6403" t="Uzatılmış"/>
+  <phrase i="6402" t="Temel"/>
+  <phrase i="6401" t="Tarayıcı"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="Bluetooth"/>
+  <phrase i="6399" t="Aygıt Listesi"/>
+  <phrase i="6398" t="Tara"/>
+  <phrase i="6397" t="TekrTara"/>
+  <phrase i="6396" t="Çift"/>
+  <phrase i="6395" t="Çifti iptal et"/>
+  <phrase i="6394" t="Çiftlenen Aygıtlar"/>
+  <phrase i="6393" t="Taranıyor"/>
+  <phrase i="6392" t="Çifleniyor"/>
+  <phrase i="6391" t="%s Çiftlendi"/>
+  <phrase i="6390" t="Çiftleme iptal ediliyor"/>
+  <phrase i="6389" t="%s Çiftleme iptal edildi"/>
+  <phrase i="6388" t="Bulunan aygıtlar: %d"/>
+  <phrase i="6387" t="%s eşlemesi iptal edilsin mi?"/>
+  <phrase i="6386" t="Tarama Sonuçları"/>
+  <phrase i="6385" t="Bluetooth Şifresini Girin"/>
+  <phrase i="6384" t="Çiftleme Başarısız Oldu!"/>
+  <phrase i="6383" t="%s bağlandı!"/>
+  <phrase i="6382" t="%s bağlantısı kesildi!"/>
+  <phrase i="6381" t="Bağlantı"/>
+  <phrase i="6380" t="Bağlantıyı kes"/>
+  <phrase i="6379" t="Kulaklıkta Ses Düzeyini Ayarla"/>
+  <phrase i="6378" t="Maksimum Aygıt Sayısı Aşıldı"/>
+  <phrase i="6377" t="Bluetooth Bağlantısı Kurulamadı"/>
+  <phrase i="6376" t="Bu eşlenmiş bir aygıt!"/>
+  <phrase i="6375" t="Tümünün Eşlemesini Kaldır"/>
+  <phrase i="6374" t="Bluetooth Hazır Değil"/>
+  <phrase i="6373" t="Bluetooth İç Hatası"/>
+  <phrase i="6372" t="İşlem Başarısız"/>
+  <phrase i="6371" t="Bluetooth Seçili"/>
+  <phrase i="6370" t="Hoparlör Seçili"/>
+  <phrase i="6369" t="Ahize Seçili"/>
+  <phrase i="6368" t="Kulaklık Seçili"/>
+  <phrase i="6367" t="Tanı"/>
+  <phrase i="6366" t="Tuş Takımı"/>
+  <phrase i="6365" t="Ses"/>
+  <phrase i="6364" t="Tanı Seç"/>
+  <phrase i="6363" t="Bir düğmeye basın"/>
+  <phrase i="6362" t="Tuş Takımı Tanılama"/>
+  <phrase i="6361" t="Basılı"/>
+  <phrase i="6360" t="Serbest"/>
+  <phrase i="6359" t="Ses Tanılama"/>
+  <phrase i="6358" t="Yerel Ses geri döngüsü"/>
+  <phrase i="6357" t="Yazılım Tuşu %d"/>
+  <phrase i="6356" t="Sesi Azalt"/>
+  <phrase i="6355" t="Sesi Arttır"/>
+  <phrase i="6354" t="Sağda"/>
+  <phrase i="6353" t="Solda"/>
+  <phrase i="6352" t="Güç"/>
+  <phrase i="6351" t="Sessiz"/>
+  <phrase i="6350" t="Java Yüklemesi Başarısız"/>
+  <phrase i="6349" t="%s Seç"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="Bşl Hata"/>
+  <phrase i="6298" t="%s şu anda açık"/>
+  <phrase i="6297" t="Başka birini başlatmadan önce lütfen kapatın"/>
+  <phrase i="6296" t="Geçş Yp:"/>
+  <phrase i="6295" t="Uyg Kpat"/>
+  <phrase i="6294" t="Uyg Drkl"/>
+  <phrase i="6293" t="Gelen arama"/>
+  <phrase i="6292" t="Yoksay"/>
+  <phrase i="6291" t="Bitti"/>
+  <phrase i="6290" t="Ayarla"/>
+  <phrase i="6289" t="Java Hakkında"/>
+  <phrase i="6288" t="Başlat"/>
+  <phrase i="6287" t="Yükle"/>
+  <phrase i="6286" t="Git"/>
+  <phrase i="6285" t="Git"/>
+  <phrase i="6284" t="İstisna"/>
+  <phrase i="6283" t="Uygulama"/>
+  <phrase i="6282" t="Uygl"/>
+  <phrase i="6281" t="Bilgi"/>
+  <phrase i="6280" t="Kaldır"/>
+  <phrase i="6279" t="Uygulamayı Yükle"/>
+  <phrase i="6278" t="Sertifika Yetkililerini Yönet"/>
+  <phrase i="6277" t="Son"/>
+  <phrase i="6276" t="Üretici"/>
+  <phrase i="6275" t="Servis Sağlayıcı"/>
+  <phrase i="6274" t="Üçüncü Partiler"/>
+  <phrase i="6273" t="öğle"/>
+  <phrase i="6272" t="gece"/>
+  <phrase i="6271" t="aaa gg, yyyy"/>
+  <phrase i="6270" t="ss:dd ??"/>
+  <phrase i="6269" t="aaa gg, yyyy ss:dd  "/>
+  <phrase i="6268" t="Paz"/>
+  <phrase i="6267" t="Pzt"/>
+  <phrase i="6266" t="Sal"/>
+  <phrase i="6265" t="Çar"/>
+  <phrase i="6264" t="Per"/>
+  <phrase i="6263" t="Cum"/>
+  <phrase i="6262" t="Cmt"/>
+  <phrase i="6261" t="Ocak"/>
+  <phrase i="6260" t="Şubat"/>
+  <phrase i="6259" t="Mart"/>
+  <phrase i="6258" t="Nisan"/>
+  <phrase i="6257" t="May"/>
+  <phrase i="6256" t="Haziran"/>
+  <phrase i="6255" t="Temmuz"/>
+  <phrase i="6254" t="Ağustos"/>
+  <phrase i="6253" t="Eylül"/>
+  <phrase i="6252" t="Ekim"/>
+  <phrase i="6251" t="Kasım"/>
+  <phrase i="6250" t="Aralık"/>
+  <phrase i="6249" t="Oca"/>
+  <phrase i="6248" t="Şub"/>
+  <phrase i="6247" t="Mar"/>
+  <phrase i="6246" t="Nis"/>
+  <phrase i="6245" t="May"/>
+  <phrase i="6244" t="Haz"/>
+  <phrase i="6243" t="Tem"/>
+  <phrase i="6242" t="Ağu"/>
+  <phrase i="6241" t="Eyl"/>
+  <phrase i="6240" t="Ekim"/>
+  <phrase i="6239" t="Kas"/>
+  <phrase i="6238" t="Ara"/>
+  <phrase i="6237" t="Önce"/>
+  <phrase i="6236" t="Sonra"/>
+  <phrase i="6235" t="Saat:"/>
+  <phrase i="6234" t="Tarih:"/>
+  <phrase i="6233" t="Semboller"/>
+  <phrase i="6232" t="Tahmin Et"/>
+  <phrase i="6231" t="tahmin et"/>
+  <phrase i="6230" t="TAHMİN ET"/>
+  <phrase i="6229" t="Tamam"/>
+  <phrase i="6228" t="Seçenekler..."/>
+  <phrase i="6227" t="öö"/>
+  <phrase i="6226" t="ös"/>
+  <phrase i="6225" t="VerileriSil"/>
+  <phrase i="6224" t="Uygulama boyutu"/>
+  <phrase i="6223" t="Uygulama veri boyutu"/>
+  <phrase i="6222" t="Bayt"/>
+  <phrase i="6221" t="Hata, yöneticiye başvurun"/>
+  <phrase i="6220" t="Uygulamadan çıkılıyor..."/>
+  <phrase i="6219" t="Yükleme iptal edildi"/>
+  <phrase i="6218" t="Uygulama yüklenemedi"/>
+  <phrase i="6217" t="Uygulama yükleniyor..."/>
+  <phrase i="6216" t="Uygulama başlatılıyor..."/>
+  <phrase i="6215" t="Onay"/>
+  <phrase i="6214" t="Yükleniyor"/>
+  <phrase i="6213" t="Başlatılıyor"/>
+  <phrase i="6212" t="JAR Boyutu"/>
+  <phrase i="6211" t="JAR URL'si"/>
+  <phrase i="6210" t="Açıklama"/>
+  <phrase i="6209" t="Satıcı"/>
+  <phrase i="6208" t="MikroSürüm-Yapılandırma"/>
+  <phrase i="6207" t="MikroSürüm-Profil"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="Kişiselleştirme"/>
+  <phrase i="6205" t="Tek Düğmeyle Katıl"/>
+  <phrase i="6204" t="Geniş Bant Kulaklığı UI Denetimi"/>
+  <phrase i="6203" t="Otomatik Arama Seçme"/>
+  <phrase i="6202" t="Arama Listeleri için MHÖ"/>
+  <phrase i="6201" t="Otomatik Hat Seçme"/>
+  <phrase i="6200" t="UI Bilgileri"/>
+  <phrase i="6199" t="UI"/>
+  <phrase i="6198" t="Karşılama Mesajı"/>
+  <phrase i="6197" t="Selamlama Mesajı"/>
+  <phrase i="6196" t="Yeni Kişi Oluştur"/>
+  <phrase i="6195" t="Varolan Kişiye Park"/>
+  <phrase i="6194" t="Yükleniyor... Lütfen bekleyin"/>
+  <phrase i="6193" t="Sistem Yapılandırması"/>
+  <phrase i="6192" t="Yalnızca alfasayısal karakterler!"/>
+  <phrase i="6191" t="İzleme Düzeylerini Koru"/>
+  <phrase i="6190" t="Uzak Sistem Günlüğü"/>
+  <phrase i="6189" t="İzleme Düzeyi"/>
+  <phrase i="6188" t="Tanı etkin"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="Kuruluş"/>
+  <phrase i="6186" t="Varsayılanı Seç"/>
+  <phrase i="6185" t="Görünüm seç"/>
+  <phrase i="6184" t="Görüntü seç"/>
+  <phrase i="6183" t="Yazılım Tuşunu Özelleştir"/>
+  <phrase i="6182" t="Hat %d (%s)"/>
+  <phrase i="6181" t="Görüntülenecek Hattı Seç"/>
+  <phrase i="6180" t="Telefon Hatları"/>
+  <phrase i="6179" t="Ana Sayfa"/>
+  <phrase i="6178" t="TRehberi"/>
+  <phrase i="6177" t="Arka Plan Görüntüsü"/>
+  <phrase i="6176" t="Tercih Edilen Görünüm"/>
+  <phrase i="6175" t="Sol Yazılım Tuşu"/>
+  <phrase i="6174" t="Ana Sayfayı Özelleştir"/>
+  <phrase i="6173" t="%s (%d Cevapsız)"/>
+  <phrase i="6172" t="Profil Kısıtlanmış!"/>
+  <phrase i="6171" t="Atanmamış"/>
+  <phrase i="6170" t="Kişi alanı seç"/>
+  <phrase i="6169" t="Soyadı, Adı"/>
+  <phrase i="6168" t="Adı, Soyadı"/>
+  <phrase i="6167" t="Dizin Sıralama Düzeni"/>
+  <phrase i="6166" t="Varsayılan Numara Yok"/>
+  <phrase i="6165" t="Atanmamış Hızlı Arama Seçin!"/>
+  <phrase i="6164" t="Atanacak Hızlı Aramayı Seç"/>
+  <phrase i="6163" t="Kişi numarası seç"/>
+  <phrase i="6162" t="Atanacak Hızlı Arama: %d"/>
+  <phrase i="6161" t="Yeni Hızlı Arama atansın mı?"/>
+  <phrase i="6160" t="Telefon türü seç"/>
+  <phrase i="6159" t="Kişi seçin"/>
+  <phrase i="6158" t="Heps. Sil"/>
+  <phrase i="6157" t="Tüm kişiler silindi!"/>
+  <phrase i="6156" t="Tüm kişiler silinsin mi?"/>
+  <phrase i="6155" t="Birincil telefon güncel!"/>
+  <phrase i="6154" t="Arka Plan Görüntüsünü Önizleme"/>
+  <phrase i="6153" t="Yeni zil sesi kaydedildi!"/>
+  <phrase i="6152" t="0 Kayıtla Eşleşiyor"/>
+  <phrase i="6151" t="Yeni numara için yer yok!"/>
+  <phrase i="6150" t="YeniAdVermek"/>
+  <phrase i="6149" t="Birleştir"/>
+  <phrase i="6148" t="Üzerine Yaz"/>
+  <phrase i="6147" t="Kişi güncelleştirildi!"/>
+  <phrase i="6146" t="Kişi zaten var!"/>
+  <phrase i="6145" t="Kişi silindi!"/>
+  <phrase i="6144" t="Kişi silinsin mi?"/>
+  <phrase i="6143" t="Hızlı Arama silinsin mi?"/>
+  <phrase i="6142" t="IM Adresi"/>
+  <phrase i="6141" t="Takma Adı"/>
+  <phrase i="6140" t="Hızlı Arama %d atandı!"/>
+  <phrase i="6139" t="HızlıAra"/>
+  <phrase i="6138" t="Yeni Hızlı Arama Girişi"/>
+  <phrase i="6137" t="(Boş)"/>
+  <phrase i="6136" t="Boş numara!"/>
+  <phrase i="6135" t="Hızlı Arama silindi!"/>
+  <phrase i="6134" t="Etkinleştirmek için Basılı Tut"/>
+  <phrase i="6133" t="Devre Dışı İçin Basılı Tutun"/>
+  <phrase i="6132" t="%d Hızlı Arama Numarası"/>
+  <phrase i="6131" t="1 Hızlı Arama Numarası"/>
+  <phrase i="6130" t="Kişi adı gerekli!"/>
+  <phrase i="6129" t="Maksimum kapasiteye ulaşıldı!"/>
+  <phrase i="6128" t="1 Kişi"/>
+  <phrase i="6127" t="1 Kayıt"/>
+  <phrase i="6126" t="Kişi Yok"/>
+  <phrase i="6125" t="Lütfen aramanızı daraltın."/>
+  <phrase i="6124" t="Tüm sistem sıfırlansın mı?"/>
+  <phrase i="6123" t="Telefon kapatılıp açılsın mı?"/>
+  <phrase i="6122" t="HEX görünümünde anahtar girin"/>
+  <phrase i="6121" t="Geçersiz veya eksik giriş"/>
+  <phrase i="6120" t="%d drm ynt %s öğ.den bekleniyor"/>
+  <phrase i="6119" t="Bant Genişliği Yok"/>
+  <phrase i="6118" t="Etkinleşince Kaydet"/>
+  <phrase i="6117" t="Daha Yüksek"/>
+  <phrase i="6116" t="Eşit"/>
+  <phrase i="6115" t="Daha Düşük"/>
+  <phrase i="6114" t="DND Açık"/>
+  <phrase i="6113" t="DND Kapalı"/>
+  <phrase i="6112" t="Geri Döndürme Odağı Önceliği"/>
+  <phrase i="6111" t="Yığın Mesaj"/>
+  <phrase i="6110" t="Yapılandırma güncelleştirildi"/>
+  <phrase i="6109" t="Güncelleme başarısız"/>
+  <phrase i="6108" t="Yapılan. paket güncelleştirildi"/>
+  <phrase i="6107" t="Yapıla. paket güncel. başarısız"/>
+  <phrase i="6106" t="HTTPS İstemci Yapılandırması"/>
+  <phrase i="6105" t="Doğrulanmamış Sertifika Kabul"/>
+  <phrase i="6104" t="Doğrulanmamış Sertifika Reddet"/>
+  <phrase i="6103" t="Sertifika Seçeneği Belirtin"/>
+  <phrase i="6102" t="Kullanıcı Bilgileri"/>
+  <phrase i="6101" t="Ayarlar Devre Dışı"/>
+  <phrase i="6100" t="Alan Salt Okunur!"/>
+  <phrase i="6099" t="Yönetici Profili Kilitledi"/>
+  <phrase i="6098" t="Yönetici Erişimi Kısıtladı"/>
+  <phrase i="6097" t="Profil Salt Okunur"/>
+  <phrase i="6096" t="Lütfen PIN girin"/>
+  <phrase i="6095" t="Pin için Yöneticiye Başvurun"/>
+  <phrase i="6094" t="Kapat"/>
+  <phrase i="6093" t="Seçmek için orta düğmeyi kullan"/>
+  <phrase i="6092" t="Seçimi iptal için orta düğ. bas"/>
+  <phrase i="6091" t="Gçs par.vy.kim.dğ.sun. dv.dışı"/>
+  <phrase i="6090" t="WLAN Parolasını değiştir?"/>
+  <phrase i="6089" t="Kullanıcı Bilgileri"/>
+  <phrase i="6088" t="WLAN Erişimi Engellendi!"/>
+  <phrase i="6087" t="Sunucu Kapalı"/>
+  <phrase i="6086" t="Telefon Rehberi"/>
+  <phrase i="6085" t="Devam Etmek İçin Devam'a Basın"/>
+  <phrase i="6084" t="Yeni Kişi"/>
+  <phrase i="6083" t="Kişiyi Değiştir"/>
+  <phrase i="6082" t="Kişi"/>
+  <phrase i="6081" t="%d Kişi"/>
+  <phrase i="6080" t="%d / %d Kişi"/>
+  <phrase i="6079" t="Tam Adı"/>
+  <phrase i="6078" t="Ekran Tercihi"/>
+  <phrase i="6077" t="Görüntü sırasını seçin"/>
+  <phrase i="6076" t="Dosyalama Şekli"/>
+  <phrase i="6075" t="İş Telefonu"/>
+  <phrase i="6074" t="Cep Telefonu"/>
+  <phrase i="6073" t="Ev Telefonu"/>
+  <phrase i="6072" t="Diğer Telefon"/>
+  <phrase i="6071" t="E-posta Adresi"/>
+  <phrase i="6070" t="Şirket"/>
+  <phrase i="6069" t="İş Adresi"/>
+  <phrase i="6068" t="Sokak"/>
+  <phrase i="6067" t="Şehir"/>
+  <phrase i="6066" t="Bölge"/>
+  <phrase i="6065" t="Posta Kodu"/>
+  <phrase i="6064" t="Kaydet"/>
+  <phrase i="6063" t="Kişiyi Park"/>
+  <phrase i="6062" t="Numara Türünü Seçin"/>
+  <phrase i="6061" t="Kişi İçin Aygıt Türünü Seçin"/>
+  <phrase i="6060" t="Sırala"/>
+  <phrase i="6059" t="Devam et"/>
+  <phrase i="6058" t="İş"/>
+  <phrase i="6057" t="Kişiler"/>
+  <phrase i="6056" t="Uluslararası"/>
+  <phrase i="6055" t="Favoriler"/>
+  <phrase i="6054" t="Yakın Kişiler"/>
+  <phrase i="6053" t="Kilit Müşteri"/>
+  <phrase i="6052" t="Çeşitli"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="Kategoriler"/>
+  <phrase i="6049" t="Kategori"/>
+  <phrase i="6048" t="Kişi İçin Kategorileri Seçin"/>
+  <phrase i="6047" t="Kategori Seçin"/>
+  <phrase i="6046" t="Kişi İçin Kategori Seçin"/>
+  <phrase i="6045" t="Kategori Seç"/>
+  <phrase i="6044" t="Filtrele"/>
+  <phrase i="6043" t="Kişiler İçin Filtre Seçin"/>
+  <phrase i="6042" t="Filtre Seçin"/>
+  <phrase i="6041" t="Hızlı Aramalar"/>
+  <phrase i="6040" t="Hızlı Arama Numarası"/>
+  <phrase i="6039" t="Hızlı Arama Numarasını Girin"/>
+  <phrase i="6038" t="Geçersiz Hızlı Arama Numarası"/>
+  <phrase i="6037" t="Hızlı Arama %d Atanmamış"/>
+  <phrase i="6036" t="Hızlı Arama Boş"/>
+  <phrase i="6035" t="Kayıt için Seçenekler'i kullan"/>
+  <phrase i="6034" t="Kayıt İçin Seçenekler'e basın"/>
+  <phrase i="6033" t="Kişi Kaydedildi"/>
+  <phrase i="6032" t="Kişi Kayıtlı Değil!"/>
+  <phrase i="6031" t="Ayarlar Kaydedildi"/>
+  <phrase i="6030" t="Ayarlar Kaydedilmedi!"/>
+  <phrase i="6029" t="İptal Edildi"/>
+  <phrase i="6028" t="Değişiklikler İptal Edildi"/>
+  <phrase i="6027" t="Arayandan %d Cevapsız Arama"/>
+  <phrase i="6026" t="Arayandan %d Gelen Arama"/>
+  <phrase i="6025" t="Bu Numaraya %d Giden Arama"/>
+  <phrase i="6024" t="Şarj Modu"/>
+  <phrase i="6023" t="Ekran Soluk kalır"/>
+  <phrase i="6022" t="Ekranın Işığı sürekli yanar"/>
+  <phrase i="6021" t="Ekran Tercihi Seçin"/>
+  <phrase i="6020" t="Ana Sayfa Özelleştirmeleri"/>
+  <phrase i="6019" t="Kısayollar"/>
+  <phrase i="6018" t="Hat Görünümü"/>
+  <phrase i="6017" t="Ana Menü"/>
+  <phrase i="6016" t="Uygulama Seçin"/>
+  <phrase i="6015" t="Uygulamalar"/>
+  <phrase i="6014" t="Atanacak Kısayolu Seçin"/>
+  <phrase i="6013" t="Ata"/>
+  <phrase i="6012" t="Hoparlör Etkin"/>
+  <phrase i="6011" t="Hoparlör Devre Dışı"/>
+  <phrase i="6010" t="İzleme Ayarları"/>
+  <phrase i="6009" t="Devredışı İçin Telefonu Aç Kapa"/>
+  <phrase i="6008" t="İzin Verilen"/>
+  <phrase i="6007" t="Yapılandırılmadı"/>
+  <phrase i="6006" t="Etkin Zil Tercihi"/>
+  <phrase i="6005" t="Yalnızca Biple"/>
+  <phrase i="6004" t="Telefon Zili"/>
+  <phrase i="6003" t="Uyarı Tercihi Seçin"/>
+  <phrase i="6002" t="Cevapsız"/>
+  <phrase i="6001" t="Tümü"/>
+  <!-- GUI -->
+  <phrase i="6000" t="Durum öğesi seç"/>
+  <phrase i="5999" t="Model ayarı seç"/>
+  <phrase i="5998" t="Ağ Yapılandırması"/>
+  <phrase i="5997" t="Ağ ayarı seç"/>
+  <phrase i="5996" t="Telefon Ayarları"/>
+  <phrase i="5995" t="Telefon ayarı seç"/>
+  <phrase i="5994" t="Güvenlik ayarı seç"/>
+  <phrase i="5993" t="Aygıt ayarı seç"/>
+  <phrase i="5992" t="Ayar seç"/>
+  <phrase i="5991" t="Profil seç"/>
+  <phrase i="5990" t="WLAN ayarı seç"/>
+  <phrase i="5989" t="802.11 Modu"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Otomatik-b/g"/>
+  <phrase i="5985" t="Otomatik-a"/>
+  <phrase i="5984" t="Otomatik-RSSI"/>
+  <phrase i="5983" t="Açık"/>
+  <phrase i="5982" t="Açık+WEP"/>
+  <phrase i="5981" t="Paylaşılan+WEP"/>
+  <phrase i="5980" t="SIÇRAMA"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="Otomatik (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Yoklama"/>
+  <phrase i="5976" t="U-APSD/Yok"/>
+  <phrase i="5975" t="PS-Yoklama"/>
+  <phrase i="5973" t="ONALTILIK"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 Bit"/>
+  <phrase i="5970" t="128 Bit"/>
+  <phrase i="5969" t="Kapalı"/>
+  <phrase i="5968" t="Yüksek Sesli"/>
+  <phrase i="5967" t="Güvenlik Modu"/>
+  <phrase i="5966" t="Tek Erişim Noktası"/>
+  <phrase i="5965" t="Arama Güç Tasarrufu Modu"/>
+  <phrase i="5964" t="Anahtar Stili"/>
+  <phrase i="5963" t="Statik WEP Anahtarı"/>
+  <phrase i="5962" t="WEP Anahtarı"/>
+  <phrase i="5961" t="Birincil"/>
+  <phrase i="5960" t="Önceden Paylaştırılan Anahtar"/>
+  <phrase i="5959" t="Ağ Profili"/>
+  <phrase i="5958" t="Takma Ünitesi Hoparlörü"/>
+  <phrase i="5957" t="Takma Ünitesi Zili"/>
+  <phrase i="5956" t="Kulaklık"/>
+  <phrase i="5955" t="Normal"/>
+  <phrase i="5954" t="Toplantı"/>
+  <phrase i="5953" t="Açık Hava"/>
+  <phrase i="5952" t="Sessiz"/>
+  <phrase i="5951" t="Özel 1"/>
+  <phrase i="5950" t="Özel 2"/>
+  <phrase i="5949" t="Tuş Takımı Tonu"/>
+  <phrase i="5948" t="Uyarı Düzeni"/>
+  <phrase i="5947" t="Yalnızca Zil"/>
+  <phrase i="5946" t="Yalnızca Titreşim"/>
+  <phrase i="5945" t="Titreşim, Ardından Zil"/>
+  <phrase i="5944" t="Zil Kapalı!"/>
+  <phrase i="5943" t="Ziller"/>
+  <phrase i="5942" t="Saniye"/>
+  <phrase i="5941" t="Seç "/>
+  <phrase i="5940" t="Ayarla "/>
+  <phrase i="5939" t="Yeni"/>
+  <phrase i="5938" t="Geçerli"/>
+  <phrase i="5937" t="Yeniyi Girin"/>
+  <phrase i="5936" t="Eski Değer"/>
+  <phrase i="5935" t="Etkinl."/>
+  <phrase i="5934" t="DDışBırk"/>
+  <phrase i="5933" t="Uyarı"/>
+  <phrase i="5932" t="Yapılandırma hatası"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP Etkinleş./Devre Dışı Bırak"/>
+  <phrase i="5928" t="CallManager Bilgileri"/>
+  <phrase i="5927" t="HTTP Bilgileri"/>
+  <phrase i="5926" t="Yerel Ayar Bilgileri"/>
+  <phrase i="5925" t="QoS Bilgileri"/>
+  <phrase i="5924" t="CallManager Bilgileri"/>
+  <phrase i="5923" t="Güvenlik Bilgileri"/>
+  <phrase i="5922" t="WLAN Yapılandırması"/>
+  <phrase i="5921" t="WLAN Yapılandırması"/>
+  <phrase i="5920" t="Profil Adı"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="USB ayarı seç"/>
+  <phrase i="5914" t="USB Yapılandırması"/>
+  <phrase i="5913" t="Site Araştırması"/>
+  <phrase i="5912" t="Yükleme Sunucusu"/>
+  <phrase i="5911" t="Kanal seç"/>
+  <phrase i="5910" t="Kanal"/>
+  <phrase i="5909" t="Profil %d"/>
+  <phrase i="5908" t="Kullanıcı Profilleri"/>
+  <phrase i="5907" t="Kullanıcı profili seç"/>
+  <phrase i="5906" t="Kullanıcı ayarı seç"/>
+  <phrase i="5905" t="Ağ Profilleri"/>
+  <phrase i="5904" t="Ağ profilleri seç"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="Ekran Parlaklığı"/>
+  <phrase i="5901" t="Ekran Zaman Aşımı"/>
+  <phrase i="5900" t="Asla"/>
+  <phrase i="5899" t="Her Tuşla Yanıtla"/>
+  <phrase i="5898" t="Etkin"/>
+  <phrase i="5897" t="Devre Dışı"/>
+  <phrase i="5896" t="Şarj tamamlandı!"/>
+  <phrase i="5895" t="Pil çıkarıldı!"/>
+  <phrase i="5894" t="Pil Zayıf!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="Dize girin"/>
+  <phrase i="5890" t="Yetkilendirme Dizesi"/>
+  <phrase i="5889" t="LSC işlemi tamamlandı"/>
+  <phrase i="5888" t="LSC işlemi başlatıldı"/>
+  <phrase i="5887" t="Durdur"/>
+  <phrase i="5886" t="CAPF sunucusuna bağlanılıyor"/>
+  <phrase i="5885" t="CAPF sunucusuna bağ. başarısız"/>
+  <phrase i="5884" t="CAPF sunucusuna bağlanıldı"/>
+  <phrase i="5883" t="CAPF kimlik doğrula. yapılıyor"/>
+  <phrase i="5882" t="CAPF Sunucusu"/>
+  <phrase i="5881" t="LSC  kimlik doğrulama hatası"/>
+  <phrase i="5880" t="LSC için anahtar oluşturuluyor"/>
+  <phrase i="5879" t="LSC Anahtarı Oluştur. başarısız"/>
+  <phrase i="5878" t="LSC işlemi sürüyor"/>
+  <phrase i="5877" t="Yeniden deneniyor...Bekleyiniz"/>
+  <phrase i="5876" t="LSC işlemi iptal edildi"/>
+  <phrase i="5875" t="LSC işlemi durduruldu"/>
+  <phrase i="5874" t="LSC işlemi zaman aşımına uğradı"/>
+  <phrase i="5873" t="LSC işlemi başarısız"/>
+  <phrase i="5872" t="Minimum uzunluk gerekli"/>
+  <phrase i="5871" t="URL yapılandırılmadı!"/>
+  <phrase i="5870" t="Yok"/>
+  <phrase i="5869" t="Bilinmiyor"/>
+  <phrase i="5867" t="Yüklü Değil"/>
+  <phrase i="5866" t="Yüklü"/>
+  <phrase i="5864" t="LSC yüklendi"/>
+  <phrase i="5863" t="LSC güncelleştirildi"/>
+  <phrase i="5862" t="LSC silindi"/>
+  <phrase i="5861" t="Detaylar"/>
+  <phrase i="5860" t="Ayarlara erişim devre dışı!"/>
+  <phrase i="5859" t="Tel. yeniden başlatılıyor ..."/>
+  <phrase i="5858" t="Fabrika ayar. sıfırla. başlat?"/>
+  <phrase i="5857" t="CTL Dosyası"/>
+  <phrase i="5856" t="Güven Listesi"/>
+  <phrase i="5855" t="CTL Dosyası silindi!"/>
+  <phrase i="5854" t="Bulunamadı"/>
+  <phrase i="5853" t="Telefonda hatalı MIC"/>
+  <phrase i="5852" t="CTL güncelleştirme başarısız"/>
+  <phrase i="5851" t="CTL yüklendi"/>
+  <phrase i="5850" t="Pil şarj cihazı durduruldu!"/>
+  <phrase i="5849" t="Pil şarj cihazı başlatıldı!"/>
+  <phrase i="5848" t="AC bağlantısı kesildi!"/>
+  <phrase i="5847" t="AC bağlandı!"/>
+  <phrase i="5846" t="USB bağlantısı kesildi!"/>
+  <phrase i="5845" t="USB bağlandı!"/>
+  <phrase i="5844" t="Takma ünitesi bağlant. kesildi!"/>
+  <phrase i="5843" t="Takma ünitesi bağlandı!"/>
+  <phrase i="5842" t="Kulaklık bağlantısı kesildi!"/>
+  <phrase i="5841" t="Kulaklık bağlandı!"/>
+  <phrase i="5840" t="Maksimum uzunluğa ulaşıldı!"/>
+  <phrase i="5839" t="Tuş Takımı Kilidi Açıldı!"/>
+  <phrase i="5838" t="Tuş Takımı Kilitlendi!"/>
+  <phrase i="5837" t="Tuş takımı kilidi açılsın mı?"/>
+  <phrase i="5836" t="Tuş takımı kilitlensin mi?"/>
+  <phrase i="5835" t="Titreşim Kapalı!"/>
+  <phrase i="5834" t="Titreşim Açık!"/>
+  <phrase i="5833" t="LSC güncelleştirme başarısız!"/>
+  <phrase i="5832" t="MIC güncelleştirme başarısız!"/>
+  <phrase i="5831" t="Ayarların Kilidi Açıldı!"/>
+  <phrase i="5830" t="Ayarlar Kilitlendi!"/>
+  <phrase i="5829" t="Zayıf pil..kapatılıyor!"/>
+  <phrase i="5828" t="TFTP CTL İçinde Değil"/>
+  <phrase i="5827" t="USB Arabirimi Açık"/>
+  <phrase i="5826" t="USB Arabirimi Kapalı"/>
+  <phrase i="5825" t="%d Saniye"/>
+  <phrase i="5824" t="Tuş Takımı Otomatik Kilidi"/>
+  <phrase i="5823" t="Otomatik Kilit Zamanlayıcı Seç"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="Bir dizin seçin"/>
+  <phrase i="5820" t="Ağ Meşgul"/>
+  <phrase i="5819" t="WLAN Düzenleyici Etki Alanı"/>
+  <phrase i="5818" t="USB Satıcı Kimliği"/>
+  <phrase i="5817" t="USB Ürün Kimliği"/>
+  <phrase i="5816" t="RNDIS Aygıt Adresi"/>
+  <phrase i="5815" t="RNDIS Ana Bilgisayar Adresi"/>
+  <phrase i="5814" t="Gizle"/>
+  <phrase i="5813" t="Seçenek."/>
+  <phrase i="5812" t="Seçmek için orta. düğmeye basın"/>
+  <phrase i="5811" t="Düzenlemek için orta. düğ. bas."/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="Günlükleri Koru"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="Güvenlik Yapılandırması"/>
+  <phrase i="5785" t="Profil Engellendi!"/>
+  <phrase i="5784" t="Profiller Engellendi!"/>
+  <phrase i="5783" t="WLAN Sürücü Kimliği"/>
+  <phrase i="5782" t="WLAN Üretici Yazılımı Kimliği"/>
+  <phrase i="5781" t="Arama İstatistikler. Görüntüle"/>
+  <phrase i="5780" t="Alıcı Codec Bileşeni"/>
+  <phrase i="5779" t="Gönderen Codec Bileşeni"/>
+  <phrase i="5778" t="Alıcı Boyutu"/>
+  <phrase i="5777" t="Gönderen Boyutu"/>
+  <phrase i="5776" t="Ort Titreme"/>
+  <phrase i="5775" t="Maks Titreme"/>
+  <phrase i="5774" t="Alıcı Atıldı"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="Ortalama MOS LQK"/>
+  <phrase i="5771" t="Minimum MOS LQK"/>
+  <phrase i="5770" t="Maksimum MOS LQK"/>
+  <phrase i="5769" t="MOS LQK sürümü"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="Gizleme Saniye"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="Ağ Bilgileri"/>
+  <phrase i="5761" t="WLAN Bilgileri"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="Yerel Ayar"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="Güvenlik"/>
+  <phrase i="5755" t="Ses düzeyi seç"/>
+  <phrase i="5754" t="Ses Ayarları"/>
+  <phrase i="5753" t="Ekran Ayarları"/>
+  <phrase i="5752" t="Tuş Takımı Ayarları"/>
+  <phrase i="5751" t="Varsayılan Zil Sesi Türü"/>
+  <phrase i="5750" t="Ses ayarı seç"/>
+  <phrase i="5749" t="Ekran ayarı seç"/>
+  <phrase i="5748" t="Tuş takımı ayarı seç"/>
+  <phrase i="5747" t="Şifreleme Türü"/>
+  <phrase i="5746" t="CCKM Modu"/>
+  <phrase i="5745" t="Anahtar Yönetimi"/>
+  <phrase i="5744" t="Tx Gücü"/>
+  <phrase i="5743" t="Paylaşılan"/>
+  <phrase i="5742" t="Otomatik Geçiş"/>
+  <phrase i="5741" t="WPA Yok"/>
+  <phrase i="5740" t="Web Erişimi"/>
+  <phrase i="5739" t="Salt Okunur"/>
+  <phrase i="5738" t="Çevrilecek numarayı düzenleyin"/>
+  <phrase i="5737" t="Ses Düzeyi Ayarları"/>
+  <phrase i="5736" t="Ses düzeyi seç"/>
+  <phrase i="5735" t="Ses Düzeyleri"/>
+  <phrase i="5734" t="Zil"/>
+  <phrase i="5733" t="Ahize"/>
+  <phrase i="5732" t="Hoparlör"/>
+  <phrase i="5731" t="Titreşim ve Zil"/>
+  <phrase i="5730" t="Düzey %d"/>
+  <phrase i="5729" t="Dakika"/>
+  <phrase i="5728" t="Dakika"/>
+  <phrase i="5727" t="Arama Sürüyor..."/>
+  <phrase i="5726" t="Arama İptal Edildi!"/>
+  <phrase i="5725" t="Ara. Başarısız. Tekrar Deneyin."/>
+  <phrase i="5724" t="Etkinleştirilemiyor: Boş SSID!"/>
+  <phrase i="5723" t="Bur. Boş SSID'ye İzin Verilmez!"/>
+  <phrase i="5722" t="Zil Sesi"/>
+  <phrase i="5721" t="Geçerli Ayarlar"/>
+  <phrase i="5720" t="Kullanılabilir Zil Sesleri"/>
+  <phrase i="5719" t="Zil sesi ayarları"/>
+  <phrase i="5718" t="Görntüle"/>
+  <phrase i="5717" t="Zil sesi seç"/>
+  <phrase i="5716" t="Zil Sesini Uygula"/>
+  <phrase i="5715" t="Uygula"/>
+  <phrase i="5714" t="LED Kapsama Göstergesi"/>
+  <phrase i="5713" t="Güvenlik Yapılandırması"/>
+  <phrase i="5712" t="Zil Sesi Çıkışı"/>
+  <phrase i="5711" t="Hoparlör ve Kulaklık"/>
+  <phrase i="5710" t="Değiştir"/>
+  <phrase i="5709" t="Wavelink Yapılandırması"/>
+  <phrase i="5708" t="Wavelink ayarı seçin"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="Diğer Wavelink Sunucusu"/>
+  <phrase i="5705" t="Wavelink Sunucusu"/>
+  <phrase i="5704" t="Wavelink Sunucu Bağlantı Nokta"/>
+  <phrase i="5703" t="Etkinleştirici Sürümü"/>
+  <phrase i="5702" t="Özel Ad"/>
+  <phrase i="5701" t="Özel Değer"/>
+  <phrase i="5700" t="Kanal"/>
+  <phrase i="5699" t="Komşu Listesi"/>
+  <phrase i="5698" t="AP Adı"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NullRcv"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="KilidiAç"/>
+  <phrase i="5689" t="Kişisel Dizin"/>
+  <phrase i="5688" t="Kurumsal Dizin"/>
+  <phrase i="5687" t="Kilit Aç'a basın"/>
+  <phrase i="5686" t="Kilidi açmak için # düğmesine basın"/>
+  <phrase i="5685" t="Kilidi açmak için # düğmesini basılı tutun"/>
+  <phrase i="5684" t="Tuş Takımı Kilitlendi"/>
+  <phrase i="5683" t="Arka Işık"/>
+  <phrase i="5682" t="Ses Yolunu Seçin"/>
+  <phrase i="5681" t="Hoparlör ve Bluetooth"/>
+  <phrase i="5680" t="Kulaklık Halkası"/>
+  <phrase i="5679" t="Yüksek"/>
+  <phrase i="5678" t="Orta"/>
+  <phrase i="5677" t="Düşük"/>
+  <phrase i="5676" t="Ana ekran için %s düğmesine basın"/>
+  <phrase i="5675" t="Arama Ayrıntıları"/>
+  <phrase i="5674" t="%s saat %s"/>
+  <phrase i="5673" t="Süre"/>
+  <phrase i="5672" t="Sorgu Modu"/>
+  <phrase i="5671" t="Kullanıcı kimlik bilgileriniz yanlış olabilir."/>
+  <phrase i="5670" t="Şimdi değiştirilsin mi?"/>
+  <phrase i="5669" t="Hoparlör Modu"/>
+  <phrase i="5668" t="Kalıcı"/>
+  <phrase i="5667" t="Arama Başına"/>
+  <phrase i="5666" t="Ağ Profili Oturumu"/>
+  <phrase i="5665" t="Yazı Tipi Boyutu"/>
+  <phrase i="5664" t="Artmış"/>
+  <phrase i="5663" t="64 Bit"/>
+  <phrase i="5662" t="104 Bit"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="İÇ TELEFON SİSTEMİ"/>
+  <phrase i="4998" t="Gelen Arama"/>
+  <phrase i="4997" t="Yerel Dizin"/>
+  <phrase i="4996" t="Yerel Hızlı Arama"/>
+  <phrase i="4995" t="Soyadı"/>
+  <phrase i="4994" t="Adı"/>
+  <phrase i="4993" t="Yerel Dizin Arama"/>
+  <phrase i="4992" t="Fazla eşleşme. Ara. iyileştir."/>
+  <phrase i="4991" t="Kayıt Bulunamadı."/>
+  <phrase i="4990" t="Kayıt 1 - ... /"/>
+  <phrase i="4989" t="Kullanılabilir Hat Yok"/>
+  <phrase i="4988" t="Aktarılamıyor"/>
+  <phrase i="4987" t="Aktar Meşgul"/>
+  <phrase i="4986" t="Çevril. num. girin veya seçin"/>
+  <phrase i="4985" t="Tüm sistem ayar. varsayılan"/>
+  <phrase i="4984" t="değer. sıfır. istiyor musunuz?"/>
+  <phrase i="4983" t="Dizin Hizmetleri"/>
+  <phrase i="4982" t="XML Hizmetleri"/>
+  <phrase i="4981" t="Sunucuya bağlanılıyor"/>
+  <phrase i="4980" t="Bağlantı başarısız"/>
+  <phrase i="4979" t="Telefon yeniden başlatılsın mı?"/>
+  <phrase i="4978" t="Menü"/>
+  <phrase i="4977" t="Dil"/>
+  <phrase i="4976" t="Diğer Etki Alanı"/>
+  <phrase i="4975" t="Diğer DNS"/>
+  <phrase i="4974" t="Geçerli Değer"/>
+  <phrase i="4973" t="Yeni Değer"/>
+  <phrase i="4972" t="Varsayılan Ağ Geçidi"/>
+  <phrase i="4971" t="VLAN Etkin"/>
+  <phrase i="4970" t="CDP Etkin"/>
+  <phrase i="4969" t="Hizmetler"/>
+  <phrase i="4968" t="Hızlı Arama"/>
+  <phrase i="4967" t="Sunucu Girin"/>
+  <phrase i="4966" t="Statik"/>
+  <phrase i="4965" t="Kayıt Modu"/>
+  <phrase i="4964" t="Mod"/>
+  <phrase i="4963" t="Eski"/>
+  <phrase i="4962" t="Üretici Yazılımı Yükseltmesi"/>
+  <phrase i="4961" t="Kontrast Menüsü"/>
+  <phrase i="4960" t="Yönetici Parolasını Değiştir"/>
+  <phrase i="4959" t="Kullanılamaz"/>
+  <phrase i="4958" t="Örnek Metin"/>
+  <phrase i="4957" t="Yükseltiliyor"/>
+  <phrase i="4956" t="Yeni Parola Girin"/>
+  <phrase i="4955" t="Mesajlar"/>
+  <phrase i="4954" t="Ayarlar"/>
+  <phrase i="4953" t="Dizinler"/>
+  <phrase i="4952" t="Yanlış Parola"/>
+  <phrase i="4951" t="Yönetici Parolası Girin"/>
+  <phrase i="4950" t="Geçersiz Giriş Değeri"/>
+  <phrase i="4949" t="Geçersiz anahtar dize. uzunluğu"/>
+  <phrase i="4948" t="Gçrsz ana. diz.: onaltı. olmalı"/>
+  <phrase i="4947" t="HIZLI ARAMA"/>
+  <phrase i="4946" t="Ethernet Bağlantısı Kesildi"/>
+  <phrase i="4945" t="TFTP Üzerinden Yapılandırılıyor"/>
+  <phrase i="4944" t="IP DHCP Üzeri. Yapılandırılıyor"/>
+  <phrase i="4943" t="VLAN Ayarı Yapılandırılıyor"/>
+  <phrase i="4942" t="Numara Kullanılamaz"/>
+  <phrase i="4941" t="Atanmamış"/>
+  <phrase i="4940" t="Zil Sesi Düzeyi"/>
+  <phrase i="4939" t="Ahize Ses Düzeyi"/>
+  <phrase i="4938" t="Hoparlör Ses Düzeyi"/>
+  <phrase i="4937" t="TekrDene"/>
+  <phrase i="4936" t="Gir"/>
+  <phrase i="4935" t="Alfa"/>
+  <phrase i="4934" t="MonKap"/>
+  <phrase i="4933" t="Monitör"/>
+  <phrase i="4932" t="Numara"/>
+  <phrase i="4931" t="Mesaj"/>
+  <phrase i="718" t="İç Telefon Sistemi Geçmişi"/>
+  <phrase i="717" t="Tüm Hatlar"/>
+  <phrase i="716" t="Hat %d"/>
+  <phrase i="715" t="Kullanılamaz"/>
+  <phrase i="714" t="İşlem iptal edildi"/>
+  <phrase i="713" t="TFTP'nin Yetkisi Yok: %s"/>
+  <phrase i="712" t="Sil"/>
+  <phrase i="711" t="Şifreli"/>
+  <phrase i="710" t="Kimlik Doğrulandı"/>
+  <phrase i="709" t="Güvenli Değil"/>
+  <phrase i="708" t="TLS hatası "/>
+  <phrase i="707" t="Web Erişimi Etkin"/>
+  <phrase i="706" t="Aygıt Güvenlik Modu"/>
+  <phrase i="705" t="İşleniyor..."/>
+  <phrase i="704" t="Bilgi yok veya giriş geçersiz"/>
+  <phrase i="703" t="Anahtar oluşturma başarısız"/>
+  <phrase i="702" t="Bağlan. kayboldu veya başarısız"/>
+  <phrase i="701" t="Başarısız"/>
+  <phrase i="700" t="Zaman Aşımı"/>
+  <phrase i="699" t="Başarılı"/>
+  <phrase i="698" t="Yetkilendirme İsteği..."/>
+  <phrase i="697" t="Bağlanıyor..."/>
+  <phrase i="696" t="CAPF sunucusunu yeniden dene..."/>
+  <phrase i="695" t="Anahtarlar oluşturuluyor..."/>
+  <phrase i="694" t="İşlemi İptal Et"/>
+  <phrase i="693" t="Sertifikayı Güncelleştir"/>
+  <phrase i="692" t="Yetkilendirme dizesi"/>
+  <phrase i="691" t="Sertifikalar"/>
+  <phrase i="690" t="Hizmetler İçin DSCP"/>
+  <phrase i="689" t="Yapılandırma İçin DSCP"/>
+  <phrase i="688" t="Arama Denetimi İçin DSCP"/>
+  <phrase i="687" t="Dosya Yetkilendirme Başarısız"/>
+  <phrase i="686" t="CAST Görevi"/>
+  <phrase i="685" t="Video Özelliği Etkin"/>
+  <phrase i="684" t="Otomatik Hat Seçme Etkin"/>
+  <phrase i="683" t="Sesli VLAN Etkin"/>
+  <phrase i="682" t="GARP Etkin"/>
+  <phrase i="681" t="Komşu Bağlantı Noktası"/>
+  <phrase i="680" t="Komşu IP Adresi"/>
+  <phrase i="679" t="Komşu Aygıt Kimliği"/>
+  <phrase i="678" t="%s Bazında"/>
+  <phrase i="677" t="İletildi"/>
+  <phrase i="676" t="KsltAra"/>
+  <phrase i="675" t="Hizmet URL Durumu İsteniyor"/>
+  <phrase i="674" t="Özellik Ana. Durumu İsteniyor"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d Yeni Cevapsız Arama"/>
+  <phrase i="670" t="Varsayılan Zil Sesi"/>
+  <phrase i="669" t="Hat Seç..."/>
+  <phrase i="668" t="Numarayı Düzenle"/>
+  <phrase i="667" t="Telefon Durdurdu"/>
+  <phrase i="666" t="Ağ Yerel Ayar Sürümü"/>
+  <phrase i="665" t="Kullanıcı Yerel Ayar Sürümü"/>
+  <phrase i="664" t="TFTP İsteği İptal Edildi"/>
+  <phrase i="663" t="DHCP Devre Dışı"/>
+  <phrase i="662" t="IP Adresi Gerekli"/>
+  <phrase i="661" t="Durum "/>
+  <phrase i="660" t="Varsayılan"/>
+  <phrase i="659" t="Mesaj Bekliyor"/>
+  <phrase i="658" t="Yalnızca Ahize Modu"/>
+  <phrase i="657" t="Model Numarası"/>
+  <phrase i="656" t="Model Bilgilerini Görüntüle"/>
+  <phrase i="655" t="Model Bilgileri"/>
+  <phrase i="654" t="Bağlantı Durumu "/>
+  <phrase i="653" t="Font Pointer Last"/>
+  <phrase i="652" t="Font Pointer"/>
+  <phrase i="651" t="Uygulamayı Çalıştır"/>
+  <phrase i="650" t="Font Download Last"/>
+  <phrase i="649" t="Font Download"/>
+  <phrase i="648" t="Yazı Tipi Tablosu Bilgileri"/>
+  <phrase i="647" t="Segment Download Last"/>
+  <phrase i="646" t="Segment Download"/>
+  <phrase i="645" t="Kesim Güncelleştirme"/>
+  <phrase i="644" t="Donanım Bilgileri"/>
+  <phrase i="643" t="Sürüm TFTP"/>
+  <phrase i="642" t="Sürüm Bilgileri"/>
+  <phrase i="641" t="Boşta"/>
+  <phrase i="640" t="Desteklenmiyor"/>
+  <phrase i="639" t="Yerel Ayarı Güncelleş. Hata"/>
+  <phrase i="638" t="%d drm ynt %s öğ.dn bekleniyor"/>
+  <phrase i="637" t="%s Öğesinden %s Bekleniyor"/>
+  <phrase i="636" t="BOOTP Sunucusu"/>
+  <phrase i="635" t="DHCP Sunucusu"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO Düzeltmesi"/>
+  <phrase i="629" t="Amp"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Seri Numarası"/>
+  <phrase i="626" t="Donanım Düzeltmesi"/>
+  <phrase i="625" t="Boot Yükleme Kimliği"/>
+  <phrase i="624" t="Uyg. Yükleme Kimliği"/>
+  <phrase i="623" t="Telefon DN"/>
+  <phrase i="622" t="SYS Modu"/>
+  <phrase i="621" t="FIQ Modu"/>
+  <phrase i="620" t="IRQ Modu"/>
+  <phrase i="619" t="SVC Modu"/>
+  <phrase i="618" t="Tanımlanmamış Mod"/>
+  <phrase i="610" t="diğer"/>
+  <phrase i="609" t="Seç"/>
+  <phrase i="608" t="Çık"/>
+  <phrase i="607" t="Aşağı"/>
+  <phrase i="606" t="Yukarı"/>
+  <phrase i="605" t="İptal"/>
+  <phrase i="604" t="Düzenle"/>
+  <phrase i="603" t="Hayır"/>
+  <phrase i="602" t="Evet"/>
+  <phrase i="601" t="Oynat"/>
+  <phrase i="600" t="Çevir"/>
+  <phrase i="599" t="NumDüz"/>
+  <phrase i="598" t="Kaydet"/>
+  <phrase i="597" t="Geri Yükle"/>
+  <phrase i="596" t="Sil"/>
+  <phrase i="595" t="Fabrika"/>
+  <phrase i="594" t="Tamam"/>
+  <phrase i="593" t="Doğrula"/>
+  <phrase i="592" t="Ara"/>
+  <phrase i="591" t="İleri"/>
+  <phrase i="590" t="Güncelle"/>
+  <phrase i="589" t="Temizle"/>
+  <phrase i="588" t="Gönder"/>
+  <phrase i="587" t="Ton"/>
+  <phrase i="586" t="Ağ Yerel Ayarı"/>
+  <phrase i="585" t="Kullanıcı Yerel Ayarı"/>
+  <phrase i="584" t="Kate Dosyası"/>
+  <phrase i="583" t="Ton Dosyası"/>
+  <phrase i="582" t="Zil Meşgul!"/>
+  <phrase i="581" t="TFTP Sunucusu 2"/>
+  <phrase i="578" t="SW Anahtar Bağ. Nokt. Yap."/>
+  <phrase i="577" t="PC Bağ. Noktası Yapıland."/>
+  <phrase i="576" t="PC Bağlantısı Devre Dışı"/>
+  <phrase i="575" t="Hata"/>
+  <phrase i="574" t="Geçersiz Değişken"/>
+  <phrase i="573" t="Telefon Baz Ünitesi"/>
+  <phrase i="571" t="KONTRAST MENÜSÜ"/>
+  <phrase i="570" t="Ayarlamak için Kontrast Seç"/>
+  <phrase i="569" t="Sesli Posta"/>
+  <phrase i="568" t="MESAJLAR"/>
+  <phrase i="555" t="CM-ICMP-Ulaşılamaz"/>
+  <phrase i="554" t="Arama Seç..."/>
+  <phrase i="553" t="Proxy Sunucu URL'si"/>
+  <phrase i="552" t="Kimlik Doğrulama URL'si"/>
+  <phrase i="551" t="Otomatik Çevir İptal Edildi!"/>
+  <phrase i="550" t="Sidecar Görevi"/>
+  <phrase i="547" t="HTTP Dosyası Hatası"/>
+  <phrase i="546" t="XML Hatası [4]: Ayrıştır. Hata."/>
+  <phrase i="545" t="Dosya Oluşturma Hatası"/>
+  <phrase i="544" t="Son="/>
+  <phrase i="543" t="Reddedilen Donanım Bile. Yükle"/>
+  <phrase i="542" t="Telefon Kaydı Reddedildi"/>
+  <phrase i="541" t="Sıfırla-Yeniden Başlat"/>
+  <phrase i="540" t="Sıfırla-Sıfırla"/>
+  <phrase i="539" t="Telefon-Yeniden-IP"/>
+  <phrase i="538" t="Telefon-Tuş Takımı"/>
+  <phrase i="537" t="Telefon-Tanılama"/>
+  <phrase i="536" t="Yeniden Çalışma"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-TCP'yi-durdurdu"/>
+  <phrase i="532" t="CM-TCP'yi-sıfırladı"/>
+  <phrase i="531" t="TCP-Hatalı-Onay"/>
+  <phrase i="530" t="Yapıland. Bilgi. Doğru. Hatası"/>
+  <phrase i="529" t="Bağlantı Noktası Bilgileri"/>
+  <phrase i="528" t="Ethernet Bilgileri"/>
+  <phrase i="527" t="%s Çok Büyük"/>
+  <phrase i="526" t="Kaynak "/>
+  <phrase i="525" t="Girdi Yok"/>
+  <phrase i="524" t="Kullanıcı Kim. ve Parola Girin"/>
+  <phrase i="523" t="Parola"/>
+  <phrase i="522" t="Kullanıcı Adı"/>
+  <phrase i="521" t="Hizmet Seç..."/>
+  <phrase i="520" t="Geçerli Aramayı Al..."/>
+  <phrase i="519" t="TFTP Boyut Hatası"/>
+  <phrase i="518" t="Tümcecik Dosyası"/>
+  <phrase i="517" t="Simge Dosyası"/>
+  <phrase i="516" t="%s Kullanılamaz"/>
+  <phrase i="515" t="Hatalı %s"/>
+  <phrase i="514" t="Günlük %d"/>
+  <phrase i="513" t="Erişim"/>
+  <phrase i="511" t="Telefon"/>
+  <phrase i="510" t="Ağ"/>
+  <phrase i="509" t="Akış %d"/>
+  <phrase i="508" t="Akış İstatistikleri"/>
+  <phrase i="507" t="Aygıt Günlükleri"/>
+  <phrase i="506" t="Bağlantı Noktası %d"/>
+  <phrase i="505" t="Ethernet"/>
+  <phrase i="504" t="Aygıt Bilgileri"/>
+  <phrase i="503" t="İletme Gecikmesi"/>
+  <phrase i="502" t="Yapılandırmayı Sil"/>
+  <phrase i="501" t="Alternatif TFTP"/>
+  <phrase i="500" t="DHCP Adresi Serbest Bırakıldı"/>
+  <phrase i="499" t="DHCP Etkin"/>
+  <phrase i="498" t="Yayın"/>
+  <phrase i="497" t="Alma Hatası"/>
+  <phrase i="496" t="Aktarılan"/>
+  <phrase i="495" t="Alınan"/>
+  <phrase i="494" t="Sürüm"/>
+  <phrase i="493" t="Geri"/>
+  <phrase i="492" t=" AÇIK"/>
+  <phrase i="491" t=" EVET"/>
+  <phrase i="490" t=" KAPALI"/>
+  <phrase i="489" t=" HAYIR"/>
+  <phrase i="488" t="RTP gecikmesi"/>
+  <phrase i="487" t="TFTP Hatası"/>
+  <phrase i="486" t="TFTP Erişim Hatası"/>
+  <phrase i="485" t="Dosya Bulunamadı"/>
+  <phrase i="484" t="Son=0x%02X"/>
+  <phrase i="483" t="CM-TCP'yi-kapattı"/>
+  <phrase i="482" t="TCP-zaman aşımı"/>
+  <phrase i="481" t="Başlatıldı"/>
+  <phrase i="480" t="Ad=%15s"/>
+  <phrase i="479" t="Yazılım Güncelleştiriliyor"/>
+  <phrase i="478" t="ROM CheckSum Hatası"/>
+  <phrase i="477" t=" Yükle="/>
+  <phrase i="474" t="Yinelenen IP Adresi"/>
+  <phrase i="473" t="IP Adresi Serbest Bırakıldı"/>
+  <phrase i="472" t="Sıfırlanıyor"/>
+  <phrase i="471" t="Sunucu Listesi İsteniyor"/>
+  <phrase i="470" t="Hız Durumu İsteniyor"/>
+  <phrase i="469" t="Hat Durumu İsteniyor"/>
+  <phrase i="468" t="Yazılım Tuşu Kümesi İsteniyor"/>
+  <phrase i="467" t="Yazılım Tuşu Şablonu İsteniyor"/>
+  <phrase i="466" t="Şablon İsteniyor"/>
+  <phrase i="465" t="DSP Önyükleniyor"/>
+  <phrase i="464" t="Yükleme Doğrulanıyor"/>
+  <phrase i="463" t="Kayıt Reddedildi"/>
+  <phrase i="462" t="Kaydediliyor"/>
+  <phrase i="461" t="Açılıyor "/>
+  <phrase i="460" t="CM Listesi Yapılandırılıyor"/>
+  <phrase i="459" t="IP Yapılandırılıyor"/>
+  <phrase i="458" t="VLAN Yapılandırılıyor"/>
+  <phrase i="457" t="%d / %d"/>
+  <phrase i="456" t="Üretim Bilgileri Geçersiz"/>
+  <phrase i="455" t="XML Hatası [%d]!"/>
+  <phrase i="454" t="HTTP Hatası [%d]!"/>
+  <phrase i="453" t="Ana Bilgisayar Bulunamadı"/>
+  <phrase i="452" t="HTTP İsteği İptal Edildi"/>
+  <phrase i="451" t="Yeniden Yönlendiriliyor..."/>
+  <phrase i="450" t="Yetkilendirme Gerekli!"/>
+  <phrase i="449" t="Yarım"/>
+  <phrase i="448" t="Tam"/>
+  <phrase i="447" t="Çalışma Süresi"/>
+  <phrase i="446" t="Sıkıştırma Türü Hatası"/>
+  <phrase i="445" t="TCP Hata Kodu"/>
+  <phrase i="444" t="Sürüm Hatası"/>
+  <phrase i="443" t="Disk Dolu Hatası"/>
+  <phrase i="442" t="CFG TFTP Boyut Hatası"/>
+  <phrase i="441" t="DSP Gecikti"/>
+  <phrase i="440" t="Temizlendi"/>
+  <phrase i="439" t="DSP Canlı Tutma Zaman Aşımı"/>
+  <phrase i="438" t="DSP Hatası"/>
+  <phrase i="437" t="Geçersiz VLAN"/>
+  <phrase i="436" t="Geçersiz IP Adresi"/>
+  <phrase i="435" t="Geçersiz Alt Ağ maskesi"/>
+  <phrase i="434" t=" Kullanılamaz"/>
+  <phrase i="433" t=" Bekleme"/>
+  <phrase i="432" t=" Etkin"/>
+  <phrase i="431" t="Kullanılan BOOTP Sunucusu"/>
+  <phrase i="430" t="Programlama Hatası"/>
+  <phrase i="429" t="Yinelenen IP"/>
+  <phrase i="428" t="Varsayılan Ağ Geçidi Yok"/>
+  <phrase i="427" t="Cnf Dosyası Kullanılabilir"/>
+  <phrase i="426" t="CheckSum Hatası"/>
+  <phrase i="425" t="Yükleme Kimliği Yanlış"/>
+  <phrase i="424" t="DNS Sunucusu IP'si Yok"/>
+  <phrase i="423" t="DNS Zaman Aşımı"/>
+  <phrase i="422" t="DNS Bilinmeyen Ana Bilgisayar"/>
+  <phrase i="421" t="TFTP Genel Hata"/>
+  <phrase i="420" t="CFG Dosyası Bulunamadı"/>
+  <phrase i="419" t="TFTP Zaman Aşımı"/>
+  <phrase i="418" t="DHCP Zaman Aşımı"/>
+  <phrase i="417" t="Yönlendirici Gerekli"/>
+  <phrase i="416" t="Yönlendirici Alt Ağda Değil"/>
+  <phrase i="415" t="TFTP Sunucusu Gerekli"/>
+  <phrase i="414" t="Geçersiz Bilgi"/>
+  <phrase i="413" t="Yayın Gizleme KAPALI"/>
+  <phrase i="412" t="Yayın Gizleme AÇIK"/>
+  <phrase i="410" t="Ahize Ses Düzeyi kaydedildi!"/>
+  <phrase i="409" t="Kulaklık Ses Düz. kaydedildi!"/>
+  <phrase i="408" t="Hoparlör Ses Düz. kaydedildi!"/>
+  <phrase i="407" t="Değişiklikler kaydedilmedi!"/>
+  <phrase i="406" t="Ses Düz. Ayarlama. Kaydet?"/>
+  <phrase i="405" t="Giriş Verilerini Girin..."/>
+  <phrase i="404" t="Hizmetler Kullanılamaz"/>
+  <phrase i="403" t="HİZMETLER"/>
+  <phrase i="402" t="Donanım Bilgilerini Görüntüle"/>
+  <phrase i="401" t="Donanım Bilgileri"/>
+  <phrase i="400" t="Yığın Bilgilerini Görüntüle"/>
+  <phrase i="399" t="Yığın İzleme"/>
+  <phrase i="398" t="Hata Ayık. Bilgi. Görüntüle"/>
+  <phrase i="397" t="Hata Ayıklama Ekranı"/>
+  <phrase i="396" t="Üretici Yaz. Sürüm. Görüntüle"/>
+  <phrase i="395" t="Üretici Yazılımı Sürümleri"/>
+  <phrase i="394" t="Ağ İstatistiklerini Görüntüle"/>
+  <phrase i="393" t="Ağ İstatistikleri"/>
+  <phrase i="392" t="Durum Mesajlarını Görüntüle"/>
+  <phrase i="391" t="Girdi Doğrulandı"/>
+  <phrase i="390" t="Yeni %s:"/>
+  <phrase i="389" t="Geçerli %s:"/>
+  <phrase i="388" t="%s Öğesini Düzenle"/>
+  <phrase i="387" t="Ayarların Durumu"/>
+  <phrase i="386" t="Durum Öğesi Seç..."/>
+  <phrase i="385" t="Yığın İstatistikleri"/>
+  <phrase i="384" t="Durum Mesajları"/>
+  <phrase i="383" t="Ağ Ayarı Seç..."/>
+  <phrase i="382" t="Zil Listesi Kullanılamaz!"/>
+  <phrase i="381" t="Hatalı Zil Listesi Dosyası!"/>
+  <phrase i="380" t="Zil Dosyası Kullanılamaz!"/>
+  <phrase i="379" t="Zil Dosyası İsteniyor ..."/>
+  <phrase i="378" t="Zil Tipi"/>
+  <phrase i="377" t="Zil seç"/>
+  <phrase i="376" t="Zil Listesi İsteniyor..."/>
+  <phrase i="375" t="Cıvıltı 2"/>
+  <phrase i="374" t="Cıvıltı 1"/>
+  <phrase i="373" t="Değişik. Kabul Ed. Kaydedildi"/>
+  <phrase i="372" t="Kontrastı Değiştir..."/>
+  <phrase i="371" t="Tüm Değişiklikler Kaydedildi"/>
+  <phrase i="370" t="Fabrika Ayar. Geri Yüklendi "/>
+  <phrase i="369" t="Kaydedilen Ayar. Geri Yüklendi"/>
+  <phrase i="368" t="Ayar Seç..."/>
+  <phrase i="367" t="AYARLAR"/>
+  <phrase i="366" t="Durum"/>
+  <phrase i="365" t="Ağ Yapılandırması"/>
+  <phrase i="364" t="Kontrast"/>
+  <phrase i="363" t="Arama Ölçütlerini İyileştir..."/>
+  <phrase i="362" t="Kayıt Yok"/>
+  <phrase i="361" t="%d Kayıt"/>
+  <phrase i="360" t="%s Arama"/>
+  <phrase i="359" t="Arama Geçmişi Temizlendi!"/>
+  <phrase i="358" t="Dizin Seç..."/>
+  <phrase i="357" t="Geçersiz Dizin URL'si!..."/>
+  <phrase i="356" t="DİZİN"/>
+  <phrase i="355" t="Giden Aramalar"/>
+  <phrase i="354" t="Gelen Aramalar"/>
+  <phrase i="353" t="Cevapsız Aramalar"/>
+  <phrase i="352" t="CM kapalı, özellik. devre dışı"/>
+  <phrase i="351" t="%s:"/>
+  <phrase i="350" t="Bu tuş burada etkin değil"/>
+  <phrase i="349" t="İsteniyor..."/>
+  <phrase i="348" t="Arama İstatistikleri"/>
+  <phrase i="347" t="BİLGİLER"/>
+  <phrase i="346" t="Ek Bilgi için bir Tuş seçin..."/>
+  <phrase i="345" t="İptal için  tuşuna basın..."/>
+  <phrase i="344" t="Tüm Alanlar Kaydedildi"/>
+  <phrase i="343" t="Değişiklikler Kaydedilmedi"/>
+  <phrase i="342" t="%d gün, "/>
+  <phrase i="341" t="1 gün, "/>
+  <phrase i="340" t="%s günü"/>
+  <phrase i="339" t="%s günü"/>
+  <phrase i="338" t="Dün"/>
+  <phrase i="337" t="Bugün"/>
+  <phrase i="336" t="Cumartesi"/>
+  <phrase i="335" t="Cuma"/>
+  <phrase i="334" t="Perşembe"/>
+  <phrase i="333" t="Çarşamba"/>
+  <phrase i="332" t="Salı"/>
+  <phrase i="331" t="Pazartesi"/>
+  <phrase i="330" t="Pazar"/>
+  <phrase i="329" t="Hedef: %s"/>
+  <phrase i="328" t="Bilinmeyen Numara"/>
+  <phrase i="327" t="Kaynak: %s"/>
+  <phrase i="326" t="Için: %s"/>
+  <phrase i="325" t="%s Öğesini İlet"/>
+  <phrase i="324" t="Harici Arama"/>
+  <phrase i="323" t="Uzaktan Kullanımda"/>
+  <phrase i="322" t="%d Yeni Cevapsız Arama"/>
+  <phrase i="321" t="Rx Longs"/>
+  <phrase i="320" t="Rx Shorts"/>
+  <phrase i="319" t="Rx Broadcasts"/>
+  <phrase i="318" t="Rx Multicasts"/>
+  <phrase i="317" t="Rx Runt"/>
+  <phrase i="316" t="Rx Bad Preamble"/>
+  <phrase i="315" t="Rx CRC Errors"/>
+  <phrase i="314" t="Rx Frames"/>
+  <phrase i="313" t="Rx Long/CRC"/>
+  <phrase i="312" t="Rx Overruns"/>
+  <phrase i="311" t="Tx Deferred Abort"/>
+  <phrase i="310" t="Tx Collisions"/>
+  <phrase i="309" t="Tx Multicasts"/>
+  <phrase i="308" t="Tx Broadcasts"/>
+  <phrase i="307" t="Tx Frames"/>
+  <phrase i="306" t="Tx Excessive Collisions"/>
+  <phrase i="305" t="overflow Drop"/>
+  <phrase i="304" t="bpdu Drop"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Tx multicast"/>
+  <phrase i="287" t="Tx broadcast"/>
+  <phrase i="286" t="Tx excessLength"/>
+  <phrase i="285" t="Tx fifoUnderrun"/>
+  <phrase i="284" t="Tx collisions"/>
+  <phrase i="283" t="Tx totalGoodPkt"/>
+  <phrase i="282" t="Tx lateCollision"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx longErr"/>
+  <phrase i="271" t="Rx longGood"/>
+  <phrase i="270" t="Rx shortGood"/>
+  <phrase i="269" t="Rx shortErr"/>
+  <phrase i="268" t="Rx unicast"/>
+  <phrase i="267" t="Rx broadcast"/>
+  <phrase i="266" t="Rx multicast"/>
+  <phrase i="265" t="Rx alignErr"/>
+  <phrase i="264" t="Rx crcErr"/>
+  <phrase i="263" t="Toplam Sekizli"/>
+  <phrase i="262" t="Rx totalPkt"/>
+  <phrase i="261" t="Taşıyıcı Olayları"/>
+  <phrase i="260" t="RTP Geçersiz"/>
+  <phrase i="259" t="Hizmet Dışı"/>
+  <phrase i="258" t="Hazır Değil"/>
+  <phrase i="257" t="Yok Et"/>
+  <phrase i="255" t="Alıcı Başlangıç Zamanı"/>
+  <phrase i="254" t="Alıcı Sekizlikleri"/>
+  <phrase i="253" t="Alıcı Paketleri"/>
+  <phrase i="252" t="Alıcı Rapor Zamanı"/>
+  <phrase i="251" t="Alıcı Raporları"/>
+  <phrase i="250" t="Alıcı Aracı"/>
+  <phrase i="249" t="Alıcı Titremesi"/>
+  <phrase i="248" t="Alıcı Kaybolan Paketleri"/>
+  <phrase i="247" t="Gönderen Başlangıç Zamanı"/>
+  <phrase i="246" t="Gönderen Rapor Zamanı"/>
+  <phrase i="245" t="Gönderen Raporları"/>
+  <phrase i="244" t="Gönderen Aracı"/>
+  <phrase i="243" t="Gönderen Sekizlikleri"/>
+  <phrase i="242" t="Gönderen Paketleri"/>
+  <phrase i="241" t="Adı"/>
+  <phrase i="240" t="Satır Durumu"/>
+  <phrase i="239" t="Başlangıç Zamanı"/>
+  <phrase i="238" t="Çıkışlar"/>
+  <phrase i="237" t="Alıcı Birleştirmeleri"/>
+  <phrase i="236" t="Gönderen Birleştirmeleri"/>
+  <phrase i="235" t="Yerel Adres"/>
+  <phrase i="234" t="Uzak Adres "/>
+  <phrase i="233" t="Etki Alanı"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="Sabit TFTP"/>
+  <phrase i="230" t="DHCP Devre Dışı"/>
+  <phrase i="229" t="Boş URL Süresi"/>
+  <phrase i="228" t="Boş URL"/>
+  <phrase i="227" t="Hizmetler URL'si"/>
+  <phrase i="226" t="Mesajlar URL'si"/>
+  <phrase i="225" t="Dizinler URL'si"/>
+  <phrase i="224" t="Bilgi URL'si"/>
+  <phrase i="223" t="Arama Yöneticisi 5"/>
+  <phrase i="222" t="Arama Yöneticisi 4"/>
+  <phrase i="221" t="Arama Yöneticisi 3"/>
+  <phrase i="220" t="Arama Yöneticisi 2"/>
+  <phrase i="219" t="Arama Yöneticisi 1"/>
+  <phrase i="218" t="Yönetici VLAN Kimliği"/>
+  <phrase i="217" t="İşlemsel VLAN Kimliği"/>
+  <phrase i="216" t="DNS Sunucusu 5"/>
+  <phrase i="215" t="DNS Sunucusu 4"/>
+  <phrase i="214" t="DNS Sunucusu 3"/>
+  <phrase i="213" t="DNS Sunucusu 2"/>
+  <phrase i="212" t="DNS Sunucusu 1"/>
+  <phrase i="211" t="Varsayılan Ağ Geçidi 5"/>
+  <phrase i="210" t="Varsayılan Ağ Geçidi 4"/>
+  <phrase i="209" t="Varsayılan Ağ Geçidi 3"/>
+  <phrase i="208" t="Varsayılan Ağ Geçidi 2"/>
+  <phrase i="207" t="Varsayılan Ağ Geçidi 1"/>
+  <phrase i="206" t="TFTP Sunucusu 1"/>
+  <phrase i="205" t="Alt Ağ Maskesi"/>
+  <phrase i="204" t="IP Adresi"/>
+  <phrase i="203" t="Etki Alanı Adı"/>
+  <phrase i="202" t="Ana Bilgisayar Adı"/>
+  <phrase i="201" t="MAC Adresi"/>
+  <phrase i="199" t="Reddet"/>
+  <phrase i="198" t="Alınabilecek Hat Yok"/>
+  <phrase i="197" t="Harici Aktarma Sınırlı"/>
+  <phrase i="196" t="Alma için Kul. Bant Gen. Yok"/>
+  <phrase i="195" t="Alınabilecek Arama Yok"/>
+  <phrase i="194" t="Park Yuvası Kullanılamaz"/>
+  <phrase i="193" t="Cevap. Grubu Oturumu Kapatıldı"/>
+  <phrase i="192" t="Hlog"/>
+  <phrase i="191" t="DiğerAl"/>
+  <phrase i="190" t="Maks Bekletme Süre. Zaman Aşımı"/>
+  <phrase i="189" t="Maks Arama Süresi Zaman Aşımı"/>
+  <phrase i="188" t="VidModu"/>
+  <phrase i="187" t="Video Bant Gen. Kullanılamaz"/>
+  <phrase i="186" t="Güvenlik Hatası"/>
+  <phrase i="185" t="Numara Yapılandırılmadı"/>
+  <phrase i="184" t="Zararlı Arama Tanım. Başarılı"/>
+  <phrase i="183" t="Aramalar Birleştirilemiyor"/>
+  <phrase i="182" t="Aktarma Tamamlanamıyor"/>
+  <phrase i="181" t="kKatıl"/>
+  <phrase i="180" t="Hzl.Yön"/>
+  <phrase i="179" t="KonfList"/>
+  <phrase i="178" t="Seç"/>
+  <phrase i="177" t="DoğAktr"/>
+  <phrase i="176" t="ZAT"/>
+  <phrase i="175" t="SornAktr"/>
+  <phrase i="174" t="Yoğun Trafik Daha Sonra Dene"/>
+  <phrase i="173" t="Hizmet Etkin Değil"/>
+  <phrase i="172" t="AraPark Geriye Döndürme"/>
+  <phrase i="171" t="Park Numarası Yok"/>
+  <phrase i="170" t="Uyumsuz aygıt türü"/>
+  <phrase i="169" t="Diğer bir Katılımcı mevcut"/>
+  <phrase i="168" t="Katıl kurulamadı"/>
+  <phrase i="167" t="Katıl"/>
+  <phrase i="166" t="Ağ karışık., yeniden yönlend."/>
+  <phrase i="165" t="GeriAra"/>
+  <phrase i="164" t="Yönlndr"/>
+  <phrase i="163" t="RhtszEtm"/>
+  <phrase i="162" t="SM.Aktr"/>
+  <phrase i="161" t="İzleme"/>
+  <phrase i="160" t="AryGir"/>
+  <phrase i="159" t="YenYönln"/>
+  <phrase i="158" t="Sesli Posta"/>
+  <phrase i="157" t="SnKnfÇkr"/>
+  <phrase i="156" t="Bilinmeyen Numara"/>
+  <phrase i="155" t="Yeterli Bant Genişliği Yok"/>
+  <phrase i="154" t="Özel"/>
+  <phrase i="153" t="Park Numarası"/>
+  <phrase i="152" t="Konferans"/>
+  <phrase i="151" t="Hata Uyuşmazlık"/>
+  <phrase i="150" t="Hata Bilinmiyor"/>
+  <phrase i="149" t="Hata Geçiş Sınırı"/>
+  <phrase i="148" t="Hata Veritabanı"/>
+  <phrase i="147" t="Hata DBConfig"/>
+  <phrase i="146" t="Hata Lisans Yok"/>
+  <phrase i="145" t="Tuş Etkin Değil"/>
+  <phrase i="144" t="Maksimum Katılımcı Aşıldı"/>
+  <phrase i="143" t="Katılımcı Bilgisi Yok"/>
+  <phrase i="142" t="Zaten Konferansa Dahil"/>
+  <phrase i="141" t="Geçersiz Konferans Katılımcısı"/>
+  <phrase i="140" t="Birincil Denetim Bekletilemez"/>
+  <phrase i="139" t="Konferans Köprüsü Yok"/>
+  <phrase i="138" t="Konferans Tamamlanamıyor"/>
+  <phrase i="137" t="İletilen yer"/>
+  <phrase i="136" t="Sesli Postanız Var"/>
+  <phrase i="135" t="Geçici Hata"/>
+  <phrase i="134" t="Yalnızca Birincil"/>
+  <phrase i="133" t="Arama Park  No"/>
+  <phrase i="132" t="Numara girin"/>
+  <phrase i="131" t="Uzaktan Kullanımda"/>
+  <phrase i="130" t="Arama Devamı"/>
+  <phrase i="129" t="Arama Park"/>
+  <phrase i="128" t="Arama Aktarma"/>
+  <phrase i="127" t="Arama Bekliyor"/>
+  <phrase i="126" t="Hat Kullanımda"/>
+  <phrase i="125" t="Meşgul"/>
+  <phrase i="124" t="Bağlandı"/>
+  <phrase i="123" t="Kaynak "/>
+  <phrase i="122" t="Sesli"/>
+  <phrase i="121" t="Hat Kapalı"/>
+  <phrase i="120" t="Hat Açık"/>
+  <phrase i="119" t="Geçerli seçenekleriniz"/>
+  <phrase i="118" t="GrupAl"/>
+  <phrase i="117" t="Al"/>
+  <phrase i="116" t="Buluştur"/>
+  <phrase i="115" t="Katıl"/>
+  <phrase i="114" t="Park"/>
+  <phrase i="113" t="Konf."/>
+  <phrase i="112" t="Bilgi"/>
+  <phrase i="111" t="Cevapla"/>
+  <phrase i="110" t="DevamEt"/>
+  <phrase i="109" t="Bitir"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="CvpszArİltm"/>
+  <phrase i="106" t="MşArmİlt"/>
+  <phrase i="105" t="TmArmİl"/>
+  <phrase i="104" t="Aktar"/>
+  <phrase i="103" t="Beklet"/>
+  <phrase i="102" t="YeniAra"/>
+  <phrase i="101" t="Tek.Ara"/>
+  <phrase i="65" t="Arama Cep Telfnna Gönderilemedi"/>
+  <phrase i="64" t="Park Eden Arama Alınamadı"/>
+  <phrase i="63" t="Buluştur Kullanılamıyor"/>
+  <phrase i="62" t="Konferans Kullanılamıyor"/>
+  <phrase i="61" t="Alma Kullanılamıyor"/>
+  <phrase i="60" t="KsltAra"/>
+  <phrase i="59" t="TmArmİl Sıçrama Sayısı Aşıldı"/>
+  <phrase i="58" t="TmArmİl Döngüsü Algılandı"/>
+  <phrase i="57" t="Rahatsız Etmeyin etkin"/>
+  <phrase i="56" t="Rahatsız Etmeyin"/>
+  <phrase i="55" t="Tam. için Hat veya Katıl'ı kul."/>
+  <phrase i="54" t="Cevaplama Grubu"/>
+  <phrase i="53" t="Kalite Raporlama Aracı"/>
+  <phrase i="52" t="Konferans Listesi"/>
+  <phrase i="51" t="Bitir"/>
+  <phrase i="50" t="Video"/>
+  <phrase i="49" t="Diğerini Al"/>
+  <phrase i="48" t="Son Katılımcıyı Kaldır"/>
+  <phrase i="47" t="Grubu Al"/>
+  <phrase i="46" t="Zararlı Arama Kimliği"/>
+  <phrase i="45" t="Tümünü İlet"/>
+  <phrase i="44" t="Fısılda"/>
+  <phrase i="43" t="Mobilite"/>
+  <phrase i="42" t="Etkin Olmayan Kayıt Oturumu"/>
+  <phrase i="41" t="Kayıt Zaten Sürüyor"/>
+  <phrase i="40" t="Kayıt Aramanın Etkin. Bekliyor"/>
+  <phrase i="39" t="İzleme"/>
+  <phrase i="38" t="Aygıt Yetkili Değil"/>
+  <phrase i="37" t="Kaynak Yok"/>
+  <phrase i="36" t="Kurulum Başarısız"/>
+  <phrase i="35" t="Bekletmeyi Geriye Döndürme"/>
+  <phrase i="34" t="Arama Beklemede"/>
+  <phrase i="33" t="Hazır Değil"/>
+  <phrase i="32" t="Hazır"/>
+  <phrase i="31" t="Cevaplama Grubuna Katıl"/>
+  <phrase i="30" t="Kuyruktaki Arama(lar)"/>
+  <phrase i="29" t="Arama Sonuçları"/>
+  <phrase i="28" t="Kayıt Bulunamadı"/>
+  <phrase i="27" t="Kayıt 1 -"/>
+  <phrase i="26" t="/"/>
+  <phrase i="25" t="Lütfen PIN girin"/>
+  <phrase i="24" t="Yanlış PIN"/>
+  <phrase i="23" t="Oturum Açma Başarılı"/>
+  <phrase i="22" t="Gece Hizmeti Devre Dışı"/>
+  <phrase i="21" t="Gece Hizmeti Etkin"/>
+  <phrase i="20" t="Gece Hizmeti"/>
+  <phrase i="19" t="Arama Ölçütlerini Girin"/>
+  <phrase i="18" t="Yerel Hizmetler"/>
+  <phrase i="17" t="Bir Hizmet Seç"/>
+  <phrase i="16" t="Aktarma Hedefi Meşgul"/>
+  <phrase i="15" t="Hat Seç"/>
+  <phrase i="14" t="Çağrı"/>
+  <phrase i="13" t="Lütfen Aramayı Bitir"/>
+  <phrase i="12" t="Yeniden Bağlantı İçin Bekliyor"/>
+  <phrase i="11" t="Maksimum Telefon Aşıldı"/>
+  <phrase i="10" t="CM Geri Dönüş Hizmeti Çalışıyor"/>
+  <phrase i="9" t="Alınabilecek Arama Sayısı"/>
+  <phrase i="8" t="İstemci Hesap Kodunu Girin"/>
+  <phrase i="7" t="Yetkilendirme Kodunu Girin"/>
+  <phrase i="6" t="Aygıt Dolaşım Konumunda"/>
+  <phrase i="5" t="Aygıt Ana Konumda"/>
+  <phrase i="4" t="OturumAç"/>
+  <phrase i="3" t="Flash"/>
+  <phrase i="2" t="Mştr"/>
+</phrases>

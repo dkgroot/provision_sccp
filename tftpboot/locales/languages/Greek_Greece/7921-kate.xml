@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<selectLists>
+  <trkLocaleName>Greek_Greece</trkLocaleName>
+  <trkBaseClearcaseVersion>/main/3.3.release/2</trkBaseClearcaseVersion>
+  <trkTranslationVersion>0</trkTranslationVersion>
+  <selectList t="Alpha">
+    <list i="0" l="0 ,.&apos;&quot;|_~`"/>
+    <list i="1" l="1!@&lt;&gt;$€%^&amp;"/>
+    <list i="2" l="áâãabc2ÁÂÃABCÜ¢"/>
+    <list i="3" l="äåædef3ÄÅÆDEFÝ¸"/>
+    <list i="4" l="çèéghi4ÇÈÉGHIÞß¹ºÚú"/>
+    <list i="5" l="êëìjkl5ÊËÌJKL"/>
+    <list i="6" l="íîïmno6ÍÎÏMNOü¼"/>
+    <list i="7" l="ðñóòpqrs7ÐÑÓPQRS"/>
+    <list i="8" l="ôõötuv8ÔÕÖTUVý¾Ûû"/>
+    <list i="9" l="÷øùwxyz9×ØÙWXYZþ¿"/>
+    <list i="10" l="*+-/=\:;"/>
+    <list i="11" l="#?()[]{}"/>
+  </selectList>
+  <selectList t="Upper">
+    <list i="0" l="+ "/>
+    <list i="1" l=".-_ "/>
+    <list i="2" l="ÁÂÃABC¢"/>
+    <list i="3" l="ÄÅÆDEF¸"/>
+    <list i="4" l="ÇÈÉGHI¹ºÚ"/>
+    <list i="5" l="ÊËÌJKL"/>
+    <list i="6" l="ÍÎÏMNO¼"/>
+    <list i="7" l="ÐÑÓPQRS"/>
+    <list i="8" l="ÔÕÖTUV¾Û"/>
+    <list i="9" l="×ØÙWXYZ¿"/>
+    <list i="10" l=" "/>
+    <list i="11" l=" "/>
+  </selectList>
+  <selectList t="Lower">
+    <list i="0" l="+ "/>
+    <list i="1" l=".-_ "/>
+    <list i="2" l="áâãabcÜ"/>
+    <list i="3" l="äåædefÝ"/>
+    <list i="4" l="çèéghiÞßú"/>
+    <list i="5" l="êëìjkl"/>
+    <list i="6" l="íîïmnoü"/>
+    <list i="7" l="ðñóòpqrs"/>
+    <list i="8" l="ôõötuvýû"/>
+    <list i="9" l="÷øùwxyzþ"/>
+    <list i="10" l=" "/>
+    <list i="11" l=" "/>
+  </selectList>
+  <selectList t="Equation">
+    <list i="0" l="0"/>
+    <list i="1" l="1"/>
+    <list i="2" l="2"/>
+    <list i="3" l="3"/>
+    <list i="4" l="4"/>
+    <list i="5" l="5"/>
+    <list i="6" l="6"/>
+    <list i="7" l="7"/>
+    <list i="8" l="8"/>
+    <list i="9" l="9"/>
+    <list i="10" l="*/(."/>
+    <list i="11" l="+-)^"/>
+  </selectList>
+</selectLists>

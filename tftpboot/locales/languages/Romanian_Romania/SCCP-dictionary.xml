@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Romanian_Romania</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nu existã nici o linie disponibilã pentru Preluare"/>
+	<phrase i="197" t="Transfer extern restricþionat"/>
+	<phrase i="196" t="Nu existã bandã disponibilã pentru Preluare"/>
+	<phrase i="195" t="Nici un apel disponibil pentru Preluare"/>
+	<phrase i="194" t="Loc de parcare indisponibil"/>
+	<phrase i="193" t="Deconectat de la grupul de hunting"/>
+	<phrase i="192" t="IeºireH"/>
+	<phrase i="191" t="PrelAlt"/>
+	<phrase i="190" t="Max. expirare duratã aºteptare"/>
+	<phrase i="189" t="Max expirare duratã apel"/>
+	<phrase i="188" t="ModVideo"/>
+	<phrase i="187" t="Lãþime bandã video indisp."/>
+	<phrase i="186" t="Eroare securitate"/>
+	<phrase i="185" t="Numãr neconfigurat"/>
+	<phrase i="184" t="Mcid reuºit"/>
+	<phrase i="183" t="Imposibil de alãturat apeluri"/>
+	<phrase i="182" t="Imp. de finalizat transferul"/>
+	<phrase i="181" t="ForþareC"/>
+	<phrase i="180" t="DevIm"/>
+	<phrase i="179" t="ListConf"/>
+	<phrase i="178" t="Select."/>
+	<phrase i="177" t="TrnsfDir"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Trafic aglomerat. Reîncercaþi."/>
+	<phrase i="173" t="Serviciu inactiv"/>
+	<phrase i="172" t="Revenire ParcareApel"/>
+	<phrase i="171" t="Nici un nr. parcare disponibil"/>
+	<phrase i="170" t="Tip dispozitiv incompatibil"/>
+	<phrase i="169" t="Existã o altã intrare forþatã"/>
+	<phrase i="168" t="Eºec setare intrare forþatã"/>
+	<phrase i="167" t="IntrarF"/>
+	<phrase i="166" t="Congestie reþea,rerutare"/>
+	<phrase i="165" t="ApelInv"/>
+	<phrase i="164" t="DevTot"/>
+	<phrase i="163" t="ND"/>
+	<phrase i="162" t="TrnsfMV"/>
+	<phrase i="161" t="SetSupv"/>
+	<phrase i="160" t="Intrcpt"/>
+	<phrase i="159" t="Redirecþionare"/>
+	<phrase i="158" t="Cãsuþã Vocalã"/>
+	<phrase i="157" t="ElUltAp"/>
+	<phrase i="156" t="Numãr necunoscut"/>
+	<phrase i="155" t="Lãþime bandã insuficientã"/>
+	<phrase i="154" t="Privat"/>
+	<phrase i="153" t="Numãr parcare"/>
+	<phrase i="152" t="Conferinþã"/>
+	<phrase i="151" t="Eroare nepotrivire"/>
+	<phrase i="150" t="Eroare necunoscutã"/>
+	<phrase i="149" t="Eroare depãºire limitã"/>
+	<phrase i="148" t="Eroare bazã de date"/>
+	<phrase i="147" t="Eroare configDB"/>
+	<phrase i="146" t="Eroare fãrã licenþã"/>
+	<phrase i="145" t="Tastã inactivã"/>
+	<phrase i="144" t="Depãºire pãrþi maxime"/>
+	<phrase i="143" t="Info participant inexistente"/>
+	<phrase i="142" t="Deja în conferinþã"/>
+	<phrase i="141" t="Participant conf. incorect"/>
+	<phrase i="140" t="Imp. pus aºtept. contr. primar"/>
+	<phrase i="139" t="Nici un pod conferinþã"/>
+	<phrase i="138" t="Imp. de finalizat conferinþa"/>
+	<phrase i="137" t="Redirecþionat cãtre"/>
+	<phrase i="136" t="Aveþi cãsuþã vocalã"/>
+	<phrase i="135" t="Eºec temp."/>
+	<phrase i="134" t="Numai primar"/>
+	<phrase i="133" t="Apel parcat la"/>
+	<phrase i="132" t="Introducere numãr"/>
+	<phrase i="131" t="În uz la distanþã"/>
+	<phrase i="130" t="Continuare apel"/>
+	<phrase i="129" t="Parcare apel"/>
+	<phrase i="128" t="Transfer apel"/>
+	<phrase i="127" t="Apel în aºteptare"/>
+	<phrase i="126" t="Linie în uz"/>
+	<phrase i="125" t="Ocupat"/>
+	<phrase i="124" t="Conectat"/>
+	<phrase i="123" t="De la "/>
+	<phrase i="122" t="Sonerie ieºire"/>
+	<phrase i="121" t="În furcã"/>
+	<phrase i="120" t="Scos din furcã"/>
+	<phrase i="119" t="Opþiuni curente"/>
+	<phrase i="118" t="PrelGrp"/>
+	<phrase i="117" t="Preluare"/>
+	<phrase i="116" t="Întâln."/>
+	<phrase i="115" t="Alãt."/>
+	<phrase i="114" t="Parcare"/>
+	<phrase i="113" t="Conf."/>
+	<phrase i="112" t="Informaþii"/>
+	<phrase i="111" t="Rãspuns"/>
+	<phrase i="110" t="Reluare"/>
+	<phrase i="109" t="TermApel"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="RedirFãrãRãsp"/>
+	<phrase i="106" t="RedirOcp"/>
+	<phrase i="105" t="RedirTOT"/>
+	<phrase i="104" t="Transfer"/>
+	<phrase i="103" t="Aºtept."/>
+	<phrase i="102" t="Apel nou"/>
+	<phrase i="101" t="Reapel"/>
+</phrases>

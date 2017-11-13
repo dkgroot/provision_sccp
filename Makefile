@@ -20,3 +20,5 @@ clean:
 	@find . -type f -name '*~' -delete
 	@find . -type f -name '*.bak' -delete
 	@find . -type f -name '.requirements_satisfied' -delete
+#	@find . -type f -name 'etc/tftpd-hpa/rewrite.rules' -delete
+#	@find . -type f -name 'etc/nginx/site-available/tftpboot' -delete

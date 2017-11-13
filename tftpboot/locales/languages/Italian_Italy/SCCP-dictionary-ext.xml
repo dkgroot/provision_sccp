@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Italian_Italy</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nessuna linea disponibile per Risposta per Assente"/>
+	<phrase i="197" t="Trasferimento esterno sottoposto a restrizioni"/>
+	<phrase i="196" t="Nessuna larghezza di banda disponibile per Risposta per Assente"/>
+	<phrase i="195" t="Nessuna chiamata disponibile per Risposta per Assente"/>
+	<phrase i="194" t="Slot parcheggio non disponibile"/>
+    <phrase i="193" t="Discon da Gruppo di ricerca"/>
+	<phrase i="192" t="GrpLog"/>
+	<phrase i="191" t="RispAlG"/>
+	<phrase i="190" t="Timeout durata mass. di attesa"/>
+	<phrase i="189" t="Timeout durata mass. chiamata"/>
+	<phrase i="188" t="ModifVis"/>
+	<phrase i="187" t="Video Bandwidth non disp."/>
+	<phrase i="186" t="Errore di protezione"/>
+	<phrase i="185" t="Numero non configurato"/>
+	<phrase i="184" t="ID_TI attivata"/>
+	<phrase i="183" t="Impossibile collegare chiamate"/>
+	<phrase i="182" t="Impossibile completare trasferimento"/>
+	<phrase i="181" t="InclConf"/>
+	<phrase i="180" t="ImmDev"/>
+	<phrase i="179" t="El.Conf."/>
+	<phrase i="178" t="Selez."/>
+	<phrase i="177" t="TrasfDir"/>
+	<phrase i="176" t="ID_TI"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Traf. elevato; ripr. più tardi"/>
+	<phrase i="173" t="Servizio non attivo"/>
+	<phrase i="172" t="Ritorno parcheggio chiamata"/>
+	<phrase i="171" t="Nessun numero disp. parch. ch."/>
+	<phrase i="170" t="Tipo dispositivo non compatib."/>
+	<phrase i="169" t="Inclusione già attiva"/>
+	<phrase i="168" t="Inclusione non riuscita"/>
+	<phrase i="167" t="Inclus."/>
+	<phrase i="166" t="Reindiriz. congestione rete"/>
+	<phrase i="165" t="Prenota"/>
+	<phrase i="164" t="DeviaTut"/>
+	<phrase i="163" t="NoDist"/>
+	<phrase i="162" t="TrasfCV"/>
+	<phrase i="161" t="ContrAss"/>
+	<phrase i="160" t="Interc"/>
+	<phrase i="159" t="Reindirizza"/>
+	<phrase i="158" t="CasVocale"/>
+	<phrase i="157" t="DiscUlt"/>
+	<phrase i="156" t="Numero sconosciuto"/>
+	<phrase i="155" t="Banda insufficiente"/>
+	<phrase i="154" t="Privato"/>
+	<phrase i="153" t="Numero parcheggio chiam."/>
+	<phrase i="152" t="Conferenza"/>
+	<phrase i="151" t="Errore - incongruenza"/>
+	<phrase i="150" t="Errore - sconosciuto"/>
+	<phrase i="149" t="Errore - lim. superato"/>
+	<phrase i="148" t="Errore - database"/>
+	<phrase i="147" t="Errore - DBConfig"/>
+	<phrase i="146" t="Errore - nessuna licenza"/>
+	<phrase i="145" t="Tasto non attivo"/>
+	<phrase i="144" t="Nr. max partecipanti superato"/>
+	<phrase i="143" t="Nessuna info partecipanti"/>
+	<phrase i="142" t="Già in conferenza"/>
+	<phrase i="141" t="Partecipante conf non valido"/>
+	<phrase i="140" t="No controllo principale"/>
+	<phrase i="139" t="Conferenza non disponibile"/>
+	<phrase i="138" t="Imposs. completare conferenza"/>
+	<phrase i="137" t="Deviazione al nr."/>
+	<phrase i="136" t="Messaggio in casella vocale"/>
+	<phrase i="135" t="Fuori servizio temporaneo"/>
+	<phrase i="134" t="Solo principale"/>
+	<phrase i="133" t="Par ch al nr"/>
+	<phrase i="132" t="Digita il numero"/>
+	<phrase i="131" t="In uso da remoto"/>
+	<phrase i="130" t="Chiamata in corso"/>
+	<phrase i="129" t="Parcheggio chiamata"/>
+	<phrase i="128" t="Trasferimento chiamata"/>
+	<phrase i="127" t="Avviso di chiamata"/>
+	<phrase i="126" t="Linea in uso"/>
+	<phrase i="125" t="Occupato"/>
+	<phrase i="124" t="Connesso"/>
+	<phrase i="123" t="Da "/>
+	<phrase i="122" t="Chiamata in corso"/>
+	<phrase i="121" t="Agganciato"/>
+	<phrase i="120" t="Sganciato"/>
+	<phrase i="119" t="Opzioni disponibili"/>
+	<phrase i="118" t="RispAsG"/>
+	<phrase i="117" t="RispAss"/>
+	<phrase i="116" t="ConfAut"/>
+	<phrase i="115" t="Collega"/>
+	<phrase i="114" t="ParChi"/>
+	<phrase i="113" t="Conf"/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Risp."/>
+	<phrase i="110" t="Ripr."/>
+	<phrase i="109" t="Termina"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="DevLib"/>
+	<phrase i="106" t="DevOcc"/>
+	<phrase i="105" t="DevTutt"/>
+	<phrase i="104" t="Trasfer."/>
+	<phrase i="103" t="Attesa"/>
+	<phrase i="102" t="NvChiam"/>
+	<phrase i="101" t="Ripeti"/>
+	<phrase i="81" t="Connessione in corso. Attendere"/>
+	<phrase i="80" t="Registrazione non riuscita"/>
+	<phrase i="79" t="Registrazione"/>
+	<phrase i="69" t="AvCh dis"/>
+    	<phrase i="68" t="Impossibile spostare la conversazione"/>
+	<phrase i="67" t="Registra"/>
+    <phrase i="65" t="Impossibile inviare chiamata a cellulare"/>
+    <phrase i="64" t="Impossibile recuperare chiamata parcheggiata"/>
+    <phrase i="63" t="ConfAut non disponibile"/>
+    <phrase i="62" t="Conferenza non disponibile"/>
+    <phrase i="61" t="RispAss non disponibile"/>
+    <phrase i="60" t="ChAbbr"/>
+    <phrase i="59" t="Numero di hop di DevTutt superato"/>
+    <phrase i="58" t="Loop di DevTutt rilevato"/>
+	<phrase i="57" t="Non disturbare attivo"/> 
+	<phrase i="56" t="Non disturbare"/> 
+	<phrase i="55" t="Usa Linea o Collega per il completamento"/>
+	<phrase i="54" t="Gruppo di ricerca"/>
+	<phrase i="53" t="Quality Reporting Tool"/>
+	<phrase i="52" t="Elenco partecipanti conferenza"/>
+	<phrase i="51" t="Termina"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Risposta per altri gruppi"/>
+    <phrase i="48" t="Rimuovi ultimo partecipante"/>
+    <phrase i="47" t="Risposta per assente di gruppo"/>
+    <phrase i="46" t="ID chiamata indesiderata"/>
+    <phrase i="45" t="Devia tutte"/>
+	<phrase i="44" t="Sotto voce"/>
+        <phrase i="43" t="Mobilità"/>
+	<phrase i="42" t="Sessione di registrazione non attiva"/>
+	<phrase i="41" t="Registrazione già in corso"/>
+	<phrase i="40" t="Registrazione in attesa che la chiamata diventi attiva"/>
+	<phrase i="39" t="Monitoraggio"/>
+        <phrase i="38" t="Dispositivo non autorizzato"/>
+	<phrase i="37" t="Nessuna risorsa"/>
+	<phrase i="36" t="Impostazione non riuscita"/>
+	<phrase i="35" t="Ripristino attesa"/> 
+	<phrase i="34" t="Chiamata in attesa"/>
+	<phrase i="33" t="NonPronto"/>
+	<phrase i="32" t="Pronto"/>
+	<phrase i="31" t="Collega a gruppo di ricerca"/>
+	<phrase i="30" t="Chiamate in coda"/>
+	<phrase i="29" t="Risultati della ricerca"/>
+	<phrase i="28" t="Nessun record trovato"/>
+	<phrase i="27" t="Record da 1 a"/>
+	<phrase i="26" t="di"/>
+	<phrase i="25" t="Immettere PIN"/>
+	<phrase i="24" t="PIN errato"/>
+	<phrase i="23" t="Oper. acces. complet. corret."/>
+	<phrase i="22" t="Servizio notturno disabilitato"/>
+	<phrase i="21" t="Servizio notturno attivo"/>
+	<phrase i="20" t="Servizio notturno"/>
+	<phrase i="19" t="Immettere i criteri di ricerca"/>
+	<phrase i="18" t="Servizi locali"/>
+	<phrase i="17" t="Seleziona un servizio"/>
+	<phrase i="16" t="Destinaz del trasferim occupata"/>
+	<phrase i="15" t="Seleziona linea"/>
+	<phrase i="14" t="Paginazione"/>
+	<phrase i="13" t="Terminare la chiamata"/>
+	<phrase i="12" t="Attesa reindirizzamento"/>
+	<phrase i="11" t="Limite max telefoni superato"/>
+	<phrase i="10" t="Serv. fallback CM in esec."/>
+	<phrase i="9" t="Chiam. disp. per Ris. per Ass."/>
+	<phrase i="8" t="Immettere codice distintivo cliente"/>
+	<phrase i="7" t="Immettere codice autorizzazione"/>
+    <phrase i="6" t="Dispositivo in posizione roaming"/>
+    <phrase i="5" t="Dispositivo in posizione home"/>
+	<phrase i="4" t="Accesso"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Acct"/>
+</phrases>

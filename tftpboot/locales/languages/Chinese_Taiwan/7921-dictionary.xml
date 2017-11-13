@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Chinese_Taiwan</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="正在下載 MIDlet..."/>
+  <phrase i="8003" t="應用程式最小化"/>
+  <phrase i="8002" t="已成功安裝 MIDP 模組"/>
+  <phrase i="8001" t="正在等候 MIDP 模組安裝..."/>
+  <phrase i="8000" t="正在更新韌體..."/>
+  <phrase i="7999" t="正在下載韌體...%d%%"/>
+  <phrase i="7998" t="正在復原韌體..."/>
+  <phrase i="7997" t="韌體更新失敗"/>
+  <phrase i="7996" t="電池電力不足! 無法更新"/>
+  <phrase i="7995" t="影像下載失敗"/>
+  <phrase i="7994" t="影像驗證失敗"/>
+  <phrase i="7993" t="記憶體不足! 重新開機中..."/>
+  <phrase i="7992" t="已啟用 EAP-TLS/PEAP"/>
+  <phrase i="7991" t="驗證伺服器憑證"/>
+  <phrase i="7990" t="AOM 安裝失敗"/>
+  <phrase i="7989" t="正在下載 AOM(%d/%d)"/>
+  <phrase i="7988" t="正在安裝 AOM(%d/%d)...%d%%"/>
+  <phrase i="7987" t="影像完整性檢查失敗"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="正在安裝掃描器 FW:%d%%"/>
+  <phrase i="7984" t="正在下載掃描器 FW"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="受限的資料速率"/>
+  <phrase i="7080" t="掃描模式"/>
+  <phrase i="7079" t="自動"/>
+  <phrase i="7078" t="連續"/>
+  <phrase i="7077" t="電池電力限制"/>
+  <phrase i="7076" t="電力約束"/>
+  <phrase i="7075" t="EAP-TLS 憑證"/>
+  <phrase i="7074" t="使用者已安裝"/>
+  <phrase i="7073" t="製造商已頒布"/>
+  <phrase i="7072" t="CAPF 已頒布"/>
+  <phrase i="7071" t="找不到驗證憑證"/>
+  <phrase i="7070" t="驗證憑證無效"/>
+  <phrase i="7069" t="驗證憑證到期日: %s"/>
+  <phrase i="7068" t="驗證憑證即將到期"/>
+  <phrase i="7067" t="驗證憑證將於 %d 日內到期"/>
+  <phrase i="7066" t="驗證憑證已到期"/>
+  <phrase i="7065" t="檢查憑證的時鐘設定"/>
+  <phrase i="7064" t="找不到 WLAN 的驗證憑證"/>
+  <phrase i="7063" t="找不到驗證憑證"/>
+  <phrase i="7062" t="驗證憑證將於 %d 日內到期"/>
+  <phrase i="7061" t="WLAN 驗證憑證已到期!"/>
+  <phrase i="7060" t="驗證憑證已到期!"/>
+  <phrase i="7059" t="工作站計數"/>
+  <phrase i="7057" t="警告旗標"/>
+  <phrase i="7056" t="訊號間隔"/>
+  <phrase i="7055" t="DTIM 期間"/>
+  <phrase i="7054" t="功能"/>
+  <phrase i="7053" t="速率位元圖"/>
+  <phrase i="7052" t="基本速率位元圖"/>
+  <phrase i="7051" t="跳頻"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="頻譜管理"/>
+  <phrase i="7047" t="不支援的通道"/>
+  <phrase i="7046" t="通道設定檔"/>
+  <phrase i="7045" t="隱私"/>
+  <phrase i="7044" t="低速率"/>
+  <phrase i="7043" t="代理 ARP"/>
+  <phrase i="7042" t="基本速率"/>
+  <phrase i="7041" t="選用速率"/>
+  <phrase i="7040" t="AC 背景"/>
+  <phrase i="7039" t="AC 最大速率"/>
+  <phrase i="7038" t="AC 視訊"/>
+  <phrase i="7037" t="AC 語音"/>
+  <phrase i="7036" t="ECW 最小值"/>
+  <phrase i="7035" t="ECW 最大值"/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="許可控制"/>
+  <phrase i="7032" t="多點傳送加密"/>
+  <phrase i="7031" t="單點傳送加密"/>
+  <phrase i="7030" t="BSS 遺失計數"/>
+  <phrase i="7029" t="支援"/>
+  <phrase i="7028" t="可用許可容量"/>
+  <phrase i="7027" t="顯示"/>
+  <phrase i="7026" t="不顯示"/>
+  <phrase i="7025" t="存取種類"/>
+  <phrase i="7024" t="不建議"/>
+  <phrase i="7023" t="不一致"/>
+  <phrase i="7022" t="參考 AP"/>
+  <phrase i="7021" t="國家/地區"/>
+  <phrase i="7020" t="CCA 臨界值"/>
+  <phrase i="7019" t="公開金鑰憑證"/>
+  <phrase i="7018" t="公開金鑰基礎結構"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="有效期間"/>
+  <phrase i="7015" t="根金鑰"/>
+  <phrase i="7014" t="憑證授權單位"/>
+  <phrase i="7013" t="私密金鑰"/>
+  <phrase i="7012" t="公開金鑰"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="驗證伺服器"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="認證失敗"/>
+  <phrase i="7008" t="無網路設定檔"/>
+  <phrase i="7007" t="即將離開服務區!"/>
+  <phrase i="7006" t="正在尋找網路服務"/>
+  <phrase i="7005" t="未選取設定檔"/>
+  <phrase i="7003" t="已建立連線"/>
+  <phrase i="7002" t="正在嘗試連線..."/>
+  <phrase i="7001" t="WLAN 故障"/>
+  <phrase i="7000" t="正在掃描通道..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="清除所有通話記錄?"/>
+  <phrase i="6406" t="掃描器診斷"/>
+  <phrase i="6405" t="重設"/>
+  <phrase i="6404" t="符號組"/>
+  <phrase i="6403" t="已延長"/>
+  <phrase i="6402" t="基本"/>
+  <phrase i="6401" t="掃描器"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="藍牙"/>
+  <phrase i="6399" t="裝置清單"/>
+  <phrase i="6398" t="掃描"/>
+  <phrase i="6397" t="重新掃描"/>
+  <phrase i="6396" t="配對"/>
+  <phrase i="6395" t="取消配對"/>
+  <phrase i="6394" t="配對的裝置"/>
+  <phrase i="6393" t="掃描中"/>
+  <phrase i="6392" t="配對中"/>
+  <phrase i="6391" t="%s 已配對"/>
+  <phrase i="6390" t="取消配對中"/>
+  <phrase i="6389" t="%s 已取消配對"/>
+  <phrase i="6388" t="找到的裝置: %d"/>
+  <phrase i="6387" t="取消配對 %s?"/>
+  <phrase i="6386" t="掃描結果"/>
+  <phrase i="6385" t="輸入藍牙密碼"/>
+  <phrase i="6384" t="配對失敗!"/>
+  <phrase i="6383" t="%s 已連線!"/>
+  <phrase i="6382" t="%s 連線中斷!"/>
+  <phrase i="6381" t="連線"/>
+  <phrase i="6380" t="中斷連線"/>
+  <phrase i="6379" t="調整耳機音量"/>
+  <phrase i="6378" t="超過裝置數上限"/>
+  <phrase i="6377" t="藍牙連線失敗"/>
+  <phrase i="6376" t="此為成對裝置!"/>
+  <phrase i="6375" t="全部取消配對"/>
+  <phrase i="6374" t="藍牙尚未就緒"/>
+  <phrase i="6373" t="藍牙內部錯誤"/>
+  <phrase i="6372" t="作業失敗"/>
+  <phrase i="6371" t="已選取藍牙"/>
+  <phrase i="6370" t="已選取喇叭"/>
+  <phrase i="6369" t="已選取話筒"/>
+  <phrase i="6368" t="已選取耳機"/>
+  <phrase i="6367" t="診斷"/>
+  <phrase i="6366" t="鍵台"/>
+  <phrase i="6365" t="音訊"/>
+  <phrase i="6364" t="選取診斷"/>
+  <phrase i="6363" t="按任意按鈕"/>
+  <phrase i="6362" t="鍵台診斷"/>
+  <phrase i="6361" t="已按下"/>
+  <phrase i="6360" t="已鬆開"/>
+  <phrase i="6359" t="自動診斷"/>
+  <phrase i="6358" t="本機音訊迴圈"/>
+  <phrase i="6357" t="軟鍵 %d"/>
+  <phrase i="6356" t="調低音量"/>
+  <phrase i="6355" t="調高音量"/>
+  <phrase i="6354" t="右邊"/>
+  <phrase i="6353" t="左邊"/>
+  <phrase i="6352" t="電力"/>
+  <phrase i="6351" t="靜音"/>
+  <phrase i="6350" t="Java 安裝失敗"/>
+  <phrase i="6349" t="選取 %s"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="啟動錯誤"/>
+  <phrase i="6298" t="%s 目前已開啟"/>
+  <phrase i="6297" t="請先關閉，然後再啟動其他"/>
+  <phrase i="6296" t="切換至"/>
+  <phrase i="6295" t="關閉程式"/>
+  <phrase i="6294" t="暫停程式"/>
+  <phrase i="6293" t="來電"/>
+  <phrase i="6292" t="略過"/>
+  <phrase i="6291" t="完成"/>
+  <phrase i="6290" t="設定"/>
+  <phrase i="6289" t="關於 Java"/>
+  <phrase i="6288" t="啟動"/>
+  <phrase i="6287" t="安裝"/>
+  <phrase i="6286" t="執行"/>
+  <phrase i="6285" t="移至"/>
+  <phrase i="6284" t="例外"/>
+  <phrase i="6283" t="應用程式"/>
+  <phrase i="6282" t="應用程式"/>
+  <phrase i="6281" t="資訊"/>
+  <phrase i="6280" t="移除"/>
+  <phrase i="6279" t="安裝應用程式"/>
+  <phrase i="6278" t="管理憑證授權單位"/>
+  <phrase i="6277" t="結束"/>
+  <phrase i="6276" t="製造商"/>
+  <phrase i="6275" t="服務供應商"/>
+  <phrase i="6274" t="第三方"/>
+  <phrase i="6273" t="中午"/>
+  <phrase i="6272" t="午夜"/>
+  <phrase i="6271" t="mmm dd, yyyy"/>
+  <phrase i="6270" t="hh:mm ??"/>
+  <phrase i="6269" t="mmm dd, yyyy hh:mm  "/>
+  <phrase i="6268" t="週日"/>
+  <phrase i="6267" t="週一"/>
+  <phrase i="6266" t="週二"/>
+  <phrase i="6265" t="週三"/>
+  <phrase i="6264" t="週四"/>
+  <phrase i="6263" t="週五"/>
+  <phrase i="6262" t="週六"/>
+  <phrase i="6261" t="一月"/>
+  <phrase i="6260" t="二月"/>
+  <phrase i="6259" t="三月"/>
+  <phrase i="6258" t="四月"/>
+  <phrase i="6257" t="五月"/>
+  <phrase i="6256" t="六月"/>
+  <phrase i="6255" t="七月"/>
+  <phrase i="6254" t="八月"/>
+  <phrase i="6253" t="九月"/>
+  <phrase i="6252" t="十月"/>
+  <phrase i="6251" t="十一月"/>
+  <phrase i="6250" t="十二月"/>
+  <phrase i="6249" t="一月"/>
+  <phrase i="6248" t="二月"/>
+  <phrase i="6247" t="三月"/>
+  <phrase i="6246" t="四月"/>
+  <phrase i="6245" t="五月"/>
+  <phrase i="6244" t="六月"/>
+  <phrase i="6243" t="七月"/>
+  <phrase i="6242" t="八月"/>
+  <phrase i="6241" t="九月"/>
+  <phrase i="6240" t="十月"/>
+  <phrase i="6239" t="十一月"/>
+  <phrase i="6238" t="十二月"/>
+  <phrase i="6237" t="之前"/>
+  <phrase i="6236" t="之後"/>
+  <phrase i="6235" t="時間:"/>
+  <phrase i="6234" t="日期:"/>
+  <phrase i="6233" t="符號"/>
+  <phrase i="6232" t="預測"/>
+  <phrase i="6231" t="預測"/>
+  <phrase i="6230" t="預測"/>
+  <phrase i="6229" t="確定"/>
+  <phrase i="6228" t="選項..."/>
+  <phrase i="6227" t="上午"/>
+  <phrase i="6226" t="下午"/>
+  <phrase i="6225" t="刪除資料"/>
+  <phrase i="6224" t="應用程式大小"/>
+  <phrase i="6223" t="應用程式資料大小"/>
+  <phrase i="6222" t="位元組"/>
+  <phrase i="6221" t="錯誤，請聯絡管理員"/>
+  <phrase i="6220" t="正在結束應用程式..."/>
+  <phrase i="6219" t="安裝已取消"/>
+  <phrase i="6218" t="安裝應用程式失敗"/>
+  <phrase i="6217" t="正在安裝應用程式..."/>
+  <phrase i="6216" t="正在啟動應用程式..."/>
+  <phrase i="6215" t="確認"/>
+  <phrase i="6214" t="載入中"/>
+  <phrase i="6213" t="啟動中"/>
+  <phrase i="6212" t="JAR 大小"/>
+  <phrase i="6211" t="JAR URL"/>
+  <phrase i="6210" t="說明"/>
+  <phrase i="6209" t="廠商"/>
+  <phrase i="6208" t="MicroEdition-組態"/>
+  <phrase i="6207" t="MicroEdition-設定檔"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="個人化"/>
+  <phrase i="6205" t="單鍵插話"/>
+  <phrase i="6204" t="寬頻耳機 UI 控制"/>
+  <phrase i="6203" t="自動選取通話"/>
+  <phrase i="6202" t="通話清單的 BLF"/>
+  <phrase i="6201" t="自動選取線路"/>
+  <phrase i="6200" t="UI 資訊"/>
+  <phrase i="6199" t="UI"/>
+  <phrase i="6198" t="歡迎語"/>
+  <phrase i="6197" t="問候語"/>
+  <phrase i="6196" t="建立新聯絡人"/>
+  <phrase i="6195" t="儲存至現有聯絡人"/>
+  <phrase i="6194" t="載入中... 請稍候"/>
+  <phrase i="6193" t="系統組態"/>
+  <phrase i="6192" t="僅限英數字元!"/>
+  <phrase i="6191" t="保留追蹤級別"/>
+  <phrase i="6190" t="遠端系統記錄"/>
+  <phrase i="6189" t="追蹤級別"/>
+  <phrase i="6188" t="啟用診斷"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="組織"/>
+  <phrase i="6186" t="選取預設值"/>
+  <phrase i="6185" t="選取檢視"/>
+  <phrase i="6184" t="選取影像"/>
+  <phrase i="6183" t="自訂軟鍵"/>
+  <phrase i="6182" t="線路 %d (%s)"/>
+  <phrase i="6181" t="選取要檢視的線路"/>
+  <phrase i="6180" t="電話線路"/>
+  <phrase i="6179" t="首頁"/>
+  <phrase i="6178" t="電話簿"/>
+  <phrase i="6177" t="背景影像"/>
+  <phrase i="6176" t="偏好的檢視"/>
+  <phrase i="6175" t="左側軟鍵"/>
+  <phrase i="6174" t="自訂首頁"/>
+  <phrase i="6173" t="%s (%d 通未接聽)"/>
+  <phrase i="6172" t="設定檔受到限制!"/>
+  <phrase i="6171" t="未指定"/>
+  <phrase i="6170" t="選取聯絡人欄位"/>
+  <phrase i="6169" t="姓氏，名字"/>
+  <phrase i="6168" t="名字，姓氏"/>
+  <phrase i="6167" t="目錄排序順序"/>
+  <phrase i="6166" t="無預設號碼"/>
+  <phrase i="6165" t="選取未指定的快速撥號!"/>
+  <phrase i="6164" t="選取要指定的快速撥號"/>
+  <phrase i="6163" t="選取聯絡人號碼"/>
+  <phrase i="6162" t="指定快速撥號 %d"/>
+  <phrase i="6161" t="要指定新的快速撥號嗎?"/>
+  <phrase i="6160" t="選取電話類型"/>
+  <phrase i="6159" t="選取聯絡人"/>
+  <phrase i="6158" t="全部刪除"/>
+  <phrase i="6157" t="所有聯絡人均已刪除!"/>
+  <phrase i="6156" t="要刪除所有聯絡人嗎?"/>
+  <phrase i="6155" t="主要電話已更新!"/>
+  <phrase i="6154" t="背景影像預覽"/>
+  <phrase i="6153" t="已儲存新鈴聲!"/>
+  <phrase i="6152" t="無相符的記錄"/>
+  <phrase i="6151" t="已無空間新增號碼!"/>
+  <phrase i="6150" t="重新命名"/>
+  <phrase i="6149" t="合併"/>
+  <phrase i="6148" t="覆寫"/>
+  <phrase i="6147" t="聯絡人已更新!"/>
+  <phrase i="6146" t="聯絡人已存在!"/>
+  <phrase i="6145" t="聯絡人已刪除!"/>
+  <phrase i="6144" t="要刪除聯絡人嗎?"/>
+  <phrase i="6143" t="要刪除快速撥號嗎?"/>
+  <phrase i="6142" t="IM 位址"/>
+  <phrase i="6141" t="暱稱"/>
+  <phrase i="6140" t="已指定快速撥號 %d!"/>
+  <phrase i="6139" t="快速撥號"/>
+  <phrase i="6138" t="新增快速撥號項目"/>
+  <phrase i="6137" t="(空的)"/>
+  <phrase i="6136" t="空號!"/>
+  <phrase i="6135" t="已刪除快速撥號!"/>
+  <phrase i="6134" t="按住以啟用"/>
+  <phrase i="6133" t="按住以停用"/>
+  <phrase i="6132" t="% 組快速撥號號碼"/>
+  <phrase i="6131" t="1 組快速撥號號碼"/>
+  <phrase i="6130" t="需要聯絡人姓名!"/>
+  <phrase i="6129" t="已達最大容量!"/>
+  <phrase i="6128" t="1 位聯絡人"/>
+  <phrase i="6127" t="1 筆記錄"/>
+  <phrase i="6126" t="無聯絡人"/>
+  <phrase i="6125" t="請縮小您的搜尋範圍。"/>
+  <phrase i="6124" t="要重設所有系統嗎?"/>
+  <phrase i="6123" t="要重新啟動電話嗎?"/>
+  <phrase i="6122" t="請輸入十六進位格式的金鑰"/>
+  <phrase i="6121" t="無效的輸入或缺少輸入"/>
+  <phrase i="6120" t="正在等候 %s 的 %d 回應"/>
+  <phrase i="6119" t="無頻寬可用"/>
+  <phrase i="6118" t="等候開始錄音"/>
+  <phrase i="6117" t="較高"/>
+  <phrase i="6116" t="相等"/>
+  <phrase i="6115" t="較低"/>
+  <phrase i="6114" t="DND 開啟"/>
+  <phrase i="6113" t="DND 關閉"/>
+  <phrase i="6112" t="回復焦點優先順序"/>
+  <phrase i="6111" t="Avalanche 訊息"/>
+  <phrase i="6110" t="已成功更新組態"/>
+  <phrase i="6109" t="更新組態失敗"/>
+  <phrase i="6108" t="已成功更新組態封裝"/>
+  <phrase i="6107" t="更新組態封裝失敗"/>
+  <phrase i="6106" t="HTTPS 用戶端組態"/>
+  <phrase i="6105" t="接受未經驗證的憑證"/>
+  <phrase i="6104" t="拒絕未經驗證的憑證"/>
+  <phrase i="6103" t="選取憑證選項"/>
+  <phrase i="6102" t="使用者資訊"/>
+  <phrase i="6101" t="設定已停用"/>
+  <phrase i="6100" t="欄位唯讀!"/>
+  <phrase i="6099" t="設定檔已被管理員鎖定"/>
+  <phrase i="6098" t="存取管理員限制的項目"/>
+  <phrase i="6097" t="設定檔為唯讀"/>
+  <phrase i="6096" t="請輸入 Pin 碼"/>
+  <phrase i="6095" t="請向管理員索取 Pin 碼"/>
+  <phrase i="6094" t="略過"/>
+  <phrase i="6093" t="使用中央按鈕選取"/>
+  <phrase i="6092" t="使用中央按鈕取消選取"/>
+  <phrase i="6091" t="密碼無效或驗證伺服器關閉"/>
+  <phrase i="6090" t="變更 WLAN 密碼?"/>
+  <phrase i="6089" t="使用者資訊"/>
+  <phrase i="6088" t="存取 WLAN 被拒!"/>
+  <phrase i="6087" t="伺服器停機"/>
+  <phrase i="6086" t="電話簿"/>
+  <phrase i="6085" t="按 [繼續] 以繼續"/>
+  <phrase i="6084" t="新增聯絡人"/>
+  <phrase i="6083" t="變更聯絡人"/>
+  <phrase i="6082" t="聯絡人"/>
+  <phrase i="6081" t="%d 位聯絡人"/>
+  <phrase i="6080" t="第 %d 位 (共 %d 位) 聯絡人"/>
+  <phrase i="6079" t="全名"/>
+  <phrase i="6078" t="顯示偏好設定"/>
+  <phrase i="6077" t="選取顯示順序"/>
+  <phrase i="6076" t="另存新檔"/>
+  <phrase i="6075" t="公司電話"/>
+  <phrase i="6074" t="行動電話"/>
+  <phrase i="6073" t="住家電話"/>
+  <phrase i="6072" t="其他電話"/>
+  <phrase i="6071" t="電郵地址"/>
+  <phrase i="6070" t="公司"/>
+  <phrase i="6069" t="公司地址"/>
+  <phrase i="6068" t="街道"/>
+  <phrase i="6067" t="縣/市"/>
+  <phrase i="6066" t="省/市"/>
+  <phrase i="6065" t="郵遞區號"/>
+  <phrase i="6064" t="儲存"/>
+  <phrase i="6063" t="儲存聯絡人"/>
+  <phrase i="6062" t="選取號碼類型"/>
+  <phrase i="6061" t="選取聯絡人的裝置類型"/>
+  <phrase i="6060" t="排序"/>
+  <phrase i="6059" t="繼續"/>
+  <phrase i="6058" t="公司"/>
+  <phrase i="6057" t="個人"/>
+  <phrase i="6056" t="國際"/>
+  <phrase i="6055" t="最愛"/>
+  <phrase i="6054" t="常用聯絡人"/>
+  <phrase i="6053" t="主要客戶"/>
+  <phrase i="6052" t="其他"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="種類"/>
+  <phrase i="6049" t="種類"/>
+  <phrase i="6048" t="選取聯絡人的種類"/>
+  <phrase i="6047" t="選取種類"/>
+  <phrase i="6046" t="選取聯絡人的種類"/>
+  <phrase i="6045" t="選取種類"/>
+  <phrase i="6044" t="過濾器"/>
+  <phrase i="6043" t="選取聯絡人的過濾器"/>
+  <phrase i="6042" t="選取過濾器"/>
+  <phrase i="6041" t="快速撥號"/>
+  <phrase i="6040" t="快速撥號號碼"/>
+  <phrase i="6039" t="輸入快速撥號號碼"/>
+  <phrase i="6038" t="無效的快速撥號號碼"/>
+  <phrase i="6037" t="未指定快速撥號 %d"/>
+  <phrase i="6036" t="快速撥號是空的"/>
+  <phrase i="6035" t="使用 [選項] 以儲存"/>
+  <phrase i="6034" t="按 [選項] 以儲存"/>
+  <phrase i="6033" t="已儲存聯絡人"/>
+  <phrase i="6032" t="尚未儲存聯絡人!"/>
+  <phrase i="6031" t="已儲存設定"/>
+  <phrase i="6030" t="尚未儲存設定!"/>
+  <phrase i="6029" t="已取消"/>
+  <phrase i="6028" t="已取消變更"/>
+  <phrase i="6027" t="有 %d 通未接來電"/>
+  <phrase i="6026" t="有 %d 通已接來電"/>
+  <phrase i="6025" t="已撥打此號碼 %d 次"/>
+  <phrase i="6024" t="收費模式"/>
+  <phrase i="6023" t="顯示螢幕不顯示背光"/>
+  <phrase i="6022" t="顯示螢幕顯示背光"/>
+  <phrase i="6021" t="選取顯示偏好設定"/>
+  <phrase i="6020" t="首頁自訂"/>
+  <phrase i="6019" t="捷徑"/>
+  <phrase i="6018" t="線路檢視"/>
+  <phrase i="6017" t="主功能表"/>
+  <phrase i="6016" t="選取應用程式"/>
+  <phrase i="6015" t="應用程式"/>
+  <phrase i="6014" t="選取要指定的捷徑"/>
+  <phrase i="6013" t="指定"/>
+  <phrase i="6012" t="已啟用喇叭"/>
+  <phrase i="6011" t="已停用喇叭"/>
+  <phrase i="6010" t="追蹤設定"/>
+  <phrase i="6009" t="重新啟動電話以停用"/>
+  <phrase i="6008" t="允許"/>
+  <phrase i="6007" t="未設定"/>
+  <phrase i="6006" t="作用中鈴聲偏好設定"/>
+  <phrase i="6005" t="僅嗶聲"/>
+  <phrase i="6004" t="電話響鈴"/>
+  <phrase i="6003" t="選取警示偏好設定"/>
+  <phrase i="6002" t="未接來電"/>
+  <phrase i="6001" t="全部"/>
+  <!-- GUI -->
+  <phrase i="6000" t="選取狀態項目"/>
+  <phrase i="5999" t="選取機型設定"/>
+  <phrase i="5998" t="網路設定"/>
+  <phrase i="5997" t="選取網路設定"/>
+  <phrase i="5996" t="電話設定"/>
+  <phrase i="5995" t="選取電話設定"/>
+  <phrase i="5994" t="選取安全性設定"/>
+  <phrase i="5993" t="選取裝置設定"/>
+  <phrase i="5992" t="選取設定"/>
+  <phrase i="5991" t="選取設定檔"/>
+  <phrase i="5990" t="選取 WLAN 設定"/>
+  <phrase i="5989" t="802.11 模式"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Auto-b/g"/>
+  <phrase i="5985" t="Auto-a"/>
+  <phrase i="5984" t="Auto-RSSI"/>
+  <phrase i="5983" t="開啟"/>
+  <phrase i="5982" t="Open+WEP"/>
+  <phrase i="5981" t="Shared+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="自動 (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Poll"/>
+  <phrase i="5976" t="U-APSD/無"/>
+  <phrase i="5975" t="PS-Poll"/>
+  <phrase i="5973" t="十六進位"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 位元"/>
+  <phrase i="5970" t="128 位元"/>
+  <phrase i="5969" t="關閉"/>
+  <phrase i="5968" t="大聲"/>
+  <phrase i="5967" t="安全模式"/>
+  <phrase i="5966" t="單一基地台"/>
+  <phrase i="5965" t="省電通話模式"/>
+  <phrase i="5964" t="金鑰樣式"/>
+  <phrase i="5963" t="靜態 WEP 金鑰"/>
+  <phrase i="5962" t="WEP 金鑰"/>
+  <phrase i="5961" t="主要"/>
+  <phrase i="5960" t="預先共用的金鑰"/>
+  <phrase i="5959" t="網路設定檔"/>
+  <phrase i="5958" t="連接喇叭"/>
+  <phrase i="5957" t="連接鈴聲"/>
+  <phrase i="5956" t="耳機"/>
+  <phrase i="5955" t="一般"/>
+  <phrase i="5954" t="會議"/>
+  <phrase i="5953" t="戶外"/>
+  <phrase i="5952" t="靜音"/>
+  <phrase i="5951" t="自訂 1"/>
+  <phrase i="5950" t="自訂 2"/>
+  <phrase i="5949" t="鍵台音調"/>
+  <phrase i="5948" t="警示型式"/>
+  <phrase i="5947" t="僅響鈴"/>
+  <phrase i="5946" t="僅震動"/>
+  <phrase i="5945" t="先震動再響鈴"/>
+  <phrase i="5944" t="鈴聲已關閉!"/>
+  <phrase i="5943" t="響鈴"/>
+  <phrase i="5942" t="秒"/>
+  <phrase i="5941" t="選取 "/>
+  <phrase i="5940" t="調整 "/>
+  <phrase i="5939" t="新增"/>
+  <phrase i="5938" t="目前"/>
+  <phrase i="5937" t="輸入新值"/>
+  <phrase i="5936" t="舊值"/>
+  <phrase i="5935" t="啟用"/>
+  <phrase i="5934" t="停用"/>
+  <phrase i="5933" t="警告"/>
+  <phrase i="5932" t="組態錯誤"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="啟用/停用 DHCP"/>
+  <phrase i="5928" t="CallManager 資訊"/>
+  <phrase i="5927" t="HTTP 資訊"/>
+  <phrase i="5926" t="地區設定資訊"/>
+  <phrase i="5925" t="QoS 資訊"/>
+  <phrase i="5924" t="CallManager 資訊"/>
+  <phrase i="5923" t="安全性資訊"/>
+  <phrase i="5922" t="WLAN 組態"/>
+  <phrase i="5921" t="WLAN 設定"/>
+  <phrase i="5920" t="設定檔名稱"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="選取 USB 設定"/>
+  <phrase i="5914" t="USB 組態"/>
+  <phrase i="5913" t="網站調查"/>
+  <phrase i="5912" t="載入伺服器"/>
+  <phrase i="5911" t="選取通道"/>
+  <phrase i="5910" t="通道"/>
+  <phrase i="5909" t="設定檔 %d"/>
+  <phrase i="5908" t="使用者設定檔"/>
+  <phrase i="5907" t="選取使用者設定檔"/>
+  <phrase i="5906" t="選取使用者設定"/>
+  <phrase i="5905" t="網路設定檔"/>
+  <phrase i="5904" t="選取網路設定檔"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="顯示亮度"/>
+  <phrase i="5901" t="顯示逾時"/>
+  <phrase i="5900" t="永不"/>
+  <phrase i="5899" t="按任意鍵接聽"/>
+  <phrase i="5898" t="已啟用"/>
+  <phrase i="5897" t="已停用"/>
+  <phrase i="5896" t="充電完成!"/>
+  <phrase i="5895" t="電池已拆除!"/>
+  <phrase i="5894" t="電池電力不足!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="輸入字串"/>
+  <phrase i="5890" t="授權字串"/>
+  <phrase i="5889" t="LSC 作業完成"/>
+  <phrase i="5888" t="LSC 作業已開始"/>
+  <phrase i="5887" t="停止"/>
+  <phrase i="5886" t="連線至 CAPF 伺服器"/>
+  <phrase i="5885" t="無法連線至 CAPF 伺服器"/>
+  <phrase i="5884" t="已連線至 CAPF 伺服器"/>
+  <phrase i="5883" t="使用 CAPF 驗證"/>
+  <phrase i="5882" t="CAPF 伺服器"/>
+  <phrase i="5881" t="LSC 認證錯誤"/>
+  <phrase i="5880" t="產生 LSC 金鑰"/>
+  <phrase i="5879" t="產生 LSC 金鑰失敗"/>
+  <phrase i="5878" t="LSC 作業進行中"/>
+  <phrase i="5877" t="重試中...請稍候"/>
+  <phrase i="5876" t="LSC 作業已取消"/>
+  <phrase i="5875" t="LSC 作業已中止"/>
+  <phrase i="5874" t="LSC 作業逾時"/>
+  <phrase i="5873" t="LSC 作業失敗"/>
+  <phrase i="5872" t="長度太短"/>
+  <phrase i="5871" t="未設定 URL!"/>
+  <phrase i="5870" t="無"/>
+  <phrase i="5869" t="不明"/>
+  <phrase i="5867" t="未安裝"/>
+  <phrase i="5866" t="已安裝"/>
+  <phrase i="5864" t="LSC 已安裝"/>
+  <phrase i="5863" t="LSC 已更新"/>
+  <phrase i="5862" t="LSC 已刪除"/>
+  <phrase i="5861" t="詳細資訊"/>
+  <phrase i="5860" t="無法存取設定!"/>
+  <phrase i="5859" t="正在重新啟動電話..."/>
+  <phrase i="5858" t="要立即重設為原廠值嗎?"/>
+  <phrase i="5857" t="CTL 檔案"/>
+  <phrase i="5856" t="信任清單"/>
+  <phrase i="5855" t="CTL 檔案已清除!"/>
+  <phrase i="5854" t="找不到"/>
+  <phrase i="5853" t="電話上的 MIC 故障"/>
+  <phrase i="5852" t="CTL 更新失敗"/>
+  <phrase i="5851" t="已安裝 CTL"/>
+  <phrase i="5850" t="電池充電器已停止!"/>
+  <phrase i="5849" t="電池充電器已啟動!"/>
+  <phrase i="5848" t="AC 連線中斷!"/>
+  <phrase i="5847" t="AC 已連接!"/>
+  <phrase i="5846" t="USB 連線中斷!"/>
+  <phrase i="5845" t="USB 已連接!"/>
+  <phrase i="5844" t="基座連線中斷!"/>
+  <phrase i="5843" t="基座已連接!"/>
+  <phrase i="5842" t="耳機連線中斷!"/>
+  <phrase i="5841" t="耳機已連接!"/>
+  <phrase i="5840" t="已達長度上限!"/>
+  <phrase i="5839" t="鍵台鎖定已解除!"/>
+  <phrase i="5838" t="鍵台已鎖定!"/>
+  <phrase i="5837" t="要解除鍵台鎖定嗎?"/>
+  <phrase i="5836" t="要鎖定鍵台嗎?"/>
+  <phrase i="5835" t="震動已關閉!"/>
+  <phrase i="5834" t="震動已開啟!"/>
+  <phrase i="5833" t="LSC 更新失敗!"/>
+  <phrase i="5832" t="MIC 更新失敗!"/>
+  <phrase i="5831" t="設定已解除鎖定!"/>
+  <phrase i="5830" t="設定已鎖定!"/>
+  <phrase i="5829" t="電池電力不足..關機中!"/>
+  <phrase i="5828" t="TFTP 不在 CTL 中"/>
+  <phrase i="5827" t="USB 介面已啟動"/>
+  <phrase i="5826" t="USB 介面已關閉"/>
+  <phrase i="5825" t="%d 秒"/>
+  <phrase i="5824" t="自動鎖定鍵台"/>
+  <phrase i="5823" t="選取自動鎖定計時器"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="選取目錄"/>
+  <phrase i="5820" t="網路忙碌中"/>
+  <phrase i="5819" t="WLAN 控制網域"/>
+  <phrase i="5818" t="USB 廠商 ID"/>
+  <phrase i="5817" t="USB 產品 ID"/>
+  <phrase i="5816" t="RNDIS 裝置位址"/>
+  <phrase i="5815" t="RNDIS 主機位址"/>
+  <phrase i="5814" t="隱藏"/>
+  <phrase i="5813" t="選項"/>
+  <phrase i="5812" t="按中央按鈕即可選取"/>
+  <phrase i="5811" t="按中央按鈕即可編輯"/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="保留記錄"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="安全性設定"/>
+  <phrase i="5785" t="設定檔已封鎖!"/>
+  <phrase i="5784" t="設定檔已封鎖!"/>
+  <phrase i="5783" t="WLAN 驅動程式 ID"/>
+  <phrase i="5782" t="WLAN 韌體 ID"/>
+  <phrase i="5781" t="檢視通話統計資料"/>
+  <phrase i="5780" t="收件者轉碼器"/>
+  <phrase i="5779" t="寄件者轉碼器"/>
+  <phrase i="5778" t="收話器大小"/>
+  <phrase i="5777" t="發話器大小"/>
+  <phrase i="5776" t="平均抖動"/>
+  <phrase i="5775" t="最大抖動"/>
+  <phrase i="5774" t="Rcvr 丟棄"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="平均 MOS LQK"/>
+  <phrase i="5771" t="最小 MOS LQK"/>
+  <phrase i="5770" t="最大 MOS LQK"/>
+  <phrase i="5769" t="MOS LQK 版本"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="隱藏秒數"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="網路資訊"/>
+  <phrase i="5761" t="WLAN 資訊"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="地區設定"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="安全性"/>
+  <phrase i="5755" t="選取音量"/>
+  <phrase i="5754" t="聲音設定"/>
+  <phrase i="5753" t="顯示設定"/>
+  <phrase i="5752" t="鍵台設定"/>
+  <phrase i="5751" t="預設鈴聲類型"/>
+  <phrase i="5750" t="選取聲音設定"/>
+  <phrase i="5749" t="選取顯示設定"/>
+  <phrase i="5748" t="選取鍵台設定"/>
+  <phrase i="5747" t="加密類型"/>
+  <phrase i="5746" t="CCKM 模式"/>
+  <phrase i="5745" t="金鑰管理"/>
+  <phrase i="5744" t="傳輸能力"/>
+  <phrase i="5743" t="共用"/>
+  <phrase i="5742" t="自動切換"/>
+  <phrase i="5741" t="無 WPA"/>
+  <phrase i="5740" t="網路存取"/>
+  <phrase i="5739" t="唯讀"/>
+  <phrase i="5738" t="編輯要撥打的號碼"/>
+  <phrase i="5737" t="音量設定"/>
+  <phrase i="5736" t="選取音量"/>
+  <phrase i="5735" t="音量"/>
+  <phrase i="5734" t="鈴聲"/>
+  <phrase i="5733" t="話筒"/>
+  <phrase i="5732" t="喇叭"/>
+  <phrase i="5731" t="震動並響鈴"/>
+  <phrase i="5730" t="等級 %d"/>
+  <phrase i="5729" t="分鐘"/>
+  <phrase i="5728" t="分鐘"/>
+  <phrase i="5727" t="通話進行中..."/>
+  <phrase i="5726" t="通話已取消!"/>
+  <phrase i="5725" t="通話失敗。請重試。"/>
+  <phrase i="5724" t="無法啟用: 空 SSID!"/>
+  <phrase i="5723" t="此處不可使用空 SSID!"/>
+  <phrase i="5722" t="鈴聲"/>
+  <phrase i="5721" t="目前設定"/>
+  <phrase i="5720" t="可用的鈴聲"/>
+  <phrase i="5719" t="鈴聲設定"/>
+  <phrase i="5718" t="檢視"/>
+  <phrase i="5717" t="選取鈴聲"/>
+  <phrase i="5716" t="套用鈴聲"/>
+  <phrase i="5715" t="套用"/>
+  <phrase i="5714" t="LED 範圍指示燈"/>
+  <phrase i="5713" t="安全性組態"/>
+  <phrase i="5712" t="鈴聲輸出"/>
+  <phrase i="5711" t="喇叭與耳機"/>
+  <phrase i="5710" t="變更"/>
+  <phrase i="5709" t="Wavelink 組態"/>
+  <phrase i="5708" t="選取 Wavelink 設定"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="替代 Wavelink 伺服器"/>
+  <phrase i="5705" t="Wavelink 伺服器"/>
+  <phrase i="5704" t="Wavelink 伺服器連接埠"/>
+  <phrase i="5703" t="啟用程式版本"/>
+  <phrase i="5702" t="自訂名稱"/>
+  <phrase i="5701" t="自訂值"/>
+  <phrase i="5700" t="通道"/>
+  <phrase i="5699" t="芳鄰清單"/>
+  <phrase i="5698" t="AP 名稱"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NullRcv"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="解除鎖定"/>
+  <phrase i="5689" t="個人目錄"/>
+  <phrase i="5688" t="公司目錄"/>
+  <phrase i="5687" t="按解除鎖定"/>
+  <phrase i="5686" t="按 # 解除鎖定"/>
+  <phrase i="5685" t="按住 # 解除鎖定"/>
+  <phrase i="5684" t="鍵台已鎖定"/>
+  <phrase i="5683" t="背光"/>
+  <phrase i="5682" t="選取音訊路徑"/>
+  <phrase i="5681" t="喇叭與藍牙"/>
+  <phrase i="5680" t="耳機鈴聲"/>
+  <phrase i="5679" t="高"/>
+  <phrase i="5678" t="中"/>
+  <phrase i="5677" t="低"/>
+  <phrase i="5676" t="按 %s 進入主螢幕"/>
+  <phrase i="5675" t="通話詳細資料"/>
+  <phrase i="5674" t="位於 %s 於 %s"/>
+  <phrase i="5673" t="持續時間"/>
+  <phrase i="5672" t="提示模式"/>
+  <phrase i="5671" t="您的使用者憑證可能不正確。"/>
+  <phrase i="5670" t="要立即變更嗎?"/>
+  <phrase i="5669" t="喇叭模式"/>
+  <phrase i="5668" t="永久"/>
+  <phrase i="5667" t="每通通話"/>
+  <phrase i="5666" t="網路設定檔登入"/>
+  <phrase i="5665" t="字型大小"/>
+  <phrase i="5664" t="已增加"/>
+  <phrase i="5663" t="64 位元"/>
+  <phrase i="5662" t="104 位元"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="INTERCOM"/>
+  <phrase i="4998" t="來電鈴聲"/>
+  <phrase i="4997" t="本機目錄"/>
+  <phrase i="4996" t="本機快速撥號"/>
+  <phrase i="4995" t="姓氏"/>
+  <phrase i="4994" t="名字"/>
+  <phrase i="4993" t="本機目錄搜尋"/>
+  <phrase i="4992" t="相符的項目太多。請縮小您的搜尋範圍。"/>
+  <phrase i="4991" t="找不到任何記錄。"/>
+  <phrase i="4990" t="記錄 1 至 ... /"/>
+  <phrase i="4989" t="無可用的線路"/>
+  <phrase i="4988" t="無法轉接"/>
+  <phrase i="4987" t="轉接目的地忙線中"/>
+  <phrase i="4986" t="輸入或選取要撥打的號碼"/>
+  <phrase i="4985" t="要將所有系統"/>
+  <phrase i="4984" t="設定重設為預設值嗎?"/>
+  <phrase i="4983" t="目錄服務"/>
+  <phrase i="4982" t="XML 服務"/>
+  <phrase i="4981" t="正在連接伺服器"/>
+  <phrase i="4980" t="連線失敗"/>
+  <phrase i="4979" t="您要重新啟動電話嗎?"/>
+  <phrase i="4978" t="功能表"/>
+  <phrase i="4977" t="語言"/>
+  <phrase i="4976" t="替代網域"/>
+  <phrase i="4975" t="替代 DNS"/>
+  <phrase i="4974" t="目前值"/>
+  <phrase i="4973" t="新值"/>
+  <phrase i="4972" t="預設路由器"/>
+  <phrase i="4971" t="已啟用 VLAN"/>
+  <phrase i="4970" t="已啟用 CDP"/>
+  <phrase i="4969" t="服務"/>
+  <phrase i="4968" t="快速撥號"/>
+  <phrase i="4967" t="進入伺服器"/>
+  <phrase i="4966" t="靜態"/>
+  <phrase i="4965" t="登錄模式"/>
+  <phrase i="4964" t="模式"/>
+  <phrase i="4963" t="舊型"/>
+  <phrase i="4962" t="韌體升級"/>
+  <phrase i="4961" t="對比功能表"/>
+  <phrase i="4960" t="變更管理員密碼"/>
+  <phrase i="4959" t="無法使用"/>
+  <phrase i="4958" t="範例文字"/>
+  <phrase i="4957" t="升級中"/>
+  <phrase i="4956" t="輸入新密碼"/>
+  <phrase i="4955" t="訊息"/>
+  <phrase i="4954" t="設定"/>
+  <phrase i="4953" t="目錄"/>
+  <phrase i="4952" t="密碼錯誤"/>
+  <phrase i="4951" t="輸入管理員密碼"/>
+  <phrase i="4950" t="無效輸入值"/>
+  <phrase i="4949" t="無效的金鑰字串長度"/>
+  <phrase i="4948" t="無效的金鑰字串: 必須是十六進位數字"/>
+  <phrase i="4947" t="快速撥號"/>
+  <phrase i="4946" t="乙太網路連線中斷"/>
+  <phrase i="4945" t="正在透過 TFTP 設定"/>
+  <phrase i="4944" t="正在透過 DHCP 設定 IP"/>
+  <phrase i="4943" t="正在設定 VLAN"/>
+  <phrase i="4942" t="號碼無法使用"/>
+  <phrase i="4941" t="未指定"/>
+  <phrase i="4940" t="鈴聲音量"/>
+  <phrase i="4939" t="話筒音量"/>
+  <phrase i="4938" t="喇叭音量"/>
+  <phrase i="4937" t="重試"/>
+  <phrase i="4936" t="輸入"/>
+  <phrase i="4935" t="字母"/>
+  <phrase i="4934" t="停止監聽"/>
+  <phrase i="4933" t="監聽"/>
+  <phrase i="4932" t="號碼"/>
+  <phrase i="4931" t="訊息"/>
+  <phrase i="718" t="對講歷程"/>
+  <phrase i="717" t="所有線路"/>
+  <phrase i="716" t="線路 %d"/>
+  <phrase i="715" t="關閉"/>
+  <phrase i="714" t="作業取消"/>
+  <phrase i="713" t="TFTP 未授權: %s"/>
+  <phrase i="712" t="清除"/>
+  <phrase i="711" t="已加密"/>
+  <phrase i="710" t="已認證"/>
+  <phrase i="709" t="非安全"/>
+  <phrase i="708" t="TLS 錯誤至 "/>
+  <phrase i="707" t="已啟用 Web 存取"/>
+  <phrase i="706" t="裝置安全模式"/>
+  <phrase i="705" t="處理中..."/>
+  <phrase i="704" t="輸入無效或無資訊"/>
+  <phrase i="703" t="加密之鑰產生失敗"/>
+  <phrase i="702" t="連線中斷或失敗"/>
+  <phrase i="701" t="失敗"/>
+  <phrase i="700" t="逾時"/>
+  <phrase i="699" t="成功"/>
+  <phrase i="698" t="正在驗證請求..."/>
+  <phrase i="697" t="連線中..."/>
+  <phrase i="696" t="重試 CAPF..."/>
+  <phrase i="695" t="產生加密之鑰中..."/>
+  <phrase i="694" t="取消作業"/>
+  <phrase i="693" t="更新證書"/>
+  <phrase i="692" t="驗證字串"/>
+  <phrase i="691" t="證書"/>
+  <phrase i="690" t="服務 DSCP"/>
+  <phrase i="689" t="組態 DSCP"/>
+  <phrase i="688" t="通話控制 DSCP"/>
+  <phrase i="687" t="檔案認證失敗"/>
+  <phrase i="686" t="CAST 工作"/>
+  <phrase i="685" t="視訊功能啟用"/>
+  <phrase i="684" t="自動選取線路啟用"/>
+  <phrase i="683" t="語音 VLAN 啟用"/>
+  <phrase i="682" t="GARP 已啟用"/>
+  <phrase i="681" t="芳鄰埠"/>
+  <phrase i="680" t="芳鄰 IP 地址"/>
+  <phrase i="679" t="芳鄰裝置 ID"/>
+  <phrase i="678" t="經由 %s"/>
+  <phrase i="677" t="轉撥"/>
+  <phrase i="676" t="縮撥"/>
+  <phrase i="675" t="正在請求服務 URL 狀態"/>
+  <phrase i="674" t="正在請求功能鍵狀態"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d 個新的未接來電"/>
+  <phrase i="670" t="預設鈴聲"/>
+  <phrase i="669" t="選取線路..."/>
+  <phrase i="668" t="編輯撥號"/>
+  <phrase i="667" t="電話中斷"/>
+  <phrase i="666" t="網路地區設定版本"/>
+  <phrase i="665" t="使用者地區設定版本"/>
+  <phrase i="664" t="已取消 TFTP 請求"/>
+  <phrase i="663" t="已停用 DHCP"/>
+  <phrase i="662" t="需要 IP 位址"/>
+  <phrase i="661" t="狀態 "/>
+  <phrase i="660" t="預設"/>
+  <phrase i="659" t="留言等待"/>
+  <phrase i="658" t="限話筒模式"/>
+  <phrase i="657" t="型號"/>
+  <phrase i="656" t="檢視機型資訊"/>
+  <phrase i="655" t="機型資訊"/>
+  <phrase i="654" t="連結狀態 "/>
+  <phrase i="653" t="上一個字型指標"/>
+  <phrase i="652" t="字型指標"/>
+  <phrase i="651" t="執行應用程式"/>
+  <phrase i="650" t="上一個字型下載"/>
+  <phrase i="649" t="字型下載"/>
+  <phrase i="648" t="字型表資訊"/>
+  <phrase i="647" t="上一個區段下載"/>
+  <phrase i="646" t="區段下載"/>
+  <phrase i="645" t="區段更新"/>
+  <phrase i="644" t="硬體資訊"/>
+  <phrase i="643" t="版本 TFTP"/>
+  <phrase i="642" t="版本資訊"/>
+  <phrase i="641" t="閒置"/>
+  <phrase i="640" t="不支援"/>
+  <phrase i="639" t="更新地區設定時發生錯誤"/>
+  <phrase i="638" t="正在等候來自 %s 的狀態 %d 回應"/>
+  <phrase i="637" t="正在等候 %s (來自 %s)"/>
+  <phrase i="636" t="BOOTP 伺服器"/>
+  <phrase i="635" t="DHCP 伺服器"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO 修訂"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="序號"/>
+  <phrase i="626" t="硬體修訂"/>
+  <phrase i="625" t="啟動載入 ID"/>
+  <phrase i="624" t="應用程式載入 ID"/>
+  <phrase i="623" t="電話 DN"/>
+  <phrase i="622" t="SYS 模式"/>
+  <phrase i="621" t="FIQ 模式"/>
+  <phrase i="620" t="IRQ 模式"/>
+  <phrase i="619" t="SVC 模式"/>
+  <phrase i="618" t="未定義的模式"/>
+  <phrase i="610" t="其他"/>
+  <phrase i="609" t="選取"/>
+  <phrase i="608" t="結束"/>
+  <phrase i="607" t="向下"/>
+  <phrase i="606" t="向上"/>
+  <phrase i="605" t="取消"/>
+  <phrase i="604" t="編輯"/>
+  <phrase i="603" t="否"/>
+  <phrase i="602" t="確定"/>
+  <phrase i="601" t="播放"/>
+  <phrase i="600" t="撥號"/>
+  <phrase i="599" t="編輯撥號"/>
+  <phrase i="598" t="儲存"/>
+  <phrase i="597" t="還原"/>
+  <phrase i="596" t="刪除"/>
+  <phrase i="595" t="原廠"/>
+  <phrase i="594" t="確定"/>
+  <phrase i="593" t="驗證"/>
+  <phrase i="592" t="搜尋"/>
+  <phrase i="591" t="下一個"/>
+  <phrase i="590" t="更新"/>
+  <phrase i="589" t="清除"/>
+  <phrase i="588" t="送出"/>
+  <phrase i="587" t="音調"/>
+  <phrase i="586" t="網路地區設定"/>
+  <phrase i="585" t="使用者地區設定"/>
+  <phrase i="584" t="Kate 檔案"/>
+  <phrase i="583" t="音調檔"/>
+  <phrase i="582" t="鈴聲忙碌!"/>
+  <phrase i="581" t="TFTP 伺服器 2"/>
+  <phrase i="578" t="SW 埠組態"/>
+  <phrase i="577" t="PC 埠組態"/>
+  <phrase i="576" t="PC 埠停用"/>
+  <phrase i="575" t="錯誤"/>
+  <phrase i="574" t="無效引數"/>
+  <phrase i="573" t="主話機"/>
+  <phrase i="571" t="對比功能表"/>
+  <phrase i="570" t="選取對比加以調整"/>
+  <phrase i="569" t="語音信箱"/>
+  <phrase i="568" t="訊息"/>
+  <phrase i="555" t="CM-ICMP-無法接通"/>
+  <phrase i="554" t="選取一個通話..."/>
+  <phrase i="553" t="代理伺服器 URL"/>
+  <phrase i="552" t="認證 URL"/>
+  <phrase i="551" t="已取消自動撥號!"/>
+  <phrase i="550" t="Sidecar 工作"/>
+  <phrase i="547" t="HTTP 檔案錯誤"/>
+  <phrase i="546" t="XML 錯誤 [4]:剖析錯誤"/>
+  <phrase i="545" t="檔案建立錯誤"/>
+  <phrase i="544" t="上一通="/>
+  <phrase i="543" t="載入遭拒的 HC"/>
+  <phrase i="542" t="電話-登錄-拒絕"/>
+  <phrase i="541" t="重設-重新啟動"/>
+  <phrase i="540" t="重設-重設"/>
+  <phrase i="539" t="電話-重設-IP"/>
+  <phrase i="538" t="電話-鍵台"/>
+  <phrase i="537" t="電話-診斷"/>
+  <phrase i="536" t="錯誤後回復"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-中止-TCP"/>
+  <phrase i="532" t="CM-重設-TCP"/>
+  <phrase i="531" t="TCP-錯誤-ACK"/>
+  <phrase i="530" t="驗證組態資訊時發生錯誤"/>
+  <phrase i="529" t="連接埠資訊"/>
+  <phrase i="528" t="乙太網路資訊"/>
+  <phrase i="527" t="%s 太大"/>
+  <phrase i="526" t="發話者 "/>
+  <phrase i="525" t="無項目"/>
+  <phrase i="524" t="輸入使用者 ID 和密碼"/>
+  <phrase i="523" t="密碼"/>
+  <phrase i="522" t="使用者名稱"/>
+  <phrase i="521" t="選取服務..."/>
+  <phrase i="520" t="處理目前通話..."/>
+  <phrase i="519" t="TFTP 大小錯誤"/>
+  <phrase i="518" t="片語檔"/>
+  <phrase i="517" t="圖像檔"/>
+  <phrase i="516" t="%s 無法使用"/>
+  <phrase i="515" t="錯誤 %s"/>
+  <phrase i="514" t="記錄 %d"/>
+  <phrase i="513" t="存取"/>
+  <phrase i="511" t="電話"/>
+  <phrase i="510" t="網路"/>
+  <phrase i="509" t="資料流 %d"/>
+  <phrase i="508" t="資料流統計"/>
+  <phrase i="507" t="裝置紀錄"/>
+  <phrase i="506" t="連接埠 %d"/>
+  <phrase i="505" t="乙太網路"/>
+  <phrase i="504" t="裝置資訊"/>
+  <phrase i="503" t="轉送延遲"/>
+  <phrase i="502" t="清除組態"/>
+  <phrase i="501" t="替代 TFTP"/>
+  <phrase i="500" t="DHCP 位址釋出"/>
+  <phrase i="499" t="已啟用 DHCP"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="版本"/>
+  <phrase i="493" t="上一步"/>
+  <phrase i="492" t=" 開"/>
+  <phrase i="491" t=" 是"/>
+  <phrase i="490" t=" 關"/>
+  <phrase i="489" t=" 否"/>
+  <phrase i="488" t="RTP 延遲"/>
+  <phrase i="487" t="TFTP 錯誤"/>
+  <phrase i="486" t="TFTP 存取錯誤"/>
+  <phrase i="485" t="找不到檔案"/>
+  <phrase i="484" t="上一通=0x%02X"/>
+  <phrase i="483" t="CM-已關閉-TCP"/>
+  <phrase i="482" t="TCP-逾時"/>
+  <phrase i="481" t="已初始化"/>
+  <phrase i="480" t="名稱=%15s"/>
+  <phrase i="479" t="更新軟體"/>
+  <phrase i="478" t="ROM 檢查加總錯誤"/>
+  <phrase i="477" t=" 載入="/>
+  <phrase i="474" t="重複 IP 位址"/>
+  <phrase i="473" t="已釋出 IP 位址"/>
+  <phrase i="472" t="重設"/>
+  <phrase i="471" t="正在請求伺服器清單"/>
+  <phrase i="470" t="正在請求速度狀態"/>
+  <phrase i="469" t="正在請求線路狀態"/>
+  <phrase i="468" t="正在請求軟鍵設定"/>
+  <phrase i="467" t="正在請求軟鍵範本"/>
+  <phrase i="466" t="正在請求範本"/>
+  <phrase i="465" t="啟動 DSP"/>
+  <phrase i="464" t="正在驗證載入"/>
+  <phrase i="463" t="登錄遭拒"/>
+  <phrase i="462" t="登錄中"/>
+  <phrase i="461" t="開啟中 "/>
+  <phrase i="460" t="正在設定 CM 清單"/>
+  <phrase i="459" t="正在設定 IP"/>
+  <phrase i="458" t="正在設定 VLAN"/>
+  <phrase i="457" t="%d 之 %d"/>
+  <phrase i="456" t="製造資訊無效"/>
+  <phrase i="455" t="XML 錯誤 [%d]!"/>
+  <phrase i="454" t="HTTP 錯誤 [%d]!"/>
+  <phrase i="453" t="找不到主機"/>
+  <phrase i="452" t="已取消 HTTP 要求"/>
+  <phrase i="451" t="重新導向中..."/>
+  <phrase i="450" t="需要授權!"/>
+  <phrase i="449" t="半雙工"/>
+  <phrase i="448" t="全雙工"/>
+  <phrase i="447" t="啟動時間"/>
+  <phrase i="446" t="壓縮類型錯誤"/>
+  <phrase i="445" t="TCP 錯誤碼"/>
+  <phrase i="444" t="版本錯誤"/>
+  <phrase i="443" t="磁碟已滿錯誤"/>
+  <phrase i="442" t="CFG TFTP 大小錯誤"/>
+  <phrase i="441" t="DSP 延遲"/>
+  <phrase i="440" t="已清空"/>
+  <phrase i="439" t="DSP 存活逾時"/>
+  <phrase i="438" t="DSP 錯誤"/>
+  <phrase i="437" t="無效 VLAN"/>
+  <phrase i="436" t="無效的 IP 位址"/>
+  <phrase i="435" t="無效子網路遮罩"/>
+  <phrase i="434" t=" 無法使用"/>
+  <phrase i="433" t=" 待機"/>
+  <phrase i="432" t=" 作用中"/>
+  <phrase i="431" t="使用的 BOOTP 伺服器"/>
+  <phrase i="430" t="程式設計錯誤"/>
+  <phrase i="429" t="重複 IP"/>
+  <phrase i="428" t="無預設路由器"/>
+  <phrase i="427" t="可用的 Cnf 檔"/>
+  <phrase i="426" t="檢查加總錯誤"/>
+  <phrase i="425" t="載入 ID 不正確"/>
+  <phrase i="424" t="無 DNS 伺服器 IP"/>
+  <phrase i="423" t="DNS 逾時"/>
+  <phrase i="422" t="DNS 不明主機"/>
+  <phrase i="421" t="TFTP 一般錯誤"/>
+  <phrase i="420" t="找不到組態檔案"/>
+  <phrase i="419" t="TFTP 逾時"/>
+  <phrase i="418" t="DHCP 逾時"/>
+  <phrase i="417" t="需要路由器"/>
+  <phrase i="416" t="路由器不在子網路上"/>
+  <phrase i="415" t="需要 TFTP 伺服器"/>
+  <phrase i="414" t="無效資訊"/>
+  <phrase i="413" t="取消廣播關閉"/>
+  <phrase i="412" t="取消廣播啟用"/>
+  <phrase i="410" t="已儲存話筒音量!"/>
+  <phrase i="409" t="已儲存耳機音量!"/>
+  <phrase i="408" t="已儲存喇叭音量!"/>
+  <phrase i="407" t="未儲存變更!"/>
+  <phrase i="406" t="儲存音量調整?"/>
+  <phrase i="405" t="輸入資料..."/>
+  <phrase i="404" t="服務無法使用"/>
+  <phrase i="403" t="服務"/>
+  <phrase i="402" t="檢視硬體資訊"/>
+  <phrase i="401" t="硬體資訊"/>
+  <phrase i="400" t="檢視堆疊資訊"/>
+  <phrase i="399" t="堆疊顯示器"/>
+  <phrase i="398" t="檢視除錯資訊"/>
+  <phrase i="397" t="除錯顯示"/>
+  <phrase i="396" t="檢視韌體版本"/>
+  <phrase i="395" t="韌體版本"/>
+  <phrase i="394" t="檢視網路統計資料"/>
+  <phrase i="393" t="網路統計資料"/>
+  <phrase i="392" t="檢視狀態訊息"/>
+  <phrase i="391" t="已驗證項目"/>
+  <phrase i="390" t="新的 %s:"/>
+  <phrase i="389" t="目前的 %s:"/>
+  <phrase i="388" t="編輯 %s"/>
+  <phrase i="387" t="設定狀態"/>
+  <phrase i="386" t="選取狀態項目..."/>
+  <phrase i="385" t="堆疊統計"/>
+  <phrase i="384" t="狀態訊息"/>
+  <phrase i="383" t="選取網路設定..."/>
+  <phrase i="382" t="鈴聲清單無法使用!"/>
+  <phrase i="381" t="鈴聲清單檔錯誤!"/>
+  <phrase i="380" t="鈴聲檔無法使用!"/>
+  <phrase i="379" t="正在請求鈴聲檔 ..."/>
+  <phrase i="378" t="鈴聲類型"/>
+  <phrase i="377" t="選取鈴聲..."/>
+  <phrase i="376" t="正在請求鈴聲清單..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="已接受變更並儲存"/>
+  <phrase i="372" t="變更對比..."/>
+  <phrase i="371" t="已儲存所有變更"/>
+  <phrase i="370" t="已還原原廠設定 "/>
+  <phrase i="369" t="已還原儲存的設定"/>
+  <phrase i="368" t="選取設定..."/>
+  <phrase i="367" t="設定"/>
+  <phrase i="366" t="狀態"/>
+  <phrase i="365" t="網路組態"/>
+  <phrase i="364" t="對比"/>
+  <phrase i="363" t="修改搜尋條件..."/>
+  <phrase i="362" t="無記錄"/>
+  <phrase i="361" t="%d 筆記錄"/>
+  <phrase i="360" t="%s 搜尋"/>
+  <phrase i="359" t="已清除通話記錄!"/>
+  <phrase i="358" t="選取目錄..."/>
+  <phrase i="357" t="無效目錄 URL!..."/>
+  <phrase i="356" t="目錄"/>
+  <phrase i="355" t="已撥出電話"/>
+  <phrase i="354" t="已接來電"/>
+  <phrase i="353" t="未接來電"/>
+  <phrase i="352" t="CM 服務中斷，所有功能已停用"/>
+  <phrase i="351" t="%s 屬於"/>
+  <phrase i="350" t="該按鍵在此處不作用"/>
+  <phrase i="349" t="請求中..."/>
+  <phrase i="348" t="通話統計資料"/>
+  <phrase i="347" t="資訊"/>
+  <phrase i="346" t="選取一個按鍵以取得更多資訊..."/>
+  <phrase i="345" t="按  鍵取消..."/>
+  <phrase i="344" t="已儲存所有欄位"/>
+  <phrase i="343" t="未儲存變更"/>
+  <phrase i="342" t="%d 天， "/>
+  <phrase i="341" t="1 天， "/>
+  <phrase i="340" t="在%s 於"/>
+  <phrase i="339" t="%s 於"/>
+  <phrase i="338" t="昨天"/>
+  <phrase i="337" t="今天"/>
+  <phrase i="336" t="星期六"/>
+  <phrase i="335" t="星期五"/>
+  <phrase i="334" t="星期四"/>
+  <phrase i="333" t="星期三"/>
+  <phrase i="332" t="星期二"/>
+  <phrase i="331" t="星期一"/>
+  <phrase i="330" t="星期日"/>
+  <phrase i="329" t="到 %s"/>
+  <phrase i="328" t="不明號碼"/>
+  <phrase i="327" t="自 %s"/>
+  <phrase i="326" t="轉撥受話 %s"/>
+  <phrase i="325" t="轉撥發話 %s"/>
+  <phrase i="324" t="外線"/>
+  <phrase i="323" t="遠端使用中"/>
+  <phrase i="322" t="%d 個新的未接來電%c"/>
+  <phrase i="321" t="Rx 長封包"/>
+  <phrase i="320" t="Rx 短封包"/>
+  <phrase i="319" t="Rx 廣播"/>
+  <phrase i="318" t="Rx 多點傳送"/>
+  <phrase i="317" t="Rx 無效短封包"/>
+  <phrase i="316" t="Rx 錯誤序文"/>
+  <phrase i="315" t="Rx CRC 錯誤"/>
+  <phrase i="314" t="Rx 框架"/>
+  <phrase i="313" t="Rx 過長/CRC"/>
+  <phrase i="312" t="Rx 緩衝溢出"/>
+  <phrase i="311" t="Tx 延遲中止"/>
+  <phrase i="310" t="Tx 衝突"/>
+  <phrase i="309" t="Tx 多點傳送"/>
+  <phrase i="308" t="Tx 廣播"/>
+  <phrase i="307" t="Tx 框架"/>
+  <phrase i="306" t="Tx 過度衝突"/>
+  <phrase i="305" t="溢位停止"/>
+  <phrase i="304" t="bpdu 中斷"/>
+  <phrase i="289" t="Tx 位元組總數"/>
+  <phrase i="288" t="Tx 多點傳送"/>
+  <phrase i="287" t="Tx 廣播"/>
+  <phrase i="286" t="Tx 過長"/>
+  <phrase i="285" t="Tx fifo欠運行"/>
+  <phrase i="284" t="Tx 衝突"/>
+  <phrase i="283" t="Tx 好封包總數"/>
+  <phrase i="282" t="Tx 延遲衝突"/>
+  <phrase i="281" t="Tx 過度延遲"/>
+  <phrase i="280" t="Rx 記號停止"/>
+  <phrase i="272" t="Rx 長封包錯誤"/>
+  <phrase i="271" t="Rx 好的長封包"/>
+  <phrase i="270" t="Rx 好的短封包"/>
+  <phrase i="269" t="Rx 短封包錯誤"/>
+  <phrase i="268" t="Rx 單點傳送"/>
+  <phrase i="267" t="Rx 廣播"/>
+  <phrase i="266" t="Rx 多點傳送"/>
+  <phrase i="265" t="Rx fcs 錯誤"/>
+  <phrase i="264" t="Rx crc 錯誤"/>
+  <phrase i="263" t="位元組總數"/>
+  <phrase i="262" t="Rx 封包總數"/>
+  <phrase i="261" t="載波活動"/>
+  <phrase i="260" t="RTP 無效"/>
+  <phrase i="259" t="暫停服務"/>
+  <phrase i="258" t="尚未就緒"/>
+  <phrase i="257" t="捨棄"/>
+  <phrase i="255" t="Rcvr 開始時間"/>
+  <phrase i="254" t="Rcvr 位元組"/>
+  <phrase i="253" t="Rcvr 封包"/>
+  <phrase i="252" t="Rcvr 報告時間"/>
+  <phrase i="251" t="Rcvr 報告"/>
+  <phrase i="250" t="Rcvr 工具"/>
+  <phrase i="249" t="Rcvr 抖動"/>
+  <phrase i="248" t="Rcvr 遺失封包"/>
+  <phrase i="247" t="Sender 開始時間"/>
+  <phrase i="246" t="Sender 報告時間"/>
+  <phrase i="245" t="Sender 報告"/>
+  <phrase i="244" t="Sender 工具"/>
+  <phrase i="243" t="Sender 位元組"/>
+  <phrase i="242" t="Sender 封包"/>
+  <phrase i="241" t="名稱"/>
+  <phrase i="240" t="Row 狀態"/>
+  <phrase i="239" t="開始時間"/>
+  <phrase i="238" t="Byes"/>
+  <phrase i="237" t="收話器加入"/>
+  <phrase i="236" t="發話器加入"/>
+  <phrase i="235" t="本機位址"/>
+  <phrase i="234" t="遠端位址 "/>
+  <phrase i="233" t="網域"/>
+  <phrase i="232" t="快速埠"/>
+  <phrase i="231" t="固定 TFTP"/>
+  <phrase i="230" t="已停用 DHCP"/>
+  <phrase i="229" t="閒置 URL 時間"/>
+  <phrase i="228" t="閒置 URL"/>
+  <phrase i="227" t="服務 URL"/>
+  <phrase i="226" t="訊息 URL"/>
+  <phrase i="225" t="目錄 URL"/>
+  <phrase i="224" t="資訊 URL"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="管理 VLAN ID"/>
+  <phrase i="217" t="工作的 VLAN ID"/>
+  <phrase i="216" t="DNS 伺服器 5"/>
+  <phrase i="215" t="DNS 伺服器 4"/>
+  <phrase i="214" t="DNS 伺服器 3"/>
+  <phrase i="213" t="DNS 伺服器 2"/>
+  <phrase i="212" t="DNS 伺服器 1"/>
+  <phrase i="211" t="預設路由器 5"/>
+  <phrase i="210" t="預設路由器 4"/>
+  <phrase i="209" t="預設路由器 3"/>
+  <phrase i="208" t="預設路由器 2"/>
+  <phrase i="207" t="預設路由器 1"/>
+  <phrase i="206" t="TFTP 伺服器 1"/>
+  <phrase i="205" t="子網路遮罩"/>
+  <phrase i="204" t="IP 位址"/>
+  <phrase i="203" t="網域名稱"/>
+  <phrase i="202" t="主機名稱"/>
+  <phrase i="201" t="MAC 位址"/>
+  <phrase i="199" t="拒絕"/>
+  <phrase i="198" t="無線路可用於代接"/>
+  <phrase i="197" t="已限制外線轉接"/>
+  <phrase i="196" t="無頻寬可用於代接"/>
+  <phrase i="195" t="無通話可供代接"/>
+  <phrase i="194" t="駐留位置無法使用"/>
+  <phrase i="193" t="登出搜尋群組"/>
+  <phrase i="192" t="HLog"/>
+  <phrase i="191" t="跨群代接"/>
+  <phrase i="190" t="最大保留期間逾時"/>
+  <phrase i="189" t="最大通話期間逾時"/>
+  <phrase i="188" t="視訊模式"/>
+  <phrase i="187" t="視訊頻寬無法取得"/>
+  <phrase i="186" t="安全性錯誤"/>
+  <phrase i="185" t="未設定號碼"/>
+  <phrase i="184" t="MCID 成功"/>
+  <phrase i="183" t="無法加入通話"/>
+  <phrase i="182" t="無法完成轉接"/>
+  <phrase i="181" t="會議插話"/>
+  <phrase i="180" t="轉移"/>
+  <phrase i="179" t="會議表"/>
+  <phrase i="178" t="選取"/>
+  <phrase i="177" t="直接轉"/>
+  <phrase i="176" t="MCID"/>
+  <phrase i="175" t="QRT"/>
+  <phrase i="174" t="話務繁忙中，請稍後再試"/>
+  <phrase i="173" t="服務未啟用"/>
+  <phrase i="172" t="重接駐留來電"/>
+  <phrase i="171" t="無可用駐留號碼"/>
+  <phrase i="170" t="不相容的裝置類型"/>
+  <phrase i="169" t="已存在另一個插話"/>
+  <phrase i="168" t="無法設定插話"/>
+  <phrase i="167" t="插話"/>
+  <phrase i="166" t="網路壅塞，路徑重設中"/>
+  <phrase i="165" t="回撥"/>
+  <phrase i="164" t="全轉移"/>
+  <phrase i="163" t="勿打擾"/>
+  <phrase i="162" t="進信箱"/>
+  <phrase i="161" t="秘書代接"/>
+  <phrase i="160" t="攔截"/>
+  <phrase i="159" t="重新導向"/>
+  <phrase i="158" t="語音信箱"/>
+  <phrase i="157" t="RmLstC"/>
+  <phrase i="156" t="不明號碼"/>
+  <phrase i="155" t="頻寬不足"/>
+  <phrase i="154" t="私人"/>
+  <phrase i="153" t="駐留號碼"/>
+  <phrase i="152" t="會議"/>
+  <phrase i="151" t="不符錯誤"/>
+  <phrase i="150" t="不明錯誤"/>
+  <phrase i="149" t="超限錯誤"/>
+  <phrase i="148" t="資料庫錯誤"/>
+  <phrase i="147" t="資料庫組態錯誤"/>
+  <phrase i="146" t="無授權錯誤"/>
+  <phrase i="145" t="按鍵無作用"/>
+  <phrase i="144" t="超出人數上限"/>
+  <phrase i="143" t="無參與者資訊"/>
+  <phrase i="142" t="已在會議中"/>
+  <phrase i="141" t="無效會議參與者"/>
+  <phrase i="140" t="無法保留主要控制"/>
+  <phrase i="139" t="無會議橋接器"/>
+  <phrase i="138" t="無法完成會議"/>
+  <phrase i="137" t="轉撥至"/>
+  <phrase i="136" t="您有語音訊息"/>
+  <phrase i="135" t="暫時失敗"/>
+  <phrase i="134" t="僅限主機"/>
+  <phrase i="133" t="來電駐留於"/>
+  <phrase i="132" t="輸入號碼"/>
+  <phrase i="131" t="遠端使用中"/>
+  <phrase i="130" t="通話繼續"/>
+  <phrase i="129" t="來電駐留"/>
+  <phrase i="128" t="來電轉接"/>
+  <phrase i="127" t="插撥"/>
+  <phrase i="126" t="線路使用中"/>
+  <phrase i="125" t="忙線中"/>
+  <phrase i="124" t="已連接"/>
+  <phrase i="123" t="發話者 "/>
+  <phrase i="122" t="響鈴"/>
+  <phrase i="121" t="電話掛上"/>
+  <phrase i="120" t="拿起電話"/>
+  <phrase i="119" t="目前選項"/>
+  <phrase i="118" t="群代接"/>
+  <phrase i="117" t="代接"/>
+  <phrase i="116" t="進會議室"/>
+  <phrase i="115" t="加入"/>
+  <phrase i="114" t="駐留"/>
+  <phrase i="113" t="會議"/>
+  <phrase i="112" t="資訊"/>
+  <phrase i="111" t="接聽"/>
+  <phrase i="110" t="繼續"/>
+  <phrase i="109" t="結束通話"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="來電轉撥未應答"/>
+  <phrase i="106" t="來電轉撥忙線"/>
+  <phrase i="105" t="全轉"/>
+  <phrase i="104" t="轉接"/>
+  <phrase i="103" t="保留"/>
+  <phrase i="102" t="新通話"/>
+  <phrase i="101" t="重撥"/>
+  <phrase i="65" t="無法將通話傳送至行動電話"/>
+  <phrase i="64" t="無法擷取駐留的來電"/>
+  <phrase i="63" t="[即時會議] 無法使用"/>
+  <phrase i="62" t="[會議] 無法使用"/>
+  <phrase i="61" t="[代接] 無法使用"/>
+  <phrase i="60" t="縮撥"/>
+  <phrase i="59" t="超出全轉躍點數"/>
+  <phrase i="58" t="偵測到全轉迴圈"/>
+  <phrase i="57" t="已啟用勿打擾"/>
+  <phrase i="56" t="勿打擾"/>
+  <phrase i="55" t="使用 [線路] 或 [加入] 完成此作業"/>
+  <phrase i="54" t="搜尋群組"/>
+  <phrase i="53" t="品質報告工具"/>
+  <phrase i="52" t="會議清單"/>
+  <phrase i="51" t="結束通話"/>
+  <phrase i="50" t="視訊"/>
+  <phrase i="49" t="其他代接"/>
+  <phrase i="48" t="移除上一位參與者"/>
+  <phrase i="47" t="群組代接"/>
+  <phrase i="46" t="惡意來電 ID"/>
+  <phrase i="45" t="全轉"/>
+  <phrase i="44" t="低語"/>
+  <phrase i="43" t="行動化"/>
+  <phrase i="42" t="非作用中的錄音作業階段"/>
+  <phrase i="41" t="錄音已在進行中"/>
+  <phrase i="40" t="錄音作業正在等候通話開始"/>
+  <phrase i="39" t="監聽中"/>
+  <phrase i="38" t="裝置未獲授權"/>
+  <phrase i="37" t="無資源"/>
+  <phrase i="36" t="設定失敗"/>
+  <phrase i="35" t="保留回復"/>
+  <phrase i="34" t="保留通話"/>
+  <phrase i="33" t="未就緒"/>
+  <phrase i="32" t="就緒"/>
+  <phrase i="31" t="加入搜尋群組"/>
+  <phrase i="30" t="將來電排入佇列"/>
+  <phrase i="29" t="搜尋結果"/>
+  <phrase i="28" t="找不到任何記錄"/>
+  <phrase i="27" t="記錄 1 至"/>
+  <phrase i="26" t="/"/>
+  <phrase i="25" t="請輸入 PIN 碼"/>
+  <phrase i="24" t="PIN 碼錯誤"/>
+  <phrase i="23" t="登入成功"/>
+  <phrase i="22" t="夜間服務已停用"/>
+  <phrase i="21" t="夜間服務已啟用"/>
+  <phrase i="20" t="夜間服務"/>
+  <phrase i="19" t="輸入搜尋條件"/>
+  <phrase i="18" t="本機服務"/>
+  <phrase i="17" t="選取服務"/>
+  <phrase i="16" t="傳輸目的地忙碌中"/>
+  <phrase i="15" t="選取線路"/>
+  <phrase i="14" t="呼叫"/>
+  <phrase i="13" t="請結束"/>
+  <phrase i="12" t="等候返回主位置"/>
+  <phrase i="11" t="超出電話數上限"/>
+  <phrase i="10" t="CM 備援服務運作中"/>
+  <phrase i="9" t="可代接的通話"/>
+  <phrase i="8" t="輸入用戶端事件代碼"/>
+  <phrase i="7" t="輸入授權代碼"/>
+  <phrase i="6" t="漫遊位置的裝置"/>
+  <phrase i="5" t="主位置的裝置"/>
+  <phrase i="4" t="登入"/>
+  <phrase i="3" t="閃爍"/>
+  <phrase i="2" t="帳戶"/>
+</phrases>

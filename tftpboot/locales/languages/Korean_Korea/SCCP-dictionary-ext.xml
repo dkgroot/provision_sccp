@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Korean_Korea_Republic</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="´ç°Ü¹Þ±â¿ëÀ¸·Î »ç¿ëÇÒ ¼ö ÀÖ´Â È¸¼± ¾øÀ½"/>
+	<phrase i="197" t="¿ÜºÎ È£ÀüÈ¯ Á¦ÇÑ"/>
+	<phrase i="196" t="´ç°Ü¹Þ±â¿ëÀ¸·Î »ç¿ëÇÒ ¼ö ÀÖ´Â ±¤´ë¿ª ¾øÀ½"/>
+	<phrase i="195" t="´ç°Ü¹Þ±â¿ëÀ¸·Î »ç¿ëÇÒ ¼ö ÀÖ´Â ÅëÈ­ ¾øÀ½"/>
+	<phrase i="194" t="ÁöÁ¤º¸·ù ½½·Ô »ç¿ëÇÒ ¼ö ¾øÀ½"/>
+    <phrase i="193" t="ÇåÆ® ±×·ì ·Î±×¾Æ¿ô"/>
+	<phrase i="192" t="ÇåÆ®·Î±×"/>
+	<phrase i="191" t="±âÅ¸ÇÈ¾÷"/>
+	<phrase i="190" t="ÃÖ´ë º¸·ù ½Ã°£ ÃÊ°ú"/>
+	<phrase i="189" t="ÃÖ´ë ÅëÈ­ ½Ã°£ ÃÊ°ú"/>
+	<phrase i="188" t="ºñµð¿À"/>
+	<phrase i="187" t="ºñµð¿À ´ë¿ªÆøÀ» »ç¿ëÇÒ ¼ö ¾øÀ½"/>
+	<phrase i="186" t="º¸¾È ¿À·ù"/>
+	<phrase i="185" t="¹øÈ£°¡ ±¸¼ºµÇÁö ¾ÊÀ½"/>
+	<phrase i="184" t="Mcid ¼º°ø"/>
+	<phrase i="183" t="ÅëÈ­¿¡ Âü°¡ÇÒ ¼ö ¾øÀ½"/>
+	<phrase i="182" t="È£ÀüÈ¯À» ¿Ï·áÇÒ ¼ö ¾øÀ½"/>
+	<phrase i="181" t="È¸ÀÇ³¢±â"/>
+	<phrase i="180" t="ÀüÈ¯"/>
+	<phrase i="179" t="È¸ÀÇÀÎ¿ø"/>
+	<phrase i="178" t="¼±ÅÃ"/>
+	<phrase i="177" t="È£¿¬°á"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Æ®·¡ÇÈ ¾çÀÌ ¸¹À½. ³ªÁß¿¡ ´Ù½Ã ½Ãµµ"/>
+	<phrase i="173" t="¼­ºñ½º°¡ È°¼º »óÅÂ°¡ ¾Æ´Ô"/>
+	<phrase i="172" t="ÅëÈ­ ÁöÁ¤º¸·ù º¹±Í"/>
+	<phrase i="171" t="ÁöÁ¤º¸·ù ¹øÈ£¸¦ »ç¿ëÇÒ ¼ö ¾øÀ½"/>
+	<phrase i="170" t="È£È¯µÇÁö ¾Ê´Â ÀåÄ¡ À¯Çü"/>
+	<phrase i="169" t="´Ù¸¥ ³¢¾îµé±â°¡ ÀÖÀ½"/>
+	<phrase i="168" t="Âü¿©¸¦ ¼³Á¤ÇÏÁö ¸øÇÔ"/>
+	<phrase i="167" t="Âü¿©"/>
+	<phrase i="166" t="³×Æ®¿öÅ© È¥Àâ, Àç¶ó¿ìÆÃ"/>
+	<phrase i="165" t="ÄÝ¹é"/>
+	<phrase i="164" t="¸ðµÎ"/>
+	<phrase i="163" t="¹æÇØ»çÀý"/>
+	<phrase i="162" t="ÀüÈ¯VM"/>
+	<phrase i="161" t="°¨½Ã ¼³Á¤"/>
+	<phrase i="160" t="Â÷´Ü"/>
+	<phrase i="159" t="ÀçÀü¼Û"/>
+	<phrase i="158" t="À½¼º¸ÞÀÏ"/>
+	<phrase i="157" t="°ÅºÎ"/>
+	<phrase i="156" t="¾Ë ¼ö ¾ø´Â ¹øÈ£"/>
+	<phrase i="155" t="´ë¿ªÆøÀÌ ÃæºÐÇÏÁö ¾ÊÀ½"/>
+	<phrase i="154" t="Àü¿ë¹øÈ£"/>
+	<phrase i="153" t="ÁöÁ¤º¸·ù ¹øÈ£"/>
+	<phrase i="152" t="ÀüÈ­È¸ÀÇ"/>
+	<phrase i="151" t="¿À·ù: ºÒÀÏÄ¡"/>
+	<phrase i="150" t="¿À·ù: ¾Ë ¼ö ¾øÀ½"/>
+	<phrase i="149" t="¿À·ù: Åë°ú Á¦ÇÑ"/>
+	<phrase i="148" t="¿À·ù: µ¥ÀÌÅÍº£ÀÌ½º"/>
+	<phrase i="147" t="¿À·ù: DB ±¸¼º"/>
+	<phrase i="146" t="¿À·ù: ¶óÀÌ¼¾½º ¾øÀ½"/>
+	<phrase i="145" t="Å°°¡ È°¼º »óÅÂ°¡ ¾Æ´Ô"/>
+	<phrase i="144" t="ÃÖ´ë »ó´ë¹æ ¼ö ÃÊ°ú"/>
+	<phrase i="143" t="Âü°¡ÀÚ Á¤º¸ ¾øÀ½"/>
+	<phrase i="142" t="ÀüÈ­È¸ÀÇ¿¡ ÀÌ¹Ì Âü°¡ ÁßÀÓ"/>
+	<phrase i="141" t="Àß¸øµÈ ÀüÈ­È¸ÀÇ Âü°¡ÀÚ"/>
+	<phrase i="140" t="±âº» Á¦¾î±ÇÀ» °¡Áú ¼ö ¾øÀ½"/>
+	<phrase i="139" t="ÀüÈ­È¸ÀÇ ºê¸®Áö ¾øÀ½"/>
+	<phrase i="138" t="ÀüÈ­È¸ÀÇ¸¦ ¿Ï·áÇÒ ¼ö ¾øÀ½"/>
+	<phrase i="137" t="¼ö½ÅÀÚ:"/>
+	<phrase i="136" t="À½¼º¸ÞÀÏÀÌ µµÂøÇß½À´Ï´Ù."/>
+	<phrase i="135" t="ÀÓ½Ã ½ÇÆÐ"/>
+	<phrase i="134" t="±âº»¸¸"/>
+	<phrase i="133" t="ÅëÈ­ ÁöÁ¤º¸·ù:"/>
+	<phrase i="132" t="¹øÈ£ ÀÔ·Â"/>
+	<phrase i="131" t="¿ø°Ý »ç¿ë Áß"/>
+	<phrase i="130" t="ÅëÈ­ Ã³¸®"/>
+	<phrase i="129" t="ÅëÈ­ ÁöÁ¤º¸·ù"/>
+	<phrase i="128" t="ÅëÈ­ È£ÀüÈ¯"/>
+	<phrase i="127" t="ÅëÈ­ ´ë±â"/>
+	<phrase i="126" t="È¸¼± »ç¿ë Áß"/>
+	<phrase i="125" t="ÅëÈ­ Áß"/>
+	<phrase i="124" t="¿¬°áµÊ"/>
+	<phrase i="123" t="¹ß½Å: "/>
+	<phrase i="122" t="¸µ¾Æ¿ô"/>
+	<phrase i="121" t="¿Â ÈÅ"/>
+	<phrase i="120" t="¿ÀÇÁ ÈÅ"/>
+	<phrase i="119" t="ÇöÀç ¿É¼Ç"/>
+	<phrase i="118" t="±×·ìÇÈ¾÷"/>
+	<phrase i="117" t="´ç°Ü¹Þ±â"/>
+	<phrase i="116" t="È¸ÀÇ°³¼³"/>
+	<phrase i="115" t="ÅëÈ­Âü°¡"/>
+	<phrase i="114" t="ÁöÁ¤º¸·ù"/>
+	<phrase i="113" t="ÀüÈ­È¸ÀÇ"/>
+	<phrase i="112" t="Á¤º¸"/>
+	<phrase i="111" t="ÀüÈ­¹Þ±â"/>
+	<phrase i="110" t="º¸·ùÇØÁ¦"/>
+	<phrase i="109" t="ÅëÈ­Á¾·á"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="¹«ÀÀ´ä"/>
+	<phrase i="106" t="ÅëÈ­ Áß"/>
+	<phrase i="105" t="Âø½ÅÀüÈ¯"/>
+	<phrase i="104" t="µ¹·ÁÁÖ±â"/>
+	<phrase i="103" t="º¸·ù"/>
+	<phrase i="102" t="ÀüÈ­°É±â"/>
+	<phrase i="101" t="Àç´ÙÀÌ¾ó"/>
+	<phrase i="81" t="¿¬°á Áß. ±â´Ù·Á ÁÖ½Ê½Ã¿À."/>
+	<phrase i="80" t="³ìÀ½ ½ÇÆÐ"/>
+	<phrase i="79" t="³ìÀ½ Áß"/>
+	<phrase i="69" t="CW²ô±â"/>
+    	<phrase i="68" t="´ëÈ­¸¦ ÀÌµ¿ÇÒ ¼ö ¾ø½À´Ï´Ù."/>
+	<phrase i="67" t="·¹ÄÚµå"/>
+    <phrase i="65" t="ÈÞ´ëÆù¿¡ ÀüÈ­¸¦ °É ¼ö ¾øÀ½"/>
+    <phrase i="64" t="ÁöÁ¤º¸·ùµÈ ÅëÈ­¸¦ °Ë»öÇÒ ¼ö ¾øÀ½"/>
+    <phrase i="63" t="È¸ÀÇÁ¢¼ÓÀ» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù."/>
+    <phrase i="62" t="ÀüÈ­È¸ÀÇ¸¦ »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù."/>
+    <phrase i="61" t="ÇÈ¾÷À» »ç¿ëÇÒ ¼ö ¾ø½À´Ï´Ù."/>
+    <phrase i="60" t="´ÜÃà ´ÙÀÌ¾ó"/>
+    <phrase i="59" t="Âø½ÅÀüÈ¯ È© ¼ö ÃÊ°úÇÔ"/>
+    <phrase i="58" t="Âø½ÅÀüÈ¯ ·çÇÁ °Ë»öµÊ"/>
+	<phrase i="57" t="¹æÇØ»çÀý ±â´ÉÀÌ È°¼ºÈ­µÊ"/> 
+	<phrase i="56" t="¹æÇØ»çÀý"/> 
+	<phrase i="55" t="È¸¼± ¶Ç´Â Âü°¡¸¦ ¼±ÅÃÇÏ½Ê½Ã¿À."/>
+	<phrase i="54" t="ÇåÆ® ±×·ì"/>
+	<phrase i="53" t="Ç°Áú º¸°í µµ±¸"/>
+	<phrase i="52" t="ÀüÈ­È¸ÀÇ ¸ñ·Ï"/>
+	<phrase i="51" t="ÅëÈ­Á¾·á"/>
+    <phrase i="50" t="ºñµð¿À"/>
+    <phrase i="49" t="´Ù¸¥ ´ç°Ü¹Þ±â"/>
+    <phrase i="48" t="¸¶Áö¸· Âü°¡ÀÚ Á¦°Å"/>
+    <phrase i="47" t="±×·ì ´ç°Ü¹Þ±â"/>
+    <phrase i="46" t="Àå³­ ÀüÈ­ ID"/>
+    <phrase i="45" t="Âø½Å ÀüÈ¯"/>
+	<phrase i="44" t="±Ó¼Ó¸»"/>
+        <phrase i="43" t="ÀÌµ¿¼º"/>
+	<phrase i="42" t="ºñÈ°¼º ³ìÀ½ ¼¼¼Ç"/>
+	<phrase i="41" t="ÀÌ¹Ì ³ìÀ½ ÁøÇà Áß"/>
+	<phrase i="40" t="È°¼ºÈ­ÇÒ ÅëÈ­ ³ìÀ½ ´ë±â Áß"/>
+	<phrase i="39" t="¸ð´ÏÅÍ¸µ"/>
+        <phrase i="38" t="ÀåÄ¡ ÀÎÁõ ¾È µÊ"/>
+	<phrase i="37" t="¸®¼Ò½º ¾øÀ½"/>
+	<phrase i="36" t="¼³Á¤ ½ÇÆÐ"/>
+	<phrase i="35" t="º¸·ù º¹±Í"/> 
+	<phrase i="34" t="ÅëÈ­ º¸·ù"/>
+	<phrase i="33" t="ÁØºñ ¾È µÊ"/>
+	<phrase i="32" t="ÁØºñ"/>
+	<phrase i="31" t="ÇåÆ® ±×·ì¿¡ Âü°¡"/>
+	<phrase i="30" t="´ë±â ÁßÀÎ ÅëÈ­"/>
+	<phrase i="29" t="°Ë»ö °á°ú"/>
+	<phrase i="28" t="¹ß°ßµÈ ·¹ÄÚµå ¾øÀ½"/>
+	<phrase i="27" t="·¹ÄÚµå 1 ~"/>
+	<phrase i="26" t="/"/>
+	<phrase i="25" t="PINÀ» ÀÔ·ÂÇÏ½Ê½Ã¿À."/>
+	<phrase i="24" t="Àß¸øµÈ PIN"/>
+	<phrase i="23" t="·Î±×ÀÎ ¼º°ø"/>
+	<phrase i="22" t="³ªÀÌÆ® ¼­ºñ½º »ç¿ë ¾È ÇÔ"/>
+	<phrase i="21" t="³ªÀÌÆ® ¼­ºñ½º È°¼ºÈ­"/>
+	<phrase i="20" t="³ªÀÌÆ® ¼­ºñ½º"/>
+	<phrase i="19" t="°Ë»ö Á¶°Ç ÀÔ·Â"/>
+	<phrase i="18" t="·ÎÄÃ ¼­ºñ½º"/>
+	<phrase i="17" t="¼­ºñ½º ¼±ÅÃ"/>
+	<phrase i="16" t="È£ÀüÈ¯ ´ë»óÀÌ ÅëÈ­ ÁßÀÔ´Ï´Ù."/>
+	<phrase i="15" t="È¸¼± ¼±ÅÃ"/>
+	<phrase i="14" t="ÆäÀÌÂ¡"/>
+	<phrase i="13" t="ÅëÈ­¸¦ Á¾·áÇÏ½Ê½Ã¿À."/>
+	<phrase i="12" t="È¨À¸·Î µ¹¾Æ°¡±â À§ÇØ ´ë±â Áß"/>
+	<phrase i="11" t="ÃÖ´ë ÀüÈ­ ¼ö¸¦ ÃÊ°úÇÔ"/>
+	<phrase i="10" t="CM Æú¹é ¼­ºñ½º ÀÛµ¿ Áß"/>
+	<phrase i="9" t="´ç°Ü¹Þ±â¿ë ÅëÈ­ »ç¿ë °¡´É"/>
+	<phrase i="8" t="Client Matter Code ÀÔ·Â"/>
+	<phrase i="7" t="Authorization Code ÀÔ·Â"/>
+    <phrase i="6" t="·Î¹Ö À§Ä¡¿¡ ÀÖ´Â ÀåÄ¡"/>
+    <phrase i="5" t="È¨ À§Ä¡¿¡ ÀÖ´Â ÀåÄ¡"/>
+	<phrase i="4" t="·Î±×ÀÎ"/>	
+	<phrase i="3" t="±ô¹ÚÀÓ"/>
+	<phrase i="2" t="°èÁ¤"/>
+</phrases>

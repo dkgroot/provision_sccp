@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Polish_Poland</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Brak linii dostêpnej do przejêcia"/>
+	<phrase i="197" t="Ograniczenie przekazu zewnêtrznego"/>
+	<phrase i="196" t="Brak pasma dostêpnego do przejêcia"/>
+	<phrase i="195" t="Brak po³±czenia dostêpnego do przejêcia"/>
+	<phrase i="194" t="Brak gniazda do parkowania"/>
+    <phrase i="193" t="Wylogowane z grupy poszukiwania"/>
+	<phrase i="192" t="LogowGH"/>
+	<phrase i="191" t="PrzejmI"/>
+	<phrase i="190" t="Up³yn±³ limit czasu zawieszenia"/>
+	<phrase i="189" t="Up³yn±³ limit czasu po³±czenia"/>
+	<phrase i="188" t="TrWideo"/>
+	<phrase i="187" t="Pasmo wideo jest niedostêpne"/>
+	<phrase i="186" t="B³±d zabezpieczeñ"/>
+	<phrase i="185" t="Nie skonfigurowano numeru"/>
+	<phrase i="184" t="Id. po³. z³o¶liw. powiod³a siê"/>
+	<phrase i="183" t="Nie mo¿na z³±czyæ po³±czeñ"/>
+	<phrase i="182" t="Nie mo¿na zakoñczyæ przekazywania"/>
+	<phrase i="181" t="Wtr±æKon"/>
+	<phrase i="180" t="PNatPG³"/>
+	<phrase i="179" t="UczesKon"/>
+	<phrase i="178" t="Wybierz"/>
+	<phrase i="177" t="PrzekBzp"/>
+	<phrase i="176" t="Z³o¶lNum"/>
+	<phrase i="175" t="OcenaJak"/>
+	<phrase i="174" t="Du¿y ruch. Spróbuj pó¼niej."/>
+	<phrase i="173" t="Us³uga nie jest aktywna"/>
+	<phrase i="172" t="Powrót z parkingu"/>
+	<phrase i="171" t="Brak wolnego parkingu"/>
+	<phrase i="170" t="Niezgodny typ urz±dzenia"/>
+	<phrase i="169" t="Istnieje inne wtr±cenie"/>
+	<phrase i="168" t="Nie ustanowiono wtr±cenia"/>
+	<phrase i="167" t="Wtr±æ"/>
+	<phrase i="166" t="Nat³ok w sieci; trasowanie"/>
+	<phrase i="165" t="Oddzwoñ"/>
+	<phrase i="164" t="PrzekAut"/>
+	<phrase i="163" t="NPrzeszk"/>
+	<phrase i="162" t="PrzkPG³"/>
+	<phrase i="161" t="NadzAsys"/>
+	<phrase i="160" t="Przechw"/>
+	<phrase i="159" t="Przekieruj"/>
+	<phrase i="158" t="PocztaG³"/>
+	<phrase i="157" t="UsuñOst"/>
+	<phrase i="156" t="Nieznany numer"/>
+	<phrase i="155" t="Niewystarczaj±ce pasmo"/>
+	<phrase i="154" t="Prywatne"/>
+	<phrase i="153" t="Numer parkingu"/>
+	<phrase i="152" t="Konferencja"/>
+	<phrase i="151" t="B³±d niedopasowania"/>
+	<phrase i="150" t="Nieznany b³±d"/>
+	<phrase i="149" t="B³±d przekroczenia limitu"/>
+	<phrase i="148" t="B³±d bazy danych"/>
+	<phrase i="147" t="B³±d konfiguracji bazy danych"/>
+	<phrase i="146" t="B³±d braku licencji"/>
+	<phrase i="145" t="Klawisz nie jest aktywny"/>
+	<phrase i="144" t="Przekr. maks. liczbê uczest."/>
+	<phrase i="143" t="Brak informacji o uczestniku"/>
+	<phrase i="142" t="Ju¿ jest w konferencji"/>
+	<phrase i="141" t="Nieprawid³owy uczestnik konf."/>
+	<phrase i="140" t="Nie mo¿na zaw. g³. po³. ster."/>
+	<phrase i="139" t="Brak mostka konferencyjnego"/>
+	<phrase i="138" t="Nie mo¿na zak. tworzenia konf."/>
+	<phrase i="137" t="Przekierowane na"/>
+	<phrase i="136" t="Masz wiadomo¶æ w poczcie g³os."/>
+	<phrase i="135" t="Chwilowe niepowodzenie"/>
+	<phrase i="134" t="Tylko g³ówne"/>
+	<phrase i="133" t="Zaparkowane pod nr"/>
+	<phrase i="132" t="Wprowad¼ numer"/>
+	<phrase i="131" t="U¿ywany zdalnie"/>
+	<phrase i="130" t="Przeprowadzanie po³±czenia"/>
+	<phrase i="129" t="Parkowanie po³±czenia"/>
+	<phrase i="128" t="Przekazywanie po³±czenia"/>
+	<phrase i="127" t="Po³±czenie oczekuj±ce"/>
+	<phrase i="126" t="Linia jest wykorzystywana"/>
+	<phrase i="125" t="Zajêty"/>
+	<phrase i="124" t="Po³±czony"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Zestawiam po³±czenie"/>
+	<phrase i="121" t="S³uchawka od³o¿ona"/>
+	<phrase i="120" t="S³uchawka podniesiona"/>
+	<phrase i="119" t="Dostêpne opcje"/>
+	<phrase i="118" t="PrzejmGr"/>
+	<phrase i="117" t="Przejmij"/>
+	<phrase i="116" t="PokKonf"/>
+	<phrase i="115" t="Do³±cz"/>
+	<phrase i="114" t="Parkuj"/>
+	<phrase i="113" t="Konf."/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Odbierz"/>
+	<phrase i="110" t="Wznów"/>
+	<phrase i="109" t="Roz³±cz"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PrzekBOdp"/>
+	<phrase i="106" t="PrzekZaj"/>
+	<phrase i="105" t="PrzekWsz"/>
+	<phrase i="104" t="Przeka¿"/>
+	<phrase i="103" t="Zawie¶"/>
+	<phrase i="102" t="NowePo³"/>
+	<phrase i="101" t="Powtórz"/>
+	<phrase i="81" t="Czekaj. Trwa ³±czenie..."/>
+	<phrase i="80" t="Nagrywanie nie powiod³o siê"/>
+	<phrase i="79" t="Nagrywanie d¼wiêku"/>
+	<phrase i="69" t="Wy³PoOcz"/>
+    	<phrase i="68" t="Nie mo¿na przenie¶æ rozmowy"/>
+	<phrase i="67" t="Rejestrowanie"/>
+    <phrase i="65" t="Nie mo¿na wys³aæ po³±czenia na telefon komórkowy"/>
+    <phrase i="64" t="Nie mo¿na przej±æ zaparkowanego po³±czenia"/>
+    <phrase i="63" t="Po³±czenie MostKnf jest niedostêpne"/>
+    <phrase i="62" t="Konferencja jest niedostêpna"/>
+    <phrase i="61" t="Przejmowanie po³±czeñ jest niedostêpne"/>
+    <phrase i="60" t="SkrWybie"/>
+    <phrase i="59" t="Przekroczono maks. d³ugo¶æ ³añcucha PrzekWsz"/>
+    <phrase i="58" t="Wykryto pêtlê przekazañ PrzekWsz"/>
+	<phrase i="57" t="Funkcja Nie przeszk. jest akt."/> 
+	<phrase i="56" t="Nie przeszkadzaæ"/> 
+	<phrase i="55" t="U¿yj linii lub do³±cz, by zak."/>
+	<phrase i="54" t="Grupa poszukiwania"/>
+	<phrase i="53" t="Raportowanie o jako¶ci"/>
+	<phrase i="52" t="Lista konferencji"/>
+	<phrase i="51" t="Roz³±cz"/>
+    <phrase i="50" t="Wideo"/>
+    <phrase i="49" t="Przejmowanie innych"/>
+    <phrase i="48" t="Usuniêcie ostatniego uczestnika"/>
+    <phrase i="47" t="Grupowe przejêcie po³±czenia"/>
+    <phrase i="46" t="Identyfikator z³o¶liwego po³±czenia"/>
+    <phrase i="45" t="Przeka¿ wszystko"/>
+	<phrase i="44" t="Szept"/>
+        <phrase i="43" t="Mobilno¶æ"/>
+	<phrase i="42" t="Nieaktywna sesja nagrywania"/>
+	<phrase i="41" t="Nagrywanie ju¿ trwa"/>
+	<phrase i="40" t="Nagrywanie oczekuje na uaktywnienie po³±czenia"/>
+	<phrase i="39" t="Monitorowanie"/>
+        <phrase i="38" t="Nieuwierzytelnione urz±dzenie"/>
+	<phrase i="37" t="Brak zasobów"/>
+	<phrase i="36" t="B³±d instalacji"/>
+	<phrase i="35" t="Wstrzymaj powrót"/> 
+	<phrase i="34" t="Po³±czenie zawieszone"/>
+	<phrase i="33" t="Niegotowy"/>
+	<phrase i="32" t="Gotowy"/>
+	<phrase i="31" t="Do³±cz do grupy poszukiwania"/>
+	<phrase i="30" t="Po³±czenia w kolejce"/>
+	<phrase i="29" t="Wyniki wyszukiwania"/>
+	<phrase i="28" t="Nie znaleziono rekordów"/>
+	<phrase i="27" t="Zapisy od 1 do"/>
+	<phrase i="26" t="z"/>
+	<phrase i="25" t="Wprowad¼ kod PIN"/>
+	<phrase i="24" t="Nieprawid³owy kod PIN"/>
+	<phrase i="23" t="Logowanie pomy¶lne"/>
+	<phrase i="22" t="Praca nocna wy³±czona"/>
+	<phrase i="21" t="Praca nocna aktywna"/>
+	<phrase i="20" t="Praca nocna"/>
+	<phrase i="19" t="Wprowad¼ kryteria wyszukiw."/>
+	<phrase i="18" t="Us³ugi lokalne"/>
+	<phrase i="17" t="Wybierz us³ugê"/>
+	<phrase i="16" t="Odbiorca przekazu zajêty"/>
+	<phrase i="15" t="Wybierz liniê"/>
+	<phrase i="14" t="Poszukiwanie"/>
+	<phrase i="13" t="Zakoñcz po³±czenie"/>
+	<phrase i="12" t="Oczekiwanie na powrót"/>
+	<phrase i="11" t="Nadmierna liczba telefonów"/>
+	<phrase i="10" t="Dzia³a us³uga CM Fallback"/>
+	<phrase i="9" t="Po³±czenia oczekuj±ce na odbiór"/>
+	<phrase i="8" t="Wprowad¼ kod tematu klienta"/>
+	<phrase i="7" t="Wprowad¼ kod uwierzytelnienia"/>
+    <phrase i="6" t="Urz±dzenie w zasiêgu roamingu"/>
+    <phrase i="5" t="Urz±dzenie w zasiêgu domowym"/>
+	<phrase i="4" t="Logowanie"/>	
+	<phrase i="3" t="Pamiêæ Flash"/>
+	<phrase i="2" t="Konto"/>
+</phrases>

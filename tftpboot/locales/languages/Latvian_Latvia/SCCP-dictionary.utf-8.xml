@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Latvian_Latvia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Neviena līnija nav pieejama pārtverei"/>
+	<phrase i="197" t="Ārējā pārsūtīšana ierobežota"/>
+	<phrase i="196" t="Neviens joslas platums nav pieejams pārtveršanai"/>
+	<phrase i="195" t="Neviens zvans nav pieejams pārtverei"/>
+	<phrase i="194" t="Novietošanas ligzda nav pieejama"/>
+    <phrase i="193" t="Nav mekl. grupā"/>
+	<phrase i="192" t="mGrupa"/>
+	<phrase i="191" t="Pārtv.+"/>
+	<phrase i="190" t="Maksimālā aizturēšanas laika noildze"/>
+	<phrase i="189" t="Maksimālā zvana laika noildze"/>
+	<phrase i="188" t="VideoR"/>
+	<phrase i="187" t="Videojoslas platums nav pieejams"/>
+	<phrase i="186" t="Drošības kļūda"/>
+	<phrase i="185" t="Numurs nav konfigurēts"/>
+	<phrase i="184" t="MCID veiksmīgs"/>
+	<phrase i="183" t="Nevar pievienot zvanus"/>
+	<phrase i="182" t="Nevar pabeigt pārsūtīšanu"/>
+	<phrase i="181" t="pApspr."/>
+	<phrase i="180" t="iPāradr"/>
+	<phrase i="179" t="Dalībn."/>
+	<phrase i="178" t="Izvēlēt."/>
+	<phrase i="177" t="TPārsūt"/>
+	<phrase i="176" t="Aizdom."/>
+	<phrase i="175" t="Kv.prob."/>
+	<phrase i="174" t="Pārslodze, mēģiniet vēlāk"/>
+	<phrase i="173" t="Pakalpojums nedarbojas"/>
+	<phrase i="172" t="Zvana novietošanas atgriešana"/>
+	<phrase i="171" t="Neviens novietotais numurs nav pieejams"/>
+	<phrase i="170" t="Neatbilstošs ierīces veids"/>
+	<phrase i="169" t="Pastāv cita iejaukšanās"/>
+	<phrase i="168" t="Nevar iestatīt iejaukšanos"/>
+	<phrase i="167" t="Iejaukš."/>
+	<phrase i="166" t="Tīkla pārblīve, pāradresācija"/>
+	<phrase i="165" t="Atzvanīt"/>
+	<phrase i="164" t="Novirz.v"/>
+	<phrase i="163" t="Netrauc."/>
+	<phrase i="162" t="NovirBP"/>
+	<phrase i="161" t="IestSar."/>
+	<phrase i="160" t="Pārtvert"/>
+	<phrase i="159" t="Novirzīt"/>
+	<phrase i="158" t="Balss pasts"/>
+	<phrase i="157" t="Izsl.pēd"/>
+	<phrase i="156" t="Nezināms numurs"/>
+	<phrase i="155" t="Nepietiekams joslas platums"/>
+	<phrase i="154" t="Privāts"/>
+	<phrase i="153" t="Novietotais numurs"/>
+	<phrase i="152" t="Apspriede"/>
+	<phrase i="151" t="Neatbilstības kļūda"/>
+	<phrase i="150" t="Nezināma kļūda"/>
+	<phrase i="149" t="Ierobežojuma kļūda"/>
+	<phrase i="148" t="Datubāzes kļūda"/>
+	<phrase i="147" t="Datubāzes konfig. kļūda"/>
+	<phrase i="146" t="Bez licences kļūda"/>
+	<phrase i="145" t="Atslēga nedarbojas"/>
+	<phrase i="144" t="Pārsniedz maks. pušu skaitu"/>
+	<phrase i="143" t="Nav informācijas par dalībnieku"/>
+	<phrase i="142" t="Jau atrodaties apspriedē"/>
+	<phrase i="141" t="Nederīgs apspriedes dalībnieks"/>
+	<phrase i="140" t="Nevar aizturēt primāro vadību"/>
+	<phrase i="139" t="Nav apspriedes tilta"/>
+	<phrase i="138" t="Nevar pabeigt apspriedes zvanu"/>
+	<phrase i="137" t="Pārsūtīts uz"/>
+	<phrase i="136" t="Jums ir balss pasta ziņojums"/>
+	<phrase i="135" t="Pagaidu datne"/>
+	<phrase i="134" t="Tikai primārais"/>
+	<phrase i="133" t="Zvans novietots"/>
+	<phrase i="132" t="Ievadiet numuru"/>
+	<phrase i="131" t="Attālināta lietošana"/>
+	<phrase i="130" t="Turpināt zvanu"/>
+	<phrase i="129" t="Zvana novietošana"/>
+	<phrase i="128" t="Zvana pārsūtīšana"/>
+	<phrase i="127" t="Zvana gaidīšana"/>
+	<phrase i="126" t="Līnija tiek izmantota"/>
+	<phrase i="125" t="Aizņemts"/>
+	<phrase i="124" t="Savienots"/>
+	<phrase i="123" t="No "/>
+	<phrase i="122" t="Izejošs zvans"/>
+	<phrase i="121" t="Noliktas klausules režīms"/>
+	<phrase i="120" t="Paceltas klausules režīms"/>
+	<phrase i="119" t="Jūsu pašreizējās iespējas"/>
+	<phrase i="118" t="Pārtv.Gr"/>
+	<phrase i="117" t="Pārtv"/>
+	<phrase i="116" t="Satikt."/>
+	<phrase i="115" t="Pievien."/>
+	<phrase i="114" t="Novietot"/>
+	<phrase i="113" t="Apspr"/>
+	<phrase i="112" t="Inform."/>
+	<phrase i="111" t="Atbildēt"/>
+	<phrase i="110" t="Atjaun."/>
+	<phrase i="109" t="BeigtZv"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="Pāradresēt, ja neatbild"/>
+	<phrase i="106" t="CFwdBusy"/>
+	<phrase i="105" t="Pāradr."/>
+	<phrase i="104" t="Pārsūtīt"/>
+	<phrase i="103" t="Aizturēt"/>
+	<phrase i="102" t="JaunsZv"/>
+	<phrase i="101" t="SastVēlr"/>
+	<phrase i="81" t="Notiek savienojuma izveide. Lūdzu, gaidiet"/>
+	<phrase i="80" t="Ierakstīšana neizdevās"/>
+	<phrase i="79" t="Ierakstīšana"/>
+	<phrase i="69" t="CW izslēgts"/>
+    	<phrase i="68" t="Sarunu nevar pārvietot"/>
+	<phrase i="67" t="Ierakstīt"/>
+    <phrase i="65" t="Nevar nosūtīt zvanu uz līdznēsājamo tālruni"/>
+    <phrase i="64" t="Nevar atgūt novietoto zvanu"/>
+    <phrase i="63" t="Iespēja Satikt. nav pieejama"/>
+    <phrase i="62" t="Iespēja Apspriede nav pieejama"/>
+    <phrase i="61" t="Iespēja Pārtvere nav pieejama"/>
+    <phrase i="60" t="SaīsinNr"/>
+    <phrase i="59" t="Pārsniegti pāradr. lēkumi"/>
+    <phrase i="58" t="Noteikts pāradr. cikls"/>
+	<phrase i="57" t="Režīms Netraucēt darbojas"/> 
+	<phrase i="56" t="Netraucēt"/> 
+	<phrase i="55" t="Lai pabeigtu, izmantot Līnija vai Pievienoties"/>
+	<phrase i="54" t="Meklēšanas grupa"/>
+	<phrase i="53" t="Kvalitātes atskaites rīks"/>
+	<phrase i="52" t="Apspriedes saraksts"/>
+	<phrase i="51" t="Beigt zvanu"/>
+    <phrase i="50" t="Videoattēls"/>
+    <phrase i="49" t="Pārtvert citu"/>
+    <phrase i="48" t="Dzēst pēdējo dalībnieku"/>
+    <phrase i="47" t="Grupas pārtveršana"/>
+    <phrase i="46" t="Kļūdains zvana ID"/>
+    <phrase i="45" t="Pāradresēt visus"/>
+	<phrase i="44" t="Čukstus"/>
+        <phrase i="43" t="Mobilitāte"/>
+	<phrase i="42" t="Neaktīva ierakstes sesija"/>
+	<phrase i="41" t="Atskaņo"/>
+	<phrase i="40" t="Atskaņošana gaida zvanu"/>
+	<phrase i="39" t="Pārraudzība"/>
+        <phrase i="38" t="Nepilnvarota ierīce"/>
+	<phrase i="37" t="Nav resursu"/>
+	<phrase i="36" t="Neveiksmīga iestatīšana"/>
+	<phrase i="35" t="Aiztures pārskatīšana"/> 
+	<phrase i="34" t="Zvans aizturēts"/>
+	<phrase i="33" t="Nav gatavs"/>
+	<phrase i="32" t="Gatavs"/>
+	<phrase i="31" t="Pievienoties meklēšanas grupai"/>
+	<phrase i="30" t="Zvans(-i) rindā"/>
+	<phrase i="29" t="Meklēšanas rezultāti"/>
+	<phrase i="28" t="Neviens ieraksts netika atrasts"/>
+	<phrase i="27" t="Ieraksti 1 līdz"/>
+	<phrase i="26" t="no"/>
+	<phrase i="25" t="Lūdzu, ievadiet PIN"/>
+	<phrase i="24" t="Nepareizs PIN"/>
+	<phrase i="23" t="Veiksmīga pieteikšanās"/>
+	<phrase i="22" t="Nakts pakalpojums atspējots"/>
+	<phrase i="21" t="Nakts pakalpojums darbojas"/>
+	<phrase i="20" t="Nakts pakalpojums"/>
+	<phrase i="19" t="Ievadiet meklēšanas kritērijus"/>
+	<phrase i="18" t="Vietējie pakalpojumi"/>
+	<phrase i="17" t="Izvēlēties pakalpojumu"/>
+	<phrase i="16" t="Pārsūtīšanas adresāts aizņemts"/>
+	<phrase i="15" t="Izvēlēties līniju"/>
+	<phrase i="14" t="Lapošana"/>
+	<phrase i="13" t="Lūdzu, beidziet zvanu"/>
+	<phrase i="12" t="Gaida atgriešanos"/>
+	<phrase i="11" t="Maks. tālr. skaits pārsniegts"/>
+	<phrase i="10" t="ZP atkāpšanās pakalp. darbojas"/>
+	<phrase i="9" t="Zvans(i) pieejams(i)  pārtv."/>
+	<phrase i="8" t="Ievadiet klienta satura kodu"/>
+	<phrase i="7" t="Ievadiet pilnvarojuma kodu"/>
+    <phrase i="6" t="Ierīce viesabonēšanas vietā"/>
+    <phrase i="5" t="Ierīce mājas vietā"/>
+	<phrase i="4" t="Pieteikšanās"/>	
+	<phrase i="3" t="Zibatmiņa"/>
+	<phrase i="2" t="Konts"/>
+</phrases>

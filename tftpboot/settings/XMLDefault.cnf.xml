@@ -1,45 +1,68 @@
-<!--
-  Example XMLDefault.cnf.xml file, with all known devices with there loadInformationNumbers and some of the firmware versions filled in.
--->
+<?xml version="1.0" encoding="UTF-8"?>
 <Default>
-  <callManagerGroup>
-  <members>
-    <member priority="0">
-      <callManager>
-        <name>moviebox</name>
-        <ipv6Addr>2001:470:1f15:3ce::466</ipv6Addr>
-        <ports>
-          <ethernetPhonePort>2000</ethernetPhonePort>
-        </ports>
-        <processNodeName>moviebox.talon1.nl</processNodeName>
-      </callManager>
-    </member>
-    <!--<member priority="1">
-      <callManager>
-        <ports>
-          <ethernetPhonePort>2000</ethernetPhonePort>
-        </ports>
-        <processNodeName>192.168.178.3</processNodeName>
-      </callManager>
-    </member>-->
-  </members>
-  </callManagerGroup>
+  <fullConfig>true</fullConfig>
+  <ipAddressMode>2</ipAddressMode>  <!-- dual mode = 2-->
+  <allowAutoConfig>true</allowAutoConfig>
+  <ipPreferenceModeControl>2</ipPreferenceModeControl>
+  
+  <!-- Begin Device Pool -->
+  <devicePool uuid="{1b1b9eb6-7803-11d3-bdf0-00108302ead1}">
+    <revertPriority>0</revertPriority>
+    <dateTimeSetting>
+      <dateTemplate>M/D/YA</dateTemplate>
+      <timeZone>W. Europe Standard/Daylight Time</timeZone>
+      <ntps>
+        <ntp>
+          <name>213.109.127.195</name>
+          <ntpMode>Unicast</ntpMode>
+        </ntp>
+      </ntps>
+    </dateTimeSetting>
+    <callManagerGroup>
+      <members>
+        <member priority="0">
+          <callManager>
+            <name>moviebox</name>
+            <ipv6Addr>2001:470:1f15:3ce::466</ipv6Addr>
+            <ports>
+              <ethernetPhonePort>2000</ethernetPhonePort>
+            </ports>
+            <processNodeName>moviebox.talon1.nl</processNodeName>
+          </callManager>
+        </member>
+        <!--
+        <member priority="1">
+          <callManager>
+            <ports>
+              <ethernetPhonePort>2000</ethernetPhonePort>
+            </ports>
+            <processNodeName>192.168.178.3</processNodeName>
+          </callManager>
+        </member>
+        -->
+      </members>
+    </callManagerGroup>
+    <connectionMonitorDuration>60</connectionMonitorDuration>
+  </devicePool>
+  <!-- End Device Pool -->
+  
+  <!-- Begin Firmware Load Information for all known SCCP Device Types -->
   <loadInformation00005 model="Cisco IP Phone 7961">SCCP41.8-3-3S</loadInformation00005>
   <loadInformation00006 model="Cisco IP Phone 7910">SCCP11.9-0-2SR1S</loadInformation00006>
-  <loadInformation00007 model="Cisco IP Phone 7960">P00308010200</loadInformation00007>
-  <loadInformation00008 model="Cisco IP Phone 7940">P00308010200</loadInformation00008>
+  <loadInformation00007 model="Cisco IP Phone 7960">P0030801SR02</loadInformation00007>
+  <loadInformation00008 model="Cisco IP Phone 7940">P0030801SR02</loadInformation00008>
   <loadInformation00009 model="Cisco IP Conf  7935">P00503021900</loadInformation00009>
   <loadInformation00115 model="Cisco IP Phone 7941">SCCP41.9-3-1SR1-1S</loadInformation00115>
   <loadInformation00119 model="Cisco IP Phone 7971">SCCP70.9-3-1-1S</loadInformation00119>
   <loadInformation00302 model="Cisco IP Phone 7985">cmterm_7985.4-1-7-0</loadInformation00302>
-  <loadInformation00307 model="Cisco IP Phone 7911">SCCP11.9-1-1SR1S</loadInformation00307>
+  <loadInformation00307 model="Cisco IP Phone 7911">SCCP11.9-2-1S</loadInformation00307>
   <loadInformation00308 model="Cisco IP Phone 7961GE">SCCP41.9-3-1SR1-1S</loadInformation00308>
   <loadInformation00309 model="Cisco IP Phone 7941GE">SCCP41.9-3-1SR1-1S</loadInformation00309>
   <loadInformation00348 model="Cisco IP Phone 7931">SCCP31.8-3-3S</loadInformation00348>
   <loadInformation00365 model="Cisco IP Phone 7921">CP7921G-1.4.3.4</loadInformation00365>
   <loadInformation00484 model="Cisco IP Phone 7925">CP7925G-1.4.1SR1</loadInformation00484>
   <loadInformation00577 model="Cisco IP Phone 7926">CP7926G-1.4.1SR1</loadInformation00577>
-  <loadInformation00369 model="Cisco IP Phone 7906">SCCP11.9-1-1SR1S</loadInformation00369>
+  <loadInformation00369 model="Cisco IP Phone 7906">SCCP11.9-2-1S</loadInformation00369>
   <loadInformation00404 model="Cisco IP Phone 7962">SCCP42.9-4-2SR1-1S</loadInformation00404>
   <loadInformation00431 model="Cisco IP Conf  7937">apps37sccp.1-4-5-7</loadInformation00431>
   <loadInformation00434 model="Cisco IP Phone 7942">SCCP42.9-3-1-1S</loadInformation00434>
@@ -83,11 +106,131 @@
   <loadInformation00229 model="Cisco IP Phone 7916 12-Button Line Expansion Module">B016-1-0-4</loadInformation00229>
   <loadInformation00230 model="Cisco IP Phone 7916 24-Button Line Expansion Module">B016-1-0-4</loadInformation00230>
 
+  <!-- End Load Information -->
+
+  <commonProfile>
+    <phonePassword>1234</phonePassword>
+    <backgroundImageAccess>true</backgroundImageAccess>
+    <callLogBlfEnabled>3</callLogBlfEnabled>
+  </commonProfile>
+
+  <vendorConfig>
+    <logServer>192.168.178.3</logServer>
+    <syslogServer>192.168.178.3</syslogServer>
+    <debugServer>192.168.178.3</debugServer>
+    <debugLevel>3</debugLevel>
+    <disableSpeaker>false</disableSpeaker>
+    <disableSpeakerAndHeadset>false</disableSpeakerAndHeadset>
+    <forwardingDelay>1</forwardingDelay>
+    <pcPort>0</pcPort>
+    <settingsAccess>1</settingsAccess>
+    <garp>0</garp>
+    <voiceVlanAccess>0</voiceVlanAccess>
+    <spanToPCPort>0</spanToPCPort>
+    <videoCapability>0</videoCapability>
+    <autoSelectLineEnable>0</autoSelectLineEnable>
+    <webAccess>0</webAccess>
+    <daysDisplayNotActive>1,7</daysDisplayNotActive>
+    <displayOnTime>08:30</displayOnTime>
+    <displayOnDuration>11:30</displayOnDuration>
+    <displayIdleTimeout>01:00</displayIdleTimeout>
+    <displayOnWhenIncomingCall>1</displayOnWhenIncomingCall>
+    <loggingDisplay>0</loggingDisplay>
+    <loadServer/>
+    <autoCallSelect>0</autoCallSelect>
+    <g722CodecSupport>2</g722CodecSupport>
+    <headsetWidebandUIControl>0</headsetWidebandUIControl>
+    <handsetWidebandUIControl>0</handsetWidebandUIControl>
+    <headsetWidebandEnable>0</headsetWidebandEnable>
+    <handsetWidebandEnable>0</handsetWidebandEnable>
+    <peerFirmwareSharing>1</peerFirmwareSharing>
+    <enableCdpSwPort>1</enableCdpSwPort>
+    <enableCdpPcPort>1</enableCdpPcPort>
+    <enableLldpSwPort>1</enableLldpSwPort>
+    <enableLldpPcPort>1</enableLldpPcPort>
+    <lldpAssetId>Cisco Phone</lldpAssetId>
+    <powerPriority>1</powerPriority>
+    <sshAccess>0</sshAccess>
+    <sshPort>22</sshPort>
+    <ipv6LoadServer>2a00:1158:3::185</ipv6LoadServer>
+    <ipv6LogServer>2a00:1158:3::185</ipv6LogServer>
+    <detectCMConnectionFailure>0</detectCMConnectionFailure>
+    <useEnblocDialing>1</useEnblocDialing>
+  </vendorConfig>
+  
+  <!-- Begin Locale Information -->
+  <userLocale> 
+    <name>English_United_States</name>
+    <uid>39</uid>
+    <langCode>en_US</langCode>
+    <version>10.5(2.9902)US</version>
+    <winCharSet>utf-8</winCharSet>
+  </userLocale> 
+  <networkLocale>United_States</networkLocale> 
+  <networkLocaleInfo>
+    <name>United_States</name>
+    <uid>64</uid>
+    <version>10.5(1)</version>
+  </networkLocaleInfo>
+  <!-- End Locale Information -->
+  
+  <sshUserId>cisco</sshUserId>
+  <sshPassword>cisco</sshPassword>
+  <stutterMsgWaiting>2</stutterMsgWaiting>
+  <silentPeriodBetweenCallWaitingBursts>10</silentPeriodBetweenCallWaitingBursts>
+  <ringSettingBusyStationPolicy>0</ringSettingBusyStationPolicy>
+  <deviceSecurityMode>1</deviceSecurityMode>
+  <idleTimeout>3600</idleTimeout>
+  <dscpForSCCPPhoneConfig>96</dscpForSCCPPhoneConfig>
+  <dscpForSCCPPhoneServices>0</dscpForSCCPPhoneServices>
+  <dscpForCm2Dvce>184</dscpForCm2Dvce>
+  <dndCallAlert>5</dndCallAlert>
+  <dndReminderTimer>60</dndReminderTimer>
+  <phonePersonalization>1</phonePersonalization>
+  <rollover>0</rollover>
+  <singleButtonBarge>1</singleButtonBarge>
+  <joinAcrossLines>1</joinAcrossLines>
+  <autoCallPickupEnable>false</autoCallPickupEnable>
+  <useEnblocDialing>1</useEnblocDialing>
+  <blfAudibleAlertSettingOfIdleStation>1</blfAudibleAlertSettingOfIdleStation>
+  <blfAudibleAlertSettingOfBusyStation>1</blfAudibleAlertSettingOfBusyStation>
+  <transportLayerProtocol>4</transportLayerProtocol>
+
+  <capfAuthMode>0</capfAuthMode>
+  <capfList>
+    <capf>
+      <phonePort>3804</phonePort>
+      <processNodeName></processNodeName>
+    </capf>
+    <capf6>
+      <phonePort>3804</phonePort>
+      <processNodeName></processNodeName>
+    </capf6>
+  </capfList>
+
+  <mobility>
+        <handoffdn></handoffdn>
+        <dtmfdn></dtmfdn>
+        <ivrdn></ivrdn>
+        <dtmfHoldCode>*81</dtmfHoldCode>
+        <dtmfExclusiveHoldCode>*82</dtmfExclusiveHoldCode>
+        <dtmfResumeCode>*83</dtmfResumeCode>
+        <dtmfTxfCode>*84</dtmfTxfCode>
+        <dtmfCnfCode>*85</dtmfCnfCode>
+  </mobility>
+
+  <certHash/>
+  <encrConfig>false</encrConfig>
+  <advertiseG722Codec>1</advertiseG722Codec>
+  <userId>9999</userId>
+  
+  <!-- Begin URL's -->
   <idleURL>http://192.168.178.3/idle.php</idleURL> 
   <authenticationURL>http://192.168.178.3/authenticate.php</authenticationURL>
   <informationURL>http://192.168.178.3/cisco_menu/help/help.php</informationURL>
   <messagesURL/>
   <proxyServerURL/>
-  <servicesURL>http://192.168.178.3/cisco_menu/menu.php</servicesURL>
+  <servicesURL>http://192.168.178.3/tests.xml</servicesURL>
   <directoryURL>http://192.168.178.3/cisco_menu/directory/menu.php</directoryURL>
+  <!-- End URL's -->
 </Default>

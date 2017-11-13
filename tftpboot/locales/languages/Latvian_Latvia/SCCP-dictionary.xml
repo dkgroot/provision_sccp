@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Latvian_Latvia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Neviena lînija nav pieejama pârtverðanai"/>
+	<phrase i="197" t="Ârçjâ pârsûtîðana ierobeþota"/>
+	<phrase i="196" t="Neviens joslas platums nav pieejams pârtverðanai"/>
+	<phrase i="195" t="Neviens zvans nav pieejams pârtverei"/>
+	<phrase i="194" t="Novietoðanas ligzda nav pieejama"/>
+	<phrase i="193" t="Nav mekl. grupâ"/>
+	<phrase i="192" t="mGrupa"/>
+	<phrase i="191" t="Pârtv.+"/>
+	<phrase i="190" t="Maksimâlâ aizturçðanas laika noildze"/>
+	<phrase i="189" t="Maksimâlâ zvana laika noildze"/>
+	<phrase i="188" t="VideoR"/>
+	<phrase i="187" t="Videojoslas platums nav pieejams"/>
+	<phrase i="186" t="Droðîbas kïûda"/>
+	<phrase i="185" t="Numurs nav konfigurçts"/>
+	<phrase i="184" t="MCID veiksmîgs"/>
+	<phrase i="183" t="Nevar pievienot zvanus"/>
+	<phrase i="182" t="Nevar pabeigt pârsûtîðanu"/>
+	<phrase i="181" t="pApspr."/>
+	<phrase i="180" t="iPâradr"/>
+	<phrase i="179" t="Dalîbn."/>
+	<phrase i="178" t="Izvçlçt."/>
+	<phrase i="177" t="TPârsût"/>
+	<phrase i="176" t="Aizdom."/>
+	<phrase i="175" t="Kv.prob."/>
+	<phrase i="174" t="Pârslodze, mçìiniet vçlâk"/>
+	<phrase i="173" t="Pakalpojums nedarbojas"/>
+	<phrase i="172" t="Zvana novietoðanas atgrieðana"/>
+	<phrase i="171" t="Neviens novietotais numurs nav pieejams"/>
+	<phrase i="170" t="Neatbilstoðs ierîces veids"/>
+	<phrase i="169" t="Pastâv cita iejaukðanâs"/>
+	<phrase i="168" t="Nevar iestatît iejaukðanos"/>
+	<phrase i="167" t="Iejaukðanâs"/>
+	<phrase i="166" t="Tîkla pârblîve, pâradresâcija"/>
+	<phrase i="165" t="Atzvanît"/>
+	<phrase i="164" t="Novirz.v"/>
+	<phrase i="163" t="Netraucçt"/>
+	<phrase i="162" t="NovirBP"/>
+	<phrase i="161" t="IestSar."/>
+	<phrase i="160" t="Pârtvert"/>
+	<phrase i="159" t="Novirzît"/>
+	<phrase i="158" t="Balss pasts"/>
+	<phrase i="157" t="Izsl.pçd"/>
+	<phrase i="156" t="Nezinâms numurs"/>
+	<phrase i="155" t="Nepietiekams joslas platums"/>
+	<phrase i="154" t="Privâts"/>
+	<phrase i="153" t="Novietotais numurs"/>
+	<phrase i="152" t="Apspriede"/>
+	<phrase i="151" t="Neatbilstîbas kïûda"/>
+	<phrase i="150" t="Nezinâma kïûda"/>
+	<phrase i="149" t="Ierobeþojuma kïûda"/>
+	<phrase i="148" t="Datubâzes kïûda"/>
+	<phrase i="147" t="Datubâzes konfig. kïûda"/>
+	<phrase i="146" t="Bez licences kïûda"/>
+	<phrase i="145" t="Atslçga nedarbojas"/>
+	<phrase i="144" t="Pârsniedz maks. puðu skaitu"/>
+	<phrase i="143" t="Nav informâcijas par dalîbnieku"/>
+	<phrase i="142" t="Jau atrodaties apspriedç"/>
+	<phrase i="141" t="Nederîgs apspriedes dalîbnieks"/>
+	<phrase i="140" t="Nevar aizturçt primâro vadîbu"/>
+	<phrase i="139" t="Nav apspriedes tilta"/>
+	<phrase i="138" t="Nevar pabeigt apspriedes zvanu"/>
+	<phrase i="137" t="Pârsûtîts uz"/>
+	<phrase i="136" t="Jums ir balss pasta ziòojums"/>
+	<phrase i="135" t="Pagaidu datne"/>
+	<phrase i="134" t="Tikai primârais"/>
+	<phrase i="133" t="Zvans novietots"/>
+	<phrase i="132" t="Ievadiet numuru"/>
+	<phrase i="131" t="Attâlinâta lietoðana"/>
+	<phrase i="130" t="Turpinât zvanu"/>
+	<phrase i="129" t="Zvana novietoðana"/>
+	<phrase i="128" t="Zvana pârsûtîðana"/>
+	<phrase i="127" t="Zvana gaidîðana"/>
+	<phrase i="126" t="Lînija tiek izmantota"/>
+	<phrase i="125" t="Aizòemts"/>
+	<phrase i="124" t="Savienots"/>
+	<phrase i="123" t="No "/>
+	<phrase i="122" t="Izejoðs zvans"/>
+	<phrase i="121" t="Noliktas klausules reþîms"/>
+	<phrase i="120" t="Paceltas klausules reþîms"/>
+	<phrase i="119" t="Jûsu paðreizçjâs iespçjas"/>
+	<phrase i="118" t="Pârtv.Gr"/>
+	<phrase i="117" t="Pârtvert"/>
+	<phrase i="116" t="Satikt."/>
+	<phrase i="115" t="Pievien."/>
+	<phrase i="114" t="Novietot"/>
+	<phrase i="113" t="Apspriede"/>
+	<phrase i="112" t="Inform."/>
+	<phrase i="111" t="Atbildçt"/>
+	<phrase i="110" t="Atjaun."/>
+	<phrase i="109" t="Beigt zvanu"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="Pâradresçt, ja neatbild"/>
+	<phrase i="106" t="Pâradresçt, ja aizòemts"/>
+	<phrase i="105" t="Pâradr."/>
+	<phrase i="104" t="Pârsûtît"/>
+	<phrase i="103" t="Aizturçt"/>
+	<phrase i="102" t="JaunsZv"/>
+	<phrase i="101" t="SastVçlr"/>
+</phrases>

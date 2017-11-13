@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>German_Germany</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Keine Leitung für Anrufübernahme verfügbar"/>
+	<phrase i="197" t="Externer Transfer eingeschränkt"/>
+	<phrase i="196" t="Keine Bandbreite für Übernahme verfügbar"/>
+	<phrase i="195" t="Kein Anruf für Übernahme verfügbar"/>
+	<phrase i="194" t="Park-Slot nicht verfügbar"/>
+    <phrase i="193" t="Aus Sammelanschluss abgemeldet"/>
+	<phrase i="192" t="HLog"/>
+	<phrase i="191" t="APickUp"/>
+	<phrase i="190" t="Zeitlimit f. Haltedauer"/>
+	<phrase i="189" t="Zeitlimit für Anrufdauer"/>
+	<phrase i="188" t="Videom."/>
+	<phrase i="187" t="Videobandbreite nicht verfügb."/>
+	<phrase i="186" t="Sicherheitsfehler"/>
+	<phrase i="185" t="Nummer nicht konfiguriert"/>
+	<phrase i="184" t="Fangschaltung aktiviert"/>
+	<phrase i="183" t="Anrufzusammenführung nicht möglich"/>
+	<phrase i="182" t="Übergabe nicht möglich"/>
+	<phrase i="181" t="KAufsch."/>
+	<phrase i="180" t="SofUml."/>
+	<phrase i="179" t="KonfList"/>
+	<phrase i="178" t="Auswahl"/>
+	<phrase i="177" t="DirÜbg."/>
+	<phrase i="176" t="FangSch."/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Hohes Anrufaufk., später vers."/>
+	<phrase i="173" t="Dienst ist nicht aktiv."/>
+	<phrase i="172" t="&apos;Anr.Park&apos; zurücksetzen"/>
+	<phrase i="171" t="Keine Parknummer verfügbar"/>
+	<phrase i="170" t="Gerätetyp inkompatibel"/>
+	<phrase i="169" t="Andere Aufschaltung vorh."/>
+	<phrase i="168" t="Aufschaltung nicht möglich"/>
+	<phrase i="167" t="Aufsch."/>
+	<phrase i="166" t="Netz ausgelastet,Umleitung"/>
+	<phrase i="165" t="Rückruf"/>
+	<phrase i="164" t="AlleUml."/>
+	<phrase i="163" t="N. stör."/>
+	<phrase i="162" t="ÜbgVM"/>
+	<phrase i="161" t="Überw."/>
+	<phrase i="160" t="Abfang."/>
+	<phrase i="159" t="Umlenken"/>
+	<phrase i="158" t="Voicemail"/>
+	<phrase i="157" t="RufLös."/>
+	<phrase i="156" t="Unbekannte Nummer"/>
+	<phrase i="155" t="Nicht genügend Bandbreite"/>
+	<phrase i="154" t="Privat"/>
+	<phrase i="153" t="Parknummer"/>
+	<phrase i="152" t="Konferenz"/>
+	<phrase i="151" t="Fehler: Keine Übereinstimmung"/>
+	<phrase i="150" t="Fehler: Unbekannt"/>
+	<phrase i="149" t="Fehler: Grenzüberschreitung"/>
+	<phrase i="148" t="Fehler: Datenbank"/>
+	<phrase i="147" t="Fehler: Datenbankkonfig."/>
+	<phrase i="146" t="Fehler: Keine Lizenz"/>
+	<phrase i="145" t="Taste ist nicht aktiv"/>
+	<phrase i="144" t="Max. Teilnehmerzahl überschr."/>
+	<phrase i="143" t="Keine Teilnehmerinformationen"/>
+	<phrase i="142" t="Bereits in Konferenz"/>
+	<phrase i="141" t="Ungültiger Konferenzteilnehmer"/>
+	<phrase i="140" t="Kann Primärstrg. nicht halten"/>
+	<phrase i="139" t="Keine Konferenzbrücke"/>
+	<phrase i="138" t="Konferenzerstellung n. möglich"/>
+	<phrase i="137" t="Rufumleitung an"/>
+	<phrase i="136" t="Sie haben Voicemail"/>
+	<phrase i="135" t="Vorübergehender Fehler"/>
+	<phrase i="134" t="Nur primär"/>
+	<phrase i="133" t="Anruf geparkt"/>
+	<phrase i="132" t="Nummer eingeben"/>
+	<phrase i="131" t="Remote genutzt"/>
+	<phrase i="130" t="Anruf weiterführen"/>
+	<phrase i="129" t="Anruf parken"/>
+	<phrase i="128" t="Anruf übergeben"/>
+	<phrase i="127" t="Anklopfen"/>
+	<phrase i="126" t="Leitung besetzt"/>
+	<phrase i="125" t="Besetzt"/>
+	<phrase i="124" t="Verbunden"/>
+	<phrase i="123" t="von "/>
+	<phrase i="122" t="Telefon verbindet"/>
+	<phrase i="121" t="Aufgelegt"/>
+	<phrase i="120" t="Abgehoben"/>
+	<phrase i="119" t="Ihre aktuellen Optionen"/>
+	<phrase i="118" t="GrÜbern."/>
+	<phrase i="117" t="Übernah."/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Zusf."/>
+	<phrase i="114" t="Parken"/>
+	<phrase i="113" t="Konfer."/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Annehm."/>
+	<phrase i="110" t="Forts."/>
+	<phrase i="109" t="Auflegen"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="Rufwei."/>
+	<phrase i="106" t="RufumB"/>
+	<phrase i="105" t="Rufuml."/>
+	<phrase i="104" t="Übergabe"/>
+	<phrase i="103" t="Halten"/>
+	<phrase i="102" t="Anruf"/>
+	<phrase i="101" t="Wahlw."/>
+	<phrase i="81" t="Verbindung wird hergestellt, bitte warten"/>
+	<phrase i="80" t="Aufzeichnung fehlgeschlagen"/>
+	<phrase i="79" t="Aufzeichnung"/>
+	<phrase i="69" t="Ankl. aus"/>
+    	<phrase i="68" t="Konversation kann nicht verschoben werden"/>
+	<phrase i="67" t="Aufnahme"/>
+    <phrase i="65" t="Anruf konnte nicht an Mobiltelefon gesendet werden"/>
+    <phrase i="64" t="Geparkter Anruf konnte nicht abgerufen werden"/>
+    <phrase i="63" t="MeetMe ist nicht verfügbar"/>
+    <phrase i="62" t="Konferenz ist nicht verfügbar"/>
+    <phrase i="61" t="Übernahme ist nicht verfügbar"/>
+    <phrase i="60" t="KWCodes"/>
+    <phrase i="59" t="Rufuml. - Hops überschritten"/>
+    <phrase i="58" t="Rufuml. - Schleife erkannt"/>
+	<phrase i="57" t="Rufton ist aus"/> 
+	<phrase i="56" t="Rufton ein/aus"/> 
+	<phrase i="55" t="Abschließen mit &apos;Leitung&apos; oder &apos;Zusf.&apos;"/>
+	<phrase i="54" t="Sammelanschlussgruppe"/>
+	<phrase i="53" t="Quality Reporting Tool"/>
+	<phrase i="52" t="Konferenzliste"/>
+	<phrase i="51" t="Auflegen"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Andere übernehmen"/>
+    <phrase i="48" t="Letzten Teilnehmer entfernen"/>
+    <phrase i="47" t="Gruppenübernahme"/>
+    <phrase i="46" t="Bösw. Anruf - ID"/>
+    <phrase i="45" t="Rufuml."/>
+	<phrase i="44" t="Flüstern"/>
+        <phrase i="43" t="Mobilität"/>
+	<phrase i="42" t="Aufzeichnungssitzung inaktiv"/>
+	<phrase i="41" t="Aufzeichnung in Bearbeitung"/>
+	<phrase i="40" t="Aufz. wartet, bis Anruf aktiv"/>
+	<phrase i="39" t="Überwachung läuft"/>
+        <phrase i="38" t="Gerät nicht autorisiert"/>
+	<phrase i="37" t="Keine Ressourcen"/>
+	<phrase i="36" t="Setup fehlgeschlagen"/>
+	<phrase i="35" t="Halten zurücksetzen"/> 
+	<phrase i="34" t="Anruf wird gehalten"/>
+	<phrase i="33" t="Nicht bereit"/>
+	<phrase i="32" t="Bereit"/>
+	<phrase i="31" t="Zu Sammelanschlussgruppe zusammenführen"/>
+	<phrase i="30" t="Anruf(e) in Warteschlange"/>
+	<phrase i="29" t="Suchergebnisse"/>
+	<phrase i="28" t="Kein Datensatz gefunden"/>
+	<phrase i="27" t="Datensätze 1 bis"/>
+	<phrase i="26" t="von"/>
+	<phrase i="25" t="PIN eingeben"/>
+	<phrase i="24" t="Falsche PIN"/>
+	<phrase i="23" t="Anmeldung erfolgreich"/>
+	<phrase i="22" t="Nachtschaltung deaktiviert"/>
+	<phrase i="21" t="Nachtschaltung aktiv"/>
+	<phrase i="20" t="Nachtschaltung"/>
+	<phrase i="19" t="Suchkriterien eingeben"/>
+	<phrase i="18" t="Lokale Dienste"/>
+	<phrase i="17" t="Dienst auswählen"/>
+	<phrase i="16" t="Das Übergabeziel ist besetzt"/>
+	<phrase i="15" t="Leitung auswählen"/>
+	<phrase i="14" t="Paging"/>
+	<phrase i="13" t="Bitte Anruf beenden"/>
+	<phrase i="12" t="Auf Neuregistrierung warten"/>
+	<phrase i="11" t="Max. Telefonanzahl überschritten"/>
+	<phrase i="10" t="CM Fallback-Dienst aktiv"/>
+	<phrase i="9" t="Anruf(e) für Übernahme verfügbar"/>
+	<phrase i="8" t="Client-Matter-Code eingeben"/>
+	<phrase i="7" t="Autorisierungscode eingeben"/>
+    <phrase i="6" t="Gerät an Roaming-Standort"/>
+    <phrase i="5" t="Gerät an Privatstandort"/>
+	<phrase i="4" t="Anmelden"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="PKZ"/>
+</phrases>

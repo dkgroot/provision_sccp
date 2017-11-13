@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Turkish_Turkey</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.2.release/1</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<phrase i="760" t="Daha Düþük"/>
+<phrase i="759" t="Daha Yüksek"/>
+<phrase i="758" t="Eþit"/>
+<phrase i="757" t="Geri Döndürme Odaðý Önceliði"/>
+<phrase i="756" t="Saat Dilimi"/>
+<phrase i="755" t="Tarih"/>
+<phrase i="754" t="Saat"/>
+<phrase i="753" t="DSP Yükleme Kimliði"/>
+<phrase i="752" t="Yok"/>
+<phrase i="751" t="MOS LQK sürümü"/>
+<phrase i="750" t="Arama Ýstatistiklerini Görüntüle"/>
+<phrase i="749" t="Kesin Gizleme Saniye"/>
+<phrase i="748" t="Gizleme Saniye"/>
+<phrase i="747" t="Maks Gizleme Oraný"/>
+<phrase i="746" t="Gizleme Aralýðý Oraný"/>
+<phrase i="745" t="Toplam Gizleme Oraný"/>
+<phrase i="744" t="Maksimum MOS LQK"/>
+<phrase i="743" t="Minimum MOS LQK"/>
+<phrase i="742" t="Ortalama MOS LQK"/>
+<phrase i="741" t="MOS LQK"/>
+<phrase i="740" t="Güvenlik Yapýlandýrmasý"/><!-- This phrase is for the Sec Config Menu title -->
+<phrase i="739" t="Dize Girin"/>
+<phrase i="738" t="Baðlantý Ýzleme Süresi"/>
+<phrase i="737" t="Sertifika Güncelleþtiriliyor..."/>
+<phrase i="736" t="DSPPoll Görevi"/>
+<phrase i="735" t="Beklemeyi Sýfýrla..."/>
+<phrase i="734" t="Bekliyor"/>
+<phrase i="733" t="TLS Görevi"/>
+<phrase i="732" t="Güven Listesini Görüntüle"/>
+<phrase i="731" t="CTL Dosyasýný Görüntüle"/>
+<phrase i="730" t="CallManager / TFTP"/>
+<phrase i="729" t="CallManager"/>
+<phrase i="728" t="Güven Listesi"/>
+<phrase i="727" t="CTL Dosyasý"/>
+<phrase i="726" t="TFTP CTL Ýçinde Deðil"/>
+<phrase i="725" t="Durdur"/>
+<phrase i="724" t="Kilitle"/>
+<phrase i="723" t="Kilidi Aç"/>
+<phrase i="722" t="Web Eriþimi"/>
+<phrase i="721" t="Yüklü Deðil"/>
+<phrase i="720" t="Yüklü"/>
+<phrase i="719" t="Devre Dýþý"/>
+<phrase i="718" t="Etkin"/>
+<phrase i="717" t="Güvenlik Ayarý Seç..."/>
+<phrase i="716" t="Güvenlik Yapýlandýrmasý"/><!-- This is the menu item on the Settings menu -->
+<phrase i="715" t="Kullanýlamaz"/><!-- This phrase is used with Network statistics port status -->
+<phrase i="714" t="Ýþlem iptal edildi"/>
+<phrase i="713" t="TFTP&apos;nin Yetkisi Yok: %s"/>
+<phrase i="712" t="Sil"/>
+<phrase i="711" t="Þifreli"/>
+<phrase i="710" t="Kimlik Doðrulandý"/>
+<phrase i="709" t="Güvenli Deðil"/>
+<phrase i="708" t="TLS hatasý "/>
+<phrase i="707" t="Web Eriþimi Etkin"/>
+<phrase i="706" t="Güvenlik Modu"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="705" t="Ýþleniyor..."/>
+<phrase i="704" t="Geçersiz giriþ"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="703" t="Anahtar oluþturma baþarýsýz"/>
+<phrase i="702" t="Baðlantý baþarýsýz"/>
+<phrase i="701" t="Baþarýsýz"/>
+<phrase i="700" t="Zaman Aþýmý"/>
+<phrase i="699" t="Baþarýlý"/>
+<phrase i="698" t="Kimlik Doðrulama Ýsteði..."/><!-- Changed by Skate - may need retranslation -->
+<phrase i="697" t="Baðlanýyor..."/>
+<phrase i="696" t="CAPF sunucusunu yeniden dene..."/>
+<phrase i="695" t="Anahtarlar oluþturuluyor..."/>
+<phrase i="694" t="Ýþlemi Ýptal Et"/>
+<phrase i="693" t="Sertifikayý Güncelleþtir"/>
+<phrase i="692" t="Kimlik Doðrulama Dizesi"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="691" t="Sertifikalar"/>
+<phrase i="690" t="Hizmetler Ýçin DSCP"/>
+<phrase i="689" t="Yapýlandýrma Ýçin DSCP"/>
+<phrase i="688" t="Arama Denetimi Ýçin DSCP"/>
+<phrase i="687" t="Dosya Yetkilendirme Baþarýsýz"/>
+<phrase i="686" t="CAST Görevi"/>
+<phrase i="685" t="Video Özelliði Etkin"/>
+<phrase i="684" t="Otomatik Hat Seçme Etkin"/>
+<phrase i="683" t="Sesli VLAN Etkin"/>
+<phrase i="682" t="GARP Etkin"/>
+<phrase i="681" t="Komþu Baðlantý Noktasý"/>
+<phrase i="680" t="Komþu IP Adresi"/>
+<phrase i="679" t="Komþu Aygýt Kimliði"/>
+<phrase i="678" t="%s Bazýnda"/>
+<phrase i="677" t="Ýletildi"/>
+<phrase i="676" t="KsltAra"/>
+<phrase i="675" t="Hizmet URL Durumu Ýsteniyor"/>
+<phrase i="674" t="Özellik Ana. Durumu Ýsteniyor"/>
+<phrase i="673" t="a"/>
+<phrase i="672" t="p"/>
+<phrase i="671" t="%d Yeni Cevapsýz Arama"/><!-- %c will be replaced with &apos;s&apos;, it can be eliminated in translations. The singular form of this phrase is 322.  The %d will be replaced with the number of missed calls -->
+<phrase i="670" t="Varsayýlan Zil Sesi"/>
+<phrase i="669" t="Hat Seç..."/>
+<phrase i="668" t="Numarayý Düzenle"/>
+<phrase i="667" t="Telefon Durdurdu"/>
+<phrase i="666" t="Að Yerel Ayar Sürümü"/>
+<phrase i="665" t="Kullanýcý Yerel Ayar Sürümü"/>
+<phrase i="664" t="TFTP Ýsteði Ýptal Edildi"/>
+<phrase i="663" t="Dhcp Devre Dýþý"/>
+<phrase i="662" t="Ip Adresi Gerekli"/>
+<phrase i="661" t="Durum "/>
+<phrase i="660" t="Varsayýlan"/>
+<phrase i="659" t="Mesaj Bekliyor"/>
+<phrase i="658" t="Yalnýzca Ahize Modu"/>
+<phrase i="657" t="Model Numarasý"/>
+<phrase i="656" t="Model Bilgilerini Görüntüle"/>
+<phrase i="655" t="Model Bilgileri"/>
+<phrase i="654" t="Baðlantý Durumu "/>
+<phrase i="653" t="Font Pointer Last"/>
+<phrase i="652" t="Font Pointer"/>
+<phrase i="651" t="Uygulamayý Çalýþtýr"/>
+<phrase i="650" t="Font Download Last"/>
+<phrase i="649" t="Font Download"/>
+<phrase i="648" t="Yazý Tipi Tablosu Bilgileri"/>
+<phrase i="647" t="Segment Download Last"/>
+<phrase i="646" t="Segment Download"/>
+<phrase i="645" t="Kesim Güncelleþtirme"/>
+<phrase i="644" t="Donaným Bilgileri"/>
+<phrase i="643" t="Sürüm TFTP"/>
+<phrase i="642" t="Sürüm Bilgileri"/>
+<phrase i="641" t="Boþta"/>
+<phrase i="640" t="Desteklenmiyor"/>
+<phrase i="639" t="Yerel Ayarý Güncelleþtirirken Hata"/>
+<phrase i="638" t="%d drm ynt %s öð.den bekleniyor"/>
+<phrase i="637" t="%s Öðesinden %s Bekleniyor"/>
+<phrase i="636" t="BOOTP Sunucusu"/>
+<phrase i="635" t="DHCP Sunucusu"/>
+<phrase i="634" t="3V Amp"/>
+<phrase i="633" t="5V Amp"/>
+<phrase i="632" t="ADCodec"/>
+<phrase i="631" t="ADLCodec"/>
+<phrase i="630" t="C3PO Düzeltmesi"/>
+<phrase i="629" t="Amp"/>
+<phrase i="628" t="Codec"/>
+<phrase i="627" t="Seri Numarasý"/>
+<phrase i="626" t="Donaným Düzeltmesi"/>
+<phrase i="625" t="Boot Yükleme Kimliði"/>
+<phrase i="624" t="Uyg. Yükleme Kimliði"/>
+<phrase i="623" t="Telefon DN"/>
+<phrase i="622" t="SYS Modu"/>
+<phrase i="621" t="FIQ Modu"/>
+<phrase i="620" t="IRQ Modu"/>
+<phrase i="619" t="SVC Modu"/>
+<phrase i="618" t="Tanýmlanmamýþ Mod"/>
+<phrase i="617" t="Denetleme Görevi"/>
+<phrase i="616" t="SNMP Görevi"/>
+<phrase i="615" t="Görüntüleme Görevi"/>
+<phrase i="614" t="Yapýlandýrma Görevi"/>
+<phrase i="613" t="RTP Görevi"/>
+<phrase i="612" t="Telefon Görevi"/>
+<phrase i="611" t="Yuva Görevi"/>
+<phrase i="610" t="diðer"/>
+<phrase i="609" t="Seç"/>
+<phrase i="608" t="Çýk"/>
+<phrase i="607" t="Azalt"/><!-- This phrase is used with "Down" softkey to decrease contrast -->
+<phrase i="606" t="Artýr"/>
+<phrase i="605" t="Ýptal"/>
+<phrase i="604" t="Düzenle"/>
+<phrase i="603" t="Hayýr"/>
+<phrase i="602" t="Evet"/>
+<phrase i="601" t="Oynat"/>
+<phrase i="600" t="Çevir"/>
+<phrase i="599" t="NumDüz"/>
+<phrase i="598" t="Kaydet"/>
+<phrase i="597" t="Geri Yükle"/>
+<phrase i="596" t="Sil"/>
+<phrase i="595" t="Fabrika"/>
+<phrase i="594" t="Tamam"/>
+<phrase i="593" t="Doðrula"/>
+<phrase i="592" t="Ara"/>
+<phrase i="591" t="Ýleri"/>
+<phrase i="590" t="Güncelle"/>
+<phrase i="589" t="Temizle"/>
+<phrase i="588" t="Gönder"/>
+<phrase i="587" t="Ton"/>
+<phrase i="586" t="Að Yerel Ayarý"/>
+<phrase i="585" t="Kullanýcý Yerel Ayarý"/>
+<phrase i="584" t="Kate Dosyasý"/>
+<phrase i="583" t="Ton Dosyasý"/>
+<phrase i="582" t="Zil Meþgul!"/>
+<phrase i="581" t="TFTP Sunucusu 2"/>
+<phrase i="580" t="Gen. Modülü 2 Kontrastý"/>
+<phrase i="579" t="Gen. Modülü 1 Kontrastý"/>
+<phrase i="578" t="SW Anahtar Baðlantý Noktasý Yapýlandýrmasý"/>
+<phrase i="577" t="PC Baðlantý Noktasý Yapýlandýrmasý"/>
+<phrase i="576" t="PC Baðlantýsý Devre Dýþý"/>
+<phrase i="575" t="Hata"/>
+<phrase i="574" t="Geçersiz Deðiþken"/>
+<phrase i="573" t="Telefon Baz Ünitesi"/>
+<phrase i="572" t="Geniþletme Modülleri"/>
+<phrase i="571" t="KONTRAST MENÜSÜ"/>
+<phrase i="570" t="Ayarlamak için Kontrast Seç"/>
+<phrase i="569" t="Sesli Posta"/>
+<phrase i="568" t="MESAJLAR"/>
+<phrase i="567" t="Geniþletme Modülü Ýstatistiklerini Görüntüle"/>
+<phrase i="566" t="Geniþletme Modülü Ýstatistikleri"/>
+<phrase i="565" t="B TX Buffer Full"/>
+<phrase i="564" t="B RX Checksum Err"/>
+<phrase i="563" t="B RX Length Err"/>
+<phrase i="562" t="B RX Discarded Bytes"/>
+<phrase i="561" t="A TX Buffer Full"/>
+<phrase i="560" t="A TX Buffer Full"/>
+<phrase i="559" t="A RX Invalid Message"/>
+<phrase i="558" t="A RX Checksum Err"/>
+<phrase i="557" t="A RX Length Err"/>
+<phrase i="556" t="A RX Discarded Bytes"/>
+<phrase i="555" t="CM-ICMP-Ulaþýlamaz"/>
+<phrase i="554" t="Arama Seç..."/>
+<phrase i="553" t="Proxy Sunucu URL&apos;si"/>
+<phrase i="552" t="Kimlik Doðrulama URL&apos;si"/>
+<phrase i="551" t="Otomatik Çevir Ýptal Edildi!"/>
+<phrase i="550" t="Sidecar Görevi"/>
+<phrase i="549" t="Geniþletme Modülü 2"/>
+<phrase i="548" t="Geniþletme Modülü 1"/>
+<phrase i="547" t="HTTP Dosyasý Hatasý"/>
+<phrase i="546" t="XML Hatasý [4]: Ayrýþtýrma Hatasý"/>
+<phrase i="545" t="Dosya Oluþturma Hatasý"/>
+<phrase i="544" t="Son="/>
+<phrase i="543" t="Reddedilen Donaným Bileþenini Yükle"/>
+<phrase i="542" t="Telefon Kaydý Reddedildi"/>
+<phrase i="541" t="Sýfýrla-Yeniden Baþlat"/>
+<phrase i="540" t="Sýfýrla-Sýfýrla"/>
+<phrase i="539" t="Telefon-Yeniden-IP"/>
+<phrase i="538" t="Telefon-Tuþ Takýmý"/>
+<phrase i="537" t="Telefon-Tanýlama"/>
+<phrase i="536" t="Yeniden Çalýþma"/>
+<phrase i="535" t="KeepaliveTO"/>
+<phrase i="534" t="CM-NAKed"/>
+<phrase i="533" t="CM-TCP&apos;yi-durdurdu"/>
+<phrase i="532" t="CM-TCP&apos;yi-sýfýrladý"/>
+<phrase i="531" t="TCP-Hatalý-Onay"/>
+<phrase i="530" t="Yapýland. Bilgi. Doðru. Hatasý"/>
+<phrase i="529" t="Baðlantý Noktasý Bilgileri"/>
+<phrase i="528" t="Ethernet Bilgileri"/>
+<phrase i="527" t="%s Çok Büyük"/>
+<phrase i="526" t="Kaynak "/>
+<phrase i="525" t="Girdi Yok"/>
+<phrase i="524" t="Kullanýcý Kim. ve Parola Girin"/>
+<phrase i="523" t="Parola"/>
+<phrase i="522" t="Kullanýcý Adý"/>
+<phrase i="521" t="Hizmet Seç..."/>
+<phrase i="520" t="Geçerli Aramayý Al..."/>
+<phrase i="519" t="TFTP Boyut Hatasý"/>
+<phrase i="518" t="Tümcecik Dosyasý"/>
+<phrase i="517" t="Simge Dosyasý"/>
+<phrase i="516" t="%s Kullanýlamaz"/>
+<phrase i="515" t="Hatalý %s"/>
+<phrase i="514" t="Günlük %d"/>
+<phrase i="513" t="Eriþim"/>
+<phrase i="512" t="375000"/>
+<phrase i="511" t="Telefon"/>
+<phrase i="510" t="Að"/>
+<phrase i="509" t="Akýþ %d"/>
+<phrase i="508" t="Akýþ Ýstatistikleri"/>
+<phrase i="507" t="Aygýt Günlükleri"/>
+<phrase i="506" t="Baðlantý Noktasý %d"/>
+<phrase i="505" t="Ethernet"/>
+<phrase i="504" t="Aygýt Bilgileri"/>
+<phrase i="503" t="Ýletme Gecikmesi"/>
+<phrase i="502" t="Yapýlandýrmayý Sil"/>
+<phrase i="501" t="Alternatif TFTP"/>
+<phrase i="500" t="DHCP Adresi Serbest Býrakýldý"/>
+<phrase i="499" t="DHCP Etkin"/>
+<phrase i="498" t="Yayýn"/>
+<phrase i="497" t="Alma Hatasý"/>
+<phrase i="496" t="Aktarýlan"/>
+<phrase i="495" t="Alýnan"/>
+<phrase i="494" t="Sürüm"/>
+<phrase i="493" t="Geri"/>
+<phrase i="492" t=" AÇIK"/>
+<phrase i="491" t=" EVET"/>
+<phrase i="490" t=" KAPALI"/>
+<phrase i="489" t=" HAYIR"/>
+<phrase i="488" t="RTP gecikmesi"/>
+<phrase i="487" t="TFTP Hatasý"/>
+<phrase i="486" t="TFTP Eriþim Hatasý"/>
+<phrase i="485" t="Dosya Bulunamadý"/>
+<phrase i="484" t="Son=0x%02X"/>
+<phrase i="483" t="CM-TCP&apos;yi-kapattý"/>
+<phrase i="482" t="TCP-zaman aþýmý"/>
+<phrase i="481" t="Baþlatýldý"/>
+<phrase i="480" t="Ad=%15s"/>
+<phrase i="479" t="Yazýlým Güncelleþtiriliyor"/>
+<phrase i="478" t="ROM Saðlama Toplamý Hatasý"/>
+<phrase i="477" t=" Yükle="/>
+<phrase i="476" t="Mikrofon Sessiz Kapalý"/>
+<phrase i="475" t="Mikrofon Sessiz Açýk"/>
+<phrase i="474" t="Yinelenen IP Adresi"/>
+<phrase i="473" t="IP Adresi Serbest Býrakýldý"/>
+<phrase i="472" t="Sýfýrlanýyor"/>
+<phrase i="471" t="Sunucu Listesi Ýsteniyor"/>
+<phrase i="470" t="Hýz Durumu Ýsteniyor"/>
+<phrase i="469" t="Hat Durumu Ýsteniyor"/>
+<phrase i="468" t="Yazýlým Tuþu Kümesi Ýsteniyor"/>
+<phrase i="467" t="Yazýlým Tuþu Þablonu Ýsteniyor"/>
+<phrase i="466" t="Þablon Ýsteniyor"/>
+<phrase i="465" t="DSP Önyükleniyor"/>
+<phrase i="464" t="Yükleme Doðrulanýyor"/>
+<phrase i="463" t="Kayýt Reddedildi"/>
+<phrase i="462" t="Kaydediliyor"/>
+<phrase i="461" t="Açýlýyor "/>
+<phrase i="460" t="CM Listesi Yapýlandýrýlýyor"/>
+<phrase i="459" t="IP Yapýlandýrýlýyor"/>
+<phrase i="458" t="VLAN Yapýlandýrýlýyor"/>
+<phrase i="457" t="%d / %d"/>
+<phrase i="456" t="Üretim Bilgileri Geçersiz"/>
+<phrase i="455" t="XML Hatasý [%d]!"/>
+<phrase i="454" t="HTTP Hatasý [%d]!"/>
+<phrase i="453" t="Ana Bilgisayar Bulunamadý"/>
+<phrase i="452" t="HTTP Ýsteði Ýptal Edildi"/>
+<phrase i="451" t="Yeniden Yönlendiriliyor..."/>
+<phrase i="450" t="Yetkilendirme Gerekli!"/>
+<phrase i="449" t="Yarým"/>
+<phrase i="448" t="Tam"/>
+<phrase i="447" t="Geçen Süre"/>
+<phrase i="446" t="Sýkýþtýrma Türü Hatasý"/>
+<phrase i="445" t="TCP Hata Kodu"/>
+<phrase i="444" t="Sürüm Hatasý"/>
+<phrase i="443" t="Disk Dolu Hatasý"/>
+<phrase i="442" t="CFG TFTP Boyut Hatasý"/>
+<phrase i="441" t="DSP Gecikti"/>
+<phrase i="440" t="Temizlendi"/>
+<phrase i="439" t="DSP Canlý Tutma Zaman Aþýmý"/>
+<phrase i="438" t="DSP Hatasý"/>
+<phrase i="437" t="Geçersiz VLAN"/>
+<phrase i="436" t="Geçersiz IP Adresi"/>
+<phrase i="435" t="Geçersiz Alt Að maskesi"/>
+<phrase i="434" t=" Kullanýlamaz"/>
+<phrase i="433" t=" Bekleme"/>
+<phrase i="432" t=" Etkin"/>
+<phrase i="431" t="Kullanýlan BOOTP Sunucusu"/>
+<phrase i="430" t="Programlama Hatasý"/>
+<phrase i="429" t="Yinelenen IP"/>
+<phrase i="428" t="Varsayýlan Að Geçidi Yok"/>
+<phrase i="427" t="Cnf Dosyasý Kullanýlabilir"/>
+<phrase i="426" t="Saðlama Toplamý Hatasý"/>
+<phrase i="425" t="Yükleme Kimliði Yanlýþ"/>
+<phrase i="424" t="DNS Sunucusu IP&apos;si Yok"/>
+<phrase i="423" t="DNS Zaman Aþýmý"/>
+<phrase i="422" t="DNS Bilinmeyen Ana Bilgisayar"/>
+<phrase i="421" t="TFTP Genel Hata"/>
+<phrase i="420" t="CFG Dosyasý Bulunamadý"/>
+<phrase i="419" t="TFTP Zaman Aþýmý"/>
+<phrase i="418" t="DHCP Zaman Aþýmý"/>
+<phrase i="417" t="Yönlendirici Gerekli"/>
+<phrase i="416" t="Yönlendirici Alt Aðda Deðil"/>
+<phrase i="415" t="TFTP Sunucusu Gerekli"/>
+<phrase i="414" t="Geçersiz Bilgi"/>
+<phrase i="413" t="Yayýn Gizleme KAPALI"/>
+<phrase i="412" t="Yayýn Gizleme AÇIK"/>
+<phrase i="411" t="Yardýmcý kart algýlanmadý."/>
+<phrase i="410" t="Ahize Ses Düzeyi kaydedildi!"/>
+<phrase i="409" t="Kulaklýk Ses Düzeyi kaydedildi!"/>
+<phrase i="408" t="Hoparlör Ses Düzeyi kaydedildi!"/>
+<phrase i="407" t="Deðiþiklikler kaydedilmedi!"/>
+<phrase i="406" t="Ses Düzeyi Ayarlamalarý Kaydedilsin mi?"/>
+<phrase i="405" t="Giriþ Verilerini Girin..."/>
+<phrase i="404" t="Hizmetler Kullanýlamaz"/>
+<phrase i="403" t="HÝZMETLER"/>
+<phrase i="402" t="Donaným Bilgilerini Görüntüle"/>
+<phrase i="401" t="Donaným Bilgileri"/>
+<phrase i="400" t="Yýðýn Bilgilerini Görüntüle"/>
+<phrase i="399" t="Yýðýn Ýzleme"/>
+<phrase i="398" t="Hata Ayýklama Bilgilerini Görüntüle"/>
+<phrase i="397" t="Hata Ayýklama Ekraný"/>
+<phrase i="396" t="Üretici Yzlm Sürüml. Görüntüle"/>
+<phrase i="395" t="Üretici Yazýlýmý Sürümleri"/>
+<phrase i="394" t="Að Ýstatistiklerini Görüntüle"/>
+<phrase i="393" t="Að Ýstatistikleri"/>
+<phrase i="392" t="Durum Mesajlarýný Görüntüle"/>
+<phrase i="391" t="Girdi Doðrulandý"/>
+<phrase i="390" t="Yeni %s:"/>
+<phrase i="389" t="Geçerli %s:"/>
+<phrase i="388" t="%s Öðesini Düzenle"/>
+<phrase i="387" t="Ayarlarýn Durumu"/>
+<phrase i="386" t="Durum Öðesi Seç..."/>
+<phrase i="385" t="Yýðýn Ýstatistikleri"/>
+<phrase i="384" t="Durum Mesajlarý"/>
+<phrase i="383" t="Að Ayarý Seç..."/>
+<phrase i="382" t="Zil Listesi Kullanýlamaz!"/>
+<phrase i="381" t="Hatalý Zil Listesi Dosyasý!"/>
+<phrase i="380" t="Zil Dosyasý Kullanýlamaz!"/>
+<phrase i="379" t="Zil Dosyasý Ýsteniyor ..."/>
+<phrase i="378" t="Zil Tipi"/>
+<phrase i="377" t="Zil Seç..."/>
+<phrase i="376" t="Zil Listesi Ýsteniyor..."/>
+<phrase i="375" t="Cývýltý 2"/>
+<phrase i="374" t="Cývýltý 1"/>
+<phrase i="373" t="Deðiþiklik Kabul Edildi ve Kaydedildi"/>
+<phrase i="372" t="Kontrastý Deðiþtir..."/>
+<phrase i="371" t="Tüm Deðiþiklikler Kaydedildi"/>
+<phrase i="370" t="Fabrika Ayarlarý Geri Yüklendi "/>
+<phrase i="369" t="Kaydedilen Ayarlar Geri Yüklendi"/>
+<phrase i="368" t="Ayar Seç..."/>
+<phrase i="367" t="AYARLAR"/>
+<phrase i="366" t="Durum"/>
+<phrase i="365" t="Að Yapýlandýrmasý"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="363" t="Arama Ölçütlerini Ýyileþtir..."/>
+<phrase i="362" t="Kayýt Yok"/>
+<phrase i="361" t="%d Kayýt"/>
+<phrase i="360" t="%s Arama"/>
+<phrase i="359" t="Arama Geçmiþi Temizlendi!"/>
+<phrase i="358" t="Dizin Seç..."/>
+<phrase i="357" t="Geçersiz Dizin URL&apos;si!..."/>
+<phrase i="356" t="DÝZÝN"/>
+<phrase i="355" t="Giden Aramalar"/>
+<phrase i="354" t="Gelen Aramalar"/>
+<phrase i="353" t="Cevapsýz Aramalar"/>
+<phrase i="352" t="CM kapalý, özellikler devre dýþý"/>
+<phrase i="351" t="%s:"/>
+<phrase i="350" t="Bu tuþ burada etkin deðil"/>
+<phrase i="349" t="Ýsteniyor..."/>
+<phrase i="348" t="Arama Ýstatistikleri"/>
+<phrase i="347" t="BÝLGÝLER"/>
+<phrase i="346" t="Ek Bilgi için bir Tuþ seçin..."/>
+<!-- There is a special symbol for help icon in the following phrase - Please don't delete it  -->
+<phrase i="345" t="Ýptal etmek için  tuþuna basýn..."/>
+<phrase i="344" t="Tüm Alanlar Kaydedildi"/>
+<phrase i="343" t="Deðiþiklikler Kaydedilmedi"/>
+<phrase i="342" t="%d gün, "/>
+<phrase i="341" t="1 gün, "/>
+<phrase i="340" t="%s günü"/>
+<phrase i="339" t="%s günü"/>
+<phrase i="338" t="Dün"/>
+<phrase i="337" t="Bugün"/>
+<phrase i="336" t="Cumartesi"/>
+<phrase i="335" t="Cuma"/>
+<phrase i="334" t="Perþembe"/>
+<phrase i="333" t="Çarþamba"/>
+<phrase i="332" t="Salý"/>
+<phrase i="331" t="Pazartesi"/>
+<phrase i="330" t="Pazar"/>
+<phrase i="329" t="Hedef: %s"/>
+<phrase i="328" t="Bilinmeyen Numara"/>
+<phrase i="327" t="Kaynak: %s"/>
+<phrase i="326" t="Için: %s"/>
+<!-- Note to translator:  Please abbreviate the following phrase (325) as concisely as
+     possible.  It is used for call forwarding scenarios, and the %s gets replaced with
+     a caller ID.  It is important to make as much space available for the caller ID
+     information as possible. -->
+<phrase i="325" t="Ýlet: %s"/>
+<phrase i="324" t="Harici Arama"/>
+<phrase i="323" t="Uzaktan Kullanýmda"/>
+<phrase i="322" t="%d Yeni Cevapsýz Arama"/><!-- %c will be replaced with &apos; &apos;, it was retained for backwards compatibility.  This phrase is the singular form and the %d will be replaced with a &apos;1&apos;.  The plural form of this phrase is 671 -->
+<phrase i="321" t="Rx Longs"/>
+<phrase i="320" t="Rx Shorts"/>
+<phrase i="319" t="Rx Broadcasts"/>
+<phrase i="318" t="Rx Multicasts"/>
+<phrase i="317" t="Rx Runt"/>
+<phrase i="316" t="Rx Bad Preamble"/>
+<phrase i="315" t="Rx CRC Errors"/>
+<phrase i="314" t="Rx Frames"/>
+<phrase i="313" t="Rx Long/CRC"/>
+<phrase i="312" t="Rx Overruns"/>
+<phrase i="311" t="Tx Deferred Abort"/>
+<phrase i="310" t="Tx Collisions"/>
+<phrase i="309" t="Tx Multicasts"/>
+<phrase i="308" t="Tx Broadcasts"/>
+<phrase i="307" t="Tx Frames"/>
+<phrase i="306" t="Tx Excessive Collisions"/>
+<phrase i="305" t="overflow Drop"/>
+<phrase i="304" t="bpdu Drop"/>
+<phrase i="303" t="cos 7 Drop"/>
+<phrase i="302" t="cos 6 Drop"/>
+<phrase i="301" t="cos 5 Drop"/>
+<phrase i="300" t="cos 4 Drop"/>
+<phrase i="299" t="cos 3 Drop"/>
+<phrase i="298" t="cos 2 Drop"/>
+<phrase i="297" t="cos 1 Drop"/>
+<phrase i="296" t="cos 0 Drop"/>
+<phrase i="295" t="Tx size1024to1518"/>
+<phrase i="294" t="Tx size512to1023"/>
+<phrase i="293" t="Tx size256to511"/>
+<phrase i="292" t="Tx size128to255"/>
+<phrase i="291" t="Tx size65to127"/>
+<phrase i="290" t="Tx size64"/>
+<phrase i="289" t="Tx totalOct"/>
+<phrase i="288" t="Tx multicast"/>
+<phrase i="287" t="Tx broadcast"/>
+<phrase i="286" t="Tx excessLength"/>
+<phrase i="285" t="Tx fifoUnderrun"/>
+<phrase i="284" t="Tx collisions"/>
+<phrase i="283" t="Tx totalGoodPkt"/>
+<phrase i="282" t="Tx lateCollision"/>
+<phrase i="281" t="Tx excessDefer"/>
+<phrase i="280" t="Rx tokenDrop"/>
+<phrase i="279" t="Rx size1519to1548"/>
+<phrase i="278" t="Rx size1024to1518"/>
+<phrase i="277" t="Rx size512to1023"/>
+<phrase i="276" t="Rx size256to511"/>
+<phrase i="275" t="Rx size128to255"/>
+<phrase i="274" t="Rx size65to127"/>
+<phrase i="273" t="Rx size64"/>
+<phrase i="272" t="Rx longErr"/>
+<phrase i="271" t="Rx longGood"/>
+<phrase i="270" t="Rx shortGood"/>
+<phrase i="269" t="Rx shortErr"/>
+<phrase i="268" t="Rx unicast"/>
+<phrase i="267" t="Rx broadcast"/>
+<phrase i="266" t="Rx multicast"/>
+<phrase i="265" t="Rx alignErr"/>
+<phrase i="264" t="Rx crcErr"/>
+<phrase i="263" t="Toplam Sekizli"/>
+<phrase i="262" t="Rx totalPkt"/>
+<phrase i="261" t="Taþýyýcý Olaylarý"/>
+<phrase i="260" t="RTP Geçersiz"/>
+<phrase i="259" t="Hizmet Dýþý"/>
+<phrase i="258" t="Hazýr Deðil"/>
+<phrase i="257" t="Yok Et"/>
+<phrase i="256" t="376000"/>
+<phrase i="255" t="Alýcý Baþlangýç Zamaný"/>
+<phrase i="254" t="Alýcý Sekizlikleri"/>
+<phrase i="253" t="Alýcý Paketleri"/>
+<phrase i="252" t="Alýcý Rapor Zamaný"/>
+<phrase i="251" t="Alýcý Raporlarý"/>
+<phrase i="250" t="Alýcý Aracý"/>
+<phrase i="249" t="Alýcý Titremesi"/>
+<phrase i="248" t="Alýcý Kaybolan Paketleri"/>
+<phrase i="247" t="Gönderen Baþlangýç Zamaný"/>
+<phrase i="246" t="Gönderen Rapor Zamaný"/>
+<phrase i="245" t="Gönderen Raporlarý"/>
+<phrase i="244" t="Gönderen Aracý"/>
+<phrase i="243" t="Gönderen Sekizlikleri"/>
+<phrase i="242" t="Gönderen Paketleri"/>
+<phrase i="241" t="Adý"/>
+<phrase i="240" t="Satýr Durumu"/>
+<phrase i="239" t="Baþlangýç Zamaný"/>
+<phrase i="238" t="Çýkýþlar"/>
+<phrase i="237" t="Alýcý Birleþtirmeleri"/>
+<phrase i="236" t="Gönderen Birleþtirmeleri"/>
+<phrase i="235" t="Yerel Adres"/>
+<phrase i="234" t="Uzak Adres "/>
+<phrase i="233" t="Etki Alaný"/>
+<phrase i="232" t="Port Fast"/>
+<phrase i="231" t="Sabit TFTP"/>
+<phrase i="230" t="DHCP Devre Dýþý"/>
+<phrase i="229" t="Boþ URL Süresi"/>
+<phrase i="228" t="Boþ URL"/>
+<phrase i="227" t="Hizmetler URL&apos;si"/>
+<phrase i="226" t="Mesajlar URL&apos;si"/>
+<phrase i="225" t="Dizinler URL&apos;si"/>
+<phrase i="224" t="Bilgi URL&apos;si"/>
+<phrase i="223" t="CallManager 5"/>
+<phrase i="222" t="CallManager 4"/>
+<phrase i="221" t="CallManager 3"/>
+<phrase i="220" t="CallManager 2"/>
+<phrase i="219" t="CallManager 1"/>
+<phrase i="218" t="Yönetici VLAN Kimliði"/>
+<phrase i="217" t="Ýþlemsel VLAN Kimliði"/>
+<phrase i="216" t="DNS Sunucusu 5"/>
+<phrase i="215" t="DNS Sunucusu 4"/>
+<phrase i="214" t="DNS Sunucusu 3"/>
+<phrase i="213" t="DNS Sunucusu 2"/>
+<phrase i="212" t="DNS Sunucusu 1"/>
+<phrase i="211" t="Varsayýlan Að Geçidi 5"/>
+<phrase i="210" t="Varsayýlan Að Geçidi 4"/>
+<phrase i="209" t="Varsayýlan Að Geçidi 3"/>
+<phrase i="208" t="Varsayýlan Að Geçidi 2"/>
+<phrase i="207" t="Varsayýlan Að Geçidi 1"/>
+<phrase i="206" t="TFTP Sunucusu 1"/>
+<phrase i="205" t="Alt Að Maskesi"/>
+<phrase i="204" t="IP Adresi"/>
+<phrase i="203" t="Etki Alaný Adý"/>
+<phrase i="202" t="Ana Bilgisayar Adý"/>
+<phrase i="201" t="MAC Adresi"/>
+</phrases>

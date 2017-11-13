@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Romanian_Romania</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="Se descarcă MIDlet-uri..."/>
+  <phrase i="8003" t="Aplicaţie minimizată"/>
+  <phrase i="8002" t="Modul MIDP instalat cu succes"/>
+  <phrase i="8001" t="Se aşteaptă la instalarea modulului MIDP..."/>
+  <phrase i="8000" t="Se actualizează firmware-ul..."/>
+  <phrase i="7999" t="Se descarcă firmware-ul...%d%%"/>
+  <phrase i="7998" t="Se recuperează firmware-ul..."/>
+  <phrase i="7997" t="Actualizarea firmware a eşuat"/>
+  <phrase i="7996" t="Baterie descărcată Impos actual"/>
+  <phrase i="7995" t="Descărcare imagine eşuată"/>
+  <phrase i="7994" t="Autentificare imagine eşuată"/>
+  <phrase i="7993" t="Mem. insufic! Se reporneşte ..."/>
+  <phrase i="7992" t="EAP-TLS/PEAP activat"/>
+  <phrase i="7991" t="Validare certificat server"/>
+  <phrase i="7990" t="Instalarea AOM a eşuat"/>
+  <phrase i="7989" t="Se descarcă AOM(%d/%d)"/>
+  <phrase i="7988" t="Se instalează AOM(%d/%d)...%d%%"/>
+  <phrase i="7987" t="Verificarea integrităţii imaginii a eşuat"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="Se instalează FW pentru scaner:%d%%"/>
+  <phrase i="7984" t="Se descarcă FW de scaner"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="Rate de date restricţionate"/>
+  <phrase i="7080" t="Mod scanare"/>
+  <phrase i="7079" t="Auto"/>
+  <phrase i="7078" t="Continuu"/>
+  <phrase i="7077" t="Limită putere celulă"/>
+  <phrase i="7076" t="Restricţie de putere"/>
+  <phrase i="7075" t="Certificat EAP-TLS"/>
+  <phrase i="7074" t="Instalat de utilizator"/>
+  <phrase i="7073" t="Cert. fabricaţie emis"/>
+  <phrase i="7072" t="CAPF emis"/>
+  <phrase i="7071" t="Certif autentificare negăsite"/>
+  <phrase i="7070" t="Certif autentificare invalid"/>
+  <phrase i="7069" t="Certif autentificare expiră: %s"/>
+  <phrase i="7068" t="Certif autentif expiră curând"/>
+  <phrase i="7067" t="Certificatul de autenticitate expiră în %d zile"/>
+  <phrase i="7066" t="Certif autentificare a expirat"/>
+  <phrase i="7065" t="Verific anumite setări de ceas."/>
+  <phrase i="7064" t="Cert. autentif. WLAN negăsit"/>
+  <phrase i="7063" t="Certificate de autent. negăsite"/>
+  <phrase i="7062" t="Certif autent expiră: %d zile"/>
+  <phrase i="7061" t="Cert. autentif. WLAN expirat!"/>
+  <phrase i="7060" t="Cert. de autentif. expirat!"/>
+  <phrase i="7059" t="Număr de staţii"/>
+  <phrase i="7057" t="Indicatoare de avertizare"/>
+  <phrase i="7056" t="Interval semnalizare"/>
+  <phrase i="7055" t="Perioadă DTIM"/>
+  <phrase i="7054" t="Capabilitate"/>
+  <phrase i="7053" t="Mapare rată-bit"/>
+  <phrase i="7052" t="Mapare de bază rată-bit"/>
+  <phrase i="7051" t="Salt de frecvenţă"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="Gestionare spectru"/>
+  <phrase i="7047" t="Canal neacceptat"/>
+  <phrase i="7046" t="Profil canal"/>
+  <phrase i="7045" t="Confidenţialitate"/>
+  <phrase i="7044" t="RatăMică"/>
+  <phrase i="7043" t="ARP proxy"/>
+  <phrase i="7042" t="Rate de bază"/>
+  <phrase i="7041" t="Rate opţionale"/>
+  <phrase i="7040" t="Fundal AC"/>
+  <phrase i="7039" t="Efort optim AC"/>
+  <phrase i="7038" t="Video AC"/>
+  <phrase i="7037" t="Voce AC"/>
+  <phrase i="7036" t="ECW Min"/>
+  <phrase i="7035" t="ECW Max"/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="Control admitere"/>
+  <phrase i="7032" t="Cifru difuzare multiplă"/>
+  <phrase i="7031" t="Cifru difuzare simplă"/>
+  <phrase i="7030" t="Număr BSS pierdute"/>
+  <phrase i="7029" t="Acceptat"/>
+  <phrase i="7028" t="Capacit. admitere admisibilă"/>
+  <phrase i="7027" t="Prezent"/>
+  <phrase i="7026" t="Absent"/>
+  <phrase i="7025" t="Categorie acces"/>
+  <phrase i="7024" t="Nerecomandat"/>
+  <phrase i="7023" t="Inconsistent"/>
+  <phrase i="7022" t="PA referinţă"/>
+  <phrase i="7021" t="Ţară"/>
+  <phrase i="7020" t="Prag CCA"/>
+  <phrase i="7019" t="Certificat cheie publică"/>
+  <phrase i="7018" t="Infrastructură cheie publică"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="Perioadă valabilitate"/>
+  <phrase i="7015" t="Cheie rădăcină"/>
+  <phrase i="7014" t="Autoritate certificat"/>
+  <phrase i="7013" t="Cheie privată"/>
+  <phrase i="7012" t="Cheie publică"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="Server autentificare"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="Autentificarea a eşuat"/>
+  <phrase i="7008" t="Nici un profil de reţea"/>
+  <phrase i="7007" t="Se părăseşte zona de servicii!"/>
+  <phrase i="7006" t="Localizare servicii de reţea"/>
+  <phrase i="7005" t="Nici un profil selectat"/>
+  <phrase i="7003" t="Conexiune stabilită"/>
+  <phrase i="7002" t="Se încearcă conectarea..."/>
+  <phrase i="7001" t="Eroare WLAN"/>
+  <phrase i="7000" t="Se scanează canalele..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="Goliţi istoric. tut. apelurilor?"/>
+  <phrase i="6406" t="Diagnostice scaner"/>
+  <phrase i="6405" t="Reiniţ."/>
+  <phrase i="6404" t="Grup simbologie"/>
+  <phrase i="6403" t="Extins"/>
+  <phrase i="6402" t="De bază"/>
+  <phrase i="6401" t="Scaner"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="Bluetooth"/>
+  <phrase i="6399" t="Listă dispozitive"/>
+  <phrase i="6398" t="Scanare"/>
+  <phrase i="6397" t="Rescan."/>
+  <phrase i="6396" t="Împerechere"/>
+  <phrase i="6395" t="Desperechere"/>
+  <phrase i="6394" t="Dispozitive împerecheate"/>
+  <phrase i="6393" t="Se scanează"/>
+  <phrase i="6392" t="Se împerechează"/>
+  <phrase i="6391" t="%s împerecheat"/>
+  <phrase i="6390" t="Se desperechează"/>
+  <phrase i="6389" t="%s desperecheat"/>
+  <phrase i="6388" t="Dispozitive găsite: %d"/>
+  <phrase i="6387" t="Desperecheaţi %s?"/>
+  <phrase i="6386" t="Rezultate scanare"/>
+  <phrase i="6385" t="Introduceţi codul de trecere Bluetooth"/>
+  <phrase i="6384" t="Împerechere eşuată!"/>
+  <phrase i="6383" t="%s conectat!"/>
+  <phrase i="6382" t="%s deconectat!"/>
+  <phrase i="6381" t="Conectare"/>
+  <phrase i="6380" t="Decon."/>
+  <phrase i="6379" t="Reglare volum în căşti"/>
+  <phrase i="6378" t="Depăşire număr maxim de dispozitive"/>
+  <phrase i="6377" t="Conexiune Bluetooth eşuată"/>
+  <phrase i="6376" t="Acesta este un dispozitiv împerecheat!"/>
+  <phrase i="6375" t="DesperTot"/>
+  <phrase i="6374" t="Bluetooth nepregătit"/>
+  <phrase i="6373" t="Eroare internă Bluetooth"/>
+  <phrase i="6372" t="Operaţie eşuată"/>
+  <phrase i="6371" t="Bluetooth selectat"/>
+  <phrase i="6370" t="Difuzor selectat"/>
+  <phrase i="6369" t="Receptor selectat"/>
+  <phrase i="6368" t="Cască selectată"/>
+  <phrase i="6367" t="Diagnostice"/>
+  <phrase i="6366" t="Tastatură"/>
+  <phrase i="6365" t="Audio"/>
+  <phrase i="6364" t="Selectare diagnostice"/>
+  <phrase i="6363" t="Apăsaţi orice buton"/>
+  <phrase i="6362" t="Diagnostice tastatură"/>
+  <phrase i="6361" t="Apăsat"/>
+  <phrase i="6360" t="Eliberat"/>
+  <phrase i="6359" t="Diagnostice audio"/>
+  <phrase i="6358" t="Buclă audio local"/>
+  <phrase i="6357" t="Cheie soft %d"/>
+  <phrase i="6356" t="ScădereVolum"/>
+  <phrase i="6355" t="CreştereVolum"/>
+  <phrase i="6354" t="Dreapta"/>
+  <phrase i="6353" t="Stânga"/>
+  <phrase i="6352" t="Alimentare"/>
+  <phrase i="6351" t="DctSonor"/>
+  <phrase i="6350" t="Instalare Java nereuşită"/>
+  <phrase i="6349" t="Selectare %s"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="Er. lans"/>
+  <phrase i="6298" t="%s este momentan deschis"/>
+  <phrase i="6297" t="Închideţi înainte de a lansa un alt"/>
+  <phrase i="6296" t="Comut la"/>
+  <phrase i="6295" t="Înch. ap"/>
+  <phrase i="6294" t="Într. ap"/>
+  <phrase i="6293" t="Apel de intrare"/>
+  <phrase i="6292" t="Ignorare"/>
+  <phrase i="6291" t="Terminat"/>
+  <phrase i="6290" t="Setat"/>
+  <phrase i="6289" t="Despre Java"/>
+  <phrase i="6288" t="Lansare"/>
+  <phrase i="6287" t="Instalare"/>
+  <phrase i="6286" t="Salt"/>
+  <phrase i="6285" t="Salt la"/>
+  <phrase i="6284" t="Excepţie"/>
+  <phrase i="6283" t="Aplicaţie"/>
+  <phrase i="6282" t="Aplicaţii"/>
+  <phrase i="6281" t="Info"/>
+  <phrase i="6280" t="Elimin."/>
+  <phrase i="6279" t="Instalare aplicaţie"/>
+  <phrase i="6278" t="Gestionare autorităţi certificate"/>
+  <phrase i="6277" t="Sfârşit"/>
+  <phrase i="6276" t="Producător"/>
+  <phrase i="6275" t="Furnizor servicii"/>
+  <phrase i="6274" t="Terţi"/>
+  <phrase i="6273" t="prânz"/>
+  <phrase i="6272" t="miez n."/>
+  <phrase i="6271" t="lll zz, aaaa"/>
+  <phrase i="6270" t="hh:mm ??"/>
+  <phrase i="6269" t="lll zz, aaaa hh:mm  "/>
+  <phrase i="6268" t="D"/>
+  <phrase i="6267" t="L"/>
+  <phrase i="6266" t="Ma"/>
+  <phrase i="6265" t="Mi"/>
+  <phrase i="6264" t="J"/>
+  <phrase i="6263" t="V"/>
+  <phrase i="6262" t="S"/>
+  <phrase i="6261" t="Ianuarie"/>
+  <phrase i="6260" t="Februarie"/>
+  <phrase i="6259" t="Martie"/>
+  <phrase i="6258" t="Aprilie"/>
+  <phrase i="6257" t="Mai"/>
+  <phrase i="6256" t="Iunie"/>
+  <phrase i="6255" t="Iulie"/>
+  <phrase i="6254" t="August"/>
+  <phrase i="6253" t="Septembrie"/>
+  <phrase i="6252" t="Octombrie"/>
+  <phrase i="6251" t="Noiembrie"/>
+  <phrase i="6250" t="Decembrie"/>
+  <phrase i="6249" t="Ian"/>
+  <phrase i="6248" t="Feb"/>
+  <phrase i="6247" t="Mar"/>
+  <phrase i="6246" t="Apr"/>
+  <phrase i="6245" t="Mai"/>
+  <phrase i="6244" t="Iun"/>
+  <phrase i="6243" t="Iul"/>
+  <phrase i="6242" t="Aug"/>
+  <phrase i="6241" t="Sep"/>
+  <phrase i="6240" t="Oct"/>
+  <phrase i="6239" t="Nov"/>
+  <phrase i="6238" t="Dec"/>
+  <phrase i="6237" t="Înainte"/>
+  <phrase i="6236" t="După"/>
+  <phrase i="6235" t="Ora:"/>
+  <phrase i="6234" t="Data:"/>
+  <phrase i="6233" t="Simboluri"/>
+  <phrase i="6232" t="Sugerare"/>
+  <phrase i="6231" t="sugerare"/>
+  <phrase i="6230" t="SUGERARE"/>
+  <phrase i="6229" t="OK"/>
+  <phrase i="6228" t="Opţiuni..."/>
+  <phrase i="6227" t="am"/>
+  <phrase i="6226" t="pm"/>
+  <phrase i="6225" t="ŞtergDate"/>
+  <phrase i="6224" t="Dimensiune aplicaţie"/>
+  <phrase i="6223" t="Dimensiune date aplicaţie"/>
+  <phrase i="6222" t="Octeţi"/>
+  <phrase i="6221" t="Eroare, contactaţi administratorul"/>
+  <phrase i="6220" t="Se iese din aplicaţie..."/>
+  <phrase i="6219" t="Instalare revocată"/>
+  <phrase i="6218" t="Instalare nereuşită a aplicaţiei"/>
+  <phrase i="6217" t="Se instalează aplicaţia..."/>
+  <phrase i="6216" t="Se porneşte aplicaţia..."/>
+  <phrase i="6215" t="Confirmare"/>
+  <phrase i="6214" t="Se încarcă"/>
+  <phrase i="6213" t="Se lansează"/>
+  <phrase i="6212" t="Dimensiune JAR"/>
+  <phrase i="6211" t="URL JAR"/>
+  <phrase i="6210" t="Descriere"/>
+  <phrase i="6209" t="Furnizor"/>
+  <phrase i="6208" t="MicroEdiţie-Configuraţie"/>
+  <phrase i="6207" t="MicroEdiţie-Profil"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="Personalizare"/>
+  <phrase i="6205" t="Intrare forţată buton singular"/>
+  <phrase i="6204" t="Control UI căşti bandă largă"/>
+  <phrase i="6203" t="Selectare automată apel"/>
+  <phrase i="6202" t="BLF pentru liste de apeluri"/>
+  <phrase i="6201" t="Selectare automată linie"/>
+  <phrase i="6200" t="Informaţii IU"/>
+  <phrase i="6199" t="IU"/>
+  <phrase i="6198" t="Mesaj de bun venit"/>
+  <phrase i="6197" t="Mesaj de întâmpinare"/>
+  <phrase i="6196" t="Creare contact"/>
+  <phrase i="6195" t="Stocare la contact existent"/>
+  <phrase i="6194" t="Se încarcă... Aşteptaţi"/>
+  <phrase i="6193" t="Configuraţie sistem"/>
+  <phrase i="6192" t="Numai caractere alfanumerice!"/>
+  <phrase i="6191" t="Păstrare niveluri urmărire"/>
+  <phrase i="6190" t="Syslog la distanţă"/>
+  <phrase i="6189" t="Nivel urmărire"/>
+  <phrase i="6188" t="Diagnostice activate"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="Organizaţie"/>
+  <phrase i="6186" t="Select. val. implicită"/>
+  <phrase i="6185" t="Selectaţi o vizualizare"/>
+  <phrase i="6184" t="Selectaţi o imagine"/>
+  <phrase i="6183" t="Particularizare cheie soft"/>
+  <phrase i="6182" t="Linia %d (%s)"/>
+  <phrase i="6181" t="Selectaţi o linie de vizualizat"/>
+  <phrase i="6180" t="Linii telefonice"/>
+  <phrase i="6179" t="Pagină reşedinţă"/>
+  <phrase i="6178" t="Ag Tel"/>
+  <phrase i="6177" t="Imagine de fundal"/>
+  <phrase i="6176" t="Vizualizare preferată"/>
+  <phrase i="6175" t="Cheie soft Stânga"/>
+  <phrase i="6174" t="Particularizare pag. reşedinţă"/>
+  <phrase i="6173" t="%s (%d pierdute)"/>
+  <phrase i="6172" t="Profil restricţionat!"/>
+  <phrase i="6171" t="Neatribuit"/>
+  <phrase i="6170" t="Selectare câmp contact"/>
+  <phrase i="6169" t="Nume, Prenume"/>
+  <phrase i="6168" t="Prenume, Nume"/>
+  <phrase i="6167" t="Ordine sortare directoare"/>
+  <phrase i="6166" t="Niciun număr implicit"/>
+  <phrase i="6165" t="Select apel rapidă neatribuită!"/>
+  <phrase i="6164" t="Select apel rapidă de atribuit"/>
+  <phrase i="6163" t="Selectaţi un nr. de contact"/>
+  <phrase i="6162" t="Atribuire apelare rapidă %d"/>
+  <phrase i="6161" t="Atribuiţi apelare rapidă nouă?"/>
+  <phrase i="6160" t="Selectare tip telefon"/>
+  <phrase i="6159" t="Selectare contact"/>
+  <phrase i="6158" t="ŞtergTot"/>
+  <phrase i="6157" t="Toate contactele şterse!"/>
+  <phrase i="6156" t="Ştergeţi toate contactele?"/>
+  <phrase i="6155" t="Telefon principal actualizat!"/>
+  <phrase i="6154" t="Examinare imagine fundal"/>
+  <phrase i="6153" t="Noul ton de sonerie este salvat"/>
+  <phrase i="6152" t="Coresp. la 0 înregistrări"/>
+  <phrase i="6151" t="Fără spaţiu pt. noul număr!"/>
+  <phrase i="6150" t="Redenumire"/>
+  <phrase i="6149" t="Îmbinare"/>
+  <phrase i="6148" t="Suprascriere"/>
+  <phrase i="6147" t="Contact actualizat!"/>
+  <phrase i="6146" t="Contactul există deja!"/>
+  <phrase i="6145" t="Contact şters!"/>
+  <phrase i="6144" t="Ştergeţi contactul?"/>
+  <phrase i="6143" t="Ştergeţi apelare rapidă?"/>
+  <phrase i="6142" t="Adresă IM"/>
+  <phrase i="6141" t="Poreclă"/>
+  <phrase i="6140" t="Apelare rapidă %d atribuită!"/>
+  <phrase i="6139" t="AplRapid"/>
+  <phrase i="6138" t="Intrare nouă apelare rapidă"/>
+  <phrase i="6137" t="(Gol)"/>
+  <phrase i="6136" t="Număr gol!"/>
+  <phrase i="6135" t="Apelare rapidă ştearsă!"/>
+  <phrase i="6134" t="Ţineţi apăsat pt. activare"/>
+  <phrase i="6133" t="Ţineţi apăsat pt dezactivare"/>
+  <phrase i="6132" t="%d numere de apelare rapidă"/>
+  <phrase i="6131" t="1 număr de apelare rapidă"/>
+  <phrase i="6130" t="Nume contact necesar!"/>
+  <phrase i="6129" t="S-a atins capacit. maximă!"/>
+  <phrase i="6128" t="1 contact"/>
+  <phrase i="6127" t="1 înreg."/>
+  <phrase i="6126" t="Niciun contact"/>
+  <phrase i="6125" t="Rafinaţi căutarea."/>
+  <phrase i="6124" t="Reiniţializaţi tot sistemul?"/>
+  <phrase i="6123" t="Iniţiaţi repornirea telef.?"/>
+  <phrase i="6122" t="Introduceţi cheia în HEX"/>
+  <phrase i="6121" t="Intrare incorectă sau lipsă"/>
+  <phrase i="6120" t="Se aşteaptă %d răsp. de la %s"/>
+  <phrase i="6119" t="Fără bandă disponibilă"/>
+  <phrase i="6118" t="Aştept. Activ pt. înreg."/>
+  <phrase i="6117" t="Superior"/>
+  <phrase i="6116" t="Acelaşi nivel"/>
+  <phrase i="6115" t="Inferior"/>
+  <phrase i="6114" t="ND activat"/>
+  <phrase i="6113" t="ND dezactivat"/>
+  <phrase i="6112" t="Revenire la prioritate focaliz."/>
+  <phrase i="6111" t="Mesaj avalanşă"/>
+  <phrase i="6110" t="Config actualiz. cu succes"/>
+  <phrase i="6109" t="Actualiz. config. nereuşită"/>
+  <phrase i="6108" t="Pachet config actualiz reuşit"/>
+  <phrase i="6107" t="Actualiz pachet config nereuşit"/>
+  <phrase i="6106" t="Configurare client HTTPS"/>
+  <phrase i="6105" t="Acceptare certificat nevalidat"/>
+  <phrase i="6104" t="Refuzare certif. nevalidat"/>
+  <phrase i="6103" t="Selectare opţiune certificat"/>
+  <phrase i="6102" t="Informaţii utilizatori"/>
+  <phrase i="6101" t="Setări dezactivate"/>
+  <phrase i="6100" t="Câmpul este Numai citire!"/>
+  <phrase i="6099" t="Profil blocat de admin."/>
+  <phrase i="6098" t="Acces restricţionat de admin"/>
+  <phrase i="6097" t="Profilul este Numai citire"/>
+  <phrase i="6096" t="Introduceţi Pin-ul"/>
+  <phrase i="6095" t="Contactaţi administrator pt Pin"/>
+  <phrase i="6094" t="Eliberat"/>
+  <phrase i="6093" t="Utilizaţi buton centr pt select"/>
+  <phrase i="6092" t="Utiliz buton centr pt deselect"/>
+  <phrase i="6091" t="Parolă incor sau ser aut oprit"/>
+  <phrase i="6090" t="Schimbaţi parola WLAN?"/>
+  <phrase i="6089" t="InfoUtil"/>
+  <phrase i="6088" t="Acces WLAN interzis!"/>
+  <phrase i="6087" t="Server oprit"/>
+  <phrase i="6086" t="Agendă telefonică"/>
+  <phrase i="6085" t="Apăs. Continuare pt. acţiune"/>
+  <phrase i="6084" t="Contact nou"/>
+  <phrase i="6083" t="Modificare contact"/>
+  <phrase i="6082" t="Contact"/>
+  <phrase i="6081" t="%d contacte"/>
+  <phrase i="6080" t="%d din %d contacte"/>
+  <phrase i="6079" t="Nume complet"/>
+  <phrase i="6078" t="Afişare preferinţe"/>
+  <phrase i="6077" t="Selectare ordine afişare"/>
+  <phrase i="6076" t="Înregistrare ca"/>
+  <phrase i="6075" t="Telefon birou"/>
+  <phrase i="6074" t="Telefon mobil"/>
+  <phrase i="6073" t="Telefon acasă"/>
+  <phrase i="6072" t="Alt telefon"/>
+  <phrase i="6071" t="Adresă poştă electronică"/>
+  <phrase i="6070" t="Companie"/>
+  <phrase i="6069" t="Adresă birou"/>
+  <phrase i="6068" t="Strada"/>
+  <phrase i="6067" t="Localitatea"/>
+  <phrase i="6066" t="Judeţul"/>
+  <phrase i="6065" t="Cod poştal"/>
+  <phrase i="6064" t="Stocare"/>
+  <phrase i="6063" t="Stocare contact"/>
+  <phrase i="6062" t="Selectare tip de număr"/>
+  <phrase i="6061" t="Select tip dispoz. pt. contact"/>
+  <phrase i="6060" t="Sortare"/>
+  <phrase i="6059" t="Continuare"/>
+  <phrase i="6058" t="Afaceri"/>
+  <phrase i="6057" t="Personal"/>
+  <phrase i="6056" t="Internaţional"/>
+  <phrase i="6055" t="Favorite"/>
+  <phrase i="6054" t="Contacte importante"/>
+  <phrase i="6053" t="Client cheie"/>
+  <phrase i="6052" t="Diverse"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="Categorii"/>
+  <phrase i="6049" t="Categorie"/>
+  <phrase i="6048" t="Selectare categorii pt. contact"/>
+  <phrase i="6047" t="Selectare categorii"/>
+  <phrase i="6046" t="Selectare categorie pt. contact"/>
+  <phrase i="6045" t="Selectare categorie"/>
+  <phrase i="6044" t="Filtrare"/>
+  <phrase i="6043" t="Selectare filtru pt. contacte"/>
+  <phrase i="6042" t="Selectare filtru"/>
+  <phrase i="6041" t="Apelări rapide"/>
+  <phrase i="6040" t="Număr de apelare rapidă"/>
+  <phrase i="6039" t="Introd. nr. apelare rapidă"/>
+  <phrase i="6038" t="Nr. nevalid apelare rapidă"/>
+  <phrase i="6037" t="Apelare rapidă %d neatribuită"/>
+  <phrase i="6036" t="Apelare rapidă fără conţinut"/>
+  <phrase i="6035" t="Utilizaţi Opţiuni pt. Salvare"/>
+  <phrase i="6034" t="Apăsaţi Opţiuni pt. Salvare"/>
+  <phrase i="6033" t="Contact salvat"/>
+  <phrase i="6032" t="Contact nesalvat!"/>
+  <phrase i="6031" t="Setări salvate"/>
+  <phrase i="6030" t="Setări nesalvate!"/>
+  <phrase i="6029" t="Revocat"/>
+  <phrase i="6028" t="Modificări revocate"/>
+  <phrase i="6027" t="%d apel pierdute de la apelant"/>
+  <phrase i="6026" t="%d apel primite de la apelant"/>
+  <phrase i="6025" t="%d apeluri efect la acest număr"/>
+  <phrase i="6024" t="Mod încărcare"/>
+  <phrase i="6023" t="Ecranul rămâne întunecat"/>
+  <phrase i="6022" t="Ecranul rămâne luminat"/>
+  <phrase i="6021" t="Selectare preferinţă ecran"/>
+  <phrase i="6020" t="Particularizări pag. reşedinţă"/>
+  <phrase i="6019" t="Comenzi rapide"/>
+  <phrase i="6018" t="Vizualizare linii"/>
+  <phrase i="6017" t="Meniu principal"/>
+  <phrase i="6016" t="Selectare aplicaţie"/>
+  <phrase i="6015" t="Aplicaţii"/>
+  <phrase i="6014" t="Select comandă iute de atribuit"/>
+  <phrase i="6013" t="Atrib."/>
+  <phrase i="6012" t="Difuzor activat"/>
+  <phrase i="6011" t="Difuzor dezactivat"/>
+  <phrase i="6010" t="Setări urmărire"/>
+  <phrase i="6009" t="Repornire telefon pt. dezactiv."/>
+  <phrase i="6008" t="Permis"/>
+  <phrase i="6007" t="Neconfigurat"/>
+  <phrase i="6006" t="Preferinţă sonerie activă"/>
+  <phrase i="6005" t="Numai bip"/>
+  <phrase i="6004" t="Apelare telefon"/>
+  <phrase i="6003" t="Selectare preferinţă alertă"/>
+  <phrase i="6002" t="Pierdute"/>
+  <phrase i="6001" t="Toate"/>
+  <!-- GUI -->
+  <phrase i="6000" t="Selectare element stare..."/>
+  <phrase i="5999" t="Selectare setare model"/>
+  <phrase i="5998" t="Config. reţea"/>
+  <phrase i="5997" t="Selectare setare reţea"/>
+  <phrase i="5996" t="Setări telefon"/>
+  <phrase i="5995" t="Selectare setare telefon"/>
+  <phrase i="5994" t="Selectare setare securitate"/>
+  <phrase i="5993" t="Selectare setare dispozitiv"/>
+  <phrase i="5992" t="Selectare setare"/>
+  <phrase i="5991" t="Selectare profil"/>
+  <phrase i="5990" t="Selectare setare WLAN"/>
+  <phrase i="5989" t="Mod 802.11"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802 .11a"/>
+  <phrase i="5986" t="Auto -b/g"/>
+  <phrase i="5985" t="Auto-a"/>
+  <phrase i="5984" t="Auto -RSSI"/>
+  <phrase i="5983" t="Deschidere"/>
+  <phrase i="5982" t="Deschidere+WEP"/>
+  <phrase i="5981" t="Partajat+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="Aut o (AKM)"/>
+  <phrase i="5977" t="U-APSD/ PS-Poll"/>
+  <phrase i="5976" t="U-APSD/Fără"/>
+  <phrase i="5975" t="PS-Poll"/>
+  <phrase i="5973" t="HEX"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 Biţi"/>
+  <phrase i="5970" t="128 Biţi"/>
+  <phrase i="5969" t="Dct"/>
+  <phrase i="5968" t="Tare"/>
+  <phrase i="5967" t="Mod securitate"/>
+  <phrase i="5966" t="Un singur punct de acces"/>
+  <phrase i="5965" t="Apelare mod salvare energie"/>
+  <phrase i="5964" t="Stil cheie"/>
+  <phrase i="5963" t="Cheie statică WEP"/>
+  <phrase i="5962" t="Cheie WEP"/>
+  <phrase i="5961" t="Primar"/>
+  <phrase i="5960" t="Cheie pre-partajată"/>
+  <phrase i="5959" t="Profil reţea"/>
+  <phrase i="5958" t="Andocare difuzor"/>
+  <phrase i="5957" t="Andocare sonerie"/>
+  <phrase i="5956" t="Căşti"/>
+  <phrase i="5955" t="Normal"/>
+  <phrase i="5954" t="Întâlnire"/>
+  <phrase i="5953" t="Exterior"/>
+  <phrase i="5952" t="Silenţios"/>
+  <phrase i="5951" t="Taxă 1"/>
+  <phrase i="5950" t="Taxă 2"/>
+  <phrase i="5949" t="Ton tastatură"/>
+  <phrase i="5948" t="Model alertă"/>
+  <phrase i="5947" t="Numai sonerie"/>
+  <phrase i="5946" t="Numai vibraţii"/>
+  <phrase i="5945" t="Vibraţii, apoi sonerie"/>
+  <phrase i="5944" t="Sonerie dct!"/>
+  <phrase i="5943" t="Sonerii"/>
+  <phrase i="5942" t="Secunde"/>
+  <phrase i="5941" t="Selectare "/>
+  <phrase i="5940" t="Ajustare "/>
+  <phrase i="5939" t="Nou"/>
+  <phrase i="5938" t="Curent"/>
+  <phrase i="5937" t="Introducere nou"/>
+  <phrase i="5936" t="Valori vechi"/>
+  <phrase i="5935" t="Activare"/>
+  <phrase i="5934" t="Dezact."/>
+  <phrase i="5933" t="Avertisment"/>
+  <phrase i="5932" t="Eroare configuraţie"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP Activat/Dezactivat"/>
+  <phrase i="5928" t="Informaţii CallManager"/>
+  <phrase i="5927" t="Informaţii HTTP"/>
+  <phrase i="5926" t="Informaţii locale"/>
+  <phrase i="5925" t="Informaţii QoS"/>
+  <phrase i="5924" t="CallManager 2"/>
+  <phrase i="5923" t="Informaţii securitate"/>
+  <phrase i="5922" t="Configuraţie WLAN"/>
+  <phrase i="5921" t="Config WLAN"/>
+  <phrase i="5920" t="Nume profil"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="Selectare setare USB"/>
+  <phrase i="5914" t="Configuraţie SIP"/>
+  <phrase i="5913" t="Anchetă site"/>
+  <phrase i="5912" t="Server de încărcare"/>
+  <phrase i="5911" t="Selectare canal"/>
+  <phrase i="5910" t="Canal"/>
+  <phrase i="5909" t="Profil %d"/>
+  <phrase i="5908" t="Profiluri utilizator"/>
+  <phrase i="5907" t="Selectare profil utilizator"/>
+  <phrase i="5906" t="Selectare setare utilizator"/>
+  <phrase i="5905" t="Profiluri reţea"/>
+  <phrase i="5904" t="Selectare profiluri reţea"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="Luminozitate ecran"/>
+  <phrase i="5901" t="Expirare ecran"/>
+  <phrase i="5900" t="Niciodată"/>
+  <phrase i="5899" t="Răspuns de la orice tastă"/>
+  <phrase i="5898" t="Activat"/>
+  <phrase i="5897" t="Dezactivat"/>
+  <phrase i="5896" t="Încărcare completă!"/>
+  <phrase i="5895" t="Baterie scoasă!"/>
+  <phrase i="5894" t="Baterie descărcată!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="Introducere şir"/>
+  <phrase i="5890" t="Şir de autorizare"/>
+  <phrase i="5889" t="Operaţie LSC finalizată"/>
+  <phrase i="5888" t="Operaţie LSC pornită"/>
+  <phrase i="5887" t="Oprire"/>
+  <phrase i="5886" t="Se face conect la serverul CAPF"/>
+  <phrase i="5885" t="A eşuat conect la serverul CAPF"/>
+  <phrase i="5884" t="Conectat la serverul CAPF"/>
+  <phrase i="5883" t="Se autentifică cu CAPF"/>
+  <phrase i="5882" t="Server CAPF"/>
+  <phrase i="5881" t="Eroare autentificare LSC"/>
+  <phrase i="5880" t="Se generează cheie pentru LSC"/>
+  <phrase i="5879" t="Gen. nereuşită cheie LSC"/>
+  <phrase i="5878" t="Operaţie LSC în desfăşurare"/>
+  <phrase i="5877" t="Reîncercare...Aşteptaţi"/>
+  <phrase i="5876" t="Operaţie LSC anulată"/>
+  <phrase i="5875" t="Operaţie LSC abandonată"/>
+  <phrase i="5874" t="Expirare operaţie LSC"/>
+  <phrase i="5873" t="Operaţia LSC a eşuat"/>
+  <phrase i="5872" t="Lungime minimă necesară"/>
+  <phrase i="5871" t="URL neconfigurat!"/>
+  <phrase i="5870" t="Fără"/>
+  <phrase i="5869" t="Necunoscut"/>
+  <phrase i="5867" t="Neinstalat"/>
+  <phrase i="5866" t="Instalat"/>
+  <phrase i="5864" t="LSC neinstalat"/>
+  <phrase i="5863" t="LSC actualizat"/>
+  <phrase i="5862" t="LSC şters"/>
+  <phrase i="5861" t="Detalii"/>
+  <phrase i="5860" t="Acces la setări dezactivat!"/>
+  <phrase i="5859" t="Se reporneşte telefonul..."/>
+  <phrase i="5858" t="Porniţi acum reiniţ de fabrică?"/>
+  <phrase i="5857" t="Fişier CTL"/>
+  <phrase i="5856" t="Listă încredere"/>
+  <phrase i="5855" t="Fişier CTL eliminat!"/>
+  <phrase i="5854" t="Nu a fost găsit"/>
+  <phrase i="5853" t="MIC incorect pe telefon"/>
+  <phrase i="5852" t="Actualizare CTL eşuată"/>
+  <phrase i="5851" t="CTL instalat"/>
+  <phrase i="5850" t="S-a oprit încărcător baterie!"/>
+  <phrase i="5849" t="S-a pornit încărc. baterie!"/>
+  <phrase i="5848" t="C.a. deconectat!"/>
+  <phrase i="5847" t="C.a. conectat!"/>
+  <phrase i="5846" t="USB deconectat!"/>
+  <phrase i="5845" t="USB conectat!"/>
+  <phrase i="5844" t="Andocare deconectată!"/>
+  <phrase i="5843" t="Andocare conectată!"/>
+  <phrase i="5842" t="Cască deconectată!"/>
+  <phrase i="5841" t="Cască conectată!"/>
+  <phrase i="5840" t="Lungime maximă ocupată!"/>
+  <phrase i="5839" t="Tastatură deblocată!"/>
+  <phrase i="5838" t="Tastatură blocată!"/>
+  <phrase i="5837" t="Deblocaţi tastatura?"/>
+  <phrase i="5836" t="Blocaţi tastatura?"/>
+  <phrase i="5835" t="Vibraţii dct!"/>
+  <phrase i="5834" t="Vibraţii act!"/>
+  <phrase i="5833" t="Actualizarea LSC a eşuat!"/>
+  <phrase i="5832" t="Actualizarea MIC a eşuat!"/>
+  <phrase i="5831" t="Setări deblocate!"/>
+  <phrase i="5830" t="Setări blocate!"/>
+  <phrase i="5829" t="Baterie descărcată..se închide!"/>
+  <phrase i="5828" t="TFTP nu este în CTL"/>
+  <phrase i="5827" t="Interfaţă USB pornită"/>
+  <phrase i="5826" t="Interfaţă USB oprită"/>
+  <phrase i="5825" t="%d secunde"/>
+  <phrase i="5824" t="Autoblocare tastatură"/>
+  <phrase i="5823" t="Selectare contor autobloc"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="Selectare director"/>
+  <phrase i="5820" t="Reţea ocupată"/>
+  <phrase i="5819" t="Domeniu reglementări WLANDomain"/>
+  <phrase i="5818" t="ID producător USB"/>
+  <phrase i="5817" t="ID produs USB"/>
+  <phrase i="5816" t="Adresă dispozitiv RNDIS"/>
+  <phrase i="5815" t="Adresă gazdă RNDIS"/>
+  <phrase i="5814" t="Ascund."/>
+  <phrase i="5813" t="Opţiuni"/>
+  <phrase i="5812" t="Apăsaţi buton central pt select"/>
+  <phrase i="5811" t="Apăsaţi buton central pt. edit."/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="Păstrare jurnale"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="ReîncercareMultiplă"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="Configuraţie securitate"/>
+  <phrase i="5785" t="Profil blocat!"/>
+  <phrase i="5784" t="Profiluri blocate!"/>
+  <phrase i="5783" t="ID dispozitiv WLAN"/>
+  <phrase i="5782" t="ID firmware WLAN"/>
+  <phrase i="5781" t="Vizualizare statistici apel"/>
+  <phrase i="5780" t="Codec receptor"/>
+  <phrase i="5779" t="Codec expeditor"/>
+  <phrase i="5778" t="Dimensiune receptor"/>
+  <phrase i="5777" t="Dimensiune expeditor"/>
+  <phrase i="5776" t="Variaţie Întârziere medie"/>
+  <phrase i="5775" t="Variaţie Întârziere max"/>
+  <phrase i="5774" t="Receptor şters"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="MOS LQK mediu"/>
+  <phrase i="5771" t="MOS LQK minim"/>
+  <phrase i="5770" t="MOS LQK maxim"/>
+  <phrase i="5769" t="Versiune MOS LQK"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="Ascundere secunde"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="Informaţii reţea"/>
+  <phrase i="5761" t="Informaţii WLAN"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="Setări locale"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="Securitate"/>
+  <phrase i="5755" t="Selectare nivel volum"/>
+  <phrase i="5754" t="Setări sunet"/>
+  <phrase i="5753" t="Setări ecran"/>
+  <phrase i="5752" t="Setări tastatură"/>
+  <phrase i="5751" t="Tip sonerie implicită"/>
+  <phrase i="5750" t="Selectare setări sunet"/>
+  <phrase i="5749" t="Selectare setări ecran"/>
+  <phrase i="5748" t="Selectare setări tastatură"/>
+  <phrase i="5747" t="Tip criptare"/>
+  <phrase i="5746" t="Mod CCKM"/>
+  <phrase i="5745" t="Management chei"/>
+  <phrase i="5744" t="Putere Tx"/>
+  <phrase i="5743" t="Partajat"/>
+  <phrase i="5742" t="Comutare automată"/>
+  <phrase i="5741" t="Fără WPA"/>
+  <phrase i="5740" t="Acces web"/>
+  <phrase i="5739" t="Numai citire"/>
+  <phrase i="5738" t="Editare număr de apelat"/>
+  <phrase i="5737" t="Setări volum"/>
+  <phrase i="5736" t="Selectare volum"/>
+  <phrase i="5735" t="Volum"/>
+  <phrase i="5734" t="Suna"/>
+  <phrase i="5733" t="Receptor"/>
+  <phrase i="5732" t="Difuzor"/>
+  <phrase i="5731" t="Vibraţii şi sonerie"/>
+  <phrase i="5730" t="Nivel %d"/>
+  <phrase i="5729" t="Minut"/>
+  <phrase i="5728" t="Minute"/>
+  <phrase i="5727" t="Apel în derulare..."/>
+  <phrase i="5726" t="Apel revocat!"/>
+  <phrase i="5725" t="Apel eşuat. Încercaţi din nou."/>
+  <phrase i="5724" t="Imposibil de activat: SSID gol!"/>
+  <phrase i="5723" t="Aici nu se permite SSID gol!"/>
+  <phrase i="5722" t="Ton sonerie"/>
+  <phrase i="5721" t="Setări curente"/>
+  <phrase i="5720" t="Tonuri de sonerie disponibile"/>
+  <phrase i="5719" t="Setări tonuri de sonerie"/>
+  <phrase i="5718" t="Viz."/>
+  <phrase i="5717" t="Selectare ton sonerie"/>
+  <phrase i="5716" t="Aplicare ton sonerie"/>
+  <phrase i="5715" t="Aplicare"/>
+  <phrase i="5714" t="Indicator acoperire LED"/>
+  <phrase i="5713" t="Configuraţie securitate"/>
+  <phrase i="5712" t="Ieşire sonerie"/>
+  <phrase i="5711" t="Difuzor şi căşti"/>
+  <phrase i="5710" t="Modif."/>
+  <phrase i="5709" t="Configuraţie Wavelink"/>
+  <phrase i="5708" t="Selectare setare Wavelink"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="Server Wavelink alternativ"/>
+  <phrase i="5705" t="Server Wavelink"/>
+  <phrase i="5704" t="Port server Wavelink"/>
+  <phrase i="5703" t="Versiune activator"/>
+  <phrase i="5702" t="Nume particularizat"/>
+  <phrase i="5701" t="Valoare particularizată"/>
+  <phrase i="5700" t="Canal"/>
+  <phrase i="5699" t="Listă vecini"/>
+  <phrase i="5698" t="Nume PA"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="RcptNul"/>
+  <phrase i="5694" t="RcptDateBE"/>
+  <phrase i="5693" t="RcptDateBK"/>
+  <phrase i="5692" t="RcptDateVI"/>
+  <phrase i="5691" t="RcptDateVO"/>
+  <phrase i="5690" t="Debloc."/>
+  <phrase i="5689" t="Fişier personal"/>
+  <phrase i="5688" t="Fişier corporativ"/>
+  <phrase i="5687" t="Apăsaţi Deblocare"/>
+  <phrase i="5686" t="Apăsaţi # pentru deblocare"/>
+  <phrase i="5685" t="Ţineţi apăsat # pentru deblocare"/>
+  <phrase i="5684" t="Tastatură blocată"/>
+  <phrase i="5683" t="Lumină de fundal"/>
+  <phrase i="5682" t="Selectare cale audio"/>
+  <phrase i="5681" t="Difuzor şi Bluetooth"/>
+  <phrase i="5680" t="Sonerie cască"/>
+  <phrase i="5679" t="Superior"/>
+  <phrase i="5678" t="Mediu"/>
+  <phrase i="5677" t="Inferior"/>
+  <phrase i="5676" t="Apăsaţi %s pentru ecranul principal"/>
+  <phrase i="5675" t="Detalii apel"/>
+  <phrase i="5674" t="Pe %s la %s"/>
+  <phrase i="5673" t="Durată"/>
+  <phrase i="5672" t="Mod interogare"/>
+  <phrase i="5671" t="Acreditările dvs. de utilizator pot fi incorecte."/>
+  <phrase i="5670" t="Modificaţi acum?"/>
+  <phrase i="5669" t="Mod difuzor"/>
+  <phrase i="5668" t="Permanent"/>
+  <phrase i="5667" t="Per apel"/>
+  <phrase i="5666" t="Login profil reţea"/>
+  <phrase i="5665" t="Dimensiune font"/>
+  <phrase i="5664" t="Mărit"/>
+  <phrase i="5663" t="64 biţi"/>
+  <phrase i="5662" t="104 biţi"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="INTERCOM"/>
+  <phrase i="4998" t="Sonerie intrare"/>
+  <phrase i="4997" t="Director local"/>
+  <phrase i="4996" t="Apelare rapidă locală"/>
+  <phrase i="4995" t="Nume"/>
+  <phrase i="4994" t="Prenume"/>
+  <phrase i="4993" t="Căutare director locală"/>
+  <phrase i="4992" t="Prea multe rez. Rafinaţi căut"/>
+  <phrase i="4991" t="Nici o înregistrare găsită."/>
+  <phrase i="4990" t="Înregistrarea 1 la ... a"/>
+  <phrase i="4989" t="Nici o linie disponibilă"/>
+  <phrase i="4988" t="Imposibil de transferat"/>
+  <phrase i="4987" t="Transfer-la este ocupat"/>
+  <phrase i="4986" t="Introd. sau sel. nr. de apelat"/>
+  <phrase i="4985" t="Reiniţ. toate setările de"/>
+  <phrase i="4984" t="sistem la valorile implicite?"/>
+  <phrase i="4983" t="Servicii Director"/>
+  <phrase i="4982" t="Servicii XML"/>
+  <phrase i="4981" t="Conectare la server"/>
+  <phrase i="4980" t="Eşec conectare"/>
+  <phrase i="4979" t="Reporniţi telefonul?"/>
+  <phrase i="4978" t="Meniu"/>
+  <phrase i="4977" t="Limbă"/>
+  <phrase i="4976" t="Domeniu alternativ"/>
+  <phrase i="4975" t="DNS alternativ"/>
+  <phrase i="4974" t="Valoare curentă"/>
+  <phrase i="4973" t="Valoare nouă"/>
+  <phrase i="4972" t="Ruter implicit"/>
+  <phrase i="4971" t="VLAN activat"/>
+  <phrase i="4970" t="CDP activat"/>
+  <phrase i="4969" t="Servicii"/>
+  <phrase i="4968" t="Apelare rapidă"/>
+  <phrase i="4967" t="Introducere server"/>
+  <phrase i="4966" t="Static"/>
+  <phrase i="4965" t="Mod înregistrare"/>
+  <phrase i="4964" t="Mod"/>
+  <phrase i="4963" t="Original"/>
+  <phrase i="4962" t="Upgrade firmware"/>
+  <phrase i="4961" t="Meniu contrast"/>
+  <phrase i="4960" t="Schimbare parolă administrator"/>
+  <phrase i="4959" t="Indisponibil"/>
+  <phrase i="4958" t="Text eşantion"/>
+  <phrase i="4957" t="Upgrade"/>
+  <phrase i="4956" t="Introducere parolă nouă"/>
+  <phrase i="4955" t="Mesaje"/>
+  <phrase i="4954" t="Setări"/>
+  <phrase i="4953" t="Directoare"/>
+  <phrase i="4952" t="Parolă greşită"/>
+  <phrase i="4951" t="Introducere parolă administr."/>
+  <phrase i="4950" t="Valoare de intrare incorectă"/>
+  <phrase i="4949" t="Lungime şir cheie incorectă"/>
+  <phrase i="4948" t="Şir incorect:doar cifre hexazec"/>
+  <phrase i="4947" t="APELARE RAPIDĂ"/>
+  <phrase i="4946" t="Ethernet deconectat"/>
+  <phrase i="4945" t="Configurare prin TFTP"/>
+  <phrase i="4944" t="Configurare IP prin DHCP"/>
+  <phrase i="4943" t="Configurare setare VLAN"/>
+  <phrase i="4942" t="Număr indisponibil"/>
+  <phrase i="4941" t="Neatribuit"/>
+  <phrase i="4940" t="Volum sonerie"/>
+  <phrase i="4939" t="Volum receptor"/>
+  <phrase i="4938" t="Volum difuzor"/>
+  <phrase i="4937" t="Reîncerc"/>
+  <phrase i="4936" t="Introducere"/>
+  <phrase i="4935" t="Alfa"/>
+  <phrase i="4934" t="MonDezact"/>
+  <phrase i="4933" t="Monitor"/>
+  <phrase i="4932" t="Număr"/>
+  <phrase i="4931" t="Mesaj"/>
+  <phrase i="718" t="Istoric Intercom"/>
+  <phrase i="717" t="Toate liniile"/>
+  <phrase i="716" t="Linia %d"/>
+  <phrase i="715" t="Jos"/>
+  <phrase i="714" t="Operaţie anulată"/>
+  <phrase i="713" t="TFTP neautorizat: %s"/>
+  <phrase i="712" t="Elimin."/>
+  <phrase i="711" t="Criptat"/>
+  <phrase i="710" t="Autentificat"/>
+  <phrase i="709" t="Nesecurizat"/>
+  <phrase i="708" t="Eroare TLS la "/>
+  <phrase i="707" t="Acces web activat"/>
+  <phrase i="706" t="Mod securitate dispozitiv"/>
+  <phrase i="705" t="Procesare..."/>
+  <phrase i="704" t="Intrare incor. sau fără info."/>
+  <phrase i="703" t="Generare chei nereuşită"/>
+  <phrase i="702" t="Conectare pierdută sau eşuată"/>
+  <phrase i="701" t="Eşec"/>
+  <phrase i="700" t="Expirare"/>
+  <phrase i="699" t="Succes"/>
+  <phrase i="698" t="Solicitare autorizare..."/>
+  <phrase i="697" t="Conectare..."/>
+  <phrase i="696" t="Reîncercare CAPF..."/>
+  <phrase i="695" t="Generare chei..."/>
+  <phrase i="694" t="Anulare operaţie"/>
+  <phrase i="693" t="Actualizare certificat"/>
+  <phrase i="692" t="Şir autentificare"/>
+  <phrase i="691" t="Certificate"/>
+  <phrase i="690" t="DSCP pentru servicii"/>
+  <phrase i="689" t="DSCP pentru configurare"/>
+  <phrase i="688" t="DSCP pentru control apel"/>
+  <phrase i="687" t="Eşec aut. fişier"/>
+  <phrase i="686" t="Activitate CAST"/>
+  <phrase i="685" t="Capabilitate video activată"/>
+  <phrase i="684" t="Selectare linie auto activată"/>
+  <phrase i="683" t="VLAN voce activat"/>
+  <phrase i="682" t="GARP activat"/>
+  <phrase i="681" t="Port vecin"/>
+  <phrase i="680" t="Adresă IP vecin"/>
+  <phrase i="679" t="ID dispozitiv vecin"/>
+  <phrase i="678" t="De %s"/>
+  <phrase i="677" t="Redirecţionat"/>
+  <phrase i="676" t="ApelAbr"/>
+  <phrase i="675" t="Solicitare stare URL serviciu"/>
+  <phrase i="674" t="Solicitare stare cheie caract"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d apeluri noi pierdute"/>
+  <phrase i="670" t="Sonerie implicită"/>
+  <phrase i="669" t="Selectare linie..."/>
+  <phrase i="668" t="Editare apel"/>
+  <phrase i="667" t="Anulare-telefon"/>
+  <phrase i="666" t="Versiune Setări locale reţea"/>
+  <phrase i="665" t="Versiune Setări locale utiliz."/>
+  <phrase i="664" t="Solicitare TFTP anulată"/>
+  <phrase i="663" t="DHCP dezactivat"/>
+  <phrase i="662" t="Adresă IP solicitată"/>
+  <phrase i="661" t="Stare "/>
+  <phrase i="660" t="Implicit"/>
+  <phrase i="659" t="Mesaj în aşteptare"/>
+  <phrase i="658" t="Mod numai receptor"/>
+  <phrase i="657" t="Număr model"/>
+  <phrase i="656" t="Vizualizare informaţii model"/>
+  <phrase i="655" t="Informaţii model"/>
+  <phrase i="654" t="Stare legătură "/>
+  <phrase i="653" t="Ultimul indicator font"/>
+  <phrase i="652" t="Indicator font"/>
+  <phrase i="651" t="Executare aplicaţie"/>
+  <phrase i="650" t="Ultima descărcare font"/>
+  <phrase i="649" t="Descărcare font"/>
+  <phrase i="648" t="Informaţii tabel fonturi"/>
+  <phrase i="647" t="Ultima descărcare segment"/>
+  <phrase i="646" t="Descărcare segment"/>
+  <phrase i="645" t="Actualizare segment"/>
+  <phrase i="644" t="Informaţii hardware"/>
+  <phrase i="643" t="Versiune TFTP"/>
+  <phrase i="642" t="Informaţii versiune"/>
+  <phrase i="641" t="Inactiv"/>
+  <phrase i="640" t="Neacceptat"/>
+  <phrase i="639" t="Eroare actualiz. setări locale"/>
+  <phrase i="638" t="Se aşt. răs. stare %d de la %s"/>
+  <phrase i="637" t="Se aşteaptă %s de la %s"/>
+  <phrase i="636" t="Server BOOTP"/>
+  <phrase i="635" t="Server DHCP"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="CodecAD"/>
+  <phrase i="631" t="CodecADL"/>
+  <phrase i="630" t="Revizie C3PO"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Număr serial"/>
+  <phrase i="626" t="Revizie hardware"/>
+  <phrase i="625" t="ID încărcare pornire"/>
+  <phrase i="624" t="ID încărcare aplicaţie"/>
+  <phrase i="623" t="ND telefon"/>
+  <phrase i="622" t="Mod SYS"/>
+  <phrase i="621" t="Mod FIQ"/>
+  <phrase i="620" t="Mod IRQ"/>
+  <phrase i="619" t="Mod SVC"/>
+  <phrase i="618" t="Mod nedefinit"/>
+  <phrase i="610" t="MaiMult"/>
+  <phrase i="609" t="Selectare"/>
+  <phrase i="608" t="Ieşire"/>
+  <phrase i="607" t="Jos"/>
+  <phrase i="606" t="Sus"/>
+  <phrase i="605" t="Anulare"/>
+  <phrase i="604" t="Editare"/>
+  <phrase i="603" t="Nu"/>
+  <phrase i="602" t="Da"/>
+  <phrase i="601" t="Redare"/>
+  <phrase i="600" t="Apelare"/>
+  <phrase i="599" t="EditApel"/>
+  <phrase i="598" t="Salvare"/>
+  <phrase i="597" t="Restau."/>
+  <phrase i="596" t="Ştergere"/>
+  <phrase i="595" t="Fabrică"/>
+  <phrase i="594" t="Ok"/>
+  <phrase i="593" t="Validare"/>
+  <phrase i="592" t="Căutare"/>
+  <phrase i="591" t="Următor"/>
+  <phrase i="590" t="Actual."/>
+  <phrase i="589" t="Golire"/>
+  <phrase i="588" t="Remitere"/>
+  <phrase i="587" t="Ton"/>
+  <phrase i="586" t="Setări locale reţea"/>
+  <phrase i="585" t="Setări locale utilizator"/>
+  <phrase i="584" t="Fişier Kate"/>
+  <phrase i="583" t="Fişier ton"/>
+  <phrase i="582" t="Sonerie ocupată!"/>
+  <phrase i="581" t="Server TFTP 2"/>
+  <phrase i="578" t="Configuraţie port SW"/>
+  <phrase i="577" t="Configuraţie port PC"/>
+  <phrase i="576" t="Port PC dezactivat"/>
+  <phrase i="575" t="Eroare"/>
+  <phrase i="574" t="Argument incorect"/>
+  <phrase i="573" t="Telefon bază"/>
+  <phrase i="571" t="MENIU CONTRAST"/>
+  <phrase i="570" t="Sel. contrast pentru reglare"/>
+  <phrase i="569" t="Căsuţă vocală"/>
+  <phrase i="568" t="MESAJE"/>
+  <phrase i="555" t="CM-ICMP-Imposibil de contactat"/>
+  <phrase i="554" t="Selectare apel..."/>
+  <phrase i="553" t="URL server proxy"/>
+  <phrase i="552" t="URL autentificare"/>
+  <phrase i="551" t="ApelAuto anulat!"/>
+  <phrase i="550" t="Activitate Sidecar"/>
+  <phrase i="547" t="Eroare fişier HTTP"/>
+  <phrase i="546" t="Eroare XML [4]: Er. analizare"/>
+  <phrase i="545" t="Eroare creare fişier"/>
+  <phrase i="544" t="Ultimul="/>
+  <phrase i="543" t="Încărcare HC respins"/>
+  <phrase i="542" t="Telefon-Înreg-Resp"/>
+  <phrase i="541" t="Reiniţializare-Repornire"/>
+  <phrase i="540" t="Reiniţializare-reiniţializare"/>
+  <phrase i="539" t="Telefon-Reiniţializare-IP"/>
+  <phrase i="538" t="Tastatură-telefon"/>
+  <phrase i="537" t="Diag.-telefon"/>
+  <phrase i="536" t="Failback"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-abandonat-TCP"/>
+  <phrase i="532" t="CM-reiniţializare-TCP"/>
+  <phrase i="531" t="TCP-Incorect-ACK"/>
+  <phrase i="530" t="Eroare verificare info config."/>
+  <phrase i="529" t="Informaţii port"/>
+  <phrase i="528" t="Informaţii Ethernet"/>
+  <phrase i="527" t="Prea mare %s"/>
+  <phrase i="526" t="De la "/>
+  <phrase i="525" t="Nici o intrare"/>
+  <phrase i="524" t="Introd. ID utiliz. şi parola"/>
+  <phrase i="523" t="Parola"/>
+  <phrase i="522" t="NumeUtilizator"/>
+  <phrase i="521" t="Selectare serviciu..."/>
+  <phrase i="520" t="Gestionare apel curent..."/>
+  <phrase i="519" t="Eroare dimensiune TFTP"/>
+  <phrase i="518" t="Fişier frază"/>
+  <phrase i="517" t="Fişier imagine"/>
+  <phrase i="516" t="%s indisponibil"/>
+  <phrase i="515" t="%s incorect"/>
+  <phrase i="514" t="Înregistrare în jurnal %d"/>
+  <phrase i="513" t="Acces"/>
+  <phrase i="511" t="Telefon"/>
+  <phrase i="510" t="Reţea"/>
+  <phrase i="509" t="Flux %d"/>
+  <phrase i="508" t="Statistici flux"/>
+  <phrase i="507" t="Jurnale dispozitiv"/>
+  <phrase i="506" t="Port %d"/>
+  <phrase i="505" t="Ethernet"/>
+  <phrase i="504" t="Informaţii dispozitiv"/>
+  <phrase i="503" t="Întârziere redirecţionare"/>
+  <phrase i="502" t="Eliminare configuraţie"/>
+  <phrase i="501" t="TFTP alternativ"/>
+  <phrase i="500" t="Adresă DHCP eliberată"/>
+  <phrase i="499" t="DHCP activat"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Receptor"/>
+  <phrase i="494" t="Versiune"/>
+  <phrase i="493" t="Înapoi"/>
+  <phrase i="492" t=" ACTIVAT"/>
+  <phrase i="491" t=" DA"/>
+  <phrase i="490" t=" DEZACTIVAT"/>
+  <phrase i="489" t=" NU"/>
+  <phrase i="488" t="Întârziere RTP"/>
+  <phrase i="487" t="Eroare TFTP"/>
+  <phrase i="486" t="Eroare acces TFTP"/>
+  <phrase i="485" t="Fişier negăsit"/>
+  <phrase i="484" t="Ultimul=0x%02X"/>
+  <phrase i="483" t="CM-închis-TCP"/>
+  <phrase i="482" t="Expirare-TCP"/>
+  <phrase i="481" t="Iniţializat"/>
+  <phrase i="480" t="Nume=%15s"/>
+  <phrase i="479" t="Actualizare software"/>
+  <phrase i="478" t="Eroare sumă de control ROM"/>
+  <phrase i="477" t=" Încărcare="/>
+  <phrase i="474" t="Adresă IP dublată"/>
+  <phrase i="473" t="Adresă IP emisă"/>
+  <phrase i="472" t="Se reiniţializează"/>
+  <phrase i="471" t="Solicitare listă servere"/>
+  <phrase i="470" t="Solicitare stare viteză"/>
+  <phrase i="469" t="Solicitare stare linie"/>
+  <phrase i="468" t="Solicitare set cheie soft"/>
+  <phrase i="467" t="Solicitare şablon cheie soft"/>
+  <phrase i="466" t="Solicitare şablon"/>
+  <phrase i="465" t="Pornire DSP"/>
+  <phrase i="464" t="Verificare încărcare"/>
+  <phrase i="463" t="Înregistrare respinsă"/>
+  <phrase i="462" t="Înregistrare"/>
+  <phrase i="461" t="Se deschide "/>
+  <phrase i="460" t="Configurare listă CM"/>
+  <phrase i="459" t="Configurare IP"/>
+  <phrase i="458" t="Configurare VLAN"/>
+  <phrase i="457" t="%d din %d"/>
+  <phrase i="456" t="Info fabricaţie incorecte"/>
+  <phrase i="455" t="Eroare XML [%d]!"/>
+  <phrase i="454" t="Eroare HTTP [%d]!"/>
+  <phrase i="453" t="Gazdă negăsită"/>
+  <phrase i="452" t="Cerere HTTP anulată"/>
+  <phrase i="451" t="Redirecţionare..."/>
+  <phrase i="450" t="Este necesară o autorizaţie!"/>
+  <phrase i="449" t="Jumătate"/>
+  <phrase i="448" t="Complet"/>
+  <phrase i="447" t="Durată activitate"/>
+  <phrase i="446" t="Eroare tip comprimare"/>
+  <phrase i="445" t="Cod eroare TCP"/>
+  <phrase i="444" t="Eroare versiune"/>
+  <phrase i="443" t="Eroare disc plin"/>
+  <phrase i="442" t="Eroare dimensiune CFG TFTP"/>
+  <phrase i="441" t="Întârziere DSP"/>
+  <phrase i="440" t="Golit"/>
+  <phrase i="439" t="Expirare DSP Keepalive"/>
+  <phrase i="438" t="Eroare DSP"/>
+  <phrase i="437" t="VLAN incorect"/>
+  <phrase i="436" t="Adresă IP incorectă"/>
+  <phrase i="435" t="Mască subreţea incorectă"/>
+  <phrase i="434" t=" Indisp."/>
+  <phrase i="433" t=" În aşteptare"/>
+  <phrase i="432" t=" Activ"/>
+  <phrase i="431" t="Server BOOTP utilizat"/>
+  <phrase i="430" t="Eroare programare"/>
+  <phrase i="429" t="IP dublat"/>
+  <phrase i="428" t="Nici un ruter implicit"/>
+  <phrase i="427" t="Fişier Cnf disponibil"/>
+  <phrase i="426" t="Eroare sumă de control"/>
+  <phrase i="425" t="ID încărcare incorect"/>
+  <phrase i="424" t="Nici un IP server DNS"/>
+  <phrase i="423" t="Expirare DNS"/>
+  <phrase i="422" t="Gazdă DNS necunoscută"/>
+  <phrase i="421" t="Eroare generală TFTP"/>
+  <phrase i="420" t="Fişier CFG negăsit"/>
+  <phrase i="419" t="Expirare TFTP"/>
+  <phrase i="418" t="Expirare DHCP"/>
+  <phrase i="417" t="Ruter solicitat"/>
+  <phrase i="416" t="Ruterul nu este în subreţea"/>
+  <phrase i="415" t="Server TFTP solicitat"/>
+  <phrase i="414" t="Informaţie incorectă"/>
+  <phrase i="413" t="Suprimare BCast DEZACTIVATĂ"/>
+  <phrase i="412" t="Suprimare BCast ACTIVATĂ"/>
+  <phrase i="410" t="Volum receptor salvat!"/>
+  <phrase i="409" t="Volum cască salvat!"/>
+  <phrase i="408" t="Volum difuzor salvat!"/>
+  <phrase i="407" t="Modif. nu au fost salvate!"/>
+  <phrase i="406" t="Salvaţi ajustările de volum?"/>
+  <phrase i="405" t="Introducere date intrare..."/>
+  <phrase i="404" t="Servicii indisponibile"/>
+  <phrase i="403" t="SERVICII"/>
+  <phrase i="402" t="Vizualizare info hardware"/>
+  <phrase i="401" t="Informaţii hardware"/>
+  <phrase i="400" t="Vizualizare informaţii stivă"/>
+  <phrase i="399" t="Monitor stivă"/>
+  <phrase i="398" t="Vizualizare info depanare"/>
+  <phrase i="397" t="Ecran depanare"/>
+  <phrase i="396" t="Vizualizare versiuni firmware"/>
+  <phrase i="395" t="Versiuni firmware"/>
+  <phrase i="394" t="Vizualizare statistici reţea"/>
+  <phrase i="393" t="Statistici reţea"/>
+  <phrase i="392" t="Vizualizare mesaje de stare"/>
+  <phrase i="391" t="Intrare validată"/>
+  <phrase i="390" t="%s nou:"/>
+  <phrase i="389" t="%s curent:"/>
+  <phrase i="388" t="Editare %s"/>
+  <phrase i="387" t="Stare setări"/>
+  <phrase i="386" t="Selectare element stare..."/>
+  <phrase i="385" t="Statistici stivă"/>
+  <phrase i="384" t="Mesaje de stare"/>
+  <phrase i="383" t="Selectare setare reţea..."/>
+  <phrase i="382" t="Listă sonerii indisponibilă!"/>
+  <phrase i="381" t="Fişier listă sonerie incorect!"/>
+  <phrase i="380" t="Fişier sonerie indisponibil!"/>
+  <phrase i="379" t="Solicitare fişier sonerie ..."/>
+  <phrase i="378" t="Tip sonerie"/>
+  <phrase i="377" t="Selectare sonerie..."/>
+  <phrase i="376" t="Solicitare listă sonerii..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Modif. acceptată şi salvată"/>
+  <phrase i="372" t="Modificare contrast..."/>
+  <phrase i="371" t="Toate modificările salvate"/>
+  <phrase i="370" t="Setări fabrică restaurate "/>
+  <phrase i="369" t="Setările salvate restaurate"/>
+  <phrase i="368" t="Selectare setare..."/>
+  <phrase i="367" t="SETĂRI"/>
+  <phrase i="366" t="Stare"/>
+  <phrase i="365" t="Configuraţie reţea"/>
+  <phrase i="364" t="Contrast"/>
+  <phrase i="363" t="Rafinare criterii căutare..."/>
+  <phrase i="362" t="Nici o înregistrare"/>
+  <phrase i="361" t="%d înregistrări"/>
+  <phrase i="360" t="Căutare %s"/>
+  <phrase i="359" t="Istoric apeluri golit!"/>
+  <phrase i="358" t="Selectare director..."/>
+  <phrase i="357" t="URL director incorect!..."/>
+  <phrase i="356" t="DIRECTOR"/>
+  <phrase i="355" t="Apeluri efectuate"/>
+  <phrase i="354" t="Apeluri primite"/>
+  <phrase i="353" t="Apeluri pierdute"/>
+  <phrase i="352" t="CM închis, caract. dezactivate"/>
+  <phrase i="351" t="%s pentru"/>
+  <phrase i="350" t="Acea tastă nu este activă aici"/>
+  <phrase i="349" t="Solicitare..."/>
+  <phrase i="348" t="Statistici apeluri"/>
+  <phrase i="347" t="INFORMAŢII"/>
+  <phrase i="346" t="Sel. o cheie pt. inf. sup..."/>
+  <phrase i="345" t="Apăsaţi tasta  pt. anulare.."/>
+  <phrase i="344" t="Toate câmpurile salvate"/>
+  <phrase i="343" t="Nici o modificare salvată"/>
+  <phrase i="342" t="%d zile, "/>
+  <phrase i="341" t="1 zi, "/>
+  <phrase i="340" t="La%s la"/>
+  <phrase i="339" t="%s la"/>
+  <phrase i="338" t="Ieri la"/>
+  <phrase i="337" t="Azi la"/>
+  <phrase i="336" t="Sâmbătă"/>
+  <phrase i="335" t="Vineri"/>
+  <phrase i="334" t="Joi"/>
+  <phrase i="333" t="Miercuri"/>
+  <phrase i="332" t="Marţi"/>
+  <phrase i="331" t="Luni"/>
+  <phrase i="330" t="Duminică"/>
+  <phrase i="329" t="Către %s"/>
+  <phrase i="328" t="Număr necunoscut"/>
+  <phrase i="327" t="De la %s"/>
+  <phrase i="326" t="Pentru %s"/>
+  <phrase i="325" t="Redirecţionare %s"/>
+  <phrase i="324" t="Apel extern"/>
+  <phrase i="323" t="În uz la distanţă"/>
+  <phrase i="322" t="%d apel nou pierdut%c"/>
+  <phrase i="321" t="Lungiri Rx"/>
+  <phrase i="320" t="Scurtări Rx"/>
+  <phrase i="319" t="Difuzări Rx"/>
+  <phrase i="318" t="Difuzări multiple Rx"/>
+  <phrase i="317" t="Pitic Rx"/>
+  <phrase i="316" t="Preambul incorect Rx"/>
+  <phrase i="315" t="Erori CRC Rx"/>
+  <phrase i="314" t="Cadre Rx"/>
+  <phrase i="313" t="Lungire/CRC Rx"/>
+  <phrase i="312" t="Ieşiri din execuţie Rx"/>
+  <phrase i="311" t="Abandonare amânată Tx"/>
+  <phrase i="310" t="Coliziuni Tx"/>
+  <phrase i="309" t="Difuzări multiple Tx"/>
+  <phrase i="308" t="Difuzări Tx"/>
+  <phrase i="307" t="Cadre Tx"/>
+  <phrase i="306" t="Coliziuni excesive Tx"/>
+  <phrase i="305" t="depăşire Suprimare"/>
+  <phrase i="304" t="bpdu Drop"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Difuzare multiplă Tx"/>
+  <phrase i="287" t="Difuzare Tx"/>
+  <phrase i="286" t="LungimeExces Tx"/>
+  <phrase i="285" t="ExecuţieNecorespFifo Tx"/>
+  <phrase i="284" t="Coliziuni Tx"/>
+  <phrase i="283" t="PachBuneTotal Tx"/>
+  <phrase i="282" t="ColiziuneÎntârziată Tx"/>
+  <phrase i="281" t="ÎntârzExces Tx"/>
+  <phrase i="280" t="SuprimareJeton Rx"/>
+  <phrase i="272" t="EroareLung Rx"/>
+  <phrase i="271" t="Rx lungBine"/>
+  <phrase i="270" t="Rx scurtBine"/>
+  <phrase i="269" t="EroareScurt Rx"/>
+  <phrase i="268" t="Dif. simplă Rx"/>
+  <phrase i="267" t="Difuzare Rx"/>
+  <phrase i="266" t="Difuzare multiplă Rx"/>
+  <phrase i="265" t="EroareAliniere Rx"/>
+  <phrase i="264" t="EroareCRC Rx"/>
+  <phrase i="263" t="Total octeţi"/>
+  <phrase i="262" t="PachTotal Rx"/>
+  <phrase i="261" t="Evenimente purtătoare"/>
+  <phrase i="260" t="RTP incorect"/>
+  <phrase i="259" t="Nu funcţionează"/>
+  <phrase i="258" t="Nepregătit"/>
+  <phrase i="257" t="Distrugere"/>
+  <phrase i="255" t="Oră început receptor"/>
+  <phrase i="254" t="Octeţi receptor"/>
+  <phrase i="253" t="Pachete receptor"/>
+  <phrase i="252" t="Oră raport receptor"/>
+  <phrase i="251" t="Rapoarte receptor"/>
+  <phrase i="250" t="Instrument receptor"/>
+  <phrase i="249" t="Variaţie Întârziere receptor"/>
+  <phrase i="248" t="Pachete pierdute receptor"/>
+  <phrase i="247" t="Oră început expeditor"/>
+  <phrase i="246" t="Oră raport expeditor"/>
+  <phrase i="245" t="Rapoarte expeditor"/>
+  <phrase i="244" t="Instrument expeditor"/>
+  <phrase i="243" t="Octeţi expeditor"/>
+  <phrase i="242" t="Pachete expeditor"/>
+  <phrase i="241" t="Nume"/>
+  <phrase i="240" t="Stare rând"/>
+  <phrase i="239" t="Oră începere"/>
+  <phrase i="238" t="La revedere"/>
+  <phrase i="237" t="Alăturări receptor"/>
+  <phrase i="236" t="Alăturări expeditor"/>
+  <phrase i="235" t="Adresă locală"/>
+  <phrase i="234" t="Adresă la distanţă "/>
+  <phrase i="233" t="Domeniu"/>
+  <phrase i="232" t="Port rapid"/>
+  <phrase i="231" t="TFTP fixat"/>
+  <phrase i="230" t="DHCP dezactivat"/>
+  <phrase i="229" t="Durată URL inactivitate"/>
+  <phrase i="228" t="URL inactivitate"/>
+  <phrase i="227" t="URL servicii"/>
+  <phrase i="226" t="URL mesaje"/>
+  <phrase i="225" t="URL directoare"/>
+  <phrase i="224" t="URL informaţii"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="ID VLAN admin."/>
+  <phrase i="217" t="ID VLAN operaţional"/>
+  <phrase i="216" t="Server DNS 5"/>
+  <phrase i="215" t="Server DNS 4"/>
+  <phrase i="214" t="Server DNS 3"/>
+  <phrase i="213" t="Server DNS 2"/>
+  <phrase i="212" t="Server DNS 1"/>
+  <phrase i="211" t="Ruter implicit 5"/>
+  <phrase i="210" t="Ruter implicit 4"/>
+  <phrase i="209" t="Ruter implicit 3"/>
+  <phrase i="208" t="Ruter implicit 2"/>
+  <phrase i="207" t="Ruter implicit 1"/>
+  <phrase i="206" t="Server TFTP 1"/>
+  <phrase i="205" t="Mască subreţea"/>
+  <phrase i="204" t="Adresă IP"/>
+  <phrase i="203" t="Nume domeniu"/>
+  <phrase i="202" t="Nume gazdă"/>
+  <phrase i="201" t="Adresă MAC"/>
+  <phrase i="199" t="Resp."/>
+  <phrase i="198" t="Nu există linie dispon pt. Prel"/>
+  <phrase i="197" t="Transfer extern restricţionat"/>
+  <phrase i="196" t="Fără bandă dispon. pt. preluare"/>
+  <phrase i="195" t="Niciun apel dispon pt. Prel"/>
+  <phrase i="194" t="Loc de parcare indisponibil"/>
+  <phrase i="193" t="Deconectat de la grupul hunting"/>
+  <phrase i="192" t="IeşireH"/>
+  <phrase i="191" t="PrelAlt"/>
+  <phrase i="190" t="Max. expirare durată aşteptare"/>
+  <phrase i="189" t="Max. expirare durată apel"/>
+  <phrase i="188" t="ModVideo"/>
+  <phrase i="187" t="Lăţime bandă video indisp."/>
+  <phrase i="186" t="Eroare securitate"/>
+  <phrase i="185" t="Număr neconfigurat"/>
+  <phrase i="184" t="Mcid reuşit"/>
+  <phrase i="183" t="Imposibil de alăturat apeluri"/>
+  <phrase i="182" t="Impos. de finalizat transferul"/>
+  <phrase i="181" t="ForţareC"/>
+  <phrase i="180" t="DevIm"/>
+  <phrase i="179" t="ListConf"/>
+  <phrase i="178" t="Select."/>
+  <phrase i="177" t="TrnsfDir"/>
+  <phrase i="176" t="MCID"/>
+  <phrase i="175" t="QRT"/>
+  <phrase i="174" t="Trafic aglomerat. Reîncercaţi."/>
+  <phrase i="173" t="Serviciu inactiv"/>
+  <phrase i="172" t="Revenire ParcareApel"/>
+  <phrase i="171" t="Nici un nr. parcare disponibil"/>
+  <phrase i="170" t="Tip dispozitiv incompatibil"/>
+  <phrase i="169" t="Există o altă intrare forţată"/>
+  <phrase i="168" t="Eşec setare intrare forţată"/>
+  <phrase i="167" t="IntrareF"/>
+  <phrase i="166" t="Congestie reţea,rerutare"/>
+  <phrase i="165" t="ApelInv"/>
+  <phrase i="164" t="DevTot"/>
+  <phrase i="163" t="ND"/>
+  <phrase i="162" t="TrnsfMV"/>
+  <phrase i="161" t="SetSupv"/>
+  <phrase i="160" t="Intrcpt"/>
+  <phrase i="159" t="Redir."/>
+  <phrase i="158" t="CăsuţăVocală"/>
+  <phrase i="157" t="ElUltAp"/>
+  <phrase i="156" t="Număr necunoscut"/>
+  <phrase i="155" t="Lăţime bandă insuficientă"/>
+  <phrase i="154" t="Privat"/>
+  <phrase i="153" t="Număr parcare"/>
+  <phrase i="152" t="Conferinţă"/>
+  <phrase i="151" t="Eroare nepotrivire"/>
+  <phrase i="150" t="Eroare necunoscută"/>
+  <phrase i="149" t="Eroare depăşire limită"/>
+  <phrase i="148" t="Eroare bază de date"/>
+  <phrase i="147" t="Eroare configDB"/>
+  <phrase i="146" t="Eroare fără licenţă"/>
+  <phrase i="145" t="Tastă inactivă"/>
+  <phrase i="144" t="Depăşire părţi maxime"/>
+  <phrase i="143" t="Info participant inexistente"/>
+  <phrase i="142" t="Deja în conferinţă"/>
+  <phrase i="141" t="Participant conf. incorect"/>
+  <phrase i="140" t="Imp. pus aştept. control primar"/>
+  <phrase i="139" t="Nici un pod conferinţă"/>
+  <phrase i="138" t="Impos. de finalizat conferinţa"/>
+  <phrase i="137" t="Redirecţionat către"/>
+  <phrase i="136" t="Aveţi căsuţă vocală"/>
+  <phrase i="135" t="Eşec temp."/>
+  <phrase i="134" t="Numai primar"/>
+  <phrase i="133" t="Apel parcat la"/>
+  <phrase i="132" t="Introducere număr"/>
+  <phrase i="131" t="În uz la distanţă"/>
+  <phrase i="130" t="Continuare apel"/>
+  <phrase i="129" t="Parcare apel"/>
+  <phrase i="128" t="Transfer apel"/>
+  <phrase i="127" t="Apel în aşteptare"/>
+  <phrase i="126" t="Linie în uz"/>
+  <phrase i="125" t="Ocupat"/>
+  <phrase i="124" t="Conectat"/>
+  <phrase i="123" t="De la "/>
+  <phrase i="122" t="Sonerie ieşire"/>
+  <phrase i="121" t="În furcă"/>
+  <phrase i="120" t="Scos din furcă"/>
+  <phrase i="119" t="Opţiuni curente"/>
+  <phrase i="118" t="PrelGrp"/>
+  <phrase i="117" t="Preluare"/>
+  <phrase i="116" t="Întâln."/>
+  <phrase i="115" t="Alăt."/>
+  <phrase i="114" t="Parcare"/>
+  <phrase i="113" t="Conf."/>
+  <phrase i="112" t="Informaţii"/>
+  <phrase i="111" t="Răspuns"/>
+  <phrase i="110" t="Reluare"/>
+  <phrase i="109" t="TermApel"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="RedirFărăRăsp"/>
+  <phrase i="106" t="RedirOcp"/>
+  <phrase i="105" t="RedirTOT"/>
+  <phrase i="104" t="Transfer"/>
+  <phrase i="103" t="Aştept."/>
+  <phrase i="102" t="ApelNou"/>
+  <phrase i="101" t="Reapel."/>
+  <phrase i="65" t="Imposibil de trimis apelul la mobil"/>
+  <phrase i="64" t="Imposibil de preluat apel parcat"/>
+  <phrase i="63" t="Întâln. este indisponibil"/>
+  <phrase i="62" t="Conferinţă indisponibilă"/>
+  <phrase i="61" t="Preluare indisponibilă"/>
+  <phrase i="60" t="ApelAbr"/>
+  <phrase i="59" t="Salturi RedirTot depăşite"/>
+  <phrase i="58" t="Buclă RedirTot detectată"/>
+  <phrase i="57" t="Nu deranjaţi este activ"/>
+  <phrase i="56" t="Nu deranjaţi"/>
+  <phrase i="55" t="Util. Linie sau Alăt pt finaliz"/>
+  <phrase i="54" t="Grup de hunting"/>
+  <phrase i="53" t="Instrument de raportare a calit"/>
+  <phrase i="52" t="Listă conferinţă"/>
+  <phrase i="51" t="Terminare apel"/>
+  <phrase i="50" t="Video"/>
+  <phrase i="49" t="Altă preluare"/>
+  <phrase i="48" t="Eliminare ultim participant"/>
+  <phrase i="47" t="Preluare grup"/>
+  <phrase i="46" t="ID apel periculos"/>
+  <phrase i="45" t="RedirTotală"/>
+  <phrase i="44" t="Şoaptă"/>
+  <phrase i="43" t="Mobil"/>
+  <phrase i="42" t="Sesiune înregistrare inactivă"/>
+  <phrase i="41" t="Înregistrare deja în derulare"/>
+  <phrase i="40" t="Înregistr în aştept activ apel"/>
+  <phrase i="39" t="Monitorizare"/>
+  <phrase i="38" t="Dispozitiv neautorizat"/>
+  <phrase i="37" t="Fără resurse"/>
+  <phrase i="36" t="Configurare nereuşită"/>
+  <phrase i="35" t="Revenire din aşteptare"/>
+  <phrase i="34" t="Apel în aşteptare"/>
+  <phrase i="33" t="Nepreg."/>
+  <phrase i="32" t="Pregătit"/>
+  <phrase i="31" t="Alăturare la grupul de hunting"/>
+  <phrase i="30" t="Apeluri în coadă"/>
+  <phrase i="29" t="Rezultate căutare"/>
+  <phrase i="28" t="Nici o înregistrare găsită"/>
+  <phrase i="27" t="Înregistrări 1 la"/>
+  <phrase i="26" t="din"/>
+  <phrase i="25" t="Introduceţi PIN-ul"/>
+  <phrase i="24" t="PIN greşit"/>
+  <phrase i="23" t="Login reuşit"/>
+  <phrase i="22" t="Serviciu de noapte dezactivat"/>
+  <phrase i="21" t="Serviciu de noapte activ"/>
+  <phrase i="20" t="Serviciu de noapte"/>
+  <phrase i="19" t="Introduceţi criterii de căutare"/>
+  <phrase i="18" t="Servicii locale"/>
+  <phrase i="17" t="Selectaţi un serviciu"/>
+  <phrase i="16" t="Destinaţie transfer ocupată"/>
+  <phrase i="15" t="Selectare linie"/>
+  <phrase i="14" t="Apelare"/>
+  <phrase i="13" t="Terminaţi apelul"/>
+  <phrase i="12" t="Aşteptare server secundar"/>
+  <phrase i="11" t="Nr. maxim telefoane depăşit"/>
+  <phrase i="10" t="Serv. CM Fallback operaţional"/>
+  <phrase i="9" t="Apeluri disponib. pt. preluare"/>
+  <phrase i="8" t="Introduceţi cod problemă client"/>
+  <phrase i="7" t="Introduceţi codul de autorizare"/>
+  <phrase i="6" t="Dispoz în locaţie la distanţă"/>
+  <phrase i="5" t="Dispozitiv în locaţie proprie"/>
+  <phrase i="4" t="Login"/>
+  <phrase i="3" t="Flash"/>
+  <phrase i="2" t="Cont"/>
+</phrases>

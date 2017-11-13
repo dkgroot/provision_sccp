@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Serbian_Republic_of_Montenegro</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nema dostupne linije za preuz."/>
+	<phrase i="197" t="Spoljni prenos je ogranièen"/>
+	<phrase i="196" t="Nema dostupnog propusnog opsega za preuzimanje"/>
+	<phrase i="195" t="Nema raspolo¾ivog poziva za preuzimanje"/>
+	<phrase i="194" t="Nedostupan prikljuèak za parkiranje"/>
+	<phrase i="193" t="Odjavljen iz Hunt grupe"/>
+	<phrase i="192" t="HLog"/>
+	<phrase i="191" t="OJaviSe"/>
+	<phrase i="190" t="Prekoraèeno vremensko ogranièenje maksimalnog trajanja èekanja"/>
+	<phrase i="189" t="Prekoraèeno vremensko ogranièenje maksimalnog trajanja poziva"/>
+	<phrase i="188" t="VidRe¾im"/>
+	<phrase i="187" t="Neraspolo¾iv video pr. opseg"/>
+	<phrase i="186" t="Bezbednosna gre¹ka"/>
+	<phrase i="185" t="Broj nije konfigurisan"/>
+	<phrase i="184" t="Uspe¹na Idzp"/>
+	<phrase i="183" t="Nije moguæe spojiti pozive"/>
+	<phrase i="182" t="Nije moguæe dovr¹iti prenos"/>
+	<phrase i="181" t="kDodSebe"/>
+	<phrase i="180" t="tSkreni"/>
+	<phrase i="179" t="Uèesnici"/>
+	<phrase i="178" t="Izbor"/>
+	<phrase i="177" t="DirPren"/>
+	<phrase i="176" t="IDZP"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Veliki saobr. Pok. pon. kas."/>
+	<phrase i="173" t="Usluga nije aktivna"/>
+	<phrase i="172" t="Promena smera pozivnog parka"/>
+	<phrase i="171" t="Broj parka nije raspolo¾iv"/>
+	<phrase i="170" t="Nekompatibilan tip ureðaja"/>
+	<phrase i="169" t="Postoji jo¹ jedno dodavanje"/>
+	<phrase i="168" t="Konf. dodavanja nije uspelo"/>
+	<phrase i="167" t="DodSebe"/>
+	<phrase i="166" t="Zagu¹enje mre¾e, preusmeravanje"/>
+	<phrase i="165" t="PrimOb"/>
+	<phrase i="164" t="SkrSve"/>
+	<phrase i="163" t="NeUzn"/>
+	<phrase i="162" t="PrenNaGP"/>
+	<phrase i="161" t="PostNadz"/>
+	<phrase i="160" t="Presr"/>
+	<phrase i="159" t="Preusmeri"/>
+	<phrase i="158" t="Glasovna po¹ta"/>
+	<phrase i="157" t="UklPUè"/>
+	<phrase i="156" t="Nepoznati broj"/>
+	<phrase i="155" t="Propusni opseg nije dovoljan"/>
+	<phrase i="154" t="Privatno"/>
+	<phrase i="153" t="Broj parka"/>
+	<phrase i="152" t="Konferencija"/>
+	<phrase i="151" t="Gre¹ka u razvrstavanju"/>
+	<phrase i="150" t="Nepoznata gre¹ka"/>
+	<phrase i="149" t="Gre¹ka zbog prekor. ograniè."/>
+	<phrase i="148" t="Gre¹ka u bazi podataka"/>
+	<phrase i="147" t="Gre¹ka u konfiguraciji DB-a"/>
+	<phrase i="146" t="Gre¹ka zbog nedostatka licence"/>
+	<phrase i="145" t="Taster nije aktivan"/>
+	<phrase i="144" t="Prekoraèen je maks. broj uè."/>
+	<phrase i="143" t="Nema informacija o uèesniku"/>
+	<phrase i="142" t="Veæ je ukljuèen u konferenciju"/>
+	<phrase i="141" t="Neva¾eæi uèesnik konferencije"/>
+	<phrase i="140" t="Nije mog. odr¾ati prim.kontr."/>
+	<phrase i="139" t="Ne postoji most konferencije"/>
+	<phrase i="138" t="Nije moguæe dovr¹iti konfer."/>
+	<phrase i="137" t="Prosleðeno u"/>
+	<phrase i="136" t="Imate glasovnu po¹tu"/>
+	<phrase i="135" t="Privremeni neuspeh"/>
+	<phrase i="134" t="Samo primarno"/>
+	<phrase i="133" t="Pozivni park u"/>
+	<phrase i="132" t="Unesite broj"/>
+	<phrase i="131" t="Upotreba daljinskog prenosa"/>
+	<phrase i="130" t="Nastavak poziva"/>
+	<phrase i="129" t="Pozivni park"/>
+	<phrase i="128" t="Prenos poziva"/>
+	<phrase i="127" t="Èekanje poziva"/>
+	<phrase i="126" t="Linija u upotrebi"/>
+	<phrase i="125" t="Zauzeto"/>
+	<phrase i="124" t="Povezano"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Zavr¹ni ton"/>
+	<phrase i="121" t="Spu¹tena slu¹alica"/>
+	<phrase i="120" t="Podignuta slu¹alica"/>
+	<phrase i="119" t="Va¹e trenutne opcije"/>
+	<phrase i="118" t="Konfer"/>
+	<phrase i="117" t="JaviSe"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Spoji"/>
+	<phrase i="114" t="Park"/>
+	<phrase i="113" t="Konfer"/>
+	<phrase i="112" t="Informacije"/>
+	<phrase i="111" t="Odgovori"/>
+	<phrase i="110" t="Nastavi"/>
+	<phrase i="109" t="Prekini"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PrBezOdg"/>
+	<phrase i="106" t="PrZauz"/>
+	<phrase i="105" t="PrSve"/>
+	<phrase i="104" t="Prenesi"/>
+	<phrase i="103" t="Èekanje"/>
+	<phrase i="102" t="NoviPoz"/>
+	<phrase i="101" t="PonBir"/>
+</phrases>

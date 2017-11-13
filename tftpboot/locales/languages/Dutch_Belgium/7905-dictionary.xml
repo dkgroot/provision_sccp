@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Dutch_Netherlands</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <phrase i="1055" t="Aanmelden"/>
+  <phrase i="1054" t="Flash"/>
+  <phrase i="1053" t="Acct"/>
+  <phrase i="1052" t="Alle systemen weer instellen"/>
+  <phrase i="1051" t="op de standaardwaarden?"/>
+  <phrase i="1050" t="Telefoonlijstservices"/>
+  <phrase i="1049" t="XML-services"/>
+  <phrase i="1048" t="Verbinden met server"/>
+  <phrase i="1047" t="Verbinding mislukt."/>
+  <phrase i="1046" t="Telefoon opnieuw opstarten?"/>
+  <phrase i="1045" t="MENU"/>
+  <phrase i="1044" t="Taal"/>
+  <phrase i="1043" t="Alternatief domein"/>
+  <phrase i="1042" t="Alternatieve DNS"/>
+  <phrase i="1041" t="Huidige waarde"/>     
+  <phrase i="1040" t="Nieuwe waarde"/>   
+  <phrase i="1039" t="Standaardrouter"/>
+  <phrase i="1038" t="VLAN ingeschakeld"/>
+  <phrase i="1037" t="CDP ingeschakeld"/>
+  <phrase i="1036" t="Services"/>
+  <phrase i="1035" t="Snelkeuze"/>
+  <phrase i="1034" t="Server opgeven"/>
+  <phrase i="1033" t="Statisch"/>
+  <phrase i="1032" t="Registratiemodus"/>     
+  <phrase i="1031" t="Modus"/>   
+  <phrase i="1030" t="Vorige versies"/>
+  <phrase i="1029" t="Firmware-upgrade"/>   
+  <phrase i="1028" t="Menu Contrast"/>
+  <phrase i="1027" t="Admin-wachtwoord wijzigen"/>  
+  <phrase i="1026" t="Niet beschikbaar"/>
+  <phrase i="1025" t="Voorbeeldtekst"/>     
+  <phrase i="1024" t="Bijwerken"/>   
+  <phrase i="1023" t="Nieuw wachtwoord opgeven"/>
+  <phrase i="1022" t="Berichten"/>
+  <phrase i="1021" t="Instellingen"/>     
+  <phrase i="1020" t="Telefoonlijsten"/>   
+  <phrase i="1019" t="Onjuist wachtwoord"/>  
+  <phrase i="1018" t="Admin-wachtwoord opgeven"/> 
+  <phrase i="1017" t="Ongeldige invoerwaarde"/> 
+  <phrase i="1016" t="SNELKEUZE"/>   
+  <phrase i="1015" t="Ethernet-verbinding verbroken"/>     
+  <phrase i="1014" t="Configureren via TFTP"/>   
+  <phrase i="1013" t="Configureren van IP via DHCP"/>
+  <phrase i="1012" t="VLAN-instelling configureren"/>   
+  <phrase i="1011" t="Nummer niet beschikbaar"/> 
+  <phrase i="1010" t="Niet toegewezen"/> 
+  <phrase i="1009" t="Beltoonvolume"/> 
+  <phrase i="1008" t="Hoornvolume"/> 
+  <phrase i="1007" t="Luidsprekervolume"/> 
+  <phrase i="1006" t="Opnieuw"/> 
+  <phrase i="1005" t="Invoeren"/> 
+  <phrase i="1004" t="Alfa"/> 
+  <phrase i="1003" t="MonUit"/>
+  <phrase i="1002" t="Monitor"/>
+  <phrase i="1001" t="Nummer"/> 
+  <phrase i="1000" t="Bericht"/> 
+  <phrase i="715" t="Down"/>
+  <phrase i="714" t="Bewerking geannuleerd"/>
+  <phrase i="713" t="TFTP niet geautoriseerd: %s"/>
+  <phrase i="712" t="Wissen"/>
+  <phrase i="711" t="Gecodeerd"/>
+  <phrase i="710" t="Geverifieerd"/>
+  <phrase i="709" t="Niet beveiligd"/>
+  <phrase i="708" t="TLS-fout naar "/>
+  <phrase i="707" t="Internettoegang ingeschakeld"/>
+  <phrase i="706" t="Apparaatbeveiligingsmodus"/>
+  <phrase i="704" t="Ongeldig of geen informatie"/>
+  <phrase i="703" t="Genereren van functies mislukt"/>
+  <phrase i="701" t="Mislukt"/>
+  <phrase i="700" t="Timeout"/>
+  <phrase i="699" t="Gelukt"/>
+  <phrase i="697" t="Verbinden..."/>
+  <phrase i="690" t="DSCP voor diensten"/>
+  <phrase i="689" t="DSCP voor configuratie"/>
+  <phrase i="688" t="DSCP voor gespreksbeheer"/>
+  <phrase i="683" t="Spraak-VLAN ingeschakeld"/>
+  <phrase i="682" t="GARP ingeschakeld"/>
+  <phrase i="678" t="Door %s"/>
+  <phrase i="677" t="Doorgeschakeld"/>
+  <phrase i="676" t="KortKies"/>
+  <phrase i="675" t="Service URL status aanvragen"/>
+  <phrase i="674" t="Functietoets status aanvragen"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d nieuwe gemiste oproepen"/>
+  <phrase i="670" t="Standaardbeltoon"/>
+  <phrase i="669" t="Lijn selecteren..."/>
+  <phrase i="668" t="Nummer bewerken"/>  
+  <phrase i="667" t="Phone-Abort"/>
+  <phrase i="666" t="Netwerklocale-versie"/>
+  <phrase i="665" t="Gebruikerslocale-versie"/>
+  <phrase i="664" t="TFTP Request Cancelled"/>
+  <phrase i="663" t="Dhcp Disabled"/>
+  <phrase i="662" t="Ip Address Required"/> 
+  <phrase i="661" t="State "/>
+  <phrase i="660" t="Default"/>
+  <phrase i="659" t="Message Waiting"/>
+  <phrase i="658" t="Handset Only Mode"/>
+  <phrase i="657" t="Modelnummer"/>
+  <phrase i="656" t="Bekijk modelinformatie"/>
+  <phrase i="655" t="Modelinformatie"/>
+  <phrase i="654" t="Link State "/>
+  <phrase i="644" t="Hardware Info"/>
+  <phrase i="643" t="Version TFTP"/>
+  <phrase i="642" t="Version Info"/>
+  <phrase i="641" t="Idle"/>
+  <phrase i="640" t="Not Supported"/>
+  <phrase i="639" t="Error Updating Locale"/>
+  <phrase i="638" t="Wacht voor st. %d antw. van %s"/>
+  <phrase i="637" t="Waiting for %s From %s"/>
+  <phrase i="636" t="BOOTP-server"/>
+  <phrase i="635" t="DHCP-server"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO Revision"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Serienummer"/>
+  <phrase i="626" t="Hardware Revision"/>
+  <phrase i="625" t="Laad-id voor opstarten"/>
+  <phrase i="624" t="Laad-id voor apps"/>
+  <phrase i="623" t="Phone DN"/>
+  <phrase i="610" t="meer"/>
+  <phrase i="609" t="Kies"/>
+  <phrase i="608" t="Sluiten"/>
+  <phrase i="607" t="Omlaag"/>
+  <phrase i="606" t="Omhoog"/>
+  <phrase i="605" t="Annuleren"/>
+  <phrase i="604" t="Bewerk"/>
+  <phrase i="603" t="Nee"/>
+  <phrase i="602" t="Ja"/>
+  <phrase i="601" t="Afspelen"/>
+  <phrase i="600" t="Kiezen"/>
+  <phrase i="599" t="KiezBew"/>
+  <phrase i="598" t="Opslaan"/>
+  <phrase i="597" t="Herstel"/>
+  <phrase i="596" t="Verwij"/>
+  <phrase i="595" t="Fabriek"/>
+  <phrase i="594" t="OK"/>
+  <phrase i="593" t="Validrn"/>
+  <phrase i="592" t="Zoeken"/>
+  <phrase i="591" t="Volgende"/>
+  <phrase i="590" t="Bijwrk"/>
+  <phrase i="589" t="Wissen"/>
+  <phrase i="588" t="Verzend"/>
+  <phrase i="587" t="Toon"/>
+  <phrase i="586" t="Netwerklocale"/>
+  <phrase i="585" t="Gebruikerslandinstelling"/>
+  <phrase i="584" t="Kate File"/>
+  <phrase i="583" t="Tone File"/>
+  <phrase i="582" t="Bel is bezet!"/>
+  <phrase i="581" t="TFTP-server 2"/>
+  <phrase i="578" t="Sw-poortconfiguratie"/>
+  <phrase i="577" t="Pc-poortconfiguratie"/>
+  <phrase i="576" t="Pc-poort uitgeschakeld"/>
+  <phrase i="575" t="Fout"/>
+  <phrase i="574" t="Invalid Argument"/>
+  <phrase i="573" t="Base Phone"/>
+  <phrase i="571" t="MENU CONTRAST"/>
+  <phrase i="570" t="Kies in te stellen contrast"/>
+  <phrase i="569" t="Voicemail"/>
+  <phrase i="568" t="BERICHTEN"/>
+  <phrase i="555" t="CM-ICMP-Unreach"/>
+  <phrase i="554" t="Selecteer een gesprek..."/>
+  <phrase i="553" t="Proxyserver-url"/>
+  <phrase i="552" t="Authenticatie-url"/>
+  <phrase i="551" t="Autom. kiezen geannuleerd"/>
+  <phrase i="550" t="Sidecar Task"/>
+  <phrase i="547" t="HTTP File Error"/>
+  <phrase i="546" t="XML Error [4]: Parse Error"/>
+  <phrase i="544" t="Last="/>
+  <phrase i="543" t="Load Rejected HC"/>
+  <phrase i="542" t="Phone-Reg-Rej"/>
+  <phrase i="541" t="Reset-Restart"/>
+  <phrase i="540" t="Reset-Reset"/>
+  <phrase i="539" t="Phone-Re-IP"/>
+  <phrase i="538" t="Phone-Keypad"/>
+  <phrase i="537" t="Phone-Diag."/>
+  <phrase i="536" t="Failback"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-aborted-TCP"/>
+  <phrase i="532" t="CM-reset-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="526" t="Van "/>
+  <phrase i="525" t="Geen items"/>
+  <phrase i="524" t="Geef gebr.naam en wachtwoord"/>
+  <phrase i="523" t="Wachtwoord"/>
+  <phrase i="522" t="Gebr.naam"/>
+  <phrase i="521" t="Selecteer service..."/>
+  <phrase i="520" t="Huidig gesprek afhandelen..."/>
+  <phrase i="519" t="TFTP Size Error"/>
+  <phrase i="518" t="Phrase File"/>
+  <phrase i="517" t="Glyph File"/>
+  <phrase i="516" t="%s Unavailable"/>
+  <phrase i="515" t="Bad %s"/>
+  <phrase i="514" t="Log %d"/>
+  <phrase i="513" t="Access"/>
+  <phrase i="511" t="Phone"/>
+  <phrase i="510" t="Netwerk"/>
+  <phrase i="509" t="Stream %d"/>
+  <phrase i="508" t="Streaming Statistics"/>
+  <phrase i="507" t="Device Logs"/>
+  <phrase i="506" t="Poort %d"/>
+  <phrase i="505" t="Ethernet"/>
+  <phrase i="504" t="Apparaatgegevens"/>
+  <phrase i="503" t="Verzendinterval"/>
+  <phrase i="502" t="Erase Configuration"/>
+  <phrase i="501" t="Alternatieve TFTP"/>
+  <phrase i="500" t="DHCP-adres vrijgegeven"/>
+  <phrase i="499" t="DHCP actief"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="Versie"/>
+  <phrase i="493" t="Terug"/>
+  <phrase i="492" t=" ON"/>
+  <phrase i="491" t=" JA"/>
+  <phrase i="490" t=" OFF"/>
+  <phrase i="489" t=" NEE"/>
+  <phrase i="488" t="RTP delay"/>
+  <phrase i="487" t="TFTP Error"/>
+  <phrase i="486" t="TFTP Access Error"/>
+  <phrase i="485" t="File Not Found"/>
+  <phrase i="484" t="Last=0x%02X"/>
+  <phrase i="483" t="CM-closed-TCP"/>
+  <phrase i="482" t="TCP-timeout"/>
+  <phrase i="481" t="Initialized"/>
+  <phrase i="480" t="Name=%15s"/>
+  <phrase i="479" t="Updating Software"/>
+  <phrase i="478" t="ROM Checksum Error"/>
+  <phrase i="477" t=" Load="/>
+  <phrase i="474" t="Duplicate IP Address"/>
+  <phrase i="473" t="IP Address Released"/>
+  <phrase i="472" t="Herstarten"/>
+  <phrase i="463" t="Registratie afgewezen"/>
+  <phrase i="462" t="Registreren"/>
+  <phrase i="461" t="Openen "/>
+  <phrase i="460" t="CM-lijst configureren"/>
+  <phrase i="459" t="IP configureren"/>
+  <phrase i="458" t="VLAN configureren"/>
+  <phrase i="457" t="%d van %d"/>
+  <phrase i="456" t="Productiegegevens ongeldig"/>
+  <phrase i="455" t="XML Error [%d]!"/>
+  <phrase i="454" t="HTTP Error [%d]!"/>
+  <phrase i="453" t="Server niet gevonden"/>
+  <phrase i="452" t="HTTP-aanvraag geannuleerd"/>
+  <phrase i="451" t="Zoek server..."/>
+  <phrase i="450" t="Autorisatie vereist!"/>
+  <phrase i="449" t="Half"/>
+  <phrase i="448" t="Full"/>
+  <phrase i="447" t="Elapsed Time"/>
+  <phrase i="446" t="Compression Type Error"/>
+  <phrase i="445" t="TCP Error Code"/>
+  <phrase i="444" t="Version Error"/>
+  <phrase i="437" t="Invalid VLAN"/>
+  <phrase i="436" t="Invalid IP Address"/>
+  <phrase i="435" t="Invalid Subnet mask"/>
+  <phrase i="434" t=" Unavail."/>
+  <phrase i="433" t=" Standby"/>
+  <phrase i="432" t=" Active"/>
+  <phrase i="431" t="BOOTP Server Used"/>
+  <phrase i="430" t="Programming Error"/>
+  <phrase i="429" t="Duplicate IP"/>
+  <phrase i="428" t="No Default Router"/>
+  <phrase i="427" t="Cnf File Available"/>
+  <phrase i="426" t="Checksum Error"/>
+  <phrase i="425" t="Load ID Incorrect"/>
+  <phrase i="424" t="No DNS Server IP"/>
+  <phrase i="423" t="DNS Timeout"/>
+  <phrase i="422" t="DNS Unknown Host"/>
+  <phrase i="421" t="TFTP General Error"/>
+  <phrase i="420" t="CFG File Not Found"/>
+  <phrase i="419" t="TFTP Timeout"/>
+  <phrase i="418" t="DHCP Timeout"/>
+  <phrase i="417" t="Router Required"/>
+  <phrase i="416" t="Router Not On Subnet"/>
+  <phrase i="415" t="TFTP Server Required"/>
+  <phrase i="414" t="Invalid Information"/>
+  <phrase i="413" t="BCast Supress OFF"/>
+  <phrase i="412" t="BCast Supress ON"/>
+  <phrase i="410" t="Hoornvolume opgeslagen!"/>
+  <phrase i="409" t="Headsetvolume opgeslagen!"/>
+  <phrase i="408" t="Luidsprekervolume opgeslagen!"/>
+  <phrase i="407" t="Wijzigingen niet opgeslagen!"/>
+  <phrase i="406" t="Volume opslaan?"/>
+  <phrase i="405" t="Voer gegevens in..."/>
+  <phrase i="404" t="Services niet beschikbaar"/>
+  <phrase i="403" t="SERVICES"/>
+  <phrase i="402" t="View Hardware Information"/>
+  <phrase i="401" t="Hardware Information"/>
+  <phrase i="400" t="View Stack Information"/>
+  <phrase i="399" t="Stack Monitor"/>
+  <phrase i="398" t="View Debug Information"/>
+  <phrase i="397" t="Debug Display"/>
+  <phrase i="396" t="Bekijk Firmware-versies"/>
+  <phrase i="395" t="Firmware-versies"/>
+  <phrase i="394" t="Bekijk netwerkstatistieken"/>
+  <phrase i="393" t="Netwerkstatistieken"/>
+  <phrase i="392" t="Statusberichten weergeven"/>
+  <phrase i="391" t="Opgaaf gevalideerd"/>
+  <phrase i="390" t="New %s:"/>
+  <phrase i="389" t="Current %s:"/>
+  <phrase i="388" t="Edit %s"/>
+  <phrase i="387" t="Instellingenstatus"/>
+  <phrase i="386" t="Selecteer statusitem"/>
+  <phrase i="385" t="Stack Statistics"/>
+  <phrase i="384" t="Statusberichten"/>
+  <phrase i="383" t="Netwerkinstelling selecteren.."/>
+  <phrase i="382" t="Geen beltoon!"/>
+  <phrase i="381" t="Beltoon beschadigd!"/>
+  <phrase i="380" t="Beltoon onbeschikbaar!"/>
+  <phrase i="379" t="Beltoon wordt opgevraagd..."/>
+  <phrase i="378" t="Beltoon"/>
+  <phrase i="377" t="Selecteer beltoon..."/>
+  <phrase i="376" t="Beltonen worden opgevraagd..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Wijzigingen opgeslagen"/>
+  <phrase i="372" t="Wijzig contrast..."/>
+  <phrase i="371" t="Alle wijzigingen opgeslagen"/>
+  <phrase i="370" t="Fabrieksinstellingen hersteld "/>
+  <phrase i="369" t="Opgeslagen instell. hersteld"/>
+  <phrase i="368" t="Selecteer instelling..."/>
+  <phrase i="367" t="INSTELLINGEN"/>
+  <phrase i="366" t="Status"/>
+  <phrase i="365" t="Netwerkconfiguratie"/>
+  <phrase i="364" t="Contrast"/>
+  <phrase i="363" t="Zoekcriteria verfijnen..."/>
+  <phrase i="362" t="Geen records"/>
+  <phrase i="361" t="%d records"/>
+  <phrase i="360" t="%s zoeken"/>
+  <phrase i="359" t="Gespreksoverzicht gewist!"/>
+  <phrase i="358" t="Selecteer een telefoonlijst..."/>
+  <phrase i="357" t="Ongeldige Telefoonlijst URL!.."/>
+  <phrase i="356" t="TELEFOONLIJST"/>
+  <phrase i="355" t="Gevoerde gesprekken"/>
+  <phrase i="354" t="Ontvangen gesprekken"/>
+  <phrase i="353" t="Gemiste oproepen"/>
+  <phrase i="352" t="CM uit, functies inactief."/>
+  <phrase i="351" t="%s voor"/>
+  <phrase i="350" t="Functie niet beschikbaar"/>
+  <phrase i="349" t="Aanvragen..."/>
+  <phrase i="348" t="Belstatistieken"/>
+  <phrase i="347" t="INFORMATIE"/>
+  <phrase i="346" t="Druk op toets voor uitleg..."/>
+  <phrase i="345" t="Druk op  om te annuleren..."/>
+  <phrase i="344" t="Alle velden opgeslagen"/>
+  <phrase i="343" t="Wijziging niet opgeslagen"/>
+  <phrase i="342" t="%d dagen, "/>
+  <phrase i="341" t="1 dag, "/>
+  <phrase i="340" t="Op%s om"/>
+  <phrase i="339" t="%s om"/>
+  <phrase i="338" t="Gisteren om"/>
+  <phrase i="329" t="Naar %s"/>
+  <phrase i="328" t="Onbekend nummer"/>
+  <phrase i="327" t="Van %s"/>
+  <phrase i="326" t="Voor %s"/>
+  <phrase i="325" t="Doorgeschakeld %s"/>
+  <phrase i="324" t="Extern gesprek"/>
+  <phrase i="323" t="Wordt elders gebruikt"/>
+  <phrase i="322" t="%d Nieuwe gemiste oproep%c"/>
+  <phrase i="260" t="RTP Invalid"/>
+  <phrase i="259" t="Not In Service"/>
+  <phrase i="258" t="Not Ready"/>
+  <phrase i="241" t="Naam"/>
+  <phrase i="240" t="Row Status"/>
+  <phrase i="239" t="Starttijd"/>
+  <phrase i="238" t="Byes"/>
+  <phrase i="237" t="Receiver Joins"/>
+  <phrase i="236" t="Sender Joins"/>
+  <phrase i="235" t="Local Address"/>
+  <phrase i="234" t="Remote Address "/>
+  <phrase i="233" t="Domain"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="Fixed TFTP"/>
+  <phrase i="230" t="DHCP Disabled"/>
+  <phrase i="229" t="Ruststand-url-tijd"/>
+  <phrase i="228" t="Ruststand-url"/>
+  <phrase i="227" t="Diensten-url"/>
+  <phrase i="226" t="Berichten-url"/>
+  <phrase i="225" t="Directories-url"/>
+  <phrase i="224" t="Informatie-url"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="Admin. VLAN-id"/>
+  <phrase i="217" t="Id van actief VLAN"/>
+  <phrase i="213" t="DNS-server 2"/>
+  <phrase i="212" t="DNS-server 1"/>
+  <phrase i="207" t="Standaardrouter 1"/>
+  <phrase i="206" t="TFTP-server 1"/>
+  <phrase i="205" t="Subnetmasker"/>
+  <phrase i="204" t="IP-adres"/>
+  <phrase i="203" t="Domeinnaam"/>
+  <phrase i="202" t="Hostnaam"/>
+  <phrase i="201" t="MAC-adres"/>
+  <phrase i="199" t="Reserved2"/>
+  <phrase i="198" t="Reserved1"/>
+	<phrase i="197" t="Extern doorverbinden beperkt"/>
+  <phrase i="194" t="Parkeersleuf is niet beschikbaar"/>
+  <phrase i="193" t="Afgemeld bij groepsnummer"/>
+  <phrase i="192" t="GLog"/>
+	<phrase i="191" t="AOpn"/>
+	<phrase i="190" t="Wachttijd overschreden"/>
+	<phrase i="189" t="Gesprekstijd overschreden"/>
+	<phrase i="188" t="VidMode"/>  
+	<phrase i="187" t="Geen videobandbreedte"/>
+	<phrase i="186" t="Beveiligingsfout"/>  
+  <phrase i="185" t="Nummer niet geconfigureerd"/>
+  <phrase i="184" t="MCID gelukt"/>
+	<phrase i="183" t="Kan gesprekken niet samenv."/>
+	<phrase i="182" t="Kan doorverb. niet voltooien"/>
+	<phrase i="181" t="cInbrkn"/>
+	<phrase i="180" t="dOml"/>
+	<phrase i="179" t="ConfLst"/>
+	<phrase i="178" t="Kies"/>
+	<phrase i="177" t="DirDrvb"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Veel verkeer. Probeer later"/>
+	<phrase i="173" t="Service is niet actief"/>
+	<phrase i="172" t="Parkeren gesprek terugverw"/>
+	<phrase i="171" t="Geen parkeernummer beschikbaar"/>
+	<phrase i="170" t="Ongeschikt telefoontype"/>
+	<phrase i="169" t="Iemand anders breekt al in"/>
+	<phrase i="168" t="Kan niet inbreken"/>
+	<phrase i="167" t="Inbrkn"/>
+	<phrase i="166" t="Netwerkstagnatie, omleiden"/>
+	<phrase i="165" t="TrgBlln"/>
+	<phrase i="164" t="AllOml"/>
+	<phrase i="163" t="NST"/>
+	<phrase i="162" t="DrvrbVM"/>
+	<phrase i="161" t="BekInst"/>
+	<phrase i="160" t="Ondersch"/>
+	<phrase i="159" t="DirOml"/>
+	<phrase i="158" t="Voicemail"/>
+	<phrase i="157" t="Verwdr"/>
+	<phrase i="156" t="Onbekend nummer"/>
+	<phrase i="155" t="Onvoldoende bandbreedte"/>
+	<phrase i="154" t="Privé"/>
+	<phrase i="153" t="Parkeer"/>
+	<phrase i="152" t="Conferentie"/>
+	<phrase i="151" t="Foute combinatie"/>
+	<phrase i="150" t="Onbekende fout"/>
+	<phrase i="149" t="Fout uitvoeringsgrens"/>
+	<phrase i="148" t="Fout database"/>
+	<phrase i="147" t="Fout DBConfigFout DBConfig"/>
+	<phrase i="146" t="Fout geen licentie"/>
+	<phrase i="145" t="Functie niet beschikbaar"/>
+	<phrase i="144" t="Te veel deelnemers"/>
+	<phrase i="143" t="Geen deelnemersinfo"/>
+	<phrase i="142" t="Al in conferentie"/>
+	<phrase i="141" t="Ongeldige deelnemer"/>
+	<phrase i="140" t="Geen wacht voor voorzitter"/>
+	<phrase i="139" t="Geen conferentie beschikbaar"/>
+	<phrase i="138" t="Kan conferentie niet opzetten"/>
+	<phrase i="137" t="Doorgeschakeld nr"/>
+	<phrase i="136" t="U hebt een voicemail"/>
+	<phrase i="135" t="Tijdelijke storing"/>
+	<phrase i="134" t="Alleen primair"/>
+	<phrase i="133" t="Geparkeerd op"/>
+	<phrase i="132" t="Kies bestemming"/>
+	<phrase i="131" t="Wordt elders gebruikt"/>
+	<phrase i="130" t="Gesprek wordt opgezet"/>
+	<phrase i="129" t="Parkeer gesprek"/>
+	<phrase i="128" t="Doorverbinden"/>
+	<phrase i="127" t="Wachtend gesprek"/>
+	<phrase i="126" t="Lijn in gebruik"/>
+	<phrase i="125" t="In gesprek"/>
+	<phrase i="124" t="Verbonden"/>
+	<phrase i="123" t="Van "/>
+	<phrase i="122" t="Gaat over"/>
+	<phrase i="121" t="Niet in gebruik"/>
+	<phrase i="120" t="In gebruik"/>
+	<phrase i="119" t="Beschikbare opties"/>
+	<phrase i="118" t="GOpn"/>
+	<phrase i="117" t="Opnemen"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Samenv"/>
+	<phrase i="114" t="Parkeren"/>
+	<phrase i="113" t="Conf"/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Beantw"/>
+	<phrase i="110" t="Hervat"/>
+	<phrase i="109" t="Einde"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="DschakGnAntw"/>
+	<phrase i="106" t="DschakBez"/>
+	<phrase i="105" t="DschakAl"/>
+	<phrase i="104" t="Doorvb"/>
+	<phrase i="103" t="Wacht"/>
+	<phrase i="102" t="Nieuw"/>
+	<phrase i="101" t="Herhaal"/>
+	<phrase i="9" t="Gesprekken beschikbaar voor opnemen"/>
+	<phrase i="8" t="Klantonderwerpcode invoeren"/>
+	<phrase i="7" t="Autorisatiecode invoeren"/>
+	<phrase i="6" t="Apparaat in zwervende locatie"/>
+	<phrase i="5" t="Apparaat in privé-locatie"/>
+</phrases>

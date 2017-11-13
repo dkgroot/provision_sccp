@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Norwegian_Norway</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.2.release/1</trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+<phrase i="760" t="Lavere"/>
+<phrase i="759" t="Høyere"/>
+<phrase i="758" t="Likt"/>
+<phrase i="757" t="Tilbakestiller fokusprioritet"/>
+<phrase i="756" t="Tidssone"/>
+<phrase i="755" t="Dato"/>
+<phrase i="754" t="Klokkeslett"/>
+<phrase i="753" t="DSP-laste-ID"/>
+<phrase i="752" t="Ingen"/>
+<phrase i="751" t="MOS LQK-versjon"/>
+<phrase i="750" t="Vis anropsstatistikk"/>
+<phrase i="749" t="Skjul sekunder"/>
+<phrase i="748" t="Skjul sekunder"/>
+<phrase i="747" t="Maks. gjemmerate"/>
+<phrase i="746" t="Intervall for gjemmerate"/>
+<phrase i="745" t="Cmltve-skjulerate"/>
+<phrase i="744" t="Maks. MOS LQK"/>
+<phrase i="743" t="Min. MOS LQK"/>
+<phrase i="742" t="Gj.snitt. MOS LQK"/>
+<phrase i="741" t="MOS LQK"/>
+<phrase i="740" t="Sikkerhetskonfigurasjon"/><!-- This phrase is for the Sec Config Menu title -->
+<phrase i="739" t="Angi streng"/>
+<phrase i="738" t="Varighet for tilkoblingsovervåker"/>
+<phrase i="737" t="Oppdaterer sertifikat..."/>
+<phrase i="736" t="DSPPoll-oppgave"/>
+<phrase i="735" t="Venter på tilbakestilling..."/>
+<phrase i="734" t="Venter"/>
+<phrase i="733" t="TLS-oppgave"/>
+<phrase i="732" t="Vis klareringslisten"/>
+<phrase i="731" t="Vis CTL-fil"/>
+<phrase i="730" t="CallManager/TFTP"/>
+<phrase i="729" t="CallManager"/>
+<phrase i="728" t="Klareringsliste"/>
+<phrase i="727" t="CTL-fil"/>
+<phrase i="726" t="TFTP er ikke i CTL"/>
+<phrase i="725" t="Stopp"/>
+<phrase i="724" t="Lås"/>
+<phrase i="723" t="Lås opp"/>
+<phrase i="722" t="Web-tilgang"/>
+<phrase i="721" t="Ikke installert"/>
+<phrase i="720" t="Installert"/>
+<phrase i="719" t="Deaktivert"/>
+<phrase i="718" t="Aktivert"/>
+<phrase i="717" t="Velg sikkerhetsinnstilling ..."/>
+<phrase i="716" t="Sikkerhetskonfigurasjon"/><!-- This is the menu item on the Settings menu -->
+<phrase i="715" t="Ned"/><!-- This phrase is used with Network statistics port status -->
+<phrase i="714" t="Operasjonen ble avbrutt"/>
+<phrase i="713" t="TFTP ikke godkjent: %s"/>
+<phrase i="712" t="Slett"/>
+<phrase i="711" t="Kryptert"/>
+<phrase i="710" t="Godkjent"/>
+<phrase i="709" t="Ikke sikker"/>
+<phrase i="708" t="TLS-feil til "/>
+<phrase i="707" t="Web-tilgang er aktivert"/>
+<phrase i="706" t="Sikkerhetsmodus"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="705" t="Behandler..."/>
+<phrase i="704" t="Ugyldige inndata"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="703" t="Tastgenerering mislyktes"/>
+<phrase i="702" t="Tilkoblingen mislyktes"/>
+<phrase i="701" t="Mislykket"/>
+<phrase i="700" t="Tidsavbrudd"/>
+<phrase i="699" t="Vellykket"/>
+<phrase i="698" t="Autentiseringsforespørsel..."/><!-- Changed by Skate - may need retranslation -->
+<phrase i="697" t="Kobler til..."/>
+<phrase i="696" t="Prøv CAPF på nytt..."/>
+<phrase i="695" t="Genererer taster..."/>
+<phrase i="694" t="Avbryt operasjon"/>
+<phrase i="693" t="Oppdater sertifikat"/>
+<phrase i="692" t="Autentiseringsstreng"/><!-- Changed by Skate - may need retranslation -->
+<phrase i="691" t="Sertifikater"/>
+<phrase i="690" t="DSCP for tjenester"/>
+<phrase i="689" t="DSCP for konfigurasjon"/>
+<phrase i="688" t="DSCP for samtalestyring"/>
+<phrase i="687" t="Filautentisering mislyktes"/>
+<phrase i="686" t="CAST-oppgave"/>
+<phrase i="685" t="Videofunksjon er aktivert"/>
+<phrase i="684" t="Autovalg av linje er aktivert"/>
+<phrase i="683" t="Tale-VLAN er aktivert"/>
+<phrase i="682" t="GARP er aktivert"/>
+<phrase i="681" t="Naboport"/>
+<phrase i="680" t="Nabo-IP-adresse"/>
+<phrase i="679" t="Naboenhets-ID"/>
+<phrase i="678" t="Av %s"/>
+<phrase i="677" t="Viderekoblet"/>
+<phrase i="676" t="Kortnr"/>
+<phrase i="675" t="Ber om tjeneste-URL-status"/>
+<phrase i="674" t="Ber om funksjonstaststatus"/>
+<phrase i="673" t="a"/>
+<phrase i="672" t="p"/>
+<phrase i="671" t="%d nytt ubesvart anrop%c"/><!-- %c will be replaced with &apos;s&apos;, it can be eliminated in translations. The singular form of this phrase is 322.  The %d will be replaced with the number of missed calls -->
+<phrase i="670" t="Standard ringetone"/>
+<phrase i="669" t="Velg linje..."/>
+<phrase i="668" t="Rediger nummer"/>
+<phrase i="667" t="Telefon-Avbryt"/>
+<phrase i="666" t="Versjon for nettverksspråk"/>
+<phrase i="665" t="Versjon for brukerspråk"/>
+<phrase i="664" t="TFTP-forespørsel avbrutt"/>
+<phrase i="663" t="DHCP er deaktivert"/>
+<phrase i="662" t="IP-adresse kreves"/>
+<phrase i="661" t="Status "/>
+<phrase i="660" t="Standard"/>
+<phrase i="659" t="Melding venter"/>
+<phrase i="658" t="Håndsettmodus"/>
+<phrase i="657" t="Modellnummer"/>
+<phrase i="656" t="Vis modellinformasjon"/>
+<phrase i="655" t="Modellinformasjon"/>
+<phrase i="654" t="Koblingstilstand "/>
+<phrase i="653" t="Siste skriftpeker"/>
+<phrase i="652" t="Skriftpeker"/>
+<phrase i="651" t="Kjør program"/>
+<phrase i="650" t="Siste nedlasting av skrifttype"/>
+<phrase i="649" t="Nedlasting av skrifttype"/>
+<phrase i="648" t="Info - skrifttabell"/>
+<phrase i="647" t="Siste nedlasting av segment"/>
+<phrase i="646" t="Nedlasting av segment"/>
+<phrase i="645" t="Oppdatering av segment"/>
+<phrase i="644" t="Maskinvareinfo"/>
+<phrase i="643" t="TFTP-versjon"/>
+<phrase i="642" t="Versjonsinfo"/>
+<phrase i="641" t="Ledig"/>
+<phrase i="640" t="Støttes ikke"/>
+<phrase i="639" t="Feil under språkoppdatering"/>
+<phrase i="638" t="Venter status %d resp fra %s"/>
+<phrase i="637" t="Venter på %s Fra %s"/>
+<phrase i="636" t="BOOTP-server"/>
+<phrase i="635" t="DHCP-server"/>
+<phrase i="634" t="3V Amp"/>
+<phrase i="633" t="5V Amp"/>
+<phrase i="632" t="ADCodec"/>
+<phrase i="631" t="ADLCodec"/>
+<phrase i="630" t="C3PO-revisjon"/>
+<phrase i="629" t="Amps"/>
+<phrase i="628" t="Codec"/>
+<phrase i="627" t="Serienummer"/>
+<phrase i="626" t="Maskinvarerevisjon"/>
+<phrase i="625" t="Oppstart av laste-ID"/>
+<phrase i="624" t="Program for laste-ID"/>
+<phrase i="623" t="Katalognumre for telefon"/>
+<phrase i="622" t="SYS-modus"/>
+<phrase i="621" t="FIQ-modus"/>
+<phrase i="620" t="IRQ-modus"/>
+<phrase i="619" t="SVC-modus"/>
+<phrase i="618" t="Udefinert modus"/>
+<phrase i="617" t="Audit Task"/>
+<phrase i="616" t="SNMP Task"/>
+<phrase i="615" t="Display Task"/>
+<phrase i="614" t="Config Task"/>
+<phrase i="613" t="RTP Task"/>
+<phrase i="612" t="Phone Task"/>
+<phrase i="611" t="Socket Task"/>
+<phrase i="610" t="mer"/>
+<phrase i="609" t="Velg"/>
+<phrase i="608" t="Avslutt"/>
+<phrase i="607" t="Ned"/><!-- This phrase is used with "Down" softkey to decrease contrast -->
+<phrase i="606" t="Opp"/>
+<phrase i="605" t="Avbryt"/>
+<phrase i="604" t="Rediger"/>
+<phrase i="603" t="Nei"/>
+<phrase i="602" t="Ja"/>
+<phrase i="601" t="SpillAv"/>
+<phrase i="600" t="Ring"/>
+<phrase i="599" t="Rediger"/>
+<phrase i="598" t="Lagre"/>
+<phrase i="597" t="Gjenopprett"/>
+<phrase i="596" t="Slett"/>
+<phrase i="595" t="Fabrikk"/>
+<phrase i="594" t="OK"/>
+<phrase i="593" t="Godkj."/>
+<phrase i="592" t="Søk"/>
+<phrase i="591" t="Neste"/>
+<phrase i="590" t="Oppdater"/>
+<phrase i="589" t="Fjern"/>
+<phrase i="588" t="Bekreft"/>
+<phrase i="587" t="Tone"/>
+<phrase i="586" t="Nettverksspråk"/>
+<phrase i="585" t="Brukerspråk"/>
+<phrase i="584" t="Kate-fil"/>
+<phrase i="583" t="Tone-fil"/>
+<phrase i="582" t="Ringetone opptatt"/>
+<phrase i="581" t="TFTP-server 2"/>
+<phrase i="580" t="Utvidelsesmodul 2 Kontrast"/>
+<phrase i="579" t="Utvidelsesmodul 1 Kontrast"/>
+<phrase i="578" t="Svitsjeportkonfigurasjon"/>
+<phrase i="577" t="PC-portkonfigurasjon"/>
+<phrase i="576" t="PC-port deaktivert"/>
+<phrase i="575" t="Feil"/>
+<phrase i="574" t="Ugyldig argument"/>
+<phrase i="573" t="Telefon"/>
+<phrase i="572" t="Utvidelsesmodul(er)"/>
+<phrase i="571" t="KONTRASTMENY"/>
+<phrase i="570" t="Velg en kontrast for å justere"/>
+<phrase i="569" t="Talepost"/>
+<phrase i="568" t="MELDINGER"/>
+<phrase i="567" t="Vis status for utvidelsesmodul"/>
+<phrase i="566" t="Statistikk for utvidelsesmodul"/>
+<phrase i="565" t="B TX Buffer Full"/>
+<phrase i="564" t="B RX Checksum Err"/>
+<phrase i="563" t="B RX Length Err"/>
+<phrase i="562" t="B RX Discarded Bytes"/>
+<phrase i="561" t="A TX Buffer Full"/>
+<phrase i="560" t="A TX Retransmit"/>
+<phrase i="559" t="A RX Invalid Message"/>
+<phrase i="558" t="A RX Checksum Err"/>
+<phrase i="557" t="A RX Length Err"/>
+<phrase i="556" t="A RX Discarded Bytes"/>
+<phrase i="555" t="CM ICMP utilgjengelig"/>
+<phrase i="554" t="Velg en samtale..."/>
+<phrase i="553" t="URL for proxy-server"/>
+<phrase i="552" t="URL for autentisering"/>
+<phrase i="551" t="Automatisk oppringing avbrutt"/>
+<phrase i="550" t="Sidecar Task"/>
+<phrase i="549" t="Utvidelsesmodul 2"/>
+<phrase i="548" t="Utvidelsesmodul 1"/>
+<phrase i="547" t="Feil ved HTTP-fil"/>
+<phrase i="546" t="XML-feil [4]: Parserfeil"/>
+<phrase i="545" t="Feil under oppretting av fil"/>
+<phrase i="544" t="Siste="/>
+<phrase i="543" t="Lasting avviste maskinvarekomp"/>
+<phrase i="542" t="Tlf.reg avvist"/>
+<phrase i="541" t="Tilbakestill-Omstart"/>
+<phrase i="540" t="Tilbakestill-Tilbakestill"/>
+<phrase i="539" t="Tlf. rekonf IP"/>
+<phrase i="538" t="Telefontastatur"/>
+<phrase i="537" t="Telefondiagnose"/>
+<phrase i="536" t="Tilbake"/>
+<phrase i="535" t="KeepaliveTO"/>
+<phrase i="534" t="CM-NAKed"/>
+<phrase i="533" t="CM-aborted-TCP"/>
+<phrase i="532" t="CM-reset-TCP"/>
+<phrase i="531" t="TCP-Bad-ACK"/>
+<phrase i="530" t="Feil ved test av konfig.info"/>
+<phrase i="529" t="Portinformasjon"/>
+<phrase i="528" t="Ethernet-informasjon"/>
+<phrase i="527" t="%s for stor"/>
+<phrase i="526" t="Fra "/>
+<phrase i="525" t="Ingen oppføringer"/>
+<phrase i="524" t="Angi bruker-ID og passord"/>
+<phrase i="523" t="Passord"/>
+<phrase i="522" t="Brukernavn"/>
+<phrase i="521" t="Velg tjeneste..."/>
+<phrase i="520" t="Håndter gjeldende anrop..."/>
+<phrase i="519" t="TFTP-størrelsesfeil"/>
+<phrase i="518" t="Frasefil"/>
+<phrase i="517" t="Glyph-fil"/>
+<phrase i="516" t="%s utilgjengelig"/>
+<phrase i="515" t="Skadet %s"/>
+<phrase i="514" t="Logg %d"/>
+<phrase i="513" t="Tilgang"/>
+<phrase i="512" t="375000"/>
+<phrase i="511" t="Telefon"/>
+<phrase i="510" t="Nettverk"/>
+<phrase i="509" t="Stream %d"/>
+<phrase i="508" t="Statistikk- streaming"/>
+<phrase i="507" t="Enhetslogger"/>
+<phrase i="506" t="Port %d"/>
+<phrase i="505" t="Ethernet"/>
+<phrase i="504" t="Enhetsinformasjon"/>
+<phrase i="503" t="Viderekoblingsforsinkelse"/>
+<phrase i="502" t="Slett konfigurasjon"/>
+<phrase i="501" t="Alternativ TFTP"/>
+<phrase i="500" t="DHCP-adresse frigitt"/>
+<phrase i="499" t="DHCP aktivert"/>
+<phrase i="498" t="Bcast"/>
+<phrase i="497" t="REr"/>
+<phrase i="496" t="Xmt"/>
+<phrase i="495" t="Rcv"/>
+<phrase i="494" t="Versjon"/>
+<phrase i="493" t="Tilbake"/>
+<phrase i="492" t=" PÅ"/>
+<phrase i="491" t=" JA"/>
+<phrase i="490" t=" AV"/>
+<phrase i="489" t=" NEI"/>
+<phrase i="488" t="RTP-forsinkelse"/>
+<phrase i="487" t="TFTP-feil"/>
+<phrase i="486" t="Feil ved TFTP-tilgang"/>
+<phrase i="485" t="Finner ikke filen"/>
+<phrase i="484" t="Siste=0x%02X"/>
+<phrase i="483" t="CM-stengt TCP"/>
+<phrase i="482" t="TCP-tidsavbrudd"/>
+<phrase i="481" t="Initialisert"/>
+<phrase i="480" t="Navn=%15s"/>
+<phrase i="479" t="Oppdaterer programvare"/>
+<phrase i="478" t="ROM-kontrollsumfeil"/>
+<phrase i="477" t=" Laster="/>
+<phrase i="476" t="Mikrofon på"/>
+<phrase i="475" t="Mikrofon av"/>
+<phrase i="474" t="Lik IP-adresse"/>
+<phrase i="473" t="IP-adresse frigitt"/>
+<phrase i="472" t="Tilbakestiller"/>
+<phrase i="471" t="Serverliste etterspørres"/>
+<phrase i="470" t="Hastighetsstatus etterspørres"/>
+<phrase i="469" t="Linjestatus etterspørres"/>
+<phrase i="468" t="Funksjonstaster etterspørres"/>
+<phrase i="467" t="Funksjonstastmal etterspørres"/>
+<phrase i="466" t="Mal etterspørres"/>
+<phrase i="465" t="Starter DSP"/>
+<phrase i="464" t="Kontrollerer lasting"/>
+<phrase i="463" t="Registrering avvist"/>
+<phrase i="462" t="Registrerer"/>
+<phrase i="461" t="Åpner "/>
+<phrase i="460" t="CM-liste konfigureres"/>
+<phrase i="459" t="IP konfigureres"/>
+<phrase i="458" t="VLAN konfigureres"/>
+<phrase i="457" t="%d av %d"/>
+<phrase i="456" t="Ugyldig produksjonsinfo"/>
+<phrase i="455" t="XML-feil [%d]"/>
+<phrase i="454" t="HTTP-feil [%d]"/>
+<phrase i="453" t="Finner ikke vert"/>
+<phrase i="452" t="HTTP-forespørsel avbrutt"/>
+<phrase i="451" t="Viderekobler..."/>
+<phrase i="450" t="Krever godkjenning"/>
+<phrase i="449" t="Halv"/>
+<phrase i="448" t="Full"/>
+<phrase i="447" t="Brukt tid"/>
+<phrase i="446" t="Kompresjonstypefeil"/>
+<phrase i="445" t="TCP-feilkode"/>
+<phrase i="444" t="Versjonsfeil"/>
+<phrase i="443" t="Feil på grunn av full disk"/>
+<phrase i="442" t="Størrelsesfeil i konfig-TFTP"/>
+<phrase i="441" t="DSP-forsinkelse"/>
+<phrase i="440" t="Tømt"/>
+<phrase i="439" t="DSP Keepalive-tidsavbrudd"/>
+<phrase i="438" t="DSP-feil"/>
+<phrase i="437" t="VLAN ugyldig"/>
+<phrase i="436" t="IP-adresse ugyldig"/>
+<phrase i="435" t="Nettverksmaske ugyldig"/>
+<phrase i="434" t=" Utilgjengelig"/>
+<phrase i="433" t=" Ventemodus"/>
+<phrase i="432" t=" Opptatt"/>
+<phrase i="431" t="BOOTP-server brukt"/>
+<phrase i="430" t="Programmeringsfeil"/>
+<phrase i="429" t="Lik IP"/>
+<phrase i="428" t="Ingen standardruter"/>
+<phrase i="427" t="Konfigurasjonsfil tilgjengelig"/>
+<phrase i="426" t="Kontrollsumfeil"/>
+<phrase i="425" t="Feil laste-ID"/>
+<phrase i="424" t="IP mangler for DNS-server"/>
+<phrase i="423" t="DNS-tidsavbrudd"/>
+<phrase i="422" t="Ukjent DNS-vert"/>
+<phrase i="421" t="Generell TFTP-feil"/>
+<phrase i="420" t="Finner ikke konfigurasjonsfil"/>
+<phrase i="419" t="TFTP-tidsavbrudd"/>
+<phrase i="418" t="DHCP-tidsavbrudd"/>
+<phrase i="417" t="Ruter kreves"/>
+<phrase i="416" t="Ruter er ikke på nettverk"/>
+<phrase i="415" t="TFTP-server kreves"/>
+<phrase i="414" t="Ugyldig informasjon"/>
+<phrase i="413" t="Deakt. av kringkasting AV"/>
+<phrase i="412" t="Deakt. av kringkasting PÅ"/>
+<phrase i="411" t="Finner ikke datterkort."/>
+<phrase i="410" t="Telefonrørvolum lagret"/>
+<phrase i="409" t="Hodetelefonvolum lagret"/>
+<phrase i="408" t="Høyttalervolum lagret"/>
+<phrase i="407" t="Endringer ikke lagret"/>
+<phrase i="406" t="Lagre volumjusteringer?"/>
+<phrase i="405" t="Angi inndata..."/>
+<phrase i="404" t="Tjenester ikke tilgjengelig"/>
+<phrase i="403" t="TJENESTER"/>
+<phrase i="402" t="Vis maskinvareinformasjon"/>
+<phrase i="401" t="Maskinvareinformasjon"/>
+<phrase i="400" t="Vis stakkinformasjon"/>
+<phrase i="399" t="Stakkovervåker"/>
+<phrase i="398" t="Vis feilsøkingsinformasjon"/>
+<phrase i="397" t="Vis feilsøking"/>
+<phrase i="396" t="Vis fastvareversjoner"/>
+<phrase i="395" t="Fastvareversjon"/>
+<phrase i="394" t="Vis nettverksstatistikk"/>
+<phrase i="393" t="Nettverksstatistikk"/>
+<phrase i="392" t="Vis statusmeldinger"/>
+<phrase i="391" t="Oppføring godkjent"/>
+<phrase i="390" t="Ny %s:"/>
+<phrase i="389" t="Gjeldende %s:"/>
+<phrase i="388" t="Rediger %s"/>
+<phrase i="387" t="Status for innstillinger"/>
+<phrase i="386" t="Velg statuselement..."/>
+<phrase i="385" t="Stakkstatistikk"/>
+<phrase i="384" t="Statusmeldinger"/>
+<phrase i="383" t="Velg nettverksinnstilling ..."/>
+<phrase i="382" t="Liste med ringetoner utilgj."/>
+<phrase i="381" t="Skadet ringetonefil"/>
+<phrase i="380" t="Ringetonefil utilgjengelig."/>
+<phrase i="379" t="Ringetonefil etterspørres..."/>
+<phrase i="378" t="Ringetone"/>
+<phrase i="377" t="Velg ringetone..."/>
+<phrase i="376" t="Ringetoneliste etterspørres..."/>
+<phrase i="375" t="Chirp 2"/>
+<phrase i="374" t="Chirp 1"/>
+<phrase i="373" t="Endring godtatt og lagret"/>
+<phrase i="372" t="Endre kontrast..."/>
+<phrase i="371" t="Alle endringer lagret"/>
+<phrase i="370" t="Fabrikkinnst. gjenopprettet "/>
+<phrase i="369" t="Lagrede innst. gjenopprettet"/>
+<phrase i="368" t="Velg innstilling ..."/>
+<phrase i="367" t="INNSTILLINGER"/>
+<phrase i="366" t="Status"/>
+<phrase i="365" t="Nettverkskonfigurasjon"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="363" t="Avgrens søkekriterier..."/>
+<phrase i="362" t="Ingen oppføringer"/>
+<phrase i="361" t="%d oppføring(er)"/>
+<phrase i="360" t="%s søk"/>
+<phrase i="359" t="Anropslogg slettet"/>
+<phrase i="358" t="Velg katalog..."/>
+<phrase i="357" t="Ugyldig Katalog-URL..."/>
+<phrase i="356" t="KATALOG"/>
+<phrase i="355" t="Oppringte numre"/>
+<phrase i="354" t="Mottatte anrop"/>
+<phrase i="353" t="Ubesvarte anrop"/>
+<phrase i="352" t="CM nede, funksjoner deaktivert"/>
+<phrase i="351" t="%s for"/>
+<phrase i="350" t="Tasten er ikke aktiv her"/>
+<phrase i="349" t="Ber om..."/>
+<phrase i="348" t="Anropsstatistikk"/>
+<phrase i="347" t="INFORMASJON"/>
+<phrase i="346" t="Velg en tast for mer info"/>
+<!-- There is a special symbol for help icon in the following phrase - Please don't delete it  -->
+<phrase i="345" t="Trykk på  for å avbryte..."/>
+<phrase i="344" t="Alle felt lagret"/>
+<phrase i="343" t="Ingen endringer lagret"/>
+<phrase i="342" t="%d dager, "/>
+<phrase i="341" t="1 dag, "/>
+<phrase i="340" t="På %s kl."/>
+<phrase i="339" t="%s kl."/>
+<phrase i="338" t="I går kl."/>
+<phrase i="337" t="I dag kl."/>
+<phrase i="336" t="Lørdag"/>
+<phrase i="335" t="Fredag"/>
+<phrase i="334" t="Torsdag"/>
+<phrase i="333" t="Onsdag"/>
+<phrase i="332" t="Tirsdag"/>
+<phrase i="331" t="Mandag"/>
+<phrase i="330" t="Søndag"/>
+<phrase i="329" t="Til %s"/>
+<phrase i="328" t="Ukjent nummer"/>
+<phrase i="327" t="Fra %s"/>
+<phrase i="326" t="Til %s"/>
+<!-- Note to translator:  Please abbreviate the following phrase (325) as concisely as
+     possible.  It is used for call forwarding scenarios, and the %s gets replaced with
+     a caller ID.  It is important to make as much space available for the caller ID
+     information as possible. -->
+<phrase i="325" t="Vid %s"/>
+<phrase i="324" t="Eksternt anrop"/>
+<phrase i="323" t="Brukes eksternt"/>
+<phrase i="322" t="%d nytt ubesvart anrop%c"/><!-- %c will be replaced with &apos; &apos;, it was retained for backwards compatibility.  This phrase is the singular form and the %d will be replaced with a &apos;1&apos;.  The plural form of this phrase is 671 -->
+<phrase i="321" t="Rx Longs"/>
+<phrase i="320" t="Rx Shorts"/>
+<phrase i="319" t="Rx Broadcasts"/>
+<phrase i="318" t="Rx Multicasts"/>
+<phrase i="317" t="Rx Runt"/>
+<phrase i="316" t="Rx Bad Preamble"/>
+<phrase i="315" t="Rx CRC Errors"/>
+<phrase i="314" t="Rx Frames"/>
+<phrase i="313" t="Rx Long/CRC"/>
+<phrase i="312" t="Rx Overruns"/>
+<phrase i="311" t="Tx Deferred Abort"/>
+<phrase i="310" t="Tx Collisions"/>
+<phrase i="309" t="Tx Multicasts"/>
+<phrase i="308" t="Tx Broadcasts"/>
+<phrase i="307" t="Tx Frames"/>
+<phrase i="306" t="Tx Excessive Collisions"/>
+<phrase i="305" t="overflytsfall"/>
+<phrase i="304" t="bpdu Drop"/>
+<phrase i="303" t="cos 7 Drop"/>
+<phrase i="302" t="cos 6 Drop"/>
+<phrase i="301" t="cos 5 Drop"/>
+<phrase i="300" t="cos 4 Drop"/>
+<phrase i="299" t="cos 3 Drop"/>
+<phrase i="298" t="cos 2 Drop"/>
+<phrase i="297" t="cos 1 Drop"/>
+<phrase i="296" t="cos 0 Drop"/>
+<phrase i="295" t="Tx size1024to1518"/>
+<phrase i="294" t="Tx size512to1023"/>
+<phrase i="293" t="Tx size256to511"/>
+<phrase i="292" t="Tx size128to255"/>
+<phrase i="291" t="Tx size65to127"/>
+<phrase i="290" t="Tx size64"/>
+<phrase i="289" t="Tx totalOct"/>
+<phrase i="288" t="Tx multicast"/>
+<phrase i="287" t="Tx broadcast"/>
+<phrase i="286" t="Tx excessLength"/>
+<phrase i="285" t="Tx fifoUnderrun"/>
+<phrase i="284" t="Tx collisions"/>
+<phrase i="283" t="Tx totalGoodPkt"/>
+<phrase i="282" t="Tx lateCollision"/>
+<phrase i="281" t="Tx excessDefer"/>
+<phrase i="280" t="Rx tokenDrop"/>
+<phrase i="279" t="Rx size1519to1548"/>
+<phrase i="278" t="Rx size1024to1518"/>
+<phrase i="277" t="Rx size512to1023"/>
+<phrase i="276" t="Rx size256to511"/>
+<phrase i="275" t="Rx size128to255"/>
+<phrase i="274" t="Rx size65to127"/>
+<phrase i="273" t="Rx size64"/>
+<phrase i="272" t="Rx longErr"/>
+<phrase i="271" t="Rx longGood"/>
+<phrase i="270" t="Rx shortGood"/>
+<phrase i="269" t="Rx shortErr"/>
+<phrase i="268" t="Rx unicast"/>
+<phrase i="267" t="Rx broadcast"/>
+<phrase i="266" t="Rx multicast"/>
+<phrase i="265" t="Rx alignErr"/>
+<phrase i="264" t="Rx crcErr"/>
+<phrase i="263" t="Oktetter totalt"/>
+<phrase i="262" t="Rx totalPkt"/>
+<phrase i="261" t="Transporthendelser"/>
+<phrase i="260" t="RTP ugyldig"/>
+<phrase i="259" t="Ikke i bruk"/>
+<phrase i="258" t="Ikke klar"/>
+<phrase i="257" t="Ødelegg"/>
+<phrase i="256" t="376000"/>
+<phrase i="255" t="Mottakers starttid"/>
+<phrase i="254" t="Mottakers oktetter"/>
+<phrase i="253" t="Mottakers pakker"/>
+<phrase i="252" t="Mottakers rapporttid"/>
+<phrase i="251" t="Mottakers rapport"/>
+<phrase i="250" t="Mottakers verktøy"/>
+<phrase i="249" t="Mottakers variasjon i forsink."/>
+<phrase i="248" t="Mottakers pakketap"/>
+<phrase i="247" t="Senders starttid"/>
+<phrase i="246" t="Senders rapporttid"/>
+<phrase i="245" t="Senders rapporter"/>
+<phrase i="244" t="Senders verktøy"/>
+<phrase i="243" t="Senders oktetter"/>
+<phrase i="242" t="Senders pakker"/>
+<phrase i="241" t="Navn"/>
+<phrase i="240" t="Radstatus"/>
+<phrase i="239" t="Starttid"/>
+<phrase i="238" t="Brudd"/>
+<phrase i="237" t="Mottaker deltar"/>
+<phrase i="236" t="Sender deltar"/>
+<phrase i="235" t="Lokal adresse"/>
+<phrase i="234" t="Ekstern adresse "/>
+<phrase i="233" t="Domene"/>
+<phrase i="232" t="Port Fast"/>
+<phrase i="231" t="Fast TFTP"/>
+<phrase i="230" t="DHCP deaktivert"/>
+<phrase i="229" t="Tid inaktiv URL"/>
+<phrase i="228" t="URL inaktiv"/>
+<phrase i="227" t="Tjeneste-URL"/>
+<phrase i="226" t="Meldings-URL"/>
+<phrase i="225" t="Katalog-URL"/>
+<phrase i="224" t="Informasjons-URL"/>
+<phrase i="223" t="CallManager 5"/>
+<phrase i="222" t="CallManager 4"/>
+<phrase i="221" t="CallManager 3"/>
+<phrase i="220" t="CallManager 2"/>
+<phrase i="219" t="CallManager 1"/>
+<phrase i="218" t="VLAN-ID for admin"/>
+<phrase i="217" t="Operativ VLAN-ID"/>
+<phrase i="216" t="DNS-server 5"/>
+<phrase i="215" t="DNS-server 4"/>
+<phrase i="214" t="DNS-server 3"/>
+<phrase i="213" t="DNS-server 2"/>
+<phrase i="212" t="DNS-server 1"/>
+<phrase i="211" t="Standardruter 5"/>
+<phrase i="210" t="Standardruter 4"/>
+<phrase i="209" t="Standardruter 3"/>
+<phrase i="208" t="Standardruter 2"/>
+<phrase i="207" t="Standardruter 1"/>
+<phrase i="206" t="TFTP-server 1"/>
+<phrase i="205" t="Nettverksmaske"/>
+<phrase i="204" t="IP-adresse"/>
+<phrase i="203" t="Domenenavn"/>
+<phrase i="202" t="Vertsnavn"/>
+<phrase i="201" t="MAC-adresse"/>
+</phrases>

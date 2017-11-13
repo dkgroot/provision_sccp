@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Czech_Czech_Republic</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Není dostupná linka k vyzvednutí"/>
+	<phrase i="197" t="Externí pøepojení je omezeno"/>
+	<phrase i="196" t="Pøenosové pásmo k vyzvednutí je nedostateèné"/>
+	<phrase i="195" t="Není dostupný hovor k vyzvednutí"/>
+	<phrase i="194" t="Není dostupná pozice k zaparkování"/>
+	<phrase i="193" t="Odhlá¹en od skupiny pátrání"/>
+	<phrase i="192" t="Skupina"/>
+	<phrase i="191" t="JVyzved"/>
+	<phrase i="190" t="Maximální doba pøidr¾ení hovoru"/>
+	<phrase i="189" t="Maximální doba trvání hovoru"/>
+	<phrase i="188" t="VidMód"/>
+	<phrase i="187" t="Nedost. pøen. pásmo pro video"/>
+	<phrase i="186" t="Chyba zabezpeèení"/>
+	<phrase i="185" t="Èíslo není nakonfigurováno"/>
+	<phrase i="184" t="Identifikace MCID úspì¹ná"/>
+	<phrase i="183" t="Nelze propojit hovory"/>
+	<phrase i="182" t="Pøepojení nelze dokonèit"/>
+	<phrase i="181" t="kPøístup"/>
+	<phrase i="180" t="Odklonit"/>
+	<phrase i="179" t="SeznKnf"/>
+	<phrase i="178" t="Vybrat"/>
+	<phrase i="177" t="PøímPøep"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Silný provoz, opakujte pozdìji"/>
+	<phrase i="173" t="Slu¾ba není aktivní"/>
+	<phrase i="172" t="Vrácení park. hov."/>
+	<phrase i="171" t="Není volné parkovací èíslo"/>
+	<phrase i="170" t="Nekompatibilní typ zaøízení"/>
+	<phrase i="169" t="Existuje jiné pøistoup. k hov."/>
+	<phrase i="168" t="Nepodaøilo se pøistoupit k hovoru"/>
+	<phrase i="167" t="Pøistup"/>
+	<phrase i="166" t="Sí» zahlcena, pøesmìrováno"/>
+	<phrase i="165" t="ZpìtVol"/>
+	<phrase i="164" t="OdklV¹e"/>
+	<phrase i="163" t="Neru¹it"/>
+	<phrase i="162" t="Schránka"/>
+	<phrase i="161" t="NstSled"/>
+	<phrase i="160" t="Pøevzít"/>
+	<phrase i="159" t="Pøesmìrovat"/>
+	<phrase i="158" t="Hlasová schránka"/>
+	<phrase i="157" t="OdpPosl"/>
+	<phrase i="156" t="Neznámé èíslo"/>
+	<phrase i="155" t="Nedost. pøenosové pásmo"/>
+	<phrase i="154" t="Soukromí"/>
+	<phrase i="153" t="Parkovací èíslo"/>
+	<phrase i="152" t="Konference"/>
+	<phrase i="151" t="Neshoda"/>
+	<phrase i="150" t="Neznámá chyba"/>
+	<phrase i="149" t="Pøekroèení limitu"/>
+	<phrase i="148" t="Chyba databáze"/>
+	<phrase i="147" t="Chyba konf. databáze"/>
+	<phrase i="146" t="Chybí licence"/>
+	<phrase i="145" t="Klávesa není aktivní"/>
+	<phrase i="144" t="Pøekroèen poèet úèastníkù"/>
+	<phrase i="143" t="Chybí informace o úèastníkovi"/>
+	<phrase i="142" t="Ji¾ pøipojen ke konferenci"/>
+	<phrase i="141" t="Neplatný úèastník konference"/>
+	<phrase i="140" t="Nelze získat primární øízení"/>
+	<phrase i="139" t="Chybí konferenèní most"/>
+	<phrase i="138" t="Nelze sestavit konferenci"/>
+	<phrase i="137" t="Pøesmìrováno na"/>
+	<phrase i="136" t="Máte hlasovou zprávu"/>
+	<phrase i="135" t="Doèasné selhání"/>
+	<phrase i="134" t="Pouze primární"/>
+	<phrase i="133" t="Zaparkovat hovor na"/>
+	<phrase i="132" t="Zadejte èíslo"/>
+	<phrase i="131" t="Vzdálené pou¾ití"/>
+	<phrase i="130" t="Uskuteènìní hovoru"/>
+	<phrase i="129" t="Parkování hovoru"/>
+	<phrase i="128" t="Pøepojení hovoru"/>
+	<phrase i="127" t="Èekající hovor"/>
+	<phrase i="126" t="Linka se pou¾ívá"/>
+	<phrase i="125" t="Obsazeno"/>
+	<phrase i="124" t="Spojeno"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Vyzvání"/>
+	<phrase i="121" t="Zavì¹eno"/>
+	<phrase i="120" t="Zvednuto"/>
+	<phrase i="119" t="Va¹e aktuální volby"/>
+	<phrase i="118" t="SVyzved"/>
+	<phrase i="117" t="Vyzved"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Propojit"/>
+	<phrase i="114" t="Parkovat"/>
+	<phrase i="113" t="Konfer"/>
+	<phrase i="112" t="Informace"/>
+	<phrase i="111" t="Pøijmout"/>
+	<phrase i="110" t="Pokraè"/>
+	<phrase i="109" t="Konec"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PøeBezOdp"/>
+	<phrase i="106" t="PøeObsaz"/>
+	<phrase i="105" t="Pøesmìr"/>
+	<phrase i="104" t="Pøepojit"/>
+	<phrase i="103" t="Pøidr¾et"/>
+	<phrase i="102" t="Volat"/>
+	<phrase i="101" t="Opakovat"/>
+</phrases>

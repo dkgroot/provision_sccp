@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Lithuanian_Lithuania</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="Atsisiunčiami „MIDlet“ priedai..."/>
+  <phrase i="8003" t="Programa suskliausta"/>
+  <phrase i="8002" t="MIDP modulis sėkmingai įdiegtas"/>
+  <phrase i="8001" t="Laukiama MIDP modulio diegimo..."/>
+  <phrase i="8000" t="Naujinama mikroprograma..."/>
+  <phrase i="7999" t="Atsiunčiama mikroprogr. ...%d%%"/>
+  <phrase i="7998" t="Atkuriama mikroprograma..."/>
+  <phrase i="7997" t="Nepavyko atnaujinti mikroprogr."/>
+  <phrase i="7996" t="Iškr. akum.! Naujinti negalima"/>
+  <phrase i="7995" t="Nepavyko atsiųsti paveikslėlio"/>
+  <phrase i="7994" t="Nepavyko nustatyt vaizdo"/>
+  <phrase i="7993" t="Senka atm.!Perkraunama..."/>
+  <phrase i="7992" t="EAP-TLS/PEAP įjungta"/>
+  <phrase i="7991" t="Aprobuoti serverio sertifikatą"/>
+  <phrase i="7990" t="AOM diegimo triktis"/>
+  <phrase i="7989" t="Atsisiunčiama AOM(%d/%d)"/>
+  <phrase i="7988" t="Diegiama AOM(%d/%d)...%d%%"/>
+  <phrase i="7987" t="Vaizdo vientisumo patikros triktis"/>
+  <phrase i="7986" t="&quot;7986&quot; "/>
+  <phrase i="7985" t="Diegiama skaitytuvo mikroprograma:%d%%"/>
+  <phrase i="7984" t="Atsisiunčiama skaitytuvo mikroprograma"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="Ribota duomenų perdavimo sparta"/>
+  <phrase i="7080" t="Nuskaitymo veiksena"/>
+  <phrase i="7079" t="Automatinis"/>
+  <phrase i="7078" t="Nuolatinis"/>
+  <phrase i="7077" t="Stoties galios riba"/>
+  <phrase i="7076" t="Galios apribojimas"/>
+  <phrase i="7075" t="EAP-TLS sertifikatas"/>
+  <phrase i="7074" t="Naudotojas įdiegtas"/>
+  <phrase i="7073" t="Gamintojo išleista"/>
+  <phrase i="7072" t="CAPF išleista"/>
+  <phrase i="7071" t="Nerasta tapatybės tvirtinimo sertifikatų"/>
+  <phrase i="7070" t="Tapatybės tvirtinimo sertifikatas negalioja"/>
+  <phrase i="7069" t="Tapatybės tvirtinimo sertifikatas baigia galioti: %s"/>
+  <phrase i="7068" t="Tapatybės tvirtinimo sertifikatas greitai baigs galioti"/>
+  <phrase i="7067" t="Tapatybės tvirtinimo sertifikatas baigia galioti po %d dienų"/>
+  <phrase i="7066" t="Tapatybės tvirtinimo sertifikatas baigė galioti"/>
+  <phrase i="7065" t="Patikrinkite sertifikato laikrodžio nuostatas"/>
+  <phrase i="7064" t="Nerastas WLAN tapatybės tvirtinimo sertifikatas"/>
+  <phrase i="7063" t="Nerasta tapatybės tvirtinimo sertifikatų"/>
+  <phrase i="7062" t="Tapatybės tvirtinimo sertifikatas baigia galioti: %d d."/>
+  <phrase i="7061" t="WLAN tapatybės tvirtinimo sertifikatas baigė galioti!"/>
+  <phrase i="7060" t="Tapatybės tvirtinimo sertifikatas baigė galioti!"/>
+  <phrase i="7059" t="Stočių skaičius"/>
+  <phrase i="7057" t="Įspėjimo vėliavėlės"/>
+  <phrase i="7056" t="Švyturėlio intervalas"/>
+  <phrase i="7055" t="DTIM periodas"/>
+  <phrase i="7054" t="Pajėgumai"/>
+  <phrase i="7053" t="Spartos bitų žemėlapis"/>
+  <phrase i="7052" t="Bazinis spartos bitų žemėlapis"/>
+  <phrase i="7051" t="Dažnio šokinėjimas"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="Spektro valdymas"/>
+  <phrase i="7047" t="Kanalas neatpažįstamas"/>
+  <phrase i="7046" t="Kanalo profilis"/>
+  <phrase i="7045" t="Privatumas"/>
+  <phrase i="7044" t="Mažas rodiklis"/>
+  <phrase i="7043" t="ARP tarpinis serveris"/>
+  <phrase i="7042" t="Baziniai rodikliai"/>
+  <phrase i="7041" t="Papildomi rodikliai"/>
+  <phrase i="7040" t="AC fonas"/>
+  <phrase i="7039" t="AC geriausia pastanga"/>
+  <phrase i="7038" t="AC vaizdas"/>
+  <phrase i="7037" t="AC balsas"/>
+  <phrase i="7036" t="ECW min."/>
+  <phrase i="7035" t="ECW maks."/>
+  <phrase i="7034" t="TXOpRiba"/>
+  <phrase i="7033" t="Priėmimo kontrolė"/>
+  <phrase i="7032" t="Daugialypio transliavimo šifras"/>
+  <phrase i="7031" t="Vienalypio transliavimo šifras"/>
+  <phrase i="7030" t="BSS prarastas skaičius"/>
+  <phrase i="7029" t="Atpažįstama"/>
+  <phrase i="7028" t="Galima priėmimo geba"/>
+  <phrase i="7027" t="Yra"/>
+  <phrase i="7026" t="Nėra"/>
+  <phrase i="7025" t="Prieigos kategorija"/>
+  <phrase i="7024" t="Nerekomenduojama"/>
+  <phrase i="7023" t="Nenuoseklu"/>
+  <phrase i="7022" t="Atskaitos AP"/>
+  <phrase i="7021" t="Šalis"/>
+  <phrase i="7020" t="CCA slenkstinė vertė"/>
+  <phrase i="7019" t="Viešojo rakto sertifikatas"/>
+  <phrase i="7018" t="Viešojo rakto infrastruktūra"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="Galiojimo laikotarpis"/>
+  <phrase i="7015" t="Šakninis raktas"/>
+  <phrase i="7014" t="Sertifikato įgaliojimas"/>
+  <phrase i="7013" t="Privatusis raktas"/>
+  <phrase i="7012" t="Viešasis raktas"/>
+  <phrase i="7011" t="„Microsoft“"/>
+  <phrase i="7010" t="Tapatybės tvirtinimo serveris"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="Tapatybės tvirtinimas nepavyko"/>
+  <phrase i="7008" t="Nėra tinklo profilio"/>
+  <phrase i="7007" t="Paliekama ryšio zona!"/>
+  <phrase i="7006" t="Ieškoma tinklo ryšio"/>
+  <phrase i="7005" t="Neparinkta jokių profilių"/>
+  <phrase i="7003" t="Ryšys užmegztas"/>
+  <phrase i="7002" t="Bandoma prisijungti..."/>
+  <phrase i="7001" t="WLAN triktis"/>
+  <phrase i="7000" t="Ieškoma kanalų..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="Išvalyti visą pokalbių istoriją?"/>
+  <phrase i="6406" t="Skaitytuvo diagnostika"/>
+  <phrase i="6405" t="Atkurti"/>
+  <phrase i="6404" t="Simbolikos grupė"/>
+  <phrase i="6403" t="Išplėsta"/>
+  <phrase i="6402" t="Bazinis"/>
+  <phrase i="6401" t="Skaitytuvas"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="„Bluetooth“"/>
+  <phrase i="6399" t="Įtaisų sąrašas"/>
+  <phrase i="6398" t="Nusk."/>
+  <phrase i="6397" t="NuskIšN"/>
+  <phrase i="6396" t="Suporinti"/>
+  <phrase i="6395" t="Išporinti"/>
+  <phrase i="6394" t="Suporinti įtaisai"/>
+  <phrase i="6393" t="Nuskaitymas"/>
+  <phrase i="6392" t="Porinimas"/>
+  <phrase i="6391" t="%s suporinta"/>
+  <phrase i="6390" t="Išporinama"/>
+  <phrase i="6389" t="%s išporinta"/>
+  <phrase i="6388" t="Rasta įtaisų: %d"/>
+  <phrase i="6387" t="Išporinti %s?"/>
+  <phrase i="6386" t="Nuskaitymo rezultatai"/>
+  <phrase i="6385" t="Įveskite „Bluetooth“ slaptažodį"/>
+  <phrase i="6384" t="Suporinti nepavyko!"/>
+  <phrase i="6383" t="%s prisijungė!"/>
+  <phrase i="6382" t="%s atsijungė!"/>
+  <phrase i="6381" t="Prisijungti"/>
+  <phrase i="6380" t="Atsij."/>
+  <phrase i="6379" t="Reguliuoti ausinių garsumą"/>
+  <phrase i="6378" t="Viršytas didžiausias įtaisų skaičius"/>
+  <phrase i="6377" t="„Bluetooth“ ryšys sutrikęs"/>
+  <phrase i="6376" t="Tai su kažkuo sujungtas įtaisas!"/>
+  <phrase i="6375" t="Atjungtivisus"/>
+  <phrase i="6374" t="„Bluetooth“ neparengtas"/>
+  <phrase i="6373" t="„Bluetooth“ vidinė klaida"/>
+  <phrase i="6372" t="Operacija nepavyko"/>
+  <phrase i="6371" t="Pasirinktas „Bluetooth“"/>
+  <phrase i="6370" t="Pasirinktas garsiakalbis"/>
+  <phrase i="6369" t="Pasirinktas ragelis"/>
+  <phrase i="6368" t="Pasirinktos ausinės"/>
+  <phrase i="6367" t="Diagnostika"/>
+  <phrase i="6366" t="Klaviatūra"/>
+  <phrase i="6365" t="Garsas"/>
+  <phrase i="6364" t="Pasirinkti diagnostiką"/>
+  <phrase i="6363" t="Spausti bet kurį mygtuką"/>
+  <phrase i="6362" t="Klaviatūros diagnostika"/>
+  <phrase i="6361" t="Paspausta"/>
+  <phrase i="6360" t="Atleista"/>
+  <phrase i="6359" t="Garso diagnostika"/>
+  <phrase i="6358" t="Vietinis garso kilpos bandymas"/>
+  <phrase i="6357" t="Programinis klavišas %d"/>
+  <phrase i="6356" t="GarsumoMažinimas"/>
+  <phrase i="6355" t="GarsumoDidinimas"/>
+  <phrase i="6354" t="Į dešinę"/>
+  <phrase i="6353" t="Į kairę"/>
+  <phrase i="6352" t="Maitinimas"/>
+  <phrase i="6351" t="Nutildyti"/>
+  <phrase i="6350" t="Nepavyko įdiegti „Java“"/>
+  <phrase i="6349" t="Pasirinkti %s"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="Pld. kl."/>
+  <phrase i="6298" t="Šiuo metu atidaryta %s"/>
+  <phrase i="6297" t="Prieš paleisdami kitą uždarykite"/>
+  <phrase i="6296" t="Perj. į"/>
+  <phrase i="6295" t="UžvProgr"/>
+  <phrase i="6294" t="Pauzė"/>
+  <phrase i="6293" t="Gaunamasis skambutis"/>
+  <phrase i="6292" t="Nepaisyti"/>
+  <phrase i="6291" t="Atlikta"/>
+  <phrase i="6290" t="Nustatyti"/>
+  <phrase i="6289" t="Apie „Java“"/>
+  <phrase i="6288" t="Paleisti"/>
+  <phrase i="6287" t="Įdiegti"/>
+  <phrase i="6286" t="Eiti"/>
+  <phrase i="6285" t="Eiti į"/>
+  <phrase i="6284" t="Išimtis"/>
+  <phrase i="6283" t="Programa"/>
+  <phrase i="6282" t="Programos"/>
+  <phrase i="6281" t="Informacija"/>
+  <phrase i="6280" t="Šalinti"/>
+  <phrase i="6279" t="Diegti programą"/>
+  <phrase i="6278" t="Valdyti sertifikato įgaliojimus"/>
+  <phrase i="6277" t="Baigti"/>
+  <phrase i="6276" t="Gamintojas"/>
+  <phrase i="6275" t="Paslaugos teikėjas"/>
+  <phrase i="6274" t="Trečiosios šalys"/>
+  <phrase i="6273" t="vidurdienis"/>
+  <phrase i="6272" t="vidurnaktis"/>
+  <phrase i="6271" t="mmm dd, yyyy"/>
+  <phrase i="6270" t="hh:mm ??"/>
+  <phrase i="6269" t="mmm dd, yyyy hh:mm  "/>
+  <phrase i="6268" t="S"/>
+  <phrase i="6267" t="Pr"/>
+  <phrase i="6266" t="A"/>
+  <phrase i="6265" t="T"/>
+  <phrase i="6264" t="K"/>
+  <phrase i="6263" t="Pn"/>
+  <phrase i="6262" t="Š"/>
+  <phrase i="6261" t="Sausis"/>
+  <phrase i="6260" t="Vasaris"/>
+  <phrase i="6259" t="Kovas"/>
+  <phrase i="6258" t="Balandis"/>
+  <phrase i="6257" t="Gegužė"/>
+  <phrase i="6256" t="Birželis"/>
+  <phrase i="6255" t="Liepa"/>
+  <phrase i="6254" t="Rugpjūtis"/>
+  <phrase i="6253" t="Rugsėjis"/>
+  <phrase i="6252" t="Spalis"/>
+  <phrase i="6251" t="Lapkritis"/>
+  <phrase i="6250" t="Gruodis"/>
+  <phrase i="6249" t="Ss"/>
+  <phrase i="6248" t="Vs"/>
+  <phrase i="6247" t="Kv"/>
+  <phrase i="6246" t="Bl"/>
+  <phrase i="6245" t="Gg"/>
+  <phrase i="6244" t="Brž"/>
+  <phrase i="6243" t="Lp"/>
+  <phrase i="6242" t="Rgp"/>
+  <phrase i="6241" t="Rgs"/>
+  <phrase i="6240" t="Sp"/>
+  <phrase i="6239" t="Lpkr"/>
+  <phrase i="6238" t="Grd"/>
+  <phrase i="6237" t="Prieš"/>
+  <phrase i="6236" t="Po"/>
+  <phrase i="6235" t="Laikas:"/>
+  <phrase i="6234" t="Data:"/>
+  <phrase i="6233" t="Simboliai"/>
+  <phrase i="6232" t="Prognozuoti"/>
+  <phrase i="6231" t="prognozuoti"/>
+  <phrase i="6230" t="PROGNOZUOTI"/>
+  <phrase i="6229" t="Gerai"/>
+  <phrase i="6228" t="Parinktys..."/>
+  <phrase i="6227" t="iki vidurd."/>
+  <phrase i="6226" t="po vidurd."/>
+  <phrase i="6225" t="Šalinti duomenis"/>
+  <phrase i="6224" t="Programos dydis"/>
+  <phrase i="6223" t="Programos duomenų apimtis"/>
+  <phrase i="6222" t="Baitai"/>
+  <phrase i="6221" t="Klaida, susisiekite su administratoriumi"/>
+  <phrase i="6220" t="Išeinama iš programos..."/>
+  <phrase i="6219" t="Diegimas atšauktas"/>
+  <phrase i="6218" t="Nepavyko įdiegti programos"/>
+  <phrase i="6217" t="Diegiama programa..."/>
+  <phrase i="6216" t="Paleidžiama programa..."/>
+  <phrase i="6215" t="Patvirtinimas"/>
+  <phrase i="6214" t="Įkeliama"/>
+  <phrase i="6213" t="Paleidžiama"/>
+  <phrase i="6212" t="JAR dydis"/>
+  <phrase i="6211" t="JAR URL"/>
+  <phrase i="6210" t="Aprašymas"/>
+  <phrase i="6209" t="Gamintojas"/>
+  <phrase i="6208" t="„MicroEdition“ sąranka"/>
+  <phrase i="6207" t="„MicroEdition“ profilis"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="Asmeninimas"/>
+  <phrase i="6205" t="Įsiterpimas vienu mygtuku"/>
+  <phrase i="6204" t="Plačiajuosčių ausinių UI valdymas"/>
+  <phrase i="6203" t="Automat. skambučio pasirinkimas"/>
+  <phrase i="6202" t="BLF skambučių sąrašams"/>
+  <phrase i="6201" t="Automatinis eilutės pasirinkimas"/>
+  <phrase i="6200" t="UI informacija"/>
+  <phrase i="6199" t="UI"/>
+  <phrase i="6198" t="Pasveikinimo pranešimas"/>
+  <phrase i="6197" t="Pasveikinimo pranešimas"/>
+  <phrase i="6196" t="Sukurti naują paskyrą"/>
+  <phrase i="6195" t="Įrašyti į esamą adresatą"/>
+  <phrase i="6194" t="Įkeliama... Palaukite"/>
+  <phrase i="6193" t="Sistemos sąranka"/>
+  <phrase i="6192" t="Tik raidės ir skaičiai!"/>
+  <phrase i="6191" t="Išsaugoti sekimo lygius"/>
+  <phrase i="6190" t="Nuotolinis sistemos žurnalas"/>
+  <phrase i="6189" t="Sekimo lygis"/>
+  <phrase i="6188" t="Diagnostika įjungta"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="Organizacija"/>
+  <phrase i="6186" t="Pasirinkti numatytąjį"/>
+  <phrase i="6185" t="Pasirinkti rodinį"/>
+  <phrase i="6184" t="Pasirinkti vaizdą"/>
+  <phrase i="6183" t="Tinkinti programinį klavišą"/>
+  <phrase i="6182" t="Eilutė %d (%s)"/>
+  <phrase i="6181" t="Pasirinkite eilutę peržiūrėti"/>
+  <phrase i="6180" t="Telefono linijos"/>
+  <phrase i="6179" t="Pagrindinis puslapis"/>
+  <phrase i="6178" t="Tel. kn."/>
+  <phrase i="6177" t="Foninis vaizdas"/>
+  <phrase i="6176" t="Pageidautinas vaizdas"/>
+  <phrase i="6175" t="Kairysis programinis klavišas"/>
+  <phrase i="6174" t="Tinkinti pagrindinį puslapį"/>
+  <phrase i="6173" t="%s (%d praleista)"/>
+  <phrase i="6172" t="Profilis apribotas!"/>
+  <phrase i="6171" t="Nepriskirta"/>
+  <phrase i="6170" t="Pasirinkite adresato lauką"/>
+  <phrase i="6169" t="Pavardė, vardas"/>
+  <phrase i="6168" t="Vardas, pavardė"/>
+  <phrase i="6167" t="Katalogo rūšiavimo tvarka"/>
+  <phrase i="6166" t="Nėra numatytojo numerio"/>
+  <phrase i="6165" t="Pasirinkite nepriskirtą sparčiojo rinkimo numerį!"/>
+  <phrase i="6164" t="Pasirinkite priskirtiną sparčiojo rinkimo numerį"/>
+  <phrase i="6163" t="Pasirinkite adresato numerį"/>
+  <phrase i="6162" t="Priskirti sparčiojo rinkimo numerį %d"/>
+  <phrase i="6161" t="Priskirti naują sparčiojo rinkimo numerį?"/>
+  <phrase i="6160" t="Pasirinkite telefono tipą"/>
+  <phrase i="6159" t="Pasirinkite adresatą"/>
+  <phrase i="6158" t="ŠalViską"/>
+  <phrase i="6157" t="Visi adresatai pašalinti!"/>
+  <phrase i="6156" t="Šalinti visus kontaktus?"/>
+  <phrase i="6155" t="Pirminis telefonas atnaujintas!"/>
+  <phrase i="6154" t="Foninio vaizdo peržiūra"/>
+  <phrase i="6153" t="Įrašytas naujas skambėjimo tonas!"/>
+  <phrase i="6152" t="Atitinka 0 įrašų"/>
+  <phrase i="6151" t="Naujam numeriui nėra vietos!"/>
+  <phrase i="6150" t="Pervadinti"/>
+  <phrase i="6149" t="Sulieti"/>
+  <phrase i="6148" t="Perrašyti"/>
+  <phrase i="6147" t="Adresatas atnaujintas!"/>
+  <phrase i="6146" t="Šis adresatas jau yra!"/>
+  <phrase i="6145" t="Adresatas pašalintas!"/>
+  <phrase i="6144" t="Šalinti adresatą?"/>
+  <phrase i="6143" t="Šalinti sparčiojo rinkimo numerį?"/>
+  <phrase i="6142" t="IM adresas"/>
+  <phrase i="6141" t="Slapyvardis"/>
+  <phrase i="6140" t="Sparčiojo rinkimo numeris %d priskirtas!"/>
+  <phrase i="6139" t="SutrRink"/>
+  <phrase i="6138" t="Nauja sparčiojo rinkimo įvestis"/>
+  <phrase i="6137" t="(tuščia)"/>
+  <phrase i="6136" t="Tuščias numeris!"/>
+  <phrase i="6135" t="Sparč. rinkimo Nr. pašalintas!"/>
+  <phrase i="6134" t="Kad aktyv., nusp. ir laikykite"/>
+  <phrase i="6133" t="Kad išjungt., nusp. ir laik."/>
+  <phrase i="6132" t="%d Sparčiojo rinkimo numeriai"/>
+  <phrase i="6131" t="1 sparčiojo rinkimo numeris"/>
+  <phrase i="6130" t="Reikalingas adresato vardas!"/>
+  <phrase i="6129" t="Pasiekta maksimali talpa!"/>
+  <phrase i="6128" t="1 adresatas"/>
+  <phrase i="6127" t="1 įrašas"/>
+  <phrase i="6126" t="Adresatų nėra"/>
+  <phrase i="6125" t="Patobulinkite savo paiešką."/>
+  <phrase i="6124" t="Atstatyti visą sistemą?"/>
+  <phrase i="6123" t="Pradėti perkauti telefoną?"/>
+  <phrase i="6122" t="Įveskite raktą šešiol. sist."/>
+  <phrase i="6121" t="Negalima arba trūkstama įvestis"/>
+  <phrase i="6120" t="Laukiama %d ats. iš %s"/>
+  <phrase i="6119" t="Nėra pralaidos"/>
+  <phrase i="6118" t="Laukite, kol bus aktyvu įrašyti"/>
+  <phrase i="6117" t="Daugiau"/>
+  <phrase i="6116" t="Lygu"/>
+  <phrase i="6115" t="Mažiau"/>
+  <phrase i="6114" t="DND įj."/>
+  <phrase i="6113" t="DND išj."/>
+  <phrase i="6112" t="Grąžinamas židinio prioritetas"/>
+  <phrase i="6111" t="Srautinis pranešimas"/>
+  <phrase i="6110" t="Sąranka sėkmingai atnaujinta"/>
+  <phrase i="6109" t="Sąrankos atnaujinti nepavyko"/>
+  <phrase i="6108" t="Sąrankos paketas atnaujintas"/>
+  <phrase i="6107" t="Sąr. pak. atnaujinti nepavyko"/>
+  <phrase i="6106" t="HTTPS kliento sąranka"/>
+  <phrase i="6105" t="Priimti neaprobuotą sertifikatą"/>
+  <phrase i="6104" t="Nepriimti neaprobuoto sertif."/>
+  <phrase i="6103" t="Pasirinkti sertifikato parinktį"/>
+  <phrase i="6102" t="Naudotojo informacija"/>
+  <phrase i="6101" t="Nuostatos neaktyvios"/>
+  <phrase i="6100" t="Laukas skirtas tik skaityti!"/>
+  <phrase i="6099" t="Admin. užblokavo profilį"/>
+  <phrase i="6098" t="Admin. apribojo prieigą"/>
+  <phrase i="6097" t="Profilis skirtas tik skaityti"/>
+  <phrase i="6096" t="Įveskite PIN kodą"/>
+  <phrase i="6095" t="PIN kodo teirautis admin."/>
+  <phrase i="6094" t="Atleisti"/>
+  <phrase i="6093" t="Rinkitės centriniu mygtuku"/>
+  <phrase i="6092" t="Išranką atšaukit centr. mygtuku"/>
+  <phrase i="6091" t="Net.slp./nev.tap.tvirt.serv."/>
+  <phrase i="6090" t="Keisti WLAN slaptažodį?"/>
+  <phrase i="6089" t="Naudotojo informacija"/>
+  <phrase i="6088" t="Prieiga prie WLAN negalima!"/>
+  <phrase i="6087" t="Neveikia serveris"/>
+  <phrase i="6086" t="Telefonų knyga"/>
+  <phrase i="6085" t="Kad tęstumėte, sp. „Tęsti“"/>
+  <phrase i="6084" t="Naujas adresatas"/>
+  <phrase i="6083" t="Keisti adresatą"/>
+  <phrase i="6082" t="Adresatas"/>
+  <phrase i="6081" t="%d adresatų"/>
+  <phrase i="6080" t="%d iš %d adresatų"/>
+  <phrase i="6079" t="Vardas ir pavardė"/>
+  <phrase i="6078" t="Rodyti nuostatą"/>
+  <phrase i="6077" t="Pasirinkite rodymo tvarką"/>
+  <phrase i="6076" t="Sutvarkyti kaip"/>
+  <phrase i="6075" t="Darbo tel."/>
+  <phrase i="6074" t="Mobilusis telefonas"/>
+  <phrase i="6073" t="Namų telefonas"/>
+  <phrase i="6072" t="Kitas telefonas"/>
+  <phrase i="6071" t="El. pašto adresas"/>
+  <phrase i="6070" t="Darbovietė"/>
+  <phrase i="6069" t="Darbo adresas"/>
+  <phrase i="6068" t="Gatvė"/>
+  <phrase i="6067" t="Miestas"/>
+  <phrase i="6066" t="Rajonas"/>
+  <phrase i="6065" t="Pašto kodas"/>
+  <phrase i="6064" t="Įrašyti"/>
+  <phrase i="6063" t="Įrašyti adresatą"/>
+  <phrase i="6062" t="Pasirinkite numerio tipą"/>
+  <phrase i="6061" t="Adresatui parinkite įtaiso tipą"/>
+  <phrase i="6060" t="Rūšiuoti"/>
+  <phrase i="6059" t="Tęsti"/>
+  <phrase i="6058" t="Darbo"/>
+  <phrase i="6057" t="Asmeninis"/>
+  <phrase i="6056" t="Tarptautinis"/>
+  <phrase i="6055" t="Parankiniai"/>
+  <phrase i="6054" t="Svarbiausi adresatai"/>
+  <phrase i="6053" t="Pagrindinis klientas"/>
+  <phrase i="6052" t="Įvairūs"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="Kategorijos"/>
+  <phrase i="6049" t="Kategorija"/>
+  <phrase i="6048" t="Parinkite adresatui kategorijas"/>
+  <phrase i="6047" t="Pasirinkite kategorijas"/>
+  <phrase i="6046" t="Parinkite adresatui kategoriją"/>
+  <phrase i="6045" t="Pasirinkite kategoriją"/>
+  <phrase i="6044" t="Filtras"/>
+  <phrase i="6043" t="Parinkite adresatams filtrą"/>
+  <phrase i="6042" t="Pasirinkite filtrą"/>
+  <phrase i="6041" t="Sparčiojo rinkimo numeriai"/>
+  <phrase i="6040" t="Sparčiojo rinkimo numeris"/>
+  <phrase i="6039" t="Įveskite sparčiojo rinkimo Nr."/>
+  <phrase i="6038" t="Negalimas sparčiojo rinkimo Nr."/>
+  <phrase i="6037" t="Sparč. rnk. nr. %d nepriskirtas"/>
+  <phrase i="6036" t="Sparčiojo rinkimo Nr. tuščias"/>
+  <phrase i="6035" t="Naudojimo parinktys įrašyti"/>
+  <phrase i="6034" t="Spaudimo parinktys įrašyti"/>
+  <phrase i="6033" t="Adresatas įrašytas"/>
+  <phrase i="6032" t="Adresatas neįrašytas!"/>
+  <phrase i="6031" t="Nuostatos įrašytos"/>
+  <phrase i="6030" t="Nuostatos neįrašytos!"/>
+  <phrase i="6029" t="Atšaukta"/>
+  <phrase i="6028" t="Keitiniai atšaukti"/>
+  <phrase i="6027" t="Praleista %d skambintojo skamb."/>
+  <phrase i="6026" t="Iš skambintojo priimta %d skmb."/>
+  <phrase i="6025" t="Šiuo numeriu skambinta %d k."/>
+  <phrase i="6024" t="Įkrovos veiksena"/>
+  <phrase i="6023" t="Ekranas lieka neveiksnus"/>
+  <phrase i="6022" t="Ekranas lieka apšviestas"/>
+  <phrase i="6021" t="Pasirinkite rodinio nuostatą"/>
+  <phrase i="6020" t="Pradinio puslapio tinkinimas"/>
+  <phrase i="6019" t="Nuorodos"/>
+  <phrase i="6018" t="Eilučių rodinys"/>
+  <phrase i="6017" t="Pagrindinis meniu"/>
+  <phrase i="6016" t="Pasirinkite programą"/>
+  <phrase i="6015" t="Programos"/>
+  <phrase i="6014" t="Pasirinkite nuorodą priskirti"/>
+  <phrase i="6013" t="Prisk."/>
+  <phrase i="6012" t="Garsiakalbis įjungtas"/>
+  <phrase i="6011" t="Garsiakalbis išjungtas"/>
+  <phrase i="6010" t="Sekti nuostatas"/>
+  <phrase i="6009" t="Perkraukite tel., kad išj."/>
+  <phrase i="6008" t="Leidžiama"/>
+  <phrase i="6007" t="Nekonfigūruota"/>
+  <phrase i="6006" t="Aktyvi skambėjimo nuostata"/>
+  <phrase i="6005" t="Tik pyptelėjimas"/>
+  <phrase i="6004" t="Tel. skambėjimas"/>
+  <phrase i="6003" t="Pasirinkite įspėjimo nuost."/>
+  <phrase i="6002" t="Pral."/>
+  <phrase i="6001" t="Visi"/>
+  <!-- GUI -->
+  <phrase i="6000" t="Pasirinkite būsenos elementą"/>
+  <phrase i="5999" t="Pasirinkite modelio nuostatą"/>
+  <phrase i="5998" t="Tinklo sąranka"/>
+  <phrase i="5997" t="Pasirinkite tinklo nuostatą"/>
+  <phrase i="5996" t="Telefono nuostatos"/>
+  <phrase i="5995" t="Pasirinkite telefono nuostatą"/>
+  <phrase i="5994" t="Pasirinkite saugos nuostatą"/>
+  <phrase i="5993" t="Pasirinkite įtaiso nuostatą"/>
+  <phrase i="5992" t="Pasirinkite nuostatą"/>
+  <phrase i="5991" t="Pasirinkite profilį"/>
+  <phrase i="5990" t="Pasirinkite WLAN nuostatą"/>
+  <phrase i="5989" t="802.11 veiksena"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Autom. b/g"/>
+  <phrase i="5985" t="Autom. a"/>
+  <phrase i="5984" t="Autom. RSSI"/>
+  <phrase i="5983" t="Atviras"/>
+  <phrase i="5982" t="Atviras + WEP"/>
+  <phrase i="5981" t="Bendras + WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-SPARTUS"/>
+  <phrase i="5978" t="Autom. (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS rinkimas"/>
+  <phrase i="5976" t="U-APSD/joks"/>
+  <phrase i="5975" t="PS rinkimas"/>
+  <phrase i="5973" t="Šešiol.sist."/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 bitų"/>
+  <phrase i="5970" t="128 bitai"/>
+  <phrase i="5969" t="Išj."/>
+  <phrase i="5968" t="Garsiai"/>
+  <phrase i="5967" t="Saugumo statusas"/>
+  <phrase i="5966" t="Vienas prieigos taškas"/>
+  <phrase i="5965" t="Skamb. energijos taupymo rež."/>
+  <phrase i="5964" t="Rakto stilius"/>
+  <phrase i="5963" t="Statinis WEP raktas"/>
+  <phrase i="5962" t="WEP raktas"/>
+  <phrase i="5961" t="Pirminis"/>
+  <phrase i="5960" t="Iš anksto bendrintas raktas"/>
+  <phrase i="5959" t="Tinklo profilis"/>
+  <phrase i="5958" t="Garsiakalbis prij. prie stovo"/>
+  <phrase i="5957" t="Žiedinis stovas"/>
+  <phrase i="5956" t="Ausinės"/>
+  <phrase i="5955" t="Normalus"/>
+  <phrase i="5954" t="Susitikimas"/>
+  <phrase i="5953" t="Lauke"/>
+  <phrase i="5952" t="Tylusis"/>
+  <phrase i="5951" t="1 tinkintas"/>
+  <phrase i="5950" t="2 tinkintas"/>
+  <phrase i="5949" t="Klaviatūros tonas"/>
+  <phrase i="5948" t="Įspėjimo schema"/>
+  <phrase i="5947" t="Tik skambėjimas"/>
+  <phrase i="5946" t="Tik vibracija"/>
+  <phrase i="5945" t="Vibracija, tada skambėjimas"/>
+  <phrase i="5944" t="Skambėjimas išjungtas!"/>
+  <phrase i="5943" t="Skambučiai"/>
+  <phrase i="5942" t="Sekundės"/>
+  <phrase i="5941" t="Pasirinkti "/>
+  <phrase i="5940" t="Suderinti "/>
+  <phrase i="5939" t="Naujas"/>
+  <phrase i="5938" t="Dabartinis"/>
+  <phrase i="5937" t="Įvesti naują"/>
+  <phrase i="5936" t="Senoji vertė"/>
+  <phrase i="5935" t="Įjungti"/>
+  <phrase i="5934" t="Išjungti"/>
+  <phrase i="5933" t="Įspėjimas"/>
+  <phrase i="5932" t="Sąrankos klaida"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP įjungti/išjungti"/>
+  <phrase i="5928" t="„CallManager“ informacija"/>
+  <phrase i="5927" t="HTTP informacija"/>
+  <phrase i="5926" t="Vietos informacija"/>
+  <phrase i="5925" t="QoS informacija"/>
+  <phrase i="5924" t="„CallManager“ informacija"/>
+  <phrase i="5923" t="Saugos informacija"/>
+  <phrase i="5922" t="WLAN sąranka"/>
+  <phrase i="5921" t="WLAN sąranka"/>
+  <phrase i="5920" t="Profilio pavadinimas"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="Pasirinkite USB nuostatą"/>
+  <phrase i="5914" t="USB sąranka"/>
+  <phrase i="5913" t="Vietos apžvalga"/>
+  <phrase i="5912" t="Įkelti serverį"/>
+  <phrase i="5911" t="Pasirinkti kanalą"/>
+  <phrase i="5910" t="Kanalas"/>
+  <phrase i="5909" t="Profilis %d"/>
+  <phrase i="5908" t="Naudotojų profiliai"/>
+  <phrase i="5907" t="Pasirinkite naudotojo profilį"/>
+  <phrase i="5906" t="Pasirinkite naudotojo nuostatą"/>
+  <phrase i="5905" t="Tinklo profiliai"/>
+  <phrase i="5904" t="Pasirinkite tinklo profilius"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="Rodyti skaistį"/>
+  <phrase i="5901" t="Rodyti laiko baigtį"/>
+  <phrase i="5900" t="Niekada"/>
+  <phrase i="5899" t="Atsiliepimas bet kuriuo klavišu"/>
+  <phrase i="5898" t="Įjungta"/>
+  <phrase i="5897" t="Išjungta"/>
+  <phrase i="5896" t="Įkrova baigta!"/>
+  <phrase i="5895" t="Akumuliatorius ištrauktas!"/>
+  <phrase i="5894" t="Akumuliatorius iškraunamas!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="Įveskite tekstą"/>
+  <phrase i="5890" t="Įgaliojimo tekstas"/>
+  <phrase i="5889" t="LSC operacija baigta"/>
+  <phrase i="5888" t="LSC operacija pradėta"/>
+  <phrase i="5887" t="Stabdyti"/>
+  <phrase i="5886" t="Jungiamasi prie CAPF serverio"/>
+  <phrase i="5885" t="Nepavyko pris. prie CAPF serv."/>
+  <phrase i="5884" t="Prisijungta prie CAPF serverio"/>
+  <phrase i="5883" t="CAPF tikrinama tapatybė"/>
+  <phrase i="5882" t="CAPF serveris"/>
+  <phrase i="5881" t="LSC identifikacijos klaida"/>
+  <phrase i="5880" t="Generuojamas LSC raktas"/>
+  <phrase i="5879" t="LSC rakto generuoti nepavyko"/>
+  <phrase i="5878" t="Vyksta LSC operacija"/>
+  <phrase i="5877" t="Bandoma dar... Palaukite"/>
+  <phrase i="5876" t="LSC operacija atšaukta"/>
+  <phrase i="5875" t="LSC operacija nutraukta"/>
+  <phrase i="5874" t="Baigėsi LSC operacijos laikais"/>
+  <phrase i="5873" t="LSC operacija nepavyko"/>
+  <phrase i="5872" t="Minimalus reikiamas ilgis"/>
+  <phrase i="5871" t="URL nekonfigūruota!"/>
+  <phrase i="5870" t="Joks"/>
+  <phrase i="5869" t="Nežinomas"/>
+  <phrase i="5867" t="Neįdiegta"/>
+  <phrase i="5866" t="Įdiegta"/>
+  <phrase i="5864" t="LSC įdiegta"/>
+  <phrase i="5863" t="LSC atnaujinta"/>
+  <phrase i="5862" t="LSC pašalinta"/>
+  <phrase i="5861" t="Išsamiai"/>
+  <phrase i="5860" t="Nuostatų prieiga išjungta!"/>
+  <phrase i="5859" t="Perkraunamas telefonas..."/>
+  <phrase i="5858" t="Pradėti gamyklinį atstatymą?"/>
+  <phrase i="5857" t="CTL rinkmena"/>
+  <phrase i="5856" t="Patikimųjų sąrašas"/>
+  <phrase i="5855" t="CTL rinkmena ištrinta!"/>
+  <phrase i="5854" t="Nerasta"/>
+  <phrase i="5853" t="Blogas telefono MIC"/>
+  <phrase i="5852" t="CTL atnaujinti nepavyko"/>
+  <phrase i="5851" t="CTL įdiegta"/>
+  <phrase i="5850" t="Nebekrauna akum. kroviklis!"/>
+  <phrase i="5849" t="Pradėjo krauti akum. kroviklis!"/>
+  <phrase i="5848" t="Atjungta kint. srovė!"/>
+  <phrase i="5847" t="Srovė prijungta!"/>
+  <phrase i="5846" t="USB atjungtas!"/>
+  <phrase i="5845" t="USB prijungtas!"/>
+  <phrase i="5844" t="Stovas atjungtas!"/>
+  <phrase i="5843" t="Stovas prijungtas!"/>
+  <phrase i="5842" t="Ausinės atjungtos!"/>
+  <phrase i="5841" t="Ausinės prijungtos!"/>
+  <phrase i="5840" t="Pasiektas maks. ilgis!"/>
+  <phrase i="5839" t="Klaviatūra atblokuota!"/>
+  <phrase i="5838" t="Klaviatūra užblokuota!"/>
+  <phrase i="5837" t="Atblokuoti klaviatūrą?"/>
+  <phrase i="5836" t="Užblokuoti klaviatūrą?"/>
+  <phrase i="5835" t="Vibracija išjungta!"/>
+  <phrase i="5834" t="Vibracija įjungta!"/>
+  <phrase i="5833" t="LSC atnaujinti nepavyko!"/>
+  <phrase i="5832" t="MIC atnaujinti nepavyko!"/>
+  <phrase i="5831" t="Nuostatos atblokuotos!"/>
+  <phrase i="5830" t="Nuostatos užblokuotos!"/>
+  <phrase i="5829" t="Iškr. akum. Sustabdoma!"/>
+  <phrase i="5828" t="TFTP ne priemonėje CTL"/>
+  <phrase i="5827" t="USB sąsaja aukštyn"/>
+  <phrase i="5826" t="USB sąsaja žemyn"/>
+  <phrase i="5825" t="%d s"/>
+  <phrase i="5824" t="Automatinis klav. blokavimas"/>
+  <phrase i="5823" t="Pasirinkite autom. blok. laiką"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="Pasirinkite katalogą"/>
+  <phrase i="5820" t="Tinklas užimtas"/>
+  <phrase i="5819" t="WLAN reguliavimo domenas"/>
+  <phrase i="5818" t="USB pardavėjo ID"/>
+  <phrase i="5817" t="USB produkto ID"/>
+  <phrase i="5816" t="RNDIS įtaiso adresas"/>
+  <phrase i="5815" t="RNDIS pagr. kompiuterio adresas"/>
+  <phrase i="5814" t="Slėpti"/>
+  <phrase i="5813" t="Parinkt."/>
+  <phrase i="5812" t="Spust. centr. mgt., kad pasir."/>
+  <phrase i="5811" t="Spust. centr. mgt., kad tais."/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="Išlaikyti žurnalus"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="Saugos sąranka"/>
+  <phrase i="5785" t="Profilis užblokuotas!"/>
+  <phrase i="5784" t="Profiliai užblokuoti!"/>
+  <phrase i="5783" t="WLAN tvarkyklės ID"/>
+  <phrase i="5782" t="WLAN mikroprogramos ID"/>
+  <phrase i="5781" t="Peržiūrėti skambučių statistiką"/>
+  <phrase i="5780" t="Imtuvo kodekas"/>
+  <phrase i="5779" t="Siųstuvo kodekas"/>
+  <phrase i="5778" t="Imtuvo dydis"/>
+  <phrase i="5777" t="Siųstuvo dydis"/>
+  <phrase i="5776" t="Vidutinis poslinkis"/>
+  <phrase i="5775" t="Maks. poslinkis"/>
+  <phrase i="5774" t="Imtuvas išmestas"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="Vid. MOS LQK"/>
+  <phrase i="5771" t="Min. MOS LQK"/>
+  <phrase i="5770" t="Maks. MOS LQK"/>
+  <phrase i="5769" t="MOS LQK versija"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="Slėpimo sekundės"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="Tinklo informacija"/>
+  <phrase i="5761" t="WLAN informacija"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="Vieta"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="Sauga"/>
+  <phrase i="5755" t="Pasirinkite garsumo lygį"/>
+  <phrase i="5754" t="Garso nuostatos"/>
+  <phrase i="5753" t="Ekrano nuostatas"/>
+  <phrase i="5752" t="Klaviatūros nuostatos"/>
+  <phrase i="5751" t="Numatytasis skambėjimo tipas"/>
+  <phrase i="5750" t="Pasirinkite garso nuostatą"/>
+  <phrase i="5749" t="Pasirinkite ekrano nuostatą"/>
+  <phrase i="5748" t="Pasirinkite klaviatūros nuost."/>
+  <phrase i="5747" t="Šifravimo tipas"/>
+  <phrase i="5746" t="CCKM veiksena"/>
+  <phrase i="5745" t="Klavišų valdymas"/>
+  <phrase i="5744" t="Tx galia"/>
+  <phrase i="5743" t="Bendrinama"/>
+  <phrase i="5742" t="Automatinis perjungimas"/>
+  <phrase i="5741" t="WPA joks"/>
+  <phrase i="5740" t="Tinklo prieiga"/>
+  <phrase i="5739" t="Tik skaityti"/>
+  <phrase i="5738" t="Taisyti rinktiną numerį"/>
+  <phrase i="5737" t="Garsumo nuostatos"/>
+  <phrase i="5736" t="Pasirinkite garsumą"/>
+  <phrase i="5735" t="Garsumo lygiai"/>
+  <phrase i="5734" t="Skambėjimas"/>
+  <phrase i="5733" t="Ragelis"/>
+  <phrase i="5732" t="Garsiakalbis"/>
+  <phrase i="5731" t="Vibracija ir skambėjimas"/>
+  <phrase i="5730" t="Lygis %d"/>
+  <phrase i="5729" t="Minutė"/>
+  <phrase i="5728" t="Minutės"/>
+  <phrase i="5727" t="Vyksta pokalbis..."/>
+  <phrase i="5726" t="Skambutis atšauktas!"/>
+  <phrase i="5725" t="Skamb. nepavyko. Bandykite dar."/>
+  <phrase i="5724" t="Nepavyko įjungti: tuščias SSID!"/>
+  <phrase i="5723" t="Čia tuščias SSID neleidžiamas!"/>
+  <phrase i="5722" t="Skambėjimo tonas"/>
+  <phrase i="5721" t="Esamos nuostatos"/>
+  <phrase i="5720" t="Galimi skambėjimo tonai"/>
+  <phrase i="5719" t="Skambėjimo tono nuostatos"/>
+  <phrase i="5718" t="Peržiūr."/>
+  <phrase i="5717" t="Pasirinkti skambėjimo toną"/>
+  <phrase i="5716" t="Pritaikyti skambėjimo toną"/>
+  <phrase i="5715" t="Pritaik."/>
+  <phrase i="5714" t="ŠD aprėpties indikatorius"/>
+  <phrase i="5713" t="Saugos sąranka"/>
+  <phrase i="5712" t="Skambėjimo išvestis"/>
+  <phrase i="5711" t="Garsiakalbis ir ausinės"/>
+  <phrase i="5710" t="Keisti"/>
+  <phrase i="5709" t="Bangos sąsajos sąranka"/>
+  <phrase i="5708" t="Pasirinkite bangos sąs. nuost."/>
+  <phrase i="5707" t="Bangos sąsaja"/>
+  <phrase i="5706" t="Kintamas bangos sąs. serveris"/>
+  <phrase i="5705" t="Bangos sąsajos serveris"/>
+  <phrase i="5704" t="Bangos sąs. serverio prievadas"/>
+  <phrase i="5703" t="Įjungiklio versija"/>
+  <phrase i="5702" t="Tinkintas pavadinimas"/>
+  <phrase i="5701" t="Tinkinta vertė"/>
+  <phrase i="5700" t="Kan."/>
+  <phrase i="5699" t="Kaimynų sąrašas"/>
+  <phrase i="5698" t="AP pavadinimas"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NullRcv"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="Atblok."/>
+  <phrase i="5689" t="Asmeninis katalogas"/>
+  <phrase i="5688" t="Bendrasis katalogas"/>
+  <phrase i="5687" t="Paspauskite „Atblokuoti“"/>
+  <phrase i="5686" t="Paspauskite #, jei norite atblokuoti"/>
+  <phrase i="5685" t="Laikykite nuspaudę #, jei norite atblokuoti"/>
+  <phrase i="5684" t="Klaviatūra užblokuota"/>
+  <phrase i="5683" t="Apšvietimas"/>
+  <phrase i="5682" t="Pasirinkti garso takelį"/>
+  <phrase i="5681" t="Garsiakalbis ir „Bluetooth“"/>
+  <phrase i="5680" t="Ausinių skambėjimas"/>
+  <phrase i="5679" t="Garsus"/>
+  <phrase i="5678" t="Vidutinis"/>
+  <phrase i="5677" t="Tylus"/>
+  <phrase i="5676" t="Paspauskite %s, kad patektumėte į pagrindinį langą"/>
+  <phrase i="5675" t="Pokalbio detalės"/>
+  <phrase i="5674" t="%s, esant %s"/>
+  <phrase i="5673" t="Trukmė"/>
+  <phrase i="5672" t="Raginimo veiksena"/>
+  <phrase i="5671" t="Jūsų, kaip naudotojo, rekvizitai gali būti neteisingi."/>
+  <phrase i="5670" t="Keisti dabar?"/>
+  <phrase i="5669" t="Garsiakalbio veiksena"/>
+  <phrase i="5668" t="Nuolatinis"/>
+  <phrase i="5667" t="Pokalbio metu"/>
+  <phrase i="5666" t="Tinklo profilio prisijungimas"/>
+  <phrase i="5665" t="Šrifto dydis"/>
+  <phrase i="5664" t="Padidintas"/>
+  <phrase i="5663" t="64 bitai"/>
+  <phrase i="5662" t="104 bitai"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="VID. RYŠYS"/>
+  <phrase i="4998" t="Gaunamasis skambutis"/>
+  <phrase i="4997" t="Vietinis katalogas"/>
+  <phrase i="4996" t="Vietinis sparčiojo rinkimo Nr."/>
+  <phrase i="4995" t="Pavardė"/>
+  <phrase i="4994" t="Vardas"/>
+  <phrase i="4993" t="Vietinio katalogo paieška"/>
+  <phrase i="4992" t="Per daug rez. Gerinti paiešką."/>
+  <phrase i="4991" t="Nerasta jokių įrašų."/>
+  <phrase i="4990" t="Įrašas 1 ~ ... iš"/>
+  <phrase i="4989" t="Nėra pasiekiamų linijų"/>
+  <phrase i="4988" t="Perjungimas Negalimas"/>
+  <phrase i="4987" t="Asmuo, kuriam siunč., užimtas"/>
+  <phrase i="4986" t="Įv. ar pasirink. rinktiną Nr."/>
+  <phrase i="4985" t="Ar norite atstatyti visas sist."/>
+  <phrase i="4984" t="nuostatas į numatytąsias?"/>
+  <phrase i="4983" t="Katalogo tarnybos"/>
+  <phrase i="4982" t="XML tarnybos"/>
+  <phrase i="4981" t="Jungiamasi prie serverio"/>
+  <phrase i="4980" t="Prisijungti nepavyko"/>
+  <phrase i="4979" t="Tikrai norite perkr. telefoną?"/>
+  <phrase i="4978" t="Meniu"/>
+  <phrase i="4977" t="Kalba"/>
+  <phrase i="4976" t="Kintamas domenas"/>
+  <phrase i="4975" t="Kintamas DNS"/>
+  <phrase i="4974" t="Esama vertė"/>
+  <phrase i="4973" t="Nauja vertė"/>
+  <phrase i="4972" t="Numatytasis kelvedis"/>
+  <phrase i="4971" t="VLAN įjungta"/>
+  <phrase i="4970" t="CDP įjungta"/>
+  <phrase i="4969" t="Tarnybos"/>
+  <phrase i="4968" t="Greitasis rinkimas"/>
+  <phrase i="4967" t="Įvesti serverį"/>
+  <phrase i="4966" t="Statiškas"/>
+  <phrase i="4965" t="Registracijos veiksena"/>
+  <phrase i="4964" t="Veiksena"/>
+  <phrase i="4963" t="Legatas"/>
+  <phrase i="4962" t="Mikroprogramos patobulinimas"/>
+  <phrase i="4961" t="Kontrasto meniu"/>
+  <phrase i="4960" t="Keisti admin. slaptažodį"/>
+  <phrase i="4959" t="Nepasiekiama"/>
+  <phrase i="4958" t="Teksto pavyzdys"/>
+  <phrase i="4957" t="Tobulinama"/>
+  <phrase i="4956" t="Įveskite naują slaptažodį"/>
+  <phrase i="4955" t="Pranešimai"/>
+  <phrase i="4954" t="Nuostatos"/>
+  <phrase i="4953" t="Katalogai"/>
+  <phrase i="4952" t="Netinkamas slaptažodis"/>
+  <phrase i="4951" t="Įveskite admin. slaptažodį"/>
+  <phrase i="4950" t="Netinkama įvesties vertė"/>
+  <phrase i="4949" t="Netinkamas klavišo teksto ilgis"/>
+  <phrase i="4948" t="Negal.klav.teksto ilg.:t.b.šeš."/>
+  <phrase i="4947" t="GREITASIS RINKIMAS"/>
+  <phrase i="4946" t="Eternetas atjungtas"/>
+  <phrase i="4945" t="Konfigūruojama per TFTP"/>
+  <phrase i="4944" t="Konfigūruojama IP per DHCP"/>
+  <phrase i="4943" t="Konfigūruojama VLAN nuostata"/>
+  <phrase i="4942" t="Numeris negalimas"/>
+  <phrase i="4941" t="Nepriskirta"/>
+  <phrase i="4940" t="Skambėjimo garsumas"/>
+  <phrase i="4939" t="Ragelio garsumas"/>
+  <phrase i="4938" t="Garsiakalbio garsumas"/>
+  <phrase i="4937" t="BandDar"/>
+  <phrase i="4936" t="Įvesti"/>
+  <phrase i="4935" t="Alfa"/>
+  <phrase i="4934" t="Mon.išj."/>
+  <phrase i="4933" t="Monitorius"/>
+  <phrase i="4932" t="Numeris"/>
+  <phrase i="4931" t="Pranešim"/>
+  <phrase i="718" t="Vidinio ryšio istorija"/>
+  <phrase i="717" t="Visos eilutės"/>
+  <phrase i="716" t="Eilutė %d"/>
+  <phrase i="715" t="Žemyn"/>
+  <phrase i="714" t="Operacija atšaukta"/>
+  <phrase i="713" t="TFTP nepatvirtintas: %s"/>
+  <phrase i="712" t="Trinti"/>
+  <phrase i="711" t="Užšifruota"/>
+  <phrase i="710" t="Tapatybė patvirtinta"/>
+  <phrase i="709" t="Nesaugu"/>
+  <phrase i="708" t="TLS klaida "/>
+  <phrase i="707" t="Žiniatinklio prieiga įjungta"/>
+  <phrase i="706" t="Įtaiso saugos veiksena"/>
+  <phrase i="705" t="Apdorojama..."/>
+  <phrase i="704" t="Netink. įvestis arba nėra inf."/>
+  <phrase i="703" t="Nepavyko generuoti raktų"/>
+  <phrase i="702" t="Nutrūko ryšys"/>
+  <phrase i="701" t="Nepavyko"/>
+  <phrase i="700" t="Laiko baigtis"/>
+  <phrase i="699" t="Sėkmingai"/>
+  <phrase i="698" t="Tapatybės patvirt. užklausa..."/>
+  <phrase i="697" t="Jungiamasi..."/>
+  <phrase i="696" t="Bandyti CAPF dar..."/>
+  <phrase i="695" t="Generuojami raktai..."/>
+  <phrase i="694" t="Atšaukti operaciją"/>
+  <phrase i="693" t="Atnaujinti sertifikatą"/>
+  <phrase i="692" t="Tapatybės tvirtinimo tekstas"/>
+  <phrase i="691" t="Sertifikatai"/>
+  <phrase i="690" t="DSCP tarnyboms"/>
+  <phrase i="689" t="Sąrankos DSCP"/>
+  <phrase i="688" t="Skambučių kontrolės DSCP"/>
+  <phrase i="687" t="Nepavyko patvirt. rinkm. tap."/>
+  <phrase i="686" t="CAST užduotis"/>
+  <phrase i="685" t="Vaizdo galimybė įjungta"/>
+  <phrase i="684" t="Autom. eil. pasirink. įjungtas"/>
+  <phrase i="683" t="Balso VLAN įjungtas"/>
+  <phrase i="682" t="GARP įjungtas"/>
+  <phrase i="681" t="Gretimas prievadas"/>
+  <phrase i="680" t="Gretimo IP adresas"/>
+  <phrase i="679" t="Gretimo įtaiso ID"/>
+  <phrase i="678" t="Iki %s"/>
+  <phrase i="677" t="Peradresuota"/>
+  <phrase i="676" t="SutrRink"/>
+  <phrase i="675" t="Užkl. dėl tarnybos URL būsenos"/>
+  <phrase i="674" t="Užkl. dėl ypat. rakto būsenos"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d nauj. praleist. skamb."/>
+  <phrase i="670" t="Numatytasis skambėjimas"/>
+  <phrase i="669" t="Pasirinkti eilutę..."/>
+  <phrase i="668" t="Taisyti rinktą numerį"/>
+  <phrase i="667" t="Telefono ryšio nutraukimas"/>
+  <phrase i="666" t="Tinklo vietos versija"/>
+  <phrase i="665" t="Naudotojo vietos versija"/>
+  <phrase i="664" t="TFTP užklausa atšaukta"/>
+  <phrase i="663" t="DHCP išjungtas"/>
+  <phrase i="662" t="Reikia IP adreso"/>
+  <phrase i="661" t="Būsena "/>
+  <phrase i="660" t="Numatytoji"/>
+  <phrase i="659" t="Laukia pranešimas"/>
+  <phrase i="658" t="Tik ragelio veiksena"/>
+  <phrase i="657" t="Modelio numeris"/>
+  <phrase i="656" t="Peržiūrėti modelio informaciją"/>
+  <phrase i="655" t="Modelio informacija"/>
+  <phrase i="654" t="Ryšio būsena "/>
+  <phrase i="653" t="Šrifto rodyklė pask."/>
+  <phrase i="652" t="Šrifto rodyklė"/>
+  <phrase i="651" t="Vykdyti programą"/>
+  <phrase i="650" t="Šrifto atsisiuntimas pask."/>
+  <phrase i="649" t="Šrifto atsisiuntimas"/>
+  <phrase i="648" t="Informacija apie šriftų lentelę"/>
+  <phrase i="647" t="Segmento atsisiuntimas pask."/>
+  <phrase i="646" t="Segmento atsisiuntimas"/>
+  <phrase i="645" t="Segmento naujinimas"/>
+  <phrase i="644" t="Aparatinės įrangos informacija"/>
+  <phrase i="643" t="Versija TFTP"/>
+  <phrase i="642" t="Versijos informacija"/>
+  <phrase i="641" t="Laisvas"/>
+  <phrase i="640" t="Neatpažįstama"/>
+  <phrase i="639" t="Vietos naujinimo klaida"/>
+  <phrase i="638" t="Lauk. būsenos %d atsako iš %s"/>
+  <phrase i="637" t="Laukiama %s iš %s"/>
+  <phrase i="636" t="BOOTP serveris"/>
+  <phrase i="635" t="DHCP serveris"/>
+  <phrase i="634" t="3 V amp."/>
+  <phrase i="633" t="5 V amp."/>
+  <phrase i="632" t="AD kodekas"/>
+  <phrase i="631" t="ADL kodekas"/>
+  <phrase i="630" t="C3PO peržiūra"/>
+  <phrase i="629" t="Amp."/>
+  <phrase i="628" t="Kodekas"/>
+  <phrase i="627" t="Serijos numeris"/>
+  <phrase i="626" t="Aparat. įrangos peržiūra"/>
+  <phrase i="625" t="Įkrovos sektoriaus ID"/>
+  <phrase i="624" t="Programos įkrovos ID"/>
+  <phrase i="623" t="Tel. DN"/>
+  <phrase i="622" t="SYS veiksena"/>
+  <phrase i="621" t="FIQ veiksena"/>
+  <phrase i="620" t="IRQ veiksena"/>
+  <phrase i="619" t="SVC veiksena"/>
+  <phrase i="618" t="Neapibrėžta veiksena"/>
+  <phrase i="610" t="daugiau"/>
+  <phrase i="609" t="Rinktis"/>
+  <phrase i="608" t="Išeiti"/>
+  <phrase i="607" t="Žemyn"/>
+  <phrase i="606" t="Aukštyn"/>
+  <phrase i="605" t="Atšaukti"/>
+  <phrase i="604" t="Taisyti"/>
+  <phrase i="603" t="Ne"/>
+  <phrase i="602" t="Taip"/>
+  <phrase i="601" t="Groti"/>
+  <phrase i="600" t="Rinkti"/>
+  <phrase i="599" t="TaisNr"/>
+  <phrase i="598" t="Įrašyti"/>
+  <phrase i="597" t="Atstatyti"/>
+  <phrase i="596" t="Šalinti"/>
+  <phrase i="595" t="Gamyklinės"/>
+  <phrase i="594" t="Gerai"/>
+  <phrase i="593" t="Aprob."/>
+  <phrase i="592" t="Ieškoti"/>
+  <phrase i="591" t="Toliau"/>
+  <phrase i="590" t="Naujinti"/>
+  <phrase i="589" t="Išvalyti"/>
+  <phrase i="588" t="Pateikti"/>
+  <phrase i="587" t="Tonas"/>
+  <phrase i="586" t="Tinklo vieta"/>
+  <phrase i="585" t="Naudotojo vieta"/>
+  <phrase i="584" t="Keitės rinkmena"/>
+  <phrase i="583" t="Tono failas"/>
+  <phrase i="582" t="Skambutis užimtas!"/>
+  <phrase i="581" t="TFTP serveris 2"/>
+  <phrase i="578" t="Progr. prievado sąranka"/>
+  <phrase i="577" t="Komp. prievado sąranka"/>
+  <phrase i="576" t="PC prievadas išjungtas"/>
+  <phrase i="575" t="Klaida"/>
+  <phrase i="574" t="Netinkamas argumentas"/>
+  <phrase i="573" t="Bazinis telefonas"/>
+  <phrase i="571" t="KONTRASTO MENIU"/>
+  <phrase i="570" t="Pasir. reguliuotiną kontrastą"/>
+  <phrase i="569" t="Balso paštas"/>
+  <phrase i="568" t="PRANEŠIMAI"/>
+  <phrase i="555" t="CM-ICMP nepasiekta"/>
+  <phrase i="554" t="Pasirinkite skambutį..."/>
+  <phrase i="553" t="Tarpinio serverio URL"/>
+  <phrase i="552" t="Tapatybės tvirtinimo URL"/>
+  <phrase i="551" t="Autom. rinkimas atšauktas!"/>
+  <phrase i="550" t="Priekabos užduotis"/>
+  <phrase i="547" t="HTTP rinkmenos klaida"/>
+  <phrase i="546" t="XML klaida [4]: nagr. klaida"/>
+  <phrase i="545" t="Rinkmenos kūrimo klaida"/>
+  <phrase i="544" t="Paskutinis="/>
+  <phrase i="543" t="Įkelti atmestus HC"/>
+  <phrase i="542" t="Telefonas-registruoti-atmesti"/>
+  <phrase i="541" t="Atstatyti-perkrauti"/>
+  <phrase i="540" t="Atstatyti-atstatyti"/>
+  <phrase i="539" t="Telefonas-re-IP"/>
+  <phrase i="538" t="Telefonas-klaviatūra"/>
+  <phrase i="537" t="Telefonas-diag."/>
+  <phrase i="536" t="Atsarga trikties atveju"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-aborted-TCP"/>
+  <phrase i="532" t="CM-reset-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="530" t="Sąrankos inf. tikrinimo klaida"/>
+  <phrase i="529" t="Prievado informacija"/>
+  <phrase i="528" t="Eterneto informacija"/>
+  <phrase i="527" t="%s per didelis"/>
+  <phrase i="526" t="Nuo "/>
+  <phrase i="525" t="Nėra įvesčių"/>
+  <phrase i="524" t="Įvesk. naudotojo ID ir slaptaž."/>
+  <phrase i="523" t="Slaptažodis"/>
+  <phrase i="522" t="Naudotojo vardas"/>
+  <phrase i="521" t="Pasirinkti tarnybą..."/>
+  <phrase i="520" t="Tvarkyti esamą skambutį..."/>
+  <phrase i="519" t="TFTP dydžio klaida"/>
+  <phrase i="518" t="Frazės rinkmena"/>
+  <phrase i="517" t="Simbolio rinkmena"/>
+  <phrase i="516" t="%s negalima"/>
+  <phrase i="515" t="Blogas %s"/>
+  <phrase i="514" t="Žurnalas %d"/>
+  <phrase i="513" t="Prieiga"/>
+  <phrase i="511" t="Telefonas"/>
+  <phrase i="510" t="Tinklas"/>
+  <phrase i="509" t="Srautas %d"/>
+  <phrase i="508" t="Srauto statistika"/>
+  <phrase i="507" t="Įtaiso žurnalai"/>
+  <phrase i="506" t="Prievadas %d"/>
+  <phrase i="505" t="Eternetas"/>
+  <phrase i="504" t="Įtaiso informacija"/>
+  <phrase i="503" t="Peradresavimo delsa"/>
+  <phrase i="502" t="Trinti sąranką"/>
+  <phrase i="501" t="Kintantis TFTP"/>
+  <phrase i="500" t="DHCP adresas išleistas"/>
+  <phrase i="499" t="DHCP įjungtas"/>
+  <phrase i="498" t="Transliavimas"/>
+  <phrase i="497" t="PrK"/>
+  <phrase i="496" t="Snt"/>
+  <phrase i="495" t="Prm"/>
+  <phrase i="494" t="Versija"/>
+  <phrase i="493" t="Atgal"/>
+  <phrase i="492" t=" ĮJ."/>
+  <phrase i="491" t=" TAIP"/>
+  <phrase i="490" t=" IŠJ."/>
+  <phrase i="489" t=" NE"/>
+  <phrase i="488" t="RTP delsa"/>
+  <phrase i="487" t="TFTP klaida"/>
+  <phrase i="486" t="TFTP prieigos klaida"/>
+  <phrase i="485" t="Rinkmena nerasta"/>
+  <phrase i="484" t="Paskutinis=0x%02X"/>
+  <phrase i="483" t="CM-closed-TCP"/>
+  <phrase i="482" t="TCP-timeout"/>
+  <phrase i="481" t="Paleista"/>
+  <phrase i="480" t="Pavadinimas=%15s"/>
+  <phrase i="479" t="Naujinama programa"/>
+  <phrase i="478" t="ROM sumos patikros klaida"/>
+  <phrase i="477" t=" Įkelti="/>
+  <phrase i="474" t="Dubliuotas IP adresas"/>
+  <phrase i="473" t="IP adresas išleistas"/>
+  <phrase i="472" t="Atstatoma"/>
+  <phrase i="471" t="Užklausa dėl serverių sąrašo"/>
+  <phrase i="470" t="Užklausa dėl greičio būsenos"/>
+  <phrase i="469" t="Užklausa dėl eilutės būsenos"/>
+  <phrase i="468" t="Užklausą dėl progr. klav. rink."/>
+  <phrase i="467" t="Užklausa dėl progr. klav. ruoš."/>
+  <phrase i="466" t="Užklausa dėl ruošinio"/>
+  <phrase i="465" t="Įkeliama DSP"/>
+  <phrase i="464" t="Tikrinama apkrova"/>
+  <phrase i="463" t="Registracija atmesta"/>
+  <phrase i="462" t="Registruojama"/>
+  <phrase i="461" t="Atveriama "/>
+  <phrase i="460" t="Konfigūruojamas CM sąrašas"/>
+  <phrase i="459" t="Konfigūruojamas IP"/>
+  <phrase i="458" t="Konfigūruojamas VLAN"/>
+  <phrase i="457" t="%d iš %d"/>
+  <phrase i="456" t="Netinkama gamybos informacija"/>
+  <phrase i="455" t="XML klaida [%d]!"/>
+  <phrase i="454" t="HTTP klaida [%d]!"/>
+  <phrase i="453" t="Pagr. kompiuteris nerastas"/>
+  <phrase i="452" t="HTTP užklausa atšaukta"/>
+  <phrase i="451" t="Nukreipiama..."/>
+  <phrase i="450" t="Reikalingas tapat. patvirt.!"/>
+  <phrase i="449" t="Pusė"/>
+  <phrase i="448" t="Visas"/>
+  <phrase i="447" t="Veikimo trukmė"/>
+  <phrase i="446" t="Glaudinimo tipo klaida"/>
+  <phrase i="445" t="TCP klaidos kodas"/>
+  <phrase i="444" t="Versijos klaida"/>
+  <phrase i="443" t="Užpildyto disko klaida"/>
+  <phrase i="442" t="CFG TFTP dydžio klaida"/>
+  <phrase i="441" t="Vėlyvas DSP"/>
+  <phrase i="440" t="Išplauta"/>
+  <phrase i="439" t="DSP Keepalive laiko baigtis"/>
+  <phrase i="438" t="DSP klaida"/>
+  <phrase i="437" t="Netinkamas VLAN"/>
+  <phrase i="436" t="Netinkamas IP adresas"/>
+  <phrase i="435" t="Netinkamas potinklio trafaretas"/>
+  <phrase i="434" t=" Negalima"/>
+  <phrase i="433" t=" Pristabdymas"/>
+  <phrase i="432" t=" Aktyvus"/>
+  <phrase i="431" t="BOOTP serveris naudojamas"/>
+  <phrase i="430" t="Programavimo klaida"/>
+  <phrase i="429" t="IP dublikatas"/>
+  <phrase i="428" t="Nėra numatytojo kelvedžio"/>
+  <phrase i="427" t="CNF rinkmena nepasiekiama"/>
+  <phrase i="426" t="Sumos patikros klaida"/>
+  <phrase i="425" t="Netinkamas įkėlimo ID"/>
+  <phrase i="424" t="Nėra DNS serverio IP"/>
+  <phrase i="423" t="DNS laiko baigtis"/>
+  <phrase i="422" t="DNS nežinomas pagr. komp."/>
+  <phrase i="421" t="TFTP bendroji klaida"/>
+  <phrase i="420" t="Nerasta CFG rinkmena"/>
+  <phrase i="419" t="TFTP laiko baigtis"/>
+  <phrase i="418" t="DHCP laiko baigtis"/>
+  <phrase i="417" t="Reikalingas kelvedis"/>
+  <phrase i="416" t="Kelvedis – ne potinklyje"/>
+  <phrase i="415" t="Reikalingas TFTP serveris"/>
+  <phrase i="414" t="Negalima informacija"/>
+  <phrase i="413" t="Transliacijos slopinimas IŠJ."/>
+  <phrase i="412" t="Transliacijos slopinimas ĮJ."/>
+  <phrase i="410" t="Ragelio garsumas įrašytas!"/>
+  <phrase i="409" t="Ausinių garsumas įrašytas!"/>
+  <phrase i="408" t="Garsiakalb. garsumas įrašytas!"/>
+  <phrase i="407" t="Keitiniai neįrašyti!"/>
+  <phrase i="406" t="Įrašyti garsumo reguliavimą?"/>
+  <phrase i="405" t="Įvesti įvesties duomenis..."/>
+  <phrase i="404" t="Paslaugos negalimos"/>
+  <phrase i="403" t="PASLAUGOS"/>
+  <phrase i="402" t="Perž. aparat. įr. informaciją"/>
+  <phrase i="401" t="Aparat. įrangos informacija"/>
+  <phrase i="400" t="Peržiūrėti paketo informaciją"/>
+  <phrase i="399" t="Paketų monitorius"/>
+  <phrase i="398" t="Peržiūrėti taisymo informaciją"/>
+  <phrase i="397" t="Taisymo rodinys"/>
+  <phrase i="396" t="Perž. mikroprogramos versijas"/>
+  <phrase i="395" t="Mikroprogramos versijos"/>
+  <phrase i="394" t="Peržiūrėti tinklo statistiką"/>
+  <phrase i="393" t="Tinklo statistika"/>
+  <phrase i="392" t="Peržiūrėti būsenos pranešimus"/>
+  <phrase i="391" t="Įvestis aprobuota"/>
+  <phrase i="390" t="Naujas %s:"/>
+  <phrase i="389" t="Esamas %s:"/>
+  <phrase i="388" t="Taisyti %s"/>
+  <phrase i="387" t="Nuostatos būsena"/>
+  <phrase i="386" t="Pasirinkite būsenos el..."/>
+  <phrase i="385" t="Paketo statistika"/>
+  <phrase i="384" t="Būsenos pranešimai"/>
+  <phrase i="383" t="Pasirinkite tinklo nuostatą..."/>
+  <phrase i="382" t="Tonų sąrašas negalimas!"/>
+  <phrase i="381" t="Bloga tonų sąrašo rinkmena!"/>
+  <phrase i="380" t="Tonų sąrašas negalimas!"/>
+  <phrase i="379" t="Kviečiama tonų rinkmena..."/>
+  <phrase i="378" t="Skambėjimo tipas"/>
+  <phrase i="377" t="Pasirinkite skambėjimo toną"/>
+  <phrase i="376" t="Kviečiamas tonų sąrašas..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Pokytis priimtas ir įrašytas"/>
+  <phrase i="372" t="Keisti kontrastą..."/>
+  <phrase i="371" t="Įrašyti visi keitiniai"/>
+  <phrase i="370" t="Atstatytos gamykl. nuostatos "/>
+  <phrase i="369" t="Atstatytos įrašytos nuostatos"/>
+  <phrase i="368" t="Pasirinkti nuostatą..."/>
+  <phrase i="367" t="NUOSTATOS"/>
+  <phrase i="366" t="Būsena"/>
+  <phrase i="365" t="Tinklo konfigūracija"/>
+  <phrase i="364" t="Kontrastas"/>
+  <phrase i="363" t="Tobulinti ieškos kriterijus..."/>
+  <phrase i="362" t="Nėra įrašų"/>
+  <phrase i="361" t="%d įraš."/>
+  <phrase i="360" t="%s ieška"/>
+  <phrase i="359" t="Skambučių istorija išvalyta!"/>
+  <phrase i="358" t="Pasirinkite katalogą..."/>
+  <phrase i="357" t="Negalimas katalogo URL!.."/>
+  <phrase i="356" t="KATALOGAS"/>
+  <phrase i="355" t="Rinkti numeriai"/>
+  <phrase i="354" t="Priimti skambučiai"/>
+  <phrase i="353" t="Praleisti skambučiai"/>
+  <phrase i="352" t="CM neveikia, funkc. neveiksnios"/>
+  <phrase i="351" t="%s"/>
+  <phrase i="350" t="Tas klavišas čia neveikia"/>
+  <phrase i="349" t="Vykdoma užklausa..."/>
+  <phrase i="348" t="Skambučių statistika"/>
+  <phrase i="347" t="INFORMACIJA"/>
+  <phrase i="346" t="Rinkitės klav. papild. inform."/>
+  <phrase i="345" t="Pasp. atšaukimo  klavišą..."/>
+  <phrase i="344" t="Įrašyti visi laukai"/>
+  <phrase i="343" t="Neįrašyti jokie keitiniai"/>
+  <phrase i="342" t="%d dienos, "/>
+  <phrase i="341" t="1 diena, "/>
+  <phrase i="340" t="%s"/>
+  <phrase i="339" t="%s"/>
+  <phrase i="338" t="Vakar"/>
+  <phrase i="337" t="Šiandien"/>
+  <phrase i="336" t="Šeštadienis"/>
+  <phrase i="335" t="Penktadienis"/>
+  <phrase i="334" t="Ketvirtadienis"/>
+  <phrase i="333" t="Trečiadienis"/>
+  <phrase i="332" t="Antradienis"/>
+  <phrase i="331" t="Pirmadienis"/>
+  <phrase i="330" t="Sekmadienis"/>
+  <phrase i="329" t="Iki %s"/>
+  <phrase i="328" t="Nežinomas numeris"/>
+  <phrase i="327" t="Nuo %s"/>
+  <phrase i="326" t="Kam %s"/>
+  <phrase i="325" t="Peradresuoti %s"/>
+  <phrase i="324" t="Išorinis skambutis"/>
+  <phrase i="323" t="Naudojamas nuotoliniu būdu"/>
+  <phrase i="322" t="%d naujas praleistas skamb.%c"/>
+  <phrase i="321" t="Rx Longs"/>
+  <phrase i="320" t="Rx Shorts"/>
+  <phrase i="319" t="Rx Broadcasts"/>
+  <phrase i="318" t="Rx Multicasts"/>
+  <phrase i="317" t="Rx Runt"/>
+  <phrase i="316" t="Rx Bad Preamble"/>
+  <phrase i="315" t="Rx CRC Errors"/>
+  <phrase i="314" t="Rx Frames"/>
+  <phrase i="313" t="Rx Long/CRC"/>
+  <phrase i="312" t="Rx Overruns"/>
+  <phrase i="311" t="Tx Deferred Abort"/>
+  <phrase i="310" t="Tx Collisions"/>
+  <phrase i="309" t="Tx Multicasts"/>
+  <phrase i="308" t="Tx Broadcasts"/>
+  <phrase i="307" t="Tx Frames"/>
+  <phrase i="306" t="Tx Excessive Collisions"/>
+  <phrase i="305" t="overflow Drop"/>
+  <phrase i="304" t="bpdu Drop"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Tx multicast"/>
+  <phrase i="287" t="Tx broadcast"/>
+  <phrase i="286" t="Tx excessLength"/>
+  <phrase i="285" t="Tx fifoUnderrun"/>
+  <phrase i="284" t="Tx collisions"/>
+  <phrase i="283" t="Tx totalGoodPkt"/>
+  <phrase i="282" t="Tx lateCollision"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx longErr"/>
+  <phrase i="271" t="Rx longGood"/>
+  <phrase i="270" t="Rx shortGood"/>
+  <phrase i="269" t="Rx shortErr"/>
+  <phrase i="268" t="Rx unicast"/>
+  <phrase i="267" t="Rx broadcast"/>
+  <phrase i="266" t="Rx multicast"/>
+  <phrase i="265" t="Rx alignErr"/>
+  <phrase i="264" t="Rx crcErr"/>
+  <phrase i="263" t="Visi oktetai"/>
+  <phrase i="262" t="Rx totalPkt"/>
+  <phrase i="261" t="Operatoriaus įvykiai"/>
+  <phrase i="260" t="RTP negalimas"/>
+  <phrase i="259" t="Neveikia"/>
+  <phrase i="258" t="Neparengta"/>
+  <phrase i="257" t="Sunaikinti"/>
+  <phrase i="255" t="Imtuvo pradžios laikas"/>
+  <phrase i="254" t="Imtuvo oktetai"/>
+  <phrase i="253" t="Imtuvo paketai"/>
+  <phrase i="252" t="Imtuvo ataskaitos laikas"/>
+  <phrase i="251" t="Imtuvo ataskaitos"/>
+  <phrase i="250" t="Imtuvo įrankis"/>
+  <phrase i="249" t="Imtuvo poslinkis"/>
+  <phrase i="248" t="Imtuvo prarasti paketai"/>
+  <phrase i="247" t="Siųstuvo pradžios laikas"/>
+  <phrase i="246" t="Siuntėjo ataskaitos laikas"/>
+  <phrase i="245" t="Siuntėjo ataskaitos"/>
+  <phrase i="244" t="Siuntėjo įrankis"/>
+  <phrase i="243" t="Siuntėjo oktetai"/>
+  <phrase i="242" t="Siuntėjo paketai"/>
+  <phrase i="241" t="Pavadinimas"/>
+  <phrase i="240" t="Eilutės būsena"/>
+  <phrase i="239" t="Pradžios laikas"/>
+  <phrase i="238" t="Praleidžia"/>
+  <phrase i="237" t="Gavėjas sujungia"/>
+  <phrase i="236" t="Siuntėjas sujungia"/>
+  <phrase i="235" t="Vietinis adresas"/>
+  <phrase i="234" t="Nuotolinis adresas "/>
+  <phrase i="233" t="Domenas"/>
+  <phrase i="232" t="Spartusis prievadas"/>
+  <phrase i="231" t="Fiksuotas TFTP"/>
+  <phrase i="230" t="DHCP išjungtas"/>
+  <phrase i="229" t="Tuščias URL laikas"/>
+  <phrase i="228" t="Tuščias URL"/>
+  <phrase i="227" t="Tarnybų URL"/>
+  <phrase i="226" t="Pranešimų URL"/>
+  <phrase i="225" t="Katalogų URL"/>
+  <phrase i="224" t="Informacijos URL"/>
+  <phrase i="223" t="5 skambučių tvarkytuvė"/>
+  <phrase i="222" t="4 skambučių tvarkytuvė"/>
+  <phrase i="221" t="3 skambučių tvarkytuvė"/>
+  <phrase i="220" t="2 skambučių tvarkytuvė"/>
+  <phrase i="219" t="1 skambučių tvarkytuvė"/>
+  <phrase i="218" t="Admin. VLAN ID"/>
+  <phrase i="217" t="Darbinis VLAN ID"/>
+  <phrase i="216" t="DNS 5 serveris"/>
+  <phrase i="215" t="DNS 4 serveris"/>
+  <phrase i="214" t="DNS 3 serveris"/>
+  <phrase i="213" t="DNS 2 serveris"/>
+  <phrase i="212" t="DNS 1 serveris"/>
+  <phrase i="211" t="5 numatytasis kelvedis"/>
+  <phrase i="210" t="4 numatytasis kelvedis"/>
+  <phrase i="209" t="3 numatytasis kelvedis"/>
+  <phrase i="208" t="2 numatytasis kelvedis"/>
+  <phrase i="207" t="1 numatytasis kelvedis"/>
+  <phrase i="206" t="TFTP 1 serveris"/>
+  <phrase i="205" t="Potinklio trafaretas"/>
+  <phrase i="204" t="IP adresas"/>
+  <phrase i="203" t="Domeno pavadinimas"/>
+  <phrase i="202" t="Pagr. kompiuterio pavadinimas"/>
+  <phrase i="201" t="MAC adresas"/>
+  <phrase i="199" t="Atmesti"/>
+  <phrase i="198" t="Nėra galimų perimtinų eilučių"/>
+  <phrase i="197" t="Išorinis Perjungimas Negalimas"/>
+  <phrase i="196" t="Nėra perimti reikal. pralaidos"/>
+  <phrase i="195" t="Nėra perimti reikal. skambučio"/>
+  <phrase i="194" t="Statymo vieta negalima"/>
+  <phrase i="193" t="Atsijungta nuo paieškos grupės"/>
+  <phrase i="192" t="MJngt"/>
+  <phrase i="191" t="KPerimti"/>
+  <phrase i="190" t="Baig. maks. užlaikymo laikas"/>
+  <phrase i="189" t="Baig. maks. skambučio laikas"/>
+  <phrase i="188" t="VaizdVeiks"/>
+  <phrase i="187" t="Vaizdo pralaida negalima"/>
+  <phrase i="186" t="Saugos klaida"/>
+  <phrase i="185" t="Numeris nekonfigūruotas"/>
+  <phrase i="184" t="Mcid sėkmingas"/>
+  <phrase i="183" t="Nepavyko sujungti pokalbių"/>
+  <phrase i="182" t="Nepavyko baigti persiuntimo"/>
+  <phrase i="181" t="KĮterpti"/>
+  <phrase i="180" t="Nukreip."/>
+  <phrase i="179" t="KonfSąr"/>
+  <phrase i="178" t="Rinktis"/>
+  <phrase i="177" t="Suj2Pok"/>
+  <phrase i="176" t="MCID"/>
+  <phrase i="175" t="SiųsPrbl"/>
+  <phrase i="174" t="Intens. eismas, bandykit vėliau"/>
+  <phrase i="173" t="Paslauga neaktyvi"/>
+  <phrase i="172" t="Skamb. statymo reversija"/>
+  <phrase i="171" t="Nėra galimo statymo Nr."/>
+  <phrase i="170" t="Nesuderinamas įtaiso tipas"/>
+  <phrase i="169" t="Yra kita įsiterpimo galimybė"/>
+  <phrase i="168" t="Nepav. nust.įsiterp. f-jos"/>
+  <phrase i="167" t="Įsiterp."/>
+  <phrase i="166" t="Tinklas perkrautas, kito kelio"/>
+  <phrase i="165" t="Atskamb"/>
+  <phrase i="164" t="NukrVis"/>
+  <phrase i="163" t="Netrukd."/>
+  <phrase i="162" t="PersįBP"/>
+  <phrase i="161" t="NustSteb"/>
+  <phrase i="160" t="Perimti"/>
+  <phrase i="159" t="Nukreip."/>
+  <phrase i="158" t="BalsoPšt"/>
+  <phrase i="157" t="ŠalPaskS"/>
+  <phrase i="156" t="Nežinomas numeris"/>
+  <phrase i="155" t="Nepakanka pralaidos"/>
+  <phrase i="154" t="Privatus"/>
+  <phrase i="153" t="Statymo numeris"/>
+  <phrase i="152" t="Konferencija"/>
+  <phrase i="151" t="Neatitikimo klaida"/>
+  <phrase i="150" t="Nežinoma klaida"/>
+  <phrase i="149" t="Limito viršijimo klaida"/>
+  <phrase i="148" t="Duomenų bazės klaida"/>
+  <phrase i="147" t="DB sąrankos klaida"/>
+  <phrase i="146" t="Klaida: nėra licencijos"/>
+  <phrase i="145" t="Raktas neaktyvus"/>
+  <phrase i="144" t="Viršytas maks. šalių skaičius"/>
+  <phrase i="143" t="Nėra informacijos apie dalyvį"/>
+  <phrase i="142" t="Jau konferencijoje"/>
+  <phrase i="141" t="Negalimas konferenc. dalyvis"/>
+  <phrase i="140" t="Nepavyko užl. pirm. kontrolės"/>
+  <phrase i="139" t="Nėra konferencijos tilto"/>
+  <phrase i="138" t="Nepavyko baigti konferencijos"/>
+  <phrase i="137" t="Peradresuota"/>
+  <phrase i="136" t="Gavote balso pašto"/>
+  <phrase i="135" t="Laikina nesėkmė"/>
+  <phrase i="134" t="Tik pirminis"/>
+  <phrase i="133" t="Pokalbio statymas"/>
+  <phrase i="132" t="Įvesti numerį"/>
+  <phrase i="131" t="Naudojamas nuotoliniu būdu"/>
+  <phrase i="130" t="Tęsti pokalbį"/>
+  <phrase i="129" t="Pokalbio statymas"/>
+  <phrase i="128" t="Skambučio persiuntimas"/>
+  <phrase i="127" t="Laukiama skambučio"/>
+  <phrase i="126" t="Linija užimta"/>
+  <phrase i="125" t="Užimta"/>
+  <phrase i="124" t="Prisijungta"/>
+  <phrase i="123" t="Nuo "/>
+  <phrase i="122" t="Skambučių sujungimas"/>
+  <phrase i="121" t="Ragelis padėtas"/>
+  <phrase i="120" t="Ragelis nukeltas"/>
+  <phrase i="119" t="Esamos Jūsų parinktys"/>
+  <phrase i="118" t="GPerimti"/>
+  <phrase i="117" t="Perimti"/>
+  <phrase i="116" t="Susitik"/>
+  <phrase i="115" t="Prijungt"/>
+  <phrase i="114" t="Nukelti"/>
+  <phrase i="113" t="Konf."/>
+  <phrase i="112" t="Informacija"/>
+  <phrase i="111" t="Atsiliep"/>
+  <phrase i="110" t="Tęsti"/>
+  <phrase i="109" t="BaigtPok"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="SkPrdrNeatsl"/>
+  <phrase i="106" t="SkPrdrUž"/>
+  <phrase i="105" t="VisSPerd"/>
+  <phrase i="104" t="Perjungt"/>
+  <phrase i="103" t="Sulaikyt"/>
+  <phrase i="102" t="N.Skamb."/>
+  <phrase i="101" t="Perrink."/>
+  <phrase i="65" t="Nepavyko nusiųsti pokalbio į mobilųjį telefoną"/>
+  <phrase i="64" t="Nepavyko iškviesti nukelto pokalbio"/>
+  <phrase i="63" t="Susitikimo funkcija nepasiekiama"/>
+  <phrase i="62" t="Konferencija nepasiekiama"/>
+  <phrase i="61" t="Perimti negalima"/>
+  <phrase i="60" t="SutrRink"/>
+  <phrase i="59" t="Viršytas visų skambučių peradresavimo šuolių limitas"/>
+  <phrase i="58" t="Aptiktas visų skambučių peradresavimo uždaras ciklas"/>
+  <phrase i="57" t="Aktyvi netrukdymo funkcija"/>
+  <phrase i="56" t="Netrukdyti"/>
+  <phrase i="55" t="Baigimui pasin. l-ja arba suj."/>
+  <phrase i="54" t="Paieškos grupė"/>
+  <phrase i="53" t="Kokybės nustatymas"/>
+  <phrase i="52" t="Konferencijų sąrašas"/>
+  <phrase i="51" t="Baigti pokalbį"/>
+  <phrase i="50" t="Vaizdas"/>
+  <phrase i="49" t="Kitas perėmimas"/>
+  <phrase i="48" t="Pašalinti paskutinį dalyvį"/>
+  <phrase i="47" t="Grupinis perėmimas"/>
+  <phrase i="46" t="Piktybinio skambučio ID"/>
+  <phrase i="45" t="Peradresuoti visus"/>
+  <phrase i="44" t="Šnabždėjimas"/>
+  <phrase i="43" t="Mobilum."/>
+  <phrase i="42" t="Neaktyvaus įrašymo seansas"/>
+  <phrase i="41" t="Įrašymas jau vyksta"/>
+  <phrase i="40" t="Įraš. būs. akt. lauk. skambutis"/>
+  <phrase i="39" t="Stebėjimas"/>
+  <phrase i="38" t="Nepatvirtinta įtaiso tapatybė"/>
+  <phrase i="37" t="Nėra išteklių"/>
+  <phrase i="36" t="Sąranka nepavyko"/>
+  <phrase i="35" t="Užlaikyti grįžimą"/>
+  <phrase i="34" t="Užlaikomas skambutis"/>
+  <phrase i="33" t="Neparuošta"/>
+  <phrase i="32" t="Paruošta"/>
+  <phrase i="31" t="Prisij. prie paieškos grupės"/>
+  <phrase i="30" t="Eilėje esantys skambučiai"/>
+  <phrase i="29" t="Paieškos rezultatai"/>
+  <phrase i="28" t="Nerasta jokių įrašų"/>
+  <phrase i="27" t="Įrašai 1 ~"/>
+  <phrase i="26" t="iš"/>
+  <phrase i="25" t="Įveskite PIN kodą"/>
+  <phrase i="24" t="Netinkamas PIN kodas"/>
+  <phrase i="23" t="Prisijungta sėkmingai"/>
+  <phrase i="22" t="Naktinė tarnyba neveiksni"/>
+  <phrase i="21" t="Naktinė tarnyba aktyvi"/>
+  <phrase i="20" t="Naktinė tarnyba"/>
+  <phrase i="19" t="Įveskite paieškos kriterijus"/>
+  <phrase i="18" t="Vietinės tarnybos"/>
+  <phrase i="17" t="Pasirinkite tarnybą"/>
+  <phrase i="16" t="Persiunt. paskirt. vieta užimta"/>
+  <phrase i="15" t="Pasirinkite eilutę"/>
+  <phrase i="14" t="Pranešimo siuntimas"/>
+  <phrase i="13" t="Baikite pokalbį"/>
+  <phrase i="12" t="Laukiama vėl prisij. prie prad."/>
+  <phrase i="11" t="Viršytas maks. tel. skaičius"/>
+  <phrase i="10" t="CM atsarginės tarnybos veikimas"/>
+  <phrase i="9" t="Atsilieptini skambučiai"/>
+  <phrase i="8" t="Įveskite kliento klausimo kodą"/>
+  <phrase i="7" t="Įveskite tapat. tvirtinimo kodą"/>
+  <phrase i="6" t="Įtaisas – tarptinkl. ryšio z."/>
+  <phrase i="5" t="Įtaisas – namų zonoje"/>
+  <phrase i="4" t="Prisijungti"/>
+  <phrase i="3" t="Flash"/>
+  <phrase i="2" t="Pask."/>
+</phrases>

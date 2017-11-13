@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Latvian_Latvia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="Notiek midlietotņu lejupielāde..."/>
+  <phrase i="8003" t="Lietotne ir minimizēta"/>
+  <phrase i="8002" t="Sekmīgi instalēts MIDP modulis"/>
+  <phrase i="8001" t="Gaida MIDP moduļa instalēšanu..."/>
+  <phrase i="8000" t="Programmaparatūras atjaun. ..."/>
+  <phrase i="7999" t="Programmapar. lejupiel... %d%%"/>
+  <phrase i="7998" t="Programmaparatūras atkopšana..."/>
+  <phrase i="7997" t="Neveiksmīga programmapar. atj."/>
+  <phrase i="7996" t="Baterija tukša! Nevar atjaun."/>
+  <phrase i="7995" t="Neveiksmīga attēla lejupielāde"/>
+  <phrase i="7994" t="Neveiksmīga attēla autentif."/>
+  <phrase i="7993" t="Atmiņa gandr. pilna! Atk. pal."/>
+  <phrase i="7992" t="EAP-TLS/PEAP iespējots"/>
+  <phrase i="7991" t="Apstiprināt servera sertifikātu"/>
+  <phrase i="7990" t="Nesekmīga AOM instalēšana"/>
+  <phrase i="7989" t="AOM lejupielāde (%d/%d)"/>
+  <phrase i="7988" t="AOM instalēšana (%d/%d)...%d%%"/>
+  <phrase i="7987" t="Nesekmīga attēla integritātes pārbaude"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="Skenera aparātprogrammatūras instalēšana:%d%%"/>
+  <phrase i="7984" t="Skenera aparātprogrammatūras lejupielāde"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="Ierobežoti datu pārraides ātrumi"/>
+  <phrase i="7080" t="Skenēšanas režīms"/>
+  <phrase i="7079" t="Automātiski"/>
+  <phrase i="7078" t="Nepārtraukti"/>
+  <phrase i="7077" t="Šūnas enerģijas ierobežojums"/>
+  <phrase i="7076" t="Enerģijas ierobežojums"/>
+  <phrase i="7075" t="EAP-TLS sertifikāts"/>
+  <phrase i="7074" t="Lietotājs instalēts"/>
+  <phrase i="7073" t="Izdevis ražotājs"/>
+  <phrase i="7072" t="Izdevis CAPF"/>
+  <phrase i="7071" t="Nav autentifikācijas sertifikātu"/>
+  <phrase i="7070" t="Nederīgs autentifikācijas sertifikāts"/>
+  <phrase i="7069" t="Autentifikācijas sertifikāta termiņš līdz: %s"/>
+  <phrase i="7068" t="Autentifikācijas sertifikāta derīgums drīz beigsies"/>
+  <phrase i="7067" t="Autentifikācijas sertifikāta derīgums beidzas pēc %d dienām"/>
+  <phrase i="7066" t="Autentifikācijas sertifikāta derīguma termiņš beidzies"/>
+  <phrase i="7065" t="Pārbaudīt sertif. laika iestatījumus"/>
+  <phrase i="7064" t="WLAN autentif. sertifikāts nav atrasts"/>
+  <phrase i="7063" t="Autentif. sertif. nav atrasti"/>
+  <phrase i="7062" t="Autentif. sertif. derīgums beidzas pēc %d dienām"/>
+  <phrase i="7061" t="WLAN autentif. sert. derīguma termiņš beidzies!"/>
+  <phrase i="7060" t="Autentif. sert. termiņš beidzies!"/>
+  <phrase i="7059" t="Staciju uzskaite"/>
+  <phrase i="7057" t="Brīdinājuma karodziņi"/>
+  <phrase i="7056" t="Bāksignāla intervāls"/>
+  <phrase i="7055" t="DTIM periods"/>
+  <phrase i="7054" t="Spēja"/>
+  <phrase i="7053" t="Ātruma bitkarte"/>
+  <phrase i="7052" t="Pamata ātruma bitkarte"/>
+  <phrase i="7051" t="Frekvences lēkāšana"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="Spektra pārvaldība"/>
+  <phrase i="7047" t="Neatbalstīts kanāls"/>
+  <phrase i="7046" t="Kanāla profils"/>
+  <phrase i="7045" t="Privātums"/>
+  <phrase i="7044" t="Zems ātrums"/>
+  <phrase i="7043" t="Starpniekservera ARP"/>
+  <phrase i="7042" t="Pamata ātrumi"/>
+  <phrase i="7041" t="Izvēles ātrumi"/>
+  <phrase i="7040" t="AC pamatne"/>
+  <phrase i="7039" t="AC labākais veikums"/>
+  <phrase i="7038" t="AC video"/>
+  <phrase i="7037" t="AC balss"/>
+  <phrase i="7036" t="ECW min."/>
+  <phrase i="7035" t="ECW maks."/>
+  <phrase i="7034" t="TXOp limits"/>
+  <phrase i="7033" t="Piekļuves vadība"/>
+  <phrase i="7032" t="Multiraides šifrs"/>
+  <phrase i="7031" t="Uniraides šifrs"/>
+  <phrase i="7030" t="BSS zaudējumu uzskaite"/>
+  <phrase i="7029" t="Uzturēts"/>
+  <phrase i="7028" t="Pieejamā piekļuves veiktspēja"/>
+  <phrase i="7027" t="Klātesošs"/>
+  <phrase i="7026" t="Nav klāt"/>
+  <phrase i="7025" t="Piekļuves kategorija"/>
+  <phrase i="7024" t="Nav ieteicams"/>
+  <phrase i="7023" t="Nekonsekvents"/>
+  <phrase i="7022" t="Atsauces piekļuves punkts"/>
+  <phrase i="7021" t="Valsts"/>
+  <phrase i="7020" t="CCA sākums"/>
+  <phrase i="7019" t="Publiskās atslēgas sertifikāts"/>
+  <phrase i="7018" t="Publiskās atslēgas infrasrukt."/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="Derīguma periods"/>
+  <phrase i="7015" t="Saknes atslēga"/>
+  <phrase i="7014" t="Sertificēšanas iestāde"/>
+  <phrase i="7013" t="Privātā atslēga"/>
+  <phrase i="7012" t="Publiskā atslēga"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="Autentifikācijas serveris"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="Neveiksmīga autentifikācija"/>
+  <phrase i="7008" t="Nav tīkla profila"/>
+  <phrase i="7007" t="Iziet no pakalpojumu loka!"/>
+  <phrase i="7006" t="Izvieto tīkla pakalpojumus"/>
+  <phrase i="7005" t="Profili nav izvēlēti"/>
+  <phrase i="7003" t="Izveidots savienojums"/>
+  <phrase i="7002" t="Mēģinājums veidot savien...."/>
+  <phrase i="7001" t="Neveiksmīgs WLAN"/>
+  <phrase i="7000" t="Kanālu skenēšana..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="Vai dzēst visu zvanu vēsturi?"/>
+  <phrase i="6406" t="Skenera diagnostika"/>
+  <phrase i="6405" t="Atiest."/>
+  <phrase i="6404" t="Simboloģijas grupa"/>
+  <phrase i="6403" t="Paplašināts"/>
+  <phrase i="6402" t="Pamata"/>
+  <phrase i="6401" t="Skeneris"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="Bluetooth"/>
+  <phrase i="6399" t="Ierīču saraksts"/>
+  <phrase i="6398" t="Skenēt"/>
+  <phrase i="6397" t="SkenAtk."/>
+  <phrase i="6396" t="Savienot pārī"/>
+  <phrase i="6395" t="Atvienot no pāra"/>
+  <phrase i="6394" t="Pārī savienotās ierīces"/>
+  <phrase i="6393" t="Skenēšana"/>
+  <phrase i="6392" t="Savienošana pārī"/>
+  <phrase i="6391" t="%s savienots pārī"/>
+  <phrase i="6390" t="Atvienošana no pāra"/>
+  <phrase i="6389" t="%s atvienots no pāra"/>
+  <phrase i="6388" t="Atrastās ierīces: %d"/>
+  <phrase i="6387" t="Atvienot no pāra %s?"/>
+  <phrase i="6386" t="Skenēšanas rezultāti"/>
+  <phrase i="6385" t="Ievadiet Bluetooth paroli"/>
+  <phrase i="6384" t="Savienošana pārī neizdevās!"/>
+  <phrase i="6383" t="%s savienots!"/>
+  <phrase i="6382" t="%s atvienots!"/>
+  <phrase i="6381" t="Savienot"/>
+  <phrase i="6380" t="Atvienot"/>
+  <phrase i="6379" t="Pielāgot austiņu skaļumu"/>
+  <phrase i="6378" t="Pārsniegts maksimālais ierīču skaits"/>
+  <phrase i="6377" t="Neveiksmīgs Bluetooth savienojums"/>
+  <phrase i="6376" t="Šī ir pārī savienota ierīce!"/>
+  <phrase i="6375" t="Atvienot no pāra visas"/>
+  <phrase i="6374" t="Bluetooth nav gatava"/>
+  <phrase i="6373" t="Bluetooth iekšēja kļūda"/>
+  <phrase i="6372" t="Darbība neizdevās"/>
+  <phrase i="6371" t="Bluetooth ir izvēlēts"/>
+  <phrase i="6370" t="Skaļrunis ir izvēlēts"/>
+  <phrase i="6369" t="Klausule ir izvēlēta"/>
+  <phrase i="6368" t="Austiņas ir izvēlētas"/>
+  <phrase i="6367" t="Diagnostika"/>
+  <phrase i="6366" t="Tastatūra"/>
+  <phrase i="6365" t="Audio"/>
+  <phrase i="6364" t="Izvēlēties diagnostiku"/>
+  <phrase i="6363" t="Nospiest jebkuru pogu"/>
+  <phrase i="6362" t="Tastatūras diagnostika"/>
+  <phrase i="6361" t="Nospiests"/>
+  <phrase i="6360" t="Atlaists"/>
+  <phrase i="6359" t="Skaņas diagnostika"/>
+  <phrase i="6358" t="Lokāls skaņas cilptests"/>
+  <phrase i="6357" t="Izvēles taustiņš %d"/>
+  <phrase i="6356" t="Klusāk"/>
+  <phrase i="6355" t="Skaļāk"/>
+  <phrase i="6354" t="Pa labi"/>
+  <phrase i="6353" t="Pa kreisi"/>
+  <phrase i="6352" t="Enerģija"/>
+  <phrase i="6351" t="Klusums"/>
+  <phrase i="6350" t="Nesekmīga Java instalēšana"/>
+  <phrase i="6349" t="Izvēlēties %s"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="Pal. kļ."/>
+  <phrase i="6298" t="%s pašlaik ir atvērta"/>
+  <phrase i="6297" t="Lūdzu aizveriet, pirms tiek palaista cita"/>
+  <phrase i="6296" t="PārslēgtUz"/>
+  <phrase i="6295" t="AizvLiet"/>
+  <phrase i="6294" t="Apt. l."/>
+  <phrase i="6293" t="Ienākošais zvans"/>
+  <phrase i="6292" t="Neievērot"/>
+  <phrase i="6291" t="Izpildīts"/>
+  <phrase i="6290" t="Iestatīt"/>
+  <phrase i="6289" t="Par Java"/>
+  <phrase i="6288" t="Palaist"/>
+  <phrase i="6287" t="Instalēt"/>
+  <phrase i="6286" t="Doties"/>
+  <phrase i="6285" t="Doties uz"/>
+  <phrase i="6284" t="Izņēmums"/>
+  <phrase i="6283" t="Lietotne"/>
+  <phrase i="6282" t="Lietotnes"/>
+  <phrase i="6281" t="Informācija"/>
+  <phrase i="6280" t="Dzēst"/>
+  <phrase i="6279" t="Instalēt lietotni"/>
+  <phrase i="6278" t="Pārvaldīt sertifikāta pilnvaras"/>
+  <phrase i="6277" t="Beigt"/>
+  <phrase i="6276" t="Ražotājs"/>
+  <phrase i="6275" t="Pakalpojuma sniedzējs"/>
+  <phrase i="6274" t="Trešās puses"/>
+  <phrase i="6273" t="pusdienlaiks"/>
+  <phrase i="6272" t="pusnakts"/>
+  <phrase i="6271" t="mmm dd, gggg"/>
+  <phrase i="6270" t="hh:mm ??"/>
+  <phrase i="6269" t="mmm dd, gggg hh:mm  "/>
+  <phrase i="6268" t="Sv"/>
+  <phrase i="6267" t="Pr"/>
+  <phrase i="6266" t="O"/>
+  <phrase i="6265" t="T"/>
+  <phrase i="6264" t="C"/>
+  <phrase i="6263" t="Pk"/>
+  <phrase i="6262" t="S"/>
+  <phrase i="6261" t="Janvāris"/>
+  <phrase i="6260" t="Februāris"/>
+  <phrase i="6259" t="Marts"/>
+  <phrase i="6258" t="Aprīlis"/>
+  <phrase i="6257" t="Maijs"/>
+  <phrase i="6256" t="Jūnijs"/>
+  <phrase i="6255" t="Jūlijs"/>
+  <phrase i="6254" t="Augusts"/>
+  <phrase i="6253" t="Septembris"/>
+  <phrase i="6252" t="Oktobris"/>
+  <phrase i="6251" t="Novembris"/>
+  <phrase i="6250" t="Decembris"/>
+  <phrase i="6249" t="Jan"/>
+  <phrase i="6248" t="Feb"/>
+  <phrase i="6247" t="Mar"/>
+  <phrase i="6246" t="Apr"/>
+  <phrase i="6245" t="Maijs"/>
+  <phrase i="6244" t="Jūn"/>
+  <phrase i="6243" t="Jūl"/>
+  <phrase i="6242" t="Aug"/>
+  <phrase i="6241" t="Sep"/>
+  <phrase i="6240" t="Okt"/>
+  <phrase i="6239" t="Nov"/>
+  <phrase i="6238" t="Dec"/>
+  <phrase i="6237" t="Pirms"/>
+  <phrase i="6236" t="Pēc"/>
+  <phrase i="6235" t="Laiks:"/>
+  <phrase i="6234" t="Datums:"/>
+  <phrase i="6233" t="Simboli"/>
+  <phrase i="6232" t="Iepriekš noteikt"/>
+  <phrase i="6231" t="iepriekš noteikt"/>
+  <phrase i="6230" t="IEPRIEKŠ NOTEIKT"/>
+  <phrase i="6229" t="Labi"/>
+  <phrase i="6228" t="Iespējas..."/>
+  <phrase i="6227" t="priekšpusdienā"/>
+  <phrase i="6226" t="pēcpusdienā"/>
+  <phrase i="6225" t="Dzēst_datus"/>
+  <phrase i="6224" t="Lietotnes lielums"/>
+  <phrase i="6223" t="Lietotnes datu lielums"/>
+  <phrase i="6222" t="Baiti"/>
+  <phrase i="6221" t="Kļūda. Sazinieties ar administratoru."/>
+  <phrase i="6220" t="Iziešana no lietotnes..."/>
+  <phrase i="6219" t="Instalācija atcelta"/>
+  <phrase i="6218" t="Lietotnes instalēšana neizdevās"/>
+  <phrase i="6217" t="Lietotnes instalēšana..."/>
+  <phrase i="6216" t="Lietotnes palaišana..."/>
+  <phrase i="6215" t="Apstiprināšana"/>
+  <phrase i="6214" t="Ielādēšana"/>
+  <phrase i="6213" t="Palaišana"/>
+  <phrase i="6212" t="JAR lielums"/>
+  <phrase i="6211" t="JAR vietrādis URL"/>
+  <phrase i="6210" t="Apraksts"/>
+  <phrase i="6209" t="Piegādātājs"/>
+  <phrase i="6208" t="MicroEdition konfigurācija"/>
+  <phrase i="6207" t="MicroEdition profils"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="Personificēšana"/>
+  <phrase i="6205" t="Iejaukšanās ar vienu pogu"/>
+  <phrase i="6204" t="Platjoslas austiņu saskarsmes vadība"/>
+  <phrase i="6203" t="Automātiska zvanu atlase"/>
+  <phrase i="6202" t="BLF zvanu sarakstiem"/>
+  <phrase i="6201" t="Automātiska līniju atlase"/>
+  <phrase i="6200" t="Lietotāja saskarnes informācija"/>
+  <phrase i="6199" t="Lietotāja saskarne"/>
+  <phrase i="6198" t="Sveiciena ziņojums"/>
+  <phrase i="6197" t="Apsveikuma ziņojums"/>
+  <phrase i="6196" t="Izveidot jaunu adresātu"/>
+  <phrase i="6195" t="Saglabāt esošā adresātā"/>
+  <phrase i="6194" t="Ielāde... Lūdzu, gaidiet"/>
+  <phrase i="6193" t="Sistēmas konfigurācija"/>
+  <phrase i="6192" t="Tikai burtciparu rakstzīmes!"/>
+  <phrase i="6191" t="Saglabāt izsekošanas līmeņus"/>
+  <phrase i="6190" t="Attāls sistēmas žurnāls"/>
+  <phrase i="6189" t="Izsekošanas līmenis"/>
+  <phrase i="6188" t="Diagnostika iespējota"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="Organizācija"/>
+  <phrase i="6186" t="Izvēlēties noklusējumu"/>
+  <phrase i="6185" t="Izvēlēties skatu"/>
+  <phrase i="6184" t="Izvēlēties attēlu"/>
+  <phrase i="6183" t="Izvēles taustiņa pielāgošana"/>
+  <phrase i="6182" t="Līnija %d (%s)"/>
+  <phrase i="6181" t="Skatāmās līnijas atlase"/>
+  <phrase i="6180" t="Tālruņa līnijas"/>
+  <phrase i="6179" t="Sākumlapa"/>
+  <phrase i="6178" t="TālrGr"/>
+  <phrase i="6177" t="Pamatnes attēls"/>
+  <phrase i="6176" t="Vēlamais skatījums"/>
+  <phrase i="6175" t="Kreisais izvēles taustiņš"/>
+  <phrase i="6174" t="Pielāgot sākumlapu"/>
+  <phrase i="6173" t="%s (%d neatbildētie)"/>
+  <phrase i="6172" t="Profils ierobežots!"/>
+  <phrase i="6171" t="Nav piešķirts"/>
+  <phrase i="6170" t="Izvēlēties adresātu lauku"/>
+  <phrase i="6169" t="Uzvārds, vārds"/>
+  <phrase i="6168" t="Vārds, uzvārds"/>
+  <phrase i="6167" t="Saraksta kārtošanas secība"/>
+  <phrase i="6166" t="Nav noklusējuma numura"/>
+  <phrase i="6165" t="Izvēlēties nepiešķirtu ātro numuru sastādīšanu!"/>
+  <phrase i="6164" t="Izvēlēties ātro numuru sastādīšanu piešķiršanai"/>
+  <phrase i="6163" t="Izvēlēties adresāta numuru"/>
+  <phrase i="6162" t="Ātrzvanu piešķiršana %d"/>
+  <phrase i="6161" t="Piešķirt jaunu ātro numuru sastādīšanu?"/>
+  <phrase i="6160" t="Izvēlēties tālruņa veidu"/>
+  <phrase i="6159" t="Izvēlēties adresātu"/>
+  <phrase i="6158" t="DzēstVis"/>
+  <phrase i="6157" t="Visi adresāti dzēsti!"/>
+  <phrase i="6156" t="Vai dzēst visus adresātus?"/>
+  <phrase i="6155" t="Primārais tālrunis atjaunināts!"/>
+  <phrase i="6154" t="Pamatnes attēla priekšskatījums"/>
+  <phrase i="6153" t="Jaunais zvana signāls saglabāts!"/>
+  <phrase i="6152" t="Sakrīt ar 0 ierakstiem"/>
+  <phrase i="6151" t="Nav vietas jaunam numuram!"/>
+  <phrase i="6150" t="Pārsaukt"/>
+  <phrase i="6149" t="Apvienot"/>
+  <phrase i="6148" t="Pārrakstīt"/>
+  <phrase i="6147" t="Adresāts atjaunināts!"/>
+  <phrase i="6146" t="Adresāts jau pastāv!"/>
+  <phrase i="6145" t="Adresāts dzēsts!"/>
+  <phrase i="6144" t="Vai dzēst adresātu?"/>
+  <phrase i="6143" t="Dzēst ātro numuru sastādīšanu?"/>
+  <phrase i="6142" t="Ziņojumapmaiņas adrese"/>
+  <phrase i="6141" t="Īpašvārds"/>
+  <phrase i="6140" t="%d piešķirta ātrā numuru sastādīšana!"/>
+  <phrase i="6139" t="ĀtrNrSas"/>
+  <phrase i="6138" t="Jauns ātrās numuru sast. ier."/>
+  <phrase i="6137" t="(tukšs)"/>
+  <phrase i="6136" t="Nav numura!"/>
+  <phrase i="6135" t="Ātrā numuru sastādīšana dzēsta!"/>
+  <phrase i="6134" t="Piesp. un turēt, lai aktivizētu"/>
+  <phrase i="6133" t="Piespiest un turēt, lai deakt."/>
+  <phrase i="6132" t="%d ātrās numuru sast. numuri"/>
+  <phrase i="6131" t="1 ātrās numuru sast. numurs"/>
+  <phrase i="6130" t="Nepieciešams adresāta vārds!"/>
+  <phrase i="6129" t="Sasniegta pieļaujamā ietilpība!"/>
+  <phrase i="6128" t="1 adresāts"/>
+  <phrase i="6127" t="1 ieraksts"/>
+  <phrase i="6126" t="Nav adresātu"/>
+  <phrase i="6125" t="Lūdzu, uzlabojiet meklēšanu"/>
+  <phrase i="6124" t="Vai atiestatīt visu sistēmu?"/>
+  <phrase i="6123" t="Vai sākt tālruņa atk. palaiš.?"/>
+  <phrase i="6122" t="Lūdzu, ievadiet heks. atslēgu"/>
+  <phrase i="6121" t="Nederīga vai iztrūkstoša ievade"/>
+  <phrase i="6120" t="Gaida %d no %s"/>
+  <phrase i="6119" t="Joslas platums nav pieejams"/>
+  <phrase i="6118" t="Gaida atskaņošanu"/>
+  <phrase i="6117" t="Augstāk"/>
+  <phrase i="6116" t="Pa vidu"/>
+  <phrase i="6115" t="Zemāk"/>
+  <phrase i="6114" t="Netraucēt ieslēgts"/>
+  <phrase i="6113" t="Netraucēt izslēgts"/>
+  <phrase i="6112" t="Atjauno fokusa prioritāti"/>
+  <phrase i="6111" t="Ziņojumu plūdi"/>
+  <phrase i="6110" t="Kofig. atjaunināta veiksmīgi"/>
+  <phrase i="6109" t="Neveiksm. konfig. atjaunināšana"/>
+  <phrase i="6108" t="Konfig. pakotne atjaunināta"/>
+  <phrase i="6107" t="Konfig. pakotne nav atjaunināta"/>
+  <phrase i="6106" t="HTTPS klienta konfigurācija"/>
+  <phrase i="6105" t="Pieņemt neapstiprinātu sertif."/>
+  <phrase i="6104" t="Atteikt neapstiprinātu sertif."/>
+  <phrase i="6103" t="Izvēlēties sertifikāta iespējas"/>
+  <phrase i="6102" t="Lietotāja informācija"/>
+  <phrase i="6101" t="Iestatījumi atspējoti"/>
+  <phrase i="6100" t="Lauks ir tikai lasāms!"/>
+  <phrase i="6099" t="Admin. aizliedzis profilu"/>
+  <phrase i="6098" t="Administr. ierobežojis piekļuvi"/>
+  <phrase i="6097" t="Profils ir tikai lasāms"/>
+  <phrase i="6096" t="Lūdzu, ievadiet PIN"/>
+  <phrase i="6095" t="Lai iegūtu PIN, saz. ar admin."/>
+  <phrase i="6094" t="Atlaist"/>
+  <phrase i="6093" t="Atlasei lietot vidējo pogu"/>
+  <phrase i="6092" t="Atl. atcelšana = vidējā poga"/>
+  <phrase i="6091" t="Ned. par. vai aut.. serv. ned."/>
+  <phrase i="6090" t="Vai mainīt WLAN paroli?"/>
+  <phrase i="6089" t="LietotājaInfo"/>
+  <phrase i="6088" t="Piekļuve WLAN atteikta!"/>
+  <phrase i="6087" t="Serveris nedarbojas"/>
+  <phrase i="6086" t="Tālruņu grāmata"/>
+  <phrase i="6085" t="Lai atsāktu, nosp. uz Turpināt"/>
+  <phrase i="6084" t="Jauns adresāts"/>
+  <phrase i="6083" t="Mainīt adresātu"/>
+  <phrase i="6082" t="Adresāts"/>
+  <phrase i="6081" t="%d adresāti"/>
+  <phrase i="6080" t="%d no %d adresātiem"/>
+  <phrase i="6079" t="Pilns vārds"/>
+  <phrase i="6078" t="Rādīt izvēli"/>
+  <phrase i="6077" t="Izvēlēties rādīšanas secību"/>
+  <phrase i="6076" t="Pievienot kā"/>
+  <phrase i="6075" t="Darba tālrunis"/>
+  <phrase i="6074" t="Līdznēsājamais tālrunis"/>
+  <phrase i="6073" t="Mājas tālrunis"/>
+  <phrase i="6072" t="Cits tālrunis"/>
+  <phrase i="6071" t="E-pasta adrese"/>
+  <phrase i="6070" t="Uzņēmums"/>
+  <phrase i="6069" t="Darba adrese"/>
+  <phrase i="6068" t="Iela"/>
+  <phrase i="6067" t="Pilsēta"/>
+  <phrase i="6066" t="Novads"/>
+  <phrase i="6065" t="Pasta indekss"/>
+  <phrase i="6064" t="Saglabāt"/>
+  <phrase i="6063" t="Saglabāt adresātu"/>
+  <phrase i="6062" t="Izvēlēties numura veidu"/>
+  <phrase i="6061" t="Izvēlēt. adresāta ierīces veidu"/>
+  <phrase i="6060" t="Šķirot"/>
+  <phrase i="6059" t="Turpināt"/>
+  <phrase i="6058" t="Darba"/>
+  <phrase i="6057" t="Personīgais"/>
+  <phrase i="6056" t="Starptautiskais"/>
+  <phrase i="6055" t="Izlase"/>
+  <phrase i="6054" t="Svarīgi adresāti"/>
+  <phrase i="6053" t="Svarīgs klients"/>
+  <phrase i="6052" t="Dažādi"/>
+  <phrase i="6051" t="Ievērojams adresāts"/>
+  <phrase i="6050" t="Kategorijas"/>
+  <phrase i="6049" t="Kategorija"/>
+  <phrase i="6048" t="Izvēlēties adresātu kategorijas"/>
+  <phrase i="6047" t="Izvēlēties kategorijas"/>
+  <phrase i="6046" t="Izvēlēties adresāta kategoriju"/>
+  <phrase i="6045" t="Izvēlēties kategoriju"/>
+  <phrase i="6044" t="Filtrs"/>
+  <phrase i="6043" t="Izvēlēties adresātu filtru"/>
+  <phrase i="6042" t="Izvēlēties filtru"/>
+  <phrase i="6041" t="Ātrā numuru sastādīšana"/>
+  <phrase i="6040" t="Ātrzvanu num."/>
+  <phrase i="6039" t="Ievadīt ātrās numuru sast. num."/>
+  <phrase i="6038" t="Nederīgs ātrās num. sast. num."/>
+  <phrase i="6037" t="Ātrā num. sast. %d nav piešķ."/>
+  <phrase i="6036" t="Tukša ātrā numuru sastādīšana"/>
+  <phrase i="6035" t="Lai saglabātu, izm. Iespējas"/>
+  <phrase i="6034" t="Lai sagl., spiediet uz Iespējas"/>
+  <phrase i="6033" t="Adresāts saglabāts"/>
+  <phrase i="6032" t="Adresāts nav saglabāts!"/>
+  <phrase i="6031" t="Iestatījumi saglabāti"/>
+  <phrase i="6030" t="Iestatījumi nav saglabāti!"/>
+  <phrase i="6029" t="Atcelts"/>
+  <phrase i="6028" t="Izmaiņas atceltas"/>
+  <phrase i="6027" t="%d neatbildēti zvani no zvan."/>
+  <phrase i="6026" t="%d saņemti zvani no zvanītāja"/>
+  <phrase i="6025" t="%d noraidīti zvani šim numuram"/>
+  <phrase i="6024" t="Uzlādes režīms"/>
+  <phrase i="6023" t="Ekrāns kļūst tumšs"/>
+  <phrase i="6022" t="Ekrāns kļūst pilnībā izgaismots"/>
+  <phrase i="6021" t="Izvēlēties ekrāna izvēli"/>
+  <phrase i="6020" t="Sākumlapas pielāgojumi"/>
+  <phrase i="6019" t="Saīsnes"/>
+  <phrase i="6018" t="Līniju skats"/>
+  <phrase i="6017" t="Galvenā izvēlne"/>
+  <phrase i="6016" t="Izvēlēties lietotni"/>
+  <phrase i="6015" t="Lietotnes"/>
+  <phrase i="6014" t="Lai piešķirtu, atlasiet saīsni"/>
+  <phrase i="6013" t="Jauns"/>
+  <phrase i="6012" t="Skaļrunis iespējots"/>
+  <phrase i="6011" t="Skaļrunis atspējots"/>
+  <phrase i="6010" t="Izsekošanas iestatījumi"/>
+  <phrase i="6009" t="Lai atsp., vēlr. palaist tālr."/>
+  <phrase i="6008" t="Atļauts"/>
+  <phrase i="6007" t="Nav konfigurēts"/>
+  <phrase i="6006" t="Zvana signāla izvēle darbojas"/>
+  <phrase i="6005" t="Tikai pīkstiens"/>
+  <phrase i="6004" t="Tālrunis zvana"/>
+  <phrase i="6003" t="Izvēlēt. zvana signāla iespēju"/>
+  <phrase i="6002" t="Neatbild"/>
+  <phrase i="6001" t="Visi"/>
+  <!-- GUI -->
+  <phrase i="6000" t="Izvēlēties stāvokļa vienumu"/>
+  <phrase i="5999" t="Izvēlēties modeļa iestatījumu"/>
+  <phrase i="5998" t="Tīkla konfigurācija"/>
+  <phrase i="5997" t="Izvēlēties tīkla iestatījumu"/>
+  <phrase i="5996" t="Tālruņa iestatījumi"/>
+  <phrase i="5995" t="Izvēlēties tālruņa iestatījumu"/>
+  <phrase i="5994" t="Izvēlēties drošības iestatījumu"/>
+  <phrase i="5993" t="Izvēlēties iekārtas iestatījumu"/>
+  <phrase i="5992" t="Izvēlēties iestatījumu"/>
+  <phrase i="5991" t="Izvēlēties profilu"/>
+  <phrase i="5990" t="Izvēlēties WLAN iestatījumu"/>
+  <phrase i="5989" t="802.11 režīms"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Autom. b/g"/>
+  <phrase i="5985" t="Autom. a"/>
+  <phrase i="5984" t="Autom. RSSI"/>
+  <phrase i="5983" t="Atvērt"/>
+  <phrase i="5982" t="Atvērt+WEP"/>
+  <phrase i="5981" t="Dalīts+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="Autom. (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Poll"/>
+  <phrase i="5976" t="U-APSD/nav"/>
+  <phrase i="5975" t="PS-Poll"/>
+  <phrase i="5973" t="HEX"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 biti"/>
+  <phrase i="5970" t="128 biti"/>
+  <phrase i="5969" t="Izslēgts"/>
+  <phrase i="5968" t="Skaļš"/>
+  <phrase i="5967" t="Drošības režīms"/>
+  <phrase i="5966" t="Atsevišķs piekļuves punkts"/>
+  <phrase i="5965" t="Zvana enerģijas taupīšanas rež."/>
+  <phrase i="5964" t="Atslēgas veids"/>
+  <phrase i="5963" t="Statiska WEP atslēga"/>
+  <phrase i="5962" t="WEP atslēga"/>
+  <phrase i="5961" t="Primārs"/>
+  <phrase i="5960" t="Sākotnēji dalīta atslēga"/>
+  <phrase i="5959" t="Tīkla profils"/>
+  <phrase i="5958" t="Skaļruņa noregulēšana"/>
+  <phrase i="5957" t="Zvana noregulēšana"/>
+  <phrase i="5956" t="Austiņas"/>
+  <phrase i="5955" t="Normāls"/>
+  <phrase i="5954" t="Sanāksme"/>
+  <phrase i="5953" t="Ārpus telpām"/>
+  <phrase i="5952" t="Klusums"/>
+  <phrase i="5951" t="Pielāgojums 1"/>
+  <phrase i="5950" t="Pielāgojums 2"/>
+  <phrase i="5949" t="Tastatūras skaņas signāli"/>
+  <phrase i="5948" t="Brīdinājuma signāla paraugs"/>
+  <phrase i="5947" t="Tikai zvans"/>
+  <phrase i="5946" t="Tikai vibrosignāls"/>
+  <phrase i="5945" t="Vibrosignāls, tad zvans"/>
+  <phrase i="5944" t="Skaņa izslēgta!"/>
+  <phrase i="5943" t="Zvana signāli"/>
+  <phrase i="5942" t="Sekundes"/>
+  <phrase i="5941" t="Izvēlēties "/>
+  <phrase i="5940" t="Pielāgot "/>
+  <phrase i="5939" t="Jauns"/>
+  <phrase i="5938" t="Esošais"/>
+  <phrase i="5937" t="Ievadīt jaunu"/>
+  <phrase i="5936" t="Vecā vērtība"/>
+  <phrase i="5935" t="Iespējot"/>
+  <phrase i="5934" t="Atspējot"/>
+  <phrase i="5933" t="Brīdinājums"/>
+  <phrase i="5932" t="Konfigurācijas kļūda"/>
+  <phrase i="5931" t="Multiraide"/>
+  <phrase i="5930" t="Iespējot/atspējot DHCP"/>
+  <phrase i="5928" t="Zvanu pārvaldnieka informācija"/>
+  <phrase i="5927" t="HTTP informācija"/>
+  <phrase i="5926" t="Vietas informācija"/>
+  <phrase i="5925" t="QoS informācija"/>
+  <phrase i="5924" t="Zvanu pārvaldnieka informācija"/>
+  <phrase i="5923" t="Drošības informācija"/>
+  <phrase i="5922" t="WLAN konfigurācija"/>
+  <phrase i="5921" t="WLAN konfigurācija"/>
+  <phrase i="5920" t="Profila nosaukums"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="Izvēlēties USB iestatījumu"/>
+  <phrase i="5914" t="USB konfigurācija"/>
+  <phrase i="5913" t="Vietnes pārskats"/>
+  <phrase i="5912" t="Ielādes serveris"/>
+  <phrase i="5911" t="Izvēlēties kanālu"/>
+  <phrase i="5910" t="Kanāls"/>
+  <phrase i="5909" t="Profils %d"/>
+  <phrase i="5908" t="Lietotāju profili"/>
+  <phrase i="5907" t="Izvēlēties lietotāja profilu"/>
+  <phrase i="5906" t="Izvēlēt. lietotāja iestatījumu"/>
+  <phrase i="5905" t="Tīkla profili"/>
+  <phrase i="5904" t="Izvēlēties tīkla profilus"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="Ekrāna spilgtums"/>
+  <phrase i="5901" t="Ekrāna noildze"/>
+  <phrase i="5900" t="Nekad"/>
+  <phrase i="5899" t="Atbilde ar jebkuru taustiņu"/>
+  <phrase i="5898" t="Iespējots"/>
+  <phrase i="5897" t="Atspējots"/>
+  <phrase i="5896" t="Akumulators uzlādēts!"/>
+  <phrase i="5895" t="Akumulators noņemts!"/>
+  <phrase i="5894" t="Akumulators gandrīz tukšs!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="Ievadīt virteni"/>
+  <phrase i="5890" t="Pilnvarojuma virtene"/>
+  <phrase i="5889" t="LSC darbība pabeigta"/>
+  <phrase i="5888" t="LSC darbība uzsākta"/>
+  <phrase i="5887" t="Pārtrauk"/>
+  <phrase i="5886" t="Pieslēdzas CAPF serverim"/>
+  <phrase i="5885" t="Nevar pieslēgties CAPF serv."/>
+  <phrase i="5884" t="Pieslēdzas CAPF serverim"/>
+  <phrase i="5883" t="Autentificējas ar CAPF"/>
+  <phrase i="5882" t="CAPF serveris"/>
+  <phrase i="5881" t="LSC  autentifikācijas kļūda"/>
+  <phrase i="5880" t="Veido LSC paredzētu atslēgu"/>
+  <phrase i="5879" t="Neveiksmīga LSC atsl. veidošana"/>
+  <phrase i="5878" t="Notiek LSC darbība"/>
+  <phrase i="5877" t="Atkārto... Lūdzu, gaidiet"/>
+  <phrase i="5876" t="LSC darbība atcelta"/>
+  <phrase i="5875" t="LSC darbība pārtraukta"/>
+  <phrase i="5874" t="LSC darbības noildze"/>
+  <phrase i="5873" t="Neveiksmīga LSC darbība"/>
+  <phrase i="5872" t="Nepieciešams min. garums"/>
+  <phrase i="5871" t="URL nav konfigurēts!"/>
+  <phrase i="5870" t="Neviens"/>
+  <phrase i="5869" t="Nezināms"/>
+  <phrase i="5867" t="Nav instalēts"/>
+  <phrase i="5866" t="Instalēts"/>
+  <phrase i="5864" t="LSC instalēts"/>
+  <phrase i="5863" t="LSC atjaunināts"/>
+  <phrase i="5862" t="LSC dzēsts"/>
+  <phrase i="5861" t="Detaļas"/>
+  <phrase i="5860" t="Iestatījumu piekļuve atspējota!"/>
+  <phrase i="5859" t="Atkārtoti palaiž  tālruni..."/>
+  <phrase i="5858" t="Vai sākt rūpn. atiestatīšanu?"/>
+  <phrase i="5857" t="CTL datne"/>
+  <phrase i="5856" t="Uzticamības saraksts"/>
+  <phrase i="5855" t="CTL datne nodzēsta!"/>
+  <phrase i="5854" t="Nav atrasts"/>
+  <phrase i="5853" t="Bojāts tālruņa mikrofons"/>
+  <phrase i="5852" t="Neveiksmīga CTL atjaunināšana"/>
+  <phrase i="5851" t="CTL instalēts"/>
+  <phrase i="5850" t="Akumulatora uzlāde pārtraukta!"/>
+  <phrase i="5849" t="Sākta akumulatora uzlāde!"/>
+  <phrase i="5848" t="AC atslēgta!"/>
+  <phrase i="5847" t="AC pieslēgta!"/>
+  <phrase i="5846" t="USB atslēgts!"/>
+  <phrase i="5845" t="USB pieslēgts!"/>
+  <phrase i="5844" t="Noregulēšana atslēgta!"/>
+  <phrase i="5843" t="Noregulēšana pieslēgta!"/>
+  <phrase i="5842" t="Austiņas atslēgtas!"/>
+  <phrase i="5841" t="Austiņas pieslēgtas!"/>
+  <phrase i="5840" t="Sasniegts maks. garums!"/>
+  <phrase i="5839" t="Tastatūra atslēgta!"/>
+  <phrase i="5838" t="Tastatūra aizslēgta!"/>
+  <phrase i="5837" t="Vai atslēgt tastatūru?"/>
+  <phrase i="5836" t="Vai aizslēgt tastatūru?"/>
+  <phrase i="5835" t="Vibrosignāls izslēgts!"/>
+  <phrase i="5834" t="Vibrosignāls ieslēgts!"/>
+  <phrase i="5833" t="Neveiksmīgs LSC atjauninājums!"/>
+  <phrase i="5832" t="Neveiksmīga MIC atjaunināšana!"/>
+  <phrase i="5831" t="Iestatījumi atslēgti!"/>
+  <phrase i="5830" t="Iestatījumi slēgti!"/>
+  <phrase i="5829" t="Akumulators tukšs... stājas!"/>
+  <phrase i="5828" t="TFTP nav CTL"/>
+  <phrase i="5827" t="USB saskarne darbojas"/>
+  <phrase i="5826" t="USB saskarne nedarbojas"/>
+  <phrase i="5825" t="%d sekundes"/>
+  <phrase i="5824" t="Tastatūras automātiska slēgšana"/>
+  <phrase i="5823" t="Atl aut. tastat. sl. laikatsk."/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="Izvēlēties sarakstu"/>
+  <phrase i="5820" t="Tīkls aizņemts"/>
+  <phrase i="5819" t="WLAN regulēšanas domēns"/>
+  <phrase i="5818" t="USB pārdevēja ID"/>
+  <phrase i="5817" t="USB produkta ID"/>
+  <phrase i="5816" t="RNDIS ierīces adrese"/>
+  <phrase i="5815" t="RNDIS resursdatora adrese"/>
+  <phrase i="5814" t="Slēpt"/>
+  <phrase i="5813" t="Iespējas"/>
+  <phrase i="5812" t="Atlasei spiest vidējo pogu"/>
+  <phrase i="5811" t="Rediģēšanai spiest vidējo pogu"/>
+  <phrase i="5810" t="Rx paketes"/>
+  <phrase i="5809" t="Rx kļūdas"/>
+  <phrase i="5808" t="Rx uniraide"/>
+  <phrase i="5807" t="Rx pārraide"/>
+  <phrase i="5806" t="Rx pārraide"/>
+  <phrase i="5805" t="Fcs kļūda"/>
+  <phrase i="5804" t="Saņēmēja bāksignāls"/>
+  <phrase i="5803" t="Assoc noraid."/>
+  <phrase i="5802" t="Assoc noildze"/>
+  <phrase i="5801" t="Autentif. noraid."/>
+  <phrase i="5800" t="Autentif. noildze"/>
+  <phrase i="5799" t="Tx paketes"/>
+  <phrase i="5798" t="Tx kļūda"/>
+  <phrase i="5797" t="Tx uniraide"/>
+  <phrase i="5796" t="Tx multiraide"/>
+  <phrase i="5795" t="Tx pārraide"/>
+  <phrase i="5794" t="Saglabāt žurnālus"/>
+  <phrase i="5793" t="RTS datne"/>
+  <phrase i="5792" t="ACK datne"/>
+  <phrase i="5791" t="M atkārtot"/>
+  <phrase i="5790" t="Neveiksmīgs mēģinājums"/>
+  <phrase i="5789" t="Novecojušas paketes"/>
+  <phrase i="5788" t="Cita kļūda"/>
+  <phrase i="5787" t="Maks. kļ."/>
+  <phrase i="5786" t="Drošības konfigurācija"/>
+  <phrase i="5785" t="Profils aizliegts!"/>
+  <phrase i="5784" t="Profili aizliegti!"/>
+  <phrase i="5783" t="WLAN draivera ID"/>
+  <phrase i="5782" t="WLAN programmaparatūras ID"/>
+  <phrase i="5781" t="Skatīt zvanu statistiku"/>
+  <phrase i="5780" t="Saņēmēja saspiedatspiedējs"/>
+  <phrase i="5779" t="Sūtītāja saspiedatspiedējs"/>
+  <phrase i="5778" t="Saņēmēja izmērs"/>
+  <phrase i="5777" t="Sūtītāja izmērs"/>
+  <phrase i="5776" t="Vidējā trīce"/>
+  <phrase i="5775" t="Maksimālā trīce"/>
+  <phrase i="5774" t="Saņēmējs nomests"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="Vid. MOS LQK"/>
+  <phrase i="5771" t="Min. MOS LQK"/>
+  <phrase i="5770" t="Maks. MOS LQK"/>
+  <phrase i="5769" t="MOS LQK versija"/>
+  <phrase i="5768" t="Kop. noklusējuma rādītājs"/>
+  <phrase i="5767" t="Int. noklusējuma rādītājs"/>
+  <phrase i="5766" t="Maks. noklusējuma rādītājs"/>
+  <phrase i="5765" t="Nerādīt sekundes"/>
+  <phrase i="5764" t="Sev nerādīt sek."/>
+  <phrase i="5763" t="Zvanu pārvaldnieks"/>
+  <phrase i="5762" t="Tīkla informācija"/>
+  <phrase i="5761" t="WLAN informācija"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="Vieta"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="Drošība"/>
+  <phrase i="5755" t="Izvēlēties skaļuma līmeni"/>
+  <phrase i="5754" t="Skaņas iestatījumi"/>
+  <phrase i="5753" t="Ekrāna iestatījumi"/>
+  <phrase i="5752" t="Tastatūras iestatījumi"/>
+  <phrase i="5751" t="Zvana signāls pēc noklusējuma"/>
+  <phrase i="5750" t="Izvēlēties skaņas iestatījumu"/>
+  <phrase i="5749" t="Izvēlēties ekrāna iestatījumu"/>
+  <phrase i="5748" t="Izvēlēt. tastatūras iestatījumu"/>
+  <phrase i="5747" t="Šifrēšanas veids"/>
+  <phrase i="5746" t="CCKM režīms"/>
+  <phrase i="5745" t="Atslēgas vadība"/>
+  <phrase i="5744" t="Tx enerģija"/>
+  <phrase i="5743" t="Koplietots"/>
+  <phrase i="5742" t="Automātisks slēdzis"/>
+  <phrase i="5741" t="WPA nav"/>
+  <phrase i="5740" t="Piekļuve tīmeklim"/>
+  <phrase i="5739" t="Tikai lasāms"/>
+  <phrase i="5738" t="Rediģēt numuru"/>
+  <phrase i="5737" t="Skaļuma iestatījumi"/>
+  <phrase i="5736" t="Izvēlēties skaļumu"/>
+  <phrase i="5735" t="Skaļums"/>
+  <phrase i="5734" t="Zvana signāls"/>
+  <phrase i="5733" t="Klausule"/>
+  <phrase i="5732" t="Skaļrunis"/>
+  <phrase i="5731" t="Vibrosignāls un zvana signāls"/>
+  <phrase i="5730" t="%d līmenis"/>
+  <phrase i="5729" t="Minūte"/>
+  <phrase i="5728" t="Minūtes"/>
+  <phrase i="5727" t="Zvanīšana..."/>
+  <phrase i="5726" t="Zvanīšana atcelta!"/>
+  <phrase i="5725" t="Zvans neizdevās. Mēģ. vēlreiz."/>
+  <phrase i="5724" t="Nevar iespējot: tukšs SSID!"/>
+  <phrase i="5723" t="Tukšs SSID šeit nav atļauts!"/>
+  <phrase i="5722" t="Zvana signāls"/>
+  <phrase i="5721" t="Esošie iestatījumi"/>
+  <phrase i="5720" t="Pieejamie zvana signāli"/>
+  <phrase i="5719" t="Zvana signāla iestatījumi"/>
+  <phrase i="5718" t="Skatīt"/>
+  <phrase i="5717" t="Izvēlēties zvana signālu"/>
+  <phrase i="5716" t="Lietot zvana signālu"/>
+  <phrase i="5715" t="Lietot"/>
+  <phrase i="5714" t="LED pārklājuma rādītājs"/>
+  <phrase i="5713" t="Drošības konfigurācija"/>
+  <phrase i="5712" t="Zvana izvade"/>
+  <phrase i="5711" t="Skaļrunis un austiņas"/>
+  <phrase i="5710" t="Mainīt"/>
+  <phrase i="5709" t="Programmas Wavelink konf."/>
+  <phrase i="5708" t="Izvēlēties Wavelink iestatījumu"/>
+  <phrase i="5707" t="Programma Wavelink"/>
+  <phrase i="5706" t="Alternatīvs Wavelink serveris"/>
+  <phrase i="5705" t="Wavelink serveris"/>
+  <phrase i="5704" t="Wavelink servera ports"/>
+  <phrase i="5703" t="Iespējotāja versija"/>
+  <phrase i="5702" t="Pielāgots nosaukums"/>
+  <phrase i="5701" t="Pielāgota vērtība"/>
+  <phrase i="5700" t="Kanāls"/>
+  <phrase i="5699" t="Kaimiņu saraksts"/>
+  <phrase i="5698" t="Piekļuves punkta nosaukums"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="Nenozīmīgs saņ."/>
+  <phrase i="5694" t="Datu saņ. BE"/>
+  <phrase i="5693" t="Datu saņ. BK"/>
+  <phrase i="5692" t="Datu saņ. VI"/>
+  <phrase i="5691" t="Datu saņ. VO"/>
+  <phrase i="5690" t="Atslēgt"/>
+  <phrase i="5689" t="Personiskais katalogs"/>
+  <phrase i="5688" t="Uzņēmuma katalogs"/>
+  <phrase i="5687" t="Nospiediet Atslēgt"/>
+  <phrase i="5686" t="Lai atslēgtu, nospiediet #"/>
+  <phrase i="5685" t="Lai atslēgtu, nospiediet un turiet #"/>
+  <phrase i="5684" t="Tastatūra aizslēgta"/>
+  <phrase i="5683" t="Pretgaisma"/>
+  <phrase i="5682" t="Izvēlēties audio celiņu"/>
+  <phrase i="5681" t="Skaļrunis un Bluetooth"/>
+  <phrase i="5680" t="Austiņu zvans"/>
+  <phrase i="5679" t="Augsts"/>
+  <phrase i="5678" t="Vidējs"/>
+  <phrase i="5677" t="Zems"/>
+  <phrase i="5676" t="Lai pārietu uz galveno ekrānu, nospiediet %s"/>
+  <phrase i="5675" t="Zvana detaļas"/>
+  <phrase i="5674" t="%s plkst. %s"/>
+  <phrase i="5673" t="Ilgums"/>
+  <phrase i="5672" t="Uzvednes režīms"/>
+  <phrase i="5671" t="Lietotāja akreditācijas dati nav pareizi."/>
+  <phrase i="5670" t="Vai mainīt tagad?"/>
+  <phrase i="5669" t="Skaļruņa režīms"/>
+  <phrase i="5668" t="Pastāvošs"/>
+  <phrase i="5667" t="Par zvanu"/>
+  <phrase i="5666" t="Pieteikšanās tīkla profilā"/>
+  <phrase i="5665" t="Šrifta lielums"/>
+  <phrase i="5664" t="Palielināts"/>
+  <phrase i="5663" t="64 biti"/>
+  <phrase i="5662" t="104 biti"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco ātrais zvanu pārvaldnieks"/>
+  <phrase i="4999" t="IEKŠĒJIE SAKARI"/>
+  <phrase i="4998" t="Ienākošs zvans"/>
+  <phrase i="4997" t="Vietējs saraksts"/>
+  <phrase i="4996" t="Vietēja ātrā numuru sastādīšana"/>
+  <phrase i="4995" t="Uzvārds"/>
+  <phrase i="4994" t="Vārds"/>
+  <phrase i="4993" t="Vietējā saraksta meklēšana"/>
+  <phrase i="4992" t="Par daudz sakr. Lūdzu, uzl. m."/>
+  <phrase i="4991" t="Neviens ieraksts netika atrasts"/>
+  <phrase i="4990" t="Ieraksti no 1 līdz ... no"/>
+  <phrase i="4989" t="Neviena līnija nav pieejama"/>
+  <phrase i="4988" t="Nevar pārsūtīt"/>
+  <phrase i="4987" t="Pārsūtīt uz - ir aizņemts"/>
+  <phrase i="4986" t="Ievadiet vai izvēlieties nr."/>
+  <phrase i="4985" t="Vai atiestatīt visus sistēmas"/>
+  <phrase i="4984" t="iestatījumus uz nokl. vērtībām?"/>
+  <phrase i="4983" t="Saraksta pakalpojumi"/>
+  <phrase i="4982" t="XML pakalpojumi"/>
+  <phrase i="4981" t="Savienošanās ar serveri"/>
+  <phrase i="4980" t="Nesekmīgs savienojums"/>
+  <phrase i="4979" t="Vai vēlaties vēl. pal. tālr.?"/>
+  <phrase i="4978" t="Izvēlne"/>
+  <phrase i="4977" t="Valoda"/>
+  <phrase i="4976" t="Alternatīvs domēns"/>
+  <phrase i="4975" t="Alternatīvs DNS"/>
+  <phrase i="4974" t="Esošā vērtība"/>
+  <phrase i="4973" t="Jauna vērtība"/>
+  <phrase i="4972" t="Noklusējuma maršrutētājs"/>
+  <phrase i="4971" t="VLAN iespējots"/>
+  <phrase i="4970" t="CDP iespējots"/>
+  <phrase i="4969" t="Pakalpojumi"/>
+  <phrase i="4968" t="Ātrā numuru sastādīšana"/>
+  <phrase i="4967" t="Ievadīt serveri"/>
+  <phrase i="4966" t="Statisks"/>
+  <phrase i="4965" t="Reģistrācijas režīms"/>
+  <phrase i="4964" t="Režīms"/>
+  <phrase i="4963" t="Mantojums"/>
+  <phrase i="4962" t="Programmaparatūras atjaunin."/>
+  <phrase i="4961" t="Kontrasta izvēlne"/>
+  <phrase i="4960" t="Administratora paroles maiņa"/>
+  <phrase i="4959" t="Nav pieejams"/>
+  <phrase i="4958" t="Teksta paraugs"/>
+  <phrase i="4957" t="Atjaunināšana"/>
+  <phrase i="4956" t="Ievadiet jauno paroli"/>
+  <phrase i="4955" t="Ziņojumi"/>
+  <phrase i="4954" t="Iestatījumi"/>
+  <phrase i="4953" t="Saraksti"/>
+  <phrase i="4952" t="Nepareiza parole"/>
+  <phrase i="4951" t="Ievadiet administratora paroli"/>
+  <phrase i="4950" t="Nederīga ievades vērtība"/>
+  <phrase i="4949" t="Nederīgs atsl. virtenes garums"/>
+  <phrase i="4948" t="Ned. atsl. virt.: jābūt heks."/>
+  <phrase i="4947" t="ĀTRĀ NUMURU SASTĀDĪŠANA"/>
+  <phrase i="4946" t="Tīkls Ethernet atvienots"/>
+  <phrase i="4945" t="Konfigurēšana, izmantojot TFTP"/>
+  <phrase i="4944" t="IP konfigurēšana, izmant. DHCP"/>
+  <phrase i="4943" t="VLAN iestatījumu konfigurēšana"/>
+  <phrase i="4942" t="Numurs nepieejams"/>
+  <phrase i="4941" t="Nav piešķirts"/>
+  <phrase i="4940" t="Zvana skaļums"/>
+  <phrase i="4939" t="Klausules skaļums"/>
+  <phrase i="4938" t="Skaļruņa skaļums"/>
+  <phrase i="4937" t="Atkārtot"/>
+  <phrase i="4936" t="Ievadīt"/>
+  <phrase i="4935" t="Alfa"/>
+  <phrase i="4934" t="Pārraugs izsl."/>
+  <phrase i="4933" t="Pārraugs"/>
+  <phrase i="4932" t="Numurs"/>
+  <phrase i="4931" t="Ziņojums"/>
+  <phrase i="718" t="Iekšējā tālruņa vēsture"/>
+  <phrase i="717" t="Visas līnijas"/>
+  <phrase i="716" t="Līnija %d"/>
+  <phrase i="715" t="Lejup"/>
+  <phrase i="714" t="Darbība atcelta"/>
+  <phrase i="713" t="TFTP nav autorizēts: %s"/>
+  <phrase i="712" t="Nodzēst"/>
+  <phrase i="711" t="Šifrēts"/>
+  <phrase i="710" t="Autentificēts"/>
+  <phrase i="709" t="Nedrošs"/>
+  <phrase i="708" t="TLS kļūda "/>
+  <phrase i="707" t="Piekļuve tīmeklim iespējota"/>
+  <phrase i="706" t="Ierīces drošības režīms"/>
+  <phrase i="705" t="Apstrāde..."/>
+  <phrase i="704" t="Nederīga ievade vai nav inf."/>
+  <phrase i="703" t="Neveiksmīga atslēgu veidošana"/>
+  <phrase i="702" t="Zaudēts vai neveiksmīgs sav."/>
+  <phrase i="701" t="Nesekmīgi"/>
+  <phrase i="700" t="Noildze"/>
+  <phrase i="699" t="Veiksmīgis"/>
+  <phrase i="698" t="Autentifikācijas piepr...."/>
+  <phrase i="697" t="Savienošana..."/>
+  <phrase i="696" t="Atkārtot CAPF..."/>
+  <phrase i="695" t="Atslēgu veidošana..."/>
+  <phrase i="694" t="Atcelt darbību"/>
+  <phrase i="693" t="Atjaunināt sertifikātu"/>
+  <phrase i="692" t="Autentifikācijas virtene"/>
+  <phrase i="691" t="Sertifikāti"/>
+  <phrase i="690" t="DSCP pakalpojumiem"/>
+  <phrase i="689" t="DSCP konfigurācijai"/>
+  <phrase i="688" t="DSCP zvanu vadībai"/>
+  <phrase i="687" t="Neveiksm. datnes autentificēš."/>
+  <phrase i="686" t="CAST uzdevums"/>
+  <phrase i="685" t="Videoattēls iespējots"/>
+  <phrase i="684" t="Autom. līniju atlase iespējota"/>
+  <phrase i="683" t="Balss VLAN iespējots"/>
+  <phrase i="682" t="GARP iespējots"/>
+  <phrase i="681" t="Kaimiņa ports"/>
+  <phrase i="680" t="Kaimiņa IP adrese"/>
+  <phrase i="679" t="Kaimiņa ierīces ID"/>
+  <phrase i="678" t="Par %s"/>
+  <phrase i="677" t="Pārsūtīts"/>
+  <phrase i="676" t="SaīsinNr"/>
+  <phrase i="675" t="Pieprasa pakapl. URL stāvokli"/>
+  <phrase i="674" t="Pieprasa līdzekļa atsl. stāv."/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d jauni neatbildēti zvani"/>
+  <phrase i="670" t="Zvana signāls pēc noklusējuma"/>
+  <phrase i="669" t="Izvēlēties līniju..."/>
+  <phrase i="668" t="Rediģēt numuru"/>
+  <phrase i="667" t="Zvana pārtraukšana"/>
+  <phrase i="666" t="Tīkla vietas versija"/>
+  <phrase i="665" t="Lietotāja vietas versija"/>
+  <phrase i="664" t="TFTP pieprasījums atcelts"/>
+  <phrase i="663" t="DHCP atspējots"/>
+  <phrase i="662" t="Nepieciešama IP adrese"/>
+  <phrase i="661" t="Stāvoklis "/>
+  <phrase i="660" t="Noklusējums"/>
+  <phrase i="659" t="Ziņojuma gaidīšana"/>
+  <phrase i="658" t="Klausules režīms"/>
+  <phrase i="657" t="Modeļa numurs"/>
+  <phrase i="656" t="Skatīt modeļa informāciju"/>
+  <phrase i="655" t="Informācija par modeli"/>
+  <phrase i="654" t="Sakaru stāvoklis "/>
+  <phrase i="653" t="Šrifta rādītājs saglabājas"/>
+  <phrase i="652" t="Šrifta rādītājs"/>
+  <phrase i="651" t="Palaist lietojumu"/>
+  <phrase i="650" t="Šriftu lejupielāde saglabājas"/>
+  <phrase i="649" t="Šriftu lejupielāde"/>
+  <phrase i="648" t="Šriftu tabulas informācija"/>
+  <phrase i="647" t="Segmentu lejupielāde saglabājas"/>
+  <phrase i="646" t="Segmentu lejupielāde"/>
+  <phrase i="645" t="Segmentu atjaunināšana"/>
+  <phrase i="644" t="Informācija par aparatūru"/>
+  <phrase i="643" t="Versija TFTP"/>
+  <phrase i="642" t="Versijas informācija"/>
+  <phrase i="641" t="Dīkstāvē"/>
+  <phrase i="640" t="Nav atbalstīts"/>
+  <phrase i="639" t="Vietas atjaunināšanas kļūda"/>
+  <phrase i="638" t="Gaida stāvokļa %d atbildi no %s"/>
+  <phrase i="637" t="Gaida %s no %s"/>
+  <phrase i="636" t="BOOTP serveris"/>
+  <phrase i="635" t="DHCP serveris"/>
+  <phrase i="634" t="3 V pastiprinātājs"/>
+  <phrase i="633" t="5 V pastiprinātājs"/>
+  <phrase i="632" t="AD saspiedatspiedējs"/>
+  <phrase i="631" t="ADL saspiedatspiedējs"/>
+  <phrase i="630" t="C3PO pārbaude"/>
+  <phrase i="629" t="Pastiprinātāji"/>
+  <phrase i="628" t="Saspiedatspiedējs"/>
+  <phrase i="627" t="Sērijas numurs"/>
+  <phrase i="626" t="Aparatūras pārbaude"/>
+  <phrase i="625" t="Palaist ielādes ID"/>
+  <phrase i="624" t="Lietot ielādes ID"/>
+  <phrase i="623" t="Tālruņa DN"/>
+  <phrase i="622" t="SYS režīms"/>
+  <phrase i="621" t="FIQ režīms"/>
+  <phrase i="620" t="IRQ režīms"/>
+  <phrase i="619" t="SVC režīms"/>
+  <phrase i="618" t="Nenoteikts režīms"/>
+  <phrase i="610" t="vairāk"/>
+  <phrase i="609" t="Izvēlēt."/>
+  <phrase i="608" t="Iziet"/>
+  <phrase i="607" t="Lejup"/>
+  <phrase i="606" t="Augšup"/>
+  <phrase i="605" t="Atcelt"/>
+  <phrase i="604" t="Rediģēt"/>
+  <phrase i="603" t="Nē"/>
+  <phrase i="602" t="Jā"/>
+  <phrase i="601" t="Atskaņot"/>
+  <phrase i="600" t="Zvanīt"/>
+  <phrase i="599" t="RedSasNr"/>
+  <phrase i="598" t="Saglabāt"/>
+  <phrase i="597" t="Atjaunot"/>
+  <phrase i="596" t="Dzēst"/>
+  <phrase i="595" t="Rūpnīca"/>
+  <phrase i="594" t="Labi"/>
+  <phrase i="593" t="Apstipr"/>
+  <phrase i="592" t="Meklēt"/>
+  <phrase i="591" t="Nākamais"/>
+  <phrase i="590" t="Atjaunin"/>
+  <phrase i="589" t="Dzēst v."/>
+  <phrase i="588" t="Iesniegt"/>
+  <phrase i="587" t="Signāls"/>
+  <phrase i="586" t="Tīkla vieta"/>
+  <phrase i="585" t="Lietotāja vieta"/>
+  <phrase i="584" t="Kate datne"/>
+  <phrase i="583" t="Signāla datne"/>
+  <phrase i="582" t="Zvanītājs aizņemts!"/>
+  <phrase i="581" t="TFTP serveris 2"/>
+  <phrase i="578" t="SW porta konfigurācija"/>
+  <phrase i="577" t="Datora porta konfigurācija"/>
+  <phrase i="576" t="Datora ports atspējots"/>
+  <phrase i="575" t="Kļūda"/>
+  <phrase i="574" t="Nederīgs pieprasījums"/>
+  <phrase i="573" t="Pamattālrunis"/>
+  <phrase i="571" t="KONTRASTA IZVĒLNE"/>
+  <phrase i="570" t="Lai pielāgotu, izv. Kontrasts"/>
+  <phrase i="569" t="Balss pasts"/>
+  <phrase i="568" t="ZIŅOJUMI"/>
+  <phrase i="555" t="ZP-ICMP nesasniedz"/>
+  <phrase i="554" t="Izvēlēties zvanu..."/>
+  <phrase i="553" t="Starpniekservera vietrādis URL"/>
+  <phrase i="552" t="Autentificēšanas vietrādis URL"/>
+  <phrase i="551" t="Autom. num. sastād. atcelta!"/>
+  <phrase i="550" t="Papilduzdevums"/>
+  <phrase i="547" t="HTTP datnes kļūda"/>
+  <phrase i="546" t="XML kļūda [4]: analizē kļūdu"/>
+  <phrase i="545" t="Datnes veidošanas kļūda"/>
+  <phrase i="544" t="Pēdējais="/>
+  <phrase i="543" t="Ielādē noraidīto HC"/>
+  <phrase i="542" t="Tālruņa reģistrācija noraidīta"/>
+  <phrase i="541" t="Atiestatīt-restartēt"/>
+  <phrase i="540" t="Atiestatīt-atiestatīt"/>
+  <phrase i="539" t="Tālr.-Re-IP"/>
+  <phrase i="538" t="Tālruņa tastatūra"/>
+  <phrase i="537" t="Tālruņa diagnosticēšana"/>
+  <phrase i="536" t="Atkāpšanās"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="ZP-NAKed"/>
+  <phrase i="533" t="ZP-pārtraukts-TCP"/>
+  <phrase i="532" t="ZP-atiestatīt-TCP"/>
+  <phrase i="531" t="TCP-Bojāts-ACK"/>
+  <phrase i="530" t="Kļūda pārbaud. konfig. inform."/>
+  <phrase i="529" t="Porta informācija"/>
+  <phrase i="528" t="Tīkla Ethernet informācija"/>
+  <phrase i="527" t="%s par lielu"/>
+  <phrase i="526" t="No "/>
+  <phrase i="525" t="Nav ierakstu"/>
+  <phrase i="524" t="Ievadiet lietotāja ID un paroli"/>
+  <phrase i="523" t="Parole"/>
+  <phrase i="522" t="Lietotājvārds"/>
+  <phrase i="521" t="Izvēlēties pakalpojumu..."/>
+  <phrase i="520" t="Apstrādāt esošo zvanu..."/>
+  <phrase i="519" t="TFTP izmēra kļūda"/>
+  <phrase i="518" t="Nosaukt datni"/>
+  <phrase i="517" t="Glyph datne"/>
+  <phrase i="516" t="%s nepieejams"/>
+  <phrase i="515" t="Bojāts %s"/>
+  <phrase i="514" t="Žurnāls %d"/>
+  <phrase i="513" t="Piekļuve"/>
+  <phrase i="511" t="Tālrunis"/>
+  <phrase i="510" t="Tīkls"/>
+  <phrase i="509" t="Straume %d"/>
+  <phrase i="508" t="Straumēšanas statistika"/>
+  <phrase i="507" t="Ierīces žurnāli"/>
+  <phrase i="506" t="%d ports"/>
+  <phrase i="505" t="Tīkls Ethernet"/>
+  <phrase i="504" t="Informācija par ierīci"/>
+  <phrase i="503" t="Pāradresēšanas aizkave"/>
+  <phrase i="502" t="Nodzēst konfigurāciju"/>
+  <phrase i="501" t="Alternatīvs TFTP"/>
+  <phrase i="500" t="Atbrīvota DHCP adrese"/>
+  <phrase i="499" t="DHCP iespējots"/>
+  <phrase i="498" t="Raidīt"/>
+  <phrase i="497" t="SaņKļ"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Saņemt"/>
+  <phrase i="494" t="Versija"/>
+  <phrase i="493" t="Atpakaļ"/>
+  <phrase i="492" t=" IESLĒGTS"/>
+  <phrase i="491" t=" JĀ"/>
+  <phrase i="490" t=" IZSLĒGTS"/>
+  <phrase i="489" t=" NĒ"/>
+  <phrase i="488" t="RTP aizkave"/>
+  <phrase i="487" t="TFTP kļūda"/>
+  <phrase i="486" t="TFTP piekļuves kļūda"/>
+  <phrase i="485" t="Datne nav atrasta"/>
+  <phrase i="484" t="Pēdējais=0x%02X"/>
+  <phrase i="483" t="ZP-slēgts-TCP"/>
+  <phrase i="482" t="TCP-noildze"/>
+  <phrase i="481" t="Inicializēts"/>
+  <phrase i="480" t="Nosaukums=%15s"/>
+  <phrase i="479" t="Programmatūras atjaunināšana"/>
+  <phrase i="478" t="ROM kontrolsummas kļūda"/>
+  <phrase i="477" t=" Ielāde="/>
+  <phrase i="474" t="Dubulta IP adrese"/>
+  <phrase i="473" t="Piešķirta IP adrese"/>
+  <phrase i="472" t="Atiestatīšana"/>
+  <phrase i="471" t="Pieprasa servera sarakstu"/>
+  <phrase i="470" t="Pieprasa ātruma stāvokli"/>
+  <phrase i="469" t="Pieprasa līnijas stāvokli"/>
+  <phrase i="468" t="Pieprasa izvēles taustiņu kopu"/>
+  <phrase i="467" t="Pieprasa izvēles taust. veidni"/>
+  <phrase i="466" t="Pieprasa veidni"/>
+  <phrase i="465" t="DSP palaišana"/>
+  <phrase i="464" t="Ielādes pārbaude"/>
+  <phrase i="463" t="Reģistrācija noraidīta"/>
+  <phrase i="462" t="Reģistrēšana"/>
+  <phrase i="461" t="Atvēršana "/>
+  <phrase i="460" t="Konfigurē ZP sarakstu"/>
+  <phrase i="459" t="IP konfigurēšana"/>
+  <phrase i="458" t="VLAN konfigurēšana"/>
+  <phrase i="457" t="%d no %d"/>
+  <phrase i="456" t="Nederīga ražošanas informācija"/>
+  <phrase i="455" t="XML kļūda [%d]!"/>
+  <phrase i="454" t="HTTP kļūda [%d]!"/>
+  <phrase i="453" t="Resursdators nav atrasts"/>
+  <phrase i="452" t="HTTP pieprasījums atcelts"/>
+  <phrase i="451" t="Novirzīšana..."/>
+  <phrase i="450" t="Nepieciešams pilnvarojums!"/>
+  <phrase i="449" t="Daļējs"/>
+  <phrase i="448" t="Pilnīgs"/>
+  <phrase i="447" t="Derīgais laiks"/>
+  <phrase i="446" t="Blīvēšanas veida kļūda"/>
+  <phrase i="445" t="TCP kļūdas kods"/>
+  <phrase i="444" t="Versijas kļūda"/>
+  <phrase i="443" t="Kļūda - disks pilns"/>
+  <phrase i="442" t="CFG TFTP izmēra kļūda"/>
+  <phrase i="441" t="Novēlots DSP"/>
+  <phrase i="440" t="Pārpludināts"/>
+  <phrase i="439" t="DSP uzturēšanas noildze"/>
+  <phrase i="438" t="DSP kļūda"/>
+  <phrase i="437" t="Nederīgs VLAN"/>
+  <phrase i="436" t="Nederīga IP adrese"/>
+  <phrase i="435" t="Nederīga apakštīkla maska"/>
+  <phrase i="434" t=" Nepieejams"/>
+  <phrase i="433" t=" Gaidstāve"/>
+  <phrase i="432" t=" Darbojas"/>
+  <phrase i="431" t="Izmanto BOOTP serveri"/>
+  <phrase i="430" t="Programmēšanas kļūda"/>
+  <phrase i="429" t="Dubulta IP"/>
+  <phrase i="428" t="Nav noklusējuma maršrutētāja"/>
+  <phrase i="427" t="Konf. datne pieejama"/>
+  <phrase i="426" t="Kontrolsummas kļūda"/>
+  <phrase i="425" t="Nepareizs ielādes ID"/>
+  <phrase i="424" t="Nav DNS servera IP"/>
+  <phrase i="423" t="DNS noildze"/>
+  <phrase i="422" t="DNS nezināms resursdators"/>
+  <phrase i="421" t="TFTP vispārēja kļūda"/>
+  <phrase i="420" t="CFG datne nav atrasta"/>
+  <phrase i="419" t="TFTP noildze"/>
+  <phrase i="418" t="DHCP noildze"/>
+  <phrase i="417" t="Nepieciešams maršrutētājs"/>
+  <phrase i="416" t="Apakštīklā nav maršrutētāja"/>
+  <phrase i="415" t="Nepieciešams TFTP serveris"/>
+  <phrase i="414" t="Nederīga informācija"/>
+  <phrase i="413" t="Raidīšanas apsl. IZSLĒGTA"/>
+  <phrase i="412" t="Raidīšanas apsl. IESLĒGTA"/>
+  <phrase i="410" t="Klausules skaļums saglabāts!"/>
+  <phrase i="409" t="Austiņu skaļums saglabāts!"/>
+  <phrase i="408" t="Skaļruņa skaļums saglabāts!"/>
+  <phrase i="407" t="Izmaiņas nav saglabātas!"/>
+  <phrase i="406" t="Vai saglabāt skaļuma pielāg.?"/>
+  <phrase i="405" t="Ievadīt ievaddatus..."/>
+  <phrase i="404" t="Pakalpojumi nav pieejami"/>
+  <phrase i="403" t="PAKALPOJUMI"/>
+  <phrase i="402" t="Skatīt aparatūras informāciju"/>
+  <phrase i="401" t="Informācija par aparatūru"/>
+  <phrase i="400" t="Skatīt steka informāciju"/>
+  <phrase i="399" t="Steka pārraugs"/>
+  <phrase i="398" t="Skatīt atkļūdošanas informāciju"/>
+  <phrase i="397" t="Atkļūdošanas ekrāns"/>
+  <phrase i="396" t="Skat. programmaparatūras vers."/>
+  <phrase i="395" t="Programmaparatūras versijas"/>
+  <phrase i="394" t="Skatīt tīkla statistiku"/>
+  <phrase i="393" t="Tīkla statistika"/>
+  <phrase i="392" t="Skatīt stāvokļa ziņojumus"/>
+  <phrase i="391" t="Ieraksts validēts"/>
+  <phrase i="390" t="Jauns %s:"/>
+  <phrase i="389" t="Esošais %s:"/>
+  <phrase i="388" t="Rediģēt %s"/>
+  <phrase i="387" t="Iestatījumu stāvoklis"/>
+  <phrase i="386" t="Izvēlēties stāvokļa vienumu..."/>
+  <phrase i="385" t="Steka statistika"/>
+  <phrase i="384" t="Stāvokļa ziņojumi"/>
+  <phrase i="383" t="Izvēlēties tīkla iestatījumu..."/>
+  <phrase i="382" t="Zvanu saraksts nepieejams!"/>
+  <phrase i="381" t="Bojāta zvanu saraksta datne!"/>
+  <phrase i="380" t="Zvanu datne nav pieejama!"/>
+  <phrase i="379" t="Pieprasa zvanu datni..."/>
+  <phrase i="378" t="Zvana veids"/>
+  <phrase i="377" t="Izvēlēties zvana signālu"/>
+  <phrase i="376" t="Pieprasa zvanu sarakstu..."/>
+  <phrase i="375" t="Čivināšana 2"/>
+  <phrase i="374" t="Čivināšana 1"/>
+  <phrase i="373" t="Izmaiņas pieņemtas un saglab."/>
+  <phrase i="372" t="Mainīt kontrastu..."/>
+  <phrase i="371" t="Visas izmaiņas saglabātas"/>
+  <phrase i="370" t="Atjaunoti rūpnīcas iestatījumi "/>
+  <phrase i="369" t="Atjaunoti saglabātie iestat."/>
+  <phrase i="368" t="Izvēlēties iestatījumu..."/>
+  <phrase i="367" t="IESTATĪJUMI"/>
+  <phrase i="366" t="Stāvoklis"/>
+  <phrase i="365" t="Tīkla konfigurācija"/>
+  <phrase i="364" t="Kontrasts"/>
+  <phrase i="363" t="Atjaunot meklēšanas kritērijus"/>
+  <phrase i="362" t="Nav ierakstu"/>
+  <phrase i="361" t="%d ieraksti"/>
+  <phrase i="360" t="%s meklējumi"/>
+  <phrase i="359" t="Zvanu vēsture notīrīta!"/>
+  <phrase i="358" t="Izvēlēties sarakstu..."/>
+  <phrase i="357" t="Nederīgs saraksta URL!..."/>
+  <phrase i="356" t="SARAKSTS"/>
+  <phrase i="355" t="Veiktie zvani"/>
+  <phrase i="354" t="Saņemtie zvani"/>
+  <phrase i="353" t="Neatbildētie zvani"/>
+  <phrase i="352" t="ZP nedarb., līdzekļi atspējoti"/>
+  <phrase i="351" t="%s"/>
+  <phrase i="350" t="Šis taustiņš šeit nedarbojas"/>
+  <phrase i="349" t="Pieprasīšana..."/>
+  <phrase i="348" t="Zvanu statistika"/>
+  <phrase i="347" t="INFORMĀCIJA"/>
+  <phrase i="346" t="Izvēl. taustiņu papildinf..."/>
+  <phrase i="345" t="Atcelšanai nospiest "/>
+  <phrase i="344" t="Visi lauki saglabāti"/>
+  <phrase i="343" t="Izmaiņas nav saglabātas"/>
+  <phrase i="342" t="%d dienas, "/>
+  <phrase i="341" t="1 diena, "/>
+  <phrase i="340" t="%s pulksten"/>
+  <phrase i="339" t="%s pulksten"/>
+  <phrase i="338" t="Vakar pulksten"/>
+  <phrase i="337" t="Šodien pulksten"/>
+  <phrase i="336" t="Sestdiena"/>
+  <phrase i="335" t="Piektdiena"/>
+  <phrase i="334" t="Ceturtdiena"/>
+  <phrase i="333" t="Trešdiena"/>
+  <phrase i="332" t="Otrdiena"/>
+  <phrase i="331" t="Pirmdiena"/>
+  <phrase i="330" t="Svētdiena"/>
+  <phrase i="329" t="Līdz %s"/>
+  <phrase i="328" t="Nezināms numurs"/>
+  <phrase i="327" t="No %s"/>
+  <phrase i="326" t="Uz %s"/>
+  <phrase i="325" t="Pāradresēt %s"/>
+  <phrase i="324" t="Ārējs zvans"/>
+  <phrase i="323" t="Attālināta lietošana"/>
+  <phrase i="322" t="%d jauns neatbildēts zvans%c"/>
+  <phrase i="321" t="Rx gari"/>
+  <phrase i="320" t="Rx īsi"/>
+  <phrase i="319" t="Rx pārraides"/>
+  <phrase i="318" t="Rx multiraides"/>
+  <phrase i="317" t="Rx pundurpakete"/>
+  <phrase i="316" t="Rx bojāta preambula"/>
+  <phrase i="315" t="Rx CRC kļūdas"/>
+  <phrase i="314" t="Rx rāmji"/>
+  <phrase i="313" t="Rx garš/CRC"/>
+  <phrase i="312" t="Rx pārplūdes"/>
+  <phrase i="311" t="Tx atlikta pārtraukšana"/>
+  <phrase i="310" t="Tx sadursmes"/>
+  <phrase i="309" t="Tx multiraides"/>
+  <phrase i="308" t="Tx pārraides"/>
+  <phrase i="307" t="Tx rāmji"/>
+  <phrase i="306" t="Tx pārmērīgas sadursmes"/>
+  <phrase i="305" t="pārplūdes atzars"/>
+  <phrase i="304" t="bpdu atzars"/>
+  <phrase i="289" t="Tx kopējais oktets"/>
+  <phrase i="288" t="Tx multiraide"/>
+  <phrase i="287" t="Tx pārraide"/>
+  <phrase i="286" t="Tx garums pārsniegts"/>
+  <phrase i="285" t="Tx fifo pārsniegt"/>
+  <phrase i="284" t="Tx sadursmes"/>
+  <phrase i="283" t="Tx kopējās labās paketes"/>
+  <phrase i="282" t="Tx novēlota sadursme"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx garuma kļūda"/>
+  <phrase i="271" t="Rx labs garums"/>
+  <phrase i="270" t="Rx īss labs"/>
+  <phrase i="269" t="Rx neliela kļ."/>
+  <phrase i="268" t="Rx uniraide"/>
+  <phrase i="267" t="Rx pārraide"/>
+  <phrase i="266" t="Rx multiraide"/>
+  <phrase i="265" t="Rx izlīdzināt kļ."/>
+  <phrase i="264" t="Rx crc kļūda"/>
+  <phrase i="263" t="Kopējie okteti"/>
+  <phrase i="262" t="Rx kopējās paketes"/>
+  <phrase i="261" t="Nesējfrekvences notikumi"/>
+  <phrase i="260" t="Nederīgs RTP"/>
+  <phrase i="259" t="Nedarbojas"/>
+  <phrase i="258" t="Nav gatavs"/>
+  <phrase i="257" t="Likvidēt"/>
+  <phrase i="255" t="Saņēmēja sākuma laiks"/>
+  <phrase i="254" t="Saņēmēja okteti"/>
+  <phrase i="253" t="Saņēmēja paketes"/>
+  <phrase i="252" t="Saņēmēja atskaites laiks"/>
+  <phrase i="251" t="Saņēmēja atskaites"/>
+  <phrase i="250" t="Saņēmēja rīks"/>
+  <phrase i="249" t="Saņēmēja trīce"/>
+  <phrase i="248" t="Saņēmēja zaudētās paketes"/>
+  <phrase i="247" t="Sūtītāja sākuma laiks"/>
+  <phrase i="246" t="Sūtītāja uzskaites laiks"/>
+  <phrase i="245" t="Sūtītāja atskaites"/>
+  <phrase i="244" t="Sūtītāja rīks"/>
+  <phrase i="243" t="Sūtītāja okteti"/>
+  <phrase i="242" t="Sūtītāja paketes"/>
+  <phrase i="241" t="Vārds"/>
+  <phrase i="240" t="Rindas stāvoklis"/>
+  <phrase i="239" t="Sākuma laiks"/>
+  <phrase i="238" t="Beigu laiks"/>
+  <phrase i="237" t="Saņēmēja pievienošanās"/>
+  <phrase i="236" t="Sūtītāja pievienošanās"/>
+  <phrase i="235" t="Vietējā adrese"/>
+  <phrase i="234" t="Attālā adrese "/>
+  <phrase i="233" t="Domēns"/>
+  <phrase i="232" t="Porta ātrums"/>
+  <phrase i="231" t="Fiksētais TFTP"/>
+  <phrase i="230" t="DHCP atspējots"/>
+  <phrase i="229" t="Dīkstāves URL laiks"/>
+  <phrase i="228" t="Dīkstāves vietrādis URL"/>
+  <phrase i="227" t="Pakalpojumu vietrādis URL"/>
+  <phrase i="226" t="Ziņojumu vietrādis URL"/>
+  <phrase i="225" t="Sarakstu vietrādis URL"/>
+  <phrase i="224" t="Informācijas vietrādis URL"/>
+  <phrase i="223" t="Zvanu pārvaldnieks 5"/>
+  <phrase i="222" t="Zvanu pārvaldnieks 4"/>
+  <phrase i="221" t="Zvanu pārvaldnieks 3"/>
+  <phrase i="220" t="Zvanu pārvaldnieks 2"/>
+  <phrase i="219" t="Zvanu pārvaldnieks 1"/>
+  <phrase i="218" t="Administrēšanas VLAN ID"/>
+  <phrase i="217" t="Darba VLAN ID"/>
+  <phrase i="216" t="DNS serveris 5"/>
+  <phrase i="215" t="DNS serveris 4"/>
+  <phrase i="214" t="DNS serveris 3"/>
+  <phrase i="213" t="DNS serveris 2"/>
+  <phrase i="212" t="DNS serveris 1"/>
+  <phrase i="211" t="Noklusējuma maršrutētājs 5"/>
+  <phrase i="210" t="Noklusējuma maršrutētājs 4"/>
+  <phrase i="209" t="Noklusējuma maršrutētājs 3"/>
+  <phrase i="208" t="Noklusējuma maršrutētājs 2"/>
+  <phrase i="207" t="Noklusējuma maršrutētājs 1"/>
+  <phrase i="206" t="TFTP serveris 1"/>
+  <phrase i="205" t="Apakštīkla maska"/>
+  <phrase i="204" t="IP adrese"/>
+  <phrase i="203" t="Domēna nosaukums"/>
+  <phrase i="202" t="Resursdatora nosaukums"/>
+  <phrase i="201" t="MAC adrese"/>
+  <phrase i="199" t="Noraidīt"/>
+  <phrase i="198" t="Līnija nav pieejama pārtverš."/>
+  <phrase i="197" t="Ārējā pārsūtīšana ierobežota"/>
+  <phrase i="196" t="Joslas pl. nav pieejams pārtv."/>
+  <phrase i="195" t="Zvans nav pieejams pārtverei"/>
+  <phrase i="194" t="Novietoš. ligzda nav pieejama"/>
+  <phrase i="193" t="Nav mekl. grupā"/>
+  <phrase i="192" t="mGrupa"/>
+  <phrase i="191" t="Pārtv.+"/>
+  <phrase i="190" t="Maks. aizturēš. laika noildze"/>
+  <phrase i="189" t="Maksimālā zvana laika noildze"/>
+  <phrase i="188" t="VideoR"/>
+  <phrase i="187" t="Videojoslas plat. nav pieejams"/>
+  <phrase i="186" t="Drošības kļūda"/>
+  <phrase i="185" t="Numurs nav konfigurēts"/>
+  <phrase i="184" t="MCID veiksmīgs"/>
+  <phrase i="183" t="Nevar pievienot zvanus"/>
+  <phrase i="182" t="Nevar pabeigt pārsūtīšanu"/>
+  <phrase i="181" t="pApspr."/>
+  <phrase i="180" t="iPāradr"/>
+  <phrase i="179" t="Dalībn."/>
+  <phrase i="178" t="Izvēlēt."/>
+  <phrase i="177" t="TPārsūt"/>
+  <phrase i="176" t="Aizdom."/>
+  <phrase i="175" t="Kv.prob."/>
+  <phrase i="174" t="Pārslodze, mēģiniet vēlāk"/>
+  <phrase i="173" t="Pakalpojums nedarbojas"/>
+  <phrase i="172" t="Zvana novietošanas atgriešana"/>
+  <phrase i="171" t="Novietotais num. nav pieejams"/>
+  <phrase i="170" t="Neatbilstošs ierīces veids"/>
+  <phrase i="169" t="Pastāv cita iejaukšanās"/>
+  <phrase i="168" t="Nevar iestatīt iejaukšanos"/>
+  <phrase i="167" t="Iejaukš."/>
+  <phrase i="166" t="Tīkla pārblīve, pāradresācija"/>
+  <phrase i="165" t="Atzvanīt"/>
+  <phrase i="164" t="Novirz.v"/>
+  <phrase i="163" t="Netrauc."/>
+  <phrase i="162" t="NovirBP"/>
+  <phrase i="161" t="IestSar."/>
+  <phrase i="160" t="Pārtvert"/>
+  <phrase i="159" t="Novirzīt"/>
+  <phrase i="158" t="BalssPasts"/>
+  <phrase i="157" t="Izsl.pēd"/>
+  <phrase i="156" t="Nezināms numurs"/>
+  <phrase i="155" t="Nepietiekams joslas platums"/>
+  <phrase i="154" t="Privāts"/>
+  <phrase i="153" t="Novietotais numurs"/>
+  <phrase i="152" t="Apspriede"/>
+  <phrase i="151" t="Neatbilstības kļūda"/>
+  <phrase i="150" t="Nezināma kļūda"/>
+  <phrase i="149" t="Ierobežojuma kļūda"/>
+  <phrase i="148" t="Datubāzes kļūda"/>
+  <phrase i="147" t="Datubāzes konfig. kļūda"/>
+  <phrase i="146" t="Bez licences kļūda"/>
+  <phrase i="145" t="Atslēga nedarbojas"/>
+  <phrase i="144" t="Pārsniedz maks. pušu skaitu"/>
+  <phrase i="143" t="Nav informācijas par dalībnieku"/>
+  <phrase i="142" t="Jau atrodaties apspriedē"/>
+  <phrase i="141" t="Nederīgs apspriedes dalībnieks"/>
+  <phrase i="140" t="Nevar aizturēt primāro vadību"/>
+  <phrase i="139" t="Nav apspriedes tilta"/>
+  <phrase i="138" t="Nevar pabeigt apspriedes zvanu"/>
+  <phrase i="137" t="Pārsūtīts uz"/>
+  <phrase i="136" t="Jums ir balss pasta ziņojums"/>
+  <phrase i="135" t="Pagaidu datne"/>
+  <phrase i="134" t="Tikai primārais"/>
+  <phrase i="133" t="Zvans novietots"/>
+  <phrase i="132" t="Ievadiet numuru"/>
+  <phrase i="131" t="Attālināta lietošana"/>
+  <phrase i="130" t="Turpināt zvanu"/>
+  <phrase i="129" t="Zvana novietošana"/>
+  <phrase i="128" t="Zvana pārsūtīšana"/>
+  <phrase i="127" t="Zvana gaidīšana"/>
+  <phrase i="126" t="Līnija tiek izmantota"/>
+  <phrase i="125" t="Aizņemts"/>
+  <phrase i="124" t="Savienots"/>
+  <phrase i="123" t="No "/>
+  <phrase i="122" t="Izejošs zvans"/>
+  <phrase i="121" t="Noliktas klausules režīms"/>
+  <phrase i="120" t="Paceltas klausules režīms"/>
+  <phrase i="119" t="Jūsu pašreizējās iespējas"/>
+  <phrase i="118" t="Pārtv.Gr"/>
+  <phrase i="117" t="Pārtvert"/>
+  <phrase i="116" t="Satikt."/>
+  <phrase i="115" t="Pievien."/>
+  <phrase i="114" t="Novietot"/>
+  <phrase i="113" t="Apspr"/>
+  <phrase i="112" t="Inform."/>
+  <phrase i="111" t="Atbildēt"/>
+  <phrase i="110" t="Atjaun."/>
+  <phrase i="109" t="BeigtZv"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="Pāradresēt, ja neatbild"/>
+  <phrase i="106" t="Pāradresēt, ja aizņemts"/>
+  <phrase i="105" t="Pāradr."/>
+  <phrase i="104" t="Pārsūtīt"/>
+  <phrase i="103" t="Aizturēt"/>
+  <phrase i="102" t="JaunsZv"/>
+  <phrase i="101" t="SastVēlr"/>
+  <phrase i="65" t="Nevar nosūtīt zvanu uz līdznēsājamo tālruni"/>
+  <phrase i="64" t="Nevar atgūt novietoto zvanu"/>
+  <phrase i="63" t="Iespēja Satikt. nav pieejama"/>
+  <phrase i="62" t="Iespēja Apspriede nav pieejama"/>
+  <phrase i="61" t="Iespēja Pārtvere nav pieejama"/>
+  <phrase i="60" t="SaīsinNr"/>
+  <phrase i="59" t="Pārsniegti pāradr. lēkumi"/>
+  <phrase i="58" t="Noteikts pāradr. cikls"/>
+  <phrase i="57" t="Režīms Netraucēt darbojas"/>
+  <phrase i="56" t="Netraucēt"/>
+  <phrase i="55" t="Lai pab., izm. Līnija vai Piev."/>
+  <phrase i="54" t="Meklēšanas grupa"/>
+  <phrase i="53" t="Kvalitātes atskaites rīks"/>
+  <phrase i="52" t="Apspriedes saraksts"/>
+  <phrase i="51" t="Beigt zvanu"/>
+  <phrase i="50" t="Videoattēls"/>
+  <phrase i="49" t="Pārtvert citu"/>
+  <phrase i="48" t="Dzēst pēdējo dalībnieku"/>
+  <phrase i="47" t="Grupas pārtveršana"/>
+  <phrase i="46" t="Kļūdains zvana ID"/>
+  <phrase i="45" t="Pāradresēt visus"/>
+  <phrase i="44" t="Čukstus"/>
+  <phrase i="43" t="Mobilit"/>
+  <phrase i="42" t="Neaktīva ierakstes sesija"/>
+  <phrase i="41" t="Atskaņo"/>
+  <phrase i="40" t="Atskaņošana gaida zvanu"/>
+  <phrase i="39" t="Pārraudzība"/>
+  <phrase i="38" t="Nepilnvarota ierīce"/>
+  <phrase i="37" t="Nav resursu"/>
+  <phrase i="36" t="Neveiksmīga iestatīšana"/>
+  <phrase i="35" t="Aiztures pārskatīšana"/>
+  <phrase i="34" t="Zvans aizturēts"/>
+  <phrase i="33" t="Nav gatavs"/>
+  <phrase i="32" t="Gatavs"/>
+  <phrase i="31" t="Pievienoties Meklēšanas grupai"/>
+  <phrase i="30" t="Zvans(-i) rindā"/>
+  <phrase i="29" t="Meklēšanas rezultāti"/>
+  <phrase i="28" t="Neviens ieraksts netika atrasts"/>
+  <phrase i="27" t="Ieraksti 1 līdz"/>
+  <phrase i="26" t="no"/>
+  <phrase i="25" t="Lūdzu, ievadiet PIN"/>
+  <phrase i="24" t="Nepareizs PIN"/>
+  <phrase i="23" t="Veiksmīga pieteikšanās"/>
+  <phrase i="22" t="Nakts pakalpojums atspējots"/>
+  <phrase i="21" t="Nakts pakalpojums darbojas"/>
+  <phrase i="20" t="Nakts pakalpojums"/>
+  <phrase i="19" t="Ievadiet meklēšanas kritērijus"/>
+  <phrase i="18" t="Vietējie pakalpojumi"/>
+  <phrase i="17" t="Izvēlēties pakalpojumu"/>
+  <phrase i="16" t="Pārsūtīšanas adresāts aizņemts"/>
+  <phrase i="15" t="Izvēlēties līniju"/>
+  <phrase i="14" t="Lapošana"/>
+  <phrase i="13" t="Lūdzu, beidziet zvanu"/>
+  <phrase i="12" t="Gaida atgriešanos"/>
+  <phrase i="11" t="Maks. tālr. skaits pārsniegts"/>
+  <phrase i="10" t="ZP atkāpšanās pakalp. darbojas"/>
+  <phrase i="9" t="Zvans(i) pieejams(i)  pārtv."/>
+  <phrase i="8" t="Ievadiet klienta satura kodu"/>
+  <phrase i="7" t="Ievadiet pilnvarojuma kodu"/>
+  <phrase i="6" t="Ierīce viesabonēšanas vietā"/>
+  <phrase i="5" t="Ierīce mājas vietā"/>
+  <phrase i="4" t="Pieteikšanās"/>
+  <phrase i="3" t="Zibatmiņa"/>
+  <phrase i="2" t="Konts"/>
+</phrases>

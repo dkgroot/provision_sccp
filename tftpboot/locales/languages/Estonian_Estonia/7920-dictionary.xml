@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Estonian_Estonia</trkLocaleName>
+<trkBaseClearcaseVersion>/main/4.0.1.release/2</trkBaseClearcaseVersion>
+<trkTranslationVersion>0</trkTranslationVersion>
+<phrase i="650" t="Varustamine"/>
+<phrase i="649" t="Konfiguratsioon"/>
+<phrase i="648" t="Eesõiguseta kõne"/>
+<phrase i="647" t="Eesõigusega kõne"/>
+<phrase i="646" t="RTP URI"/>
+<phrase i="645" t="Automaatvalimine katkestatud"/>
+<phrase i="644" t="      Halda praegust kõnet..."/>
+<phrase i="643" t="Kustuta kõik"/>
+<phrase i="642" t="Hargilt maas"/>
+<phrase i="641" t="Hoiatuse helitugevus"/>
+<phrase i="640" t="CCM seadistamine"/>
+<phrase i="639" t="Ainult piiks"/>
+<phrase i="638" t="Helina seaded"/>
+<phrase i="637" t="Hoiatuse uuesti ettemängimine"/>
+<phrase i="636" t="Rändluse piiramine"/>
+<phrase i="635" t="Staatiline"/>
+<phrase i="634" t="Automaatne"/>
+<phrase i="633" t="Rändasukoha algoritm"/>
+<phrase i="632" t="UDI"/>
+<phrase i="631" t="Viimane ülevaloleku aeg"/>
+<phrase i="630" t="Jadaport"/>
+<phrase i="629" t="Automaatne 60 s"/>
+<phrase i="628" t="Automaatne 30 s"/>
+<phrase i="627" t="Automaatne 15 s"/>
+<phrase i="626" t="Automaatne klahvilukk"/>
+<phrase i="625" t="NLP aktiveerimine/mitte-aktiveerimine"/>
+<phrase i="624" t="Hääletu välja"/>
+<phrase i="623" t="Hääletu sisse"/>
+<phrase i="622" t="Peakomplekt"/>
+<phrase i="621" t="Kõlar"/>
+<phrase i="620" t="Väljund"/>
+<phrase i="619" t="Ere laser"/>
+<phrase i="618" t="IP"/>
+<phrase i="617" t="Vale kasutajanimi"/>
+<phrase i="616" t="Kehtetu kasutajanimi ja parool"/>
+<phrase i="615" t="HTML sisutüüp"/>
+<phrase i="614" t="Sisemine serveri tõrge"/>
+<phrase i="613" t="Vale sisutüüp"/>
+<phrase i="612" t="XML sõelumistõrge"/>
+<phrase i="611" t="Päring vajab kinnitamist"/>
+<phrase i="610" t="Hosti ei leitud"/>
+<phrase i="609" t="Päringu vastuses ilmnes tõrge"/>
+<phrase i="608" t="Päring katkestati"/>
+<phrase i="607" t="Maksimaalne värin"/>
+<phrase i="606" t="Keskmine värin"/>
+<phrase i="605" t="Vastuvõetud baidid"/>
+<phrase i="604" t="Saadetud baidid"/>
+<phrase i="603" t="Kaotsi läinud paketid"/>
+<phrase i="602" t="Vastu võetud paketid"/>
+<phrase i="601" t="Saadetud paketid"/>
+<phrase i="600" t="VQStats saamine ebaõnnestus"/>
+<phrase i="599" t="Statistika puudub"/>
+<phrase i="598" t="Varja keskmist"/>
+<phrase i="597" t="Varja maksimaalne"/>
+<phrase i="596" t="Varja praegune"/>
+<phrase i="595" t="Maksimaalne Mos"/>
+<phrase i="594" t="Minimaalne Mos"/>
+<phrase i="593" t="Keskmine Mos"/>
+<phrase i="592" t="Mos"/>
+<phrase i="591" t="Kõne Ref"/>
+<phrase i="590" t="Kõne statistika"/>
+<phrase i="589" t="XML"/>
+<phrase i="588" t="Sisemine"/>
+<phrase i="587" t="Font"/>
+<phrase i="586" t="Parkimisnumber"/>
+<phrase i="585" t="Reþiim"/>
+<phrase i="584" t="EAP-FAST PAC varustamine"/>
+<phrase i="583" t="Ei kata"/>
+<phrase i="582" t="Katmishoiatus"/>
+<phrase i="581" t="Parkimisnumber:"/>
+<phrase i="580" t="Uuenda"/>
+<phrase i="579" t="Välju"/>
+<phrase i="578" t="XML objekt - "/> 
+<phrase i="577" t="Ilma toeta XML objekt"/> 
+<phrase i="576" t="Päring luhtus"/>
+<phrase i="575" t="Eesmärk %s"/>
+<phrase i="574" t=" %s võrra"/>
+<phrase i="573" t="Kellelt: %s"/>
+<phrase i="572" t="Kellele: %s"/>
+<phrase i="571" t="KH kiirusealand. teenus töötab"/>
+<phrase i="570" t="valju"/>
+<phrase i="569" t="(C)"/>
+<phrase i="568" t="SISESIDE"/>
+<phrase i="567" t="      Päring"/>
+<phrase i="566" t="* : vastust pole"/>
+<phrase i="565" t="Edasta"/>          
+<phrase i="564" t="(Tundmatu number)"/>
+<phrase i="563" t="Edasta "/>
+<phrase i="562" t="Kellele "/>
+<phrase i="561" t="Kellelt "/>
+<phrase i="560" t="Laupäev"/>
+<phrase i="559" t="Reede"/>
+<phrase i="558" t="Neljapäev"/>
+<phrase i="557" t="Kolmapäev"/>
+<phrase i="556" t="Teisipäev"/>           
+<phrase i="555" t="Esmaspäev"/>
+<phrase i="554" t="Pühapäev"/>
+<phrase i="553" t="Tundmatult numbrilt"/>
+<phrase i="552" t="Väline kõne"/>
+<phrase i="551" t="Privaatkõne"/> 
+<phrase i="550" t="Tundmatu number"/>
+<phrase i="549" t="Sisesta kasutajanime parool"/>
+<phrase i="548" t="Teave"/>           
+<phrase i="547" t="*PEALKIRI*"/>
+<phrase i="546" t="(CM Cmd)"/>
+<phrase i="545" t="(Mgt Cmd)"/>
+<phrase i="544" t="(Värskendamine OK)"/>
+<phrase i="543" t="MP pooleli..."/>
+<phrase i="542" t="HTTP-päring katkestatud"/> 
+<phrase i="541" t="Ebaõnnestus!"/> 
+<phrase i="540" t="Ületäitumine!"/> 
+<phrase i="539" t="Puhver"/> 
+<phrase i="538" t="Sõelub XML-i"/> 
+<phrase i="537" t="Vastuvõtu tõrge!"/> 
+<phrase i="536" t="EAP ebaõnnestus võrgu piirang 1 min"/> 
+<phrase i="535" t="on vale"/>                      
+<phrase i="534" t="Keela WEP"/> 
+<phrase i="533" t="Dubleeritud!"/> 
+<phrase i="532" t="Ei saa olla tühi"/> 
+<phrase i="531" t="Võrk hõivatud!"/> 
+<phrase i="530" t="USB ei ole aktiveeritud!"/> 
+<phrase i="529" t="Vale IP!"/> 
+<phrase i="528" t="Saatmine õnnestus!"/> 
+<phrase i="527" t="Klahv lukus!"/> 
+<phrase i="526" t="Registreerimine tagasi lükatud"/> 
+<phrase i="525" t="Teenus puudub"/>                      
+<phrase i="524" t="Võrk hõivatud"/> 
+<phrase i="523" t="Ühendamine kõnehalduriga ebaõnnestus"/> 
+<phrase i="522" t="TFTP ebaõnnestus"/> 
+<phrase i="521" t="TFTP ei vasta"/> 
+<phrase i="520" t="TFTP-server puudub"/> 
+<phrase i="519" t="IP konfigureerimine ebaõnnestus"/> 
+<phrase i="518" t="Vastamata kõned"/> 
+<phrase i="517" t="sisestage kõigepealt võtmesõna!"/> 
+<phrase i="516" t="Aktiveeri WEP"/> 
+<phrase i="515" t="Teile on kõnepost"/>                      
+<phrase i="514" t="SSID vajalik"/> 
+<phrase i="513" t="Võrku pole"/> 
+<phrase i="512" t="Laadimise ID allalaadimine"/> 
+<phrase i="511" t="AP ei leitud"/> 
+<phrase i="510" t="Kõnehaldurit ei leitud"/> 
+<phrase i="509" t="Nõrk signaal vastu võetud"/> 
+<phrase i="508" t="kõne ajal"/> 
+<phrase i="507" t="Funktsioon ei ole aktiveeritud"/> 
+<phrase i="506" t="IP-aadress"/> 
+<phrase i="505" t="Duplikaat"/> 
+<phrase i="504" t="Kõnehaldurisse registreerimine"/> 
+<phrase i="503" t="Kinnitamine OK"/> 
+<phrase i="502" t="Ühendamine OK"/> 
+<phrase i="501" t="Kõnehaldur maas"/>
+<phrase i="500" t="Valige toon"/> 
+<phrase i="499" t="Sisestage telefoni parool"/> 
+<phrase i="498" t="Valmis"/> 
+<phrase i="497" t="Laadimine"/> 
+<phrase i="496" t="Aku"/> 
+<phrase i="495" t="Vali sümbol"/> 
+<phrase i="494" t="DHCP ei ole aktiveeritud"/>                       
+<phrase i="493" t="DHCP aktiveeritud"/> 
+<phrase i="492" t="Pole ühendatud"/> 
+<phrase i="491" t="Levialast väljas"/> 
+<phrase i="490" t="Seadistuse tõrge!"/> 
+<phrase i="489" t="Stopp"/> 
+<phrase i="488" t="Sisesta Trace Route IP"/> 
+<phrase i="487" t="Serveri tõrge!"/> 
+<phrase i="486" t="Helina fail puudub!"/> 
+<phrase i="485" t="Vali kiirvalimine"/> 
+<phrase i="484" t="Vale väärtus!"/>                      
+<phrase i="483" t="Vaikimisi?"/> 
+<phrase i="482" t="Taasta"/> 
+<phrase i="481" t="Palun oodake"/> 
+<phrase i="480" t="Andmed taastatud"/> 
+<phrase i="479" t="Uus"/> 
+<phrase i="478" t="Mälu täis!"/> 
+<phrase i="477" t="Kustuta kirje?"/> 
+<phrase i="476" t="Vajalik"/> 
+<phrase i="475" t="Telefoni number"/> 
+<phrase i="474" t="Kirje salvestatud..."/>                       
+<phrase i="473" t="Parooli tõrge"/> 
+<phrase i="472" t="Sisesta EAP kasutajanimi"/> 
+<phrase i="471" t="Sisesta EAP parool"/> 
+<phrase i="470" t="Liin on hõivatud"/> 
+<phrase i="469" t="Vibreerimine väljas"/> 
+<phrase i="468" t="Vibreerimine sees"/> 
+<phrase i="467" t="Klahvilukk väljas?"/> 
+<phrase i="466" t="Klahvilukk sees"/> 
+<phrase i="465" t="Aku tühjeneb"/> 
+<phrase i="464" t="Kõnehalduriga registreerimine ebaõnnestus"/>                       
+<phrase i="463" t="Ühendamine kõnehalduriga ebaõnnestus"/> 
+<phrase i="462" t="Püsivara värskendamine ebaõnnestus"/> 
+<phrase i="461" t="Püsivara värskendamine"/> 
+<phrase i="460" t="DHCP-päring ebaõnnestus"/> 
+<phrase i="459" t="EAP kinnitamine ebaõnnestus"/> 
+<phrase i="458" t="EAP kinnitamine OK"/> 
+<phrase i="457" t="Autentimine ebaõnnestus"/> 
+<phrase i="456" t="Ühendamine ebaõnnestus"/> 
+<phrase i="455" t="Kõnehalduriga ühendamine"/> 
+<phrase i="454" t="TFTP-ga ühendamine"/>                       
+<phrase i="453" t="Konfiguratsioonifaili allalaadimine"/> 
+<phrase i="452" t="IP-võrgu konfigureerimine ebaõnnestus"/> 
+<phrase i="451" t="IP-võrgu konfigureerimine"/> 
+<phrase i="450" t="EAP kinnitamine"/> 
+<phrase i="449" t="AP-ga ühendamine"/> 
+<phrase i="448" t="AP-ga kinnitamine"/> 
+<phrase i="447" t="Toide maas"/> 
+<phrase i="446" t="Toide olemas"/> 
+<phrase i="445" t="Ootele"/> 
+<phrase i="444" t="Helista välja"/>                      
+<phrase i="443" t="Ühendatud"/> 
+<phrase i="442" t="Kellelt"/> 
+<phrase i="441" t="Valimiseks sisesta number"/> 
+<phrase i="440" t="Teie praegused suvandid"/> 
+<phrase i="439" t="Teenused"/>
+<phrase i="438" t="Lühend"/>           
+<phrase i="437" t="Teenused"/>
+<phrase i="436" t="Kasuta"/>
+<phrase i="435" t="Kiirvalimine"/>
+<phrase i="434" t="Uuenda"/>
+<phrase i="433" t="LõpKõne"/>
+<phrase i="432" t="Muuda nr"/>
+<phrase i="431" t="Ok"/>
+<phrase i="430" t="Lähtesta"/>
+<phrase i="429" t="Esita"/>
+<phrase i="428" t="Loobu"/>           
+<phrase i="427" t="Muuda"/>
+<phrase i="426" t="Kustuta"/>
+<phrase i="425" t="Lisa"/>
+<phrase i="424" t="Üksikasjad"/>
+<phrase i="423" t="Pane toru hargile"/>
+<phrase i="422" t="Helitugevus"/>
+<phrase i="421" t="Hääletu"/>
+<phrase i="420" t="Vasta"/>
+<phrase i="419" t="Redigeeri nr"/>
+<phrase i="418" t="Tagasi"/>
+<phrase i="417" t="Vali"/>
+<phrase i="416" t="Tühjenda"/> 
+<phrase i="415" t="Salvesta"/> 
+<phrase i="414" t="Telefoniraamat"/>                       
+<phrase i="413" t="Menüü"/> 
+<phrase i="412" t="Rakendamata URL"/> 
+<phrase i="411" t="SSID 4"/> 
+<phrase i="410" t="SSID 3"/> 
+<phrase i="409" t="SSID 2"/> 
+<phrase i="408" t="SSID 1"/> 
+<phrase i="407" t="Telefoni lähtestamine"/>
+<phrase i="406" t="Hüppa: "/>
+<phrase i="405" t="Trace Route"/> 
+<phrase i="404" t="CDP TX intervall"/> 
+<phrase i="403" t="CDP TTL"/> 
+<phrase i="402" t="CDP TX aktiveerimine/mitte-aktiveerimine"/> 
+<phrase i="401" t="Pole saadaval"/>
+<phrase i="400" t="Praegune Tx toide"/> 
+<phrase i="399" t="HÜPE"/>
+<phrase i="398" t="EAP-FAST"/>
+<phrase i="397" t="EAP reþiim"/>
+<phrase i="396" t="TKIP"/> 
+<phrase i="395" t="WEP 128"/> 
+<phrase i="394" t="WEP 40"/> 
+<phrase i="393" t="Multiedastus"/> 
+<phrase i="392" t="Üksikedastus"/> 
+<phrase i="391" t="Ðiffer kasutuses"/> 
+<phrase i="390" t="CCKM"/> 
+<phrase i="389" t="WPA"/> 
+<phrase i="388" t="Klahvihaldus kasutuses"/> 
+<phrase i="387" t="Praegune võrguprofiil"/> 
+<phrase i="386" t="Praegune kasutajaprofiil"/>                       
+<phrase i="385" t="Infrastruktuuri reþiim"/> 
+<phrase i="384" t="Võrgutüüp"/> 
+<phrase i="383" t="Ühendatud AP SSID"/> 
+<phrase i="382" t="Ühendatud AP MAC"/> 
+<phrase i="381" t="ED reþiimi lävi"/> 
+<phrase i="380" t="CS1 või SQ1"/> 
+<phrase i="379" t="ED ja (CS1 või SQ1)"/> 
+<phrase i="378" t="ED reþiim"/> 
+<phrase i="377" t="CCA reþiim"/> 
+<phrase i="376" t="CCA seadistamine"/>                       
+<phrase i="375" t="I_channel loend"/> 
+<phrase i="374" t="O_channel loend"/> 
+<phrase i="373" t="N_channel loend"/> 
+<phrase i="372" t="A_channel loend"/> 
+<phrase i="371" t="Kanalivahetus"/> 
+<phrase i="370" t="Passiivse skannimise aeg"/> 
+<phrase i="369" t="Aktiivse skannimise aeg"/> 
+<phrase i="368" t="I_channel skannimissagedus"/> 
+<phrase i="367" t="O_channel skannimissagedus"/> 
+<phrase i="366" t="N_channel skannimissagedus"/> 
+<phrase i="365" t="A_channel skannimissagedus"/> 
+<phrase i="364" t="O_channel RSSI lävi"/> 
+<phrase i="363" t="QBSS Diff lävi"/> 
+<phrase i="362" t="RSSI Diff lävi"/> 
+<phrase i="361" t="QBSS lävi"/> 
+<phrase i="360" t="RSSI lävi"/> 
+<phrase i="359" t="Kanali parandamine"/> 
+<phrase i="358" t="Skanni"/> 
+<phrase i="357" t="Rändlus"/> 
+<phrase i="356" t="Traadita ühenduse seaded"/> 
+<phrase i="355" t="Tühi"/>
+<phrase i="354" t="CU"/> 
+<phrase i="353" t="MAC"/> 
+<phrase i="352" t="RSSI"/>
+<phrase i="351" t="Kanal"/>           
+<phrase i="350" t="Saidi ülevaade"/> 
+<phrase i="349" t="MAC-aadress"/> 
+<phrase i="348" t="Kõnehalduri %d:"/>
+<phrase i="347" t="puudub"/>
+<phrase i="346" t="Sekundaarne DNS:"/>
+<phrase i="345" t="Primaarne DNS:"/>
+<phrase i="344" t="Primaarne TFTP:"/>
+<phrase i="343" t="Primaarne lüüs:"/>
+<phrase i="342" t="Hostinimi:"/>
+<phrase i="341" t="Alamvõrgu mask:"/>         
+<phrase i="340" t="IP-aadress:"/>
+<phrase i="339" t="DHCP-server:"/>
+<phrase i="338" t=" Ei"/>
+<phrase i="337" t=" JAH"/>
+<phrase i="336" t="DHCP aktiveerimine:"/>
+<phrase i="335" t="Praegune konfiguratsioon"/> 
+<phrase i="334" t="CM-i tarkvaraklahv"/>            
+<phrase i="333" t="Helista"/> 
+<phrase i="332" t="Rakendamata"/> 
+<phrase i="331" t="Tarkvaraklahvi seaded"/> 
+<phrase i="330" t="WLAN-i kaudu TFTP-sse"/> 
+<phrase i="329" t="USB kaudu TFTP-sse"/> 
+<phrase i="328" t="Telefoni logi"/> 
+<phrase i="327" t="WDog aktiveerimine/mitte-aktiveerimine"/> 
+<phrase i="326" t="Energiasäästmine"/> 
+<phrase i="325" t="Tehaseseadistus"/> 
+<phrase i="324" t="USB aktiveerimine/mitte-aktiveerimine"/> 
+<phrase i="323" t="Sees/väljas"/> 
+<phrase i="322" t="Telefonilukk"/> 
+<phrase i="321" t="Taustavalgustus"/> 
+<phrase i="320" t="Tervitus"/> 
+<phrase i="319" t="Tervitustekst"/> 
+<phrase i="318" t="Inglise keel"/> 
+<phrase i="317" t="Keel"/> 
+<phrase i="316" t="Ootel"/> 
+<phrase i="315" t="Helinatooni allalaadimine"/> 
+<phrase i="314" t="Siuts 2"/> 
+<phrase i="313" t="Siuts 1"/> 
+<phrase i="312" t="Vaikeseade helinatoon"/> 
+<phrase i="311" t="Vali helinatoon"/> 
+<phrase i="310" t="Helinatoonid"/> 
+<phrase i="309" t="Domeen"/> 
+<phrase i="308" t="Riistvara teave"/> 
+<phrase i="307" t="Bsp laadimise ID"/> 
+<phrase i="306" t="Buutimise laadimise ID"/> 
+<phrase i="305" t="Püsivara versioon"/> 
+<phrase i="304" t="Püsivara teave"/> 
+<phrase i="303" t="Kordusvalimiste arv: "/> 
+<phrase i="302" t="Ack ebaõnnestus: "/> 
+<phrase i="301" t="Tx ebaõnnestus: "/>
+<phrase i="300" t="Ülekande Rx: "/> 
+<phrase i="299" t="Vananenud paketid: "/> 
+<phrase i="298" t="Rx paketid: "/> 
+<phrase i="297" t="Tx paketid: "/> 
+<phrase i="296" t="Ülevaloleku aeg: "/> 
+<phrase i="295" t="Võrgustatistika"/> 
+<phrase i="294" t="Praegune konfiguratsioonifail"/> 
+<phrase i="293" t="Telefoni olek"/> 
+<phrase i="292" t="Modifitseeri"/> 
+<phrase i="291" t="Muuda profiili nime"/> 
+<phrase i="290" t="100 mW"/> 
+<phrase i="289" t="50 mW"/> 
+<phrase i="288" t="20 mW"/> 
+<phrase i="287" t="5 mW"/> 
+<phrase i="286" t="1 mW"/> 
+<phrase i="285" t="Vooluülekanne"/> 
+<phrase i="284" t="11 Mb"/> 
+<phrase i="283" t="5,5 Mb"/> 
+<phrase i="282" t="2 Mb"/> 
+<phrase i="281" t="1 Mb"/>
+<phrase i="280" t="Automaatne"/> 
+<phrase i="279" t="Maksimaalne andmekiirus"/> 
+<phrase i="278" t="128 bitti"/> 
+<phrase i="277" t="40 bitti"/> 
+<phrase i="276" t="Puudub"/> 
+<phrase i="275" t="Wep võtme seaded"/> 
+<phrase i="274" t="Wep võti 4"/> 
+<phrase i="273" t="Wep võti 3"/> 
+<phrase i="272" t="Wep võti 2"/> 
+<phrase i="271" t="Wep võti 1"/> 
+<phrase i="270" t="Krüpteerimine"/> 
+<phrase i="269" t="ASCII"/> 
+<phrase i="268" t="Kuueteistkümnendik"/> 
+<phrase i="267" t="WPA eeljagatud võti"/> 
+<phrase i="266" t="Viipreþiim"/> 
+<phrase i="265" t="Parool"/> 
+<phrase i="264" t="Kasutajanimi"/> 
+<phrase i="263" t="AKM"/> 
+<phrase i="262" t="EAP"/>
+<phrase i="261" t="Jagatud võti"/> 
+<phrase i="260" t="Ava"/> 
+<phrase i="259" t="Kinnitamine"/> 
+<phrase i="258" t="Täpsusta"/> 
+<phrase i="257" t="Iga"/> 
+<phrase i="256" t="SSID"/> 
+<phrase i="255" t="802.11b konfigureerimine"/> 
+<phrase i="254" t="Kasuta staatilist"/> 
+<phrase i="253" t="Kasuta DHCP-d"/> 
+<phrase i="252" t="TFTP suvand"/> 
+<phrase i="251" t="Sekundaarne DNS-server"/> 
+<phrase i="250" t="Primaarne DNS-server"/> 
+<phrase i="249" t="Primaarne TFTP-server"/> 
+<phrase i="248" t="Primaarne lüüs"/> 
+<phrase i="247" t="Alamvõrgu mask"/> 
+<phrase i="246" t="IP-aadress"/> 
+<phrase i="245" t="Staatilisuse seaded"/> 
+<phrase i="244" t="Keela"/> 
+<phrase i="243" t="Luba"/> 
+<phrase i="242" t="DHCP aktiveerimine/mitte-aktiveerimine"/> 
+<phrase i="241" t="Rakenda muudatus"/> 
+<phrase i="240" t="Automaatne"/> 
+<phrase i="239" t="Võrguprofiil"/> 
+<phrase i="238" t="Vibratsioon"/> 
+<phrase i="237" t="Toon"/> 
+<phrase i="236" t="Välja"/> 
+<phrase i="235" t="Sisse"/> 
+<phrase i="234" t="Hoiatusstiil"/> 
+<phrase i="233" t="Klaviatuuri toonid"/> 
+<phrase i="232" t="Vibreeriv kõne märguanne"/> 
+<phrase i="231" t="Sissetuleva kõne märguanne"/> 
+<phrase i="230" t="Helina tugevus"/> 
+<phrase i="229" t="Valjuhääldi helitugevus"/> 
+<phrase i="228" t="Aktiveeri"/> 
+<phrase i="227" t="Õues"/> 
+<phrase i="226" t="Koosolek"/> 
+<phrase i="225" t="Vaikne"/> 
+<phrase i="224" t="Tavaline"/> 
+<phrase i="223" t="Kasutaja profiil"/>
+<phrase i="222" t="Kustuta kõnelogi"/> 
+<phrase i="221" t="Tehtud kõned"/> 
+<phrase i="220" t="Vastatud kõned"/> 
+<phrase i="219" t="Vastamata kõned"/> 
+<phrase i="218" t="Kõnepostkast"/> 
+<phrase i="217" t="Ühendkataloog"/> 
+<phrase i="216" t="E-posti aadress"/> 
+<phrase i="215" t="Mobiiltelefoni number"/> 
+<phrase i="214" t="Kodune telefoninumber"/> 
+<phrase i="213" t="Kontori telefoninumber"/> 
+<phrase i="212" t="Nimi"/> 
+<phrase i="211" t="Kiirvalimine"/> 
+<phrase i="210" t="Lisa"/> 
+<phrase i="209" t="Nimed"/> 
+<phrase i="208" t="Telefoniraamat"/> 
+<phrase i="207" t="Võrgu konfigureerimine"/>
+<phrase i="206" t="Telefoni seaded"/> 
+<phrase i="205" t="Teenused"/> 
+<phrase i="204" t="Profiilid"/> 
+<phrase i="203" t="Kõnelogi"/> 
+<phrase i="202" t="Sõnumid"/> 
+<phrase i="201" t="Kataloog"/> 
+</phrases>

@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Slovak_Slovakia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <phrase i="1055" t="Prihlási»"/>
+  <phrase i="1054" t="Flash"/>
+  <phrase i="1053" t="Úèet"/>
+  <phrase i="1052" t="Resetova» v¹. nast. systému"/>
+  <phrase i="1051" t="na východiskové hodnoty?"/>
+  <phrase i="1050" t="Slu¾by adresára"/>
+  <phrase i="1049" t="Slu¾by XML"/>
+  <phrase i="1048" t="Prebieha pripájanie k serveru"/>
+  <phrase i="1047" t="Spojenie zlyhalo"/>
+  <phrase i="1046" t="Chcete re¹tartova» telefón?"/>
+  <phrase i="1045" t="PONUKA"/>
+  <phrase i="1044" t="Jazyk"/>
+  <phrase i="1043" t="Alternatívna doména"/>
+  <phrase i="1042" t="Alternatívny server DNS"/>
+  <phrase i="1041" t="Aktuálna hodnota"/>     
+  <phrase i="1040" t="Nová hodnota"/>   
+  <phrase i="1039" t="Východisková brána"/>
+  <phrase i="1038" t="Sie» VLAN povolená"/>
+  <phrase i="1037" t="Protokol CDP povolený"/>
+  <phrase i="1036" t="Slu¾by"/>
+  <phrase i="1035" t="Rýchla voµba"/>
+  <phrase i="1034" t="Zadajte server"/>
+  <phrase i="1033" t="Statický"/>
+  <phrase i="1032" t="Re¾im registrácie"/>     
+  <phrase i="1031" t="Re¾im"/>   
+  <phrase i="1030" t="Star¹í re¾im"/>
+  <phrase i="1029" t="Nová verzia firmvéru"/>   
+  <phrase i="1028" t="Ponuka kontrastu"/>
+  <phrase i="1027" t="Zmeni» heslo správcu"/>  
+  <phrase i="1026" t="Nie je k dispozícii"/>
+  <phrase i="1025" t="Vzorový text"/>     
+  <phrase i="1024" t="Inovuje sa"/>   
+  <phrase i="1023" t="Zadajte nové heslo"/>
+  <phrase i="1022" t="Správy"/>
+  <phrase i="1021" t="Nastavenia"/>     
+  <phrase i="1020" t="Adresáre"/>   
+  <phrase i="1019" t="Nesprávne heslo"/>  
+  <phrase i="1018" t="Zadajte heslo správcu"/> 
+  <phrase i="1017" t="Neplatná vstupná hodnota"/> 
+  <phrase i="1016" t="RÝCHLA VO¥BA"/>   
+  <phrase i="1015" t="Sie» Ethernet bola odpojená"/>     
+  <phrase i="1014" t="Konfigurácia cez TFTP"/>   
+  <phrase i="1013" t="Konfigurácia IP cez DHCP"/>
+  <phrase i="1012" t="Konfigurácia siete VLAN"/>   
+  <phrase i="1011" t="Èíslo nie je k dispozícii"/> 
+  <phrase i="1010" t="Nepriradené"/> 
+  <phrase i="1009" t="Hlasitos» zvonenia"/> 
+  <phrase i="1008" t="Hlasitos» slúchadla"/> 
+  <phrase i="1007" t="Hlasitos» reproduktora"/> 
+  <phrase i="1006" t="Opakova»"/> 
+  <phrase i="1005" t="Zada»"/> 
+  <phrase i="1004" t="Alfanum"/> 
+  <phrase i="1003" t="VypMon"/>
+  <phrase i="1002" t="Monitor"/>
+  <phrase i="1001" t="Èíslo"/> 
+  <phrase i="1000" t="Správa"/> 
+  <phrase i="715" t="vypnutý"/>
+  <phrase i="714" t="Operácia bola zru¹ená"/>
+  <phrase i="713" t="TFTP neautorizované: %s"/>
+  <phrase i="712" t="Vymaza»"/>
+  <phrase i="711" t="©ifrované"/>
+  <phrase i="710" t="Overené"/>
+  <phrase i="709" t="Nezabezpeèené"/>
+  <phrase i="708" t="Chyba TLS na "/>
+  <phrase i="707" t="Webový prístup povolený"/>
+  <phrase i="706" t="Re¾im zabezpeèenia zariadenia"/>
+  <phrase i="704" t="Nepl. vstup alebo ¾iadne info."/>
+  <phrase i="703" t="Nepodarilo sa generova» kµúèe"/>
+  <phrase i="701" t="Chyba"/>
+  <phrase i="700" t="Èasový limit"/>
+  <phrase i="699" t="Úspe¹né"/>
+  <phrase i="697" t="Spájanie..."/>
+  <phrase i="690" t="DSCP pre slu¾by"/>
+  <phrase i="689" t="DSCP pre konfiguráciu"/>
+  <phrase i="688" t="DSCP pre riadenie hovorov"/>
+  <phrase i="683" t="Hlasová sie» VLAN povolená"/>
+  <phrase i="682" t="Protokol GARP povolený"/>
+  <phrase i="678" t="o %s"/>
+  <phrase i="677" t="Presmerované"/>
+  <phrase i="676" t="SkrVoµb"/>
+  <phrase i="675" t="®iados» o stav slu¾by XML"/>
+  <phrase i="674" t="®iados» o stav funkè. klávesu"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="Poè. nových zme¹k. hovor.: %d"/>
+  <phrase i="670" t="Východiskové zvonenie"/>
+  <phrase i="669" t="Vyberte linku..."/>
+  <phrase i="668" t="Upravi» volanie"/>  
+  <phrase i="667" t="Telefón - zru¹i»"/>
+  <phrase i="666" t="Verzia miest. nastavení siete"/>
+  <phrase i="665" t="Verzia miest. nastav. pou¾ív."/>
+  <phrase i="664" t="®iados» TFTP bola zru¹ená"/>
+  <phrase i="663" t="DHCP vypnuté"/>
+  <phrase i="662" t="Vy¾aduje sa adresa IP"/> 
+  <phrase i="661" t="Stav "/>
+  <phrase i="660" t="Predvol."/>
+  <phrase i="659" t="Èakajúca správa"/>
+  <phrase i="658" t="Re¾im slúchadla"/>
+  <phrase i="657" t="Èíslo modelu"/>
+  <phrase i="656" t="Zobrazi» informácie o modeli"/>
+  <phrase i="655" t="Informácie o modeli"/>
+  <phrase i="654" t="Stav linky "/>
+  <phrase i="644" t="Informácie o hardvéri"/>
+  <phrase i="643" t="Verzia TFTP"/>
+  <phrase i="642" t="Informácie o verzii"/>
+  <phrase i="641" t="Neèinné"/>
+  <phrase i="640" t="Nie je podporované"/>
+  <phrase i="639" t="Chyba pri aktual. miest. nast."/>
+  <phrase i="638" t="Èaká sa na odp. stavu %d z %s"/>
+  <phrase i="637" t="Èaká sa na %s z %s"/>
+  <phrase i="636" t="Server BOOTP"/>
+  <phrase i="635" t="Server DHCP"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="Revízia C3PO"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Sériové èíslo"/>
+  <phrase i="626" t="Revízia hardvéru"/>
+  <phrase i="625" t="ID zavedenia systému"/>
+  <phrase i="624" t="ID zavedenia aplikácie"/>
+  <phrase i="623" t="Èíslo v tel. adresári"/>
+  <phrase i="610" t="Viac"/>
+  <phrase i="609" t="Vybra»"/>
+  <phrase i="608" t="Skonèi»"/>
+  <phrase i="607" t="Zní¾i»"/>
+  <phrase i="606" t="Zvý¹i»"/>
+  <phrase i="605" t="Zru¹i»"/>
+  <phrase i="604" t="Upravi»"/>
+  <phrase i="603" t="Nie"/>
+  <phrase i="602" t="Áno"/>
+  <phrase i="601" t="Prehra»"/>
+  <phrase i="600" t="Vola»"/>
+  <phrase i="599" t="Uprav. è."/>
+  <phrase i="598" t="Ulo¾i»"/>
+  <phrase i="597" t="Obnovi»"/>
+  <phrase i="596" t="Odstr."/>
+  <phrase i="595" t="Predvol."/>
+  <phrase i="594" t="Ok"/>
+  <phrase i="593" t="Overi»"/>
+  <phrase i="592" t="Hµada»"/>
+  <phrase i="591" t="Viac"/>
+  <phrase i="590" t="Aktual."/>
+  <phrase i="589" t="Vymaza»"/>
+  <phrase i="588" t="Odosla»"/>
+  <phrase i="587" t="Tón"/>
+  <phrase i="586" t="Miestne nastavenia siete"/>
+  <phrase i="585" t="Miestne nastavenia pou¾ívateµa"/>
+  <phrase i="584" t="Kate File"/>
+  <phrase i="583" t="Súbor tónov"/>
+  <phrase i="582" t="Zvonèek je zaneprázdnený!"/>
+  <phrase i="581" t="Server TFTP 2"/>
+  <phrase i="578" t="Konfigurácia portu SW"/>
+  <phrase i="577" t="Konfigurácia portu PC"/>
+  <phrase i="576" t="Port PC vypnutý"/>
+  <phrase i="575" t="Chyba"/>
+  <phrase i="574" t="Neplatný argument"/>
+  <phrase i="573" t="Základný telefón"/>
+  <phrase i="571" t="PONUKA KONTRASTU"/>
+  <phrase i="570" t="Vyberte kontrast pre nast."/>
+  <phrase i="569" t="Hlasová po¹ta"/>
+  <phrase i="568" t="SPRÁVY"/>
+  <phrase i="555" t="CM-ICMP nedostupné"/>
+  <phrase i="554" t="Vyberte hovor..."/>
+  <phrase i="553" t="Adresa URL servera proxy"/>
+  <phrase i="552" t="Adresa URL pre overenie"/>
+  <phrase i="551" t="Autom. vytáèanie bolo zru¹ené!"/>
+  <phrase i="550" t="Sidecar Task"/>
+  <phrase i="547" t="Chyba súboru HTTP"/>
+  <phrase i="546" t="Chyba XML [4]:Chyba spracovania"/>
+  <phrase i="544" t="Posledné="/>
+  <phrase i="543" t="Zavedenie HC zamietnuté"/>
+  <phrase i="542" t="Telefón-Reg-Zam"/>
+  <phrase i="541" t="Resetova»-Re¹tartova»"/>
+  <phrase i="540" t="Resetova»-Resetova»"/>
+  <phrase i="539" t="Telefón-Re-IP"/>
+  <phrase i="538" t="Telefón-Klávesnica"/>
+  <phrase i="537" t="Telefón-Diag."/>
+  <phrase i="536" t="Pripojenie k zálo¾nému serveru"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-aborted-TCP"/>
+  <phrase i="532" t="CM-reset-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="526" t="Od "/>
+  <phrase i="525" t="®iadne polo¾ky"/>
+  <phrase i="524" t="Zadajte ID pou¾ívateµa a heslo"/>
+  <phrase i="523" t="Heslo"/>
+  <phrase i="522" t="Pou¾ívateµ"/>
+  <phrase i="521" t="Vyberte slu¾bu..."/>
+  <phrase i="520" t="Spracova» aktuálny hovor..."/>
+  <phrase i="519" t="Chyba veµkosti TFTP"/>
+  <phrase i="518" t="Súbor fráz"/>
+  <phrase i="517" t="Súbor rezu"/>
+  <phrase i="516" t="%s nie je k dispozícii"/>
+  <phrase i="515" t="Nesprávny %s"/>
+  <phrase i="514" t="Protokol %d"/>
+  <phrase i="513" t="Prístup"/>
+  <phrase i="511" t="Telefón"/>
+  <phrase i="510" t="Sie»"/>
+  <phrase i="509" t="Tok %d"/>
+  <phrase i="508" t="©tatistiky toku údajov"/>
+  <phrase i="507" t="Protokoly zariadení"/>
+  <phrase i="506" t="Port %d"/>
+  <phrase i="505" t="Sie» Ethernet"/>
+  <phrase i="504" t="Informácie o zariadení"/>
+  <phrase i="503" t="Ome¹kanie presmerovania"/>
+  <phrase i="502" t="Vymaza» konfiguráciu"/>
+  <phrase i="501" t="Alternatívny server TFTP"/>
+  <phrase i="500" t="Adresa servera DHCP uvoµnená"/>
+  <phrase i="499" t="Protokol DHCP povolený"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="Verzia"/>
+  <phrase i="493" t="Spä»"/>
+  <phrase i="492" t=" ZAPNUTÉ"/>
+  <phrase i="491" t=" ÁNO"/>
+  <phrase i="490" t=" VYPNUTÉ"/>
+  <phrase i="489" t=" NIE"/>
+  <phrase i="488" t="Ome¹kanie RTP"/>
+  <phrase i="487" t="Chyba TFTP"/>
+  <phrase i="486" t="Chyba prístupu k TFTP"/>
+  <phrase i="485" t="Súbor sa nena¹iel"/>
+  <phrase i="484" t="Posledný=0x%02X"/>
+  <phrase i="483" t="CM-ukonèil-TCP"/>
+  <phrase i="482" t="Uplynutie-TCP"/>
+  <phrase i="481" t="Inicializované"/>
+  <phrase i="480" t="Názov=%15s"/>
+  <phrase i="479" t="Prebieha aktualizácia softvéru"/>
+  <phrase i="478" t="Chyba kontrolného súètu ROM"/>
+  <phrase i="477" t=" Verzia="/>
+  <phrase i="474" t="Duplicitná adresa IP"/>
+  <phrase i="473" t="Adresa IP bola uvoµnená"/>
+  <phrase i="472" t="Prebieha resetovanie"/>
+  <phrase i="463" t="Registrácia bola zamietnutá"/>
+  <phrase i="462" t="Prebieha registrácia"/>
+  <phrase i="461" t="Otvára sa "/>
+  <phrase i="460" t="Prebieha konfigurácia zozn. CM"/>
+  <phrase i="459" t="Prebieha konfigurácia IP"/>
+  <phrase i="458" t="Konfiguruje sa sie» VLAN"/>
+  <phrase i="457" t="%d z %d"/>
+  <phrase i="456" t="Neplatné inform. o výrobcovi"/>
+  <phrase i="455" t="Chyba XML [%d]!"/>
+  <phrase i="454" t="Chyba HTTP [%d]!"/>
+  <phrase i="453" t="Hostiteµ sa nena¹iel"/>
+  <phrase i="452" t="®iados» HTTP bola zru¹ená"/>
+  <phrase i="451" t="Presmerovanie..."/>
+  <phrase i="450" t="Vy¾aduje sa autorizácia!"/>
+  <phrase i="449" t="Polovièný"/>
+  <phrase i="448" t="Plný"/>
+  <phrase i="447" t="Uplynulý èas"/>
+  <phrase i="446" t="Chyba typu kompresie"/>
+  <phrase i="445" t="Kód chyby TCP"/>
+  <phrase i="444" t="Chyba verzie"/>
+  <phrase i="437" t="Neplatná sie» VLAN"/>
+  <phrase i="436" t="Neplatná adresa IP"/>
+  <phrase i="435" t="Neplatná maska podsiete"/>
+  <phrase i="434" t=" Nie je k dispozícii"/>
+  <phrase i="433" t=" Pripravený"/>
+  <phrase i="432" t=" Aktívny"/>
+  <phrase i="431" t="Pou¾itý server BOOTP"/>
+  <phrase i="430" t="Chyba programu"/>
+  <phrase i="429" t="Duplicitné IP"/>
+  <phrase i="428" t="Chýba východisková brána"/>
+  <phrase i="427" t="Konfig. súbor je k dispozícii"/>
+  <phrase i="426" t="Chyba kontrolného súètu"/>
+  <phrase i="425" t="Nesprávne ID zavedenia"/>
+  <phrase i="424" t="Chýba adresa IP servera DNS"/>
+  <phrase i="423" t="Èasový limit DNS uplynul"/>
+  <phrase i="422" t="Neznámy hostiteµ DNS"/>
+  <phrase i="421" t="V¹eobecná chyba TFTP"/>
+  <phrase i="420" t="Konfiguraèný súbor sa nena¹iel"/>
+  <phrase i="419" t="Èasový limit TFTP uplynul"/>
+  <phrase i="418" t="Èasový limit DHCP uplynul"/>
+  <phrase i="417" t="Vy¾aduje sa smerovaè"/>
+  <phrase i="416" t="Smerovaè nie je v podsieti"/>
+  <phrase i="415" t="Po¾aduje sa server TFTP"/>
+  <phrase i="414" t="Neplatné informácie"/>
+  <phrase i="413" t="Potlaè. v¹esmer. vys. vypnuté"/>
+  <phrase i="412" t="Potlaè. v¹esmer. vys. zapnuté"/>
+  <phrase i="410" t="Hlasitos» slúchadla ulo¾ená!"/>
+  <phrase i="409" t="Hlasitos» náhl. súp. ulo¾ená!"/>
+  <phrase i="408" t="Hlasitos» reprod. ulo¾ená!"/>
+  <phrase i="407" t="Zmeny neboli ulo¾ené!"/>
+  <phrase i="406" t="Ulo¾i» nastavenie hlasitosti?"/>
+  <phrase i="405" t="Zadajte vstupné údaje..."/>
+  <phrase i="404" t="Slu¾by sú nedostupné"/>
+  <phrase i="403" t="SLU®BY"/>
+  <phrase i="402" t="Zobrazi» informácie o hardvéri"/>
+  <phrase i="401" t="Informácie o hardvéri"/>
+  <phrase i="400" t="Zobrazi» inf. o zásobníku"/>
+  <phrase i="399" t="Sledovanie zásobníka"/>
+  <phrase i="398" t="Zobrazi» informácie o ladení"/>
+  <phrase i="397" t="Zobrazenie ladenia"/>
+  <phrase i="396" t="Zobrazi» verzie firmvéru"/>
+  <phrase i="395" t="Verzie firmvéru"/>
+  <phrase i="394" t="Zobrazi» sie»ové ¹tatistiky"/>
+  <phrase i="393" t="Sie»ové ¹tatistiky"/>
+  <phrase i="392" t="Zobrazi» stavové hlásenia"/>
+  <phrase i="391" t="Zadanie overené"/>
+  <phrase i="390" t="Nov(ý/á) %s:"/>
+  <phrase i="389" t="Aktuáln(y/a) %s:"/>
+  <phrase i="388" t="Upravi» %s"/>
+  <phrase i="387" t="Stav nastavení"/>
+  <phrase i="386" t="Vyberte polo¾ku stavu..."/>
+  <phrase i="385" t="©tatistiky zásobníka"/>
+  <phrase i="384" t="Stavové hlásenia"/>
+  <phrase i="383" t="Vyberte nastavenie siete..."/>
+  <phrase i="382" t="Zoznam zvonení je nedostupný!"/>
+  <phrase i="381" t="Chybný súbor zoznamu zvonení!"/>
+  <phrase i="380" t="Súbor zvonenia je nedostupný!"/>
+  <phrase i="379" t="®iados» o súbor zvonenia..."/>
+  <phrase i="378" t="Typ zvonenia"/>
+  <phrase i="377" t="Vyberte zvonenie..."/>
+  <phrase i="376" t="®iados» o zoznam zvonení..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Zmeny boli prijaté a ulo¾ené"/>
+  <phrase i="372" t="Zmeni» kontrast..."/>
+  <phrase i="371" t="V¹etky zmeny boli ulo¾ené"/>
+  <phrase i="370" t="Predvol. nast. boli obnovené "/>
+  <phrase i="369" t="Ulo¾ené nast. boli obnovené"/>
+  <phrase i="368" t="Vyberte nastavenie..."/>
+  <phrase i="367" t="NASTAVENIA"/>
+  <phrase i="366" t="Stav"/>
+  <phrase i="365" t="Konfigurácia siete"/>
+  <phrase i="364" t="Kontrast"/>
+  <phrase i="363" t="Upresnite kritériá vyhµad..."/>
+  <phrase i="362" t="®iadne záznamy"/>
+  <phrase i="361" t="Poèet záznamov: %d"/>
+  <phrase i="360" t="Hµadanie %s"/>
+  <phrase i="359" t="História hovorov vymazaná!"/>
+  <phrase i="358" t="Vyberte adresár..."/>
+  <phrase i="357" t="Neplatná URL adresa adresára!"/>
+  <phrase i="356" t="ADRESÁR"/>
+  <phrase i="355" t="Odchádzajúce hovory"/>
+  <phrase i="354" t="Prijaté hovory"/>
+  <phrase i="353" t="Zme¹kané hovory"/>
+  <phrase i="352" t="CM nepracuje, funkcie vypnuté"/>
+  <phrase i="351" t="%s pre"/>
+  <phrase i="350" t="Tento kláves nie je aktívny"/>
+  <phrase i="349" t="Odosiela sa po¾iadavka..."/>
+  <phrase i="348" t="©tatistiky hovorov"/>
+  <phrase i="347" t="INFORMÁCIE"/>
+  <phrase i="346" t="Inform. zobrazíte stlaèením..."/>
+  <phrase i="345" t="Akciu zru¹íte tlaèidlom ..."/>
+  <phrase i="344" t="V¹etky polia boli ulo¾ené"/>
+  <phrase i="343" t="Neulo¾ili sa ¾iadne zmeny"/>
+  <phrase i="342" t="Poèet dní: %d, "/>
+  <phrase i="341" t="1 deò, "/>
+  <phrase i="340" t="Dátum: %s, èas:"/>
+  <phrase i="339" t="%s o"/>
+  <phrase i="338" t="Vèera o"/>
+  <phrase i="329" t="Pre %s"/>
+  <phrase i="328" t="Neznáme èíslo"/>
+  <phrase i="327" t="Od %s"/>
+  <phrase i="326" t="Pre %s"/>
+  <phrase i="325" t="Presmerovanie %s"/>
+  <phrase i="324" t="Externý hovor"/>
+  <phrase i="323" t="Pou¾íva sa vzdialene"/>
+  <phrase i="322" t="%d nový zme¹kaný hovor%c"/>
+  <phrase i="260" t="Neplatný RTP"/>
+  <phrase i="259" t="Mimo prevádzky"/>
+  <phrase i="258" t="Nepripravený"/>
+  <phrase i="241" t="Názov"/>
+  <phrase i="240" t="Stav riadku"/>
+  <phrase i="239" t="Poèiatoèný èas"/>
+  <phrase i="238" t="Poèet ukonèení prenosu"/>
+  <phrase i="237" t="Poèet spojení príj."/>
+  <phrase i="236" t="Poèet spojení odos."/>
+  <phrase i="235" t="Miestna adresa"/>
+  <phrase i="234" t="Vzdialená adresa "/>
+  <phrase i="233" t="Doména"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="Pevné TFTP"/>
+  <phrase i="230" t="DHCP vypnuté"/>
+  <phrase i="229" t="Doba neèinnosti pre ¹etriè"/>
+  <phrase i="228" t="Adresa URL pre ¹etriè"/>
+  <phrase i="227" t="Adresa URL pre slu¾by"/>
+  <phrase i="226" t="Adresa URL pre správy"/>
+  <phrase i="225" t="Adresa URL pre adresáre"/>
+  <phrase i="224" t="Adresa URL pre informácie"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="ID admin. VLAN"/>
+  <phrase i="217" t="ID prevádzk. VLAN"/>
+  <phrase i="213" t="Server DNS 2"/>
+  <phrase i="212" t="Server DNS 1"/>
+  <phrase i="207" t="Východisková brána 1"/>
+  <phrase i="206" t="Server TFTP 1"/>
+  <phrase i="205" t="Maska podsiete"/>
+  <phrase i="204" t="Adresa IP"/>
+  <phrase i="203" t="Názov domény"/>
+  <phrase i="202" t="Názov hostiteµa"/>
+  <phrase i="201" t="MAC adresa"/>
+  <phrase i="199" t="Vyhradené 2"/>
+  <phrase i="198" t="Vyhradené 1"/>
+	<phrase i="197" t="Externé prepojenie je obmedzené"/>
+  <phrase i="194" t="Nie je k dispozícii miesto pre zaparkovanie"/>
+  <phrase i="193" t="Odhlásený zo skupiny pátrania"/>
+  <phrase i="192" t="Prístup"/>
+	<phrase i="191" t="IVezmi"/>
+	<phrase i="190" t="Èasový limit podr¾ania uplynul"/>
+	<phrase i="189" t="Èas. limit trv. hovoru uplynul"/>
+	<phrase i="188" t="Video"/>  
+	<phrase i="187" t="Nedost. pren. pásmo pre video"/>
+	<phrase i="186" t="Chyba zabezpeèenia"/>  
+  <phrase i="185" t="Èíslo nie je konfigurované"/>
+  <phrase i="184" t="MCID úspe¹ná"/>
+	<phrase i="183" t="Nemo¾no spoji» hovory"/>
+	<phrase i="182" t="Nemo¾no dokonèi» prepojenie"/>
+	<phrase i="181" t="kPrístup"/>
+	<phrase i="180" t="Odkloni»"/>
+	<phrase i="179" t="Zoznam"/>
+	<phrase i="178" t="Vybra»"/>
+	<phrase i="177" t="PrmPrep"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Vys. prevádzka, skúste neskôr"/>
+	<phrase i="173" t="Slu¾ba nie je aktívna"/>
+	<phrase i="172" t="Obnovenie zaparkovaného hovoru"/>
+	<phrase i="171" t="®iadne èíslo pre zaparkovanie"/>
+	<phrase i="170" t="Nekompatibilný typ zariadenia"/>
+	<phrase i="169" t="Existuje iný prístup do hovoru"/>
+	<phrase i="168" t="Pristúpenie do hovoru zlyhalo"/>
+	<phrase i="167" t="Prístup"/>
+	<phrase i="166" t="Sie» pre»a¾., presmerováva sa"/>
+	<phrase i="165" t="Spät.vol"/>
+	<phrase i="164" t="OdklV¹e"/>
+	<phrase i="163" t="Neru¹i»"/>
+	<phrase i="162" t="doSchrán"/>
+	<phrase i="161" t="NstSled"/>
+	<phrase i="160" t="Prevzia»"/>
+	<phrase i="159" t="Odkloni»"/>
+	<phrase i="158" t="Hlasová po¹ta"/>
+	<phrase i="157" t="OdpojPK"/>
+	<phrase i="156" t="Neznáme èíslo"/>
+	<phrase i="155" t="Nedostatoèná ¹írka pásma"/>
+	<phrase i="154" t="Súkromné"/>
+	<phrase i="153" t="Èíslo pre zaparkovanie"/>
+	<phrase i="152" t="Konferencia"/>
+	<phrase i="151" t="Nezhoda"/>
+	<phrase i="150" t="Neznáma chyba"/>
+	<phrase i="149" t="Prekroèený limit"/>
+	<phrase i="148" t="Chyba databázy"/>
+	<phrase i="147" t="Chyba konfigurácie databázy"/>
+	<phrase i="146" t="Chýba licencia"/>
+	<phrase i="145" t="Kláves nie je aktívny"/>
+	<phrase i="144" t="Max. poè. úèast. prekroèený"/>
+	<phrase i="143" t="Chýbajú inform. o úèastníkovi"/>
+	<phrase i="142" t="U¾ ste v konferencii"/>
+	<phrase i="141" t="Neplatný úèastník konferencie"/>
+	<phrase i="140" t="Nedá sa získa» riadenie"/>
+	<phrase i="139" t="Neexistuje konferenèný most"/>
+	<phrase i="138" t="Nedá sa vytvori» konferencia"/>
+	<phrase i="137" t="Presmerované na"/>
+	<phrase i="136" t="Máte hlasovú po¹tu"/>
+	<phrase i="135" t="Doèasné zlyhanie"/>
+	<phrase i="134" t="Len primárne"/>
+	<phrase i="133" t="Hovor bol zapark. na"/>
+	<phrase i="132" t="Zadajte èíslo"/>
+	<phrase i="131" t="Pou¾íva sa vzdialene"/>
+	<phrase i="130" t="Pokraèova» v hovore"/>
+	<phrase i="129" t="Parkovanie hovoru"/>
+	<phrase i="128" t="Prepojenie hovoru"/>
+	<phrase i="127" t="Èakajúci hovor"/>
+	<phrase i="126" t="Linka sa pou¾íva"/>
+	<phrase i="125" t="Obsadené"/>
+	<phrase i="124" t="Spojené"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Zvoní"/>
+	<phrase i="121" t="Polo¾ené"/>
+	<phrase i="120" t="Zdvihnuté"/>
+	<phrase i="119" t="Va¹e aktuálne voµby"/>
+	<phrase i="118" t="SVezmi"/>
+	<phrase i="117" t="Vezmi"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Spoji»"/>
+	<phrase i="114" t="Parkova»"/>
+	<phrase i="113" t="Konfer."/>
+	<phrase i="112" t="Informácie"/>
+	<phrase i="111" t="Prija»"/>
+	<phrase i="110" t="Pokraèova»"/>
+	<phrase i="109" t="Koniec"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PrepBezOdp"/>
+	<phrase i="106" t="PrepObs"/>
+	<phrase i="105" t="PresmV¹"/>
+	<phrase i="104" t="Prepoj"/>
+	<phrase i="103" t="Podr¾a»"/>
+	<phrase i="102" t="Vola»"/>
+	<phrase i="101" t="Opakova»"/>
+	<phrase i="9" t="Hovory dostupné na vyzdvihnutie"/>
+	<phrase i="8" t="Zadajte kód klienta"/>
+	<phrase i="7" t="Zadajte autorizaèný kód"/>
+	<phrase i="6" t="Zariadenie v roamingovom umiestnení"/>
+	<phrase i="5" t="Zariadenie v domácom umiestnení"/>
+</phrases>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Portuguese_Brazil</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nenhuma linha disponível para captura"/>
+	<phrase i="197" t="Transferência externa restringida"/>
+	<phrase i="196" t="Nenhuma banda disponível para captura"/>
+	<phrase i="195" t="Nenhuma chamada disponível para captura"/>
+	<phrase i="194" t="Slot de estacionamento não disponível"/>
+	<phrase i="193" t="Sess. do grp de bsca encerr."/>
+	<phrase i="192" t="LogGrupo"/>
+	<phrase i="191" t="OutrCap"/>
+	<phrase i="190" t="Tempo máx. espera esgotado"/>
+	<phrase i="189" t="Tempo máx. chamada esgotado"/>
+	<phrase i="188" t="ModoVíd."/>
+	<phrase i="187" t="Banda para vídeo indisponível"/>
+	<phrase i="186" t="Erro de segurança"/>
+	<phrase i="185" t="Número não configurado"/>
+	<phrase i="184" t="Idcm com êxito"/>
+	<phrase i="183" t="Não é possível unir chamadas"/>
+	<phrase i="182" t="Não é possível concluir a transferência"/>
+	<phrase i="181" t="IntercC"/>
+	<phrase i="180" t="DesvIme"/>
+	<phrase i="179" t="LstConf."/>
+	<phrase i="178" t="Selec."/>
+	<phrase i="177" t="TransfDir"/>
+	<phrase i="176" t="IDCM"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Tráf. elevado, tente + tarde"/>
+	<phrase i="173" t="Serviço inativo"/>
+	<phrase i="172" t="Reversão de estac. chamada"/>
+	<phrase i="171" t="Não há núm. estac. disponível"/>
+	<phrase i="170" t="Tipo de disp. incompatível"/>
+	<phrase i="169" t="Outra intercalação existente"/>
+	<phrase i="168" t="Falha ao config. intercalação"/>
+	<phrase i="167" t="Interc"/>
+	<phrase i="166" t="Congest. rede, reencaminh."/>
+	<phrase i="165" t="ReCham."/>
+	<phrase i="164" t="DesvTd"/>
+	<phrase i="163" t="NaoPtb"/>
+	<phrase i="162" t="TrnsfCV"/>
+	<phrase i="161" t="Visual."/>
+	<phrase i="160" t="Intercep."/>
+	<phrase i="159" t="Redirec."/>
+	<phrase i="158" t="Corr. voz"/>
+	<phrase i="157" t="DesÚltC"/>
+	<phrase i="156" t="Número desconhecido"/>
+	<phrase i="155" t="Banda insuficiente"/>
+	<phrase i="154" t="Privado"/>
+	<phrase i="153" t="Núm. estacionam."/>
+	<phrase i="152" t="Conf."/>
+	<phrase i="151" t="Erro: combinação inválida"/>
+	<phrase i="150" t="Erro: desconhecido"/>
+	<phrase i="149" t="Erro: limite ultrapassado"/>
+	<phrase i="148" t="Erro: base de dados"/>
+	<phrase i="147" t="Erro: DBConfig"/>
+	<phrase i="146" t="Erro: sem licença"/>
+	<phrase i="145" t="Tecla inativa"/>
+	<phrase i="144" t="Excesso de participantes"/>
+	<phrase i="143" t="Sem info. sobre participantes"/>
+	<phrase i="142" t="Já em conferência"/>
+	<phrase i="141" t="Participante de conf. inválido"/>
+	<phrase i="140" t="Impossível manter ctl primário"/>
+	<phrase i="139" t="Sem recursos de conferência"/>
+	<phrase i="138" t="Não é possível concluir conf."/>
+	<phrase i="137" t="Desviada para"/>
+	<phrase i="136" t="Há msgs em correio voz"/>
+	<phrase i="135" t="Falha temporária"/>
+	<phrase i="134" t="Apenas primário"/>
+	<phrase i="133" t="Cham. estacion. na linha"/>
+	<phrase i="132" t="Introduza número"/>
+	<phrase i="131" t="Em utilização remota"/>
+	<phrase i="130" t="Prosseguimento de chamada"/>
+	<phrase i="129" t="Estacionamento de chamada"/>
+	<phrase i="128" t="Transferência de chamada"/>
+	<phrase i="127" t="Chamada em espera"/>
+	<phrase i="126" t="Linha em utilização"/>
+	<phrase i="125" t="Ocupado"/>
+	<phrase i="124" t="Conectado"/>
+	<phrase i="123" t="De "/>
+	<phrase i="122" t="Ligando"/>
+	<phrase i="121" t="No gancho"/>
+	<phrase i="120" t="Fora do gancho"/>
+	<phrase i="119" t="Suas opções atuais"/>
+	<phrase i="118" t="GrupoCap"/>
+	<phrase i="117" t="Captura"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Unir"/>
+	<phrase i="114" t="Estac."/>
+	<phrase i="113" t="Confrn."/>
+	<phrase i="112" t="Info."/>
+	<phrase i="111" t="Atender"/>
+	<phrase i="110" t="Contin."/>
+	<phrase i="109" t="TermCh."/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="DsvNA"/>
+	<phrase i="106" t="DsvOcpd"/>
+	<phrase i="105" t="DsvTdCh."/>
+	<phrase i="104" t="Transf."/>
+	<phrase i="103" t="Espera"/>
+	<phrase i="102" t="NovaCh."/>
+	<phrase i="101" t="Rediscar"/>
+</phrases>

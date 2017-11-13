@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Lithuanian_Lithuania</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nėra linijų, kurias būtų galima perimti"/>
+	<phrase i="197" t="Išorinis persiuntimas apribotas"/>
+	<phrase i="196" t="Nėra perėmimui prieinamos dažnių juostos"/>
+	<phrase i="195" t="Nėra skambučių, kuriuos būtų galima perimti"/>
+	<phrase i="194" t="Nukėlimo lizdas neprieinamas"/>
+    <phrase i="193" t="Atjungta nuo paieškos grupės"/>
+	<phrase i="192" t="PŽurnal."/>
+	<phrase i="191" t="KPerimti"/>
+	<phrase i="190" t="Maks. sulaikymo trukmės pertrūkis"/>
+	<phrase i="189" t="Maks. skambučio trukmės pertrūkis"/>
+	<phrase i="188" t="VzdVksn."/>
+	<phrase i="187" t="Vaizdo įrašų dažnių juosta neprieinama"/>
+	<phrase i="186" t="Apsaugos klaida"/>
+	<phrase i="185" t="Numeris nekonfigūruotas"/>
+	<phrase i="184" t="Pkid pavyko"/>
+	<phrase i="183" t="Nepavyksta sujungti skambučių"/>
+	<phrase i="182" t="Perjungimas Negalimas"/>
+	<phrase i="181" t="KĮterpti"/>
+	<phrase i="180" t="Nukreip."/>
+	<phrase i="179" t="KonfSąr"/>
+	<phrase i="178" t="Rinktis"/>
+	<phrase i="177" t="Suj2Pok"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="SiųsPrbl"/>
+	<phrase i="174" t="Didelis užimtumas, bandykite vėliau vėl"/>
+	<phrase i="173" t="Paslauga neaktyvi"/>
+	<phrase i="172" t="SkambučioNukėlimo apgrąža"/>
+	<phrase i="171" t="Nėra prieinamo nukėlimo numerio"/>
+	<phrase i="170" t="Nesuderinamo tipo prietaisas"/>
+	<phrase i="169" t="Yra kitas įsiterpimas"/>
+	<phrase i="168" t="Nepavyko nustatyti įsiterpimo"/>
+	<phrase i="167" t="Įsiterp."/>
+	<phrase i="166" t="Tinklo perkrova, keičiamas maršrutas"/>
+	<phrase i="165" t="Atskamb"/>
+	<phrase i="164" t="NukrVis"/>
+	<phrase i="163" t="Netrukd."/>
+	<phrase i="162" t="PersįBP"/>
+	<phrase i="161" t="NustSteb"/>
+	<phrase i="160" t="Perimti"/>
+	<phrase i="159" t="Peradresuoti"/>
+	<phrase i="158" t="Balso paštas"/>
+	<phrase i="157" t="ŠalPaskS"/>
+	<phrase i="156" t="Nežinomas numeris"/>
+	<phrase i="155" t="Nepakanka pralaidumo"/>
+	<phrase i="154" t="Privatus"/>
+	<phrase i="153" t="Fiksavimo numeris"/>
+	<phrase i="152" t="Konferencija"/>
+	<phrase i="151" t="Neatitikimo klaida"/>
+	<phrase i="150" t="Nežinoma klaida"/>
+	<phrase i="149" t="Klaidos praleidimo riba"/>
+	<phrase i="148" t="Duomenų bazės klaida"/>
+	<phrase i="147" t="DBKonfig klaida"/>
+	<phrase i="146" t="Nesančios licencijos klaida"/>
+	<phrase i="145" t="Kodas neaktyvus"/>
+	<phrase i="144" t="Viršytas didžiausias šalių skaičius"/>
+	<phrase i="143" t="Nėra informacijos apie dalyvį"/>
+	<phrase i="142" t="Jau konferencijoje"/>
+	<phrase i="141" t="Neteisėtas konferencijos dalyvis"/>
+	<phrase i="140" t="Nepavyksta sulaikyti pagrindinio valdymo"/>
+	<phrase i="139" t="Nėra konferencijos tilto"/>
+	<phrase i="138" t="Nepavyksta užbaigti konferencijos"/>
+	<phrase i="137" t="Kam persiųsta"/>
+	<phrase i="136" t="Turite balso pašto pranešimų"/>
+	<phrase i="135" t="Laikinoji triktis"/>
+	<phrase i="134" t="Tik pagrindinis"/>
+	<phrase i="133" t="Nukelti skambutį"/>
+	<phrase i="132" t="Įveskite numerį"/>
+	<phrase i="131" t="Naudojamas nuotolinis"/>
+	<phrase i="130" t="Tęsti skambutį"/>
+	<phrase i="129" t="Skambučio nukėlimas"/>
+	<phrase i="128" t="Skambučio persiuntimas"/>
+	<phrase i="127" t="Skambučio laukimas"/>
+	<phrase i="126" t="Linija naudojama"/>
+	<phrase i="125" t="Užimta"/>
+	<phrase i="124" t="Prijungtas"/>
+	<phrase i="123" t="Nuo "/>
+	<phrase i="122" t="Skambučio siuntimas"/>
+	<phrase i="121" t="Ragelis padėtas"/>
+	<phrase i="120" t="Ragelis pakeltas"/>
+	<phrase i="119" t="Esamos Jūsų parinktys"/>
+	<phrase i="118" t="GPerimti"/>
+	<phrase i="117" t="Perėm."/>
+	<phrase i="116" t="Susitik."/>
+	<phrase i="115" t="Prijungt"/>
+	<phrase i="114" t="Fiks."/>
+	<phrase i="113" t="Konf."/>
+	<phrase i="112" t="Informacija"/>
+	<phrase i="111" t="Atsakymas"/>
+	<phrase i="110" t="Tęsti"/>
+	<phrase i="109" t="BaigtPok"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="SPersiuntNeatsiliepia"/>
+	<phrase i="106" t="SPersUž"/>
+	<phrase i="105" t="PersVisS"/>
+	<phrase i="104" t="Perjungt"/>
+	<phrase i="103" t="Sulaikyt"/>
+	<phrase i="102" t="N.Skamb."/>
+	<phrase i="101" t="Perrink."/>
+	<phrase i="81" t="Jungiamasi, prašom palaukti"/>
+	<phrase i="80" t="Nepavyko įrašyti"/>
+	<phrase i="79" t="Įrašymas"/>
+	<phrase i="69" t="SL Išj."/>
+    	<phrase i="68" t="Nepavyksta perkelti pokalbio"/>
+	<phrase i="67" t="Įrašyti"/>
+    <phrase i="65" t="Nepavyko nusiųsti pokalbio į mobilųjį telefoną"/>
+    <phrase i="64" t="Nepavyko iškviesti nukelto pokalbio"/>
+    <phrase i="63" t="Susitikimo funkcija nepasiekiama"/>
+    <phrase i="62" t="Konferencija nepasiekiama"/>
+    <phrase i="61" t="Perimti negalima"/>
+    <phrase i="60" t="SutrRink"/>
+    <phrase i="59" t="Viršytas CFwdAll šuolių skaičius"/>
+    <phrase i="58" t="Aptiktas CFwdAll ciklas"/>
+	<phrase i="57" t="Netrukdyti aktyvus"/> 
+	<phrase i="56" t="Netrukdyti"/> 
+	<phrase i="55" t="Naudokite liniją arba prisijunkite, kad užbaigtumėte"/>
+	<phrase i="54" t="Paieškos grupė"/>
+	<phrase i="53" t="Pranešimų apie kokybę priemonė"/>
+	<phrase i="52" t="Konferencijų sąrašas"/>
+	<phrase i="51" t="Baigti pokalbį"/>
+    <phrase i="50" t="Vaizdo įrašas"/>
+    <phrase i="49" t="Kitas perėmimas"/>
+    <phrase i="48" t="Šalinti paskutinį dalyvį"/>
+    <phrase i="47" t="Grupinis perėmimas"/>
+    <phrase i="46" t="Kenkėjiškas skambučio ID"/>
+    <phrase i="45" t="Peradresuoti visus"/>
+	<phrase i="44" t="Šnabždesys"/>
+        <phrase i="43" t="Mobilumas"/>
+	<phrase i="42" t="Neaktyvus įrašymo seansas"/>
+	<phrase i="41" t="Jau įrašoma"/>
+	<phrase i="40" t="Įrašymo įtaisas priims aktyvų skambutį"/>
+	<phrase i="39" t="Stebėjimas"/>
+        <phrase i="38" t="Neleistinas prietaisas"/>
+	<phrase i="37" t="Išteklių nėra"/>
+	<phrase i="36" t="Nustatyti nepavyko"/>
+	<phrase i="35" t="Sulaikymo apgrąža"/> 
+	<phrase i="34" t="Skambutis sulaikytas"/>
+	<phrase i="33" t="Neparengtas"/>
+	<phrase i="32" t="Parengtas"/>
+	<phrase i="31" t="Prijungti prie paieškos grupės"/>
+	<phrase i="30" t="Skambučių eilėje"/>
+	<phrase i="29" t="Paieškos rezultatai"/>
+	<phrase i="28" t="Nerasta įrašų"/>
+	<phrase i="27" t="Įrašai nuo 1 iki"/>
+	<phrase i="26" t="iš"/>
+	<phrase i="25" t="Įveskite PIN"/>
+	<phrase i="24" t="Neteisingas PIN"/>
+	<phrase i="23" t="Prisijungti pavyko"/>
+	<phrase i="22" t="Naktinės paslaugos išjungtos"/>
+	<phrase i="21" t="Naktinės paslaugos aktyvios"/>
+	<phrase i="20" t="Naktinės paslaugos"/>
+	<phrase i="19" t="Įveskite paieškos kriterijus"/>
+	<phrase i="18" t="Vietinės paslaugos"/>
+	<phrase i="17" t="Pasirinkite paslaugą"/>
+	<phrase i="16" t="Persiuntimo paskirties vieta užimta"/>
+	<phrase i="15" t="Pasirinkti liniją"/>
+	<phrase i="14" t="Kaita"/>
+	<phrase i="13" t="Baikite pokalbį"/>
+	<phrase i="12" t="Laukiama pakartotinio grįžimo į pradžią"/>
+	<phrase i="11" t="Viršytas didžiausias telefonų skaičius"/>
+	<phrase i="10" t="CM atsarginė paslauga veikia"/>
+	<phrase i="9" t="Yra skambučių, kuriuos reikia perimti"/>
+	<phrase i="8" t="Įvesti kliento turinio kodą"/>
+	<phrase i="7" t="Įvesti leidimo kodą"/>
+    <phrase i="6" t="Prietaisas tinklinio ryšio vietoje"/>
+    <phrase i="5" t="Prietaisas pradinėje vietoje"/>
+	<phrase i="4" t="Prisijungimo vardas"/>	
+	<phrase i="3" t="Atmintukas"/>
+	<phrase i="2" t="Pask"/>
+</phrases>

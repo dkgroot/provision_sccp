@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Serbian_Republic_of_Montenegro</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nema dostupne linije za preuzimanje"/>
+	<phrase i="197" t="Spoljni prenos je ograničen"/>
+	<phrase i="196" t="Nema dostupnog propusnog opsega za preuzimanje"/>
+	<phrase i="195" t="Nema raspoloživog poziva za preuzimanje"/>
+	<phrase i="194" t="Nedostupan priključak za parkiranje"/>
+    <phrase i="193" t="Odjavljen iz Hunt grupe"/>
+	<phrase i="192" t="HLog"/>
+	<phrase i="191" t="OJaviSe"/>
+	<phrase i="190" t="Prekoračeno vremensko ograničenje maksimalnog trajanja čekanja"/>
+	<phrase i="189" t="Prekoračeno vremensko ograničenje maksimalnog trajanja poziva"/>
+	<phrase i="188" t="VidRežim"/>
+	<phrase i="187" t="Neraspoloživ video pr. opseg"/>
+	<phrase i="186" t="Bezbednosna greška"/>
+	<phrase i="185" t="Broj nije konfigurisan"/>
+	<phrase i="184" t="Uspešna Idzp"/>
+	<phrase i="183" t="Nije moguće spojiti pozive"/>
+	<phrase i="182" t="Nije moguće dovršiti prenos"/>
+	<phrase i="181" t="kDodSebe"/>
+	<phrase i="180" t="tSkreni"/>
+	<phrase i="179" t="Učesnici"/>
+	<phrase i="178" t="Izbor"/>
+	<phrase i="177" t="DirPren"/>
+	<phrase i="176" t="IDZP"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Veliki saobr. Pok. pon. kas."/>
+	<phrase i="173" t="Usluga nije aktivna"/>
+	<phrase i="172" t="Promena smera pozivnog parka"/>
+	<phrase i="171" t="Broj parka nije raspoloživ"/>
+	<phrase i="170" t="Nekompatibilan tip uređaja"/>
+	<phrase i="169" t="Postoji još jedno dodavanje"/>
+	<phrase i="168" t="Konf. dodavanja nije uspelo"/>
+	<phrase i="167" t="DodSebe"/>
+	<phrase i="166" t="Zagušenje mreže, preusmeravanje"/>
+	<phrase i="165" t="PrimOb"/>
+	<phrase i="164" t="SkrSve"/>
+	<phrase i="163" t="NeUzn"/>
+	<phrase i="162" t="PrenNaGP"/>
+	<phrase i="161" t="PostNadz"/>
+	<phrase i="160" t="Presr"/>
+	<phrase i="159" t="Preusmeri"/>
+	<phrase i="158" t="Glasovna pošta"/>
+	<phrase i="157" t="UklPUč"/>
+	<phrase i="156" t="Nepoznati broj"/>
+	<phrase i="155" t="Propusni opseg nije dovoljan"/>
+	<phrase i="154" t="Privatno"/>
+	<phrase i="153" t="Broj parka"/>
+	<phrase i="152" t="Konferencija"/>
+	<phrase i="151" t="Greška u razvrstavanju"/>
+	<phrase i="150" t="Nepoznata greška"/>
+	<phrase i="149" t="Greška zbog prekor. ogranič."/>
+	<phrase i="148" t="Greška u bazi podataka"/>
+	<phrase i="147" t="Greška u konfiguraciji DB-a"/>
+	<phrase i="146" t="Greška zbog nedostatka licence"/>
+	<phrase i="145" t="Taster nije aktivan"/>
+	<phrase i="144" t="Prekoračen je maks. broj uč."/>
+	<phrase i="143" t="Nema informacija o učesniku"/>
+	<phrase i="142" t="Već je uključen u konferenciju"/>
+	<phrase i="141" t="Nevažeći učesnik konferencije"/>
+	<phrase i="140" t="Nije mog. održati prim.kontr."/>
+	<phrase i="139" t="Ne postoji most konferencije"/>
+	<phrase i="138" t="Nije moguće dovršiti konfer."/>
+	<phrase i="137" t="Prosleđeno u"/>
+	<phrase i="136" t="Imate glasovnu poštu"/>
+	<phrase i="135" t="Privremeni neuspeh"/>
+	<phrase i="134" t="Samo primarno"/>
+	<phrase i="133" t="Pozivni park u"/>
+	<phrase i="132" t="Unesite broj"/>
+	<phrase i="131" t="Upotreba daljinskog prenosa"/>
+	<phrase i="130" t="Nastavak poziva"/>
+	<phrase i="129" t="Pozivni park"/>
+	<phrase i="128" t="Prenos poziva"/>
+	<phrase i="127" t="Čekanje poziva"/>
+	<phrase i="126" t="Linija u upotrebi"/>
+	<phrase i="125" t="Zauzeto"/>
+	<phrase i="124" t="Povezano"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Završni ton"/>
+	<phrase i="121" t="Spuštena slušalica"/>
+	<phrase i="120" t="Podignuta slušalica"/>
+	<phrase i="119" t="Vaše trenutne opcije"/>
+	<phrase i="118" t="Konfer"/>
+	<phrase i="117" t="JaviSe"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Spoji"/>
+	<phrase i="114" t="Park"/>
+	<phrase i="113" t="Konfer"/>
+	<phrase i="112" t="Informacije"/>
+	<phrase i="111" t="Odgovori"/>
+	<phrase i="110" t="Nastavi"/>
+	<phrase i="109" t="Prekini"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PrBezOdg"/>
+	<phrase i="106" t="PrZauz"/>
+	<phrase i="105" t="PrSve"/>
+	<phrase i="104" t="Prenesi"/>
+	<phrase i="103" t="Čekanje"/>
+	<phrase i="102" t="NoviPoz"/>
+	<phrase i="101" t="PonBir"/>
+	<phrase i="81" t="Povezivanje je u toku, sačekajte"/>
+	<phrase i="80" t="Snimanje neuspešno"/>
+	<phrase i="79" t="Snimanje"/>
+	<phrase i="69" t="CW isključeno"/>
+    	<phrase i="68" t="Nije moguće premestiti razgovor"/>
+	<phrase i="67" t="Zapis"/>
+    <phrase i="65" t="Nije moguće poslati poziv u mobilni telefon"/>
+    <phrase i="64" t="Nije moguće preuzeti parkirani poziv"/>
+    <phrase i="63" t="Konferencija „MeetMe“ nije dostupna"/>
+    <phrase i="62" t="Konferencija nije dostupna"/>
+    <phrase i="61" t="Preuzimanje nije dostupno"/>
+    <phrase i="60" t="SkrBir"/>
+    <phrase i="59" t="Prekoračen broj skokova za PrSve"/>
+    <phrase i="58" t="Otkrivena petlja za PrSve"/>
+	<phrase i="57" t="Funkcija &apos;Ne uznemiravaj&apos; je aktivna"/> 
+	<phrase i="56" t="Ne uznemiravaj"/> 
+	<phrase i="55" t="Upotrebite dugme &apos;Linija&apos; ili &apos;Spoji&apos; da biste dovršili"/>
+	<phrase i="54" t="Hunt grupa"/>
+	<phrase i="53" t="Alatka za izveštavanje o kvalitetu"/>
+	<phrase i="52" t="Lista učesnika konferencije"/>
+	<phrase i="51" t="Prekini"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Javljanje na drugom telefonu"/>
+    <phrase i="48" t="Ukloni poslednjeg učesnika"/>
+    <phrase i="47" t="Javljanje u grupi"/>
+    <phrase i="46" t="ID zlonamernog poziva"/>
+    <phrase i="45" t="Prosledi sve"/>
+	<phrase i="44" t="Šaputanje"/>
+        <phrase i="43" t="Mobil"/>
+	<phrase i="42" t="Neaktivna sesija snimanja"/>
+	<phrase i="41" t="Snimanje je već u toku"/>
+	<phrase i="40" t="Snimanje čeka da poziv postane aktivan"/>
+	<phrase i="39" t="Nadgledanje"/>
+        <phrase i="38" t="Uređaj nije autorizovan"/>
+	<phrase i="37" t="Nema resursa"/>
+	<phrase i="36" t="Konfigurisanje nije uspelo"/>
+	<phrase i="35" t="Obrtanje redosleda čekanja"/> 
+	<phrase i="34" t="Poziv na čekanju"/>
+	<phrase i="33" t="NijeSpr"/>
+	<phrase i="32" t="Spremno"/>
+	<phrase i="31" t="Pridruži se Hunt grupi"/>
+	<phrase i="30" t="Pozivi u redosledu čekanja"/>
+	<phrase i="29" t="Rezultati pretrage"/>
+	<phrase i="28" t="Nije pronađen nijedan zapis"/>
+	<phrase i="27" t="Zapisi od 1 do"/>
+	<phrase i="26" t="od"/>
+	<phrase i="25" t="Unesite PIN"/>
+	<phrase i="24" t="Pogrešan PIN"/>
+	<phrase i="23" t="Prijavljivanje uspešno"/>
+	<phrase i="22" t="Noćna usluga onemogućena"/>
+	<phrase i="21" t="Noćna usluga aktivna"/>
+	<phrase i="20" t="Noćna usluga"/>
+	<phrase i="19" t="Unesite kriterijume pretrage"/>
+	<phrase i="18" t="Lokalne usluge"/>
+	<phrase i="17" t="Izaberite uslugu"/>
+	<phrase i="16" t="Odredište prenosa je zauzeto"/>
+	<phrase i="15" t="Izbor linije"/>
+	<phrase i="14" t="Numerisanje stranica"/>
+	<phrase i="13" t="Završite poziv"/>
+	<phrase i="12" t="Čekanje na preusmeravanje"/>
+	<phrase i="11" t="Prekoračen je maksimalni broj telefona"/>
+	<phrase i="10" t="Rad CM Fallback usluge"/>
+	<phrase i="9" t="Raspoloživi pozivi za preuzimanje"/>
+	<phrase i="8" t="Unesite kod klijenta"/>
+	<phrase i="7" t="Unesite kod autorizacije"/>
+    <phrase i="6" t="Uređaj na lokaciji rominga"/>
+    <phrase i="5" t="Uređaj na matičnoj lokaciji"/>
+	<phrase i="4" t="Prijavljivanje"/>	
+	<phrase i="3" t="Fleš"/>
+	<phrase i="2" t="KodNal"/>
+</phrases>

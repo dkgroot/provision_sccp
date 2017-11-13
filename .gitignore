@@ -2,4 +2,6 @@
 env/
 *~
 *.bak
+etc/nginx/site-available/nginx.rules
+etc/tftpd-hpa/tftpd.rules
 .requirements_satisfied

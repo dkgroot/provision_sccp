@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<selectLists>
+  <trkLocaleName>Polish_Poland</trkLocaleName>
+  <trkBaseClearcaseVersion>/main/3.3.release/2</trkBaseClearcaseVersion>
+  <trkTranslationVersion>0</trkTranslationVersion>
+  <selectList t="Alpha">
+    <list i="0" l="0 ,.&apos;&quot;|_~`"/>
+    <list i="1" l="1!@&lt;&gt;$%^&amp;"/>
+    <list i="2" l="a±bcæ2A¡BCÆ"/>
+    <list i="3" l="deêf3DEÊF"/>
+    <list i="4" l="ghi4GHI"/>
+    <list i="5" l="jkl³5JKL£"/>
+    <list i="6" l="mnñoó6MNÑOÓ"/>
+    <list i="7" l="pqrs¶7PQRS¦"/>
+    <list i="8" l="tuv8TUV"/>
+    <list i="9" l="wxyz¼¿9WXYZ¬¯"/>
+    <list i="10" l="*+-/=\:;"/>
+    <list i="11" l="#?()[]{}"/>
+  </selectList>
+  <selectList t="Upper">
+    <list i="0" l=""/>
+    <list i="1" l=""/>
+    <list i="2" l="A¡BCÆ"/>
+    <list i="3" l="DEÊF"/>
+    <list i="4" l="GHI"/>
+    <list i="5" l="JKL£"/>
+    <list i="6" l="MNÑOÓ"/>
+    <list i="7" l="PQRS¦"/>
+    <list i="8" l="TUV"/>
+    <list i="9" l="WXYZ¬¯"/>
+    <list i="10" l=""/>
+    <list i="11" l=""/>
+  </selectList>
+  <selectList t="Lower">
+    <list i="0" l=""/>
+    <list i="1" l=""/>
+    <list i="2" l="a±bcæ"/>
+    <list i="3" l="deêf"/>
+    <list i="4" l="ghi"/>
+    <list i="5" l="jkl³"/>
+    <list i="6" l="mnñoó"/>
+    <list i="7" l="pqrs¶"/>
+    <list i="8" l="tuv"/>
+    <list i="9" l="wxyz¼¿"/>
+    <list i="10" l=""/>
+    <list i="11" l=""/>
+  </selectList>
+  <selectList t="Equation">
+    <list i="0" l="0"/>
+    <list i="1" l="1"/>
+    <list i="2" l="2"/>
+    <list i="3" l="3"/>
+    <list i="4" l="4"/>
+    <list i="5" l="5"/>
+    <list i="6" l="6"/>
+    <list i="7" l="7"/>
+    <list i="8" l="8"/>
+    <list i="9" l="9"/>
+    <list i="10" l="*/(."/>
+    <list i="11" l="+-)^"/>
+  </selectList>
+</selectLists>

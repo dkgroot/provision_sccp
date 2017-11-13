@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Slovak_Slovakia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="K dispozícii nie je žiadna linka na vyzdvihnutie"/>
+	<phrase i="197" t="Externé prepojenie je obmedzené"/>
+	<phrase i="196" t="K dispozícii nie je žiadne prenosové pásmo na vyzdvihovanie"/>
+	<phrase i="195" t="K dispozícii nie je žiadny hovor na vyzdvihnutie"/>
+	<phrase i="194" t="Nie je k dispozícii miesto pre zaparkovanie"/>
+    <phrase i="193" t="Odhlásený zo skupiny pátrania"/>
+	<phrase i="192" t="Prístup"/>
+	<phrase i="191" t="IVezmi"/>
+	<phrase i="190" t="Časový limit podržania uplynul"/>
+	<phrase i="189" t="Čas. limit trv. hovoru uplynul"/>
+	<phrase i="188" t="Video"/>
+	<phrase i="187" t="Nedost. pren. pásmo pre video"/>
+	<phrase i="186" t="Chyba zabezpečenia"/>
+	<phrase i="185" t="Číslo nie je konfigurované"/>
+	<phrase i="184" t="MCID úspešná"/>
+	<phrase i="183" t="Nemožno spojiť hovory"/>
+	<phrase i="182" t="Nemožno dokončiť prepojenie"/>
+	<phrase i="181" t="kPrístup"/>
+	<phrase i="180" t="Odkloniť"/>
+	<phrase i="179" t="Zoznam"/>
+	<phrase i="178" t="Vybrať"/>
+	<phrase i="177" t="PrmPrep"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Vys. prevádzka, skúste neskôr"/>
+	<phrase i="173" t="Služba nie je aktívna"/>
+	<phrase i="172" t="Obnovenie zaparkovaného hovoru"/>
+	<phrase i="171" t="Žiadne číslo pre zaparkovanie"/>
+	<phrase i="170" t="Nekompatibilný typ zariadenia"/>
+	<phrase i="169" t="Existuje iný prístup do hovoru"/>
+	<phrase i="168" t="Pristúpenie do hovoru zlyhalo"/>
+	<phrase i="167" t="Prístup"/>
+	<phrase i="166" t="Sieť preťaž., presmerováva sa"/>
+	<phrase i="165" t="Spät.vol"/>
+	<phrase i="164" t="OdklVše"/>
+	<phrase i="163" t="Nerušiť"/>
+	<phrase i="162" t="doSchrán"/>
+	<phrase i="161" t="NstSled"/>
+	<phrase i="160" t="Prevziať"/>
+	<phrase i="159" t="Presmer."/>
+	<phrase i="158" t="Hlasová pošta"/>
+	<phrase i="157" t="OdpojPK"/>
+	<phrase i="156" t="Neznáme číslo"/>
+	<phrase i="155" t="Nedostatočná šírka pásma"/>
+	<phrase i="154" t="Súkromné"/>
+	<phrase i="153" t="Číslo pre zaparkovanie"/>
+	<phrase i="152" t="Konferencia"/>
+	<phrase i="151" t="Nezhoda"/>
+	<phrase i="150" t="Neznáma chyba"/>
+	<phrase i="149" t="Prekročený limit"/>
+	<phrase i="148" t="Chyba databázy"/>
+	<phrase i="147" t="Chyba konfigurácie databázy"/>
+	<phrase i="146" t="Chýba licencia"/>
+	<phrase i="145" t="Kláves nie je aktívny"/>
+	<phrase i="144" t="Max. poč. účast. prekročený"/>
+	<phrase i="143" t="Chýbajú inform. o účastníkovi"/>
+	<phrase i="142" t="Už ste v konferencii"/>
+	<phrase i="141" t="Neplatný účastník konferencie"/>
+	<phrase i="140" t="Nedá sa získať riadenie"/>
+	<phrase i="139" t="Neexistuje konferenčný most"/>
+	<phrase i="138" t="Nedá sa vytvoriť konferencia"/>
+	<phrase i="137" t="Presmerované na"/>
+	<phrase i="136" t="Máte hlasovú poštu"/>
+	<phrase i="135" t="Dočasné zlyhanie"/>
+	<phrase i="134" t="Len primárne"/>
+	<phrase i="133" t="Hovor bol zapark. na"/>
+	<phrase i="132" t="Zadajte číslo"/>
+	<phrase i="131" t="Používa sa vzdialene"/>
+	<phrase i="130" t="Pokračovať v hovore"/>
+	<phrase i="129" t="Parkovanie hovoru"/>
+	<phrase i="128" t="Prepojenie hovoru"/>
+	<phrase i="127" t="Čakajúci hovor"/>
+	<phrase i="126" t="Linka sa používa"/>
+	<phrase i="125" t="Obsadené"/>
+	<phrase i="124" t="Spojené"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Zvoní"/>
+	<phrase i="121" t="Položené"/>
+	<phrase i="120" t="Zdvihnuté"/>
+	<phrase i="119" t="Vaše aktuálne voľby"/>
+	<phrase i="118" t="SVezmi"/>
+	<phrase i="117" t="Vezmi"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Spojiť"/>
+	<phrase i="114" t="Parkovať"/>
+	<phrase i="113" t="Konfer."/>
+	<phrase i="112" t="Informácie"/>
+	<phrase i="111" t="Prijať"/>
+	<phrase i="110" t="Pokračovať"/>
+	<phrase i="109" t="Koniec"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PrepBezOdp"/>
+	<phrase i="106" t="PrepObs"/>
+	<phrase i="105" t="PresmVš"/>
+	<phrase i="104" t="Prepojiť"/>
+	<phrase i="103" t="Podržať"/>
+	<phrase i="102" t="Volať"/>
+	<phrase i="101" t="Opakovať"/>
+	<phrase i="81" t="Pripája sa, počkajte, prosím."/>
+	<phrase i="80" t="Nahrávanie zlyhalo"/>
+	<phrase i="79" t="Nahrávanie"/>
+	<phrase i="69" t="Vyp.čak."/>
+    	<phrase i="68" t="Konverzácia sa nedá presunúť"/>
+	<phrase i="67" t="Záznam"/>
+    <phrase i="65" t="Hovor sa nedá odoslať do mobilu"/>
+    <phrase i="64" t="Zaparkovaný hovor sa nedá obnoviť"/>
+    <phrase i="63" t="Konferencia MeetMe nie je k dispozícii"/>
+    <phrase i="62" t="Konferencia nie je k dispozíci"/>
+    <phrase i="61" t="Vyzdvihnutie nie je k dispozícii"/>
+    <phrase i="60" t="SkrVoľb"/>
+    <phrase i="59" t="Počet skokov PresmVš bol prekročený"/>
+    <phrase i="58" t="Bola zistená slučka funkcie PresmVš"/>
+	<phrase i="57" t="Funkcia Nerušiť je aktívna"/> 
+	<phrase i="56" t="Nerušiť"/> 
+	<phrase i="55" t="Dokončit&apos; výberom Linka/Spojiť"/>
+	<phrase i="54" t="Skupina pátrania"/>
+	<phrase i="53" t="Nástroj pre správy o kvalite"/>
+	<phrase i="52" t="Zoznam účastníkov konferencie"/>
+	<phrase i="51" t="Koniec"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Iné vyzdvihnutie"/>
+    <phrase i="48" t="Odstrániť posledného účastníka"/>
+    <phrase i="47" t="Vyzdvihnutie hovoru pre skupinu"/>
+    <phrase i="46" t="ID nežiaduceho hovoru"/>
+    <phrase i="45" t="Presmerovať všetky"/>
+	<phrase i="44" t="Šeptanie"/>
+        <phrase i="43" t="Mobility"/>
+	<phrase i="42" t="Neaktívna relácia nahrávania"/>
+	<phrase i="41" t="Nahrávanie už prebieha"/>
+	<phrase i="40" t="Nahrávanie čaká na aktivovanie hovoru"/>
+	<phrase i="39" t="Monitorovanie"/>
+        <phrase i="38" t="Zariadenie nie je autorizované"/>
+	<phrase i="37" t="Žiadne prostriedky"/>
+	<phrase i="36" t="Nastavenie zlyhalo"/>
+	<phrase i="35" t="Obnovenie podržania"/> 
+	<phrase i="34" t="Podržaný hovor"/>
+	<phrase i="33" t="Nepripravený"/>
+	<phrase i="32" t="Pripravený"/>
+	<phrase i="31" t="Pripojiť k skupine pátrania"/>
+	<phrase i="30" t="Hovory vo fronte"/>
+	<phrase i="29" t="Výsledky hľadania"/>
+	<phrase i="28" t="Nenašiel sa žiadny záznam"/>
+	<phrase i="27" t="Záznamy 1 až"/>
+	<phrase i="26" t="z"/>
+	<phrase i="25" t="Zadajte číslo PIN"/>
+	<phrase i="24" t="Chybné číslo PIN"/>
+	<phrase i="23" t="Prihlásenie bolo úspešné"/>
+	<phrase i="22" t="Nočná služba je vypnutá"/>
+	<phrase i="21" t="Nočná služba je aktívna"/>
+	<phrase i="20" t="Nočná služba"/>
+	<phrase i="19" t="Zadajte kritériá vyhľadávania"/>
+	<phrase i="18" t="Miestne služby"/>
+	<phrase i="17" t="Vyberte službu"/>
+	<phrase i="16" t="Cieľové umiestnenie prepojenia je obsadené"/>
+	<phrase i="15" t="Vybrať linku"/>
+	<phrase i="14" t="Odosielanie stránok"/>
+	<phrase i="13" t="Ukončite hovor"/>
+	<phrase i="12" t="Čaká sa na opätovné navedenie"/>
+	<phrase i="11" t="Max. počet telefónov prekročený"/>
+	<phrase i="10" t="Služba prepnutia na staršiu verziu aplikácie CM je spustená"/>
+	<phrase i="9" t="Hovory dostupné na vyzdvihnutie"/>
+	<phrase i="8" t="Zadajte kód klienta"/>
+	<phrase i="7" t="Zadajte autorizačný kód"/>
+    <phrase i="6" t="Zariadenie v roamingovom umiestnení"/>
+    <phrase i="5" t="Zariadenie v domácom umiestnení"/>
+	<phrase i="4" t="Prihlásiť"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Účet"/>
+</phrases>

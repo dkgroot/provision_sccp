@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Portuguese_Portugal</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Nenhuma linha disponível para captura"/>
+	<phrase i="197" t="Restringida a transferência externa"/>
+	<phrase i="196" t="Nenhuma largura de banda disponível para captura"/>
+	<phrase i="195" t="Nenhuma chamada disponível para captura"/>
+	<phrase i="194" t="Ranhura de retenção não disponível"/>
+    <phrase i="193" t="Terminou sessão grupo caça"/>
+	<phrase i="192" t="RegistoR"/>
+	<phrase i="191" t="OCaptura"/>
+	<phrase i="190" t="Limite máx. de tempo de espera"/>
+	<phrase i="189" t="Limite máximo da chamada"/>
+	<phrase i="188" t="ModoVíd."/>
+	<phrase i="187" t="Larg. banda víd. indisponível"/>
+	<phrase i="186" t="Erro de segurança"/>
+	<phrase i="185" t="Número não configurado"/>
+	<phrase i="184" t="Idcm com êxito"/>
+	<phrase i="183" t="Não é possível participar em chamadas"/>
+	<phrase i="182" t="Não é possível concluir a transferência"/>
+	<phrase i="181" t="IntercC"/>
+	<phrase i="180" t="EncamD"/>
+	<phrase i="179" t="LstConf."/>
+	<phrase i="178" t="Selec."/>
+	<phrase i="177" t="TrfrDir"/>
+	<phrase i="176" t="IDCM"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Muito tráf., tente mais tarde"/>
+	<phrase i="173" t="Serviço inactivo"/>
+	<phrase i="172" t="Reversão de retenção de chamada"/>
+	<phrase i="171" t="Não há n.º retenção disponível"/>
+	<phrase i="170" t="Tipo de dispos.incompatível"/>
+	<phrase i="169" t="Outra intercalação existente"/>
+	<phrase i="168" t="Falha ao config.intercalação"/>
+	<phrase i="167" t="Interc"/>
+	<phrase i="166" t="Congestão de rede, reencaminh."/>
+	<phrase i="165" t="ReCham."/>
+	<phrase i="164" t="EncTd"/>
+	<phrase i="163" t="DND"/>
+	<phrase i="162" t="TrnsCCV"/>
+	<phrase i="161" t="Visual."/>
+	<phrase i="160" t="Intrcpt"/>
+	<phrase i="159" t="Redirec."/>
+	<phrase i="158" t="Corr.Voz"/>
+	<phrase i="157" t="DesÚltC"/>
+	<phrase i="156" t="Número desconhecido"/>
+	<phrase i="155" t="Largura de banda insuficiente"/>
+	<phrase i="154" t="Privado"/>
+	<phrase i="153" t="Número de retenção"/>
+	<phrase i="152" t="Conferência"/>
+	<phrase i="151" t="Erro: combinação inválida"/>
+	<phrase i="150" t="Erro: desconhecido"/>
+	<phrase i="149" t="Erro: limite ultrapassado"/>
+	<phrase i="148" t="Erro: base de dados"/>
+	<phrase i="147" t="Erro: DBConfig"/>
+	<phrase i="146" t="Erro: sem licença"/>
+	<phrase i="145" t="Tecla inactiva"/>
+	<phrase i="144" t="Excesso de participantes"/>
+	<phrase i="143" t="Sem info. sobre participantes"/>
+	<phrase i="142" t="Já em conferência"/>
+	<phrase i="141" t="Participante de conf. inválido"/>
+	<phrase i="140" t="Não suporta ctrl primário"/>
+	<phrase i="139" t="Sem recursos de conferência"/>
+	<phrase i="138" t="Não é possível concluir conf."/>
+	<phrase i="137" t="Desviada para"/>
+	<phrase i="136" t="Tem correio de voz"/>
+	<phrase i="135" t="Falha temporária"/>
+	<phrase i="134" t="Apenas primário"/>
+	<phrase i="133" t="Chamada retida na linha"/>
+	<phrase i="132" t="Introduza número"/>
+	<phrase i="131" t="Em utilização remota"/>
+	<phrase i="130" t="Prosseguimento de chamada"/>
+	<phrase i="129" t="Retenção de chamada"/>
+	<phrase i="128" t="Transferência de chamada"/>
+	<phrase i="127" t="Chamada em espera"/>
+	<phrase i="126" t="Linha em utilização"/>
+	<phrase i="125" t="Ocupado"/>
+	<phrase i="124" t="Ligado"/>
+	<phrase i="123" t="De "/>
+	<phrase i="122" t="Ligação em curso"/>
+	<phrase i="121" t="No descanso"/>
+	<phrase i="120" t="Fora do descanso"/>
+	<phrase i="119" t="Opções actuais"/>
+	<phrase i="118" t="GrpCapt"/>
+	<phrase i="117" t="Captura"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Partic."/>
+	<phrase i="114" t="Reter"/>
+	<phrase i="113" t="Conf."/>
+	<phrase i="112" t="Info."/>
+	<phrase i="111" t="Atender"/>
+	<phrase i="110" t="Retomar"/>
+	<phrase i="109" t="TermCh."/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="DsvChNA"/>
+	<phrase i="106" t="DsvChOcp"/>
+	<phrase i="105" t="DsvTdCh."/>
+	<phrase i="104" t="Transf."/>
+	<phrase i="103" t="Espera"/>
+	<phrase i="102" t="NovaCh."/>
+	<phrase i="101" t="ReMarc."/>
+	<phrase i="81" t="A ligar, aguarde"/>
+	<phrase i="80" t="Falha na gravação"/>
+	<phrase i="79" t="Gravação"/>
+	<phrase i="69" t="CE desac"/>
+    	<phrase i="68" t="Não é possível mover a conversação"/>
+	<phrase i="67" t="Gravar"/>
+    <phrase i="65" t="Não é possível enviar chamada para telemóvel"/>
+    <phrase i="64" t="Não é possível recuperar chamada retida"/>
+    <phrase i="63" t="MeetMe indisponível"/>
+    <phrase i="62" t="Conferência indisponível"/>
+    <phrase i="61" t="Captura indisponível"/>
+    <phrase i="60" t="MarcAbr"/>
+    <phrase i="59" t="Saltos de DsvTdCh excedidos"/>
+    <phrase i="58" t="Ciclo de DsvTdCh detectado"/>
+	<phrase i="57" t="Não interromper está activo"/> 
+	<phrase i="56" t="Não interromper"/> 
+	<phrase i="55" t="Utilizar Linha ou Aderir para concluir"/>
+	<phrase i="54" t="Grupo de caça"/>
+	<phrase i="53" t="Ferramenta de relatórios de qualidade"/>
+	<phrase i="52" t="Lista de conferências"/>
+	<phrase i="51" t="Terminar a chamada"/>
+    <phrase i="50" t="Vídeo"/>
+    <phrase i="49" t="Outra captura"/>
+    <phrase i="48" t="Remover último participante"/>
+    <phrase i="47" t="Captura de grupo"/>
+    <phrase i="46" t="ID de chamada mal-intencionada"/>
+    <phrase i="45" t="Desviar todas"/>
+	<phrase i="44" t="Confidência"/>
+        <phrase i="43" t="Mobilidade"/>
+	<phrase i="42" t="Sessão de gravação inactiva"/>
+	<phrase i="41" t="Gravação já em curso"/>
+	<phrase i="40" t="Gravação a aguardar que a chamada esteja activa"/>
+	<phrase i="39" t="Monitorização"/>
+        <phrase i="38" t="Dispositivo não autorizado"/>
+	<phrase i="37" t="Sem recursos"/>
+	<phrase i="36" t="Falha na configuração"/>
+	<phrase i="35" t="Colocar reversão em espera"/> 
+	<phrase i="34" t="Chamada em espera"/>
+	<phrase i="33" t="Não está pronto"/>
+	<phrase i="32" t="Pronto"/>
+	<phrase i="31" t="Aderir ao grupo de caça"/>
+	<phrase i="30" t="Chamada(s) em fila"/>
+	<phrase i="29" t="Resultados da procura"/>
+	<phrase i="28" t="Não foram encontrados registos"/>
+	<phrase i="27" t="Registos 1 a"/>
+	<phrase i="26" t="de"/>
+	<phrase i="25" t="Introduza o PIN"/>
+	<phrase i="24" t="PIN incorrecto"/>
+	<phrase i="23" t="Início de sessão com êxito"/>
+	<phrase i="22" t="Serviço nocturno desactivado"/>
+	<phrase i="21" t="Serviço nocturno activo"/>
+	<phrase i="20" t="Serviço nocturno"/>
+	<phrase i="19" t="Introduzir critérios de procura"/>
+	<phrase i="18" t="Serviços locais"/>
+	<phrase i="17" t="Seleccionar um serviço"/>
+	<phrase i="16" t="O destino da transferência está ocupado"/>
+	<phrase i="15" t="Seleccionar linha"/>
+	<phrase i="14" t="Chamada de pessoas"/>
+	<phrase i="13" t="Terminar a chamada"/>
+	<phrase i="12" t="A aguardar registo no router"/>
+	<phrase i="11" t="N.º máx. telefones excedido"/>
+	<phrase i="10" t="Serviço de recuperação de falhas CM em funcionamento"/>
+	<phrase i="9" t="Chamada(s) disponível(eis) para captura"/>
+	<phrase i="8" t="Introduzir código do cliente"/>
+	<phrase i="7" t="Introduzir código de autorização"/>
+    <phrase i="6" t="Dispositivo em local de roaming"/>
+    <phrase i="5" t="Dispositivo em residência"/>
+	<phrase i="4" t="Iniciar sessão"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Acct"/>
+</phrases>

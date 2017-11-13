@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Polish_Poland</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Brak linii dostępnej do przejęcia"/>
+	<phrase i="197" t="Ograniczenie przekazu zewnętrznego"/>
+	<phrase i="196" t="Brak pasma dostępnego do przejęcia"/>
+	<phrase i="195" t="Brak połączenia dostępnego do przejęcia"/>
+	<phrase i="194" t="Brak gniazda do parkowania"/>
+    <phrase i="193" t="Wylogowane z grupy poszukiwania"/>
+	<phrase i="192" t="LogowGH"/>
+	<phrase i="191" t="PrzejmI"/>
+	<phrase i="190" t="Upłynął limit czasu zawieszenia"/>
+	<phrase i="189" t="Upłynął limit czasu połączenia"/>
+	<phrase i="188" t="TrWideo"/>
+	<phrase i="187" t="Pasmo wideo jest niedostępne"/>
+	<phrase i="186" t="Błąd zabezpieczeń"/>
+	<phrase i="185" t="Nie skonfigurowano numeru"/>
+	<phrase i="184" t="Id. poł. złośliw. powiodła się"/>
+	<phrase i="183" t="Nie można złączyć połączeń"/>
+	<phrase i="182" t="Nie można zakończyć przekazywania"/>
+	<phrase i="181" t="WtrąćKon"/>
+	<phrase i="180" t="PNatPGł"/>
+	<phrase i="179" t="UczesKon"/>
+	<phrase i="178" t="Wybierz"/>
+	<phrase i="177" t="PrzekBzp"/>
+	<phrase i="176" t="ZłoślNum"/>
+	<phrase i="175" t="OcenaJak"/>
+	<phrase i="174" t="Duży ruch. Spróbuj później."/>
+	<phrase i="173" t="Usługa nie jest aktywna"/>
+	<phrase i="172" t="Powrót z parkingu"/>
+	<phrase i="171" t="Brak wolnego parkingu"/>
+	<phrase i="170" t="Niezgodny typ urządzenia"/>
+	<phrase i="169" t="Istnieje inne wtrącenie"/>
+	<phrase i="168" t="Nie ustanowiono wtrącenia"/>
+	<phrase i="167" t="Wtrąć"/>
+	<phrase i="166" t="Natłok w sieci; trasowanie"/>
+	<phrase i="165" t="Oddzwoń"/>
+	<phrase i="164" t="PrzekAut"/>
+	<phrase i="163" t="NPrzeszk"/>
+	<phrase i="162" t="PrzkPGł"/>
+	<phrase i="161" t="NadzAsys"/>
+	<phrase i="160" t="Przechw"/>
+	<phrase i="159" t="Przekieruj"/>
+	<phrase i="158" t="PocztaGł"/>
+	<phrase i="157" t="UsuńOst"/>
+	<phrase i="156" t="Nieznany numer"/>
+	<phrase i="155" t="Niewystarczające pasmo"/>
+	<phrase i="154" t="Prywatne"/>
+	<phrase i="153" t="Numer parkingu"/>
+	<phrase i="152" t="Konferencja"/>
+	<phrase i="151" t="Błąd niedopasowania"/>
+	<phrase i="150" t="Nieznany błąd"/>
+	<phrase i="149" t="Błąd przekroczenia limitu"/>
+	<phrase i="148" t="Błąd bazy danych"/>
+	<phrase i="147" t="Błąd konfiguracji bazy danych"/>
+	<phrase i="146" t="Błąd braku licencji"/>
+	<phrase i="145" t="Klawisz nie jest aktywny"/>
+	<phrase i="144" t="Przekr. maks. liczbę uczest."/>
+	<phrase i="143" t="Brak informacji o uczestniku"/>
+	<phrase i="142" t="Już jest w konferencji"/>
+	<phrase i="141" t="Nieprawidłowy uczestnik konf."/>
+	<phrase i="140" t="Nie można zaw. gł. poł. ster."/>
+	<phrase i="139" t="Brak mostka konferencyjnego"/>
+	<phrase i="138" t="Nie można zak. tworzenia konf."/>
+	<phrase i="137" t="Przekierowane na"/>
+	<phrase i="136" t="Masz wiadomość w poczcie głos."/>
+	<phrase i="135" t="Chwilowe niepowodzenie"/>
+	<phrase i="134" t="Tylko główne"/>
+	<phrase i="133" t="Zaparkowane pod nr"/>
+	<phrase i="132" t="Wprowadź numer"/>
+	<phrase i="131" t="Używany zdalnie"/>
+	<phrase i="130" t="Przeprowadzanie połączenia"/>
+	<phrase i="129" t="Parkowanie połączenia"/>
+	<phrase i="128" t="Przekazywanie połączenia"/>
+	<phrase i="127" t="Połączenie oczekujące"/>
+	<phrase i="126" t="Linia jest wykorzystywana"/>
+	<phrase i="125" t="Zajęty"/>
+	<phrase i="124" t="Połączony"/>
+	<phrase i="123" t="Od "/>
+	<phrase i="122" t="Zestawiam połączenie"/>
+	<phrase i="121" t="Słuchawka odłożona"/>
+	<phrase i="120" t="Słuchawka podniesiona"/>
+	<phrase i="119" t="Dostępne opcje"/>
+	<phrase i="118" t="PrzejmGr"/>
+	<phrase i="117" t="Przejmij"/>
+	<phrase i="116" t="PokKonf"/>
+	<phrase i="115" t="Dołącz"/>
+	<phrase i="114" t="Parkuj"/>
+	<phrase i="113" t="Konf."/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Odbierz"/>
+	<phrase i="110" t="Wznów"/>
+	<phrase i="109" t="Rozłącz"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="PrzekBOdp"/>
+	<phrase i="106" t="PrzekZaj"/>
+	<phrase i="105" t="PrzekWsz"/>
+	<phrase i="104" t="Przekaż"/>
+	<phrase i="103" t="Zawieś"/>
+	<phrase i="102" t="NowePoł"/>
+	<phrase i="101" t="Powtórz"/>
+	<phrase i="81" t="Czekaj. Trwa łączenie..."/>
+	<phrase i="80" t="Nagrywanie nie powiodło się"/>
+	<phrase i="79" t="Nagrywanie dźwięku"/>
+	<phrase i="69" t="WyłPoOcz"/>
+    	<phrase i="68" t="Nie można przenieść rozmowy"/>
+	<phrase i="67" t="Rejestrowanie"/>
+    <phrase i="65" t="Nie można wysłać połączenia na telefon komórkowy"/>
+    <phrase i="64" t="Nie można przejąć zaparkowanego połączenia"/>
+    <phrase i="63" t="Połączenie MostKnf jest niedostępne"/>
+    <phrase i="62" t="Konferencja jest niedostępna"/>
+    <phrase i="61" t="Przejmowanie połączeń jest niedostępne"/>
+    <phrase i="60" t="SkrWybie"/>
+    <phrase i="59" t="Przekroczono maks. długość łańcucha PrzekWsz"/>
+    <phrase i="58" t="Wykryto pętlę przekazań PrzekWsz"/>
+	<phrase i="57" t="Funkcja Nie przeszk. jest akt."/> 
+	<phrase i="56" t="Nie przeszkadzać"/> 
+	<phrase i="55" t="Użyj linii lub dołącz, by zak."/>
+	<phrase i="54" t="Grupa poszukiwania"/>
+	<phrase i="53" t="Raportowanie o jakości"/>
+	<phrase i="52" t="Lista konferencji"/>
+	<phrase i="51" t="Rozłącz"/>
+    <phrase i="50" t="Wideo"/>
+    <phrase i="49" t="Przejmowanie innych"/>
+    <phrase i="48" t="Usunięcie ostatniego uczestnika"/>
+    <phrase i="47" t="Grupowe przejęcie połączenia"/>
+    <phrase i="46" t="Identyfikator złośliwego połączenia"/>
+    <phrase i="45" t="Przekaż wszystko"/>
+	<phrase i="44" t="Szept"/>
+        <phrase i="43" t="Mobilność"/>
+	<phrase i="42" t="Nieaktywna sesja nagrywania"/>
+	<phrase i="41" t="Nagrywanie już trwa"/>
+	<phrase i="40" t="Nagrywanie oczekuje na uaktywnienie połączenia"/>
+	<phrase i="39" t="Monitorowanie"/>
+        <phrase i="38" t="Nieuwierzytelnione urządzenie"/>
+	<phrase i="37" t="Brak zasobów"/>
+	<phrase i="36" t="Błąd instalacji"/>
+	<phrase i="35" t="Wstrzymaj powrót"/> 
+	<phrase i="34" t="Połączenie zawieszone"/>
+	<phrase i="33" t="Niegotowy"/>
+	<phrase i="32" t="Gotowy"/>
+	<phrase i="31" t="Dołącz do grupy poszukiwania"/>
+	<phrase i="30" t="Połączenia w kolejce"/>
+	<phrase i="29" t="Wyniki wyszukiwania"/>
+	<phrase i="28" t="Nie znaleziono rekordów"/>
+	<phrase i="27" t="Zapisy od 1 do"/>
+	<phrase i="26" t="z"/>
+	<phrase i="25" t="Wprowadź kod PIN"/>
+	<phrase i="24" t="Nieprawidłowy kod PIN"/>
+	<phrase i="23" t="Logowanie pomyślne"/>
+	<phrase i="22" t="Praca nocna wyłączona"/>
+	<phrase i="21" t="Praca nocna aktywna"/>
+	<phrase i="20" t="Praca nocna"/>
+	<phrase i="19" t="Wprowadź kryteria wyszukiw."/>
+	<phrase i="18" t="Usługi lokalne"/>
+	<phrase i="17" t="Wybierz usługę"/>
+	<phrase i="16" t="Odbiorca przekazu zajęty"/>
+	<phrase i="15" t="Wybierz linię"/>
+	<phrase i="14" t="Poszukiwanie"/>
+	<phrase i="13" t="Zakończ połączenie"/>
+	<phrase i="12" t="Oczekiwanie na powrót"/>
+	<phrase i="11" t="Nadmierna liczba telefonów"/>
+	<phrase i="10" t="Działa usługa CM Fallback"/>
+	<phrase i="9" t="Połączenia oczekujące na odbiór"/>
+	<phrase i="8" t="Wprowadź kod tematu klienta"/>
+	<phrase i="7" t="Wprowadź kod uwierzytelnienia"/>
+    <phrase i="6" t="Urządzenie w zasięgu roamingu"/>
+    <phrase i="5" t="Urządzenie w zasięgu domowym"/>
+	<phrase i="4" t="Logowanie"/>	
+	<phrase i="3" t="Pamięć Flash"/>
+	<phrase i="2" t="Konto"/>
+</phrases>

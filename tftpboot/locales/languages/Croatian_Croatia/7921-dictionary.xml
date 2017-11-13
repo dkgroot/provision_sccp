@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Croatian_Croatia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="Preuzimanje MIDlets..."/>
+  <phrase i="8003" t="Aplikacija je minimizirana"/>
+  <phrase i="8002" t="Uspješno je ugrađen MIDP modul"/>
+  <phrase i="8001" t="Čekanje na instalaciju MIDP modula..."/>
+  <phrase i="8000" t="Ažuriranje firmvera..."/>
+  <phrase i="7999" t="Preuzimanje firmvera...%d%%"/>
+  <phrase i="7998" t="Obnavljanje firmvera..."/>
+  <phrase i="7997" t="Ažuriranje firmvera ne uspjelo"/>
+  <phrase i="7996" t="Prazna baterija! Ažur. nemoguće"/>
+  <phrase i="7995" t="Preuzimanje slike nije uspjelo"/>
+  <phrase i="7994" t="Autentifikacija slike neuspjela"/>
+  <phrase i="7993" t="Premalo memor.! Pokret. iznova"/>
+  <phrase i="7992" t="EAP-TLS/PEAP omogućeno"/>
+  <phrase i="7991" t="Vrednuj certifikat poslužitelja"/>
+  <phrase i="7990" t="AOM instalacija nije uspjela"/>
+  <phrase i="7989" t="Preuzimanje AOM (%d/%d)"/>
+  <phrase i="7988" t="Instaliranje AOM (%d/%d)...%d%%"/>
+  <phrase i="7987" t="Provjera integriteta slike nije uspjela"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="Instaliranje skenera FW:%d%%"/>
+  <phrase i="7984" t="Preuzimanje skenera FW"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="Ograničene brzine podataka"/>
+  <phrase i="7080" t="Režim skeniranja"/>
+  <phrase i="7079" t="Auto"/>
+  <phrase i="7078" t="Trajno"/>
+  <phrase i="7077" t="Ograničenje napajanje ćelije"/>
+  <phrase i="7076" t="Ograničenje napajanja"/>
+  <phrase i="7075" t="EAP-TLS certifikat"/>
+  <phrase i="7074" t="Korisnički instalirano"/>
+  <phrase i="7073" t="Tvornički  izdano"/>
+  <phrase i="7072" t="CAPF izdano"/>
+  <phrase i="7071" t="Nije pronađ. cert. za autentif."/>
+  <phrase i="7070" t="Cert. za autentif. nije valjan"/>
+  <phrase i="7069" t="Valj. cert. auten. je ist.: %s"/>
+  <phrase i="7068" t="Valjan. cert. auten. usk. istj."/>
+  <phrase i="7067" t="Certifikat autentikacije istječe za %d dana"/>
+  <phrase i="7066" t="Valj. cert. autent. je istekla"/>
+  <phrase i="7065" t="Provj. post. odbr. valj. cert."/>
+  <phrase i="7064" t="Nije pron. cert. za WLAN auten."/>
+  <phrase i="7063" t="Nije pronađ. cert. za autentif."/>
+  <phrase i="7062" t="Cert. autent. istj.: %d dana"/>
+  <phrase i="7061" t="Valj. cert. WLAN aut. je ist.!"/>
+  <phrase i="7060" t="Valj. cert. za autent. je ist.!"/>
+  <phrase i="7059" t="Broj stanica"/>
+  <phrase i="7057" t="Oznake za upozorenje"/>
+  <phrase i="7056" t="Interval prijavljivanja"/>
+  <phrase i="7055" t="DTIM period"/>
+  <phrase i="7054" t="Sposobnost"/>
+  <phrase i="7053" t="Mapa s brzin. prijenosa u bit."/>
+  <phrase i="7052" t="Osnovna mapa brzina prijenosa"/>
+  <phrase i="7051" t="Skokovita promjena frekvencije"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="Organizacija spektra"/>
+  <phrase i="7047" t="Nepodržani kanal"/>
+  <phrase i="7046" t="Profil kanala"/>
+  <phrase i="7045" t="Privatnost"/>
+  <phrase i="7044" t="NiskaBrzina"/>
+  <phrase i="7043" t="Proxy ARP"/>
+  <phrase i="7042" t="Osnovne brzine"/>
+  <phrase i="7041" t="Dodatne brzine"/>
+  <phrase i="7040" t="AC pozadina"/>
+  <phrase i="7039" t="AC najbolji pokušaj"/>
+  <phrase i="7038" t="AC Video"/>
+  <phrase i="7037" t="AC glas"/>
+  <phrase i="7036" t="ECW min"/>
+  <phrase i="7035" t="ECW maks"/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="Kontrola pristupa"/>
+  <phrase i="7032" t="Višekanalna šifra"/>
+  <phrase i="7031" t="Jednokanalna šifra"/>
+  <phrase i="7030" t="Broj izgubljenih BSS"/>
+  <phrase i="7029" t="Podržano"/>
+  <phrase i="7028" t="Dostupni kapacitet pristupa"/>
+  <phrase i="7027" t="Prisutno"/>
+  <phrase i="7026" t="Nije prisutno"/>
+  <phrase i="7025" t="Kategorija pristupa"/>
+  <phrase i="7024" t="Ne preporučuje se"/>
+  <phrase i="7023" t="Nedosljedno"/>
+  <phrase i="7022" t="Referentni AP"/>
+  <phrase i="7021" t="Zemlja"/>
+  <phrase i="7020" t="CCA prag"/>
+  <phrase i="7019" t="Certifikat javnog ključa"/>
+  <phrase i="7018" t="Infrastruktura javnog ključa"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="Period valjanosti"/>
+  <phrase i="7015" t="Ključ korijena"/>
+  <phrase i="7014" t="Ovlaštenje certifikata"/>
+  <phrase i="7013" t="Privatni ključ"/>
+  <phrase i="7012" t="Javni ključ"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="Poslužitelj za autentifikaciju"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="Autentifikacija neuspjela"/>
+  <phrase i="7008" t="Nema mrežnog profila"/>
+  <phrase i="7007" t="Izlazak iz područja usluge!"/>
+  <phrase i="7006" t="Pronalaženje mrežnih usluga"/>
+  <phrase i="7005" t="Nije odabran ni jedan profil"/>
+  <phrase i="7003" t="Veza je uspostavljena"/>
+  <phrase i="7002" t="Pokušaj spajanja u tijeku..."/>
+  <phrase i="7001" t="WLAN pogreška"/>
+  <phrase i="7000" t="Pretraživanje kanala..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="Obrisati sve povijesti poziva?"/>
+  <phrase i="6406" t="Dijagnostika skenera"/>
+  <phrase i="6405" t="Reset."/>
+  <phrase i="6404" t="Grupa simbola"/>
+  <phrase i="6403" t="Produženo"/>
+  <phrase i="6402" t="Osnovno"/>
+  <phrase i="6401" t="Skener"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="Bluetooth"/>
+  <phrase i="6399" t="Popis uređaja"/>
+  <phrase i="6398" t="Pretr."/>
+  <phrase i="6397" t="NovoPret"/>
+  <phrase i="6396" t="Upari"/>
+  <phrase i="6395" t="Raspari"/>
+  <phrase i="6394" t="Upareni uređaji"/>
+  <phrase i="6393" t="Pretraživanje"/>
+  <phrase i="6392" t="Uparivanje"/>
+  <phrase i="6391" t="%s upareno"/>
+  <phrase i="6390" t="Rasparivanje"/>
+  <phrase i="6389" t="%s raspareno"/>
+  <phrase i="6388" t="Pronađeni uređaji: %d"/>
+  <phrase i="6387" t="Raspariti %s?"/>
+  <phrase i="6386" t="Rezultati pretraživanja"/>
+  <phrase i="6385" t="Upišite lozinku za Bluetooth"/>
+  <phrase i="6384" t="Uparivanje nije uspjelo!"/>
+  <phrase i="6383" t="%s povezano!"/>
+  <phrase i="6382" t="%s odspojeno!"/>
+  <phrase i="6381" t="Poveži se"/>
+  <phrase i="6380" t="Prekini vezu"/>
+  <phrase i="6379" t="Podesi glasnoću na slušalicama"/>
+  <phrase i="6378" t="Prelazi maksimalni broj uređaja"/>
+  <phrase i="6377" t="Povezivanje preko Bluetootha nije uspjelo"/>
+  <phrase i="6376" t="Ovo je upareni uređaj!"/>
+  <phrase i="6375" t="RaspariSve"/>
+  <phrase i="6374" t="Bluetooth nije spreman"/>
+  <phrase i="6373" t="Bluetooth interna greška"/>
+  <phrase i="6372" t="Operacija nije uspjela"/>
+  <phrase i="6371" t="Izabran je Bluetooth"/>
+  <phrase i="6370" t="Izabran je zvučnik"/>
+  <phrase i="6369" t="Izabrana je slušalica"/>
+  <phrase i="6368" t="Izabran je naglavni komplet"/>
+  <phrase i="6367" t="Dijagnostika"/>
+  <phrase i="6366" t="Tipkovnica"/>
+  <phrase i="6365" t="Glas"/>
+  <phrase i="6364" t="Izaberite dijagnostiku"/>
+  <phrase i="6363" t="Pritisnite bilo koju tipku"/>
+  <phrase i="6362" t="Dijagnostika tipkovnice"/>
+  <phrase i="6361" t="Pritisnuto"/>
+  <phrase i="6360" t="Otpušteno"/>
+  <phrase i="6359" t="Audio dijagnostika"/>
+  <phrase i="6358" t="Lokalna audio povratna petlja"/>
+  <phrase i="6357" t="Funkcijska tipka %d"/>
+  <phrase i="6356" t="Utišaj"/>
+  <phrase i="6355" t="Pojačaj"/>
+  <phrase i="6354" t="Desno"/>
+  <phrase i="6353" t="Lijevo"/>
+  <phrase i="6352" t="Napajanje"/>
+  <phrase i="6351" t="Stišaj"/>
+  <phrase i="6350" t="Instalacija Java nije uspjela"/>
+  <phrase i="6349" t="Odaberi %s"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="Greška"/>
+  <phrase i="6298" t="%s je trenutno otvoren"/>
+  <phrase i="6297" t="Zatvorite prije pokretanja drugog"/>
+  <phrase i="6296" t="Prijeđi"/>
+  <phrase i="6295" t="ZatvApl"/>
+  <phrase i="6294" t="PauzApl"/>
+  <phrase i="6293" t="Dolazni poziv"/>
+  <phrase i="6292" t="Zanemari"/>
+  <phrase i="6291" t="Gotovo"/>
+  <phrase i="6290" t="Postavi"/>
+  <phrase i="6289" t="OJavi"/>
+  <phrase i="6288" t="Pokreni"/>
+  <phrase i="6287" t="Instaliraj"/>
+  <phrase i="6286" t="Idi"/>
+  <phrase i="6285" t="Idi na"/>
+  <phrase i="6284" t="Iznimka"/>
+  <phrase i="6283" t="Program"/>
+  <phrase i="6282" t="Prog"/>
+  <phrase i="6281" t="Info"/>
+  <phrase i="6280" t="Ukloni"/>
+  <phrase i="6279" t="Deinstaliraj program"/>
+  <phrase i="6278" t="Upravljaj ovlaštenjem certifikata"/>
+  <phrase i="6277" t="Kraj"/>
+  <phrase i="6276" t="Proizvođač"/>
+  <phrase i="6275" t="Davatelj usluge"/>
+  <phrase i="6274" t="Treća strana"/>
+  <phrase i="6273" t="podne"/>
+  <phrase i="6272" t="pon."/>
+  <phrase i="6271" t="mmm dd, gggg"/>
+  <phrase i="6270" t="hh:mm ??"/>
+  <phrase i="6269" t="mmm dd, yyyy hh:mm  "/>
+  <phrase i="6268" t="Ned"/>
+  <phrase i="6267" t="Pon"/>
+  <phrase i="6266" t="Uto"/>
+  <phrase i="6265" t="Sri"/>
+  <phrase i="6264" t="Čet"/>
+  <phrase i="6263" t="Pet"/>
+  <phrase i="6262" t="Sub"/>
+  <phrase i="6261" t="Siječanj"/>
+  <phrase i="6260" t="Veljača"/>
+  <phrase i="6259" t="Ožujak"/>
+  <phrase i="6258" t="Travanj"/>
+  <phrase i="6257" t="Svibanj"/>
+  <phrase i="6256" t="Lipanj"/>
+  <phrase i="6255" t="Srpanj"/>
+  <phrase i="6254" t="Kolovoz"/>
+  <phrase i="6253" t="Rujan"/>
+  <phrase i="6252" t="Listopad"/>
+  <phrase i="6251" t="Studeni"/>
+  <phrase i="6250" t="Prosinac"/>
+  <phrase i="6249" t="Sij"/>
+  <phrase i="6248" t="Velj"/>
+  <phrase i="6247" t="Ožu"/>
+  <phrase i="6246" t="Tra"/>
+  <phrase i="6245" t="Svibanj"/>
+  <phrase i="6244" t="Lip"/>
+  <phrase i="6243" t="Srp"/>
+  <phrase i="6242" t="Kol"/>
+  <phrase i="6241" t="Ruj"/>
+  <phrase i="6240" t="Lis"/>
+  <phrase i="6239" t="Stu"/>
+  <phrase i="6238" t="Pro"/>
+  <phrase i="6237" t="Prije"/>
+  <phrase i="6236" t="Poslije"/>
+  <phrase i="6235" t="Vrijeme:"/>
+  <phrase i="6234" t="Datum:"/>
+  <phrase i="6233" t="Simboli"/>
+  <phrase i="6232" t="Predviđanje"/>
+  <phrase i="6231" t="predviđanje"/>
+  <phrase i="6230" t="PREDVIĐANJE"/>
+  <phrase i="6229" t="U redu"/>
+  <phrase i="6228" t="Opcije"/>
+  <phrase i="6227" t="am"/>
+  <phrase i="6226" t="pm"/>
+  <phrase i="6225" t="DeleteData"/>
+  <phrase i="6224" t="Veličina programa"/>
+  <phrase i="6223" t="Veličina podataka programa"/>
+  <phrase i="6222" t="Bajtova"/>
+  <phrase i="6221" t="Greška, kontaktirajte administratora"/>
+  <phrase i="6220" t="Izlaz iz programa..."/>
+  <phrase i="6219" t="Instalacija je otkazana"/>
+  <phrase i="6218" t="Instalacija programa nije uspjela"/>
+  <phrase i="6217" t="Instaliranje programa..."/>
+  <phrase i="6216" t="Pokretanje programa..."/>
+  <phrase i="6215" t="Potvrda"/>
+  <phrase i="6214" t="Učitavanje"/>
+  <phrase i="6213" t="Pokretanje"/>
+  <phrase i="6212" t="Veličina JAR"/>
+  <phrase i="6211" t="JAR URL"/>
+  <phrase i="6210" t="Opis"/>
+  <phrase i="6209" t="Dobavljač"/>
+  <phrase i="6208" t="MicroEdition-konfiguracija"/>
+  <phrase i="6207" t="MicroEdition-profil"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="Personalizacija"/>
+  <phrase i="6205" t="Upad jednim gumbom"/>
+  <phrase i="6204" t="Upr. širokopoj. nagl. sluš"/>
+  <phrase i="6203" t="Automatski odabir poziva"/>
+  <phrase i="6202" t="BLF za popise poziva"/>
+  <phrase i="6201" t="Automatski odabir linije"/>
+  <phrase i="6200" t="UI podaci"/>
+  <phrase i="6199" t="UI"/>
+  <phrase i="6198" t="Dobrodošlica"/>
+  <phrase i="6197" t="Pozdravna poruka"/>
+  <phrase i="6196" t="Kreiraj novi kontakt"/>
+  <phrase i="6195" t="Pohrani u postojeći kontakt"/>
+  <phrase i="6194" t="Učitavanje... Pričekajte"/>
+  <phrase i="6193" t="Konfiguracija sustava"/>
+  <phrase i="6192" t="Samo alfanumerički znaci!"/>
+  <phrase i="6191" t="Zadrži razine praćenja"/>
+  <phrase i="6190" t="Udaljeni Syslog"/>
+  <phrase i="6189" t="Razina praćenja"/>
+  <phrase i="6188" t="Dijagnostika omogućena"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="Organizacija"/>
+  <phrase i="6186" t="Izaberite zadano"/>
+  <phrase i="6185" t="Izaberite pogled"/>
+  <phrase i="6184" t="Odaberite sliku"/>
+  <phrase i="6183" t="Prilagodba funkcijske tipke"/>
+  <phrase i="6182" t="Linija %d (%s)"/>
+  <phrase i="6181" t="Odaberite liniju za pregled"/>
+  <phrase i="6180" t="Telefonske linije"/>
+  <phrase i="6179" t="Polazna stranica"/>
+  <phrase i="6178" t="Imenik"/>
+  <phrase i="6177" t="Pozadinska slika"/>
+  <phrase i="6176" t="Željeni pogled"/>
+  <phrase i="6175" t="Lijeva funkcijska tipka"/>
+  <phrase i="6174" t="Prilagodba polazne stranice"/>
+  <phrase i="6173" t="%s (%d propušteno)"/>
+  <phrase i="6172" t="Profil ograničen!"/>
+  <phrase i="6171" t="Nedodijeljeno"/>
+  <phrase i="6170" t="Izaberite polje kontakta"/>
+  <phrase i="6169" t="Prezime, Ime"/>
+  <phrase i="6168" t="Ime, Prezime"/>
+  <phrase i="6167" t="Redoslijed sortiranja imenika"/>
+  <phrase i="6166" t="Nema zadanog broja"/>
+  <phrase i="6165" t="Odaber. nedodijelj. brzo bir.!"/>
+  <phrase i="6164" t="Odaberite brzo bir. za dodjelj."/>
+  <phrase i="6163" t="Odaberite broj kontakta"/>
+  <phrase i="6162" t="Dodijelite brzo biranje %d"/>
+  <phrase i="6161" t="Dodijelite novo brzo biranje?"/>
+  <phrase i="6160" t="Odaberite vrstu telefona"/>
+  <phrase i="6159" t="Odaberite kontakt"/>
+  <phrase i="6158" t="IzbrSve"/>
+  <phrase i="6157" t="Svi kontakti su izbrisani!"/>
+  <phrase i="6156" t="Izbrisati sve kontakte?"/>
+  <phrase i="6155" t="Primarni telefon je ažuriran!"/>
+  <phrase i="6154" t="Pregled pozadinske slike"/>
+  <phrase i="6153" t="Novi zvuk zvona je spremljen!"/>
+  <phrase i="6152" t="Odgovara 0 zapisa"/>
+  <phrase i="6151" t="Nema mjesta za novi broj!"/>
+  <phrase i="6150" t="Preimenuj"/>
+  <phrase i="6149" t="Spoji"/>
+  <phrase i="6148" t="Presnimi"/>
+  <phrase i="6147" t="Kontakt je ažuriran!"/>
+  <phrase i="6146" t="Kontakt već postoji!"/>
+  <phrase i="6145" t="Kontakt je izbrisan!"/>
+  <phrase i="6144" t="Izbrisati kontakt?"/>
+  <phrase i="6143" t="Brisanje brzog biranja?"/>
+  <phrase i="6142" t="IM adresa"/>
+  <phrase i="6141" t="Nadimak"/>
+  <phrase i="6140" t="Brzo biranje %d je dodijeljeno!"/>
+  <phrase i="6139" t="BrzoBir"/>
+  <phrase i="6138" t="Novi unos u brzo biranje"/>
+  <phrase i="6137" t="(Prazno)"/>
+  <phrase i="6136" t="Prazan broj!"/>
+  <phrase i="6135" t="Izbrisano brzo biranje!"/>
+  <phrase i="6134" t="Držite pritisnutim za aktivir."/>
+  <phrase i="6133" t="Držite pritisnutim za deaktiv."/>
+  <phrase i="6132" t="%d brojeva za brzo biranje"/>
+  <phrase i="6131" t="1 broj za brzo biranje"/>
+  <phrase i="6130" t="Potrebno je ime kontakta!"/>
+  <phrase i="6129" t="Dostignut je maksim. kapacitet!"/>
+  <phrase i="6128" t="1 kontakt"/>
+  <phrase i="6127" t="1 zapis"/>
+  <phrase i="6126" t="Nema kontakata"/>
+  <phrase i="6125" t="Molimo suzite vaše pretraživ."/>
+  <phrase i="6124" t="Resetirati cijeli sustav?"/>
+  <phrase i="6123" t="Pokrenuti novo pokretanje tel.?"/>
+  <phrase i="6122" t="Molimo upišite broj u HEX"/>
+  <phrase i="6121" t="Unos nedostaje ili nije valjan"/>
+  <phrase i="6120" t="Čekanje %d odgovora od %s"/>
+  <phrase i="6119" t="Nema dostupnog pojasa"/>
+  <phrase i="6118" t="Čekaj do aktiviranja za zapis"/>
+  <phrase i="6117" t="Više"/>
+  <phrase i="6116" t="Jednako"/>
+  <phrase i="6115" t="Niže"/>
+  <phrase i="6114" t="Ne Uzn. Uključeno"/>
+  <phrase i="6113" t="Ne Uzn. Isključeno"/>
+  <phrase i="6112" t="Prednost prikaza povr. poziva"/>
+  <phrase i="6111" t="Masovna poruka"/>
+  <phrase i="6110" t="Konfigur. je uspj. ažurirana"/>
+  <phrase i="6109" t="Ažuriranje konfig. nije uspjelo"/>
+  <phrase i="6108" t="Konfig. paket je uspj.AFV ažur."/>
+  <phrase i="6107" t="Ažur. konfig. pak. nije uspjelo"/>
+  <phrase i="6106" t="Konfiguracija HTTPS klijenta"/>
+  <phrase i="6105" t="Prihvati neovjereni certifikat"/>
+  <phrase i="6104" t="Odbij neovjereni certifikat"/>
+  <phrase i="6103" t="Izaberi mogućnost certifikata"/>
+  <phrase i="6102" t="Podaci o korisniku"/>
+  <phrase i="6101" t="Postavke onemogućene"/>
+  <phrase i="6100" t="Polje je samo za čitanje!"/>
+  <phrase i="6099" t="Administr. je zaključao profil"/>
+  <phrase i="6098" t="Administr. je ograničio pristup"/>
+  <phrase i="6097" t="Profil je samo za čitanje"/>
+  <phrase i="6096" t="Molimo upišite Pin"/>
+  <phrase i="6095" t="Kontaktirajte admin. radi Pina"/>
+  <phrase i="6094" t="Gotovo"/>
+  <phrase i="6093" t="Izbor vršite srednjim gumbom"/>
+  <phrase i="6092" t="Srednjim gumbom otkažite izbor"/>
+  <phrase i="6091" t="Nev. loz. ili server ne radi"/>
+  <phrase i="6090" t="Promijeniti WLAN lozinku?"/>
+  <phrase i="6089" t="Podaci o korisniku"/>
+  <phrase i="6088" t="Pristup na WLAN je odbijen!"/>
+  <phrase i="6087" t="Poslužitelj je isključen"/>
+  <phrase i="6086" t="Imenik"/>
+  <phrase i="6085" t="Pritisnite Nastavi za nastavak"/>
+  <phrase i="6084" t="Novi kontakt"/>
+  <phrase i="6083" t="Promijeni kontakt"/>
+  <phrase i="6082" t="Kontakt"/>
+  <phrase i="6081" t="%d kontakata"/>
+  <phrase i="6080" t="%d od %d kontakata"/>
+  <phrase i="6079" t="Puno ime"/>
+  <phrase i="6078" t="Postavka prikaza"/>
+  <phrase i="6077" t="Odaberite redoslijed prikaziv."/>
+  <phrase i="6076" t="Datoteka kao"/>
+  <phrase i="6075" t="Poslovni telefon"/>
+  <phrase i="6074" t="Mobilni telefon"/>
+  <phrase i="6073" t="Kućni telefon"/>
+  <phrase i="6072" t="Drugi telefon"/>
+  <phrase i="6071" t="Adresa e-pošte"/>
+  <phrase i="6070" t="Tvrtka"/>
+  <phrase i="6069" t="Poslovna adresa"/>
+  <phrase i="6068" t="Ulica"/>
+  <phrase i="6067" t="Grad"/>
+  <phrase i="6066" t="Država/Županija"/>
+  <phrase i="6065" t="Pozivni/Poštanski broj"/>
+  <phrase i="6064" t="Spremi"/>
+  <phrase i="6063" t="Spremi kontakt"/>
+  <phrase i="6062" t="Odaberite vrstu broja"/>
+  <phrase i="6061" t="Odaberite vrstu uređ. za kont."/>
+  <phrase i="6060" t="Sortiraj"/>
+  <phrase i="6059" t="Nastavi"/>
+  <phrase i="6058" t="Poslovni"/>
+  <phrase i="6057" t="Osobni"/>
+  <phrase i="6056" t="Međunarodno"/>
+  <phrase i="6055" t="Favoriti"/>
+  <phrase i="6054" t="Brzi kontakti"/>
+  <phrase i="6053" t="Ključni kupac"/>
+  <phrase i="6052" t="Mješovito"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="Kategorije"/>
+  <phrase i="6049" t="Kategorija"/>
+  <phrase i="6048" t="Odaberite kategorije za kontakt"/>
+  <phrase i="6047" t="Odaberite kategorije"/>
+  <phrase i="6046" t="Odaberite kategoriju za kontakt"/>
+  <phrase i="6045" t="Odabir kategorije"/>
+  <phrase i="6044" t="Filtar"/>
+  <phrase i="6043" t="Odaberite filtar za kontakte"/>
+  <phrase i="6042" t="Odaberite filtar"/>
+  <phrase i="6041" t="Brza biranja"/>
+  <phrase i="6040" t="Broj brzog biranja"/>
+  <phrase i="6039" t="Upišite broj za brzo biranje"/>
+  <phrase i="6038" t="Broj za brzo bir. nije valjan"/>
+  <phrase i="6037" t="Brzo bir. %d nije dodijeljeno"/>
+  <phrase i="6036" t="Brzo biranje je prazno"/>
+  <phrase i="6035" t="Koristite mogućnosti za sprem."/>
+  <phrase i="6034" t="Pritisnite mogućnosti za sprem."/>
+  <phrase i="6033" t="Kontakt je spremljen"/>
+  <phrase i="6032" t="Kontakt nije spremljen!"/>
+  <phrase i="6031" t="Postavke su spremljene"/>
+  <phrase i="6030" t="Postavke nisu spremljene!"/>
+  <phrase i="6029" t="Otkazano"/>
+  <phrase i="6028" t="Promjene su otkazane"/>
+  <phrase i="6027" t="%d propušt. poz. od pozivatelja"/>
+  <phrase i="6026" t="%d primlj. poz. od pozivatelja"/>
+  <phrase i="6025" t="%d upućenih poziva na ovaj broj"/>
+  <phrase i="6024" t="Režim punjenja"/>
+  <phrase i="6023" t="Zaslon ostaje prigušen"/>
+  <phrase i="6022" t="Zaslon ostaje potpuno osvijet."/>
+  <phrase i="6021" t="Odaberite postavku zaslona"/>
+  <phrase i="6020" t="Prilagodbe polazne stranice"/>
+  <phrase i="6019" t="Prečice"/>
+  <phrase i="6018" t="Pregled linija"/>
+  <phrase i="6017" t="Glavni izbornik"/>
+  <phrase i="6016" t="Odaberite program"/>
+  <phrase i="6015" t="Programi"/>
+  <phrase i="6014" t="Odaberite prečicu za dodjelu"/>
+  <phrase i="6013" t="Dodijeli"/>
+  <phrase i="6012" t="Zvučnik omogućen"/>
+  <phrase i="6011" t="Zvučnik je onemogućen"/>
+  <phrase i="6010" t="Postavke praćenja"/>
+  <phrase i="6009" t="Pokrenite iznova tel. za Onem."/>
+  <phrase i="6008" t="Dopušteo"/>
+  <phrase i="6007" t="Nije konfigurirano"/>
+  <phrase i="6006" t="Postavke aktivnog zvona"/>
+  <phrase i="6005" t="Samo zvučni signal"/>
+  <phrase i="6004" t="Pozvoni telefonom"/>
+  <phrase i="6003" t="Odaberite postavku za dojavu"/>
+  <phrase i="6002" t="Propušt."/>
+  <phrase i="6001" t="Svi"/>
+  <!-- GUI -->
+  <phrase i="6000" t="Odaberite element statusa"/>
+  <phrase i="5999" t="Odaberite postavku modela"/>
+  <phrase i="5998" t="Konfiguracija mreže"/>
+  <phrase i="5997" t="Odaberite mrežnu postavku"/>
+  <phrase i="5996" t="Postavke telefona"/>
+  <phrase i="5995" t="Odaberite postavku telefona"/>
+  <phrase i="5994" t="Odaberite postavku sigurnosti"/>
+  <phrase i="5993" t="Odaberite postavku uređaja"/>
+  <phrase i="5992" t="Odaberite postavke"/>
+  <phrase i="5991" t="Odaberite profil"/>
+  <phrase i="5990" t="Odaberite postavku WLAN"/>
+  <phrase i="5989" t="802.11 režim"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Automatski-b/g"/>
+  <phrase i="5985" t="Auto-a"/>
+  <phrase i="5984" t="Auto-RSSI"/>
+  <phrase i="5983" t="Otvori"/>
+  <phrase i="5982" t="Otvaranje+WEP"/>
+  <phrase i="5981" t="Zajedničko+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="Auto (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Poll"/>
+  <phrase i="5976" t="U-APSD/Ništa"/>
+  <phrase i="5975" t="PS-Poll"/>
+  <phrase i="5973" t="HEX"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 bitova"/>
+  <phrase i="5970" t="128 bitova"/>
+  <phrase i="5969" t="Isključeno"/>
+  <phrase i="5968" t="Zvučno"/>
+  <phrase i="5967" t="Sigurnosni način rada"/>
+  <phrase i="5966" t="Jedna pristupna točka"/>
+  <phrase i="5965" t="Režim poziva za šted. energije"/>
+  <phrase i="5964" t="Oblik ključa"/>
+  <phrase i="5963" t="Statički WEP ključ"/>
+  <phrase i="5962" t="WEP ključ"/>
+  <phrase i="5961" t="Primarno"/>
+  <phrase i="5960" t="Dogovoreni WPA ključ"/>
+  <phrase i="5959" t="Profil mreže"/>
+  <phrase i="5958" t="Zvučnik baze"/>
+  <phrase i="5957" t="Zvono baze"/>
+  <phrase i="5956" t="Naglavne slušalice"/>
+  <phrase i="5955" t="Normalno"/>
+  <phrase i="5954" t="Sastanak"/>
+  <phrase i="5953" t="Vanjsko"/>
+  <phrase i="5952" t="Tiho"/>
+  <phrase i="5951" t="Korisnički 1"/>
+  <phrase i="5950" t="Korisnički 2"/>
+  <phrase i="5949" t="Zvuk tipki"/>
+  <phrase i="5948" t="Način upozorenja"/>
+  <phrase i="5947" t="Samo zvono"/>
+  <phrase i="5946" t="Samo vibracija"/>
+  <phrase i="5945" t="Vibracija, zatim zvono"/>
+  <phrase i="5944" t="Zvono isključeno!"/>
+  <phrase i="5943" t="Zvona"/>
+  <phrase i="5942" t="Sekunda"/>
+  <phrase i="5941" t="Odaberi "/>
+  <phrase i="5940" t="Podešavanje "/>
+  <phrase i="5939" t="Novo"/>
+  <phrase i="5938" t="Trenutno"/>
+  <phrase i="5937" t="Unesite novo"/>
+  <phrase i="5936" t="Stara vrijednost"/>
+  <phrase i="5935" t="Omogući"/>
+  <phrase i="5934" t="Onemog."/>
+  <phrase i="5933" t="Warning"/>
+  <phrase i="5932" t="Greška konfiguracije"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP Uklj/Isklj"/>
+  <phrase i="5928" t="CallManager podaci"/>
+  <phrase i="5927" t="HTTP podaci"/>
+  <phrase i="5926" t="Lokalni podaci"/>
+  <phrase i="5925" t="Podaci o KvU"/>
+  <phrase i="5924" t="CallManager 2"/>
+  <phrase i="5923" t="Sigurnosni podaci"/>
+  <phrase i="5922" t="Konfiguracija WLAN"/>
+  <phrase i="5921" t="WLAN konfig"/>
+  <phrase i="5920" t="Naziv profila"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="Odaberite USB postavku"/>
+  <phrase i="5914" t="SIP - konfiguracija"/>
+  <phrase i="5913" t="Pretraživanje stranice"/>
+  <phrase i="5912" t="Poslužitelj za učitavanje"/>
+  <phrase i="5911" t="Odaberite kanal"/>
+  <phrase i="5910" t="Kanal"/>
+  <phrase i="5909" t="Profil %d"/>
+  <phrase i="5908" t="Korisnički profili"/>
+  <phrase i="5907" t="Odaberite korisnički profil"/>
+  <phrase i="5906" t="Odaberite korisničke postavke"/>
+  <phrase i="5905" t="Mrežni profili"/>
+  <phrase i="5904" t="Odaberite mrežne profile"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="Svjetlina zaslona"/>
+  <phrase i="5901" t="Istijek vremena zaslona"/>
+  <phrase i="5900" t="Nikada"/>
+  <phrase i="5899" t="Odgovor pomoću bilo koje tipke"/>
+  <phrase i="5898" t="Omogućeno"/>
+  <phrase i="5897" t="Onemogućeno"/>
+  <phrase i="5896" t="Naplata je gotova!"/>
+  <phrase i="5895" t="Baterija je izvađena!"/>
+  <phrase i="5894" t="Baterija je prazna!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="Unos niza"/>
+  <phrase i="5890" t="Autorizacijski niz"/>
+  <phrase i="5889" t="LSC operacija je gotova"/>
+  <phrase i="5888" t="LSC operacija je započela"/>
+  <phrase i="5887" t="Stani"/>
+  <phrase i="5886" t="Povezivanje s CAPF poslužit."/>
+  <phrase i="5885" t="Neuspjelo povez. s CAPF posluž."/>
+  <phrase i="5884" t="Povezan s CAPF poslužiteljem"/>
+  <phrase i="5883" t="Autentifikacija s CAPF"/>
+  <phrase i="5882" t="CAPF poslužitelj"/>
+  <phrase i="5881" t="Pogreška u LSC autentifikaciji"/>
+  <phrase i="5880" t="Generiranje ključeva za LSC"/>
+  <phrase i="5879" t="Generir. LSC ključa neuspjelo"/>
+  <phrase i="5878" t="LSC operacija je u tijeku"/>
+  <phrase i="5877" t="Novi pokušaj...molim pričekajte"/>
+  <phrase i="5876" t="Operacija poništena"/>
+  <phrase i="5875" t="LSC operacija je prekinuta"/>
+  <phrase i="5874" t="Isteklo je vrijeme za LSC oper."/>
+  <phrase i="5873" t="LSC operacija nije uspjela"/>
+  <phrase i="5872" t="Potrebna je minimalna duljina"/>
+  <phrase i="5871" t="URL nije konfiguriran!"/>
+  <phrase i="5870" t="Ništa"/>
+  <phrase i="5869" t="Nepoznato"/>
+  <phrase i="5867" t="Nije instalirano"/>
+  <phrase i="5866" t="Instalirano"/>
+  <phrase i="5864" t="Nije instalirano"/>
+  <phrase i="5863" t="LSC je ažuriran"/>
+  <phrase i="5862" t="LSC je izbrisan"/>
+  <phrase i="5861" t="Detalji"/>
+  <phrase i="5860" t="Pristup postavkama onemogućen!"/>
+  <phrase i="5859" t="Novo pokretanje telefona ..."/>
+  <phrase i="5858" t="Pokrenuti na tvorn. post. sada?"/>
+  <phrase i="5857" t="CTL datoteka"/>
+  <phrase i="5856" t="Popis poziva"/>
+  <phrase i="5855" t="CTL datoteka je izbrisana!"/>
+  <phrase i="5854" t="Nije pronađeno"/>
+  <phrase i="5853" t="Loš MIC na telefonu"/>
+  <phrase i="5852" t="CTL ažuriranje nije uspjelo"/>
+  <phrase i="5851" t="CTL instaliran"/>
+  <phrase i="5850" t="Punjač baterije je zaustavljen!"/>
+  <phrase i="5849" t="Punjač baterije je pokrenut!"/>
+  <phrase i="5848" t="AC napajanje je odvojeno!"/>
+  <phrase i="5847" t="AC napajanje je spojeno!"/>
+  <phrase i="5846" t="USB je odvojen!"/>
+  <phrase i="5845" t="USB je spojen!"/>
+  <phrase i="5844" t="Baza je odvojena!"/>
+  <phrase i="5843" t="Baza je spojena!"/>
+  <phrase i="5842" t="Slušalica je odvojena!"/>
+  <phrase i="5841" t="Slušalica je spojena!"/>
+  <phrase i="5840" t="Maksimalna duljina dostignuta!"/>
+  <phrase i="5839" t="Tipkovnica je otključana!"/>
+  <phrase i="5838" t="Tipkovnica je zaključana!"/>
+  <phrase i="5837" t="Otključati tipkovnicu?"/>
+  <phrase i="5836" t="Zaključati tipkovnicu?"/>
+  <phrase i="5835" t="Vibracija je isključena!"/>
+  <phrase i="5834" t="Vibracija je uključena!"/>
+  <phrase i="5833" t="LSC ažuriranje nije uspjelo!"/>
+  <phrase i="5832" t="MIC ažuriranje nije uspjelo!"/>
+  <phrase i="5831" t="Postavke su otključane!"/>
+  <phrase i="5830" t="Postavke su zaključane!"/>
+  <phrase i="5829" t="Prazna baterija...isključuje!"/>
+  <phrase i="5828" t="TFTP nije u CTL"/>
+  <phrase i="5827" t="USB sučelje je uključeno"/>
+  <phrase i="5826" t="USB sučelje je isključeno"/>
+  <phrase i="5825" t="%d sekunda"/>
+  <phrase i="5824" t="Autom. zaključavanje tipkovnice"/>
+  <phrase i="5823" t="Odaberite timer autom. zaključ."/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="Odaberite imenik"/>
+  <phrase i="5820" t="Mreža je zauzeta"/>
+  <phrase i="5819" t="WLAN nadzorna domena"/>
+  <phrase i="5818" t="ID USB dobavljača"/>
+  <phrase i="5817" t="ID USB proizvoda"/>
+  <phrase i="5816" t="Adresa RNDIS uređaja"/>
+  <phrase i="5815" t="RNDIS host adresa"/>
+  <phrase i="5814" t="Sakrij"/>
+  <phrase i="5813" t="Opcije"/>
+  <phrase i="5812" t="Pritisn. srednju tipku za odab."/>
+  <phrase i="5811" t="Pritisn. srednju tipku za uređ."/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="Sačuvaj zapise"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="Konfiguracija sigurnosti"/>
+  <phrase i="5785" t="Profil je blokiran!"/>
+  <phrase i="5784" t="Profili blokirani!"/>
+  <phrase i="5783" t="ID drivera WLAN"/>
+  <phrase i="5782" t="ID firmvera WLAN"/>
+  <phrase i="5781" t="Pregled statistika poziva"/>
+  <phrase i="5780" t="Codec primatelja"/>
+  <phrase i="5779" t="Codec pošiljatelja"/>
+  <phrase i="5778" t="Veličina primatelja"/>
+  <phrase i="5777" t="Veličina pošiljatelja"/>
+  <phrase i="5776" t="Prosječne smetnje"/>
+  <phrase i="5775" t="Maksimalne smetnje"/>
+  <phrase i="5774" t="Primatelj odbačen"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="Srednji MOS LQK"/>
+  <phrase i="5771" t="Min MOS LQK"/>
+  <phrase i="5770" t="Maks MOS LQK"/>
+  <phrase i="5769" t="MOS LQK Verzija"/>
+  <phrase i="5768" t="CumConcealRatio"/>
+  <phrase i="5767" t="IntConcealRatio"/>
+  <phrase i="5766" t="MaxConcealRatio"/>
+  <phrase i="5765" t="Prikrivanje u sekundama"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="Podaci o mreži"/>
+  <phrase i="5761" t="WLAN podaci"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="Jezik korisnika"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="Sigurnost"/>
+  <phrase i="5755" t="Izbor razine glasnoće"/>
+  <phrase i="5754" t="Postavke zvuka"/>
+  <phrase i="5753" t="Postavke zaslona"/>
+  <phrase i="5752" t="Postavke tipkovnice"/>
+  <phrase i="5751" t="Zadana vrsta zvona"/>
+  <phrase i="5750" t="Odaberite postavku zvuka"/>
+  <phrase i="5749" t="Odaberite postavku zaslona"/>
+  <phrase i="5748" t="Odaberite postavku tipkovnice"/>
+  <phrase i="5747" t="Vrsta kodiranja"/>
+  <phrase i="5746" t="Način rada KvU"/>
+  <phrase i="5745" t="Key Management"/>
+  <phrase i="5744" t="Tx snaga"/>
+  <phrase i="5743" t="Zajedničko"/>
+  <phrase i="5742" t="Automatsko prebacivanje"/>
+  <phrase i="5741" t="WPA ništa"/>
+  <phrase i="5740" t="Internetski pristup"/>
+  <phrase i="5739" t="Samo za čitanje"/>
+  <phrase i="5738" t="Uredite broj za biranje"/>
+  <phrase i="5737" t="Postavke glasnoće"/>
+  <phrase i="5736" t="Izbor glasnoće"/>
+  <phrase i="5735" t="Glasnoće"/>
+  <phrase i="5734" t="Zvono"/>
+  <phrase i="5733" t="Slušalica"/>
+  <phrase i="5732" t="Zvučnik"/>
+  <phrase i="5731" t="Vibracija i zvono"/>
+  <phrase i="5730" t="Razina %d"/>
+  <phrase i="5729" t="Minuta"/>
+  <phrase i="5728" t="Minute"/>
+  <phrase i="5727" t="Poziv u tijeku..."/>
+  <phrase i="5726" t="Poziv poništen!"/>
+  <phrase i="5725" t="Neuspješan poz. Pokušajte pon."/>
+  <phrase i="5724" t="Nemoguće omoguć.: prazan SSID!"/>
+  <phrase i="5723" t="Prazan SSID je nedozvoljen!"/>
+  <phrase i="5722" t="Ton zvona"/>
+  <phrase i="5721" t="Trenutne postavke"/>
+  <phrase i="5720" t="Raspoloživi tonovi zvona"/>
+  <phrase i="5719" t="Postavke tonova zvona"/>
+  <phrase i="5718" t="Pregled"/>
+  <phrase i="5717" t="Odaberi ton zvona"/>
+  <phrase i="5716" t="Primijeni ton zvona"/>
+  <phrase i="5715" t="Provedi"/>
+  <phrase i="5714" t="LED indikator dostupn. linije"/>
+  <phrase i="5713" t="Sigurnosna konfiguracija"/>
+  <phrase i="5712" t="Izlaz zvona"/>
+  <phrase i="5711" t="Zvučnik i naglavne slušalice"/>
+  <phrase i="5710" t="Promjena"/>
+  <phrase i="5709" t="Konfiguracija za Wavelink"/>
+  <phrase i="5708" t="Odaberite postavku za Wavelink"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="Promijeni Wavelink poslužitelj"/>
+  <phrase i="5705" t="Wavelink poslužitelj"/>
+  <phrase i="5704" t="Port Wavelink poslužitelja"/>
+  <phrase i="5703" t="Verzija Enablera"/>
+  <phrase i="5702" t="Korisničko ime"/>
+  <phrase i="5701" t="Korisnička vrijednost"/>
+  <phrase i="5700" t="Kanal"/>
+  <phrase i="5699" t="Popis susjeda"/>
+  <phrase i="5698" t="AP naziv"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NulPrim"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="Otklj."/>
+  <phrase i="5689" t="Osobni imenik"/>
+  <phrase i="5688" t="Imenik tvrtke"/>
+  <phrase i="5687" t="Pritisnite deblokadu"/>
+  <phrase i="5686" t="Pritisnite # za deblokadu"/>
+  <phrase i="5685" t="Pritisnite i držite # za deblokadu"/>
+  <phrase i="5684" t="Tipkovnica je zaključana!"/>
+  <phrase i="5683" t="Pozadinsko svjetlo"/>
+  <phrase i="5682" t="Odaberite audio putanju"/>
+  <phrase i="5681" t="Zvučnik i Bluetooth"/>
+  <phrase i="5680" t="Zvono za naglavne slušalice"/>
+  <phrase i="5679" t="Visoko"/>
+  <phrase i="5678" t="Srednji"/>
+  <phrase i="5677" t="Nisko"/>
+  <phrase i="5676" t="Pritisnite %s za glavni ekran"/>
+  <phrase i="5675" t="Pojedinosti poziva"/>
+  <phrase i="5674" t="Na %s pri %s"/>
+  <phrase i="5673" t="Trajanje"/>
+  <phrase i="5672" t="Promptni režim"/>
+  <phrase i="5671" t="Vaša korisnička uvjerenja su možda neispravna."/>
+  <phrase i="5670" t="Promijeniti sada?"/>
+  <phrase i="5669" t="Režim zvučnika"/>
+  <phrase i="5668" t="Trajno"/>
+  <phrase i="5667" t="Po pozivu"/>
+  <phrase i="5666" t="Prijava u mrežni profil"/>
+  <phrase i="5665" t="Veličina fonta"/>
+  <phrase i="5664" t="Povećano"/>
+  <phrase i="5663" t="64 bita"/>
+  <phrase i="5662" t="104 bita"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="INTERKOM"/>
+  <phrase i="4998" t="Zvono dolaznog poziva"/>
+  <phrase i="4997" t="Lokalni imenik"/>
+  <phrase i="4996" t="Lokalno brzo biranje"/>
+  <phrase i="4995" t="Prezime"/>
+  <phrase i="4994" t="Ime"/>
+  <phrase i="4993" t="Pretraživanje lokalnog imenika"/>
+  <phrase i="4992" t="Previše pogod. Preciz. pretraž."/>
+  <phrase i="4991" t="Nije pronađen ni jedan zapis."/>
+  <phrase i="4990" t="Zapisi 1 do ... od"/>
+  <phrase i="4989" t="Nema raspoložive linije"/>
+  <phrase i="4988" t="Prijenos nije moguć"/>
+  <phrase i="4987" t="Prijenos-do je zauzet"/>
+  <phrase i="4986" t="Unesite/odaberite broj za bir."/>
+  <phrase i="4985" t="Želite pon. postaviti sve post"/>
+  <phrase i="4984" t="sustava na zadane vrijednosti?"/>
+  <phrase i="4983" t="Usluge imenika"/>
+  <phrase i="4982" t="XML usluge"/>
+  <phrase i="4981" t="Povezivanje s poslužiteljem"/>
+  <phrase i="4980" t="Povezivanje nije uspjelo"/>
+  <phrase i="4979" t="Želite ponovo pokrenuti tel?"/>
+  <phrase i="4978" t="Izbornik"/>
+  <phrase i="4977" t="Jezik"/>
+  <phrase i="4976" t="Alternativna domena"/>
+  <phrase i="4975" t="Alternativni DNS"/>
+  <phrase i="4974" t="Trenutna vrijednost"/>
+  <phrase i="4973" t="Nova vrijednost"/>
+  <phrase i="4972" t="Zadani usmjerivač"/>
+  <phrase i="4971" t="VLAN omogućen"/>
+  <phrase i="4970" t="CDP omogućen"/>
+  <phrase i="4969" t="Usluge"/>
+  <phrase i="4968" t="Brzo biranje"/>
+  <phrase i="4967" t="Unesite poslužitelj"/>
+  <phrase i="4966" t="Statično"/>
+  <phrase i="4965" t="Način registriranja"/>
+  <phrase i="4964" t="Način"/>
+  <phrase i="4963" t="Postojeća infrastruktura"/>
+  <phrase i="4962" t="Nadogradnja firmvera"/>
+  <phrase i="4961" t="Izbornik kontrasta"/>
+  <phrase i="4960" t="Promjena admin. lozinke"/>
+  <phrase i="4959" t="Nije dostupno"/>
+  <phrase i="4958" t="Uzorak teksta"/>
+  <phrase i="4957" t="Nadogradnja"/>
+  <phrase i="4956" t="Unesite novu lozinku"/>
+  <phrase i="4955" t="Poruke"/>
+  <phrase i="4954" t="Postavke"/>
+  <phrase i="4953" t="Imenici"/>
+  <phrase i="4952" t="Pogrešna lozinka"/>
+  <phrase i="4951" t="Unesite admin. lozinku"/>
+  <phrase i="4950" t="Ulazna vrijednost nije valjana"/>
+  <phrase i="4949" t="Neispravna dulj. niza za ključ"/>
+  <phrase i="4948" t="Neispr. niz klj: moraju HEX br."/>
+  <phrase i="4947" t="BRZO BIRANJE"/>
+  <phrase i="4946" t="Ethernet nije priključen"/>
+  <phrase i="4945" t="Konfiguriranje putem TFTP"/>
+  <phrase i="4944" t="Konfiguriranje IP-a kroz DHCP"/>
+  <phrase i="4943" t="Konfiguriranje VLAN postavki"/>
+  <phrase i="4942" t="Broj nije raspoloživ"/>
+  <phrase i="4941" t="Nije dodijeljeno"/>
+  <phrase i="4940" t="Glasnoća zvona"/>
+  <phrase i="4939" t="Glasnoća slušalice"/>
+  <phrase i="4938" t="Glasnoća zvučnika"/>
+  <phrase i="4937" t="Ponovi"/>
+  <phrase i="4936" t="Unesi"/>
+  <phrase i="4935" t="Alfa"/>
+  <phrase i="4934" t="MonIsklj"/>
+  <phrase i="4933" t="Monitor"/>
+  <phrase i="4932" t="Broj"/>
+  <phrase i="4931" t="Poruka"/>
+  <phrase i="718" t="Povijesni zapis interkoma"/>
+  <phrase i="717" t="Sve linije"/>
+  <phrase i="716" t="Linija %d"/>
+  <phrase i="715" t="Dolje"/>
+  <phrase i="714" t="Operacija poništena"/>
+  <phrase i="713" t="TFTP nije autoriziran: %s"/>
+  <phrase i="712" t="Izbriši"/>
+  <phrase i="711" t="Šifrirano"/>
+  <phrase i="710" t="Autentificirano"/>
+  <phrase i="709" t="Nije sigurno"/>
+  <phrase i="708" t="TLS pogreška za "/>
+  <phrase i="707" t="Pristup Internetu omogućen"/>
+  <phrase i="706" t="Sigurni način rada uređaja"/>
+  <phrase i="705" t="Obrada..."/>
+  <phrase i="704" t="Unos nije valjan ili nema info"/>
+  <phrase i="703" t="Generiranje ključeva neuspjelo"/>
+  <phrase i="702" t="Veza je prekinuta ili neuspjela"/>
+  <phrase i="701" t="Neuspjeh"/>
+  <phrase i="700" t="Istek"/>
+  <phrase i="699" t="Uspjeh"/>
+  <phrase i="698" t="Zahtjev za autentifikacijom..."/>
+  <phrase i="697" t="Povezivanje..."/>
+  <phrase i="696" t="Ponovni pokušaj za CAPF..."/>
+  <phrase i="695" t="Generiranje ključeva..."/>
+  <phrase i="694" t="Poništenje operacije"/>
+  <phrase i="693" t="Ažuriranje certifikata"/>
+  <phrase i="692" t="Niz autentifikacije"/>
+  <phrase i="691" t="Certifikati"/>
+  <phrase i="690" t="DSCP za usluge"/>
+  <phrase i="689" t="DSCP za konfiguriranje"/>
+  <phrase i="688" t="DSCP za kontrolu poziva"/>
+  <phrase i="687" t="Autentif. datoteke neuspjela"/>
+  <phrase i="686" t="CAST zadatak"/>
+  <phrase i="685" t="Video funkcija omogućena"/>
+  <phrase i="684" t="Auto. odabir linije omogućen"/>
+  <phrase i="683" t="Glasovni VLAN omogućen"/>
+  <phrase i="682" t="GARP omogućen"/>
+  <phrase i="681" t="Susjedni ulaz"/>
+  <phrase i="680" t="Susjedna IP adresa"/>
+  <phrase i="679" t="ID susjednog uređaja"/>
+  <phrase i="678" t="Po %s"/>
+  <phrase i="677" t="Proslijeđeno"/>
+  <phrase i="676" t="SkraćBir"/>
+  <phrase i="675" t="Zahtjev za URL stat. usluge"/>
+  <phrase i="674" t="Zahtjev stat. ključa značajke"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="Novih propuš. poz.: %d"/>
+  <phrase i="670" t="Zadano zvono"/>
+  <phrase i="669" t="Odaberite liniju..."/>
+  <phrase i="668" t="Uređivanje biranja"/>
+  <phrase i="667" t="Telefon-prekid"/>
+  <phrase i="666" t="Verzija mrežne lokacije"/>
+  <phrase i="665" t="Verzija lokacije korisnika"/>
+  <phrase i="664" t="TFTP zahtjev poništen"/>
+  <phrase i="663" t="DHCP onemogućen"/>
+  <phrase i="662" t="IP adresa obavezna"/>
+  <phrase i="661" t="Stanje "/>
+  <phrase i="660" t="Zadano"/>
+  <phrase i="659" t="Poruka na čekanju"/>
+  <phrase i="658" t="Način rada  - Samo slušalica"/>
+  <phrase i="657" t="Broj modela"/>
+  <phrase i="656" t="Pregled informacija o modelu"/>
+  <phrase i="655" t="Informacije o modelu"/>
+  <phrase i="654" t="Stanje veze "/>
+  <phrase i="653" t="Pokazatelj fonta - posljednji"/>
+  <phrase i="652" t="Pokazatelj fonta"/>
+  <phrase i="651" t="Pokretanje aplikacije"/>
+  <phrase i="650" t="Preuzimanje fonta posljednji"/>
+  <phrase i="649" t="Preuzimanje fonta"/>
+  <phrase i="648" t="Informacije tablice fontova"/>
+  <phrase i="647" t="Preuzimanje segm. - posljednji"/>
+  <phrase i="646" t="Preuzimanje segmenta"/>
+  <phrase i="645" t="Preuzimanje segmenta"/>
+  <phrase i="644" t="Informacije o hardveru"/>
+  <phrase i="643" t="TFTP - verzija"/>
+  <phrase i="642" t="Informacije o verziji"/>
+  <phrase i="641" t="U mirovanju"/>
+  <phrase i="640" t="Nije podržano"/>
+  <phrase i="639" t="Pogreška u ažuriranju lokacije"/>
+  <phrase i="638" t="Ček. na odg. stanja %d od %s"/>
+  <phrase i="637" t="Čekanje %s od %s"/>
+  <phrase i="636" t="BOOTP poslužitelj"/>
+  <phrase i="635" t="DHCP poslužitelj"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO verzija"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Serijski broj"/>
+  <phrase i="626" t="Verzija hardvera"/>
+  <phrase i="625" t="ID učitavanja pokretanja"/>
+  <phrase i="624" t="ID učitavanja aplikacije"/>
+  <phrase i="623" t="Broj telefona u imeniku"/>
+  <phrase i="622" t="Način rada SYS"/>
+  <phrase i="621" t="Način rada FIQ"/>
+  <phrase i="620" t="Način rada IRQ"/>
+  <phrase i="619" t="Način rada SVC"/>
+  <phrase i="618" t="Nedefinirani način rada"/>
+  <phrase i="610" t="Više"/>
+  <phrase i="609" t="Odaberi"/>
+  <phrase i="608" t="Izlaz"/>
+  <phrase i="607" t="Dolje"/>
+  <phrase i="606" t="Gore"/>
+  <phrase i="605" t="Odustani"/>
+  <phrase i="604" t="Uredi"/>
+  <phrase i="603" t="Ne"/>
+  <phrase i="602" t="Da"/>
+  <phrase i="601" t="Reprod."/>
+  <phrase i="600" t="Biraj"/>
+  <phrase i="599" t="UrediBir"/>
+  <phrase i="598" t="Spremi"/>
+  <phrase i="597" t="Vrati"/>
+  <phrase i="596" t="Izbriši"/>
+  <phrase i="595" t="Tvornički"/>
+  <phrase i="594" t="U redu"/>
+  <phrase i="593" t="Provjera"/>
+  <phrase i="592" t="Traži"/>
+  <phrase i="591" t="Sljedeće"/>
+  <phrase i="590" t="Ažuriraj"/>
+  <phrase i="589" t="Izbriši"/>
+  <phrase i="588" t="Podnesi"/>
+  <phrase i="587" t="Ton"/>
+  <phrase i="586" t="Mrežna lokacija"/>
+  <phrase i="585" t="Jezik korisnika"/>
+  <phrase i="584" t="Kate File"/>
+  <phrase i="583" t="Datoteka tona"/>
+  <phrase i="582" t="Zvono je zauzeto!"/>
+  <phrase i="581" t="TFTP poslužitelj 2"/>
+  <phrase i="578" t="Konf. SW priključka"/>
+  <phrase i="577" t="Konf. PC priključka"/>
+  <phrase i="576" t="PC priključak isključen"/>
+  <phrase i="575" t="Pogreška"/>
+  <phrase i="574" t="Argument nije valjan"/>
+  <phrase i="573" t="Osnovni telefon"/>
+  <phrase i="571" t="IZBORNIK KONTRASTA"/>
+  <phrase i="570" t="Odaberite kontrast za ugađanje"/>
+  <phrase i="569" t="Glasovna pošta"/>
+  <phrase i="568" t="PORUKA"/>
+  <phrase i="555" t="CM-ICMP-Nedostupno"/>
+  <phrase i="554" t="Odabir poziva..."/>
+  <phrase i="553" t="URL Proxy poslužitelja"/>
+  <phrase i="552" t="URL autentifikacije"/>
+  <phrase i="551" t="AutomatskoBiranje poništeno!"/>
+  <phrase i="550" t="Sidecar Task"/>
+  <phrase i="547" t="Pogreška HTTP datoteke"/>
+  <phrase i="546" t="XML greš. [4]: Greš. parsir."/>
+  <phrase i="545" t="Pogreška u stvaranju datoteke"/>
+  <phrase i="544" t="Posljednje="/>
+  <phrase i="543" t="Učitaj odbijeni HC"/>
+  <phrase i="542" t="Telefon-reg.-rej."/>
+  <phrase i="541" t="Ponovo post.-pokr."/>
+  <phrase i="540" t="Ponovo pokr.-pokr."/>
+  <phrase i="539" t="Telefon-Re-IP"/>
+  <phrase i="538" t="Telefon-tipkovnica"/>
+  <phrase i="537" t="Telefon-Dijag."/>
+  <phrase i="536" t="Povrat nakon pogreške"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-aborted-TCP"/>
+  <phrase i="532" t="CM-reset-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="530" t="Greška ovjere podataka konfig."/>
+  <phrase i="529" t="Informacije o priključnici"/>
+  <phrase i="528" t="Informacije o ethernetu"/>
+  <phrase i="527" t="Broj prevelikih: %s"/>
+  <phrase i="526" t="Od "/>
+  <phrase i="525" t="Nema unosa"/>
+  <phrase i="524" t="Unesite koris. ID i lozinku"/>
+  <phrase i="523" t="Lozinka"/>
+  <phrase i="522" t="KorisničkoIme"/>
+  <phrase i="521" t="Odaberite uslugu..."/>
+  <phrase i="520" t="Preuzim. trenutnog poziva..."/>
+  <phrase i="519" t="Pogreška u TFTP veličini"/>
+  <phrase i="518" t="Datoteka fraza"/>
+  <phrase i="517" t="Datoteka Glyph"/>
+  <phrase i="516" t="Broj neraspoloživih: %s"/>
+  <phrase i="515" t="Loši %s"/>
+  <phrase i="514" t="Zapis %d"/>
+  <phrase i="513" t="Pristup"/>
+  <phrase i="511" t="Telefon"/>
+  <phrase i="510" t="Mreža"/>
+  <phrase i="509" t="U tijeku %d"/>
+  <phrase i="508" t="Statistika tijeka"/>
+  <phrase i="507" t="Zapisi uređaja"/>
+  <phrase i="506" t="Priključnica %d"/>
+  <phrase i="505" t="Ethernet"/>
+  <phrase i="504" t="Podaci o uređaju"/>
+  <phrase i="503" t="Kašnjenje prosljeđivanja"/>
+  <phrase i="502" t="Brisanje konfiguracije"/>
+  <phrase i="501" t="Alternativni TFTP"/>
+  <phrase i="500" t="Oslob. DHCP adresa"/>
+  <phrase i="499" t="DHCP - omogućeno"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="Verzija"/>
+  <phrase i="493" t="Natrag"/>
+  <phrase i="492" t=" UKLJUČENO"/>
+  <phrase i="491" t=" DA"/>
+  <phrase i="490" t=" ISKLJUČENO"/>
+  <phrase i="489" t=" NE"/>
+  <phrase i="488" t="RTP kašnjenje"/>
+  <phrase i="487" t="TFTP pogreška"/>
+  <phrase i="486" t="TFTP pogreška pristupa"/>
+  <phrase i="485" t="Datoteka nije pronađena"/>
+  <phrase i="484" t="Posljednja=0x%02X"/>
+  <phrase i="483" t="CM-zatvoreno-TCP"/>
+  <phrase i="482" t="TCP-istek"/>
+  <phrase i="481" t="Inicijalizirano"/>
+  <phrase i="480" t="Naziv=%15s"/>
+  <phrase i="479" t="Ažuriranje softvera"/>
+  <phrase i="478" t="ROM - greška kontr. zbroja"/>
+  <phrase i="477" t=" Učitaj="/>
+  <phrase i="474" t="Duplikat IP adrese"/>
+  <phrase i="473" t="IP adresa izdana"/>
+  <phrase i="472" t="Ponovno postavljanje"/>
+  <phrase i="471" t="Zahtjev popisa poslužitelja"/>
+  <phrase i="470" t="Zahtjev za statusom brzine"/>
+  <phrase i="469" t="Zahtjev za statusom linije"/>
+  <phrase i="468" t="Zahtjev za skupom funkc. tipki"/>
+  <phrase i="467" t="Zahtjev za predl. funkc. tipki"/>
+  <phrase i="466" t="Zahtjev za predloškom"/>
+  <phrase i="465" t="DSP - ponovno pokretanje"/>
+  <phrase i="464" t="Verificiranje učitavanja"/>
+  <phrase i="463" t="Registracija odbačena"/>
+  <phrase i="462" t="Registriranje"/>
+  <phrase i="461" t="Otvaranje "/>
+  <phrase i="460" t="Konfiguracija liste CM-a"/>
+  <phrase i="459" t="Konfiguriranje IP-a"/>
+  <phrase i="458" t="Konfiguriranje VLAN-a"/>
+  <phrase i="457" t="%d od %d"/>
+  <phrase i="456" t="Podaci o proizv. nisu valjani"/>
+  <phrase i="455" t="XML pogreška [%d]!"/>
+  <phrase i="454" t="HTTP pogreška [%d]!"/>
+  <phrase i="453" t="Glavno računalo nije pronađeno"/>
+  <phrase i="452" t="HTTP zahtjev poništen"/>
+  <phrase i="451" t="Preusmjeravanje..."/>
+  <phrase i="450" t="Autorizacija je obavezna!"/>
+  <phrase i="449" t="Pola"/>
+  <phrase i="448" t="Puno"/>
+  <phrase i="447" t="Vrijeme rada"/>
+  <phrase i="446" t="Pogreška vrste kompresije"/>
+  <phrase i="445" t="Šifra TCP pogreške"/>
+  <phrase i="444" t="Pogreška verzije"/>
+  <phrase i="443" t="Pogreška zbog punog diska"/>
+  <phrase i="442" t="CFG TFTP - pogreška u veličini"/>
+  <phrase i="441" t="DSP - kašnjenje"/>
+  <phrase i="440" t="Podaci izbrisani"/>
+  <phrase i="439" t="DSP održavanje veze isteklo"/>
+  <phrase i="438" t="DSP pogreška"/>
+  <phrase i="437" t="VLAN nije valjan"/>
+  <phrase i="436" t="IP adresa nije valjana"/>
+  <phrase i="435" t="Nevaljana Subnet maska"/>
+  <phrase i="434" t=" Nedostup."/>
+  <phrase i="433" t=" Stanje čekanja"/>
+  <phrase i="432" t=" Aktivno"/>
+  <phrase i="431" t="Koristi se poslužitelj BOOTP"/>
+  <phrase i="430" t="Pogreška u programiranju"/>
+  <phrase i="429" t="Duplikat IP-a"/>
+  <phrase i="428" t="Nema zadanog usmjerivača"/>
+  <phrase i="427" t="Datot. konfig. je raspoloživa"/>
+  <phrase i="426" t="Pogreška u prijenosu poruke"/>
+  <phrase i="425" t="ID učitavanja nije točan"/>
+  <phrase i="424" t="Nema IP-a DNS poslužitelja"/>
+  <phrase i="423" t="DNS istek"/>
+  <phrase i="422" t="DNS - nepoznato gl. računalo"/>
+  <phrase i="421" t="TFTP - opća pogreška"/>
+  <phrase i="420" t="CFG datoteka nije pronađena"/>
+  <phrase i="419" t="TFTP - istek"/>
+  <phrase i="418" t="DHCP - istek"/>
+  <phrase i="417" t="Usmjerivač je obavezan"/>
+  <phrase i="416" t="Usmjerivač nije na subnetu"/>
+  <phrase i="415" t="TFTP poslužitelj je obavezan"/>
+  <phrase i="414" t="Informacije nisu valjane"/>
+  <phrase i="413" t="BCast Supress - isključeno"/>
+  <phrase i="412" t="BCast Supress - uključeno"/>
+  <phrase i="410" t="Glasnoća slušalice spremljena!"/>
+  <phrase i="409" t="Glasn. nagl. sluš. spremljena!"/>
+  <phrase i="408" t="Glasnoća zvučnika spremljena!"/>
+  <phrase i="407" t="Promjene nisu spremljene!"/>
+  <phrase i="406" t="Spremiti postavke glasnoće?"/>
+  <phrase i="405" t="Unesite ulazne podatke..."/>
+  <phrase i="404" t="Usluge nisu raspoložive"/>
+  <phrase i="403" t="USLUGE"/>
+  <phrase i="402" t="Pregled podataka o hardveru"/>
+  <phrase i="401" t="Informacije o hardveru"/>
+  <phrase i="400" t="Pregled informacija iz sloga"/>
+  <phrase i="399" t="Nadzor sloga"/>
+  <phrase i="398" t="Pregled pod. o isprav. grešaka"/>
+  <phrase i="397" t="Prikaz ispravljanja pogrešaka"/>
+  <phrase i="396" t="Pregled verzija firmvera"/>
+  <phrase i="395" t="Verzije firmvera"/>
+  <phrase i="394" t="Pregled mrežne statistike"/>
+  <phrase i="393" t="Mrežna statistika"/>
+  <phrase i="392" t="Pregled poruka statusa"/>
+  <phrase i="391" t="Unos je provjeren"/>
+  <phrase i="390" t="Novo %s:"/>
+  <phrase i="389" t="Trenutni %s:"/>
+  <phrase i="388" t="Uređeno %s"/>
+  <phrase i="387" t="Status postavki"/>
+  <phrase i="386" t="Odaberite element statusa..."/>
+  <phrase i="385" t="Statistika sloga"/>
+  <phrase i="384" t="Poruke o statusu"/>
+  <phrase i="383" t="Odabir mrežnih postavki..."/>
+  <phrase i="382" t="Popis zvona nije raspoloživ!"/>
+  <phrase i="381" t="Loša datoteka s popisom zvona!"/>
+  <phrase i="380" t="Popis zvona nije raspoloživ!"/>
+  <phrase i="379" t="Zahtjev datot. popisa zvona ..."/>
+  <phrase i="378" t="Vrsta zvona"/>
+  <phrase i="377" t="Odabir zvona..."/>
+  <phrase i="376" t="Zahtijevanje popisa zvona..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Promjena prihvać. i spremljena"/>
+  <phrase i="372" t="Promjena kontrasta..."/>
+  <phrase i="371" t="Sve promjene su spremljene"/>
+  <phrase i="370" t="Tvorničke postavke su vraćene "/>
+  <phrase i="369" t="Spremljene postavke su vraćene"/>
+  <phrase i="368" t="Odaberite postavke..."/>
+  <phrase i="367" t="POSTAVKE"/>
+  <phrase i="366" t="Status"/>
+  <phrase i="365" t="Mrežna konfiguracija"/>
+  <phrase i="364" t="Kontrast"/>
+  <phrase i="363" t="Rafiniranje krit. pretraž...."/>
+  <phrase i="362" t="Nema zapisa"/>
+  <phrase i="361" t="%d zapisi"/>
+  <phrase i="360" t="%s pretraživanje"/>
+  <phrase i="359" t="Popis poziva izbrisan!"/>
+  <phrase i="358" t="Odaberite imenik..."/>
+  <phrase i="357" t="URL imenika nije valjan!..."/>
+  <phrase i="356" t="IMENIK"/>
+  <phrase i="355" t="Upućeni pozivi"/>
+  <phrase i="354" t="Primljeni pozivi"/>
+  <phrase i="353" t="Propušteni pozivi"/>
+  <phrase i="352" t="CM ne radi, značajke onemoguć."/>
+  <phrase i="351" t="%s za"/>
+  <phrase i="350" t="Ta tipka nije aktivna ovdje"/>
+  <phrase i="349" t="Zahtjev u tijeku..."/>
+  <phrase i="348" t="Statistika poziva"/>
+  <phrase i="347" t="INFORMACIJE"/>
+  <phrase i="346" t="Odab. tipku za više inform..."/>
+  <phrase i="345" t="Pritis. tipku  za poništ..."/>
+  <phrase i="344" t="Sva polja spremljena"/>
+  <phrase i="343" t="Nema spremljenih promjena"/>
+  <phrase i="342" t="%d dana, "/>
+  <phrase i="341" t="1 dana, "/>
+  <phrase i="340" t="U %s u"/>
+  <phrase i="339" t="%s u"/>
+  <phrase i="338" t="Jučer u"/>
+  <phrase i="337" t="Danas u"/>
+  <phrase i="336" t="subota"/>
+  <phrase i="335" t="petak"/>
+  <phrase i="334" t="četvrtak"/>
+  <phrase i="333" t="srijeda"/>
+  <phrase i="332" t="utorak"/>
+  <phrase i="331" t="ponedjeljak"/>
+  <phrase i="330" t="nedjelja"/>
+  <phrase i="329" t="Prema %s"/>
+  <phrase i="328" t="Broj je nepoznat"/>
+  <phrase i="327" t="Od %s"/>
+  <phrase i="326" t="Za %s"/>
+  <phrase i="325" t="Proslijeđen %s"/>
+  <phrase i="324" t="Vanjski poziv"/>
+  <phrase i="323" t="Koristi se daljinski"/>
+  <phrase i="322" t="%d novih propuštenih poziva%c"/>
+  <phrase i="321" t="Rx Longs"/>
+  <phrase i="320" t="Rx Shorts"/>
+  <phrase i="319" t="Rx Broadcasts"/>
+  <phrase i="318" t="Rx Multicasts"/>
+  <phrase i="317" t="Rx Runt"/>
+  <phrase i="316" t="Rx Bad Preamble"/>
+  <phrase i="315" t="Rx CRC Errors"/>
+  <phrase i="314" t="Rx Frames"/>
+  <phrase i="313" t="Rx Long/CRC"/>
+  <phrase i="312" t="Rx Overruns"/>
+  <phrase i="311" t="Tx Deferred Abort"/>
+  <phrase i="310" t="Tx Collisions"/>
+  <phrase i="309" t="Tx Multicasts"/>
+  <phrase i="308" t="Tx Broadcasts"/>
+  <phrase i="307" t="Tx Frames"/>
+  <phrase i="306" t="Tx Excessive Collisions"/>
+  <phrase i="305" t="overflow Drop"/>
+  <phrase i="304" t="bpdu Drop"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Tx multicast"/>
+  <phrase i="287" t="Tx broadcast"/>
+  <phrase i="286" t="Tx excessLength"/>
+  <phrase i="285" t="Tx fifoUnderrun"/>
+  <phrase i="284" t="Tx collisions"/>
+  <phrase i="283" t="Tx totalGoodPkt"/>
+  <phrase i="282" t="Tx lateCollision"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx longErr"/>
+  <phrase i="271" t="Rx longGood"/>
+  <phrase i="270" t="Rx shortGood"/>
+  <phrase i="269" t="Rx shortErr"/>
+  <phrase i="268" t="Rx unicast"/>
+  <phrase i="267" t="Rx broadcast"/>
+  <phrase i="266" t="Rx multicast"/>
+  <phrase i="265" t="Rx alignErr"/>
+  <phrase i="264" t="Rx crcErr"/>
+  <phrase i="263" t="Ukupni broj okteta"/>
+  <phrase i="262" t="Rx totalPkt"/>
+  <phrase i="261" t="Događaji u prijenosu"/>
+  <phrase i="260" t="RTP nije valjan"/>
+  <phrase i="259" t="Ne radi"/>
+  <phrase i="258" t="Nije spremno"/>
+  <phrase i="257" t="Uništi"/>
+  <phrase i="255" t="Vrijeme početka za primatelja"/>
+  <phrase i="254" t="Okteti primatelja"/>
+  <phrase i="253" t="Paketi primatelja"/>
+  <phrase i="252" t="Vrijeme izvješća primatelja"/>
+  <phrase i="251" t="Izvješća primatelja"/>
+  <phrase i="250" t="Alat primatelja"/>
+  <phrase i="249" t="Smetnje kod primatelja"/>
+  <phrase i="248" t="Izgubljeni paketi primatelja"/>
+  <phrase i="247" t="Vrijeme početka pošiljatelja"/>
+  <phrase i="246" t="Vrijeme izvješća pošiljatelja"/>
+  <phrase i="245" t="Izvješća pošiljatelja"/>
+  <phrase i="244" t="Alat pošiljatelja"/>
+  <phrase i="243" t="Okteti pošiljatelja"/>
+  <phrase i="242" t="Paketi pošiljatelja"/>
+  <phrase i="241" t="Ime"/>
+  <phrase i="240" t="Status retka"/>
+  <phrase i="239" t="Vrijeme početka"/>
+  <phrase i="238" t="Bajtovi"/>
+  <phrase i="237" t="Primatelj se uključuje"/>
+  <phrase i="236" t="Pošiljatelj se uključuje"/>
+  <phrase i="235" t="Lokalna adresa"/>
+  <phrase i="234" t="Udaljena adresa "/>
+  <phrase i="233" t="Domena"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="Fiksni TFTP"/>
+  <phrase i="230" t="DHCP onemogućen"/>
+  <phrase i="229" t="Vrijeme do URL-a mir."/>
+  <phrase i="228" t="URL u mirovanju"/>
+  <phrase i="227" t="URL usluga"/>
+  <phrase i="226" t="URL poruka"/>
+  <phrase i="225" t="URL imenika"/>
+  <phrase i="224" t="URL informacija"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="Admin. Id za VLAN"/>
+  <phrase i="217" t="Operacijski Id za VLAN"/>
+  <phrase i="216" t="DNS poslužitelj 5"/>
+  <phrase i="215" t="DNS poslužitelj 4"/>
+  <phrase i="214" t="DNS poslužitelj 3"/>
+  <phrase i="213" t="DNS poslužitelj 2"/>
+  <phrase i="212" t="DNS poslužitelj 1"/>
+  <phrase i="211" t="Zadani usmjerivač 5"/>
+  <phrase i="210" t="Zadani usmjerivač 4"/>
+  <phrase i="209" t="Zadani usmjerivač 3"/>
+  <phrase i="208" t="Zadani usmjerivač 2"/>
+  <phrase i="207" t="Zadani usmjerivač 1"/>
+  <phrase i="206" t="TFTP poslužitelj 1"/>
+  <phrase i="205" t="Subnet maska"/>
+  <phrase i="204" t="IP adresa"/>
+  <phrase i="203" t="Naziv domene"/>
+  <phrase i="202" t="Naziv telefona"/>
+  <phrase i="201" t="MAC adresa"/>
+  <phrase i="199" t="Odbaci"/>
+  <phrase i="198" t="Nema dostupne linije za hvat."/>
+  <phrase i="197" t="Vanjski prijenos je zabranjen"/>
+  <phrase i="196" t="Nema dost. poj. širine za hvat."/>
+  <phrase i="195" t="Nema dostupnoga poziva za hvat."/>
+  <phrase i="194" t="Utor spremnika nije dostupan"/>
+  <phrase i="193" t="Odjava iz lovne skupine"/>
+  <phrase i="192" t="HLog"/>
+  <phrase i="191" t="HvatOst"/>
+  <phrase i="190" t="Istijek maks. traj. na čekanju"/>
+  <phrase i="189" t="Istijek maks. trajanja poziva"/>
+  <phrase i="188" t="NačVid"/>
+  <phrase i="187" t="Poj. širina video pod. nerasp."/>
+  <phrase i="186" t="Pogreška u sigurnosti"/>
+  <phrase i="185" t="Broj nije konfiguriran"/>
+  <phrase i="184" t="Mcid uspješno"/>
+  <phrase i="183" t="Pridruživanje poziva nemoguće"/>
+  <phrase i="182" t="Dovršenje prijenosa nije moguće"/>
+  <phrase i="181" t="UpadUPoz"/>
+  <phrase i="180" t="TrPreusm"/>
+  <phrase i="179" t="KonfPop"/>
+  <phrase i="178" t="Odaberi"/>
+  <phrase i="177" t="IzrPrij"/>
+  <phrase i="176" t="MCID"/>
+  <phrase i="175" t="QRT"/>
+  <phrase i="174" t="Gust promet, pokušajte ponovo"/>
+  <phrase i="173" t="Usluga nije aktivna"/>
+  <phrase i="172" t="Vraćanje poziva iz spremnika"/>
+  <phrase i="171" t="Nema dostupnog broja spremnika"/>
+  <phrase i="170" t="Nekompatibilna vrsta uređaja"/>
+  <phrase i="169" t="Postoji drugi upad"/>
+  <phrase i="168" t="Podešavanje upada nije uspjelo"/>
+  <phrase i="167" t="Upad"/>
+  <phrase i="166" t="Zagušenje mreže, preusmjer."/>
+  <phrase i="165" t="PovPoziv"/>
+  <phrase i="164" t="PreusSve"/>
+  <phrase i="163" t="Ne Uzn."/>
+  <phrase i="162" t="PrijenGP"/>
+  <phrase i="161" t="PostČuv"/>
+  <phrase i="160" t="Presret."/>
+  <phrase i="159" t="Preusmj."/>
+  <phrase i="158" t="GlasPošt"/>
+  <phrase i="157" t="IsklSud"/>
+  <phrase i="156" t="Broj je nepoznat"/>
+  <phrase i="155" t="Nedovoljna pojasna širina"/>
+  <phrase i="154" t="Privatno"/>
+  <phrase i="153" t="Broj spremnika"/>
+  <phrase i="152" t="Konferencija"/>
+  <phrase i="151" t="Pogrešno povezivanje"/>
+  <phrase i="150" t="Nepoznata pogreška"/>
+  <phrase i="149" t="Pogreška - premašivanje ogran."/>
+  <phrase i="148" t="Pogreška u bazi podataka"/>
+  <phrase i="147" t="Pogreška u konfig. baze pod."/>
+  <phrase i="146" t="Pogreška - nema licence"/>
+  <phrase i="145" t="Tipka nije aktivna"/>
+  <phrase i="144" t="Premašen je maks. broj strana"/>
+  <phrase i="143" t="Nema informacija o sudioniku"/>
+  <phrase i="142" t="Već sudjeluje u konferenciji"/>
+  <phrase i="141" t="Sudionik konf. nije valjan"/>
+  <phrase i="140" t="Prim. kont. nemog. zadržati"/>
+  <phrase i="139" t="Nema povezivanja za konfer."/>
+  <phrase i="138" t="Konfer. nije moguće dovršiti"/>
+  <phrase i="137" t="Proslijeđeno do"/>
+  <phrase i="136" t="Imate glasovnu poštu"/>
+  <phrase i="135" t="Privremeni neuspjeh"/>
+  <phrase i="134" t="Samo primarno"/>
+  <phrase i="133" t="Poziv spremljen na"/>
+  <phrase i="132" t="Unos broja"/>
+  <phrase i="131" t="Koristi se daljinski"/>
+  <phrase i="130" t="Nastavak poziva"/>
+  <phrase i="129" t="Spremnik poziva"/>
+  <phrase i="128" t="Prijenos poziva"/>
+  <phrase i="127" t="Poziv na čekanju"/>
+  <phrase i="126" t="Linija se koristi"/>
+  <phrase i="125" t="Zauzeto"/>
+  <phrase i="124" t="Povezano"/>
+  <phrase i="123" t="Od "/>
+  <phrase i="122" t="Spajanje"/>
+  <phrase i="121" t="Slušalica spuštena"/>
+  <phrase i="120" t="Slušalica podignuta"/>
+  <phrase i="119" t="Vaše trenutne opcije"/>
+  <phrase i="118" t="HvatGPoz"/>
+  <phrase i="117" t="Preuzmi"/>
+  <phrase i="116" t="MeetMe"/>
+  <phrase i="115" t="Pridruž."/>
+  <phrase i="114" t="Spremnik"/>
+  <phrase i="113" t="Konfer."/>
+  <phrase i="112" t="Inform."/>
+  <phrase i="111" t="Odgovor"/>
+  <phrase i="110" t="Nastavi"/>
+  <phrase i="109" t="PrekPoz"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="ProsNeJAv"/>
+  <phrase i="106" t="ProsZauz"/>
+  <phrase i="105" t="ProsSve"/>
+  <phrase i="104" t="Prijenos"/>
+  <phrase i="103" t="Na ček."/>
+  <phrase i="102" t="NoviPoz"/>
+  <phrase i="101" t="PonBir"/>
+  <phrase i="65" t="Ne mogu poslati poziv na mobitel"/>
+  <phrase i="64" t="Ne mogu dohvatiti poziv iz spremnika"/>
+  <phrase i="63" t="MeetMe je nedostupno"/>
+  <phrase i="62" t="Konferencija je nedostupna"/>
+  <phrase i="61" t="Hvataj je nedostupno"/>
+  <phrase i="60" t="SkraćBir"/>
+  <phrase i="59" t="ProsSve koraci prekoračeni"/>
+  <phrase i="58" t="Otkrivena ProsSve petlja"/>
+  <phrase i="57" t="Funkcija Ne uznemiravaj je aktivna"/>
+  <phrase i="56" t="Ne uznemiravaj"/>
+  <phrase i="55" t="Linija ili Pridruži za dovršiti"/>
+  <phrase i="54" t="Skupina za hvatanje"/>
+  <phrase i="53" t="Alat za izvješt. o kvaliteti"/>
+  <phrase i="52" t="Popis za konferenciju"/>
+  <phrase i="51" t="Završi poziv"/>
+  <phrase i="50" t="Video"/>
+  <phrase i="49" t="Drugo hvatanje"/>
+  <phrase i="48" t="Ukloni zadnjeg sudionika"/>
+  <phrase i="47" t="Hvatanje poziva u skupini"/>
+  <phrase i="46" t="ID zlonamjernog poziva"/>
+  <phrase i="45" t="ProslSve"/>
+  <phrase i="44" t="Šapni"/>
+  <phrase i="43" t="Mobilan"/>
+  <phrase i="42" t="Neaktivna sesija snimanja"/>
+  <phrase i="41" t="Snimanje je već u tijeku"/>
+  <phrase i="40" t="Snim. čeka na poziv za aktiv."/>
+  <phrase i="39" t="Praćenje"/>
+  <phrase i="38" t="Uređaj nije autoriziran"/>
+  <phrase i="37" t="Nema resursa"/>
+  <phrase i="36" t="Podešavanje nije uspjelo"/>
+  <phrase i="35" t="Vraćanje poziva s čekanja"/>
+  <phrase i="34" t="Poziv na čekanju"/>
+  <phrase i="33" t="NijeSpreman"/>
+  <phrase i="32" t="Spreman"/>
+  <phrase i="31" t="Pridruživanje skupini za hvat."/>
+  <phrase i="30" t="Pozivi u redu na čekanju"/>
+  <phrase i="29" t="Rezultati pretraživanja"/>
+  <phrase i="28" t="Nije pronađen ni jedan zapis"/>
+  <phrase i="27" t="Zapisi 1 do"/>
+  <phrase i="26" t="od"/>
+  <phrase i="25" t="Molim unesite PIN"/>
+  <phrase i="24" t="Pogrešni PIN"/>
+  <phrase i="23" t="Prijava je uspjela"/>
+  <phrase i="22" t="Noćna usluga je onemogućena"/>
+  <phrase i="21" t="Noćna usluga je aktivna"/>
+  <phrase i="20" t="Noćna usluga"/>
+  <phrase i="19" t="Unesite kriterij pretraživanja"/>
+  <phrase i="18" t="Lokalne usluge"/>
+  <phrase i="17" t="Odaberite uslugu A"/>
+  <phrase i="16" t="Odredište prijenosa je zauzeto"/>
+  <phrase i="15" t="Odaberite liniju"/>
+  <phrase i="14" t="Dojavljivanje"/>
+  <phrase i="13" t="Završite poziv, molim"/>
+  <phrase i="12" t="Čekanje povratka na početno"/>
+  <phrase i="11" t="Premašen je maks. broj telefona"/>
+  <phrase i="10" t="Aktivna usl. smanj. brzine CM"/>
+  <phrase i="9" t="Poziv(i) dostupni za hvatanje"/>
+  <phrase i="8" t="Unesite kod za klij. slučaj"/>
+  <phrase i="7" t="Unesite autorizacijski kod"/>
+  <phrase i="6" t="Uređaj na lokaciji roaminga"/>
+  <phrase i="5" t="Uređaj na domaćoj lokaciji"/>
+  <phrase i="4" t="Prijava"/>
+  <phrase i="3" t="Bljesk."/>
+  <phrase i="2" t="Račun"/>
+</phrases>

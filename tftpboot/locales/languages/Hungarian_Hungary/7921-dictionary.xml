@@ -1,0 +1,1512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Hungarian_Hungary</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+  <!-- FWUPDATE -->
+  <phrase i="8004" t="MIDletek letöltése..."/>
+  <phrase i="8003" t="Alkalmazás kis méretre állítva"/>
+  <phrase i="8002" t="Az MIDP-modul telepítése sikeresen megtörtént"/>
+  <phrase i="8001" t="Várakozás az MIDP-modul telepítésére..."/>
+  <phrase i="8000" t="Firmware frissítése..."/>
+  <phrase i="7999" t="Firmware letöltése...%d%%"/>
+  <phrase i="7998" t="Firmware helyreállítása..."/>
+  <phrase i="7997" t="Sikertelen firmware-frissítés"/>
+  <phrase i="7996" t="Frissítéshiba, kevés akkuszint"/>
+  <phrase i="7995" t="A kép letöltése nem sikerült."/>
+  <phrase i="7994" t="A kép hitelesítése nem sikerült"/>
+  <phrase i="7993" t="Kevés a memória! Újraindítás..."/>
+  <phrase i="7992" t="EAP-TLS/PEAP engedélyezve"/>
+  <phrase i="7991" t="Kiszolgáló-tanúsítvány ellenőrzése"/>
+  <phrase i="7990" t="Az AOM telepítése sikertelen"/>
+  <phrase i="7989" t="AOM(%d/%d) letöltése"/>
+  <phrase i="7988" t="AOM (%d/%d) telepítése...%d%%"/>
+  <phrase i="7987" t="A kép integritásának ellenőrzése sikertelen"/>
+  <phrase i="7986" t=" "/>
+  <phrase i="7985" t="Lapolvasó FW telepítése:%d%%"/>
+  <phrase i="7984" t="Lapolvasó FW letöltése"/>
+  <!-- WLANMGR (Phase 2) -->
+  <phrase i="7081" t="Korlátozott adatsebességek"/>
+  <phrase i="7080" t="Keresési mód"/>
+  <phrase i="7079" t="Automatikus"/>
+  <phrase i="7078" t="Folyamatos"/>
+  <phrase i="7077" t="Cella teljesítménykorlátja"/>
+  <phrase i="7076" t="Teljesítménykorlát"/>
+  <phrase i="7075" t="EAP-TLS tanúsítvány"/>
+  <phrase i="7074" t="Felhasználó által telepítve"/>
+  <phrase i="7073" t="Gyártó által kibocsátott"/>
+  <phrase i="7072" t="CAPF által kibocsátott"/>
+  <phrase i="7071" t="A hiteles. tanúsítv. nincs meg"/>
+  <phrase i="7070" t="A hitel. tanúsítv. érvénytelen"/>
+  <phrase i="7069" t="A hiteles. tanúsítv. lejár: %s"/>
+  <phrase i="7068" t="Hitel. tanúsítv hamaros. lejár"/>
+  <phrase i="7067" t="A hitelesítési tanúsítvány %d nap múlva lejár"/>
+  <phrase i="7066" t="A hitelesít. tanúsítv. lejárt"/>
+  <phrase i="7065" t="Nézze meg tanúsítv. időbeállít"/>
+  <phrase i="7064" t="WLAN-hitel. tanúsítv nincs meg"/>
+  <phrase i="7063" t="Hiteles. tanúsítv-k hiányoznak"/>
+  <phrase i="7062" t="A hiteles. tanúsítv. %d nap múlva lejár"/>
+  <phrase i="7061" t="A WLAN-hitel. tanúsítv. lejárt"/>
+  <phrase i="7060" t="A hitelesítési tanúsítv. lejárt"/>
+  <phrase i="7059" t="Állomásszámláló"/>
+  <phrase i="7057" t="Figyelmeztetési jelzők"/>
+  <phrase i="7056" t="Alapjel-intervallum"/>
+  <phrase i="7055" t="DTIM-periódus"/>
+  <phrase i="7054" t="Képesség"/>
+  <phrase i="7053" t="Sebesség-bit hozzárendelés"/>
+  <phrase i="7052" t="Alapv. sebesség-bit hozzárendel"/>
+  <phrase i="7051" t="Frekvenciaugrás"/>
+  <phrase i="7050" t="U-APSD"/>
+  <phrase i="7049" t="802.11d"/>
+  <phrase i="7048" t="Spektrumkezelés"/>
+  <phrase i="7047" t="Nem támogatott csatorna"/>
+  <phrase i="7046" t="Csatornaprofil"/>
+  <phrase i="7045" t="Adatvédelem"/>
+  <phrase i="7044" t="LowRate"/>
+  <phrase i="7043" t="Proxy ARP"/>
+  <phrase i="7042" t="Alapsebességek"/>
+  <phrase i="7041" t="Opcionális sebességek"/>
+  <phrase i="7040" t="AC háttér"/>
+  <phrase i="7039" t="AC nem garantált"/>
+  <phrase i="7038" t="AC videó"/>
+  <phrase i="7037" t="AC hang"/>
+  <phrase i="7036" t="ECW min."/>
+  <phrase i="7035" t="ECW max."/>
+  <phrase i="7034" t="TXOpLimit"/>
+  <phrase i="7033" t="Belépésvezérlés"/>
+  <phrase i="7032" t="Multicast titkosítás"/>
+  <phrase i="7031" t="Unicast titkosítás"/>
+  <phrase i="7030" t="BSS elvesztések száma"/>
+  <phrase i="7029" t="Támogatott"/>
+  <phrase i="7028" t="Elérhető belépési kapacitás"/>
+  <phrase i="7027" t="Jelen"/>
+  <phrase i="7026" t="Nincs jelen"/>
+  <phrase i="7025" t="Hozzáférési kategória"/>
+  <phrase i="7024" t="Nem javasolt"/>
+  <phrase i="7023" t="Nem konzisztens"/>
+  <phrase i="7022" t="Referencia AP"/>
+  <phrase i="7021" t="Ország"/>
+  <phrase i="7020" t="CCA küszöbérték"/>
+  <phrase i="7019" t="Nyilvános kulcsú tanúsítvány"/>
+  <phrase i="7018" t="Nyilvános kulcsú infrastruktúra"/>
+  <phrase i="7017" t="PKI"/>
+  <phrase i="7016" t="Érvényességi időszak"/>
+  <phrase i="7015" t="Alapkulcs"/>
+  <phrase i="7014" t="Hitelesítésszolgáltató"/>
+  <phrase i="7013" t="Privát kulcs"/>
+  <phrase i="7012" t="Nyilvános kulcs"/>
+  <phrase i="7011" t="Microsoft"/>
+  <phrase i="7010" t="Hitelesítés-kiszolgáló"/>
+  <!-- WLANMGR -->
+  <phrase i="7009" t="A hitelesítés sikertelen"/>
+  <phrase i="7008" t="Nincs hálózati profil"/>
+  <phrase i="7007" t="Kilép a szolg. területről!"/>
+  <phrase i="7006" t="Hálózati szolgáltatás keresése"/>
+  <phrase i="7005" t="Nincs kiválasztva profil"/>
+  <phrase i="7003" t="A kapcsolat létrejött"/>
+  <phrase i="7002" t="Kísérlet a kapcsolódásra..."/>
+  <phrase i="7001" t="WLAN-hiba"/>
+  <phrase i="7000" t="Csatornák keresése..."/>
+  <!-- GUI (Scandinavia) -->
+  <!-- MaxLength: 23 characters -->
+  <phrase i="6407" t="Töröl minden korábbi hívást?"/>
+  <phrase i="6406" t="Lapolvasó-diagnosztika"/>
+  <phrase i="6405" t="Alaph."/>
+  <phrase i="6404" t="Symbology csoport"/>
+  <phrase i="6403" t="Bővített"/>
+  <phrase i="6402" t="Alapvető"/>
+  <phrase i="6401" t="Lapolvasó"/>
+  <!-- GUI (Hermit) -->
+  <phrase i="6400" t="Bluetooth"/>
+  <phrase i="6399" t="Eszközlista"/>
+  <phrase i="6398" t="Keresés"/>
+  <phrase i="6397" t="Újraker"/>
+  <phrase i="6396" t="Párosítás"/>
+  <phrase i="6395" t="Párosítás megszüntetése"/>
+  <phrase i="6394" t="Párosított eszközök"/>
+  <phrase i="6393" t="Keresés"/>
+  <phrase i="6392" t="Párosítás"/>
+  <phrase i="6391" t="%s párosítva"/>
+  <phrase i="6390" t="Párosítás megszüntetése"/>
+  <phrase i="6389" t="%s párosítása megszüntetve"/>
+  <phrase i="6388" t="Devices found: %d"/>
+  <phrase i="6387" t="Megszünteti %s párosítását?"/>
+  <phrase i="6386" t="A keresés eredménye"/>
+  <phrase i="6385" t="Adja meg a Bluetooth hitelesítő kulcsot"/>
+  <phrase i="6384" t="A párosítás nem sikerült!"/>
+  <phrase i="6383" t="%s csatlakoztatva!"/>
+  <phrase i="6382" t="%s kapcsolata bontva!"/>
+  <phrase i="6381" t="Kapcsolódás"/>
+  <phrase i="6380" t="Bontás"/>
+  <phrase i="6379" t="Hangerő-szabályozás a fejhallgatón"/>
+  <phrase i="6378" t="Az eszközök száma túllépve"/>
+  <phrase i="6377" t="Nem működő Bluetooth-kapcsolat"/>
+  <phrase i="6376" t="Ez egy párosított eszköz!"/>
+  <phrase i="6375" t="Összes pár. megszűnt."/>
+  <phrase i="6374" t="Bluetooth nincs kész"/>
+  <phrase i="6373" t="Belső Bluetooth hiba"/>
+  <phrase i="6372" t="A művelet sikertelen"/>
+  <phrase i="6371" t="Bluetooth kiválasztva"/>
+  <phrase i="6370" t="Hangszóró kiválasztva"/>
+  <phrase i="6369" t="Hordozható készülék kiválasztva"/>
+  <phrase i="6368" t="Fejhallgató kiválasztva"/>
+  <phrase i="6367" t="Diagnosztika"/>
+  <phrase i="6366" t="Billentyűzet"/>
+  <phrase i="6365" t="Hang"/>
+  <phrase i="6364" t="Diagnosztika kiválasztása"/>
+  <phrase i="6363" t="Nyomja meg bármelyik gombot"/>
+  <phrase i="6362" t="Billentyűzetdiagnosztika"/>
+  <phrase i="6361" t="Lenyomva"/>
+  <phrase i="6360" t="Felengedve"/>
+  <phrase i="6359" t="Hangdiagnosztika"/>
+  <phrase i="6358" t="Helyi hangvisszacsatolás"/>
+  <phrase i="6357" t="%d funkciógomb"/>
+  <phrase i="6356" t="Hangerőcsökkentés"/>
+  <phrase i="6355" t="Hangerőnövelés"/>
+  <phrase i="6354" t="Jobb"/>
+  <phrase i="6353" t="Bal"/>
+  <phrase i="6352" t="Teljesítmény"/>
+  <phrase i="6351" t="Némítás"/>
+  <phrase i="6350" t="A Java telepítése sikertelen"/>
+  <phrase i="6349" t="%s kiválasztása"/>
+  <!-- GUI (JAVA) -->
+  <phrase i="6299" t="Ind.hiba"/>
+  <phrase i="6298" t="%s jelenleg meg van nyitva"/>
+  <phrase i="6297" t="Zárja be, mielőtt elindít egy másikat"/>
+  <phrase i="6296" t="Átváltás"/>
+  <phrase i="6295" t="Alk.bez."/>
+  <phrase i="6294" t="Alk.szün"/>
+  <phrase i="6293" t="Bejövő hívás"/>
+  <phrase i="6292" t="Figyelmen kívül hagyás"/>
+  <phrase i="6291" t="Kész"/>
+  <phrase i="6290" t="Beállítás"/>
+  <phrase i="6289" t="Java névjegye"/>
+  <phrase i="6288" t="Indítás"/>
+  <phrase i="6287" t="Telepítés"/>
+  <phrase i="6286" t="Ugrás"/>
+  <phrase i="6285" t="Ugrás"/>
+  <phrase i="6284" t="Kivétel"/>
+  <phrase i="6283" t="Alkalmazás"/>
+  <phrase i="6282" t="Alkalmazások"/>
+  <phrase i="6281" t="Info"/>
+  <phrase i="6280" t="Eltáv."/>
+  <phrase i="6279" t="Alkalmazás telepítése"/>
+  <phrase i="6278" t="Hitelesítésszolgáltatók kezelése"/>
+  <phrase i="6277" t="Befejezés"/>
+  <phrase i="6276" t="Gyártó"/>
+  <phrase i="6275" t="Szolgáltató"/>
+  <phrase i="6274" t="Harmadik fél"/>
+  <phrase i="6273" t="dél"/>
+  <phrase i="6272" t="éjfél."/>
+  <phrase i="6271" t="hhhh nn, éééé"/>
+  <phrase i="6270" t="óó:pp ??"/>
+  <phrase i="6269" t="hhh nn, éééé óó:pp  "/>
+  <phrase i="6268" t="Vas"/>
+  <phrase i="6267" t="Hét"/>
+  <phrase i="6266" t="Ked"/>
+  <phrase i="6265" t="Sze"/>
+  <phrase i="6264" t="Csü"/>
+  <phrase i="6263" t="Pén"/>
+  <phrase i="6262" t="Szo"/>
+  <phrase i="6261" t="Január"/>
+  <phrase i="6260" t="Február"/>
+  <phrase i="6259" t="Március"/>
+  <phrase i="6258" t="Április"/>
+  <phrase i="6257" t="Május"/>
+  <phrase i="6256" t="Június"/>
+  <phrase i="6255" t="Július"/>
+  <phrase i="6254" t="Augusztus"/>
+  <phrase i="6253" t="Szeptember"/>
+  <phrase i="6252" t="Október"/>
+  <phrase i="6251" t="November"/>
+  <phrase i="6250" t="December"/>
+  <phrase i="6249" t="Jan"/>
+  <phrase i="6248" t="Feb"/>
+  <phrase i="6247" t="Már"/>
+  <phrase i="6246" t="Ápr"/>
+  <phrase i="6245" t="Máj"/>
+  <phrase i="6244" t="Jún"/>
+  <phrase i="6243" t="Júl"/>
+  <phrase i="6242" t="Aug"/>
+  <phrase i="6241" t="Sze"/>
+  <phrase i="6240" t="Okt"/>
+  <phrase i="6239" t="Nov"/>
+  <phrase i="6238" t="Dec"/>
+  <phrase i="6237" t="Előtte"/>
+  <phrase i="6236" t="Utána"/>
+  <phrase i="6235" t="Idő:"/>
+  <phrase i="6234" t="Dátum:"/>
+  <phrase i="6233" t="Szimbólumok"/>
+  <phrase i="6232" t="Prediktív"/>
+  <phrase i="6231" t="prediktív"/>
+  <phrase i="6230" t="PREDIKTÍV"/>
+  <phrase i="6229" t="OK"/>
+  <phrase i="6228" t="Beállítások..."/>
+  <phrase i="6227" t="de"/>
+  <phrase i="6226" t="du"/>
+  <phrase i="6225" t="AdatTörlés"/>
+  <phrase i="6224" t="Alkalmazás mérete"/>
+  <phrase i="6223" t="Alkalmazásadatok mérete"/>
+  <phrase i="6222" t="bájt"/>
+  <phrase i="6221" t="Hiba, forduljon a rendszergazdához"/>
+  <phrase i="6220" t="Kilépés az alkalmazásból..."/>
+  <phrase i="6219" t="A telepítés megszakítva"/>
+  <phrase i="6218" t="Az alkalmazás telepítése nem sikerült"/>
+  <phrase i="6217" t="Alkalmazás telepítése..."/>
+  <phrase i="6216" t="Alkalmazás indítása..."/>
+  <phrase i="6215" t="Megerősítés"/>
+  <phrase i="6214" t="Betöltés"/>
+  <phrase i="6213" t="Indítás"/>
+  <phrase i="6212" t="JAR mérete"/>
+  <phrase i="6211" t="JAR URL"/>
+  <phrase i="6210" t="Leírás"/>
+  <phrase i="6209" t="Gyártó"/>
+  <phrase i="6208" t="MicroEdition-konfiguráció"/>
+  <phrase i="6207" t="MicroEdition-profil"/>
+  <!-- GUI (Phase 2) -->
+  <phrase i="6206" t="Testreszabás"/>
+  <phrase i="6205" t="Egygombos belépés"/>
+  <phrase i="6204" t="Szélessávú fejhallgató"/>
+  <phrase i="6203" t="Auto-hívásválasztás"/>
+  <phrase i="6202" t="FVF a híváslistákhoz"/>
+  <phrase i="6201" t="Auto-vonalválasztás"/>
+  <phrase i="6200" t="Felh. felület adatai"/>
+  <phrase i="6199" t="Felhasználói felület"/>
+  <phrase i="6198" t="Fogadó üzenet"/>
+  <phrase i="6197" t="Üdvözlő üzenet"/>
+  <phrase i="6196" t="Új kapcsolattartó létrehozása"/>
+  <phrase i="6195" t="Tárolás meglévő névhez"/>
+  <phrase i="6194" t="Betöltés... kis türelmet"/>
+  <phrase i="6193" t="Rendszerbeállítások"/>
+  <phrase i="6192" t="Csak alfanumerikus karakterek!"/>
+  <phrase i="6191" t="Nyomkövetési szintek megőrzése"/>
+  <phrase i="6190" t="Távoli rendszernapló"/>
+  <phrase i="6189" t="Nyomkövetési szint"/>
+  <phrase i="6188" t="Diagnosztika engedélyezve"/>
+  <!-- JAVA -->
+  <phrase i="6187" t="Szervezet"/>
+  <phrase i="6186" t="Alapértelmezett kiválasztása"/>
+  <phrase i="6185" t="Nézet kiválasztása"/>
+  <phrase i="6184" t="Kép kiválasztása"/>
+  <phrase i="6183" t="Funkciógomb testreszabása"/>
+  <phrase i="6182" t="%d. (%s) vonal"/>
+  <phrase i="6181" t="Válasszon vonalat megnézéshez"/>
+  <phrase i="6180" t="Telefonvonalak"/>
+  <phrase i="6179" t="Kezdőoldal"/>
+  <phrase i="6178" t="Telkönyv"/>
+  <phrase i="6177" t="Háttérkép"/>
+  <phrase i="6176" t="Preferált nézet"/>
+  <phrase i="6175" t="Bal funkciógomb"/>
+  <phrase i="6174" t="Kezdőoldal testreszabása"/>
+  <phrase i="6173" t="%s (%d nem fogadott)"/>
+  <phrase i="6172" t="Korlátozott profil!"/>
+  <phrase i="6171" t="Nincs hozzárendelve"/>
+  <phrase i="6170" t="Kapcsolatmező kiválasztása"/>
+  <phrase i="6169" t="Vezetéknév, Utónév"/>
+  <phrase i="6168" t="Utónév, Vezetéknév"/>
+  <phrase i="6167" t="Telefonkönyv rendezési módja"/>
+  <phrase i="6166" t="Nincs alapértelmezett szám"/>
+  <phrase i="6165" t="Válasszon szabad gyorshívót!"/>
+  <phrase i="6164" t="Válassz. gyorshívót kiosztásra"/>
+  <phrase i="6163" t="Kapcsolat számának kiválasztása"/>
+  <phrase i="6162" t="A %d gyorshívó hozzárendelése"/>
+  <phrase i="6161" t="Új gyorshívó hozzárendelése?"/>
+  <phrase i="6160" t="Telefontípus kiválasztása"/>
+  <phrase i="6159" t="Kapcsolat kiválasztása"/>
+  <phrase i="6158" t="DeleteAll"/>
+  <phrase i="6157" t="Az összes kapcsolat törölve!"/>
+  <phrase i="6156" t="Az összes kapcsolatot törli?"/>
+  <phrase i="6155" t="Az elsődleges telefon frissítve!"/>
+  <phrase i="6154" t="Háttérkép megtekintése"/>
+  <phrase i="6153" t="Az új csengőhang elmentve!"/>
+  <phrase i="6152" t="0 egyező rekord található"/>
+  <phrase i="6151" t="Nincs hely az új számnak!"/>
+  <phrase i="6150" t="Átnev."/>
+  <phrase i="6149" t="Összevon"/>
+  <phrase i="6148" t="Felülírás"/>
+  <phrase i="6147" t="A kapcsolat frissítve!"/>
+  <phrase i="6146" t="A kapcsolat már létezik!"/>
+  <phrase i="6145" t="A kapcsolat törölve!"/>
+  <phrase i="6144" t="A kapcsolat törlése?"/>
+  <phrase i="6143" t="A gyorshívó törlése?"/>
+  <phrase i="6142" t="IM-cím"/>
+  <phrase i="6141" t="Becenév"/>
+  <phrase i="6140" t="A %d. gyorshívó hozzárendelve!"/>
+  <phrase i="6139" t="Gyorshív"/>
+  <phrase i="6138" t="Új gyorshívóbejegyzés"/>
+  <phrase i="6137" t="(üres)"/>
+  <phrase i="6136" t="Üres szám!"/>
+  <phrase i="6135" t="Gyorshívó törölve!"/>
+  <phrase i="6134" t="Aktiváláshoz tartsa nyomva"/>
+  <phrase i="6133" t="Kikapcsoláshoz tartsa nyomva"/>
+  <phrase i="6132" t="%d gyorshívó szám"/>
+  <phrase i="6131" t="1 gyorshívó szám"/>
+  <phrase i="6130" t="A kapcsolattartó neve kötelező!"/>
+  <phrase i="6129" t="Elérte a maximális kapacitást!"/>
+  <phrase i="6128" t="1 kapcsolattartó"/>
+  <phrase i="6127" t="1 bejegyzés"/>
+  <phrase i="6126" t="Nincsenek kapcsolattartók"/>
+  <phrase i="6125" t="Szűkítse a keresést."/>
+  <phrase i="6124" t="Minden rendszert alaphelyzetbe?"/>
+  <phrase i="6123" t="Újraindítja a telefont?"/>
+  <phrase i="6122" t="Adja meg a kulcsot HEX formában"/>
+  <phrase i="6121" t="Érvénytelen vagy hiányzó adat."/>
+  <phrase i="6120" t="%d válaszra vár  %s forrásból"/>
+  <phrase i="6119" t="Nincs szabad sávszélesség"/>
+  <phrase i="6118" t="Várakozás az aktív állapotig"/>
+  <phrase i="6117" t="Nagyobb"/>
+  <phrase i="6116" t="Egyenlő"/>
+  <phrase i="6115" t="Kisebb"/>
+  <phrase i="6114" t="'Ne zavarj' bekapcsolva"/>
+  <phrase i="6113" t="'Ne zavarj' kikapcsolva"/>
+  <phrase i="6112" t="Előt. hoz. elsőbbs. visszáll"/>
+  <phrase i="6111" t="Avalanche üzenet"/>
+  <phrase i="6110" t="A konfigurációfrissítés sikeres"/>
+  <phrase i="6109" t="Hibás konfigurációfrissítés."/>
+  <phrase i="6108" t="Sikeres konfigcsomag frissítés"/>
+  <phrase i="6107" t="Konf csomag frissít sikertelen"/>
+  <phrase i="6106" t="HTTPS ügyfél konfigurálása"/>
+  <phrase i="6105" t="Érvénytelen tanúsítv elfogadása"/>
+  <phrase i="6104" t="Érvénytelen tanúsítv elutasítás"/>
+  <phrase i="6103" t="Tanúsítványválasztás"/>
+  <phrase i="6102" t="Felhasználói információk"/>
+  <phrase i="6101" t="Beállítások letiltva"/>
+  <phrase i="6100" t="A mező írásvédett!"/>
+  <phrase i="6099" t="Rendszergazda  zárolta profilt"/>
+  <phrase i="6098" t="Rendszerg. korlát. hozzáférést"/>
+  <phrase i="6097" t="A profil írásvédett"/>
+  <phrase i="6096" t="Adja meg a PIN-kód."/>
+  <phrase i="6095" t="Kérjen PIN-t a rendszergazdától"/>
+  <phrase i="6094" t="Elutasít"/>
+  <phrase i="6093" t="Kiválasztás a középső gombbal"/>
+  <phrase i="6092" t="Kivál. törlése középső gombbal"/>
+  <phrase i="6091" t="Érvényt. jelszó, v. a hit. kisz. nem érh. el"/>
+  <phrase i="6090" t="Módosítja a WLAN jelszót?"/>
+  <phrase i="6089" t="UserInfo"/>
+  <phrase i="6088" t="WLAN hozzáférés megtagadva!"/>
+  <phrase i="6087" t="A kiszolgáló nem üzemel."/>
+  <phrase i="6086" t="Telefonkönyv"/>
+  <phrase i="6085" t="Továbblépés a Folytatás gombbal"/>
+  <phrase i="6084" t="Új kapcsolattartó"/>
+  <phrase i="6083" t="Kapcsolattartó módosítása"/>
+  <phrase i="6082" t="Kapcsolat"/>
+  <phrase i="6081" t="%d kapcsolattartó"/>
+  <phrase i="6080" t="%d/%d kapcsolattartó"/>
+  <phrase i="6079" t="Teljes név"/>
+  <phrase i="6078" t="Megjelenítési beállítások"/>
+  <phrase i="6077" t="Megjelenítés sorrendje"/>
+  <phrase i="6076" t="Iktatás mint"/>
+  <phrase i="6075" t="Munkahelyi telefon"/>
+  <phrase i="6074" t="Mobiltelefon"/>
+  <phrase i="6073" t="Otthoni telefon"/>
+  <phrase i="6072" t="Egyéb telefon"/>
+  <phrase i="6071" t="E-mail cím"/>
+  <phrase i="6070" t="Vállalat"/>
+  <phrase i="6069" t="Munkahely címe"/>
+  <phrase i="6068" t="Utca"/>
+  <phrase i="6067" t="Város"/>
+  <phrase i="6066" t="Állam/megye"/>
+  <phrase i="6065" t="Irányítószám"/>
+  <phrase i="6064" t="Tárolás"/>
+  <phrase i="6063" t="Kapcsolat tárolása"/>
+  <phrase i="6062" t="Válassza ki a szám típusát"/>
+  <phrase i="6061" t="Válassza kapcsolat eszköztípust"/>
+  <phrase i="6060" t="Rendezés"/>
+  <phrase i="6059" t="Folytat"/>
+  <phrase i="6058" t="Üzleti"/>
+  <phrase i="6057" t="Személyes"/>
+  <phrase i="6056" t="Nemzetközi"/>
+  <phrase i="6055" t="Kedvencek"/>
+  <phrase i="6054" t="Fontos kapcsolatok"/>
+  <phrase i="6053" t="Kulcsügyfelek"/>
+  <phrase i="6052" t="Egyéb"/>
+  <phrase i="6051" t="VIP"/>
+  <phrase i="6050" t="Kategóriák"/>
+  <phrase i="6049" t="Kategória"/>
+  <phrase i="6048" t="Válasszon kapcs. kategóriáit"/>
+  <phrase i="6047" t="Kategóriaválasztás"/>
+  <phrase i="6046" t="Válassza a kapcs. kategóriáját"/>
+  <phrase i="6045" t="Válasszon kategóriát"/>
+  <phrase i="6044" t="Szűrő"/>
+  <phrase i="6043" t="Válasszon kapcsolat-szűrőt"/>
+  <phrase i="6042" t="Szűrő kiválasztása"/>
+  <phrase i="6041" t="Gyorshívók"/>
+  <phrase i="6040" t="Gyorshívó szám"/>
+  <phrase i="6039" t="Gyorshívó szám megadása"/>
+  <phrase i="6038" t="Érvénytelen gyorshívó szám"/>
+  <phrase i="6037" t="%d gyorshívó nincs hozzárend."/>
+  <phrase i="6036" t="A gyorshívó üres"/>
+  <phrase i="6035" t="Mentés a Beállítások gombbal"/>
+  <phrase i="6034" t="Mentés a Beállítások gombbal"/>
+  <phrase i="6033" t="A kapcsolat mentve"/>
+  <phrase i="6032" t="A kapcsolat nincs mentve!"/>
+  <phrase i="6031" t="Beállítások mentve"/>
+  <phrase i="6030" t="A beállítások nincsenek mentve!"/>
+  <phrase i="6029" t="Megszakítva"/>
+  <phrase i="6028" t="Módosítás megszakítva"/>
+  <phrase i="6027" t="%d nem fogadott hívás a hívótól"/>
+  <phrase i="6026" t="%d fogadott hívás a hívótól"/>
+  <phrase i="6025" t="%d  hívott erre a számra"/>
+  <phrase i="6024" t="Töltési mód"/>
+  <phrase i="6023" t="A kijelző sötét marad"/>
+  <phrase i="6022" t="A kijelző teljes fényerőn marad"/>
+  <phrase i="6021" t="Válasszon megjelen. beállítást"/>
+  <phrase i="6020" t="Kezdőlap testreszabása"/>
+  <phrase i="6019" t="Gyorsbillentyűk"/>
+  <phrase i="6018" t="Soros nézet"/>
+  <phrase i="6017" t="Főmenü"/>
+  <phrase i="6016" t="Alkalmazás választása"/>
+  <phrase i="6015" t="Alkalmazások"/>
+  <phrase i="6014" t="Gyorsbillentyű kiválasztása"/>
+  <phrase i="6013" t="Hozzáír."/>
+  <phrase i="6012" t="Hangszóró engedélyezve"/>
+  <phrase i="6011" t="Hangszóró kikapcsolva"/>
+  <phrase i="6010" t="Nyomkövetési beállítások"/>
+  <phrase i="6009" t="Letiltáshoz telefon újraindítás"/>
+  <phrase i="6008" t="Engedélyezve"/>
+  <phrase i="6007" t="Nincs konfigurálva"/>
+  <phrase i="6006" t="Aktív csengőhang beállítása"/>
+  <phrase i="6005" t="Csak hangjelzés"/>
+  <phrase i="6004" t="Csengetés"/>
+  <phrase i="6003" t="Hangjelzés beállítása"/>
+  <phrase i="6002" t="Nem fog."/>
+  <phrase i="6001" t="Összes"/>
+  <!-- GUI -->
+  <phrase i="6000" t="Állapotelem választása"/>
+  <phrase i="5999" t="Modellbeállítás megadása"/>
+  <phrase i="5998" t="Hálózati konfiguráció"/>
+  <phrase i="5997" t="Hálózatbeállítás megadása"/>
+  <phrase i="5996" t="Telefonbeállítások"/>
+  <phrase i="5995" t="Telefonbeállítás megadása"/>
+  <phrase i="5994" t="Biztonsági beállítások megadása"/>
+  <phrase i="5993" t="Eszközbeállítás megadása"/>
+  <phrase i="5992" t="Beállítása választása"/>
+  <phrase i="5991" t="Profil megadása"/>
+  <phrase i="5990" t="WLAN-beálllítás megadása"/>
+  <phrase i="5989" t="802.11 üzemmód"/>
+  <phrase i="5988" t="802.11b/g"/>
+  <phrase i="5987" t="802.11a"/>
+  <phrase i="5986" t="Automatikus b/g"/>
+  <phrase i="5985" t="Automatikus a"/>
+  <phrase i="5984" t="Automatikus RSSI"/>
+  <phrase i="5983" t="Megnyitás"/>
+  <phrase i="5982" t="Nyílt+WEP"/>
+  <phrase i="5981" t="Megosztott+WEP"/>
+  <phrase i="5980" t="LEAP"/>
+  <phrase i="5979" t="EAP-FAST"/>
+  <phrase i="5978" t="Automatikus (AKM)"/>
+  <phrase i="5977" t="U-APSD/PS-Poll"/>
+  <phrase i="5976" t="U-APSD/Nincs"/>
+  <phrase i="5975" t="PS-Poll"/>
+  <phrase i="5973" t="HEX"/>
+  <phrase i="5972" t="ASCII"/>
+  <phrase i="5971" t="40 bit"/>
+  <phrase i="5970" t="128 bit"/>
+  <phrase i="5969" t="Ki"/>
+  <phrase i="5968" t="Hangos"/>
+  <phrase i="5967" t="Biztonsági mód"/>
+  <phrase i="5966" t="Egyetlen hozzáférési pont"/>
+  <phrase i="5965" t="Energiatakarékos hívási mód"/>
+  <phrase i="5964" t="Kulcs típusa"/>
+  <phrase i="5963" t="Statikus WEP-kulcs"/>
+  <phrase i="5962" t="WEP-kulcs"/>
+  <phrase i="5961" t="Elsődl."/>
+  <phrase i="5960" t="Előmegosztott kulcs"/>
+  <phrase i="5959" t="Hálózati profil"/>
+  <phrase i="5958" t="Dokkoló hangszórója"/>
+  <phrase i="5957" t="Dokkoló csengetése"/>
+  <phrase i="5956" t="Fejhallgató"/>
+  <phrase i="5955" t="Normál"/>
+  <phrase i="5954" t="Találkozó"/>
+  <phrase i="5953" t="Kültér"/>
+  <phrase i="5952" t="Néma"/>
+  <phrase i="5951" t="1. egyéni"/>
+  <phrase i="5950" t="2. egyéni"/>
+  <phrase i="5949" t="Billentyűhang"/>
+  <phrase i="5948" t="Jelzés módja"/>
+  <phrase i="5947" t="Csak csengetés"/>
+  <phrase i="5946" t="Csak rezgés"/>
+  <phrase i="5945" t="Rezgés majd csengetés"/>
+  <phrase i="5944" t="Csengő kikapcsolva!"/>
+  <phrase i="5943" t="Csengetési típus"/>
+  <phrase i="5942" t="Másodperc"/>
+  <phrase i="5941" t="Választ "/>
+  <phrase i="5940" t="Beállítás "/>
+  <phrase i="5939" t="Új"/>
+  <phrase i="5938" t="Jelenlegi"/>
+  <phrase i="5937" t="Új megadása"/>
+  <phrase i="5936" t="Régi érték"/>
+  <phrase i="5935" t="Enged."/>
+  <phrase i="5934" t="Letiltás"/>
+  <phrase i="5933" t="Figyelmeztetés"/>
+  <phrase i="5932" t="Konfigurációs hiba"/>
+  <phrase i="5931" t="MCast"/>
+  <phrase i="5930" t="DHCP engedélyezése/letiltása"/>
+  <phrase i="5928" t="CallManager-információk"/>
+  <phrase i="5927" t="HTTP-információk"/>
+  <phrase i="5926" t="Területi beállítási információk"/>
+  <phrase i="5925" t="QoS információk"/>
+  <phrase i="5924" t="CallManager 2"/>
+  <phrase i="5923" t="Biztonsági információk"/>
+  <phrase i="5922" t="WLAN-konfiguráció"/>
+  <phrase i="5921" t="WLAN-konfiguráció"/>
+  <phrase i="5920" t="Profilnév"/>
+  <phrase i="5919" t="SSID"/>
+  <phrase i="5918" t="BSSID"/>
+  <phrase i="5917" t="RSSI"/>
+  <phrase i="5916" t="CU"/>
+  <phrase i="5915" t="USB-beállítás megadása"/>
+  <phrase i="5914" t="USB-beállítások"/>
+  <phrase i="5913" t="Hely felmérés"/>
+  <phrase i="5912" t="Betöltő-kiszolgáló"/>
+  <phrase i="5911" t="Csatornaválasztás"/>
+  <phrase i="5910" t="Csatorna"/>
+  <phrase i="5909" t="%d profil"/>
+  <phrase i="5908" t="Felhasználói profilok"/>
+  <phrase i="5907" t="Felhasználóprofil kiválasztása"/>
+  <phrase i="5906" t="Felhasználóbeállítás választás"/>
+  <phrase i="5905" t="Hálózati profilok"/>
+  <phrase i="5904" t="Hálózati profilok kiválasztása"/>
+  <phrase i="5903" t="USB"/>
+  <phrase i="5902" t="Kijelző fényereje"/>
+  <phrase i="5901" t="Kijelző kikapcsolása"/>
+  <phrase i="5900" t="Soha"/>
+  <phrase i="5899" t="Hívásfogad. bármely gombbal"/>
+  <phrase i="5898" t="Engedélyezve"/>
+  <phrase i="5897" t="Letiltva"/>
+  <phrase i="5896" t="A feltöltés befejeződött!"/>
+  <phrase i="5895" t="Nincs akkumulátor!"/>
+  <phrase i="5894" t="Akkumulátor lemerülőben!"/>
+  <phrase i="5893" t="MIC"/>
+  <phrase i="5892" t="LSC"/>
+  <phrase i="5891" t="Karakterlánc beírása"/>
+  <phrase i="5890" t="Hitelesítő karakterlánc"/>
+  <phrase i="5889" t="Az LSC-művelet befejeződött"/>
+  <phrase i="5888" t="Az LSC-művelet elkezdődött"/>
+  <phrase i="5887" t="Leállít."/>
+  <phrase i="5886" t="Kapcsolódás CAPF-kiszolgálóhoz"/>
+  <phrase i="5885" t="Nem kapcsolt a CAPF-kiszolg-hoz"/>
+  <phrase i="5884" t="Kapcsolódva a CAPF-kiszolg.-hoz"/>
+  <phrase i="5883" t="Hitelesítés CAPF-nél"/>
+  <phrase i="5882" t="CAPF-kiszolgáló"/>
+  <phrase i="5881" t="Alkalmazáshitelesítési hiba"/>
+  <phrase i="5880" t="LSC kulcsának generálása"/>
+  <phrase i="5879" t="LSC-kulcsgenerálás sikertelen"/>
+  <phrase i="5878" t="LSC-művelet folyamatban"/>
+  <phrase i="5877" t="Új próbálkozás... Kis türelmet"/>
+  <phrase i="5876" t="Művelet törölve"/>
+  <phrase i="5875" t="LSC-művelet megszakítva"/>
+  <phrase i="5874" t="Az LSC-művelet túl hosszú volt"/>
+  <phrase i="5873" t="Az LSC-művelet sikertelen"/>
+  <phrase i="5872" t="Kötelező megadni a min. hosszt"/>
+  <phrase i="5871" t="Az URL nincs beállítva!"/>
+  <phrase i="5870" t="Nincs"/>
+  <phrase i="5869" t="Ismeretlen"/>
+  <phrase i="5867" t="Nincs telepítve"/>
+  <phrase i="5866" t="Telepítve van"/>
+  <phrase i="5864" t="Nincs telepítve"/>
+  <phrase i="5863" t="LSC frissítve"/>
+  <phrase i="5862" t="LSC törölve"/>
+  <phrase i="5861" t="Részlet."/>
+  <phrase i="5860" t="Beállítás-hozzáférés letiltva!"/>
+  <phrase i="5859" t="A telefon újraindítása..."/>
+  <phrase i="5858" t="Gyári beáll. visszaállítása?"/>
+  <phrase i="5857" t="CTL fájl"/>
+  <phrase i="5856" t="Megbízható listák"/>
+  <phrase i="5855" t="CTL fájl törölve!"/>
+  <phrase i="5854" t="Nem található"/>
+  <phrase i="5853" t="Hibás MIC a telefonon"/>
+  <phrase i="5852" t="Sikertelen CTL frissítés"/>
+  <phrase i="5851" t="CTL telepítve"/>
+  <phrase i="5850" t="Az akkumulátortöltő leállt!"/>
+  <phrase i="5849" t="Az akkumulátortöltő elindult!"/>
+  <phrase i="5848" t="Áramforrás leválasztva!"/>
+  <phrase i="5847" t="Áramforrás csatlakoztatva!"/>
+  <phrase i="5846" t="USB leválasztva!"/>
+  <phrase i="5845" t="USB csatlakoztatva!"/>
+  <phrase i="5844" t="Dokkolás leválasztva!"/>
+  <phrase i="5843" t="Dokkolás csatlakoztatva!"/>
+  <phrase i="5842" t="A fejhallgató leválasztva!"/>
+  <phrase i="5841" t="Fejhallgató leválasztva!"/>
+  <phrase i="5840" t="Elérte a maximális hosszúságot!"/>
+  <phrase i="5839" t="Billentyűzár feloldva!"/>
+  <phrase i="5838" t="Billentyűk zárolva!"/>
+  <phrase i="5837" t="Feloldja a billentyűzárat?"/>
+  <phrase i="5836" t="Zárolja a billentyűzetet?"/>
+  <phrase i="5835" t="Rezgés kikapcsolva!"/>
+  <phrase i="5834" t="Rezgés bekapcsolva!"/>
+  <phrase i="5833" t="LSC-frissítés sikertelen!"/>
+  <phrase i="5832" t="MIC-frissítés sikertelen!"/>
+  <phrase i="5831" t="Beállításrögzítés feloldva!"/>
+  <phrase i="5830" t="A beállítások rögzítve."/>
+  <phrase i="5829" t="Akku kifogyott, kikapcsolás!"/>
+  <phrase i="5828" t="A TFTP nem szerepel a CTL-ben"/>
+  <phrase i="5827" t="USB-csatlakozó működik"/>
+  <phrase i="5826" t="USB-csatlakozó nem működik"/>
+  <phrase i="5825" t="%d másodperc"/>
+  <phrase i="5824" t="Automatikus billentyűzár"/>
+  <phrase i="5823" t="Automatikus zárolás időzítése"/>
+  <phrase i="5822" t="SRST"/>
+  <phrase i="5821" t="Válasszon a menüből!"/>
+  <phrase i="5820" t="A hálózat foglalt"/>
+  <phrase i="5819" t="WLAN szabályozási tartomány"/>
+  <phrase i="5818" t="USB gyártóazonosító"/>
+  <phrase i="5817" t="USB termékazonosító"/>
+  <phrase i="5816" t="RNDIS-eszközcím"/>
+  <phrase i="5815" t="RNDIS-állomáscím"/>
+  <phrase i="5814" t="Elrejtés"/>
+  <phrase i="5813" t="Beállít."/>
+  <phrase i="5812" t="Választáshoz középső gomb"/>
+  <phrase i="5811" t="Szerkesztéshez középső gomb"/>
+  <phrase i="5810" t="RxPkts"/>
+  <phrase i="5809" t="RxErr"/>
+  <phrase i="5808" t="RxUcast"/>
+  <phrase i="5807" t="RxMcast"/>
+  <phrase i="5806" t="RxBcast"/>
+  <phrase i="5805" t="FcsErr"/>
+  <phrase i="5804" t="RcvBeacons"/>
+  <phrase i="5803" t="AssocRej"/>
+  <phrase i="5802" t="AssocTmOut"/>
+  <phrase i="5801" t="AuthRej"/>
+  <phrase i="5800" t="AuthTmOut"/>
+  <phrase i="5799" t="TxPkts"/>
+  <phrase i="5798" t="TxErr"/>
+  <phrase i="5797" t="TxUcast"/>
+  <phrase i="5796" t="TxMcast"/>
+  <phrase i="5795" t="TxBcast"/>
+  <phrase i="5794" t="Naplók megőrzése"/>
+  <phrase i="5793" t="RTSFail"/>
+  <phrase i="5792" t="ACKFail"/>
+  <phrase i="5791" t="MRetry"/>
+  <phrase i="5790" t="RetryFail"/>
+  <phrase i="5789" t="AgedPkts"/>
+  <phrase i="5788" t="OtherFail"/>
+  <phrase i="5787" t="MaxFail"/>
+  <phrase i="5786" t="Biztonsági konfiguráció"/>
+  <phrase i="5785" t="A profil zárolva!"/>
+  <phrase i="5784" t="A profilok zárolva!"/>
+  <phrase i="5783" t="WLAN-illesztőprogram azonosító"/>
+  <phrase i="5782" t="WLAN-firmware azonosítója"/>
+  <phrase i="5781" t="Hívásstatisztika megtekintése"/>
+  <phrase i="5780" t="Fogadó kodek"/>
+  <phrase i="5779" t="Küldő kodek"/>
+  <phrase i="5778" t="Fogadó méret"/>
+  <phrase i="5777" t="Küldő méret"/>
+  <phrase i="5776" t="Átlagos jitter"/>
+  <phrase i="5775" t="Max. jitter"/>
+  <phrase i="5774" t="Fogadó eldobva"/>
+  <phrase i="5773" t="MOS LQK"/>
+  <phrase i="5772" t="Átl. MOS LQK"/>
+  <phrase i="5771" t="Min. MOS LQK"/>
+  <phrase i="5770" t="Max. MOS LQK"/>
+  <phrase i="5769" t="MOS LQK verzió"/>
+  <phrase i="5768" t="ÖsszFedésArány"/>
+  <phrase i="5767" t="BelsőFedésArány"/>
+  <phrase i="5766" t="MaxFedésArány"/>
+  <phrase i="5765" t="Fedés (másodperc)"/>
+  <phrase i="5764" t="SevConcealSecs"/>
+  <phrase i="5763" t="CallManager"/>
+  <phrase i="5762" t="Hálózati információk"/>
+  <phrase i="5761" t="WLAN-információk"/>
+  <phrase i="5760" t="WLAN"/>
+  <phrase i="5759" t="HTTP"/>
+  <phrase i="5758" t="Területi beállítás"/>
+  <phrase i="5757" t="QoS"/>
+  <phrase i="5756" t="Biztonság"/>
+  <phrase i="5755" t="Állítsa be a hangerőt"/>
+  <phrase i="5754" t="Hangbeállítások"/>
+  <phrase i="5753" t="Kijelzőbeállítások"/>
+  <phrase i="5752" t="Billentyűbeállítások"/>
+  <phrase i="5751" t="Alapértelmezett csengetéstípus"/>
+  <phrase i="5750" t="Hangbeállítás kiválasztása"/>
+  <phrase i="5749" t="Kijelzőbeállítás kiválasztása"/>
+  <phrase i="5748" t="Billentyűbeállítás kiválasztása"/>
+  <phrase i="5747" t="Titkosítás típusa"/>
+  <phrase i="5746" t="CCKM mód"/>
+  <phrase i="5745" t="Kulcskezelés"/>
+  <phrase i="5744" t="Tx teljesítmény"/>
+  <phrase i="5743" t="Megosztott"/>
+  <phrase i="5742" t="Automatikus kapcsolás"/>
+  <phrase i="5741" t="WPA – nincs"/>
+  <phrase i="5740" t="Webhozzáférés"/>
+  <phrase i="5739" t="Írásvédett"/>
+  <phrase i="5738" t="Tárcsázandó szám szerk."/>
+  <phrase i="5737" t="Hangerő-beállítások"/>
+  <phrase i="5736" t="Állítsa be a hangerőt"/>
+  <phrase i="5735" t="Hangerők"/>
+  <phrase i="5734" t="Csenget"/>
+  <phrase i="5733" t="Hordozható készülék"/>
+  <phrase i="5732" t="Hangszóró"/>
+  <phrase i="5731" t="Rezgés és csengetés"/>
+  <phrase i="5730" t="Szint: %d"/>
+  <phrase i="5729" t="Perc"/>
+  <phrase i="5728" t="Perc"/>
+  <phrase i="5727" t="Hívás folyamatban..."/>
+  <phrase i="5726" t="Hívás megszakítva!"/>
+  <phrase i="5725" t="Sikertelen hívás próbálja újra"/>
+  <phrase i="5724" t="Nem engedélyezhető: üres SSID!"/>
+  <phrase i="5723" t="Itt nem szerepelhet üres SSID!"/>
+  <phrase i="5722" t="Csengőhang"/>
+  <phrase i="5721" t="Jelenlegi beállítások"/>
+  <phrase i="5720" t="Elérhető csengőhangok"/>
+  <phrase i="5719" t="Csengőhang-beállítások"/>
+  <phrase i="5718" t="Megnéz"/>
+  <phrase i="5717" t="Csengőhang választás"/>
+  <phrase i="5716" t="Csengőhang alkalmazása"/>
+  <phrase i="5715" t="Alkalmaz"/>
+  <phrase i="5714" t="LED fedettségjelző"/>
+  <phrase i="5713" t="Biztonsági konfiguráció"/>
+  <phrase i="5712" t="Csengetési kimenet"/>
+  <phrase i="5711" t="Hangszóró és fejhallgató"/>
+  <phrase i="5710" t="Módosít."/>
+  <phrase i="5709" t="Wavelink konfigurálása"/>
+  <phrase i="5708" t="Wavelink beállítás választása"/>
+  <phrase i="5707" t="Wavelink"/>
+  <phrase i="5706" t="Alternatív Wavelink-kiszolgáló"/>
+  <phrase i="5705" t="Wavelink-kiszolgáló"/>
+  <phrase i="5704" t="Wavelink-kiszolgáló portja"/>
+  <phrase i="5703" t="Engedélyező verziója"/>
+  <phrase i="5702" t="Egyéni név"/>
+  <phrase i="5701" t="Egyéni érték"/>
+  <phrase i="5700" t="Csat."/>
+  <phrase i="5699" t="Szomszédlista"/>
+  <phrase i="5698" t="AP név"/>
+  <phrase i="5697" t="EAP-TLS"/>
+  <phrase i="5696" t="PEAP"/>
+  <phrase i="5695" t="NullRcv"/>
+  <phrase i="5694" t="DataRcvBE"/>
+  <phrase i="5693" t="DataRcvBK"/>
+  <phrase i="5692" t="DataRcvVI"/>
+  <phrase i="5691" t="DataRcvVO"/>
+  <phrase i="5690" t="Feloldás"/>
+  <phrase i="5689" t="Személyes címtár"/>
+  <phrase i="5688" t="Vállalati címtár"/>
+  <phrase i="5687" t="Nyomja meg a Feloldás gombot"/>
+  <phrase i="5686" t="A feloldáshoz nyomja meg a # gombot"/>
+  <phrase i="5685" t="A feloldáshoz tartsa lenyomva a # gombot"/>
+  <phrase i="5684" t="Billentyűk zárolva"/>
+  <phrase i="5683" t="Háttérvilágítás"/>
+  <phrase i="5682" t="Hangkimenet kiválasztása"/>
+  <phrase i="5681" t="Hangszóró és Bluetooth"/>
+  <phrase i="5680" t="Fejhallgató csengetése"/>
+  <phrase i="5679" t="Nagy"/>
+  <phrase i="5678" t="Közepes"/>
+  <phrase i="5677" t="Alacsony"/>
+  <phrase i="5676" t="A főképernyőhöz nyomja meg a(z) %s gombot"/>
+  <phrase i="5675" t="Hívás részletei"/>
+  <phrase i="5674" t="Dátum: %s, idő: %s"/>
+  <phrase i="5673" t="Időtartam"/>
+  <phrase i="5672" t="Prompt mód"/>
+  <phrase i="5671" t="Lehet, hogy a felhasználói hitelesítő adatok helytelenek."/>
+  <phrase i="5670" t="Módosítja most?"/>
+  <phrase i="5669" t="Hangszóró mód"/>
+  <phrase i="5668" t="Tartós"/>
+  <phrase i="5667" t="Hívásonként"/>
+  <phrase i="5666" t="Bejelentkezés hálózati profilba"/>
+  <phrase i="5665" t="Betűméret"/>
+  <phrase i="5664" t="Megnövelt"/>
+  <phrase i="5663" t="64 bit"/>
+  <phrase i="5662" t="104 bit"/>
+  <!-- CCM phrases -->
+  <phrase i="5000" t="Cisco CallManager Express"/>
+  <phrase i="4999" t="INTERCOM"/>
+  <phrase i="4998" t="Behívás"/>
+  <phrase i="4997" t="Helyi címtár"/>
+  <phrase i="4996" t="Helyi gyorshívó"/>
+  <phrase i="4995" t="Vezetéknév"/>
+  <phrase i="4994" t="Utónév"/>
+  <phrase i="4993" t="Keresés a helyi címtárban"/>
+  <phrase i="4992" t="Szűkítse keresést, sokat talált"/>
+  <phrase i="4991" t="Nem található ilyen bejegyzés."/>
+  <phrase i="4990" t="1– ... bejegyzés, összesen:"/>
+  <phrase i="4989" t="Nincs vonal"/>
+  <phrase i="4988" t="Nem lehet átadni"/>
+  <phrase i="4987" t="Az átadás célja foglalt"/>
+  <phrase i="4986" t="Tel.szám beírása/kiválasztása"/>
+  <phrase i="4985" t="Minden rendszerbeállítás"/>
+  <phrase i="4984" t="alaphelyzetbe állítása?"/>
+  <phrase i="4983" t="Címtárszolgáltatások"/>
+  <phrase i="4982" t="XML szolgáltatások"/>
+  <phrase i="4981" t="Csatlakozás kiszolgálóhoz"/>
+  <phrase i="4980" t="A kapcsolat nem jött létre"/>
+  <phrase i="4979" t="Újraindítja a telefont?"/>
+  <phrase i="4978" t="Menü"/>
+  <phrase i="4977" t="Nyelv"/>
+  <phrase i="4976" t="Másodlagos tartomány"/>
+  <phrase i="4975" t="Másodlagos DNS"/>
+  <phrase i="4974" t="Aktuális érték"/>
+  <phrase i="4973" t="Új érték"/>
+  <phrase i="4972" t="Alapértelmezett router"/>
+  <phrase i="4971" t="VLAN engedélyezve"/>
+  <phrase i="4970" t="CDP engedélyezve"/>
+  <phrase i="4969" t="Szolgáltatások"/>
+  <phrase i="4968" t="Gyorshívó"/>
+  <phrase i="4967" t="Kiszolgáló megadása"/>
+  <phrase i="4966" t="Statikus"/>
+  <phrase i="4965" t="Regisztrációs mód"/>
+  <phrase i="4964" t="Mód"/>
+  <phrase i="4963" t="Régi"/>
+  <phrase i="4962" t="Firmware-frissítés"/>
+  <phrase i="4961" t="Kontraszt menü"/>
+  <phrase i="4960" t="Rendszgazd. jelszó változtatása"/>
+  <phrase i="4959" t="Nem elérhető"/>
+  <phrase i="4958" t="Mintaszöveg"/>
+  <phrase i="4957" t="Frissítés"/>
+  <phrase i="4956" t="Új jelszó"/>
+  <phrase i="4955" t="Üzenetek"/>
+  <phrase i="4954" t="Beállítások"/>
+  <phrase i="4953" t="Címtárak"/>
+  <phrase i="4952" t="Hibás jelszó"/>
+  <phrase i="4951" t="Rendszergazda-jelszó megadása"/>
+  <phrase i="4950" t="Érvénytelen érték"/>
+  <phrase i="4949" t="Érvénytelen hosszú kulcs"/>
+  <phrase i="4948" t="Hibás kulcs, HEX számjegy kell"/>
+  <phrase i="4947" t="GYORSHÍVÓ"/>
+  <phrase i="4946" t="Nincs Ethernet kapcsolat"/>
+  <phrase i="4945" t="Konfigurálás TFTP-n keresztül"/>
+  <phrase i="4944" t="IP konfigurálás DHCP-vel"/>
+  <phrase i="4943" t="VLAN-beállítások konfigurálása"/>
+  <phrase i="4942" t="A szám nem érhető el"/>
+  <phrase i="4941" t="Nincs hozzárendelve"/>
+  <phrase i="4940" t="Csengetési hangerő"/>
+  <phrase i="4939" t="Tel.kagyló hangerő-beállítása"/>
+  <phrase i="4938" t="Kihangosító hangerő-beállítása"/>
+  <phrase i="4937" t="Újra"/>
+  <phrase i="4936" t="Enter"/>
+  <phrase i="4935" t="Alfa"/>
+  <phrase i="4934" t="MonKi"/>
+  <phrase i="4933" t="Figyelő"/>
+  <phrase i="4932" t="Szám"/>
+  <phrase i="4931" t="Üzenet"/>
+  <phrase i="718" t="Intercomelőzmények"/>
+  <phrase i="717" t="Minden vonal"/>
+  <phrase i="716" t="%d. vonal"/>
+  <phrase i="715" t="Ki"/>
+  <phrase i="714" t="Művelet törölve"/>
+  <phrase i="713" t="TFTP nincs hitelesítve: %s"/>
+  <phrase i="712" t="Törlés"/>
+  <phrase i="711" t="Titkosított"/>
+  <phrase i="710" t="Hitelesített"/>
+  <phrase i="709" t="Nem biztonságos"/>
+  <phrase i="708" t="TLS hiba: "/>
+  <phrase i="707" t="Webhozzáférés engedélyezve"/>
+  <phrase i="706" t="Eszköz biztonsági módja"/>
+  <phrase i="705" t="Feldolgozás..."/>
+  <phrase i="704" t="Érvénytelen érték/nincs infó"/>
+  <phrase i="703" t="Sikertelen kulcsgenerálás"/>
+  <phrase i="702" t="Elveszett/sikertelen kapcsolat"/>
+  <phrase i="701" t="Sikertelen"/>
+  <phrase i="700" t="Időtúllépés"/>
+  <phrase i="699" t="Sikeres"/>
+  <phrase i="698" t="Hitelesítési kérés..."/>
+  <phrase i="697" t="Kapcsolódás..."/>
+  <phrase i="696" t="CAPF újrapróbálása..."/>
+  <phrase i="695" t="Kulcsgenerálás..."/>
+  <phrase i="694" t="Művelet leállítása"/>
+  <phrase i="693" t="Hitelesítés frissítése"/>
+  <phrase i="692" t="Hitelesítési karakterlánc"/>
+  <phrase i="691" t="Hitelesítések"/>
+  <phrase i="690" t="DSCP a szolgáltatásokhoz"/>
+  <phrase i="689" t="DSCP a konfigurációhoz"/>
+  <phrase i="688" t="DSCP a hívásirányításhoz"/>
+  <phrase i="687" t="Sikertelen fájlhitelesítés"/>
+  <phrase i="686" t="CAST Task"/>
+  <phrase i="685" t="Videó funkció engedélyezve"/>
+  <phrase i="684" t="Auto-vonalválasztás eng."/>
+  <phrase i="683" t="Hang VLAN engedélyezve"/>
+  <phrase i="682" t="GARP engedélyezve"/>
+  <phrase i="681" t="Szomszéd port"/>
+  <phrase i="680" t="Szomszéd IP-cím"/>
+  <phrase i="679" t="Szomszéd eszköz azonosítója"/>
+  <phrase i="678" t="Innen: %s"/>
+  <phrase i="677" t="Átirányítva"/>
+  <phrase i="676" t="RövHív"/>
+  <phrase i="675" t="Szolgáltatás-URL állapota"/>
+  <phrase i="674" t="Funkciógomb állapota"/>
+  <phrase i="673" t="a"/>
+  <phrase i="672" t="p"/>
+  <phrase i="671" t="%d új nem fogadott hívás"/>
+  <phrase i="670" t="Alapértelmezett csengetés"/>
+  <phrase i="669" t="Válasszon vonalat"/>
+  <phrase i="668" t="Hívásszerkesztés"/>
+  <phrase i="667" t="Telefon - megszakítás"/>
+  <phrase i="666" t="Hálózati ter. beáll. verzió"/>
+  <phrase i="665" t="Felhasználói nyelv verziója"/>
+  <phrase i="664" t="TFTP-kérés törölve"/>
+  <phrase i="663" t="DHCP letiltva"/>
+  <phrase i="662" t="IP-cím szükséges"/>
+  <phrase i="661" t="Állapot "/>
+  <phrase i="660" t="Alapértelmezett"/>
+  <phrase i="659" t="Várakozó üzenet"/>
+  <phrase i="658" t="Csak tel.kagyló mód"/>
+  <phrase i="657" t="Modellszám"/>
+  <phrase i="656" t="Modellinformációk"/>
+  <phrase i="655" t="Modellinformációk"/>
+  <phrase i="654" t="Kapcsolatállapot "/>
+  <phrase i="653" t="Betűkészlet-mutató utolsó"/>
+  <phrase i="652" t="Betűkészlet-mutató"/>
+  <phrase i="651" t="Alkalmazás futtatása"/>
+  <phrase i="650" t="Betűkészlet letöltése utolsó"/>
+  <phrase i="649" t="Betűkészlet letöltése"/>
+  <phrase i="648" t="Betűkészlettábla adatai"/>
+  <phrase i="647" t="Szegmens letöltése utolsó"/>
+  <phrase i="646" t="Szegmens letöltése"/>
+  <phrase i="645" t="Szegmens frissítése"/>
+  <phrase i="644" t="Hardveradatok"/>
+  <phrase i="643" t="TFTP verziószáma"/>
+  <phrase i="642" t="Verzióinformáció"/>
+  <phrase i="641" t="Inaktív"/>
+  <phrase i="640" t="Nem támogatott"/>
+  <phrase i="639" t="Hiba a nyelv frissítésekor"/>
+  <phrase i="638" t="Állapotvárakozás:%d ettől: %s"/>
+  <phrase i="637" t="Várakozás: %s, ettől: %s"/>
+  <phrase i="636" t="BOOTP-kiszolgáló"/>
+  <phrase i="635" t="DHCP-kiszolgáló"/>
+  <phrase i="634" t="3V Amp"/>
+  <phrase i="633" t="5V Amp"/>
+  <phrase i="632" t="ADCodec"/>
+  <phrase i="631" t="ADLCodec"/>
+  <phrase i="630" t="C3PO változat"/>
+  <phrase i="629" t="Amps"/>
+  <phrase i="628" t="Codec"/>
+  <phrase i="627" t="Gyári szám"/>
+  <phrase i="626" t="Hardververzió"/>
+  <phrase i="625" t="Betöltőazonosító"/>
+  <phrase i="624" t="Alkalmazásazonosító"/>
+  <phrase i="623" t="Telefonszám"/>
+  <phrase i="622" t="SYS mód"/>
+  <phrase i="621" t="FIQ mód"/>
+  <phrase i="620" t="IRQ mód"/>
+  <phrase i="619" t="SVC mód"/>
+  <phrase i="618" t="Nem definiált mód"/>
+  <phrase i="610" t="tovább"/>
+  <phrase i="609" t="Választ"/>
+  <phrase i="608" t="Kilépés"/>
+  <phrase i="607" t="Le"/>
+  <phrase i="606" t="Fel"/>
+  <phrase i="605" t="Mégse"/>
+  <phrase i="604" t="Módosít"/>
+  <phrase i="603" t="Nem"/>
+  <phrase i="602" t="Igen"/>
+  <phrase i="601" t="Lejátsz"/>
+  <phrase i="600" t="Hívás"/>
+  <phrase i="599" t="MódHív"/>
+  <phrase i="598" t="Mentés"/>
+  <phrase i="597" t="Visszaál"/>
+  <phrase i="596" t="Törlés"/>
+  <phrase i="595" t="Gyári"/>
+  <phrase i="594" t="Ok"/>
+  <phrase i="593" t="Ellenőr."/>
+  <phrase i="592" t="Keres"/>
+  <phrase i="591" t="Követk"/>
+  <phrase i="590" t="Frissít"/>
+  <phrase i="589" t="Törlés"/>
+  <phrase i="588" t="Indít"/>
+  <phrase i="587" t="Hang"/>
+  <phrase i="586" t="Hálózati területi beállítás"/>
+  <phrase i="585" t="Felhasználói nyelv"/>
+  <phrase i="584" t="Kate File"/>
+  <phrase i="583" t="Hangfájl"/>
+  <phrase i="582" t="A csengő foglalt!"/>
+  <phrase i="581" t="TFTP-kiszolgáló 2"/>
+  <phrase i="578" t="SW port beállítás"/>
+  <phrase i="577" t="PC port beállítás"/>
+  <phrase i="576" t="PC port letiltva"/>
+  <phrase i="575" t="Hiba"/>
+  <phrase i="574" t="Érvénytelen argumentum"/>
+  <phrase i="573" t="Egyszerű telefon"/>
+  <phrase i="571" t="KONTRASZT MENÜ"/>
+  <phrase i="570" t="Válassza ki a kontrasztot"/>
+  <phrase i="569" t="Hangposta"/>
+  <phrase i="568" t="ÜZENETEK"/>
+  <phrase i="555" t="CM-ICMP-Unreachable"/>
+  <phrase i="554" t="Jelöljön ki egy hívást..."/>
+  <phrase i="553" t="Proxy-kiszolgáló URL-címe"/>
+  <phrase i="552" t="Hitelesítési URL"/>
+  <phrase i="551" t="AutoTárcsázás törölve!"/>
+  <phrase i="550" t="Sidecar Task"/>
+  <phrase i="547" t="HTTP fájlhiba"/>
+  <phrase i="546" t="XML hiba [4]: szintaktikai hiba"/>
+  <phrase i="545" t="Fájllétrehozási hiba"/>
+  <phrase i="544" t="Utolsó="/>
+  <phrase i="543" t="Betölt. elutas. HC"/>
+  <phrase i="542" t="Tel-Reg-Elut"/>
+  <phrase i="541" t="Alaphelyzet-Újraindítás"/>
+  <phrase i="540" t="Alaphelyzet-Alaphelyzet"/>
+  <phrase i="539" t="Tel-Újra-IP"/>
+  <phrase i="538" t="Telefon-Billentyűzet"/>
+  <phrase i="537" t="Telefon-Diag."/>
+  <phrase i="536" t="Visszakapcsolás"/>
+  <phrase i="535" t="KeepaliveTO"/>
+  <phrase i="534" t="CM-NAKed"/>
+  <phrase i="533" t="CM-aborted-TCP"/>
+  <phrase i="532" t="CM-reset-TCP"/>
+  <phrase i="531" t="TCP-Bad-ACK"/>
+  <phrase i="530" t="Hiba a konfig. adatokban"/>
+  <phrase i="529" t="Portinformáció"/>
+  <phrase i="528" t="Ethernet információ"/>
+  <phrase i="527" t="%s túl nagy"/>
+  <phrase i="526" t="Hívó: "/>
+  <phrase i="525" t="Nincs bejegyzés"/>
+  <phrase i="524" t="Írja be az azon.-t és a jelszót"/>
+  <phrase i="523" t="Jelszó"/>
+  <phrase i="522" t="Felhasználóazonosító"/>
+  <phrase i="521" t="Válasszon szolgáltatást..."/>
+  <phrase i="520" t="A jelenlegi hívás kezelése..."/>
+  <phrase i="519" t="TFTP mérethiba"/>
+  <phrase i="518" t="Kifejezésfájl"/>
+  <phrase i="517" t="Jelfájl"/>
+  <phrase i="516" t="%s nem érhető el"/>
+  <phrase i="515" t="Rossz %s"/>
+  <phrase i="514" t="Napló %d"/>
+  <phrase i="513" t="Hozzáférés"/>
+  <phrase i="511" t="Telefon"/>
+  <phrase i="510" t="Hálózat"/>
+  <phrase i="509" t="Adatfolyam %d"/>
+  <phrase i="508" t="Adatfolyam-küldési statisztika"/>
+  <phrase i="507" t="Eszköznaplók"/>
+  <phrase i="506" t="Port %d"/>
+  <phrase i="505" t="Ethernet"/>
+  <phrase i="504" t="Készülékinformációk"/>
+  <phrase i="503" t="Átir. késleltetés"/>
+  <phrase i="502" t="A konfiguráció törlése"/>
+  <phrase i="501" t="Másodlagos TFTP"/>
+  <phrase i="500" t="DHCP-cím felszabadítása"/>
+  <phrase i="499" t="DHCP engedélyezve"/>
+  <phrase i="498" t="Bcast"/>
+  <phrase i="497" t="REr"/>
+  <phrase i="496" t="Xmt"/>
+  <phrase i="495" t="Rcv"/>
+  <phrase i="494" t="Verzió"/>
+  <phrase i="493" t="Vissza"/>
+  <phrase i="492" t=" BE"/>
+  <phrase i="491" t=" IGEN"/>
+  <phrase i="490" t=" KI"/>
+  <phrase i="489" t=" NEM"/>
+  <phrase i="488" t="RTP késleltetés"/>
+  <phrase i="487" t="TFTP hiba"/>
+  <phrase i="486" t="TFTP hozzáférési hiba"/>
+  <phrase i="485" t="Fájl nem található"/>
+  <phrase i="484" t="Utolsó=0x%02X"/>
+  <phrase i="483" t="CM zárta a TCP-t"/>
+  <phrase i="482" t="TCP-időtúllépés"/>
+  <phrase i="481" t="Inicializálva"/>
+  <phrase i="480" t="Név=%15s"/>
+  <phrase i="479" t="Szoftver frissítése"/>
+  <phrase i="478" t="ROM Ellenőrzőösszeg-hiba"/>
+  <phrase i="477" t=" Betöltő="/>
+  <phrase i="474" t="Kettős IP-cím"/>
+  <phrase i="473" t="IP-cím elengedve"/>
+  <phrase i="472" t="Alaphelyzetbe állítás"/>
+  <phrase i="471" t="Kiszolgáló-lista lekérése"/>
+  <phrase i="470" t="Sebesség lekérése"/>
+  <phrase i="469" t="Vonalállapot lekérése"/>
+  <phrase i="468" t="Gombbeállítás lekérése"/>
+  <phrase i="467" t="Gombsablon lekérése"/>
+  <phrase i="466" t="Sablon lekérése"/>
+  <phrase i="465" t="DSP betöltése"/>
+  <phrase i="464" t="Betöltés ellenőrzése"/>
+  <phrase i="463" t="Regisztrálás elutasítva"/>
+  <phrase i="462" t="Regisztrálás"/>
+  <phrase i="461" t="Megnyitás "/>
+  <phrase i="460" t="CM lista konfigurálása"/>
+  <phrase i="459" t="IP-cím konfigurálása"/>
+  <phrase i="458" t="VLAN konfigurálása"/>
+  <phrase i="457" t="%d (összesen: %d)"/>
+  <phrase i="456" t="A gyártóadatok érvénytelenek"/>
+  <phrase i="455" t="XML hiba [%d]!"/>
+  <phrase i="454" t="HTTP hiba [%d]!"/>
+  <phrase i="453" t="Az állomás nem található"/>
+  <phrase i="452" t="HTTP-kérés törölve"/>
+  <phrase i="451" t="Átirányítás..."/>
+  <phrase i="450" t="Hitelesítés szükséges!"/>
+  <phrase i="449" t="Half"/>
+  <phrase i="448" t="Full"/>
+  <phrase i="447" t="Működési idő"/>
+  <phrase i="446" t="Hiba a tömörítés típusával"/>
+  <phrase i="445" t="TCP hibakód"/>
+  <phrase i="444" t="Verzióhiba"/>
+  <phrase i="443" t="A lemez megtelt"/>
+  <phrase i="442" t="CFG TFTP mérethiba"/>
+  <phrase i="441" t="DSP késés"/>
+  <phrase i="440" t="Kiürítve"/>
+  <phrase i="439" t="DSP életjelküldési időtúllépés"/>
+  <phrase i="438" t="DSP hiba"/>
+  <phrase i="437" t="Érvénytelen VLAN"/>
+  <phrase i="436" t="Érvénytelen IP-cím"/>
+  <phrase i="435" t="Érvénytelen alhálózati maszk"/>
+  <phrase i="434" t=" Nem érhető el"/>
+  <phrase i="433" t=" Készenlét"/>
+  <phrase i="432" t=" Aktív"/>
+  <phrase i="431" t="Használt BOOTP-kiszolgáló"/>
+  <phrase i="430" t="Programozási hiba"/>
+  <phrase i="429" t="Kettős IP-cím"/>
+  <phrase i="428" t="Nincs alapértelmezett router"/>
+  <phrase i="427" t="Cnf fájl elérhető"/>
+  <phrase i="426" t="Ellenőrzőösszeg-hiba"/>
+  <phrase i="425" t="A betöltőazonosító helytelen"/>
+  <phrase i="424" t="DNS-kiszolgáló IP-címe nem ismert"/>
+  <phrase i="423" t="DNS-időtúllépés"/>
+  <phrase i="422" t="DNS ismeretlen állomás"/>
+  <phrase i="421" t="TFTP általános hiba"/>
+  <phrase i="420" t="CFG fájl nem található"/>
+  <phrase i="419" t="TFTP-időtúllépés"/>
+  <phrase i="418" t="DHCP-időtúllépés"/>
+  <phrase i="417" t="Router szükséges"/>
+  <phrase i="416" t="Router nem az alhálózaton van"/>
+  <phrase i="415" t="TFTP-kiszolgáló szükséges"/>
+  <phrase i="414" t="Érvénytelen információ"/>
+  <phrase i="413" t="Üzenetszórás-elnyomás KI"/>
+  <phrase i="412" t="Üzenetszórás-elnyomás BE"/>
+  <phrase i="410" t="Telefonkagyló-hangerő mentve!"/>
+  <phrase i="409" t="Fejhallgató-hangerő mentve!"/>
+  <phrase i="408" t="Kihangosító-hangerő mentve!"/>
+  <phrase i="407" t="Módosítás nincs mentve!"/>
+  <phrase i="406" t="Menti a hangerő-beállítást?"/>
+  <phrase i="405" t="Adja meg a bemenő adatokat..."/>
+  <phrase i="404" t="A szolgáltatás nem érhető el"/>
+  <phrase i="403" t="SZOLGÁLTATÁSOK"/>
+  <phrase i="402" t="Hardverinformáció megtekintése"/>
+  <phrase i="401" t="Hardverinformációk"/>
+  <phrase i="400" t="Vereminformációk megtekintése"/>
+  <phrase i="399" t="Veremfigyelő"/>
+  <phrase i="398" t="Hibakeresési infó megtekintése"/>
+  <phrase i="397" t="Hibakeresési kijelző"/>
+  <phrase i="396" t="Firmware információk"/>
+  <phrase i="395" t="Firmware verziószáma"/>
+  <phrase i="394" t="Hálózati stat. megtekintése"/>
+  <phrase i="393" t="Hálózati statisztika"/>
+  <phrase i="392" t="Állapotüzenetek megtekintése"/>
+  <phrase i="391" t="A bejegyzés érvényesítve"/>
+  <phrase i="390" t="Új %s:"/>
+  <phrase i="389" t="Aktuális %s:"/>
+  <phrase i="388" t="%s szerkesztése"/>
+  <phrase i="387" t="Készülékinformációk"/>
+  <phrase i="386" t="Válasszon a menüből!"/>
+  <phrase i="385" t="Veremstatisztika"/>
+  <phrase i="384" t="Állapotüzenetek"/>
+  <phrase i="383" t="Hálózatbeállítás megadása..."/>
+  <phrase i="382" t="Csengőhanglista nem található"/>
+  <phrase i="381" t="Helytelen csengőhanglista-fájl"/>
+  <phrase i="380" t="Csengőhanglista-fájl nincs meg"/>
+  <phrase i="379" t="Csengőhanglista-fájl lekérése"/>
+  <phrase i="378" t="Csengetési típus"/>
+  <phrase i="377" t="Csengő kiválasztása"/>
+  <phrase i="376" t="Csengőhanglista lekérése..."/>
+  <phrase i="375" t="Chirp 2"/>
+  <phrase i="374" t="Chirp 1"/>
+  <phrase i="373" t="Módosítás elfogadva és mentve"/>
+  <phrase i="372" t="Kontraszt módosítása..."/>
+  <phrase i="371" t="Minden változtatás mentve"/>
+  <phrase i="370" t="Gyári beállítás visszaállítva "/>
+  <phrase i="369" t="Mentett beállítás visszaállít."/>
+  <phrase i="368" t="Válasszon a menüből!"/>
+  <phrase i="367" t="BEÁLLÍTÁSOK"/>
+  <phrase i="366" t="Állapot"/>
+  <phrase i="365" t="Hálózati konfiguráció"/>
+  <phrase i="364" t="Kontraszt"/>
+  <phrase i="363" t="Finomítsa a keresési feltételt"/>
+  <phrase i="362" t="Nincs rekord"/>
+  <phrase i="361" t="%d rekord"/>
+  <phrase i="360" t="%s keresése"/>
+  <phrase i="359" t="A híváselőzmények törölve!"/>
+  <phrase i="358" t="Válasszon a menüből!"/>
+  <phrase i="357" t="A címtár URL-je érvénytelen!"/>
+  <phrase i="356" t="CÍMTÁR"/>
+  <phrase i="355" t="Tárcsázott hívások"/>
+  <phrase i="354" t="Fogadott hívások"/>
+  <phrase i="353" t="Nem fogadott hívások"/>
+  <phrase i="352" t="CM leállítva, funkciók tiltva"/>
+  <phrase i="351" t="%s ehhez:"/>
+  <phrase i="350" t="Ez a gomb nem aktív itt"/>
+  <phrase i="349" t="Kérés..."/>
+  <phrase i="348" t="Hívásstatisztika"/>
+  <phrase i="347" t="INFORMÁCIÓ"/>
+  <phrase i="346" t="Nyomjon meg egy gombot..."/>
+  <phrase i="345" t="Visszalépés:  gomb..."/>
+  <phrase i="344" t="Minden mező mentve"/>
+  <phrase i="343" t="Módosítás nincs elmentve"/>
+  <phrase i="342" t="%d nap, "/>
+  <phrase i="341" t="1 nap, "/>
+  <phrase i="340" t="Dátum:%s, időpont:"/>
+  <phrase i="339" t="%s, időpont:"/>
+  <phrase i="338" t="Tegnap ekkor:"/>
+  <phrase i="337" t="Ma ekkor:"/>
+  <phrase i="336" t="Szombat"/>
+  <phrase i="335" t="Péntek"/>
+  <phrase i="334" t="Csütörtök"/>
+  <phrase i="333" t="Szerda"/>
+  <phrase i="332" t="Kedd"/>
+  <phrase i="331" t="Hétfő"/>
+  <phrase i="330" t="Vasárnap"/>
+  <phrase i="329" t="Hívott: %s"/>
+  <phrase i="328" t="Ismeretlen szám"/>
+  <phrase i="327" t="Hívó: %s"/>
+  <phrase i="326" t="Hívott: %s"/>
+  <phrase i="325" t="%s átirányítva"/>
+  <phrase i="324" t="Külső hívás"/>
+  <phrase i="323" t="Más által foglalt"/>
+  <phrase i="322" t="%d új nem fogadott hívás%c"/>
+  <phrase i="321" t="Rx Longs"/>
+  <phrase i="320" t="Rx Shorts"/>
+  <phrase i="319" t="Rx Broadcasts"/>
+  <phrase i="318" t="Rx Multicasts"/>
+  <phrase i="317" t="Rx Runt"/>
+  <phrase i="316" t="Rx Bad Preamble"/>
+  <phrase i="315" t="Rx CRC Errors"/>
+  <phrase i="314" t="Rx Frames"/>
+  <phrase i="313" t="Rx Long/CRC"/>
+  <phrase i="312" t="Rx Overruns"/>
+  <phrase i="311" t="Tx Deferred Abort"/>
+  <phrase i="310" t="Tx Collisions"/>
+  <phrase i="309" t="Tx Multicasts"/>
+  <phrase i="308" t="Tx Broadcasts"/>
+  <phrase i="307" t="Tx Frames"/>
+  <phrase i="306" t="Tx Excessive Collisions"/>
+  <phrase i="305" t="overflow Drop"/>
+  <phrase i="304" t="bpdu Drop"/>
+  <phrase i="289" t="Tx totalOct"/>
+  <phrase i="288" t="Tx multicast"/>
+  <phrase i="287" t="Tx broadcast"/>
+  <phrase i="286" t="Tx excessLength"/>
+  <phrase i="285" t="Tx fifoUnderrun"/>
+  <phrase i="284" t="Tx collisions"/>
+  <phrase i="283" t="Tx totalGoodPkt"/>
+  <phrase i="282" t="Tx lateCollision"/>
+  <phrase i="281" t="Tx excessDefer"/>
+  <phrase i="280" t="Rx tokenDrop"/>
+  <phrase i="272" t="Rx longErr"/>
+  <phrase i="271" t="Rx longGood"/>
+  <phrase i="270" t="Rx shortGood"/>
+  <phrase i="269" t="Rx shortErr"/>
+  <phrase i="268" t="Rx unicast"/>
+  <phrase i="267" t="Rx broadcast"/>
+  <phrase i="266" t="Rx multicast"/>
+  <phrase i="265" t="Rx alignErr"/>
+  <phrase i="264" t="Rx crcErr"/>
+  <phrase i="263" t="Összes oktett"/>
+  <phrase i="262" t="Rx totalPkt"/>
+  <phrase i="261" t="Szolgáltatói események"/>
+  <phrase i="260" t="RTP érvénytelen"/>
+  <phrase i="259" t="Nem működik"/>
+  <phrase i="258" t="Nincs kész"/>
+  <phrase i="257" t="Törlés"/>
+  <phrase i="255" t="Fogadó kezdési idő"/>
+  <phrase i="254" t="Fogadó oktettek"/>
+  <phrase i="253" t="Fogadó csomagok"/>
+  <phrase i="252" t="Fogadó jelentés ideje"/>
+  <phrase i="251" t="Fogadó jelentések"/>
+  <phrase i="250" t="Fogadó eszköz"/>
+  <phrase i="249" t="Fogadó jitter"/>
+  <phrase i="248" t="Fogadó elveszített csomagok"/>
+  <phrase i="247" t="Küldő kezdési idő"/>
+  <phrase i="246" t="Küldő jelentés ideje"/>
+  <phrase i="245" t="Küldő jelentések"/>
+  <phrase i="244" t="Küldő eszköz"/>
+  <phrase i="243" t="Küldő oktettek"/>
+  <phrase i="242" t="Küldő csomagok"/>
+  <phrase i="241" t="Név"/>
+  <phrase i="240" t="Sor állapota"/>
+  <phrase i="239" t="Kezdési idő"/>
+  <phrase i="238" t="Elköszönések"/>
+  <phrase i="237" t="Fogadó belépések"/>
+  <phrase i="236" t="Küldő illesztések"/>
+  <phrase i="235" t="Helyi cím"/>
+  <phrase i="234" t="Távoli cím "/>
+  <phrase i="233" t="Tartomány"/>
+  <phrase i="232" t="Port Fast"/>
+  <phrase i="231" t="Fix TFTP"/>
+  <phrase i="230" t="DHCP letiltva"/>
+  <phrase i="229" t="Várakozási URL időkorlát"/>
+  <phrase i="228" t="Várakozási URL-cím"/>
+  <phrase i="227" t="Szolgáltatások URL-címe"/>
+  <phrase i="226" t="Üzenetek URL-címe"/>
+  <phrase i="225" t="Címtár URL-címe"/>
+  <phrase i="224" t="Információs URL"/>
+  <phrase i="223" t="Call Manager 5"/>
+  <phrase i="222" t="Call Manager 4"/>
+  <phrase i="221" t="Call Manager 3"/>
+  <phrase i="220" t="Call Manager 2"/>
+  <phrase i="219" t="Call Manager 1"/>
+  <phrase i="218" t="Admin. VLAN azon."/>
+  <phrase i="217" t="Működési VLAN azon."/>
+  <phrase i="216" t="DNS-kiszolgáló 5"/>
+  <phrase i="215" t="DNS-kiszolgáló 4"/>
+  <phrase i="214" t="DNS-kiszolgáló 3"/>
+  <phrase i="213" t="DNS-kiszolgáló 2"/>
+  <phrase i="212" t="DNS-kiszolgáló 1"/>
+  <phrase i="211" t="Alapértelmezett router 5"/>
+  <phrase i="210" t="Alapértelmezett router 4"/>
+  <phrase i="209" t="Alapértelmezett router 3"/>
+  <phrase i="208" t="Alapértelmezett router 2"/>
+  <phrase i="207" t="Alapértelmezett router 1"/>
+  <phrase i="206" t="TFTP-kiszolgáló 1"/>
+  <phrase i="205" t="Alhálózati maszk"/>
+  <phrase i="204" t="IP-cím"/>
+  <phrase i="203" t="Tartománynév"/>
+  <phrase i="202" t="Állomásnév"/>
+  <phrase i="201" t="MAC-cím"/>
+  <phrase i="199" t="Elutas."/>
+  <phrase i="198" t="Nincs vonal a felvételhez"/>
+  <phrase i="197" t="Külső átadás korlátozva"/>
+  <phrase i="196" t="Nincs sávszélesség felvételhez"/>
+  <phrase i="195" t="Nincs elérh. hívás felvételhez"/>
+  <phrase i="194" t="Parkoltató hely nem elérhető"/>
+  <phrase i="193" t="Kijelentk. keresési csoportból"/>
+  <phrase i="192" t="KCsJel"/>
+  <phrase i="191" t="MHFelv"/>
+  <phrase i="190" t="Maximális tartási idő"/>
+  <phrase i="189" t="Maximális hívásidő"/>
+  <phrase i="188" t="VidMód"/>
+  <phrase i="187" t="Video-sávszéless. nem elegendő"/>
+  <phrase i="186" t="Biztonsági hiba"/>
+  <phrase i="185" t="Nincs telefonszám beállítva"/>
+  <phrase i="184" t="Sikeres zaklatóazonosítás"/>
+  <phrase i="183" t="A hívások nem egyesíthetők"/>
+  <phrase i="182" t="Az átadás sikertelen"/>
+  <phrase i="181" t="BelépésK"/>
+  <phrase i="180" t="TovHP"/>
+  <phrase i="179" t="KonfL"/>
+  <phrase i="178" t="Választ"/>
+  <phrase i="177" t="ÖsszKap"/>
+  <phrase i="176" t="R.H.Azon"/>
+  <phrase i="175" t="QRT"/>
+  <phrase i="174" t="Nagy forgalom. Próbálja később"/>
+  <phrase i="173" t="A szolgáltatás nem aktív"/>
+  <phrase i="172" t="Parkolt hívás visszakapcsolása"/>
+  <phrase i="171" t="Nincs megadva parkolási szám"/>
+  <phrase i="170" t="Nem kompatibilis eszköztípus"/>
+  <phrase i="169" t="A hívásba már más belépett"/>
+  <phrase i="168" t="Belépés a hívásba sikertelen"/>
+  <phrase i="167" t="Belépés"/>
+  <phrase i="166" t="Hálózati torlódás, átirányítás"/>
+  <phrase i="165" t="VisszHív"/>
+  <phrase i="164" t="ÁtirMind"/>
+  <phrase i="163" t="NeZavar"/>
+  <phrase i="162" t="ÁtirHP"/>
+  <phrase i="161" t="StátJelz"/>
+  <phrase i="160" t="Elfogás"/>
+  <phrase i="159" t="Átirány."/>
+  <phrase i="158" t="Hangposta"/>
+  <phrase i="157" t="UtRBont"/>
+  <phrase i="156" t="Ismeretlen szám"/>
+  <phrase i="155" t="Kevés a sávszélesség"/>
+  <phrase i="154" t="Privát"/>
+  <phrase i="153" t="Parkoltatási szám"/>
+  <phrase i="152" t="Konferencia"/>
+  <phrase i="151" t="Illesztési hiba"/>
+  <phrase i="150" t="Ismeretlen hiba"/>
+  <phrase i="149" t="Határérték-túllépés"/>
+  <phrase i="148" t="Adatbázishiba"/>
+  <phrase i="147" t="Adatbázis-konfigurálási hiba"/>
+  <phrase i="146" t="Hiba: nincs licenc"/>
+  <phrase i="145" t="A gomb nem aktív"/>
+  <phrase i="144" t="A résztvevők száma túllépve"/>
+  <phrase i="143" t="A résztvevő nem ismert"/>
+  <phrase i="142" t="Már konferenciában van"/>
+  <phrase i="141" t="Érvénytelen résztvevő"/>
+  <phrase i="140" t="Nem helyezhető tartásba"/>
+  <phrase i="139" t="Nincs konferenciahíd"/>
+  <phrase i="138" t="A konferencia nem hozható létre"/>
+  <phrase i="137" t="Átirányítva:"/>
+  <phrase i="136" t="Új hangüzenete érkezett"/>
+  <phrase i="135" t="Ideiglenes hiba"/>
+  <phrase i="134" t="Csak elsődleges"/>
+  <phrase i="133" t="A hívás itt parkol:"/>
+  <phrase i="132" t="Adja meg a számot"/>
+  <phrase i="131" t="Más által foglalt"/>
+  <phrase i="130" t="Hívás folytatása"/>
+  <phrase i="129" t="Hívásparkoltatás"/>
+  <phrase i="128" t="Hívásátadás"/>
+  <phrase i="127" t="Hívásvárakoztatás"/>
+  <phrase i="126" t="A vonal foglalt"/>
+  <phrase i="125" t="Foglalt"/>
+  <phrase i="124" t="Csatlakoztatva"/>
+  <phrase i="123" t="Hívó: "/>
+  <phrase i="122" t="Kitárcsázás"/>
+  <phrase i="121" t="Kagyló letéve"/>
+  <phrase i="120" t="Kagyló felvéve"/>
+  <phrase i="119" t="Aktuális lehetőségek"/>
+  <phrase i="118" t="CsHFelv"/>
+  <phrase i="117" t="Felvesz"/>
+  <phrase i="116" t="KonfHíd"/>
+  <phrase i="115" t="Egyesít"/>
+  <phrase i="114" t="Parkolás"/>
+  <phrase i="113" t="Konfer."/>
+  <phrase i="112" t="Info"/>
+  <phrase i="111" t="Válasz"/>
+  <phrase i="110" t="Folytat"/>
+  <phrase i="109" t="HívVége"/>
+  <phrase i="108" t="&lt;&lt;"/>
+  <phrase i="107" t="ÁtirNiV"/>
+  <phrase i="106" t="ÁtirFogl"/>
+  <phrase i="105" t="ÁtirMind"/>
+  <phrase i="104" t="Átadás"/>
+  <phrase i="103" t="Tartás"/>
+  <phrase i="102" t="Új hívás"/>
+  <phrase i="101" t="Újrahív"/>
+  <phrase i="65" t="A hívás nem küldhető mobilra"/>
+  <phrase i="64" t="A parkoltatott hívás nem vehető vissza"/>
+  <phrase i="63" t="A KonfHíd nem érhető el"/>
+  <phrase i="62" t="A konferencia nem érhető el"/>
+  <phrase i="61" t="A felvétel nem érhető el"/>
+  <phrase i="60" t="RövHív"/>
+  <phrase i="59" t="ÁtirMind ugrások max. száma túllépve"/>
+  <phrase i="58" t="ÁtirMind hurok észlelhető"/>
+  <phrase i="57" t="A Ne zavarj funkció aktív"/>
+  <phrase i="56" t="Ne zavarj"/>
+  <phrase i="55" t="Befejezéshez: Vonal / Egyesítés"/>
+  <phrase i="54" t="Keresési csoport"/>
+  <phrase i="53" t="Minőségjelentő eszköz"/>
+  <phrase i="52" t="Konferencialista"/>
+  <phrase i="51" t="HívVége"/>
+  <phrase i="50" t="Videó"/>
+  <phrase i="49" t="Egyéb felvétel"/>
+  <phrase i="48" t="Utolsó résztvevő eltávolítása"/>
+  <phrase i="47" t="Csoporthívás felvétele"/>
+  <phrase i="46" t="Rosszakaratú hívások azonosít."/>
+  <phrase i="45" t="Összes továbbítása"/>
+  <phrase i="44" t="Susogás"/>
+  <phrase i="43" t="Mobilit."/>
+  <phrase i="42" t="Inaktív felvételi kapcsolat"/>
+  <phrase i="41" t="A rögzítés már folyamatban van"/>
+  <phrase i="40" t="A rögzítés aktív hívásra vár"/>
+  <phrase i="39" t="Figyelés"/>
+  <phrase i="38" t="A készülék nincs hitelesítve"/>
+  <phrase i="37" t="Nincs erőforrás"/>
+  <phrase i="36" t="A telepítés meghiúsult"/>
+  <phrase i="35" t="Tartás visszakapcsolása"/>
+  <phrase i="34" t="Hívás tartásban"/>
+  <phrase i="33" t="Nincs kész"/>
+  <phrase i="32" t="Kész"/>
+  <phrase i="31" t="Csatlakozás keresési csoporthoz"/>
+  <phrase i="30" t="Sorban álló hívások"/>
+  <phrase i="29" t="A keresés eredménye"/>
+  <phrase i="28" t="Nem található ilyen bejegyzés"/>
+  <phrase i="27" t="Bejegyzések: 1 –"/>
+  <phrase i="26" t=", összesen:"/>
+  <phrase i="25" t="Adja meg a PIN-kódot"/>
+  <phrase i="24" t="Helytelen PIN-kód"/>
+  <phrase i="23" t="A bejelentkezés sikeres"/>
+  <phrase i="22" t="Éjszakai szolgáltatás letiltva"/>
+  <phrase i="21" t="Éjszakai szolgáltatás aktív"/>
+  <phrase i="20" t="Éjszakai szolgáltatás"/>
+  <phrase i="19" t="Adja meg a keresési feltételt!"/>
+  <phrase i="18" t="Helyi szolgáltatások"/>
+  <phrase i="17" t="Válasszon szolgáltatást"/>
+  <phrase i="16" t="Az átadás célállomása foglalt"/>
+  <phrase i="15" t="Válasszon vonalat"/>
+  <phrase i="14" t="Lapozás"/>
+  <phrase i="13" t="Fejezze be a hívást"/>
+  <phrase i="12" t="Várakozás áthelyezésre"/>
+  <phrase i="11" t="Max. telefonszám túllépve"/>
+  <phrase i="10" t="CM csökk. szolgáltatás működik"/>
+  <phrase i="9" t="Felvehető hívások"/>
+  <phrase i="8" t="Ügyfélválasztó kód megadása"/>
+  <phrase i="7" t="Adja meg a hitelesítési kódot"/>
+  <phrase i="6" t="Készülék a barangolási helyen"/>
+  <phrase i="5" t="Készülék az otthoni helyen"/>
+  <phrase i="4" t="Bejelent"/>
+  <phrase i="3" t="Azonnali"/>
+  <phrase i="2" t="Acct"/>
+</phrases>

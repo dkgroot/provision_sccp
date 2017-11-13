@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Estonian_Estonia</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Üleskorjamiseks pole liine"/>
+	<phrase i="197" t="Väline edasisuunamine piiratud"/>
+	<phrase i="196" t="Üleskorjamiseks pole läbilaskevõimet"/>
+	<phrase i="195" t="Üleskorjamiseks pole kõnesid"/>
+	<phrase i="194" t="Parkimispesa pole saadaval"/>
+    <phrase i="193" t="Juhtrühmast välja logitud"/>
+	<phrase i="192" t="HLog"/>
+	<phrase i="191" t="TÜKorjam"/>
+	<phrase i="190" t="Suurima ooteloleku kestuse ajalõpp"/>
+	<phrase i="189" t="Suurima kõne kestuse ajalõpp"/>
+	<phrase i="188" t="VidRež"/>
+	<phrase i="187" t="Video läbilaskevõime pole saadaval"/>
+	<phrase i="186" t="Turvalisuse tõrge"/>
+	<phrase i="185" t="Number pole konfigureeritud"/>
+	<phrase i="184" t="Mcid õnnestus"/>
+	<phrase i="183" t="Kõnedega ei saa ühineda"/>
+	<phrase i="182" t="Edasisuunamist ei saa lõpetada"/>
+	<phrase i="181" t="kSissTrg"/>
+	<phrase i="180" t="kpSuun"/>
+	<phrase i="179" t="KonLoend"/>
+	<phrase i="178" t="Vali"/>
+	<phrase i="177" t="OtseSuun"/>
+	<phrase i="176" t="PKID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Suur liiklus, proovi hiljem uuesti"/>
+	<phrase i="173" t="Teenus ei ole aktiivne"/>
+	<phrase i="172" t="Kõne parkimise tagasipöördumine"/>
+	<phrase i="171" t="Parkimisnumbrid pole saadaval"/>
+	<phrase i="170" t="Ühildamatu seadme tüüp"/>
+	<phrase i="169" t="Teine sekkumine on juba olemas"/>
+	<phrase i="168" t="Sekkumise häälestamine ebaõnnestus"/>
+	<phrase i="167" t="Sekkum."/>
+	<phrase i="166" t="Võrgu ummistus, suunatakse ümber"/>
+	<phrase i="165" t="TgsiHel"/>
+	<phrase i="164" t="SuunKõik"/>
+	<phrase i="163" t="MitteSeg"/>
+	<phrase i="162" t="EdastaKP"/>
+	<phrase i="161" t="SeaJrlv"/>
+	<phrase i="160" t="HaaraVah"/>
+	<phrase i="159" t="Suuna"/>
+	<phrase i="158" t="Kõnepost"/>
+	<phrase i="157" t="EemVmH"/>
+	<phrase i="156" t="Tundmatu number"/>
+	<phrase i="155" t="Pole piisavalt läbilaskevõimet"/>
+	<phrase i="154" t="Privaatne"/>
+	<phrase i="153" t="Parkimise number"/>
+	<phrase i="152" t="Konverents"/>
+	<phrase i="151" t="Tõrge: kokkusobimatud"/>
+	<phrase i="150" t="Tõrge: tundmatu"/>
+	<phrase i="149" t="Tõrge: limiidi ületamine"/>
+	<phrase i="148" t="Tõrge: andmebaas"/>
+	<phrase i="147" t="Error DBConfig"/>
+	<phrase i="146" t="Tõrge: litsents puudub"/>
+	<phrase i="145" t="Võti pole aktiivne"/>
+	<phrase i="144" t="Suurim poolte arv ületatud"/>
+	<phrase i="143" t="Osaleja teavet pole"/>
+	<phrase i="142" t="Juba konverentsil"/>
+	<phrase i="141" t="Sobimatu konverentsil osaleja"/>
+	<phrase i="140" t="Ei saa võtta peajuhtimist"/>
+	<phrase i="139" t="Konverentsisilda pole"/>
+	<phrase i="138" t="Konverentsi ei saa lõpule viia"/>
+	<phrase i="137" t="Edastatud adressaadile"/>
+	<phrase i="136" t="Teil on kõneposti teade"/>
+	<phrase i="135" t="Ajutine fail"/>
+	<phrase i="134" t="Ainult primaarne"/>
+	<phrase i="133" t="Kõne parkimine asukohas"/>
+	<phrase i="132" t="Sisesta number"/>
+	<phrase i="131" t="Kaugkasutuses"/>
+	<phrase i="130" t="Kõne jätkamine"/>
+	<phrase i="129" t="Kõne parkimine"/>
+	<phrase i="128" t="Kõne edasi suunamine"/>
+	<phrase i="127" t="Kõne ootamine"/>
+	<phrase i="126" t="Liin kasutuses"/>
+	<phrase i="125" t="Hõivatud"/>
+	<phrase i="124" t="Ühendatud"/>
+	<phrase i="123" t="Numbrilt "/>
+	<phrase i="122" t="Helista välja"/>
+	<phrase i="121" t="Liin vaba"/>
+	<phrase i="120" t="Hargilt ära"/>
+	<phrase i="119" t="Teie praegused valikud"/>
+	<phrase i="118" t="RKorja"/>
+	<phrase i="117" t="VVastu"/>
+	<phrase i="116" t="Kohtume"/>
+	<phrase i="115" t="Ühenda"/>
+	<phrase i="114" t="Pargi"/>
+	<phrase i="113" t="Konv"/>
+	<phrase i="112" t="Teave"/>
+	<phrase i="111" t="Vasta"/>
+	<phrase i="110" t="Jätka"/>
+	<phrase i="109" t="LõpKõne"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="KSaadEdsEiVasta"/>
+	<phrase i="106" t="KEdsKin"/>
+	<phrase i="105" t="EdasKõik"/>
+	<phrase i="104" t="Suuna"/>
+	<phrase i="103" t="Ootele"/>
+	<phrase i="102" t="Uus kõne"/>
+	<phrase i="101" t="KordVal"/>
+	<phrase i="81" t="Ühendamine, palun oodake"/>
+	<phrase i="80" t="Salvestamine ebaõnnestus"/>
+	<phrase i="79" t="Salvestamine"/>
+	<phrase i="69" t="KOvälja"/>
+    	<phrase i="68" t="Vestlust ei saa teisaldada"/>
+	<phrase i="67" t="Salvesta"/>
+    <phrase i="65" t="Ei saa kõnet mobiiltelefonile saata"/>
+    <phrase i="64" t="Ei saa pargitud kõnet taastada"/>
+    <phrase i="63" t="Kohtu minuga ei ole saadaval"/>
+    <phrase i="62" t="Konverents ei ole saadaval"/>
+    <phrase i="61" t="Üleskorjamine ei ole saadaval"/>
+    <phrase i="60" t="LühVal"/>
+    <phrase i="59" t="KSaadEdsKõik hüpped ületatud"/>
+    <phrase i="58" t="KSaadEdsKõik silmus avastatud"/>
+	<phrase i="57" t="Olek Mitte segada on aktiivne"/> 
+	<phrase i="56" t="Mitte segada"/> 
+	<phrase i="55" t="Lõpuleviimiseks kasutage käske Liin või Ühine"/>
+	<phrase i="54" t="Juhtrühm"/>
+	<phrase i="53" t="Kvaliteediaruandluse tööriist"/>
+	<phrase i="52" t="Konverentsiloend"/>
+	<phrase i="51" t="Lõpeta kõne"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Teine ülesKorjamine"/>
+    <phrase i="48" t="Eemalda viimane osaleja"/>
+    <phrase i="47" t="Rühma üleskorjamine"/>
+    <phrase i="46" t="Ründekõne ID"/>
+    <phrase i="45" t="Saada kõik edasi"/>
+	<phrase i="44" t="Sosin"/>
+        <phrase i="43" t="Mobiils."/>
+	<phrase i="42" t="Passiivsalvestuse seanss"/>
+	<phrase i="41" t="Salvestamine juba käimas"/>
+	<phrase i="40" t="Salvestamine ootab kõne aktiveerumist"/>
+	<phrase i="39" t="Jälgimine"/>
+        <phrase i="38" t="Seadme kasutamine pole volitatud"/>
+	<phrase i="37" t="Ressursse pole"/>
+	<phrase i="36" t="Häälestus ebaõnnestus"/>
+	<phrase i="35" t="Ooteloleku tagasipöördumine"/> 
+	<phrase i="34" t="Kõne ootel"/>
+	<phrase i="33" t="Pole valmis"/>
+	<phrase i="32" t="Valmis"/>
+	<phrase i="31" t="Ühine juhtrühmaga"/>
+	<phrase i="30" t="kõne(t) järjekorras"/>
+	<phrase i="29" t="Otsingu tulemused"/>
+	<phrase i="28" t="Kirjeid ei leitud"/>
+	<phrase i="27" t="Kirjed 1 kuni"/>
+	<phrase i="26" t="/"/>
+	<phrase i="25" t="Sisestage PIN"/>
+	<phrase i="24" t="Vale PIN"/>
+	<phrase i="23" t="Sisselogimine õnnestus"/>
+	<phrase i="22" t="Ööteenus ei ole aktiveeritud"/>
+	<phrase i="21" t="Ööteenus aktiivne"/>
+	<phrase i="20" t="Ööteenus"/>
+	<phrase i="19" t="Sisestage otsingukriteeriumid"/>
+	<phrase i="18" t="Kohalikud teenused"/>
+	<phrase i="17" t="Valige teenus"/>
+	<phrase i="16" t="Edasisuunamise sihtkoht on hõivatud"/>
+	<phrase i="15" t="Vali liin"/>
+	<phrase i="14" t="Lehekülgede saalimine"/>
+	<phrase i="13" t="Lõpeta kõne"/>
+	<phrase i="12" t="Naasmise ootamine"/>
+	<phrase i="11" t="Suurim kõnede arv ületatud"/>
+	<phrase i="10" t="CM kiiruse alandamise teenus töötab"/>
+	<phrase i="9" t="kõne(t) üleskorjamiseks saadaval"/>
+	<phrase i="8" t="Sisesta kliendi teema kood"/>
+	<phrase i="7" t="Sisesta autoriseerimiskood"/>
+    <phrase i="6" t="Seade on rändasukohas"/>
+    <phrase i="5" t="Seade on koduasukohas"/>
+	<phrase i="4" t="Sisselogimine"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Konto"/>
+</phrases>

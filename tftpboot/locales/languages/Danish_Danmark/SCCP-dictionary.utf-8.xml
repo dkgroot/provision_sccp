@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Danish_Denmark</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Ingen linje er tilgængelig for GrSvar"/>
+	<phrase i="197" t="Ekstern Omstil er begrænset"/>
+	<phrase i="196" t="Ingen båndbredde er tilgængelig for GrSvar"/>
+	<phrase i="195" t="Intet opkald tilgæng. f. GrSvar"/>
+	<phrase i="194" t="Parker-slot er utilgængelig"/>
+    <phrase i="193" t="Logget ud af søgegruppen"/>
+	<phrase i="192" t="GrpLog"/>
+	<phrase i="191" t="GrSv T"/>
+	<phrase i="190" t="Maks. hold-varighed timeout"/>
+	<phrase i="189" t="Maks.opkaldsvarigh. timeout"/>
+	<phrase i="188" t="VideoTil"/>
+	<phrase i="187" t="Video Båndbredde er utilgæng."/>
+	<phrase i="186" t="Sikkerhedsfejl"/>
+	<phrase i="185" t="Nummeret er ikke konfigureret"/>
+	<phrase i="184" t="Mcid lykkedes"/>
+	<phrase i="183" t="Kan ikke forbinde opkaldene"/>
+	<phrase i="182" t="Kan ikke fuldføre omstil"/>
+	<phrase i="181" t="kBrydIn"/>
+	<phrase i="180" t="Afvis"/>
+	<phrase i="179" t="KonfList"/>
+	<phrase i="178" t="Vælg"/>
+	<phrase i="177" t="Overfør"/>
+	<phrase i="176" t="MCID"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Meget trafik-fsg igen senere"/>
+	<phrase i="173" t="Tjenesten er ikke aktiv"/>
+	<phrase i="172" t="Retur fra parkering"/>
+	<phrase i="171" t="Intet parknr. er tilgængelig."/>
+	<phrase i="170" t="Inkompatibel enhedstype"/>
+	<phrase i="169" t="En anden indbrydning findes"/>
+	<phrase i="168" t="Indbrydning mislykkedes"/>
+	<phrase i="167" t="BrydInd"/>
+	<phrase i="166" t="Netværk congestion,rerouting"/>
+	<phrase i="165" t="Notering"/>
+	<phrase i="164" t="OmdirAl"/>
+	<phrase i="163" t="ForstIk"/>
+	<phrase i="162" t="Til VM"/>
+	<phrase i="161" t="Overvåg"/>
+	<phrase i="160" t="TagKald"/>
+	<phrase i="159" t="Viderestil"/>
+	<phrase i="158" t="Voicemail"/>
+	<phrase i="157" t="FjSenKo"/>
+	<phrase i="156" t="ukendt nummer"/>
+	<phrase i="155" t="Ikke tilstrækkelig båndbredde"/>
+	<phrase i="154" t="Privat"/>
+	<phrase i="153" t="Parkeringsnummer"/>
+	<phrase i="152" t="Konference"/>
+	<phrase i="151" t="Fejlkonflikt"/>
+	<phrase i="150" t="Ukendt fejl"/>
+	<phrase i="149" t="Overskredet fejlgrænse"/>
+	<phrase i="148" t="Databasefejl"/>
+	<phrase i="147" t="DBKonfig.fejl"/>
+	<phrase i="146" t="Fejl: Ingen licens"/>
+	<phrase i="145" t="Tasten er inaktiv"/>
+	<phrase i="144" t="Overstig maks.antal deltagere"/>
+	<phrase i="143" t="Ingen deltagerinfo"/>
+	<phrase i="142" t="Allerede i konference"/>
+	<phrase i="141" t="Ugyldig konferencedeltager"/>
+	<phrase i="140" t="Kan ikke bevar primær kontrol"/>
+	<phrase i="139" t="Ingen konferencebro"/>
+	<phrase i="138" t="Kan ikke fuldføre konferencen"/>
+	<phrase i="137" t="Viderestillet til"/>
+	<phrase i="136" t="Du har voicemail"/>
+	<phrase i="135" t="Midlertidig fejl"/>
+	<phrase i="134" t="Kun primær"/>
+	<phrase i="133" t="Parkeret på"/>
+	<phrase i="132" t="Angiv nummer"/>
+	<phrase i="131" t="I fjernbrug"/>
+	<phrase i="130" t="Fortsæt opkald"/>
+	<phrase i="129" t="Parkering"/>
+	<phrase i="128" t="Omstil opkald"/>
+	<phrase i="127" t="Ventende opkald"/>
+	<phrase i="126" t="Linje i brug"/>
+	<phrase i="125" t="Optaget"/>
+	<phrase i="124" t="Tilsluttet"/>
+	<phrase i="123" t="Fra "/>
+	<phrase i="122" t="Ring ud"/>
+	<phrase i="121" t="Røret på"/>
+	<phrase i="120" t="Røret af"/>
+	<phrase i="119" t="Aktuelle muligheder"/>
+	<phrase i="118" t="GrSv 2"/>
+	<phrase i="117" t="GrSvar"/>
+	<phrase i="116" t="MødMig"/>
+	<phrase i="115" t="Forbind"/>
+	<phrase i="114" t="Parker"/>
+	<phrase i="113" t="Konferen"/>
+	<phrase i="112" t="Info"/>
+	<phrase i="111" t="Besvar"/>
+	<phrase i="110" t="Genopt"/>
+	<phrase i="109" t="Afslut"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="VstUbsv"/>
+	<phrase i="106" t="VstOpt"/>
+	<phrase i="105" t="Medflyt"/>
+	<phrase i="104" t="Omstil"/>
+	<phrase i="103" t="Hold"/>
+	<phrase i="102" t="Nyt opk"/>
+	<phrase i="101" t="Gentag"/>
+	<phrase i="81" t="Opretter forbindelse. Vent"/>
+	<phrase i="80" t="Optagelse mislykkedes"/>
+	<phrase i="79" t="Optager"/>
+	<phrase i="69" t="Ankl.aus"/>
+    	<phrase i="68" t="Kan ikke flytte samtalen"/>
+	<phrase i="67" t="Post"/>
+    <phrase i="65" t="Kan ikke sende opkald til Mobil"/>
+    <phrase i="64" t="Kan ikke hente parkeret opkald"/>
+    <phrase i="63" t="MødMig er der ikke adgang til"/>
+    <phrase i="62" t="Konference er der ikke adgang til"/>
+    <phrase i="61" t="GrSvar er der ikke adgang til"/>
+    <phrase i="60" t="KortNr"/>
+    <phrase i="59" t="Medflyt Hop er overskredet"/>
+    <phrase i="58" t="Der er fundet en løkke i Medflyt"/>
+	<phrase i="57" t="Ring er ikke aktiv"/> 
+	<phrase i="56" t="Forstyr ikke"/> 
+	<phrase i="55" t="Brug Linje eller Forbind til at fuldføre"/>
+	<phrase i="54" t="Søgegruppe"/>
+	<phrase i="53" t="Kvalitets rapporterings værktøj"/>
+	<phrase i="52" t="Konferenceliste"/>
+	<phrase i="51" t="Afslut"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Gruppesvar, tilknyttet gruppe"/>
+    <phrase i="48" t="Fjern sidste deltager"/>
+    <phrase i="47" t="Gruppesvar 2"/>
+    <phrase i="46" t="Maliciøst opkald-ID"/>
+    <phrase i="45" t="Medflyt"/>
+	<phrase i="44" t="Hvisker"/>
+        <phrase i="43" t="Mobilitet"/>
+	<phrase i="42" t="Inaktiv optagelsesession"/>
+	<phrase i="41" t="Optagelsen er allerede i gang"/>
+	<phrase i="40" t="Optagelse afventer aktivt opkld"/>
+	<phrase i="39" t="Overvågning"/>
+        <phrase i="38" t="Enheden er ikke autoriseret"/>
+	<phrase i="37" t="Der er ingen ressourcer"/>
+	<phrase i="36" t="Setup mislykkedes"/>
+	<phrase i="35" t="Retur fra Hold"/> 
+	<phrase i="34" t="Opkald på hold"/>
+	<phrase i="33" t="Ikke klar"/>
+	<phrase i="32" t="Klar"/>
+	<phrase i="31" t="Forbind til søgegruppe"/>
+	<phrase i="30" t="Opkald i kø"/>
+	<phrase i="29" t="Søgningsresultater"/>
+	<phrase i="28" t="Ingen post blev fundet"/>
+	<phrase i="27" t="Posterne 1 til"/>
+	<phrase i="26" t="af"/>
+	<phrase i="25" t="Indtast PIN-kode"/>
+	<phrase i="24" t="Forkert PIN-kode"/>
+	<phrase i="23" t="Log på lykkedes"/>
+	<phrase i="22" t="Nattetjeneste deaktiveret"/>
+	<phrase i="21" t="Nattetjeneste aktiv"/>
+	<phrase i="20" t="Nattetjeneste"/>
+	<phrase i="19" t="Angiv søgekriterier"/>
+	<phrase i="18" t="Lokale tjenester"/>
+	<phrase i="17" t="Vælg en tjeneste"/>
+	<phrase i="16" t="Omstil destination er optaget"/>
+	<phrase i="15" t="Vælg Linje"/>
+	<phrase i="14" t="Søger"/>
+	<phrase i="13" t="Afslut opkaldet"/>
+	<phrase i="12" t="Venter på tilbage til start"/>
+	<phrase i="11" t="Overskred maks. antal telefoner"/>
+	<phrase i="10" t="CM Fallback-tjenestedrift"/>
+	<phrase i="9" t="Opkald(ene) tilgæng. for GrSvar"/>
+	<phrase i="8" t="Angiv Klientkoden"/>
+	<phrase i="7" t="Angiv autorisationskode"/>
+    <phrase i="6" t="Enhed på roaming lokation"/>
+    <phrase i="5" t="Enheden på privatlokation"/>
+	<phrase i="4" t="Log på"/>	
+	<phrase i="3" t="Blink"/>
+	<phrase i="2" t="Konto"/>
+</phrases>

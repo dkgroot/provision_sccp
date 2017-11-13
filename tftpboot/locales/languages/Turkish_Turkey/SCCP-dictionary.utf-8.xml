@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Turkish_Turkey</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Alınabilecek Hat Yok"/>
+	<phrase i="197" t="Harici Aktarma Sınırlı"/>
+	<phrase i="196" t="Alma için Kullanılabilir Bant Genişliği Yok"/>
+	<phrase i="195" t="Alınabilecek Arama Yok"/>
+	<phrase i="194" t="Park Yuvası Kullanılamaz"/>
+    <phrase i="193" t="Cevaplama Grubu Oturumu Kapatıldı"/>
+	<phrase i="192" t="Hlog"/>
+	<phrase i="191" t="DiğerAl"/>
+	<phrase i="190" t="Maksimum Bekletme Süresi Zaman Aşımı"/>
+	<phrase i="189" t="Maksimum Arama Süresi Zaman Aşımı"/>
+	<phrase i="188" t="VidModu"/>
+	<phrase i="187" t="Video Bant Gen. Kullanılamaz"/>
+	<phrase i="186" t="Güvenlik Hatası"/>
+	<phrase i="185" t="Numara Yapılandırılmadı"/>
+	<phrase i="184" t="Zararlı Arama Tanım. Başarılı"/>
+	<phrase i="183" t="Aramalar Birleştirilemiyor"/>
+	<phrase i="182" t="Aktarma Tamamlanamıyor"/>
+	<phrase i="181" t="kKatıl"/>
+	<phrase i="180" t="Hzl.Yön"/>
+	<phrase i="179" t="KonfList"/>
+	<phrase i="178" t="Seç"/>
+	<phrase i="177" t="DoğAktr"/>
+	<phrase i="176" t="ZAT"/>
+	<phrase i="175" t="SornAktr"/>
+	<phrase i="174" t="Yoğun Trafik, Sonra Deneyin"/>
+	<phrase i="173" t="Hizmet Etkin Değil"/>
+	<phrase i="172" t="AraPark Geriye Döndürme"/>
+	<phrase i="171" t="Park Numarası Yok"/>
+	<phrase i="170" t="Uyumsuz aygıt türü"/>
+	<phrase i="169" t="Başka bir Katıl var"/>
+	<phrase i="168" t="Katıl kurulamadı"/>
+	<phrase i="167" t="Katıl"/>
+	<phrase i="166" t="Ağ karışık., yeniden yönlend."/>
+	<phrase i="165" t="GeriAra"/>
+	<phrase i="164" t="Yönlndr"/>
+	<phrase i="163" t="RhtszEtm"/>
+	<phrase i="162" t="SM.Aktr"/>
+	<phrase i="161" t="İzleme"/>
+	<phrase i="160" t="AryGir"/>
+	<phrase i="159" t="YenYönln"/>
+	<phrase i="158" t="Sesli Posta"/>
+	<phrase i="157" t="SnKnfÇkr"/>
+	<phrase i="156" t="Bilinmeyen Numara"/>
+	<phrase i="155" t="Yeterli Bant Genişliği Yok"/>
+	<phrase i="154" t="Özel"/>
+	<phrase i="153" t="Park Numarası"/>
+	<phrase i="152" t="Konferans"/>
+	<phrase i="151" t="Hata Uyuşmazlık"/>
+	<phrase i="150" t="Hata Bilinmiyor"/>
+	<phrase i="149" t="Hata Geçiş Sınırı"/>
+	<phrase i="148" t="Hata Veritabanı"/>
+	<phrase i="147" t="Hata DBConfig"/>
+	<phrase i="146" t="Hata Lisans Yok"/>
+	<phrase i="145" t="Tuş Etkin Değil"/>
+	<phrase i="144" t="Maksimum Katılımcı Aşıldı"/>
+	<phrase i="143" t="Katılımcı Bilgisi Yok"/>
+	<phrase i="142" t="Zaten Konferansa Dahil"/>
+	<phrase i="141" t="Geçersiz Konferans Katılımcısı"/>
+	<phrase i="140" t="Birincil Denetim Bekletilemez"/>
+	<phrase i="139" t="Konferans Köprüsü Yok"/>
+	<phrase i="138" t="Konferans Tamamlanamıyor"/>
+	<phrase i="137" t="İletilen yer"/>
+	<phrase i="136" t="Sesli Postanız Var"/>
+	<phrase i="135" t="Geçici Hata"/>
+	<phrase i="134" t="Yalnızca Birincil"/>
+	<phrase i="133" t="Arama Park No"/>
+	<phrase i="132" t="Numara girin"/>
+	<phrase i="131" t="Uzaktan Kullanımda"/>
+	<phrase i="130" t="Arama Devamı"/>
+	<phrase i="129" t="Arama Park"/>
+	<phrase i="128" t="Arama Aktarma"/>
+	<phrase i="127" t="Arama Bekliyor"/>
+	<phrase i="126" t="Hat Kullanımda"/>
+	<phrase i="125" t="Meşgul"/>
+	<phrase i="124" t="Bağlandı"/>
+	<phrase i="123" t="Kaynak "/>
+	<phrase i="122" t="Sesli"/>
+	<phrase i="121" t="Hat Kapalı"/>
+	<phrase i="120" t="Hat Açık"/>
+	<phrase i="119" t="Geçerli seçenekleriniz"/>
+	<phrase i="118" t="GrupAl"/>
+	<phrase i="117" t="Al"/>
+	<phrase i="116" t="Buluştur"/>
+	<phrase i="115" t="Katıl"/>
+	<phrase i="114" t="Park"/>
+	<phrase i="113" t="Konf."/>
+	<phrase i="112" t="Bilgi"/>
+	<phrase i="111" t="Cevapla"/>
+	<phrase i="110" t="DevamEt"/>
+	<phrase i="109" t="Bitir"/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="CvpszArİltm"/>
+	<phrase i="106" t="MşArmİlt"/>
+	<phrase i="105" t="TmArmİl"/>
+	<phrase i="104" t="Aktar"/>
+	<phrase i="103" t="Beklet"/>
+	<phrase i="102" t="YenArama"/>
+	<phrase i="101" t="Tek.Ara"/>
+	<phrase i="81" t="Bağlanıyor, lütfen bekleyin"/>
+	<phrase i="80" t="Kayıt Başarısız"/>
+	<phrase i="79" t="Kayıt"/>
+	<phrase i="69" t="CW Kapalı"/>
+    	<phrase i="68" t="Görüşme Taşınamıyor"/>
+	<phrase i="67" t="Kayıt"/>
+    <phrase i="65" t="Arama Cep Telfnna Gönderilemedi"/>
+    <phrase i="64" t="Park Eden Arama Alınamadı"/>
+    <phrase i="63" t="Buluştur Kullanılamıyor"/>
+    <phrase i="62" t="Konferans Kullanılamıyor"/>
+    <phrase i="61" t="Alma Kullanılamıyor"/>
+    <phrase i="60" t="KsltAra"/>
+    <phrase i="59" t="TmArmİl Sıçrama Sayısı Aşıldı"/>
+    <phrase i="58" t="TmArmİl Döngüsü Algılandı"/>
+	<phrase i="57" t="Rahatsız Etmeyin etkin"/> 
+	<phrase i="56" t="Rahatsız Etmeyin"/> 
+	<phrase i="55" t="Tamamlamak için Hat&apos;tı veya Katıl&apos;ı kullanın"/>
+	<phrase i="54" t="Cevaplama Grubu"/>
+	<phrase i="53" t="Kalite Raporlama Aracı"/>
+	<phrase i="52" t="Konferans Listesi"/>
+	<phrase i="51" t="Bitir"/>
+    <phrase i="50" t="Video"/>
+    <phrase i="49" t="Diğerini Al"/>
+    <phrase i="48" t="Son Katılımcıyı Kaldır"/>
+    <phrase i="47" t="Grubu Al"/>
+    <phrase i="46" t="Zararlı Arama Kimliği"/>
+    <phrase i="45" t="Tümünü İlet"/>
+	<phrase i="44" t="Fısılda"/>
+        <phrase i="43" t="Mobilite"/>
+	<phrase i="42" t="Etkin Olmayan Kayıt Oturumu"/>
+	<phrase i="41" t="Kayıt Zaten Sürüyor"/>
+	<phrase i="40" t="Kayıt Aramanın Etkin Olmasını Bekliyor"/>
+	<phrase i="39" t="İzleme"/>
+        <phrase i="38" t="Aygıt Yetkili Değil"/>
+	<phrase i="37" t="Kaynak Yok"/>
+	<phrase i="36" t="Kurulum Başarısız"/>
+	<phrase i="35" t="Bekletmeyi Geriye Döndürme"/> 
+	<phrase i="34" t="Arama Beklemede"/>
+	<phrase i="33" t="HzrDeğil"/>
+	<phrase i="32" t="Hazır"/>
+	<phrase i="31" t="Cevaplama Grubuna Katıl"/>
+	<phrase i="30" t="Kuyruktaki Arama(lar)"/>
+	<phrase i="29" t="Arama Sonuçları"/>
+	<phrase i="28" t="Kayıt Bulunamadı"/>
+	<phrase i="27" t="Kayıt 1 -"/>
+	<phrase i="26" t="/"/>
+	<phrase i="25" t="Lütfen PIN girin"/>
+	<phrase i="24" t="Yanlış PIN"/>
+	<phrase i="23" t="Oturum Açma Başarılı"/>
+	<phrase i="22" t="Gece Hizmeti Devre Dışı"/>
+	<phrase i="21" t="Gece Hizmeti Etkin"/>
+	<phrase i="20" t="Gece Hizmeti"/>
+	<phrase i="19" t="Arama Ölçütlerini Girin"/>
+	<phrase i="18" t="Yerel Hizmetler"/>
+	<phrase i="17" t="Bir Hizmet Seç"/>
+	<phrase i="16" t="Aktarma Hedefi Meşgul"/>
+	<phrase i="15" t="Hat Seç"/>
+	<phrase i="14" t="Çağrı"/>
+	<phrase i="13" t="Lütfen Aramayı Bitir"/>
+	<phrase i="12" t="Yeniden Bağlantı İçin Bekliyor"/>
+	<phrase i="11" t="Maksimum Telefon Aşıldı"/>
+	<phrase i="10" t="CM Geri Dönüş Hizmeti Çalışıyor"/>
+	<phrase i="9" t="Alınabilecek Arama Sayısı"/>
+	<phrase i="8" t="İstemci Hesap Kodunu Girin"/>
+	<phrase i="7" t="Yetkilendirme Kodunu Girin"/>
+    <phrase i="6" t="Aygıt Dolaşım Konumunda"/>
+    <phrase i="5" t="Aygıt Ana Konumda"/>
+	<phrase i="4" t="Oturum Aç"/>	
+	<phrase i="3" t="Flash"/>
+	<phrase i="2" t="Müşteri"/>
+</phrases>

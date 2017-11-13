@@ -1,0 +1,1569 @@
+<AutoUpdateManifest>
+  <component name="Korean_Korea_Republic" upgradeAction="recommended" downgradeAction="recommended">
+    <files>
+
+ <archive name="Korean_Korea_Republic/CIPC_Locale.zip" path="CIPC_Locale.zip"
+       checksum="e56032d6f951ab56de70ceec5a0d1f85"
+       modified="Tue May 27 23:28:36 2014"
+       size="1001643"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="CIPCLocaleDownloaderStrings.xml"
+       modified="Tue May 27 23:28:32 2014"
+       size="9924"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="ErrorReportStrings.xml"
+       modified="Tue May 27 23:28:32 2014"
+       size="2818"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="ProblemReportStrings.txt"
+       modified="Tue May 27 23:28:32 2014"
+       size="2476"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="SFBStrings.xml"
+       modified="Tue May 27 23:28:32 2014"
+       size="22887"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="AudioTuningWizardStrings.xml"
+       modified="Tue May 27 23:28:36 2014"
+       size="18883"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/helpAPI.html"
+       modified="Tue May 27 23:28:36 2014"
+       size="413"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/index.html"
+       modified="Tue May 27 23:28:36 2014"
+       size="674"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/pophelp.html"
+       modified="Tue May 27 23:28:36 2014"
+       size="972"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/helpAPI.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="413"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/index.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="674"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/pophelp.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="972"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/mappingfiles/IPCmapping_hlp.js"
+       modified="Tue May 27 23:28:32 2014"
+       size="1113"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan09.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5485"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/IPCmapping_hlp.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="1071"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/IPCmapping_sch.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="103430"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/advaudio.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/catalog.css"
+       modified="Tue May 27 23:28:33 2014"
+       size="15871"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/config.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="2358"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/document.css"
+       modified="Tue May 27 23:28:33 2014"
+       size="770"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/expand.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="3750"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/index.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2351"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/indexList.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="138852"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/indexsch.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="10639"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/indexta.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2461"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugdev1.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3249"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugdev2.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2453"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugdev3.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7427"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugdev4.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6023"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugdev5.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4478"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugdev6.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7574"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/page.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="1980"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs1.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4261"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs2.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3254"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs3.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4934"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs4.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7026"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs5.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4752"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs6.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4627"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs7.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7488"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs8.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6554"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcuggs9.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4814"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan01.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2747"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan02.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4012"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan03.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="19190"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan04.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3725"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan05.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="8079"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan06.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5114"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan07.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6005"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan08.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3816"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan27.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3361"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan10.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3809"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan11.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5946"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan12.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4167"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan13.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7233"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan14.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6640"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan15.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3459"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan16.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3880"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan17.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5287"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan18.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3266"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan19.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4629"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan20.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4202"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan21.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3976"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan22.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4905"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan23.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="8940"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan24.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4474"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan25.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4007"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan26.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5212"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt10.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7776"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan28.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6981"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan29.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4835"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan30.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3030"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan31.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5722"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan32.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3870"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan33.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4677"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan34.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5088"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcughan35.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6992"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt01.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4074"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt02.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4668"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt03.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5321"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt04.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7185"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt05.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7175"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt06.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="8884"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt07.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5417"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt08.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="8369"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugopt09.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="9180"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset01.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3000"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov01.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2910"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov02.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="9023"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov03.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2927"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov04.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="14285"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov05.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6715"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov06.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3357"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov07.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7698"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov08.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="7020"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov09.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6524"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov10.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3430"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov11.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3834"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov12.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4261"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov13.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3488"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov14.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4137"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov15.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="12783"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov16.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5210"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugov17.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6751"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugts3.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="18006"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset02.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3935"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset03.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4542"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset04.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6433"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset05.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4007"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset06.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3314"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset07.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6619"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset08.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5356"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset09.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6075"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset10.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3882"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset11.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4936"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset12.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5186"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset13.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4585"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset14.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4308"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset15.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6103"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugset16.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3339"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugts1.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3000"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugts2.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="10674"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugts4.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3755"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugts5.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3092"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugts6.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6084"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm1.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2894"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm2.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5683"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm3.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="10080"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm4.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="3285"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm5.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="5536"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm6.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="12794"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm7.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="4314"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/ipcugvm8.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="6197"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/netaudio.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/prefaudio.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/prefdirs.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/prefnetwrk.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/prefuser.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/qsearch.html"
+       modified="Tue May 27 23:28:33 2014"
+       size="2395"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/tocNodes.js"
+       modified="Tue May 27 23:28:33 2014"
+       size="10316"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113691.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="923"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105031.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="29747"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105079.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="918"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105079bs.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="918"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105079u.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="902"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105780.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="2602"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105781.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="4943"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105781co.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="5034"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105782.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="2378"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/105782cp.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="2401"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113630.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="809"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113661.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="841"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113681.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="905"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113687.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="929"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113687t.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="929"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113688.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="859"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113688s.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="859"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113689.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="897"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113689r.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="897"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113690.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="862"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113690p.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="833"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113690q.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="832"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113690w.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="832"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/99920.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="906"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113693.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="889"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113693br.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="889"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113693v.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="919"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113703.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113703bm.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/113703bp.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/120781.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="15491"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/140189.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="903"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/140189bl.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="848"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/140189bo.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="848"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/140190.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/140190bk.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/140190bn.jpg"
+       modified="Tue May 27 23:28:32 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/140191.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="887"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/141209.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="29383"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/181091.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="870"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/181094.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="877"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/181096.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="904"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/181521.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="903"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/181521bq.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="903"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/181994.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="942"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/96526.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="1181"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/96540.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="1309"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/99911.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="887"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/99921.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="937"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/99924.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="804"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/99925.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="815"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/99987.jpg"
+       modified="Tue May 27 23:28:33 2014"
+       size="916"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/collapse.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="53"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/output/images/expanded.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="52"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/help.css"
+       modified="Tue May 27 23:28:34 2014"
+       size="1909"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/ContentFrameSet.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="718"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/FavEnter.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="5879"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/FavList.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="869"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/IndexEnter.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="8131"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/IndexList.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="2862"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/LeftNavFav.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="688"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/LeftNavFrameSet.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="571"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/LeftNavIndex.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="696"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/LeftNavToc.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="567"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/LeftNavTop.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="9285"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/LowerFrameSet.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="876"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/SearchBar.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="5900"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/ToolbarFrame.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="11006"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/bdetect.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="800"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/con_utils.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="3189"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/ftiens4.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="35552"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/search_results.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="796"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/iepdf.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="980"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/tocFrame.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="2111"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/searchcode.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="8497"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/style.css"
+       modified="Tue May 27 23:28:34 2014"
+       size="2711"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/tocEnter.htm"
+       modified="Tue May 27 23:28:34 2014"
+       size="1238"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/toc_utils.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="2622"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/ua.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="4277"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/utilsV4.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="1932"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/ToolbarGradient3px.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="187"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/ToolbarGradient.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="161"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/button_left.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="300"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/back_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="233"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/button_tile.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="290"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/button_right.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="298"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/open_new_win_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="1239"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/feedback_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="1200"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/forward_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="337"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/ftv2blank.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="135"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/ftv2doc.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="916"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/ftv2folderclosed.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="968"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/ftv2folderopen.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="979"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/glossary_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="1224"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/hide_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="659"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/nblank.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="91"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/next_arrow.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="55"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/sblank.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="807"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/open_new_win16.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="546"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabLeftActiveContent.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="282"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/previous_arrow.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="55"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/print_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="1235"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/resize_bg.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="63"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/show_icon.gif"
+       modified="Tue May 27 23:28:33 2014"
+       size="456"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabAreaBg.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="45"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabBgActiveDark.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="140"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabBgNonActive.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="147"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabLeftNonActiveAdjacent.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="162"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabLeftActiveDark.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="102"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabLeftNonActive.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="177"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabRightNonActiveAdjacent.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="162"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabLeftNonActiveContent.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="177"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabLeftNonActiveLeftmost.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="181"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabRightActiveDark.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="101"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabRightNonActive.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="180"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/viewpdf_icon.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="1279"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/help/shared/images/tabspacer.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="58"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/mappingfiles/IPCmapping_hlp.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="1113"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan09.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="5485"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/IPCmapping_hlp.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="1071"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/IPCmapping_sch.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="103430"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/advaudio.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/catalog.css"
+       modified="Tue May 27 23:28:34 2014"
+       size="15871"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/config.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="2358"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/document.css"
+       modified="Tue May 27 23:28:34 2014"
+       size="770"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/expand.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="3750"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/index.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="2351"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/indexList.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="138852"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/indexsch.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="10639"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/indexta.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="2461"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugdev1.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="3249"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugdev2.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="2453"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugdev3.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="7427"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugdev4.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="6023"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugdev5.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="4478"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugdev6.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="7574"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/page.js"
+       modified="Tue May 27 23:28:34 2014"
+       size="1980"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs1.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="4261"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs2.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="3254"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs3.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="4934"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs4.html"
+       modified="Tue May 27 23:28:34 2014"
+       size="7026"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs5.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4752"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs6.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4627"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs7.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7488"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs8.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6554"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcuggs9.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4814"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan01.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2747"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan02.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4012"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan03.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="19190"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan04.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3725"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan05.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="8079"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan06.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5114"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan07.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6005"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan08.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3816"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan27.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3361"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan10.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3809"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan11.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5946"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan12.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4167"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan13.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7233"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan14.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6640"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan15.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3459"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan16.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3880"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan17.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5287"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan18.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3266"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan19.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4629"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan20.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4202"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan21.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3976"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan22.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4905"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan23.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="8940"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan24.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4474"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan25.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4007"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan26.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5212"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt09.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="9180"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan28.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6981"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan29.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4835"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan30.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3030"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan31.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5722"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan32.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3870"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan33.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4677"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan34.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5088"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan35.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6992"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcughan36.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7347"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt01.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4074"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt02.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4668"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt03.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5321"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt04.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7185"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt05.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7175"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt06.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="8884"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt07.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5417"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt08.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="8369"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov17.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6751"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugopt10.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7776"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov01.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2910"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov02.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="9023"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov03.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2927"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov04.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="14285"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov05.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6715"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov06.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3357"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov07.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7698"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov08.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="7020"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov09.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6524"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov10.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3430"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov11.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3834"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov12.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4261"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov13.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3488"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov14.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4137"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov15.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="12783"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugov16.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5210"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugts2.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="10674"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset01.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3000"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset02.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3935"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset03.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4542"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset04.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6433"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset05.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4007"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset06.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3314"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset07.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6619"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset08.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5356"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset09.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6075"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset10.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3882"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset11.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4936"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset12.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5186"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset13.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4585"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset14.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4308"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset15.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6103"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugset16.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3339"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugts1.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3000"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/qsearch.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2395"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugts3.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="18006"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugts4.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3755"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugts5.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3092"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugts6.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6084"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm1.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2894"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm2.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5683"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm3.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="10080"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm4.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="3285"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm5.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="5536"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm6.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="12794"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm7.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="4314"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/ipcugvm8.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="6197"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/netaudio.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/prefaudio.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/prefdirs.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/prefnetwrk.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/prefuser.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2397"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/tocNodes.js"
+       modified="Tue May 27 23:28:35 2014"
+       size="10316"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113689.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="897"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105031.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="29747"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105079.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="918"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105079as.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="902"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105079bs.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="918"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105079eh.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="918"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105079u.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="902"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105780.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="2602"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105781.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="4943"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105781co.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="5034"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105781fz.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="5034"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105782.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="2378"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105782cp.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="2401"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/105782ga.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="2401"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113630.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="809"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113661.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="841"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113681.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="905"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113687.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="929"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113687ar.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="929"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113687t.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="929"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113688.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="859"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113688aq.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="859"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113688s.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="859"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140189ea.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="849"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113689ap.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="897"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113689r.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="897"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113690.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="862"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113690an.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="833"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113690ao.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="832"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113690au.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="832"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113690p.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="833"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113690q.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="832"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113690w.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="832"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113691.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="923"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113693.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="889"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113693at.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="919"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113693br.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="889"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113693eg.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="889"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113693v.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="919"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113703.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113703bm.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113703bp.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113703eb.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/113703ee.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="861"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/120781.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="15491"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140189.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="903"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140189bl.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="848"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140189bo.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="848"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/expanded.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="52"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140189ed.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="849"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140190.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140190bk.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140190bn.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140190dz.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140190ec.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="875"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/140191.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="887"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/141209.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="29383"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/181091.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="870"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/181094.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="877"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/181096.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="904"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/181521.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="903"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/181521bq.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="903"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/181521ef.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="919"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/181994.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="942"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/96526.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="1181"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/96540.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="1309"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/99911.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="887"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/99920.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="906"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/99921.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="937"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/99924.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="804"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/99925.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="815"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/99987.jpg"
+       modified="Tue May 27 23:28:34 2014"
+       size="916"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/output/images/collapse.gif"
+       modified="Tue May 27 23:28:34 2014"
+       size="53"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/help.css"
+       modified="Tue May 27 23:28:35 2014"
+       size="1909"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/ContentFrameSet.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="718"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/FavEnter.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="5879"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/FavList.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="869"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/IndexEnter.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="8131"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/IndexList.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="2862"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/LeftNavFav.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="688"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/LeftNavFrameSet.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="571"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/LeftNavIndex.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="696"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/LeftNavToc.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="567"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/LeftNavTop.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="9285"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/LowerFrameSet.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="876"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/SearchBar.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="5900"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/ToolbarFrame.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="11006"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/bdetect.js"
+       modified="Tue May 27 23:28:35 2014"
+       size="800"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/con_utils.js"
+       modified="Tue May 27 23:28:35 2014"
+       size="3189"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/ftiens4.js"
+       modified="Tue May 27 23:28:35 2014"
+       size="35552"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/search_results.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="796"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/iepdf.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="980"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/tocFrame.html"
+       modified="Tue May 27 23:28:35 2014"
+       size="2111"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/searchcode.js"
+       modified="Tue May 27 23:28:35 2014"
+       size="8497"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/style.css"
+       modified="Tue May 27 23:28:35 2014"
+       size="2711"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/tocEnter.htm"
+       modified="Tue May 27 23:28:35 2014"
+       size="1238"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/toc_utils.js"
+       modified="Tue May 27 23:28:35 2014"
+       size="2622"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/ua.js"
+       modified="Tue May 27 23:28:35 2014"
+       size="4277"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/utilsV4.js"
+       modified="Tue May 27 23:28:36 2014"
+       size="1932"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/ToolbarGradient3px.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="187"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/ToolbarGradient.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="161"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/button_left.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="300"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/back_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="233"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/button_tile.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="290"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/button_right.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="298"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/open_new_win_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="1239"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/feedback_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="1200"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/forward_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="337"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/ftv2blank.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="135"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/ftv2doc.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="916"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/ftv2folderclosed.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="968"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/ftv2folderopen.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="979"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/glossary_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="1224"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/hide_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="659"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/nblank.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="91"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/next_arrow.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="55"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/sblank.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="807"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/open_new_win16.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="546"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabLeftActiveContent.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="282"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/previous_arrow.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="55"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/print_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="1235"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/resize_bg.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="63"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/show_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="456"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabAreaBg.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="45"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabBgActiveDark.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="140"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabBgNonActive.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="147"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActiveAdjacent.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="162"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabLeftActiveDark.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="102"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActive.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="177"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabRightNonActiveAdjacent.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="162"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActiveContent.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="177"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabLeftNonActiveLeftmost.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="181"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabRightActiveDark.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="101"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabRightNonActive.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="180"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/viewpdf_icon.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="1279"/>
+   <file archive="Korean_Korea_Republic/CIPC_Locale.zip" path="help/shared/images/tabspacer.gif"
+       modified="Tue May 27 23:28:35 2014"
+       size="58"/>
+
+    </files>
+  </component>
+</AutoUpdateManifest>

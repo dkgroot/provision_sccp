@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<phrases>
+<trkLocaleName>Spanish_Spain</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+	<phrase i="198" t="Ninguna línea disponible captura"/>
+	<phrase i="197" t="Transf. exterior restringida"/>
+	<phrase i="196" t="Ancho banda insuficiente captura"/>
+	<phrase i="195" t="Ninguna llamada para captura"/>
+	<phrase i="194" t="Ranura de aparcamiento no disponible"/>
+	<phrase i="193" t="Desconectado del grupo"/>
+	<phrase i="192" t="ConGrupo"/>
+	<phrase i="191" t="CaptOtr"/>
+	<phrase i="190" t="Duración máxima en espera"/>
+	<phrase i="189" t="Duración máx. llamada"/>
+	<phrase i="188" t="ModoVid"/>
+	<phrase i="187" t="Ancho de banda vídeo no disp"/>
+	<phrase i="186" t="Error de seguridad"/>
+	<phrase i="185" t="Número no configurado"/>
+	<phrase i="184" t="Éxito identif. de llam. malic."/>
+	<phrase i="183" t="Error al conectar las llamadas"/>
+	<phrase i="182" t="Error al completar transfer."/>
+	<phrase i="181" t="IntruCf"/>
+	<phrase i="180" t="Desviar"/>
+	<phrase i="179" t="ListCnf"/>
+	<phrase i="178" t="Selecc."/>
+	<phrase i="177" t="TrsfDir"/>
+	<phrase i="176" t="IdLlMali"/>
+	<phrase i="175" t="QRT"/>
+	<phrase i="174" t="Tráfic. intenso. Intente luego"/>
+	<phrase i="173" t="El servicio no está activo"/>
+	<phrase i="172" t="Rev. de llamadas aparcad."/>
+	<phrase i="171" t="Ningún n.º aparcam. disponible"/>
+	<phrase i="170" t="Dispositivo incompatible"/>
+	<phrase i="169" t="Hay otra intrusión"/>
+	<phrase i="168" t="Error al establecer intrusión."/>
+	<phrase i="167" t="Intrus."/>
+	<phrase i="166" t="Congestión de red, reenrutando"/>
+	<phrase i="165" t="RetroLla"/>
+	<phrase i="164" t="DsvTod"/>
+	<phrase i="163" t="NoMlsta"/>
+	<phrase i="162" t="TrnsfBu"/>
+	<phrase i="161" t="Estado"/>
+	<phrase i="160" t="Intrcpt"/>
+	<phrase i="159" t="Redirig."/>
+	<phrase i="158" t="Buzón voz"/>
+	<phrase i="157" t="EliUltLl"/>
+	<phrase i="156" t="Número desconocido"/>
+	<phrase i="155" t="Ancho de banda insuficiente"/>
+	<phrase i="154" t="Privado"/>
+	<phrase i="153" t="N.º de aparcamiento"/>
+	<phrase i="152" t="Conferencia"/>
+	<phrase i="151" t="Error por incoherencia"/>
+	<phrase i="150" t="Error desconocido"/>
+	<phrase i="149" t="Límite excedido"/>
+	<phrase i="148" t="Error de base datos"/>
+	<phrase i="147" t="Error de DBConfig"/>
+	<phrase i="146" t="Error por falta de licencia"/>
+	<phrase i="145" t="Tecla inactiva"/>
+	<phrase i="144" t="Supera máximo de participantes"/>
+	<phrase i="143" t="Sin info. de participante"/>
+	<phrase i="142" t="Ya en conferencia"/>
+	<phrase i="141" t="Participante conf. no válido"/>
+	<phrase i="140" t="No puede tener ctrl primario"/>
+	<phrase i="139" t="Sin dispositivo de conferencia"/>
+	<phrase i="138" t="Error al completar conferencia"/>
+	<phrase i="137" t="Desviado a"/>
+	<phrase i="136" t="Tiene mensajes de voz"/>
+	<phrase i="135" t="Error Temporal"/>
+	<phrase i="134" t="Solo principal"/>
+	<phrase i="133" t="LLamada aparcada en"/>
+	<phrase i="132" t="Introducir número"/>
+	<phrase i="131" t="Remoto en uso"/>
+	<phrase i="130" t="Llamada en curso"/>
+	<phrase i="129" t="Ap. llam."/>
+	<phrase i="128" t="Transferir llamada"/>
+	<phrase i="127" t="Llamada en espera"/>
+	<phrase i="126" t="Línea ocupada"/>
+	<phrase i="125" t="Ocupado"/>
+	<phrase i="124" t="Establecida"/>
+	<phrase i="123" t="De "/>
+	<phrase i="122" t="Llamando"/>
+	<phrase i="121" t="Colgado"/>
+	<phrase i="120" t="Descolgado"/>
+	<phrase i="119" t="Opciones actuales"/>
+	<phrase i="118" t="CaptGr"/>
+	<phrase i="117" t="Capturar"/>
+	<phrase i="116" t="MeetMe"/>
+	<phrase i="115" t="Conectar"/>
+	<phrase i="114" t="Aparcar"/>
+	<phrase i="113" t="Conf."/>
+	<phrase i="112" t="Info."/>
+	<phrase i="111" t="Contest."/>
+	<phrase i="110" t="Cont."/>
+	<phrase i="109" t="FinLlam."/>
+	<phrase i="108" t="&lt;&lt;"/>
+	<phrase i="107" t="DsvNC."/>
+	<phrase i="106" t="DsvOcu"/>
+	<phrase i="105" t="DsvInc"/>
+	<phrase i="104" t="Trnsf."/>
+	<phrase i="103" t="Espera"/>
+	<phrase i="102" t="NvaLlam"/>
+	<phrase i="101" t="Rellam."/>
+</phrases>
