@@ -6,18 +6,20 @@ server {
 	index XMLDefault.cnf.xml;
 
 	# Normal Logging
-	access_log /var/log/nginx/tftp.access.log;
-	error_log /var/log/nginx/tftp.error.log;
+	#access_log /var/log/nginx/tftp.access.log;
+	#error_log /var/log/nginx/tftp.error.log;
 
 	# Debug Rewrite Rules
-	#rewrite_log on;
-	#access_log /var/log/nginx/tftp.access.log;
-	#error_log /var/log/nginx/tftp.error.log notice;
+	rewrite_log on;
+	access_log /var/log/nginx/tftp.access.log;
+	error_log /var/log/nginx/tftp.error.log notice;
 
 	location / {
 		rewrite ^/((.*).cnf.xml)$ /settings/$1 last;
-		rewrite ^/((.*).(bin|bin.|loads|LOADS|sbn|SBN|sb2|sbin|zz|zup)(|.sgn))$ /firmware/$1;
-		rewrite ^/(RINGLIST|RingList|Ringlist|ringlist).(xml|XML)$ /ringtones/ringlist.xml;
+		rewrite ^/((.*).(bin|bin.|loads|LOADS|sbn|SBN|sb2|sbin|zz|zup)(|.sgn))$ /firmware/$1 last;
+		rewrite ^/([D|d]istinctive)?([R|r]ing[L|l]ist).(xml|XML)(.sgn)?$ /ringtones/ringlist.xml last;
+		#rewrite ^/((.*)(.raw|pcm)(|.sgn))$ /ringtones/$1 last;
+		rewrite ^/Desktops/(.*)/(.*)$ /wallpapers/$1/$2 last;
 		try_files $uri $uri/ =404;
 		autoindex off;
 	}
@@ -203,8 +205,14 @@ server {
 	}
 
 	# ringtones
-	location /ringtones/(.*).(xml|raw|pcm) {
-		try_files ringtones/$uri ringtones/$uri/ =404;
+	location /ringtones {
+		try_files $uri $uri/ =404;
+		autoindex off;
+	}
+
+	# wallpapers
+	location /wallpapers {
+		try_files $uri $uri/ =404;
 		autoindex off;
 	}
 
