@@ -192,6 +192,6 @@ ri	^[a-z]:				# Remove "drive letters"
 rg	\\		/		# Convert backslashes to slashes
 rg	\#		@		# Convert hash marks to @ signs
 rg	/../		/..no../	# Convert /../ to /..no../
-e	^ok/				# These are always ok
-r	^[^/]		/tftpboot/\0	# Convert non-absolute files
-a	\.pvt$				# Reject requests for private files
+# e	^ok/				# These are always ok
+# r	^[^/]		/tftpboot/\0	# Convert non-absolute files
+# a	\.pvt$				# Reject requests for private files
