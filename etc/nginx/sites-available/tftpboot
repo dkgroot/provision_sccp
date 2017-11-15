@@ -15,10 +15,21 @@ server {
 	error_log /var/log/nginx/tftp.error.log notice;
 
 	location / {
-		rewrite ^/((.*).cnf.xml)$ /settings/$1 last;
-		rewrite ^/((.*).(bin|bin.|loads|LOADS|sbn|SBN|sb2|sbin|zz|zup)(|.sgn))$ /firmware/$1 last;
-		rewrite ^/([D|d]istinctive)?([R|r]ing[L|l]ist).(xml|XML)(.sgn)?$ /ringtones/ringlist.xml last;
-		#rewrite ^/((.*)(.raw|pcm)(|.sgn))$ /ringtones/$1 last;
+		# settings
+		rewrite ^/((.*)(\.cnf\.xml|\.tlv))$ /settings/$1 last;
+
+		# firmware
+		rewrite ^/((.*).(bin|bin.|loads|LOADS|sbn|SBN|sb2|sbin|zz|zup)(|\.sgn))$ /firmware/$1 last;
+
+		# locales
+		rewrite ^/(.*)/((.*)-tones\.xml)$ /locales/countries/$1/$2 last;
+		rewrite ^/(.*)/((.*)(-dictionary\.xml|\.jar))$ /locales/languages/$1/$2 last;
+
+		# ringtones
+		rewrite ^/([D|d]istinctive)?([R|r]ing[L|l]ist)\.(xml|XML)(\.sgn)?$ /ringtones/ringlist.xml last;
+		#rewrite ^/((.*)(\.raw|\.pcm)(|\.sgn))$ /ringtones/$1 last;
+
+		# wallpapers
 		rewrite ^/Desktops/(.*)/(.*)$ /wallpapers/$1/$2 last;
 		try_files $uri $uri/ =404;
 		autoindex off;
@@ -200,6 +211,13 @@ server {
 		# ata188 firmware (ancient)
 		rewrite ^/firmware/(ATA030204SCCP090202A.zup)$ /firmware/ata188/$1 last;
 
+		try_files $uri $uri/ =404;
+		autoindex off;
+	}
+
+	# locales
+
+	location /locales {
 		try_files $uri $uri/ =404;
 		autoindex off;
 	}

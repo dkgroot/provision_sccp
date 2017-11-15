@@ -5,14 +5,15 @@ PYTHON := /usr/bin/env python
 .PHONY: bootstrap clean
 .DEFAULT_GOAL := all
 
-all: .requirements_satisfied
-	@$(PYTHON) generate.py
+all: 
 
-bootstrap:
-	@$(PIP) install --user -r requirements.txt
+bootstrap: .requirements_satisfied tools/generate.py
+	@echo "running generate"
+	@$(PYTHON) tools/generate.py
 
-.requirements_satisfied:
-	$(MAKE) bootstrap
+.requirements_satisfied: tools/requirements.txt
+	@echo "checking requirements"
+	@$(PIP) install --user -r tools/requirements.txt
 	@touch $@
 
 clean:
