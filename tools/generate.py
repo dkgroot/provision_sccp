@@ -4,7 +4,7 @@ import json
 import os
 import hachoir_regex
 
-with open('config.json') as f:
+with open('tools/config.json') as f:
     config = json.load(f)
 
 def generate_regex(subdir):

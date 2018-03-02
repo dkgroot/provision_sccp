@@ -225,7 +225,7 @@
   <userId>9999</userId>
   
   <!-- Begin URL's -->
-  <idleURL>http://192.168.178.3/idle.php</idleURL> 
+  <!--<idleURL>http://192.168.178.3/idle.php</idleURL>-->
   <authenticationURL>http://192.168.178.3/authenticate.php</authenticationURL>
   <informationURL>http://192.168.178.3/cisco_menu/help/help.php</informationURL>
   <messagesURL/>
