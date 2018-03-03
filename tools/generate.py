@@ -22,15 +22,15 @@ def generate_nginx_rules(regex, dirname, outfile):
 
 if __name__ == '__main__':
     rootdir = "./tftpboot/firmware/"
-#    tftpd_rules = open("etc/tftpd-hpa/tftpd.rules", "w")
-#    nginx_rules = open("etc/nginx/sites-available/nginx.rules", "w")
-#    
-#    for subdir in next(os.walk(rootdir))[1]:
-#        regex = generate_regex(os.path.join(rootdir, subdir))
-#        generate_tftpd_rules(regex, os.path.basename(subdir), tftpd_rules)
-#        generate_nginx_rules(regex, os.path.basename(subdir), nginx_rules)
-#    
-#    tftpd_rules.close();
-#    nginx_rules.close();    
+    tftpd_rules = open("etc/tftpd-hpa/tftpd.rules1", "w")
+    nginx_rules = open("etc/nginx/sites-available/nginx.rules1", "w")
+    
+    for subdir in next(os.walk(rootdir))[1]:
+        regex = generate_regex(os.path.join(rootdir, subdir))
+        generate_tftpd_rules(regex, os.path.basename(subdir), tftpd_rules)
+        generate_nginx_rules(regex, os.path.basename(subdir), nginx_rules)
+    
+    tftpd_rules.close();
+    nginx_rules.close();    
     #app.debug = os.environ.get('FLASK_DEBUG', True)
     #print config.get["scopes"]
