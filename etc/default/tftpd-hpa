@@ -1,7 +1,7 @@
 # /etc/default/tftpd-hpa
 
 TFTP_USERNAME="tftp"
-TFTP_DIRECTORY="/srv/tftpboot/"
+TFTP_DIRECTORY="/srv/tftp/"
 TFTP_ADDRESS=":69"
 #TFTP_OPTIONS="-m /etc/tftpd-hpa/rewrite.rules -v -v -v -s "
 TFTP_OPTIONS="-m /etc/tftpd-hpa/rewrite.rules -v -s "
