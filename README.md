@@ -10,6 +10,6 @@ The project also serves as a repository of current / up to date cisco skinny/scc
 - [tftp-hpa](http://www.chschneider.eu/linux/server/tftpd-hpa.shtml)
 - [nginx](https://www.nginx.com/resources/wiki/)
 
-#[Code of Conduct](https://github.com/dkgroot/provision_sccp/blob/master/CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/dkgroot/provision_sccp/blob/master/CODE_OF_CONDUCT.md)
 
-#[License](https://github.com/dkgroot/provision_sccp/blob/master/LICENSE)
+[License](https://github.com/dkgroot/provision_sccp/blob/master/LICENSE)
