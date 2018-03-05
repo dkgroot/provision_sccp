@@ -33,14 +33,14 @@ ri ^(CP7905080003SCCP070409A.sbin)$ firmware/7905/\1
 ri ^(CP7905080003SCCP070409A.zup)$ firmware/7905/\1
 
 # 7906_7911 firmware (java-based)
-ri ^(apps11)(.+\.sbn)$ firmware/7906_7911/\1\2
-ri ^(cnu11)(.+\.sbn)$ firmware/7906_7911/\1\2
-ri ^(cvm11sccp)(.+\.sbn)$ firmware/7906_7911/\1\2
-ri ^(dsp11)(.+\.sbn)$ firmware/7906_7911/\1\2
-ri ^(jar11sccp)(.+\.sbn)$ firmware/7906_7911/\1\2
-ri ^(SCCP11)(.+\.loads)$ firmware/7906_7911/\1\2
-ri ^(term06)(.+\.loads)$ firmware/7906_7911/\1\2
-ri ^(term11)(.+\.loads)$ firmware/7906_7911/\1\2
+ri ^(apps11)(.+\.sbn)$ firmware/7906/\1\2
+ri ^(cnu11)(.+\.sbn)$ firmware/7906/\1\2
+ri ^(cvm11sccp)(.+\.sbn)$ firmware/7906/\1\2
+ri ^(dsp11)(.+\.sbn)$ firmware/7906/\1\2
+ri ^(jar11sccp)(.+\.sbn)$ firmware/7906/\1\2
+ri ^(SCCP11)(.+\.loads)$ firmware/7906/\1\2
+ri ^(term06)(.+\.loads)$ firmware/7906/\1\2
+ri ^(term11)(.+\.loads)$ firmware/7906/\1\2
 
 # 7910 firmware (ancient)
 ri ^(P00405000700.bin)$ firmware/7910/\1
@@ -59,13 +59,13 @@ ri ^(B016-1-0-4.SBN)$ firmware/7916/\1
 ri ^(cmterm_7920.4.0-03-02.bin)$ firmware/7920/\1
 
 # 7921_7925 firmware (ancient)
-ri ^(APPS-1.4.3.4.SBN)$ firmware/7921_7925/\1
-ri ^(CP7921G-1.4.3.4.LOADS)$ firmware/7921_7925/\1
-ri ^(GUI-1.4.3.4.SBN)$ firmware/7921_7925/\1
-ri ^(SYS-1.4.3.4.SBN)$ firmware/7921_7925/\1
-ri ^(TNUX-1.4.3.4.SBN)$ firmware/7921_7925/\1
-ri ^(TNUXR-1.4.3.4.SBN)$ firmware/7921_7925/\1
-ri ^(WLAN-1.4.3.4.SBN)$ firmware/7921_7925/\1
+ri ^(APPS-1.4.3.4.SBN)$ firmware/7921/\1
+ri ^(CP7921G-1.4.3.4.LOADS)$ firmware/7921/\1
+ri ^(GUI-1.4.3.4.SBN)$ firmware/7921/\1
+ri ^(SYS-1.4.3.4.SBN)$ firmware/7921/\1
+ri ^(TNUX-1.4.3.4.SBN)$ firmware/7921/\1
+ri ^(TNUXR-1.4.3.4.SBN)$ firmware/7921/\1
+ri ^(WLAN-1.4.3.4.SBN)$ firmware/7921/\1
 
 # 7926 firmware (ancient)
 ri ^(APPSS-1.4.1SR1.SBN)$ firmware/7926/\1
@@ -98,50 +98,50 @@ ri ^(cmterm_7936.3-3-21-0.bin)$ firmware/7936/\1
 ri ^(apps37sccp.1-4-5-7.bin)$ firmware/7937/\1
 
 # 7940_7960 firmware (ancient)
-ri ^(P0030801SR01.bin)$ firmware/7940_7960/\1
-ri ^(P0030801SR01.loads)$ firmware/7940_7960/\1
-ri ^(P0030801SR01.sb2)$ firmware/7940_7960/\1
-ri ^(P0030801SR01.sbn)$ firmware/7940_7960/\1
+ri ^(P0030801SR01.bin)$ firmware/7940/\1
+ri ^(P0030801SR01.loads)$ firmware/7940/\1
+ri ^(P0030801SR01.sb2)$ firmware/7940/\1
+ri ^(P0030801SR01.sbn)$ firmware/7940/\1
 
 # 7941_7961 firmware (java-based)
-ri ^(apps41)(.+\.sbn)$ firmware/7941_7961/\1\2
-ri ^(cnu41)(.+\.sbn)$ firmware/7941_7961/\1\2
-ri ^(cvm41sccp)(.+\.sbn)$ firmware/7941_7961/\1\2
-ri ^(dsp41)(.+\.sbn)$ firmware/7941_7961/\1\2
-ri ^(jar41sccp)(.+\.sbn)$ firmware/7941_7961/\1\2
-ri ^(SCCP41)(.+\.loads)$ firmware/7941_7961/\1\2
-ri ^(term41)(.+\.loads)$ firmware/7941_7961/\1\2
-ri ^(term61)(.+\.loads)$ firmware/7941_7961/\1\2
+ri ^(apps41)(.+\.sbn)$ firmware/7941/\1\2
+ri ^(cnu41)(.+\.sbn)$ firmware/7941/\1\2
+ri ^(cvm41sccp)(.+\.sbn)$ firmware/7941/\1\2
+ri ^(dsp41)(.+\.sbn)$ firmware/7941/\1\2
+ri ^(jar41sccp)(.+\.sbn)$ firmware/7941/\1\2
+ri ^(SCCP41)(.+\.loads)$ firmware/7941/\1\2
+ri ^(term41)(.+\.loads)$ firmware/7941/\1\2
+ri ^(term61)(.+\.loads)$ firmware/7941/\1\2
 
 # 7942_7962 firmware (java-based)
-ri ^(apps42)(.+\.sbn)$ firmware/7942_7962/\1\2
-ri ^(cnu42)(.+\.sbn)$ firmware/7942_7962/\1\2
-ri ^(cvm42sccp)(.+\.sbn)$ firmware/7942_7962/\1\2
-ri ^(dsp42)(.+\.sbn)$ firmware/7942_7962/\1\2
-ri ^(jar42sccp)(.+\.sbn)$ firmware/7942_7962/\1\2
-ri ^(SCCP42)(.+\.loads)$ firmware/7942_7962/\1\2
-ri ^(term42)(.+\.loads)$ firmware/7942_7962/\1\2
-ri ^(term62)(.+\.loads)$ firmware/7942_7962/\1\2
+ri ^(apps42)(.+\.sbn)$ firmware/7942/\1\2
+ri ^(cnu42)(.+\.sbn)$ firmware/7942/\1\2
+ri ^(cvm42sccp)(.+\.sbn)$ firmware/7942/\1\2
+ri ^(dsp42)(.+\.sbn)$ firmware/7942/\1\2
+ri ^(jar42sccp)(.+\.sbn)$ firmware/7942/\1\2
+ri ^(SCCP42)(.+\.loads)$ firmware/7942/\1\2
+ri ^(term42)(.+\.loads)$ firmware/7942/\1\2
+ri ^(term62)(.+\.loads)$ firmware/7942/\1\2
 
 # 7945_7965 firmware (java-based)
-ri ^(apps45)(.+\.sbn)$ firmware/7945_7965/\1\2
-ri ^(cnu45)(.+\.sbn)$ firmware/7945_7965/\1\2
-ri ^(cvm45sccp)(.+\.sbn)$ firmware/7945_7965/\1\2
-ri ^(dsp45)(.+\.sbn)$ firmware/7945_7965/\1\2
-ri ^(jar45sccp)(.+\.sbn)$ firmware/7945_7965/\1\2
-ri ^(SCCP45)(.+\.loads)$ firmware/7945_7965/\1\2
-ri ^(term45)(.+\.loads)$ firmware/7945_7965/\1\2
-ri ^(term65)(.+\.loads)$ firmware/7945_7965/\1\2
+ri ^(apps45)(.+\.sbn)$ firmware/7945/\1\2
+ri ^(cnu45)(.+\.sbn)$ firmware/7945/\1\2
+ri ^(cvm45sccp)(.+\.sbn)$ firmware/7945/\1\2
+ri ^(dsp45)(.+\.sbn)$ firmware/7945/\1\2
+ri ^(jar45sccp)(.+\.sbn)$ firmware/7945/\1\2
+ri ^(SCCP45)(.+\.loads)$ firmware/7945/\1\2
+ri ^(term45)(.+\.loads)$ firmware/7945/\1\2
+ri ^(term65)(.+\.loads)$ firmware/7945/\1\2
 
 # 7970_7971 firmware (java-based)
-ri ^(apps70)(.+\.sbn)$ firmware/7970_7971/\1\2
-ri ^(cnu70)(.+\.sbn)$ firmware/7970_7971/\1\2
-ri ^(cvm70sccp)(.+\.sbn)$ firmware/7970_7971/\1\2
-ri ^(dsp70)(.+\.sbn)$ firmware/7970_7971/\1\2
-ri ^(jar70sccp)(.+\.sbn)$ firmware/7970_7971/\1\2
-ri ^(SCCP70)(.+\.loads)$ firmware/7970_7971/\1\2
-ri ^(term70)(.+\.loads)$ firmware/7970_7971/\1\2
-ri ^(term71)(.+\.loads)$ firmware/7970_7971/\1\2
+ri ^(apps70)(.+\.sbn)$ firmware/7970/\1\2
+ri ^(cnu70)(.+\.sbn)$ firmware/7970/\1\2
+ri ^(cvm70sccp)(.+\.sbn)$ firmware/7970/\1\2
+ri ^(dsp70)(.+\.sbn)$ firmware/7970/\1\2
+ri ^(jar70sccp)(.+\.sbn)$ firmware/7970/\1\2
+ri ^(SCCP70)(.+\.loads)$ firmware/7970/\1\2
+ri ^(term70)(.+\.loads)$ firmware/7970/\1\2
+ri ^(term71)(.+\.loads)$ firmware/7970/\1\2
 
 # 7975 firmware (java-based)
 ri ^(apps75)(.+\.sbn)$ firmware/7975/\1\2
