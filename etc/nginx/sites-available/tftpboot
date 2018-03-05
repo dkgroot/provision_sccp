@@ -205,11 +205,8 @@ server {
 		rewrite ^/firmware/(SCCP894x.+\.sgn)$ /firmware/894x/$1 last;
 		rewrite ^/firmware/(SCCP894x.+\.loads)$ /firmware/894x/$1 last;
 
-		# ata186 firmware (ancient)
+		# ata186 / ata188 firmware (ancient)
 		rewrite ^/firmware/(ATA030204SCCP090202A.zup)$ /firmware/ata186/$1 last;
-
-		# ata188 firmware (ancient)
-		rewrite ^/firmware/(ATA030204SCCP090202A.zup)$ /firmware/ata188/$1 last;
 
 		try_files $uri $uri/ =404;
 		autoindex off;

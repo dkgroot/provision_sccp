@@ -160,14 +160,11 @@ ri ^(BOOT894x)(.+\.sgn)$ firmware/894x/\1\2
 ri ^(SCCP894x)(.+\.sgn)$ firmware/894x/\1\2
 ri ^(SCCP894x)(.+\.loads)$ firmware/894x/\1\2
 
-# ata186 firmware (ancient)
+# ata186/ata188 firmware (ancient)
 ri ^(ATA030204SCCP090202A.zup)$ firmware/ata186/\1
 
-# ata188 firmware (ancient)
-ri ^(ATA030204SCCP090202A.zup)$ firmware/ata188/\1
 
-
-
+# Sub-Directory Handling
 
 # Keep firmware in a separate directory (optional)
 #ri ^(.+\.loads)$ firmware/\1
