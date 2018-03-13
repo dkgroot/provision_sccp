@@ -19,8 +19,8 @@ $path['ringtones'] = $path['tftp']. '/ringtones';
 $path['countries'] = $path['tftp']. '/locales/countries';
 $path['languages'] = $path['tftp']. '/locales/languages';
 
-$fsufix = ".bin;.bin;.loads;.LOADS;.sbn;.SBN;.sb2;.sbin;.zz;.zup;.sgn;.SGN";
-$rings_list = array('distinctive.xml', 'distinctive.sgn', 'ringlist.xml', 'ringlist.sgn');
+$fw_suffix = ".bin;.bin;.loads;.LOADS;.sbn;.SBN;.sb2;.sbin;.zz;.zup;.sgn;.SGN";
+$ringtones_list = array('distinctive.xml', 'distinctive.sgn', 'ringlist.xml', 'ringlist.sgn');
 $locale_list = array('-dictionary.', 'dictionary-ext.', '-dictionary.utf-8.', '-kate.xml', '-font.xml', '-tones.xml',
                      'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml');
 
@@ -117,7 +117,6 @@ function find_all_files($dir, $file_mask=null, $mode='full'){
 } 
 
 $req_file_full_path = '' ;
-$firmware_list = find_all_files($path['firmware']);
 
 if (!empty($req_file)) {
     $req_data_ar = explode('/', $req_file);
@@ -128,47 +127,48 @@ if (!empty($req_file)) {
     } else { 
         $tmp_file = explode('.', $req_file_name);
         $tmp = end($tmp_file);
-        $pos = strpos($fsufix, '.'.$tmp.';');
-        if ($pos !== false) { // Request Firmware 
-            $pos2 = strpos_array($firmware_list, $req_file_name, 'any'); // case unsensitive
-            if ($pos2 !== false) { // Request Firmware 
+        $pos = strpos($fw_suffix, '.'.$tmp.';');
+        if ($pos !== false) { 								// Firmware file was request
+            $firmware_list = find_all_files($path['firmware']);
+            $pos2 = strpos_array($firmware_list, $req_file_name, 'any'); 		// case unsensitive
+            if ($pos2 !== false) { 							// Request Firmware 
                 $req_file_full_path = $firmware_list[$pos2];
             }
             print_r('<br>Firmware : '. $req_file_full_path. 'END Firmware<br>');
         } 
         if (empty($req_file_full_path)) {
-            if (strpos(implode(';', $rings_list), strtolower($req_file_name)) !== FALSE) { // Request ring list
-                $req_file_full_path = $path['ringtones'].'/ringlist.xml';  // hard link
-            }
             $tmp_file = '';
 
-            if (strpos(strtolower($req_file_name), '.cnf.xml') !==  FALSE) { // Request Settings
-                $tmp_file =$path['settings'].'/'.$req_file_name;
-            }
+            if (strpos_array($ringtones_list, $req_file_name, 'any') !== FALSE) {
+                $tmp_file = $path['ringtones'].'/ringlist.xml';  			// hard link
+            } 
             
 /*
-            if (strpos(strtolower($req_file), '-tones.xml') !== FALSE) { // Request countries
+            else if (strpos(strtolower($req_file), '-tones.xml') !== FALSE) { 		// Request Countries
                 $tmp_file = $path['countries'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
  
-            if (strpos(strtolower($req_file), '-dictionary.') !== FALSE) { // Request countries
+            else if (strpos(strtolower($req_file), '-dictionary.') !== FALSE) { 		// Request Countries
                 $tmp_file = $path['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 
-            if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 
+            else if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 		// Request Languages
                 $tmp_file = $path['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 
-            if (strpos(strtolower($req_file), '-dictionary.jar') !== FALSE) { // Request countries
+            else if (strpos(strtolower($req_file), '-dictionary.jar') !== FALSE) { 	// Request Countries
                 $tmp_file = $path['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
  * 
  */
-            if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 
+            else if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 		// Request Languages
                 $tmp_file = $path['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
-            if (strpos(strtolower($req_file), '/desktops/') !== FALSE) { // Request wallpapers
+            else if (strpos(strtolower($req_file), '/desktops/') !== FALSE) { 		// Request Wallpapers
                 $tmp_file = $path['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+            }
+            else if (strpos(strtolower($req_file_name), '.cnf.xml') !==  FALSE) { 	// Request Settings
+                $tmp_file = $path['settings'].'/'.$req_file_name;
             }
             
             if (!empty($tmp_file)) { 
