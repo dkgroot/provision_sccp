@@ -1,0 +1,10 @@
+[main]
+tftp = /tftpboot
+;firmware = /tftpboot/firmware
+;settings = /tftpboot/settings
+;wallpapers = /tftpboot/wallpapers
+;ringtones = /tftpboot/ringtones
+;locales = /tftpboot/locales
+;countries = /tftpboot/locales/countries
+;languages = /tftpboot/locales/languages
+;deflanguages = /tftpboot/locales/languages/English_United_States
