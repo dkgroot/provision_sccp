@@ -5,7 +5,6 @@
 
 //Setup should be moved to ini/json file
 // --  tftpboot  path 
-$path['debug'] = 'off';
 
 $ini_array = parse_ini_file('index.cnf');
 if (!empty($ini_array)) {
@@ -14,17 +13,19 @@ if (!empty($ini_array)) {
     }
 }
 
-if (empty($path['tftp'])) { $path['tftp'] = '/tftpboot'; }
+$path['tftp'] = (!empty($path['tftp'])) ? $path['tftp'] : '/tftpboot';
+$print_debug = (!empty($path['debug'])) ? $path['debug'] : 'off';
+$print_debug = ($print_debug == 1) ? 'on' : $print_debug;
 
 $request = $_REQUEST;
 $req_file = !empty($request['id']) ? $request['id'] : '';
 
 // --  TFTPD - structure 
-$fw_suffix = array('bin', 'loads', 'sbn', 'sb2', 'sbin', 'zz', 'zup');
-
+//$fw_suffix = array('bin', 'loads', 'sbn', 'sb2', 'sbin', 'zz', 'zup');
+$fw_suffix = array('.bin', '.loads', '.sbn', '.sb2', '.sbin', '.zz', '.zup');
 //$settings_suffix = array('cnf.xml');
 
-$ringtones_list = array('distinctive.xml', 'distinctive.sgn', 'ringlist.xml', 'ringlist.sgn');
+$ringtones_list = array('distinctive.xml', 'ringlist.xml');
 
 if (empty($path['firmware'])) { $path['firmware'] = $path['tftp']. '/firmware';}
 if (empty($path['settings'])) {$path['settings'] = $path['tftp']. '/settings';}
@@ -37,7 +38,7 @@ if (empty($path['deflanguages'])) {$path['deflanguages'] = $path['languages']. '
 $locale_list = array('-dictionary.', 'dictionary-ext.', '-dictionary.utf-8.', '-kate.xml', '-font.xml', '-font.dat','-tones.xml',
                      'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml');
 
-
+print_r($path);
 $req_file_full_path = '' ;
 
 if (!empty($req_file)) {
@@ -68,7 +69,7 @@ if (!empty($req_file)) {
             if ($pos2 !== FALSE) { 							// Request Firmware 
                 $req_file_full_path = $firmware_list[$pos2];
             }
-            if ($path['debug'] == 'on'){ print_r('<br>Requested Firmware: '. $req_file_full_path. '<br>');}
+            if ($print_debug == 'on'){ print_r('<br>Requested Firmware: '. $req_file_full_path. '<br>');}
         }
         else 
         {
@@ -109,7 +110,7 @@ if (!empty($req_file)) {
                 $tmp_file = $path['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 */
-            if ($path['debug'] == 'on'){ print_r('<br>File : '. $req_file_name. ' not found.<br>');}
+            if ($print_debug == 'on'){ print_r('<br>File : '. $req_file_name. ' not found.<br>');}
                 
             if (empty($tmp_file)) { 
                 die('ERROR: no match found.');
@@ -124,7 +125,7 @@ if (!empty($req_file)) {
         if (!file_exists($req_file_full_path)) { 
             die('Could not find:'. $req_file_full_path);
         }
-        if ($path['debug'] == 'on'){ print_r('<br>Returning: '. $req_file_full_path. '<br>');}
+        if ($print_debug == 'on'){ print_r('<br>Returning: '. $req_file_full_path. '<br>');}
         file_force_download($req_file_full_path);
     }
 } 

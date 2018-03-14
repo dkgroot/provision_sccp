@@ -8,3 +8,4 @@ tftp = /tftpboot
 ;countries = /tftpboot/locales/countries
 ;languages = /tftpboot/locales/languages
 ;deflanguages = /tftpboot/locales/languages/English_United_States
+;debug = on ; The output in the browser window for more information
