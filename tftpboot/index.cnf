@@ -1,11 +1,13 @@
 [main]
-tftp = /tftpboot
-;firmware = /tftpboot/firmware
-;settings = /tftpboot/settings
-;wallpapers = /tftpboot/wallpapers
-;ringtones = /tftpboot/ringtones
-;locales = /tftpboot/locales
-;countries = /tftpboot/locales/countries
-;languages = /tftpboot/locales/languages
-;deflanguages = /tftpboot/locales/languages/English_United_States
-;debug = on ; The output in the browser window for more information
+debug = on ; The output in the browser window for more information
+
+tftproot = /tftpboot
+
+;firmware = firmware
+;settings = settings
+;wallpapers = wallpapers
+;ringtones = ringtones
+;locales = locales
+;countries = locales/countries
+;languages = locales/languages
+;default_language = English_United_States
