@@ -5,8 +5,8 @@ Image = Thumbnail (size 123x111x12 color png format) ??
 URL = Backgroup (size 640x480x24 color png format)
 
 Example:
-	<ImageItem Image="TFTP:wallpapers/640x480x24/TN-Fountain.png" URL="TFTP:wallpapers/640x480x24/Fountain.png"/> 
-	<ImageItem Image="TFTP:wallpapers/640x480x24/TN-FullMoon.png" URL="TFTP:wallpapers/640x480x24/FullMoon.png"/> 
+	<ImageItem Image="TFTP:/desktops/640x480x24/TN-Fountain.png" URL="TFTP:/desktops/640x480x24/Fountain.png"/> 
+	<ImageItem Image="TFTP:/desktops/640x480x24/TN-FullMoon.png" URL="TFTP:/desktops/640x480x24/FullMoon.png"/> 
 -->
-	<ImageItem Image="TFTP:wallpapers/640x480x24/Chan-SCCP-b_thumb.png" URL="TFTP:wallpapers/640x480x24/Chan-SCCP-b.png"/>
+	<ImageItem Image="TFTP:/desktops/640x480x24/Chan-SCCP-b_thumb.png" URL="TFTP:/desktops/640x480x24/Chan-SCCP-b.png"/>
 </CiscoIPPhoneImageList>
