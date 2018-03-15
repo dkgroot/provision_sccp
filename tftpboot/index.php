@@ -3,35 +3,34 @@
 // Written by Alex / github.com/PhantomVI
 //
 
-//Setup should be moved to ini/json file
-// --  tftpboot  path 
+$base_path = realpath($_SERVER['DOCUMENT_ROOT']);
+$base_config = Array(
+    'debug' => 1,
+    'tftproot' => $base_path,
+    'default_language' => 'English_United_States',
+    'firmware' => 'firmware', 'settings' => 'settings', 'wallpapers' => 'wallpapers', 'ringtones' => 'ringtones',
+    'locales' => 'locales', 'countries' => 'countries', 'languages' => 'languages'
+);
 
+# Merge config
 $ini_array = parse_ini_file('index.cnf');
 if (!empty($ini_array)) {
-    foreach ($ini_array as $key => $value) {
-        $config[$key] = $value;
-    }
+    $config = array_merge($base_config, $ini_array);
 }
 
-if (empty($config['firmware'])) 	{ $config['firmware'] = 'firmware';}
-if (empty($config['settings'])) 	{$config['settings'] = 'settings';}
-if (empty($config['wallpapers'])) 	{$config['wallpapers'] = 'wallpapers';}
-if (empty($config['ringtones'])) 	{$config['ringtones'] = 'ringtones';}
-if (empty($config['locales'])) 		{$config['locales'] = 'locales';}
-if (empty($config['countries'])) 	{$config['countries'] = 'countries';}
-if (empty($config['languages'])) 	{$config['languages'] = 'languages';}
-if (empty($config['default_language']))	{$config['default_language'] = $config['languages']. 'English_United_States';}
+#$config['tftproot'] = (!empty($config['tftproot'])) ? $config['tftproot'] : '/tftpboot';
 
-$config['tftproot'] = (!empty($config['tftproot'])) ? $config['tftproot'] : '/tftpboot';
+# Fixup debug
 $print_debug = (!empty($config['debug'])) ? $config['debug'] : 'off';
 $print_debug = ($print_debug == 1) ? 'on' : $print_debug;
 
+# Parse request
 $request = $_REQUEST;
 $req_file = !empty($request['id']) ? $request['id'] : '';
 
-// --  TFTPD - structure 
-//$fw_suffix = array('bin', 'loads', 'sbn', 'sb2', 'sbin', 'zz', 'zup');
+# directory content extensions map
 $fw_suffix = array('.bin', '.loads', '.sbn', '.sb2', '.sbin', '.zz', '.zup');
+
 //$settings_suffix = array('cnf.xml');
 
 $ringtones_list = array('distinctive.xml', 'ringlist.xml');
@@ -39,6 +38,7 @@ $ringtones_list = array('distinctive.xml', 'ringlist.xml');
 $locale_list = array('-dictionary.', 'dictionary-ext.', '-dictionary.utf-8.', '-kate.xml', '-font.xml', '-font.dat','-tones.xml',
                      'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml');
 
+# Show debug output
 if ($print_debug == 'on') {
     print_r("<br> Config:<pre>");
     print_r($config);
@@ -48,6 +48,7 @@ if ($print_debug == 'on') {
     print("</pre>");
 }
 
+# Start parsing the request
 $req_file_full_path = '' ;
 
 if (!empty($req_file)) {
