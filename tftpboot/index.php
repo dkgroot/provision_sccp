@@ -37,8 +37,12 @@ if (empty($path['languages'])) {$path['languages'] = $path['tftp']. '/locales/la
 if (empty($path['deflanguages'])) {$path['deflanguages'] = $path['languages']. '/English_United_States';}
 $locale_list = array('-dictionary.', 'dictionary-ext.', '-dictionary.utf-8.', '-kate.xml', '-font.xml', '-font.dat','-tones.xml',
                      'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml');
-
-print_r($path);
+if ($print_debug == 'on') {
+    print_r('<br> Init Pach: <br>');
+    print_r($path);
+    print_r('<br> Request: <br>');
+    print_r($request);
+}
 $req_file_full_path = '' ;
 
 if (!empty($req_file)) {
