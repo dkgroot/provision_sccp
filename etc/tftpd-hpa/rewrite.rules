@@ -163,19 +163,25 @@ ri ^(SCCP894x)(.+\.loads)$ firmware/894x/\1\2
 # ata186/ata188 firmware (ancient)
 ri ^(ATA030204SCCP090202A.zup)$ firmware/ata186/\1
 
-
 # Sub-Directory Handling
+
+# settings
+ri ^(.+\.cnf.xml)$ settings/\1
+ri ^\/(.+\-cnf.xml)$ settings/\1
+ri ^\/(SPA504G-cfg.xml)$ settings/\1
 
 # Keep firmware in a separate directory (optional)
 #ri ^(.+\.loads)$ firmware/\1
 #ri ^(.+\.sbn)$ firmware/\1
 
 # Keep locales in a separate directory (optional)
-ri ^(.+)/(.+-sip.jar)$ locales/\1/\2
-ri ^(.+)/(.+-tones.xml)$ locales/\1/\2
+ri ^(.+)/(.+-sccp.jar)$ locales/languages/\1/\2
+ri ^(.+)/(.+-dictionary.xml)$ locales/languages/\1/\2
+ri ^(.+)/(.+-tones.xml)$ locales/countries/\1/\2
 
 # Keep ring-tones in a separate directory (optional)
-ri ^(Ringlist)(\.xml|-wb\.xml)(\.sgn)?$ ringtones/\1\2\3
+ri ^([R|r]ing[L|l]ist)(\.xml|-wb\.xml)(\.sgn)?$ ringtones/ringlist.xml
+ri ^(Distinctive[R|r]ing[L|l]ist)(\.xml|-wb\.xml)(\.sgn)?$ ringtones/ringlist.xml
 ri ^(.+)(\.raw|\.rwb)(\.sgn)?$ ringtones/\1\2\3
 
 # Rename Desktops to wallpapers (optional)
