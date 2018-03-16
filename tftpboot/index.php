@@ -11,6 +11,9 @@ $base_config = Array(
     'firmware' => 'firmware', 'settings' => 'settings', 'wallpapers' => 'wallpapers', 'ringtones' => 'ringtones',
     'locales' => 'locales', 'countries' => 'countries', 'languages' => 'languages'
 );
+$base_tree = Array('settings' => 'tftproot', 'wallpapers' => 'tftproot', 'ringtones'=>'tftproot',
+                   'locales' => 'tftproot',  'firmware' => 'tftproot', 'languages' => 'locales', 
+                   'countries' => 'locales', 'default_language' => 'locales');
 
 # Merge config
 $ini_array = parse_ini_file('index.cnf');
@@ -18,6 +21,14 @@ if (!empty($ini_array)) {
     $config = array_merge($base_config, $ini_array);
 }
 
+foreach ($base_tree as $key => $value) {
+     if (!empty($config[$key])) {
+        if (substr($config[$key],0,1) != "/") {
+             $config[$key] = $config[$value].'/'.$config[$key];
+         }
+     }
+}
+ 
 #$config['tftproot'] = (!empty($config['tftproot'])) ? $config['tftproot'] : '/tftpboot';
 
 # Fixup debug
@@ -87,37 +98,37 @@ if (!empty($req_file)) {
 
             //if (strpos_array($req_file_name, $settings_suffix, 'any') !==  FALSE) { 	// Request Settings
             if (strpos(strtolower($req_file_name), '.cnf.xml') !==  FALSE) {		// Request Settings
-                $tmp_file = $config['tftproot'].'/'.$config['settings'].'/'.$req_file_name;
+                $tmp_file = $config['settings'].'/'.$req_file_name;
             }
             else if (strpos(strtolower($req_file), '/desktops/') !== FALSE) { 		// Request Wallpapers
-                $tmp_file = $config['tftproot'].'/'.$config['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
+                $tmp_file = $config['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
             }
             else if (strpos_array($ringtones_list, $req_file_name, 'any') !== FALSE) {	// Request RingTones
-                $tmp_file = $config['tftproot'].'/'.$config['ringtones'].'/ringlist.xml';
+                $tmp_file = $config['ringtones'].'/ringlist.xml';
             } 
             else if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 		// Request Languages
                 if (!empty($req_data_ar[$req_data_len-1])) {
-                    $tmp_file = $config['tftproot'].'/'.$config['locales'].'/'.$config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
+                    $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
                 } else {
-                    $tmp_file = $config['tftproot'].'/'.$config['locales'].'/'.$config['languages'].'/'.$config['default_language'].'/'. $req_file_name;
+                    $tmp_file = $config['default_language'].'/'. $req_file_name;
                 }
             }
             
 /*
             else if (strpos(strtolower($req_file), '-tones.xml') !== FALSE) { 		// Request Countries
-                $tmp_file = $config['tftproot'].'/'.$config['locales'].'/'.$config['countries'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['countries'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
  
             else if (strpos(strtolower($req_file), '-dictionary.') !== FALSE) { 		// Request Countries
-                $tmp_file = $config['tftproot'].'/'.$config['locales'].'/'.$config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 
             else if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 		// Request Languages
-                $tmp_file = $config['tftproot'].'/'.$config['locales'].'/'.$config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 
             else if (strpos(strtolower($req_file), '-dictionary.jar') !== FALSE) { 	// Request Countries
-                $tmp_file = $config['tftproot'].'/'.$config['locales'].'/'.$config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 */
             if ($print_debug == 'on'){ print_r('<br>File : '. $req_file_name. ' not found.<br>');}
