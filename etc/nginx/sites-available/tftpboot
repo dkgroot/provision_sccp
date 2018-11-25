@@ -16,7 +16,7 @@ server {
 
 	location / {
 		# settings
-		rewrite ^/((.*)(\.cnf\.xml|\.tlv)(\.enc)?(\.sgn)?)$ /settings/$1 last;
+		rewrite ^/((.*)(\.cnf\.xml|\.tlv|authorized_keys)(\.enc)?(\.sgn)?)$ /settings/$1 last;
 
 		# firmware
 		rewrite	^/((.*).(bin|bin.|loads|LOADS|sbn|SBN|sb2|sbin|zz|zup)(\.sgn)?)$ /firmware/$1 last;
