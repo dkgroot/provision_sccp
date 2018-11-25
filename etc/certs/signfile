@@ -1,0 +1,6 @@
+#!/bin/bash
+
+if [ $# -gt 0 ]; then
+#  Sign SEPMAC.cnf.xml
+../../tools/certutils/sgnfile -b ../../tftpboot/settings/$1 -c tftp.pem
+fi

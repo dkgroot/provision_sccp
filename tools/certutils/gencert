@@ -1,0 +1,234 @@
+#!/bin/bash
+#
+# Copyright (c) 2017 Gareth Palmer <gareth.palmer3@gmail.com>
+# This program is free software, distributed under the terms of
+# the GNU General Public License Version 2.
+
+OPTIONS=$(getopt -n ${0##*/} -o "C:O:l:s:t:e:b:y:d:o:c:nh" \
+    -l "common:,organization:,locality:,state:,country:,email:,bits:,years:,digest:,output:,cacert:,newca,help" -- "$@")
+
+if test $? -ne 0; then
+    echo "Try \`${0##*/} --help' for more information"
+    exit 1
+fi
+
+eval set -- "$OPTIONS"
+
+COMMON_NAME="" ORGANIZATION="" LOCALITY="" STATE="" COUNTRY="" EMAIL_ADDRESS="" BITS="2048" YEARS="10" DIGEST="sha256" CA_CERT="" OUTPUT_FILE="" NEW_CA=false
+
+while true; do
+    test -n "$1" || break
+
+    case "$1" in
+    -C|--common)
+	COMMON_NAME="$2"
+	shift 2
+	;;
+    -O|--organization)
+	ORGANIZATION="$2"
+	shift 2
+	;;
+    -l|--locality)
+	LOCALITY="$2"
+	shift 2
+	;;
+    -s|--state)
+	STATE="$2"
+	shift 2
+	;;
+    -t|--country)
+	COUNTRY="$2"
+	shift 2
+	;;
+    -e|--email)
+	EMAIL_ADDRESS="$2"
+	shift 2
+	;;
+    -b|--bits)
+	BITS="$2"
+	shift 2
+
+	if [[ ! $BITS =~ ^[0-9]+$ || $BITS -lt 512 || $BITS -gt 4096 ]]; then
+	    echo "Invalid --bits \`$BITS'"
+	    exit 1
+	fi
+	;;
+    -y|--years)
+	YEARS="$2"
+	shift 2
+
+	if [[ ! $YEARS =~ ^[0-9]+$ || $YEARS -lt 1 ]]; then
+	    echo "Invalid --years \`$YEARS'"
+	    exit 1
+	fi
+	;;
+    -d|--digest)
+	DIGEST="${2,,[a-z]}"
+	shift 2
+
+	if [[ $DIGEST != +(sha1|sha256) ]]; then
+	    echo "Invaid --digest \`$DIGEST'"
+	    exit 1
+	fi
+	;;
+    -o|--output)
+	OUTPUT_FILE="$2"
+	shift 2
+	;;
+    -c|--cacert)
+	CA_CERT="$2"
+	shift 2
+
+	if ! test -f "$CA_CERT"; then
+	    echo "CA certificate does not exist"
+	    exit 1
+	fi
+	;;
+    -n|--newca)
+	NEW_CA=true
+	shift 1
+	;;
+    -h|--help)
+	echo "Usage: ${0##*/} [OPTIONS]"
+	echo "Generate and sign X509 certificates"
+	echo ""
+	echo "  -C --common <name>          common name"
+	echo "  -O --organization <name>    organization"
+	echo "  -l --locality <name>        locality"
+	echo "  -s --state <name>           state"
+	echo "  -t --country <name>         country"
+	echo "  -e --email <address>        email address"
+	echo "  -n --bits <size>            RSA key size (default 2048)"
+	echo "  -y --years <number>         number of years to sign the certificate (default 10)"
+	echo "  -d --digest <name>          message digest to use (sha1, sha256)"
+	echo "  -o --output                 output file"
+	echo "  -c --cacert                 CA certificate to use for signing"
+	echo "  -n --newca                  generate a CA certificate instead"
+	echo "  -h --help                   print this help and exit"
+	echo ""
+
+	exit 0
+	;;
+    --)
+	shift 1
+	break
+	;;
+    esac
+done
+
+if test -z "$COMMON_NAME"; then
+    echo "No common name specified"
+    exit 1
+fi
+
+SUBJECT="/commonName=$COMMON_NAME"
+
+if test -n "$ORGANIZATION"; then
+    SUBJECT+="/organizationName=$ORGANIZATION"
+fi
+
+if test -n "$LOCALITY"; then
+    SUBJECT+="/localityName=$LOCALITY"
+fi
+
+if test -n "$STATE"; then
+    SUBJECT+="/stateOrProvinceName=$STATE"
+fi
+
+if test -n "$COUNTRY"; then
+    SUBJECT+="/countryName=$COUNTRY"
+fi
+
+if test -n "$EMAIL_ADDRESS"; then
+    SUBJECT+="/emailAddress=$EMAIL_ADDRESS"
+fi
+
+if test -z "$OUTPUT_FILE"; then
+    OUTPUT_FILE=$(echo "$COMMON_NAME" | sed -e "s/[^A-Za-z0-9\.\-]/_/g").pem
+fi
+
+START_DATE=$(date +"%Y%m%d000000Z")
+END_DATE=$(date -d "now + $YEARS years" +"%Y%m%d000000Z")
+
+TEMP_DIR=$(mktemp -d /tmp/gencert-XXXXXXXX)
+test -n $TEMP_DIR || exit 1
+
+trap "rm -rf $TEMP_DIR" EXIT
+touch $TEMP_DIR/database.txt $TEMP_DIR/database.txt.attr
+
+SERIAL_NUMBER=$(hexdump -n 16 -v -e "1/1 \"%02X\"" /dev/urandom)
+echo "$SERIAL_NUMBER" > $TEMP_DIR/serial.txt
+
+cat > $TEMP_DIR/openssl.cnf <<EOF
+RANDFILE = $TEMP_DIR/.random
+[ca]
+default_ca = ca_default
+[ca_default]
+new_certs_dir = $TEMP_DIR
+database = $TEMP_DIR/database.txt
+serial = $TEMP_DIR/serial.txt
+copy_extensons = none
+email_in_dn = yes
+x509_extensions = ca_extensions
+preserve = no
+unique_subject = no
+policy = policy_default
+[ca_extensions]
+basicConstraints = CA:false
+subjectKeyIdentifier = hash
+keyUsage = Digital Signature, Key Encipherment, Data Encipherment
+extendedKeyUsage = TLS Web Server Authentication, TLS Web Client Authentication
+[policy_default]
+commonName = supplied
+organizationName = optional
+localityName = optional
+stateOrProvinceName = optional
+countryName = optional
+emailAddress = optional
+[req]
+req_extensions = req_extensions
+distinguished_name = policy_default
+[req_extensions]
+basicConstraints = CA:true
+subjectKeyIdentifier = hash
+keyUsage = Digital Signature, Key Encipherment, Data Encipherment, Certificate Sign
+extendedKeyUsage = TLS Web Server Authentication, TLS Web Client Authentication
+EOF
+
+if ! openssl genrsa -out $TEMP_DIR/key.pem $BITS 2> /dev/null; then
+    echo "Error while generating RSA key"
+    exit 1
+fi
+
+if ! openssl req -config $TEMP_DIR/openssl.cnf -new -batch -$DIGEST -key $TEMP_DIR/key.pem -subj "$SUBJECT" \
+     -out $TEMP_DIR/req.pem 2> /dev/null; then
+    echo "Error while creating signing request"
+    exit 1
+fi
+
+if $NEW_CA; then
+    if ! openssl ca -config $TEMP_DIR/openssl.cnf -selfsign -batch -startdate $START_DATE -enddate $END_DATE -md $DIGEST \
+	 -extensions req_extensions -keyfile $TEMP_DIR/key.pem -notext -in $TEMP_DIR/req.pem -out $TEMP_DIR/crt.pem 2> /dev/null; then
+	echo "Error while signing CA certificate"
+	exit 1
+    fi
+
+    cat $TEMP_DIR/key.pem $TEMP_DIR/crt.pem > $OUTPUT_FILE
+    echo "New CA certificate created. Certificate and private-key saved in $OUTPUT_FILE"
+else
+    if test -z "$CA_CERT"; then
+	echo "No CA certificate specified"
+	exit 1
+    fi
+
+    if ! openssl ca -config $TEMP_DIR/openssl.cnf -batch -startdate $START_DATE -enddate $END_DATE -md $DIGEST -extensions ca_extensions \
+	 -keyfile $CA_CERT -cert $CA_CERT -notext -in $TEMP_DIR/req.pem -out $TEMP_DIR/crt.pem 2>/dev/null; then
+	echo "Error while signing certificate"
+	exit 1
+    fi
+
+    cat $TEMP_DIR/key.pem $TEMP_DIR/crt.pem > $OUTPUT_FILE
+    echo "New certificate signed by the CA. Certificate and private-key saved to $OUTPUT_FILE"
+fi
+
+exit 0

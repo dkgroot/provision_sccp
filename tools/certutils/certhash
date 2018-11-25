@@ -1,0 +1,43 @@
+#!/usr/bin/perl
+#
+# Copyright (c) 2017 Gareth Palmer <gareth.palmer3@gmail.com>
+# This program is free software, distributed under the terms of
+# the GNU General Public License Version 2.
+
+use strict;
+use POSIX qw/EXIT_FAILURE EXIT_SUCCESS/;
+use English qw/-no_match_vars/;
+use IO::File;
+use Crypt::OpenSSL::X509 qw/FORMAT_ASN1 FORMAT_PEM/;
+use Digest;
+
+eval {
+    my $certificate_file = shift;
+    die 'No certificate file specified' unless (length $certificate_file);
+
+    my ($file, $content);
+    
+    unless ($file = IO::File->new ($certificate_file, '<:raw')) {
+        die 'Unable to read ' . $certificate_file . ': ' . $OS_ERROR;
+    }
+
+    $content = do {local $INPUT_RECORD_SEPARATOR; $file->getline};
+    $file->close;
+
+    my $x509 = Crypt::OpenSSL::X509->new_from_string ($content, FORMAT_PEM);
+    die 'Unable to load record x509 certificate' unless ($x509);
+    
+    my $digest = Digest->new ('SHA-1');
+
+    $digest->add ($x509->as_string (FORMAT_ASN1));
+    print $digest->b64digest, "\n";
+};
+
+if (length $EVAL_ERROR) {
+    $EVAL_ERROR =~ s/ at \S+ line \d+\.//;
+    warn $EVAL_ERROR;
+
+    exit EXIT_FAILURE;
+}
+
+exit EXIT_SUCCESS;

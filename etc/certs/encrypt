@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ $# -gt 0 ]; then
+	#  Encrypt SEPMAC.cnf.xml
+	openssl enc -aes-256-cbc -salt -in ../../tftpboot/settings/${1} -out ../../tftpboot/settings/${1}.enc -k tftp.pem
+	../../tools/certutils/sgnfile -b ../../tftpboot/settings/${1}.enc -c tftp.pem
+fi

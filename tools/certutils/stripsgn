@@ -1,0 +1,73 @@
+#!/usr/bin/perl
+#
+# Copyright (c) 2017 Gareth Palmer <gareth.palmer3@gmail.com>
+# This program is free software, distributed under the terms of
+# the GNU General Public License Version 2.
+
+use strict;
+use POSIX qw/EXIT_FAILURE EXIT_SUCCESS/;
+use English qw/-no_match_vars/;
+use IO::File qw/SEEK_SET/;
+
+eval {
+    my $sgn_file = shift;
+    die 'No .sgn file specified' unless (length $sgn_file);
+
+    (my $content_file = $sgn_file) =~ s/\.sgn$//;
+
+    my $input_file;
+
+    unless ($input_file = IO::File->new ($sgn_file, '<:raw')) {
+	die 'Unable to read ' .$sgn_file . ' :' . $OS_ERROR;
+    }
+
+    my $content;
+    
+    die 'Unable to read header: ' . $OS_ERROR if ($input_file->read ($content, 10) != 10);
+
+    my ($tag, $length, $index);
+
+    $index = 0;
+
+    ($tag, $length) = unpack ('CS>', substr ($content, $index, 3));
+    $index += 3;
+
+    die 'Not a version tag: ' . $tag if ($tag != 1);
+    die 'Wrong version length: ' . $length if ($length != 2);
+
+    my $version = join ('.', unpack ('CC', substr ($content, $index, $length)));
+    $index += $length;
+
+    ($tag, $length) = unpack ('CS>', substr ($content, $index, 3));
+    $index += 3;
+
+    die 'Not a header_length tag: ' . $tag if ($tag != 2);
+    die 'Wrong header_length length: ' . $length if ($length != 2);
+
+    my $header_length = unpack ('S>', substr ($content, $index, $length));
+    $index += $length;
+
+    die 'Unable to seek: ' . $OS_ERROR unless ($input_file->seek ($header_length, SEEK_SET));
+
+    my $output_file;
+
+    unless ($output_file = IO::File->new ($content_file, '>:raw')) {
+	die 'Unable to write ' . $content_file . ': ' . $OS_ERROR;
+    }
+
+    while ($input_file->read ($content, 4096)) {
+	$output_file->write ($content);
+    }
+   
+    $input_file->close;
+    $output_file->close;
+};
+
+if (length $EVAL_ERROR) {
+    $EVAL_ERROR =~ s/ at \S+ line \d+\.//;
+    warn $EVAL_ERROR;
+
+    exit EXIT_FAILURE;
+}
+
+exit EXIT_SUCCESS;

@@ -1,0 +1,17 @@
+#!/bin/bash
+[ -f CA.pem ] && rm *.pem
+# Create a CA certificate valid for 20 years. This will function as the SAST (System Administrator Security Token) certificate.
+../../tools/certutils/gencert -n -C "Certificate Authority" -b 2048 -y 20 -o CA.pem
+# Create a certificate for Asterisk signed by the CA for 1 year. This will function as the CCM certificate.
+../../tools/certutils/gencert -c CA.pem -C Asterisk -b 2048 -y 1 -o asterisk.pem
+# Create a certificate for TFTP signed by the CA for 1 year. This will function as the TFTP certificate.
+../../tools/certutils/gencert -c CA.pem -C Asterisk -b 2048 -y 1 -o tftp.pem
+# Create a certificate for webserver signed by the CA for 1 year (optional). This will function as an HTTPS certificate.
+../../tools/certutils/gencert -c CA.pem -C WebServer -b 2048 -y 1 -o webserver.pem
+# Create a certificate for VPN signed by the CA for 1 year (optional).
+../../tools/certutils/gencert -c CA.pem -C VPN -b 2048 -y 1 -o vpn.pem
+# Create a certificate for CAPF signed by the CA for 1 year (optional).
+../../tools/certutils/gencert -c CA.pem -C CAPF -b 2048 -y 1 -o capf.pem
+# Create a certificate for TVS signed by the CA for 1 year (optional).
+../../tools/certutils/gencert -c CA.pem -C TVS -b 2048 -y 1 -o tvs.pem
+
