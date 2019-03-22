@@ -23,7 +23,13 @@ server {
 
 		# locales
 		rewrite ^/(.*)/((.*)-tones\.xml(\.sgn)?)$ /locales/countries/$1/$2 last;
-		rewrite ^/(.*)/((.*)(-dictionary\.xml|\.jar)(\.sgn)?)$ /locales/languages/$1/$2 last;
+		rewrite ^/(.*)/((.*)(-dictionary(.*)\.xml)(\.sgn)?)$ /locales/languages/$1/$2 last;
+		rewrite ^/(.*)/((.*)(-kate(.*)\.xml)(\.sgn)?)$ /locales/languages/$1/$2 last;
+		rewrite ^/(.*)/((.*)(-sccp\.jar)(\.sgn)?)$ /locales/languages/$1/$2 last;
+		rewrite ^/(.*)/((.*)(-font\.xml)(\.sgn)?)$ /locales/languages/$1/$2 last;
+		rewrite ^/(.*)/(CIPC_Locale\.(.*))(\.sgn)?)$ /locales/languages/$1/$2 last;
+
+		rewrite ^/(.*)/((.*)(-tones.xml)(\.sgn)?)$ /locales/countries/$1/$2 last;
 
 		# ringtones
 		rewrite ^/([D|d]istinctive)?([R|r]ing[L|l]ist)\.(xml|XML)(\.sgn)?$ /ringtones/ringlist.xml last;
@@ -143,10 +149,10 @@ server {
 		rewrite ^/firmware/(apps37sccp.1-4-5-7.bin)$ /firmware/7937/$1 last;
 
 		# 7940_7960 firmware (ancient)
-		rewrite ^/firmware/(P0030801SR01.bin)$ /firmware/7940_7960/$1 last;
-		rewrite ^/firmware/(P0030801SR01.loads)$ /firmware/7940_7960/$1 last;
-		rewrite ^/firmware/(P0030801SR01.sb2)$ /firmware/7940_7960/$1 last;
-		rewrite ^/firmware/(P0030801SR01.sbn)$ /firmware/7940_7960/$1 last;
+		rewrite ^/firmware/(P0030801SR.+\.bin)$ /firmware/7940_7960/$1 last;
+		rewrite ^/firmware/(P0030801SR.+\.loads)$ /firmware/7940_7960/$1 last;
+		rewrite ^/firmware/(P0030801SR.+\.sb2)$ /firmware/7940_7960/$1 last;
+		rewrite ^/firmware/(P0030801SR.+\.sbn)$ /firmware/7940_7960/$1 last;
 
 		# 7941_7961 firmware (java-based)
 		rewrite ^/firmware/(apps41.+\.sbn)$ /firmware/7941_7961/$1 last;
