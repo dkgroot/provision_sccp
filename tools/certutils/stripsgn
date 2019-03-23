@@ -18,11 +18,11 @@ eval {
     my $input_file;
 
     unless ($input_file = IO::File->new ($sgn_file, '<:raw')) {
-	die 'Unable to read ' .$sgn_file . ' :' . $OS_ERROR;
+        die 'Unable to read ' .$sgn_file . ' :' . $OS_ERROR;
     }
 
     my $content;
-    
+
     die 'Unable to read header: ' . $OS_ERROR if ($input_file->read ($content, 10) != 10);
 
     my ($tag, $length, $index);
@@ -52,13 +52,13 @@ eval {
     my $output_file;
 
     unless ($output_file = IO::File->new ($content_file, '>:raw')) {
-	die 'Unable to write ' . $content_file . ': ' . $OS_ERROR;
+        die 'Unable to write ' . $content_file . ': ' . $OS_ERROR;
     }
 
     while ($input_file->read ($content, 4096)) {
-	$output_file->write ($content);
+        $output_file->write ($content);
     }
-   
+
     $input_file->close;
     $output_file->close;
 };

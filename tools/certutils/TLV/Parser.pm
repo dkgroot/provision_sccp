@@ -17,12 +17,12 @@ sub new {
     croak 'No content' unless (length $content);
 
     my $self = {
-	content        => $content,
-	content_length => length $content,
-	index          => 0,
-	tag            => undef,
-	length         => 0,
-	value          => undef
+        content        => $content,
+        content_length => length $content,
+        index          => 0,
+        tag            => undef,
+        length         => 0,
+        value          => undef
     };
 
     return bless ($self, $class);

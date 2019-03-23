@@ -21,98 +21,98 @@ while true; do
 
     case "$1" in
     -C|--common)
-	COMMON_NAME="$2"
-	shift 2
-	;;
+        COMMON_NAME="$2"
+        shift 2
+        ;;
     -O|--organization)
-	ORGANIZATION="$2"
-	shift 2
-	;;
+        ORGANIZATION="$2"
+        shift 2
+        ;;
     -l|--locality)
-	LOCALITY="$2"
-	shift 2
-	;;
+        LOCALITY="$2"
+        shift 2
+        ;;
     -s|--state)
-	STATE="$2"
-	shift 2
-	;;
+        STATE="$2"
+        shift 2
+        ;;
     -t|--country)
-	COUNTRY="$2"
-	shift 2
-	;;
+        COUNTRY="$2"
+        shift 2
+        ;;
     -e|--email)
-	EMAIL_ADDRESS="$2"
-	shift 2
-	;;
+        EMAIL_ADDRESS="$2"
+        shift 2
+        ;;
     -b|--bits)
-	BITS="$2"
-	shift 2
+        BITS="$2"
+        shift 2
 
-	if [[ ! $BITS =~ ^[0-9]+$ || $BITS -lt 512 || $BITS -gt 4096 ]]; then
-	    echo "Invalid --bits \`$BITS'"
-	    exit 1
-	fi
-	;;
+        if [[ ! $BITS =~ ^[0-9]+$ || $BITS -lt 512 || $BITS -gt 4096 ]]; then
+            echo "Invalid --bits \`$BITS'"
+            exit 1
+        fi
+        ;;
     -y|--years)
-	YEARS="$2"
-	shift 2
+        YEARS="$2"
+        shift 2
 
-	if [[ ! $YEARS =~ ^[0-9]+$ || $YEARS -lt 1 ]]; then
-	    echo "Invalid --years \`$YEARS'"
-	    exit 1
-	fi
-	;;
+        if [[ ! $YEARS =~ ^[0-9]+$ || $YEARS -lt 1 ]]; then
+            echo "Invalid --years \`$YEARS'"
+            exit 1
+        fi
+        ;;
     -d|--digest)
-	DIGEST="${2,,[a-z]}"
-	shift 2
+        DIGEST="${2,,[a-z]}"
+        shift 2
 
-	if [[ $DIGEST != +(sha1|sha256) ]]; then
-	    echo "Invaid --digest \`$DIGEST'"
-	    exit 1
-	fi
-	;;
+        if [[ $DIGEST != +(sha1|sha256) ]]; then
+            echo "Invaid --digest \`$DIGEST'"
+            exit 1
+        fi
+        ;;
     -o|--output)
-	OUTPUT_FILE="$2"
-	shift 2
-	;;
+        OUTPUT_FILE="$2"
+        shift 2
+        ;;
     -c|--cacert)
-	CA_CERT="$2"
-	shift 2
+        CA_CERT="$2"
+        shift 2
 
-	if ! test -f "$CA_CERT"; then
-	    echo "CA certificate does not exist"
-	    exit 1
-	fi
-	;;
+        if ! test -f "$CA_CERT"; then
+            echo "CA certificate does not exist"
+            exit 1
+        fi
+        ;;
     -n|--newca)
-	NEW_CA=true
-	shift 1
-	;;
+        NEW_CA=true
+        shift 1
+        ;;
     -h|--help)
-	echo "Usage: ${0##*/} [OPTIONS]"
-	echo "Generate and sign X509 certificates"
-	echo ""
-	echo "  -C --common <name>          common name"
-	echo "  -O --organization <name>    organization"
-	echo "  -l --locality <name>        locality"
-	echo "  -s --state <name>           state"
-	echo "  -t --country <name>         country"
-	echo "  -e --email <address>        email address"
-	echo "  -n --bits <size>            RSA key size (default 2048)"
-	echo "  -y --years <number>         number of years to sign the certificate (default 10)"
-	echo "  -d --digest <name>          message digest to use (sha1, sha256)"
-	echo "  -o --output                 output file"
-	echo "  -c --cacert                 CA certificate to use for signing"
-	echo "  -n --newca                  generate a CA certificate instead"
-	echo "  -h --help                   print this help and exit"
-	echo ""
+        echo "Usage: ${0##*/} [OPTIONS]"
+        echo "Generate and sign X509 certificates"
+        echo ""
+        echo "  -C --common <name>          common name"
+        echo "  -O --organization <name>    organization"
+        echo "  -l --locality <name>        locality"
+        echo "  -s --state <name>           state"
+        echo "  -t --country <name>         country"
+        echo "  -e --email <address>        email address"
+        echo "  -n --bits <size>            RSA key size (default 2048)"
+        echo "  -y --years <number>         number of years to sign the certificate (default 10)"
+        echo "  -d --digest <name>          message digest to use (sha1, sha256)"
+        echo "  -o --output                 output file"
+        echo "  -c --cacert                 CA certificate to use for signing"
+        echo "  -n --newca                  generate a CA certificate instead"
+        echo "  -h --help                   print this help and exit"
+        echo ""
 
-	exit 0
-	;;
+        exit 0
+        ;;
     --)
-	shift 1
-	break
-	;;
+        shift 1
+        break
+        ;;
     esac
 done
 
@@ -208,23 +208,23 @@ fi
 
 if $NEW_CA; then
     if ! openssl ca -config $TEMP_DIR/openssl.cnf -selfsign -batch -startdate $START_DATE -enddate $END_DATE -md $DIGEST \
-	 -extensions req_extensions -keyfile $TEMP_DIR/key.pem -notext -in $TEMP_DIR/req.pem -out $TEMP_DIR/crt.pem 2> /dev/null; then
-	echo "Error while signing CA certificate"
-	exit 1
+         -extensions req_extensions -keyfile $TEMP_DIR/key.pem -notext -in $TEMP_DIR/req.pem -out $TEMP_DIR/crt.pem 2> /dev/null; then
+        echo "Error while signing CA certificate"
+        exit 1
     fi
 
     cat $TEMP_DIR/key.pem $TEMP_DIR/crt.pem > $OUTPUT_FILE
     echo "New CA certificate created. Certificate and private-key saved in $OUTPUT_FILE"
 else
     if test -z "$CA_CERT"; then
-	echo "No CA certificate specified"
-	exit 1
+        echo "No CA certificate specified"
+        exit 1
     fi
 
     if ! openssl ca -config $TEMP_DIR/openssl.cnf -batch -startdate $START_DATE -enddate $END_DATE -md $DIGEST -extensions ca_extensions \
-	 -keyfile $CA_CERT -cert $CA_CERT -notext -in $TEMP_DIR/req.pem -out $TEMP_DIR/crt.pem 2>/dev/null; then
-	echo "Error while signing certificate"
-	exit 1
+         -keyfile $CA_CERT -cert $CA_CERT -notext -in $TEMP_DIR/req.pem -out $TEMP_DIR/crt.pem 2>/dev/null; then
+        echo "Error while signing certificate"
+        exit 1
     fi
 
     cat $TEMP_DIR/key.pem $TEMP_DIR/crt.pem > $OUTPUT_FILE

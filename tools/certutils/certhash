@@ -30,7 +30,14 @@ eval {
     my $digest = Digest->new ('SHA-1');
 
     $digest->add ($x509->as_string (FORMAT_ASN1));
-    print $digest->b64digest, "\n";
+    $content = $digest->b64digest;
+
+    # Digest must be padded to a 4 byte length
+    while (length ($content) % 4) {
+        $content .= '=';
+    }
+
+    print $content, "\n";
 };
 
 if (length $EVAL_ERROR) {

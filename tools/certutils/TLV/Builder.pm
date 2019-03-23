@@ -12,8 +12,8 @@ sub new {
     my $class = shift;
 
     my $self = {
-	content => undef,
-	index   => 0
+        content => undef,
+        index   => 0
     };
 
     return bless ($self, $class);

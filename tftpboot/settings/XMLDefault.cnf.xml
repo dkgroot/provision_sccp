@@ -23,11 +23,11 @@
         <member priority="0">
           <callManager>
             <name>moviebox</name>
-            <ipv6Addr>2001:471:2f25:3ce::466</ipv6Addr>
+            <ipv6Addr>2001:471:2f25:3ce::3</ipv6Addr>
             <ports>
               <ethernetPhonePort>2000</ethernetPhonePort>
             </ports>
-            <processNodeName>192.168.0.3</processNodeName>
+            <processNodeName>192.168.187.3</processNodeName>
           </callManager>
         </member>
         <member priority="1">
@@ -35,7 +35,7 @@
             <ports>
               <ethernetPhonePort>2000</ethernetPhonePort>
             </ports>
-            <processNodeName>192.168.0.2</processNodeName>
+            <processNodeName>192.168.187.3</processNodeName>
           </callManager>
         </member>
       </members>
@@ -68,6 +68,7 @@
   <loadInformation00436 model="Cisco IP Phone 7965">SCCP45.9-3-1SR1-1S</loadInformation00436>
   <loadInformation00437 model="Cisco IP Phone 7975">SCCP75.9-4-2SR3-1S</loadInformation00437>
   <loadInformation00495 model="Cisco IP Phone 6921">SCCP69xx.9-4-1-3SR3</loadInformation00495>
+  <!--<loadInformation00495 model="Cisco IP Phone 6921">SCCP69xx.9-3-1-3</loadInformation00495>-->
   <loadInformation00496 model="Cisco IP Phone 6941">SCCP69xx.9-3-1-3</loadInformation00496>
   <loadInformation00497 model="Cisco IP Phone 6961">SCCP69xx.9-3-1-3</loadInformation00497>
   <loadInformation00547 model="Cisco IP Phone 6901">SCCP6901.9-2-1-a</loadInformation00547>
@@ -113,9 +114,9 @@
   </commonProfile>
 
   <vendorConfig>
-    <logServer>192.168.0.3</logServer>
-    <syslogServer>192.168.0.3</syslogServer>
-    <debugServer>192.168.0.3</debugServer>
+    <logServer>192.168.178.3</logServer>
+    <syslogServer>192.168.178.3</syslogServer>
+    <debugServer>192.168.178.3</debugServer>
     <debugLevel>3</debugLevel>
     <disableSpeaker>false</disableSpeaker>
     <disableSpeakerAndHeadset>false</disableSpeakerAndHeadset>
@@ -223,12 +224,12 @@
   <userId>9999</userId>
   
   <!-- Begin URL's -->
-  <idleURL>http://192.168.0.3/idle.php</idleURL>
-  <authenticationURL>http://192.168.0.3/authenticate.php</authenticationURL>
-  <informationURL>http://192.168.0.3/cisco_menu/help/help.php</informationURL>
+  <idleURL>http://192.168.178.3/idle.php</idleURL>
+  <authenticationURL>http://192.168.178.3/authenticate.php</authenticationURL>
+  <informationURL>http://192.168.178.3/cisco_menu/help/help.php</informationURL>
   <messagesURL/>
   <proxyServerURL/>
-  <servicesURL>http://192.168.0.3/tests.xml</servicesURL>
-  <directoryURL>http://192.168.0.3/cisco_menu/directory/menu.php</directoryURL>
+  <servicesURL>http://192.168.178.3/tests.xml</servicesURL>
+  <directoryURL>http://192.168.178.3/cisco_menu/directory/menu.php</directoryURL>
   <!-- End URL's -->
 </Default>

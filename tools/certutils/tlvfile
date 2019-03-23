@@ -26,7 +26,7 @@ sub parse_tlv {
     my ($file, $content);
 
     unless ($file = IO::File->new ($tlv_file, '<:raw')) {
-	die 'Unable to read ' . $tlv_file . ': ' . $OS_ERROR;
+        die 'Unable to read ' . $tlv_file . ': ' . $OS_ERROR;
     }
 
     $content = do {local $INPUT_RECORD_SEPARATOR; $file->getline};
@@ -46,91 +46,91 @@ sub parse_tlv {
     my $header_length = unpack ('S>', $parser->next_value);
 
     print 'Version:                  ', $version, "\n",
-	  'Header Length:            ', $header_length, ' bytes', "\n";
+          'Header Length:            ', $header_length, ' bytes', "\n";
 
     my ($header_serial_number, $header_digest_algorithm, $header_signature_index, $header_signature_length);
 
     while ($parser->index < $header_length) {
-	$parser->next_tag;
-	next if ($parser->tag == HEADER_PADDING);
-	$parser->next_length;
+        $parser->next_tag;
+        next if ($parser->tag == HEADER_PADDING);
+        $parser->next_length;
 
-	if ($parser->tag == HEADER_SIGNER_ID) {
-	    my $signer_id = $parser->length;
+        if ($parser->tag == HEADER_SIGNER_ID) {
+            my $signer_id = $parser->length;
 
-	    print 'Signer ID:                ', $signer_id, "\n";
-	} elsif ($parser->tag == HEADER_SIGNER_NAME) {
-	    my $signer_name = unpack ('Z*', $parser->next_value);
+            print 'Signer ID:                ', $signer_id, "\n";
+        } elsif ($parser->tag == HEADER_SIGNER_NAME) {
+            my $signer_name = unpack ('Z*', $parser->next_value);
 
-	    print 'Signer Name:              ', $signer_name, "\n";
-	} elsif ($parser->tag == HEADER_SERIAL_NUMBER) {
-	    my $serial_number = uc unpack ('H*', $parser->next_value);
+            print 'Signer Name:              ', $signer_name, "\n";
+        } elsif ($parser->tag == HEADER_SERIAL_NUMBER) {
+            my $serial_number = uc unpack ('H*', $parser->next_value);
 
-	    # Used to locate the signing certificate record
-	    $header_serial_number = $serial_number;
+            # Used to locate the signing certificate record
+            $header_serial_number = $serial_number;
 
-	    print 'Serial Number:            ', join (':', $serial_number =~ m/(..)/g), "\n";
-	} elsif ($parser->tag == HEADER_CA_NAME) {
-	    my $ca_name = unpack ('Z*', $parser->next_value);
+            print 'Serial Number:            ', join (':', $serial_number =~ m/(..)/g), "\n";
+        } elsif ($parser->tag == HEADER_CA_NAME) {
+            my $ca_name = unpack ('Z*', $parser->next_value);
 
-	    print 'CA Name:                  ', $ca_name, "\n";
-	} elsif ($parser->tag == HEADER_SIGNATURE_INFO) {
-	    my $signature_info = $parser->length;
+            print 'CA Name:                  ', $ca_name, "\n";
+        } elsif ($parser->tag == HEADER_SIGNATURE_INFO) {
+            my $signature_info = $parser->length;
 
-	    print 'Signature Info:           ', $signature_info, "\n";
-	} elsif ($parser->tag == HEADER_DIGEST_ALGORITHM) {
-	    die 'Invalid digest_algorithm length: ' . $parser->length if ($parser->length != 1);
+            print 'Signature Info:           ', $signature_info, "\n";
+        } elsif ($parser->tag == HEADER_DIGEST_ALGORITHM) {
+            die 'Invalid digest_algorithm length: ' . $parser->length if ($parser->length != 1);
 
-	    my $digest_algorithm = unpack ('C', $parser->next_value);
+            my $digest_algorithm = unpack ('C', $parser->next_value);
 
-	    $header_digest_algorithm = $digest_algorithm;
+            $header_digest_algorithm = $digest_algorithm;
 
-	    print 'Digest Algorithm:         ';
+            print 'Digest Algorithm:         ';
 
-	    if ($digest_algorithm == DIGEST_SHA1) {
-		print 'SHA1';
-	    } elsif ($digest_algorithm == DIGEST_SHA256) {
-		print 'SHA256';
-	    }
+            if ($digest_algorithm == DIGEST_SHA1) {
+                print 'SHA1';
+            } elsif ($digest_algorithm == DIGEST_SHA256) {
+                print 'SHA256';
+            }
 
-	    print "\n";
-	} elsif ($parser->tag == HEADER_SIGNATURE_ALGORITHM_INFO) {
-	    my $signature_algorithm_info = $parser->length;
+            print "\n";
+        } elsif ($parser->tag == HEADER_SIGNATURE_ALGORITHM_INFO) {
+            my $signature_algorithm_info = $parser->length;
 
-	    print 'Signature Algorithm Info: ', $signature_algorithm_info, "\n";
-	} elsif ($parser->tag == HEADER_SIGNATURE_ALGORITHM) {
-	    die 'Invalid signature_algorithm length: ' . $parser->length if ($parser->length != 1);
+            print 'Signature Algorithm Info: ', $signature_algorithm_info, "\n";
+        } elsif ($parser->tag == HEADER_SIGNATURE_ALGORITHM) {
+            die 'Invalid signature_algorithm length: ' . $parser->length if ($parser->length != 1);
 
-	    my $signature_algorithm = unpack ('C', $parser->next_value);
+            my $signature_algorithm = unpack ('C', $parser->next_value);
 
-	    print 'Signature Algorithm:      ', $signature_algorithm, "\n";
-	} elsif ($parser->tag == HEADER_SIGNATURE_MODULUS) {
-	    die 'Invalid signature_modulus length: ' . $parser->length if ($parser->length != 1);
+            print 'Signature Algorithm:      ', $signature_algorithm, "\n";
+        } elsif ($parser->tag == HEADER_SIGNATURE_MODULUS) {
+            die 'Invalid signature_modulus length: ' . $parser->length if ($parser->length != 1);
 
-	    my $signature_modulus = unpack ('C', $parser->next_value);
+            my $signature_modulus = unpack ('C', $parser->next_value);
 
-	    print 'Signature Modulus:        ', $signature_modulus, "\n";
-	} elsif ($parser->tag == HEADER_SIGNATURE) {
-	    my $signature = $parser->next_value;
+            print 'Signature Modulus:        ', $signature_modulus, "\n";
+        } elsif ($parser->tag == HEADER_SIGNATURE) {
+            my $signature = $parser->next_value;
 
-	    # The removal index for the signature 
-	    $header_signature_index  = $parser->index - $parser->length - 3;
-	    $header_signature_length = $parser->length + 3;
+            # The removal index for the signature 
+            $header_signature_index  = $parser->index - $parser->length - 3;
+            $header_signature_length = $parser->length + 3;
 
-	    print 'Signature:                ', length ($signature), ' bytes', "\n";
-	} elsif ($parser->tag == HEADER_FILENAME) {
-	    my $filename = unpack ('Z*', $parser->next_value);
+            print 'Signature:                ', length ($signature), ' bytes', "\n";
+        } elsif ($parser->tag == HEADER_FILENAME) {
+            my $filename = unpack ('Z*', $parser->next_value);
 
-	    print 'Filename:                 ', $filename, "\n";
-	} elsif ($parser->tag == HEADER_TIMESTAMP) {
-	    die 'Invalid timestamp length: ' . $parser->length if ($parser->length != 4);
+            print 'Filename:                 ', $filename, "\n";
+        } elsif ($parser->tag == HEADER_TIMESTAMP) {
+            die 'Invalid timestamp length: ' . $parser->length if ($parser->length != 4);
 
-	    my $timestamp = unpack ('L>', $parser->next_value);
+            my $timestamp = unpack ('L>', $parser->next_value);
 
-	    print 'Timestamp:                ', strftime ('%a, %d %b %Y %H:%M:%S %z', localtime $timestamp), "\n";
-	} else {
-	    die 'Unknown tag: ' . $parser->tag . ' at index: ' . ($parser->index - 3);
-	}
+            print 'Timestamp:                ', strftime ('%a, %d %b %Y %H:%M:%S %z', localtime $timestamp), "\n";
+        } else {
+            die 'Unknown tag: ' . $parser->tag . ' at index: ' . ($parser->index - 3);
+        }
     }
 
     print "\n";
@@ -145,90 +145,84 @@ sub parse_tlv {
     $record_number = 0;
 
     until ($parser->done) {
-	die 'Not a record_length tag: ' . $parser->tag if ($parser->next_tag != RECORD_LENGTH);
-	die 'Wrong record_length length: ' . $parser->length if ($parser->next_length != 2);
+        die 'Not a record_length tag: ' . $parser->tag if ($parser->next_tag != RECORD_LENGTH);
+        die 'Wrong record_length length: ' . $parser->length if ($parser->next_length != 2);
 
-	my $record_length = unpack ('S>', $parser->next_value);
-	my $record_index  = $parser->index - $parser->length - 3;
+        my $record_length = unpack ('S>', $parser->next_value);
+        my $record_index  = $parser->index - $parser->length - 3;
 
-	$record_number++;
+        $record_number++;
 
-	print 'Record Number:            ', $record_number, "\n",
-	      'Record Length:            ', $record_length, ' bytes', "\n";
+        print 'Record Number:            ', $record_number, "\n",
+              'Record Length:            ', $record_length, ' bytes', "\n";
 
-	my ($record_function, $record_serial_number);
+        my ($record_function, $record_serial_number);
 
-	while ($parser->index - $record_index < $record_length) {
-	    $parser->next_tag;
-	    $parser->next_length;
+        while ($parser->index - $record_index < $record_length) {
+            $parser->next_tag;
+            $parser->next_length;
 
-	    if ($parser->tag == RECORD_DNS_NAME) {
-		my $dns_name = unpack ('Z*', $parser->next_value);
+            if ($parser->tag == RECORD_DNS_NAME) {
+                my $dns_name = unpack ('Z*', $parser->next_value);
 
-		print 'DNS Name:                 ', $dns_name, "\n";
-	    } elsif ($parser->tag == RECORD_SUBJECT_NAME) {
-		my $subject_name = unpack ('Z*', $parser->next_value);
+                print 'DNS Name:                 ', $dns_name, "\n";
+            } elsif ($parser->tag == RECORD_SUBJECT_NAME) {
+                my $subject_name = unpack ('Z*', $parser->next_value);
 
-		print 'Subject Name:             ', $subject_name, "\n";
-	    } elsif ($parser->tag == RECORD_FUNCTION) {
-		my $function = unpack ('S>', $parser->next_value);
+                print 'Subject Name:             ', $subject_name, "\n";
+            } elsif ($parser->tag == RECORD_FUNCTION) {
+                my $function = unpack ('S>', $parser->next_value);
 
-		$record_function = $function;
+                $record_function = $function;
 
-		print 'Function:                 ';
+                print 'Function:                 ';
 
-		if ($function == FUNCTION_SAST) {
-		    print 'SAST';
-		} elsif ($function == FUNCTION_CCM) {
-		    print 'CCM';
-		} elsif ($function == FUNCTION_CCM_TFTP) {
-		    print 'CCM+TFTP';
-		} elsif ($function == FUNCTION_TFTP) {
-		    print 'TFTP';
-		} elsif ($function == FUNCTION_CAPF) {
-		    print 'CAPF';
-		} elsif ($function == FUNCTION_SRST) {
-		    print 'SRST';
-		} elsif ($function == FUNCTION_HTTPS) {
-		    print 'HTTPS';
-		} elsif ($function == FUNCTION_TVS) {
-		    print 'TVS';
-		}
+                if ($function == FUNCTION_SAST) {
+                    print 'SAST';
+                } elsif ($function == FUNCTION_CCM) {
+                    print 'CCM';
+                } elsif ($function == FUNCTION_CCM_TFTP) {
+                    print 'CCM+TFTP';
+                } elsif ($function == FUNCTION_TFTP) {
+                    print 'TFTP';
+                } elsif ($function == FUNCTION_HTTPS) {
+                    print 'HTTPS';
+                }
 
-		print "\n";
-	    } elsif ($parser->tag == RECORD_ISSUER_NAME) {
-		my $issuer_name = unpack ('Z*', $parser->next_value);
+                print "\n";
+            } elsif ($parser->tag == RECORD_ISSUER_NAME) {
+                my $issuer_name = unpack ('Z*', $parser->next_value);
 
-		print 'Issuer Name:              ', $issuer_name, "\n";
-	    } elsif ($parser->tag == RECORD_SERIAL_NUMBER) {
-		my $serial_number = uc unpack ('H*', $parser->next_value);
+                print 'Issuer Name:              ', $issuer_name, "\n";
+            } elsif ($parser->tag == RECORD_SERIAL_NUMBER) {
+                my $serial_number = uc unpack ('H*', $parser->next_value);
 
-		$record_serial_number = $serial_number;
+                $record_serial_number = $serial_number;
 
-		print 'Serial Number:            ', join (':', $serial_number =~ m/(..)/g), "\n";
-	    } elsif ($parser->tag == RECORD_PUBLIC_KEY) {
-		my $public_key = $parser->next_value;
+                print 'Serial Number:            ', join (':', $serial_number =~ m/(..)/g), "\n";
+            } elsif ($parser->tag == RECORD_PUBLIC_KEY) {
+                my $public_key = $parser->next_value;
 
-		print 'Public Key:               ', length ($public_key), ' bytes', "\n";
-	    } elsif ($parser->tag == RECORD_SIGNATURE) {
-		my $signature = $parser->next_value;
+                print 'Public Key:               ', length ($public_key), ' bytes', "\n";
+            } elsif ($parser->tag == RECORD_SIGNATURE) {
+                my $signature = $parser->next_value;
 
-		print 'Signature:                ', length ($signature), ' bytes', "\n";
-	    } elsif ($parser->tag == RECORD_CERTIFICATE) {
-		my $certificate = $parser->next_value;
+                print 'Signature:                ', length ($signature), ' bytes', "\n";
+            } elsif ($parser->tag == RECORD_CERTIFICATE) {
+                my $certificate = $parser->next_value;
 
-		# Records that have the same serial number as the header and SAST function are used for signing
-		if ($record_serial_number eq $header_serial_number && defined ($record_function) && $record_function == FUNCTION_SAST) {
-		    $record_certificate = $certificate;
-		}
+                # Records that have the same serial number as the header and SAST function are used for signing
+                if ($record_serial_number eq $header_serial_number && defined ($record_function) && $record_function == FUNCTION_SAST) {
+                    $record_certificate = $certificate;
+                }
 
-		print 'Certificate:              ', length ($certificate), ' bytes', "\n";
-	    } else {
-		die 'Invalid record tag: ' . $parser->tag . ' at index: ' . ($parser->index - 3);
-	    }
-	}
+                print 'Certificate:              ', length ($certificate), ' bytes', "\n";
+            } else {
+                die 'Invalid record tag: ' . $parser->tag . ' at index: ' . ($parser->index - 3);
+            }
+        }
 
-	print "\n";
+        print "\n";
     }
 
     die 'No record certificate' unless (length $record_certificate);
@@ -240,11 +234,11 @@ sub parse_tlv {
     die 'Unable to parse RSA public key' unless ($rsa);
 
     if ($header_digest_algorithm == DIGEST_SHA1) {
-	$rsa->use_sha1_hash;
+        $rsa->use_sha1_hash;
     } elsif ($header_digest_algorithm == DIGEST_SHA256) {
-	$rsa->use_sha256_hash;
+        $rsa->use_sha256_hash;
     } else {
-	die 'Unknown header_digest_algorithm: ' . $header_digest_algorithm;
+        die 'Unknown header_digest_algorithm: ' . $header_digest_algorithm;
     }
 
     $content = $parser->content;
@@ -254,9 +248,9 @@ sub parse_tlv {
     substr ($content, $header_signature_index, $header_signature_length, '');
 
     if ($rsa->verify ($content, $signature)) {
-	print 'Valid signature', "\n";
+        print 'Valid signature', "\n";
     } else {
-	print 'Invalid signature', "\n";
+        print 'Invalid signature', "\n";
     }
 }
 
@@ -275,7 +269,7 @@ sub build_tlv {
     my ($file, $content);
 
     unless ($file = IO::File->new ($certificate_file, '<:raw')) {
-	die 'Unable to read ' . $certificate_file . ': ' . $OS_ERROR;
+        die 'Unable to read ' . $certificate_file . ': ' . $OS_ERROR;
     }
 
     $content = do {local $INPUT_RECORD_SEPARATOR; $file->getline};
@@ -288,207 +282,201 @@ sub build_tlv {
     die 'Unable to load header private key' unless ($rsa);
 
     if ($digest_algorithm eq 'SHA1') {
-	$rsa->use_sha1_hash;
+        $rsa->use_sha1_hash;
     } elsif ($digest_algorithm eq 'SHA256') {
-	$rsa->use_sha256_hash;
+        $rsa->use_sha256_hash;
     } else {
-	die 'Unknown digest_algorithm: ' . $digest_algorithm;
+        die 'Unknown digest_algorithm: ' . $digest_algorithm;
     }
 
     my $builder = TLV::Builder->new;
     my $header_signature_index;
 
     do {
-	# Header
-	$builder->next_tag (HEADER_VERSION);
-	$builder->next_length (2);
-	$builder->next_value (pack ('CC', 1, 2));
+        # Header
+        $builder->next_tag (HEADER_VERSION);
+        $builder->next_length (2);
+        $builder->next_value (pack ('CC', 1, 2));
 
-	$builder->next_tag (HEADER_LENGTH);
-	$builder->next_length (2);
-	$builder->next_value (pack ('S>', 0));
+        $builder->next_tag (HEADER_LENGTH);
+        $builder->next_length (2);
+        $builder->next_value (pack ('S>', 0));
 
-	(my $signer_name = $x509->subject) =~ s/, /;/g;
-	(my $ca_name = $x509->issuer) =~ s/, /;/g;
-	my $serial_number = pack ('H*', $x509->serial);
+        (my $signer_name = $x509->subject) =~ s/, /;/g;
+        (my $ca_name = $x509->issuer) =~ s/, /;/g;
+        my $serial_number = pack ('H*', $x509->serial);
 
-	# Combined TLV length for signer_name, serial_number and ca_name
-	my $signer_id = 3 + length ($signer_name) + 1 + 3 + length ($serial_number) + 3 + length ($ca_name) + 1;
+        # Combined TLV length for signer_name, serial_number and ca_name
+        my $signer_id = 3 + length ($signer_name) + 1 + 3 + length ($serial_number) + 3 + length ($ca_name) + 1;
 
-	$builder->next_tag (HEADER_SIGNER_ID);
-	$builder->next_length ($signer_id);
+        $builder->next_tag (HEADER_SIGNER_ID);
+        $builder->next_length ($signer_id);
 
-	$builder->next_tag (HEADER_SIGNER_NAME);
-	$builder->next_length (length ($signer_name) + 1);
-	$builder->next_value (pack ('Z*', $signer_name));
+        $builder->next_tag (HEADER_SIGNER_NAME);
+        $builder->next_length (length ($signer_name) + 1);
+        $builder->next_value (pack ('Z*', $signer_name));
 
-	$builder->next_tag (HEADER_SERIAL_NUMBER);
-	$builder->next_length (length $serial_number);
-	$builder->next_value ($serial_number);
+        $builder->next_tag (HEADER_SERIAL_NUMBER);
+        $builder->next_length (length $serial_number);
+        $builder->next_value ($serial_number);
 
-	$builder->next_tag (HEADER_CA_NAME);
-	$builder->next_length (length ($ca_name) + 1);
-	$builder->next_value (pack ('Z*', $ca_name));
+        $builder->next_tag (HEADER_CA_NAME);
+        $builder->next_length (length ($ca_name) + 1);
+        $builder->next_value (pack ('Z*', $ca_name));
 
-	$builder->next_tag (HEADER_SIGNATURE_INFO);
-	$builder->next_length (15); # Unknown
+        $builder->next_tag (HEADER_SIGNATURE_INFO);
+        $builder->next_length (15); # Unknown
 
-	$builder->next_tag (HEADER_DIGEST_ALGORITHM);
-	$builder->next_length (1);
-	$builder->next_value (pack ('C', do {
-	    if ($digest_algorithm eq 'SHA1') {
-		DIGEST_SHA1;
-	    } elsif ($digest_algorithm eq 'SHA256') {
-		DIGEST_SHA256;
-	    } else {
-		die 'Unknown digest algorithm: ' . $digest_algorithm;
-	    }
-	}));
+        $builder->next_tag (HEADER_DIGEST_ALGORITHM);
+        $builder->next_length (1);
+        $builder->next_value (pack ('C', do {
+            if ($digest_algorithm eq 'SHA1') {
+                DIGEST_SHA1;
+            } elsif ($digest_algorithm eq 'SHA256') {
+                DIGEST_SHA256;
+            } else {
+                die 'Unknown digest algorithm: ' . $digest_algorithm;
+            }
+        }));
 
-	$builder->next_tag (HEADER_SIGNATURE_ALGORITHM_INFO);
-	$builder->next_length (8); # Unknown
+        $builder->next_tag (HEADER_SIGNATURE_ALGORITHM_INFO);
+        $builder->next_length (8); # Unknown
 
-	$builder->next_tag (HEADER_SIGNATURE_ALGORITHM);
-	$builder->next_length (1);
-	$builder->next_value (pack ('C', 0)); # Unknown
+        $builder->next_tag (HEADER_SIGNATURE_ALGORITHM);
+        $builder->next_length (1);
+        $builder->next_value (pack ('C', 0)); # Unknown
 
-	my $signature_modulus;
+        my $signature_modulus;
 
-	if ($rsa->size == 64) {
-	    $signature_modulus = 0;
-	} elsif ($rsa->size == 128) {
-	    $signature_modulus = 1;
-	} elsif ($rsa->size == 256) {
-	    $signature_modulus = 2;
-	} elsif ($rsa->size == 512) {
-	    $signature_modulus = 3;
-	} else {
-	    die 'Unsupported RSA key size: ' . $rsa->size;
-	}
+        if ($rsa->size == 64) {
+            $signature_modulus = 0;
+        } elsif ($rsa->size == 128) {
+            $signature_modulus = 1;
+        } elsif ($rsa->size == 256) {
+            $signature_modulus = 2;
+        } elsif ($rsa->size == 512) {
+            $signature_modulus = 3;
+        } else {
+            die 'Unsupported RSA key size: ' . $rsa->size;
+        }
 
-	$builder->next_tag (HEADER_SIGNATURE_MODULUS);
-	$builder->next_length (1);
-	$builder->next_value (pack ('C', $signature_modulus));
+        $builder->next_tag (HEADER_SIGNATURE_MODULUS);
+        $builder->next_length (1);
+        $builder->next_value (pack ('C', $signature_modulus));
 
-	# The insertion index of the signature
-	$header_signature_index = $builder->index;
+        # The insertion index of the signature
+        $header_signature_index = $builder->index;
 
-	$builder->next_tag (HEADER_FILENAME);
-	$builder->next_length (length ($filename) + 1);
-	$builder->next_value (pack ('Z*', $filename));
+        $builder->next_tag (HEADER_FILENAME);
+        $builder->next_length (length ($filename) + 1);
+        $builder->next_value (pack ('Z*', $filename));
 
-	$builder->next_tag (HEADER_TIMESTAMP);
-	$builder->next_length (4);
-	$builder->next_value (pack ('L>', time));
+        $builder->next_tag (HEADER_TIMESTAMP);
+        $builder->next_length (4);
+        $builder->next_value (pack ('L>', time));
 
-	# Header must be padded to 32-bit boundary
-	while (($builder->index + 3 + $rsa->size) % 4) {
-	    $builder->next_tag (HEADER_PADDING);
-	}
+        # Header must be padded to 32-bit boundary
+        while (($builder->index + 3 + $rsa->size) % 4) {
+            $builder->next_tag (HEADER_PADDING);
+        }
 
-	# Signed content includes the length of the signature block
-	$builder->length (8, $builder->index + 3 + $rsa->size);
+        # Signed content includes the length of the signature block
+        $builder->length (8, $builder->index + 3 + $rsa->size);
     };
 
     # Records
     foreach my $record (@{$records}) {
-	my ($certificate_file, $function) = ($record->{certificate_file}, $record->{function});
+        my ($certificate_file, $function) = ($record->{certificate_file}, $record->{function});
 
-	my ($file, $content);
+        my ($file, $content);
 
-	unless ($file = IO::File->new ($certificate_file, '<:raw')) {
-	    die 'Unable to read ' . $certificate_file . ': ' . $OS_ERROR;
-	}
+        unless ($file = IO::File->new ($certificate_file, '<:raw')) {
+            die 'Unable to read ' . $certificate_file . ': ' . $OS_ERROR;
+        }
 
-	$content = do {local $INPUT_RECORD_SEPARATOR; $file->getline};
-	$file->close;
+        $content = do {local $INPUT_RECORD_SEPARATOR; $file->getline};
+        $file->close;
 
-	my $x509 = Crypt::OpenSSL::X509->new_from_string ($content, FORMAT_PEM);
-	die 'Unable to load record certificate' unless ($x509);
+        my $x509 = Crypt::OpenSSL::X509->new_from_string ($content, FORMAT_PEM);
+        die 'Unable to load record certificate' unless ($x509);
 
-	my $record_index = $builder->index;
+        my $record_index = $builder->index;
 
-	$builder->next_tag (RECORD_LENGTH);
-	$builder->next_length (2);
-	$builder->next_value (pack ('S>', 0));
+        $builder->next_tag (RECORD_LENGTH);
+        $builder->next_length (2);
+        $builder->next_value (pack ('S>', 0));
 
-	unless ($function eq 'SAST') {
-	    (my $dns_name) = ($x509->subject =~ m/\bCN=([^,]+)/);
+        unless ($function eq 'SAST') {
+            (my $dns_name) = ($x509->subject =~ m/\bCN=([^,]+)/);
 
-	    # DNS name is included even if empty
-	    $builder->next_tag (RECORD_DNS_NAME);
-	    $builder->next_length (length ($dns_name) + 1);
-	    $builder->next_value (pack ('Z*', $dns_name));
-	}
+            # DNS name is included even if empty
+            $builder->next_tag (RECORD_DNS_NAME);
+            $builder->next_length (length ($dns_name) + 1);
+            $builder->next_value (pack ('Z*', $dns_name));
+        }
 
-	(my $subject_name = $x509->subject) =~ s/, /;/g;
+        (my $subject_name = $x509->subject) =~ s/, /;/g;
 
-	$builder->next_tag (RECORD_SUBJECT_NAME);
-	$builder->next_length (length ($subject_name) + 1);
-	$builder->next_value (pack ('Z*', $subject_name));
+        $builder->next_tag (RECORD_SUBJECT_NAME);
+        $builder->next_length (length ($subject_name) + 1);
+        $builder->next_value (pack ('Z*', $subject_name));
 
-	$builder->next_tag (RECORD_FUNCTION);
-	$builder->next_length (2);
-	$builder->next_value (pack ('S>', do {
-	    if ($function eq 'SAST') {
-		FUNCTION_SAST;
-	    } elsif ($function eq 'CCM') {
-		FUNCTION_CCM;
-	    } elsif ($function eq 'CCM+TFTP') {
-		FUNCTION_CCM_TFTP;
-	    } elsif ($function eq 'TFTP') {
-		FUNCTION_TFTP;
-	    } elsif ($function eq 'CAPF') {
-		FUNCTION_CAPF;
-	    } elsif ($function eq 'SRST') {
-		FUNCTION_SRST;
-	    } elsif ($function eq 'HTTPS') {
-		FUNCTION_HTTPS;
-	    } elsif ($function eq 'TVS') {
-		FUNCTION_TVS;
-	    } else {
-		die 'Unknown record function: ' . $function;
-	    };
-	}));
+        $builder->next_tag (RECORD_FUNCTION);
+        $builder->next_length (2);
+        $builder->next_value (pack ('S>', do {
+            if ($function eq 'SAST') {
+                FUNCTION_SAST;
+            } elsif ($function eq 'CCM') {
+                FUNCTION_CCM;
+            } elsif ($function eq 'CCM+TFTP') {
+                FUNCTION_CCM_TFTP;
+            } elsif ($function eq 'TFTP') {
+                FUNCTION_TFTP;
+            } elsif ($function eq 'HTTPS') {
+                FUNCTION_HTTPS;
+            } else {
+                die 'Unknown record function: ' . $function;
+            };
+        }));
 
-	(my $issuer_name = $x509->issuer) =~ s/, /;/g;
+        (my $issuer_name = $x509->issuer) =~ s/, /;/g;
 
-	$builder->next_tag (RECORD_ISSUER_NAME);
-	$builder->next_length (length ($issuer_name) + 1);
-	$builder->next_value (pack ('Z*', $issuer_name));
+        $builder->next_tag (RECORD_ISSUER_NAME);
+        $builder->next_length (length ($issuer_name) + 1);
+        $builder->next_value (pack ('Z*', $issuer_name));
 
-	my $serial_number = pack ('H*', $x509->serial);
+        my $serial_number = pack ('H*', $x509->serial);
 
-	$builder->next_tag (RECORD_SERIAL_NUMBER);
-	$builder->next_length (length $serial_number);
-	$builder->next_value ($serial_number);
+        $builder->next_tag (RECORD_SERIAL_NUMBER);
+        $builder->next_length (length $serial_number);
+        $builder->next_value ($serial_number);
 
-	my $asn1 = Convert::ASN1->new;
+        my $asn1 = Convert::ASN1->new;
 
-	$asn1->prepare ('SEQUENCE { modulus INTEGER, exponent INTEGER }');
+        $asn1->prepare ('SEQUENCE { modulus INTEGER, exponent INTEGER }');
 
-	my $public_key = $asn1->encode ({modulus  => Math::BigInt->from_hex ($x509->modulus),
-					 exponent => hex $x509->exponent});
+        my $public_key = $asn1->encode ({modulus  => Math::BigInt->from_hex ($x509->modulus),
+                                         exponent => hex $x509->exponent});
 
-	$builder->next_tag (RECORD_PUBLIC_KEY);
-	$builder->next_length (length $public_key);
-	$builder->next_value ($public_key);
+        $builder->next_tag (RECORD_PUBLIC_KEY);
+        $builder->next_length (length $public_key);
+        $builder->next_value ($public_key);
 
-	my $signature = pack ('H*', $x509->sig_print);
+        my $signature = pack ('H*', $x509->sig_print);
 
-	$builder->next_tag (RECORD_SIGNATURE);
-	$builder->next_length (length $signature);
-	$builder->next_value ($signature);
+        $builder->next_tag (RECORD_SIGNATURE);
+        $builder->next_length (length $signature);
+        $builder->next_value ($signature);
 
-	my $certificate = $x509->as_string (FORMAT_ASN1);
+        my $certificate = $x509->as_string (FORMAT_ASN1);
 
-	$builder->next_tag (RECORD_CERTIFICATE);
-	$builder->next_length (length $certificate);
-	$builder->next_value ($certificate);
+        $builder->next_tag (RECORD_CERTIFICATE);
+        $builder->next_length (length $certificate);
+        $builder->next_value ($certificate);
 
-	my $record_length = $builder->index - $record_index;
+        my $record_length = $builder->index - $record_index;
 
-	$builder->length ($record_index + 3, $record_length);
+        $builder->length ($record_index + 3, $record_length);
     };
 
     $content = $builder->content;
@@ -498,7 +486,7 @@ sub build_tlv {
     substr ($content, $header_signature_index, 0, pack ('CS>a*', HEADER_SIGNATURE, $rsa->size, $signature));
 
     unless ($file = IO::File->new ($tlv_file, '>:raw')) {
-	die 'Unable to write ' . $tlv_file . ': ' . $OS_ERROR;
+        die 'Unable to write ' . $tlv_file . ': ' . $OS_ERROR;
     }
 
     $file->print ($content);
@@ -517,46 +505,46 @@ eval {
     $getopt->configure (qw/no_ignore_case/);
 
     unless ($getopt->getoptions ('p|parse'         => sub {shift; $mode = 'parse'},
-				 'b|build'         => sub {shift; $mode = 'build'},
-				 'c|certificate=s' => sub {shift; $certificate_file = shift},
-				 'd|digest=s'      => sub {shift; $digest_algorithm = uc shift},
-				 'r|record=s'      => sub {shift; push (@{$records}, $record = {certificate_file => shift})},
-				 'f|function=s'    => sub {shift; $record->{function} = uc shift if $record},
-				 'F|filename=s'    => sub {shift; $filename  = shift},
-				 'h|help'          => sub {shift; $show_help = shift})) {
-	die 'Error parsing options';
+                                 'b|build'         => sub {shift; $mode = 'build'},
+                                 'c|certificate=s' => sub {shift; $certificate_file = shift},
+                                 'd|digest=s'      => sub {shift; $digest_algorithm = uc shift},
+                                 'r|record=s'      => sub {shift; push (@{$records}, $record = {certificate_file => shift})},
+                                 'f|function=s'    => sub {shift; $record->{function} = uc shift if $record},
+                                 'F|filename=s'    => sub {shift; $filename  = shift},
+                                 'h|help'          => sub {shift; $show_help = shift})) {
+        die 'Error parsing options';
     }
 
     if ($show_help) {
-	print 'Usage: ', basename ($PROGRAM_NAME), ' <FILE> [OPTIONS]', "\n",
-	      'Parse or build a .tlv file', "\n",
-	      "\n",
-	      '  -p --parse                 parse a .tlv file', "\n",
-	      '  -b --build                 build a .tlv file', "\n",
-	      '  -c --certificate <file>    certificate to use for verifying or signing', "\n",
-	      '  -d --digest <name>         signature digest (sha1, sha256)', "\n",
-	      '  -F --filename <name>       header filename in built .tlv file (optional)', "\n",
-	      '  -r --record <file>         additional record certificate', "\n",
-	      '  -f --function <name>       record function (sast, ccm, ccm+tftp tftp, https)', "\n",
-	      '  -h --help                  print this help and exit', "\n",
-	      "\n";
+        print 'Usage: ', basename ($PROGRAM_NAME), ' <FILE> [OPTIONS]', "\n",
+              'Parse or build a .tlv file', "\n",
+              "\n",
+              '  -p --parse                 parse a .tlv file', "\n",
+              '  -b --build                 build a .tlv file', "\n",
+              '  -c --certificate <file>    certificate to use for verifying or signing', "\n",
+              '  -d --digest <name>         signature digest (sha1, sha256)', "\n",
+              '  -F --filename <name>       header filename in built .tlv file (optional)', "\n",
+              '  -r --record <file>         additional record certificate', "\n",
+              '  -f --function <name>       record function (sast, ccm, ccm+tftp tftp, https)', "\n",
+              '  -h --help                  print this help and exit', "\n",
+              "\n";
 
-	return;
+        return;
     }
 
     die 'No .tlv file specified' unless (length ($tlv_file = shift));
 
     if ($mode eq 'parse') {
-	parse_tlv ($tlv_file);
+        parse_tlv ($tlv_file);
     } elsif ($mode eq 'build') {
-	die 'No signing certificate file specified' unless (length $certificate_file);
+        die 'No signing certificate file specified' unless (length $certificate_file);
 
-	$digest_algorithm = 'SHA1' unless (length $digest_algorithm);
-	$filename = basename ($tlv_file) unless (length $filename);
+        $digest_algorithm = 'SHA1' unless (length $digest_algorithm);
+        $filename = basename ($tlv_file) unless (length $filename);
 
-	build_tlv ($tlv_file, $certificate_file, $digest_algorithm, $filename, $records);
+        build_tlv ($tlv_file, $certificate_file, $digest_algorithm, $filename, $records);
     } else {
-	die 'No mode specified';
+        die 'No mode specified, choose either --build, --parse or --help for available options';
     }
 };
 
