@@ -40,7 +40,7 @@ $request = $_REQUEST;
 $req_file = !empty($request['id']) ? $request['id'] : '';
 
 # directory content extensions map
-$fw_suffix = array('.bin', '.loads', '.sbn', '.sb2', '.sbin', '.zz', '.zup');
+$fw_suffix = array('.bin', '.loads', '.sbn', '.sb2', '.sbin', '.zz', '.zup', '.loads');
 
 //$settings_suffix = array('cnf.xml');
 
