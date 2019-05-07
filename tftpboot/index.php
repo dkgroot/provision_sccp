@@ -44,7 +44,8 @@ $fw_suffix = array('.bin', '.loads', '.sbn', '.sb2', '.sbin', '.zz', '.zup', '.l
 
 //$settings_suffix = array('cnf.xml');
 
-$ringtones_list = array('distinctive.xml', 'ringlist.xml');
+$ringtones_list = array('distinctive.xml', 'ringlist.xml','distinctiveringlist.xml');
+$ringtones_suffix = array('.raw', '.pcm', '.rwb');
 
 $locale_list = array('-dictionary.', 'dictionary-ext.', '-dictionary.utf-8.', '-kate.xml', '-font.xml', '-font.dat','-tones.xml',
                      'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml');
@@ -104,8 +105,14 @@ if (!empty($req_file)) {
                 $tmp_file = $config['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
             }
             else if (strpos_array($ringtones_list, $req_file_name, 'any') !== FALSE) {	// Request RingTones
-                $tmp_file = $config['ringtones'].'/ringlist.xml';
+                $tmp_file = $config['ringtones'].'/'.$req_file_name;
+                if (!file_exists($tmp_file)) {
+                    $tmp_file = $config['ringtones'].'/ringlist.xml';
+                }
             } 
+            else if(strpos_array($req_file_name, $ringtones_suffix,'any') !== FALSE) {			// Firmware file was requested
+                $tmp_file = $config['ringtones'].'/'.$req_file_name;
+            }
             else if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 		// Request Languages
                 if (!empty($req_data_ar[$req_data_len-1])) {
                     $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
@@ -131,14 +138,16 @@ if (!empty($req_file)) {
                 $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 */
-            if ($print_debug == 'on'){ print_r('<br>File : '. $req_file_name. ' not found.<br>');}
-                
+            if ($print_debug == 'on'){ print_r('<br>File : '. $orig_req_file_name. ' not found.<br>');}
             if (empty($tmp_file)) { 
+                if (!empty($config['log'])) { to_log(array('GET :'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
                 die('ERROR: no match found.');
             }
             $req_file_full_path = $tmp_file;
         }
     }
+    if (!empty($config['log'])) { to_log(array('GET :'.$orig_req_file_name, 'Remap :'.$req_file_full_path),'i',$config['log']); }
+    
     if (!empty($req_file_full_path)) { 
         if ($signed) {
             $req_file_full_path .= '.sgn';
@@ -148,7 +157,7 @@ if (!empty($req_file)) {
         }
         if ($print_debug == 'on'){ print_r('<br>Returning: '. $req_file_full_path. '<br>');}
         file_force_download($req_file_full_path);
-    }
+    } 
 } 
 
 /*
@@ -218,6 +227,39 @@ function strpos_array($haystack, $needles, $mode='any') {
         }
     }
     return FALSE;
+}
+
+function to_log($text, $level='i', $file) {
+    switch (strtolower($level)) {
+        case 'e':
+        case 'error':
+            $level='ERROR';
+            break;
+        case 'i':
+        case 'info':
+            $level='INFO';
+            break;
+        case 'd':
+        case 'debug':
+            $level='DEBUG';
+            break;
+        default:
+            $level='INFO';
+    }
+    if (is_array($text)) {
+        $to_log = '';
+        foreach ($text as $value) {
+           $to_log .= $value."\t";
+        }
+    } else {
+        $to_log .= $text;
+    }
+    $_txt = date('d.m.Y h:i:s')."\t[".$level."]\t ".$to_log."\n"; 
+    if (empty($file)) {
+        error_log($_txt, 0);
+    } else {
+        error_log($_txt, 3, $file);    
+    }
 }
 
 function find_all_files($dir, $file_mask=null, $mode='full'){
