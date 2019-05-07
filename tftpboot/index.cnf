@@ -10,3 +10,4 @@ ringtones = ringtones
 locales = locales
 countries = countries
 languages = languages
+;log = /tftpboot/provision.log
