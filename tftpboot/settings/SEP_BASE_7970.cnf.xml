@@ -25,17 +25,17 @@
         <member priority="0">
           <callManager>
             <name>asterisk1</name>
-            <ipv6Addr>2001:471:2f25:3ce::466</ipv6Addr>
+            <ipv6Addr>2001:aaa:bbb:ccc::111</ipv6Addr>
             <ports>
               <ethernetPhonePort>2000</ethernetPhonePort>
             </ports>
-            <processNodeName>192.168.0.3</processNodeName>
+            <processNodeName>192.168.1.1</processNodeName>
           </callManager>
         </member>
         <member priority="1">
           <callManager>
             <name>asterisk2</name>
-            <ipv6Addr>2a00:471:2f25:4cd::10</ipv6Addr>
+            <ipv6Addr>2001:aaa:bbb:ccc::112</ipv6Addr>
             <ports>
               <ethernetPhonePort>2000</ethernetPhonePort>
             </ports>
@@ -46,7 +46,7 @@
     </callManagerGroup>
     <srstInfo>
       <srstOption>Disable</srstOption>
-      <ipAddr1>192.168.0.2</ipAddr1>  
+      <ipAddr1>192.168.1.2</ipAddr1>  
       <port1>2000</port1>
       <ipAddr2></ipAddr2>  
       <port2></port2>
@@ -58,7 +58,7 @@
 
   <commonProfile>
     <phonePassword>1234</phonePassword>
-    <defaultBackground>http://192.168.0.2/Chan-SCCP-b.png</defaultBackground>
+    <defaultBackground>http://192.168.1.1/Chan-SCCP-b.png</defaultBackground>
     <backgroundImageAccess>true</backgroundImageAccess>
     <callLogBlfEnabled>3</callLogBlfEnabled>
   </commonProfile>
@@ -77,15 +77,15 @@
     <displayOnWhenIncomingCall>1</displayOnWhenIncomingCall>
     <loggingDisplay>1</loggingDisplay>
     <autoCallSelect>0</autoCallSelect>
-    <logServer>192.168.0.3:9001</logServer>
+    <logServer>192.168.1.1:9001</logServer>
     <enableCdpSwPort>1</enableCdpSwPort>
     <enableCdpPcPort>1</enableCdpPcPort>
     <enableLldpSwPort>1</enableLldpSwPort>
     <enableLldpPcPort>1</enableLldpPcPort>
     <lldpAssetId>Cisco Phone</lldpAssetId>
     <powerPriority>1</powerPriority>
-    <ipv6LoadServer>2001:471:2f25:3ce::466</ipv6LoadServer>
-    <ipv6LogServer>2001:471:2f25:3ce::466:9001</ipv6LogServer>
+    <ipv6LoadServer>2001:aaa:bbb:ccc::111</ipv6LoadServer>
+    <ipv6LogServer>2001:aaa:bbb:ccc::111:9001</ipv6LogServer>
     <detectCMConnectionFailure>0</detectCMConnectionFailure>
     <rtpcontrolprotocol>1</rtpcontrolprotocol>
     <g722CodecSupport>2</g722CodecSupport>
@@ -112,10 +112,10 @@
   <!-- End Locale Information -->
 
   <deviceSecurityMode>1</deviceSecurityMode>
-  <informationURL>http://192.168.0.3/cisco_menu/help/help.php</informationURL>
-  <authenticationURL>http://192.168.0.3/authenticate.php</authenticationURL>
-  <servicesURL>http://192.168.0.3/tests.xml</servicesURL>
-  <directoryURL>http://192.168.0.3/CiscoDirectory/phonebook.php</directoryURL>
+  <informationURL>http://192.168.1.1/cisco_menu/help/help.php</informationURL>
+  <authenticationURL>http://192.168.1.1/authenticate.php</authenticationURL>
+  <servicesURL>http://192.168.1.1/tests.xml</servicesURL>
+  <directoryURL>http://192.168.1.1/CiscoDirectory/phonebook.php</directoryURL>
   <messagesURL/>
   <proxyServerURL/>
   <dscpForSCCPPhoneConfig>96</dscpForSCCPPhoneConfig>
@@ -169,13 +169,13 @@
     </phoneService>
     <phoneService type="0" category="0">
       <name>Tests</name>
-      <url>http://192.168.0.3/tests.xml</url>
+      <url>http://192.168.1.1/tests.xml</url>
       <vendor/>
       <version/>
     </phoneService>
     <phoneService type="0" category="0">
       <name>Corporate Directory</name>
-      <url>http://192.168.0.3/cisco-addressbook/</url>
+      <url>http://192.168.1.1/cisco-addressbook/</url>
       <vendor/>
       <version/>
     </phoneService>
