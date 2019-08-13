@@ -57,6 +57,9 @@ if ($print_debug == 'on') {
     print("</pre>");
     print_r("<br> Request:<br><pre>");
     print_r($request);
+//    print_r("<br> All Files:<br><pre>");
+//    print_r($config['firmware']);
+//    print_r( find_all_files($config['firmware']));
     print("</pre>");
 }
 
@@ -86,7 +89,7 @@ if (!empty($req_file)) {
         $tmp_file = explode('.', $req_file_name);
         
         if (strpos_array($req_file_name, $fw_suffix,'any') !== FALSE) {			// Firmware file was requested
-            $firmware_list = find_all_files($config['tftproot'].'/'.$config['firmware']);
+            $firmware_list = find_all_files($config['firmware']);
             $pos2 = strpos_array($firmware_list, $req_file_name, 'any'); 		// case unsensitive
             if ($pos2 !== FALSE) { 							// Request Firmware 
                 $req_file_full_path = $firmware_list[$pos2];
