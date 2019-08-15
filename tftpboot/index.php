@@ -48,7 +48,8 @@ $ringtones_list = array('distinctive.xml', 'ringlist.xml','distinctiveringlist.x
 $ringtones_suffix = array('.raw', '.pcm', '.rwb');
 
 $locale_list = array('-dictionary.', 'dictionary-ext.', '-dictionary.utf-8.', '-kate.xml', '-font.xml', '-font.dat','-tones.xml',
-                     'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml');
+                     'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml',
+                     'tc-sip.jar', 'td-sipp.jar');
 
 # Show debug output
 if ($print_debug == 'on') {
@@ -57,9 +58,6 @@ if ($print_debug == 'on') {
     print("</pre>");
     print_r("<br> Request:<br><pre>");
     print_r($request);
-//    print_r("<br> All Files:<br><pre>");
-//    print_r($config['firmware']);
-//    print_r( find_all_files($config['firmware']));
     print("</pre>");
 }
 
@@ -144,6 +142,7 @@ if (!empty($req_file)) {
             if ($print_debug == 'on'){ print_r('<br>File : '. $orig_req_file_name. ' not found.<br>');}
             if (empty($tmp_file)) { 
                 if (!empty($config['log'])) { to_log(array('GET :'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
+                header("HTTP/1.0 404 Not Found");
                 die('ERROR: no match found.');
             }
             $req_file_full_path = $tmp_file;
@@ -156,6 +155,7 @@ if (!empty($req_file)) {
             $req_file_full_path .= '.sgn';
         }
         if (!file_exists($req_file_full_path)) { 
+            header("HTTP/1.0 404 Not Found");
             die('Could not find:'. $req_file_full_path);
         }
         if ($print_debug == 'on'){ print_r('<br>Returning: '. $req_file_full_path. '<br>');}
