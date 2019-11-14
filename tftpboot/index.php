@@ -102,7 +102,7 @@ if (!empty($req_file)) {
             if (strpos(strtolower($req_file_name), '.cnf.xml') !==  FALSE) {		// Request Settings
                 $tmp_file = $config['settings'].'/'.$req_file_name;
             }
-            else if (strpos(strtolower($req_file), '/desktops/') !== FALSE) { 		// Request Wallpapers
+            else if (strpos(strtolower($req_file), 'desktops/') !== FALSE) { 		// Request Wallpapers
                 $tmp_file = $config['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
             }
             else if (strpos_array($ringtones_list, $req_file_name, 'any') !== FALSE) {	// Request RingTones
@@ -141,14 +141,14 @@ if (!empty($req_file)) {
 */
             if ($print_debug == 'on'){ print_r('<br>File : '. $orig_req_file_name. ' not found.<br>');}
             if (empty($tmp_file)) { 
-                if (!empty($config['log'])) { to_log(array('GET :'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
+                if (!empty($config['log'])) { to_log(array('GET ('.$req_file.'):'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
                 header("HTTP/1.0 404 Not Found");
                 die('ERROR: no match found.');
             }
             $req_file_full_path = $tmp_file;
         }
     }
-    if (!empty($config['log'])) { to_log(array('GET :'.$orig_req_file_name, 'Remap :'.$req_file_full_path),'i',$config['log']); }
+    if (!empty($config['log'])) { to_log(array('GET ('.$req_file.') :'.$orig_req_file_name, 'Remap :'.$req_file_full_path),'i',$config['log']); }
     
     if (!empty($req_file_full_path)) { 
         if ($signed) {
