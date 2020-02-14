@@ -167,6 +167,12 @@ ri ^(SCCP894x)(.+\.loads)$ firmware/894x/\1\2
 # ata186/ata188 firmware (ancient)
 ri ^(ATA030204SCCP090202A.zup)$ firmware/ata186/\1
 
+# SPA
+ri ^(spa50x)(.+\.bin)$ firmware/spa50x/\1\2
+ri ^(spa51x)(.+\.bin)$ firmware/spa51x/\1\2
+ri ^(spa525)(.+\.bin)$ firmware/spa525/\1\2
+ri ^(spa941)(.+\.bin)$ firmware/spa941/\1\2
+
 # Sub-Directory Handling
 
 # settings
