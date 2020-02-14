@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Russian</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Доменное имя"/>
+<phrase i="204" t="IP-адрес"/>
+<phrase i="205" t="Маска подсети"/>
+<phrase i="212" t="DNS-сервер 1"/>
+<phrase i="213" t="DNS-сервер 2"/>
+<phrase i="225" t="URL каталогов"/>
+<phrase i="226" t="URL сообщений"/>
+<phrase i="227" t="URL служб"/>
+<phrase i="354" t="Принятые вызовы"/>
+<phrase i="355" t="Совершенные вызовы"/>
+<phrase i="364" t="Контраст"/>
+<phrase i="365" t="Сетевая конфигурация"/>
+<phrase i="374" t="Чирп 1"/>
+<phrase i="375" t="Чирп 2"/>
+<phrase i="378" t="Тип рингтона"/>
+<phrase i="384" t="Сообщения о состоянии"/>
+<phrase i="393" t="Сетевая статистика"/>
+<phrase i="473" t="IP-адрес освобожден"/>
+<phrase i="500" t="DHCP-адрес освобожден"/>
+<phrase i="502" t="Удалить конфигурацию"/>
+<phrase i="552" t="URL аутентификации"/>
+<phrase i="585" t="Местные настройки пользователя"/>
+<phrase i="586" t="Местные настройки сети"/>
+<phrase i="635" t="DHCP-сервер"/>
+<phrase i="655" t="Информация о модели"/>
+<phrase i="657" t="Номер модели"/>
+<phrase i="670" t="Рингтон по умолчанию"/>
+<phrase i="676" t="СокрНабор"/>
+<phrase i="716" t="Настройки безопасности"/>
+<phrase i="3000" t="Пропущенные вызовы"/>
+<phrase i="3001" t="Список повторного набора"/>
+<phrase i="3002" t="Громкость рингтона"/>
+<phrase i="3003" t="Громкость динамика"/>
+<phrase i="3004" t="Громкость гарнитуры"/>
+<phrase i="3005" t="Громкость трубки"/>
+<phrase i="3006" t="Контраст дисплея"/>
+<phrase i="3007" t="состояние"/>
+<phrase i="3008" t="Состояние"/>
+<phrase i="3009" t="Клавиша линии 4"/><!-- comment content -->
+<phrase i="3010" t="Клавиша линии 3"/>
+<phrase i="3011" t="Клавиша линии 2"/>
+<phrase i="3012" t="Клавиша линии 1"/>
+<phrase i="3013" t="Доб. 4"/>
+<phrase i="3014" t="Доб. 3"/>
+<phrase i="3015" t="Доб. 2"/>
+<phrase i="3016" t="Доб. 1"/>
+<phrase i="3018" t="НЕ БЕСП"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Местные службы"/>
+<phrase i="3020" t="НовыйВызов"/>
+<phrase i="3021" t="Сигнал вызова"/>
+<phrase i="3022" t="Интерком"/>
+<phrase i="3023" t="ПвтНабор"/><!-- This is a softkey label -->
+<phrase i="3027" t="Перезапуск системы...&#xA;Подождите"/>
+<phrase i="3028" t="Перезагрузка системы...&#xA;Подождите"/>
+<phrase i="3029" t="Восст.исходных настроек...&#xA;Подождите"/>
+<phrase i="3030" t="Подтвердить перезапуск системы?"/>
+<phrase i="3031" t="Подтвердить перезагрузку системы?"/>
+<phrase i="3032" t="Все настройки будут сброшены&#xA;до фабричных настроек.&#xA;Продолжить?"/>
+<phrase i="3033" t="Ошибка пароля. Повторить?"/>
+<phrase i="3034" t="Новый пароль:"/>
+<phrase i="3035" t="Номер голосовой почты:"/>
+<phrase i="3036" t="Смещение(ч:м:с):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Время(ч:м:с):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Дата(м/д/г):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Выход"/><!-- This is a softkey label -->
+<phrase i="3040" t="Вход"/><!-- This is a softkey label -->
+<phrase i="3041" t="Настроить x"/>
+<phrase i="3042" t="Настройка"/>
+<phrase i="3043" t="Сеть"/>
+<phrase i="3044" t="Введите пароль администратора:"/>
+<phrase i="3045" t="Нет"/>
+<phrase i="3046" t="Зад.П-АДР,если нет отв."/>
+<phrase i="3047" t="Н-р П-АДР,если нет отв."/>
+<phrase i="3048" t="Н-р ПЕРЕАДР,если занято"/>
+<phrase i="3049" t="Н-р ПЕРЕАДР всех выз."/>
+<phrase i="3050" t="Адрес рассылки"/>
+<phrase i="3051" t="NTP-сервер 2 не-DHCP"/>
+<phrase i="3052" t="NTP-сервер 1 не-DHCP"/>
+<phrase i="3053" t="DNS 2 не-DHCP"/>
+<phrase i="3054" t="DNS 1 не-DHCP"/>
+<phrase i="3055" t="Маршрут по ум.не-DHCP"/>
+<phrase i="3056" t="Маска подсети не-DHCP"/>
+<phrase i="3057" t="IP-адрес не-DHCP"/>
+<phrase i="3058" t="Включить веб-сервер"/>
+<phrase i="3059" t="Текущий шлюз"/>
+<phrase i="3060" t="Текущая маска сети"/>
+<phrase i="3061" t="Домен"/>
+<phrase i="3062" t="Имя хоста"/>
+<phrase i="3063" t="Текущий IP"/>
+<phrase i="3064" t="Разрешить DHCP"/>
+<phrase i="3065" t="Тип подключения WAN"/>
+<phrase i="3066" t="Формат даты"/>
+<phrase i="3067" t="Формат времени"/>
+<phrase i="3068" t="Перекл.звук на динамик"/>
+<phrase i="3069" t="Пейджинг автоответа"/>
+<phrase i="3070" t="Предпоч.аудио-устр."/>
+<phrase i="3071" t="Помощь при наборе"/>
+<phrase i="3072" t="Защищенный вызов"/>
+<phrase i="3073" t="Не беспокоить"/>
+<phrase i="3074" t="Блокир.неопознан.вызов"/>
+<phrase i="3075" t="Блокировать ID абонента"/>
+<phrase i="3076" t="Серт. клиента"/>
+<phrase i="3077" t="MAC-адрес"/>
+<phrase i="3078" t="Версия оборудования"/>
+<phrase i="3079" t="Версия ПО"/>
+<phrase i="3080" t="Серийный номер"/>
+<phrase i="3081" t="Название продукта"/>
+<phrase i="3082" t="Предпочтительное устройство"/>
+<phrase i="3083" t="Название станции"/>
+<phrase i="3085" t="Состоян.парковки вызова"/>
+<phrase i="3087" t="Установить пароль"/>
+<phrase i="3088" t="Восстановление настроек по умолчанию"/>
+<phrase i="3089" t="Перезапустить"/>
+<phrase i="3090" t="Перезагрузить"/>
+<phrase i="3092" t="Сведения о продукте"/>
+<phrase i="3094" t="Голосовая почта"/>
+<phrase i="3095" t="Время/дата"/>
+<phrase i="3096" t="Переадресация вызова"/>
+<phrase i="3097" t="Настройки"/>
+<phrase i="3099" t="Журнал вызовов"/>
+<phrase i="3100" t="Быстрый набор"/>
+<phrase i="3101" t="Каталог"/>
+<phrase i="3102" t="Ввести номер быстрого набора x"/>
+<phrase i="3104" t="Рингтон 10"/>
+<phrase i="3105" t="Рингтон 9"/>
+<phrase i="3106" t="Рингтон 8"/>
+<phrase i="3107" t="Рингтон 7"/>
+<phrase i="3108" t="Рингтон 6"/>
+<phrase i="3109" t="Рингтон 5"/>
+<phrase i="3110" t="Рингтон 4"/>
+<phrase i="3111" t="Рингтон 3"/>
+<phrase i="3112" t="Рингтон 2"/>
+<phrase i="3113" t="Рингтон 1"/>
+<phrase i="3114" t="Рингтон доб."/>
+<phrase i="3115" t="Доб. 1: "/>
+<phrase i="3116" t="Рингтон"/>
+<phrase i="3117" t="Удалить: "/>
+<phrase i="3118" t="Список пуст"/>
+<phrase i="3119" t="Неверный пароль. Повторить?"/>
+<phrase i="3120" t="Введите пароль:"/>
+<phrase i="3121" t="Парковка выз."/>
+<phrase i="3123" t="Ошибка запроса состояния парковки&#xA;вызова"/>
+<phrase i="3124" t="Парковка — пусто"/>
+<phrase i="3125" t="Запрос состояния&#xA;парковки..."/>
+<phrase i="3126" t="Недействительный номер парковки&#xA;Повторите попытку"/>
+<phrase i="3127" t="Вызывающая станция"/>
+<phrase i="3128" t="Подбор вызова"/>
+<phrase i="3129" t="Какую линию удержать&#xA; для передачи"/>
+<phrase i="3130" t="Какую линию удержать&#xA; для конференции"/>
+<phrase i="3131" t="Набрать *код"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="Надо G729A"/>
+<phrase i="3133" t="Лучше G729A"/>
+<phrase i="3134" t="Надо G726r40"/>
+<phrase i="3135" t="Лучше G726r40"/>
+<phrase i="3136" t="Надо G726r32"/>
+<phrase i="3137" t="Лучше G726r32"/>
+<phrase i="3138" t="Надо G726r24"/>
+<phrase i="3139" t="Лучше G726r24"/>
+<phrase i="3140" t="Надо G726r16"/>
+<phrase i="3141" t="Лучше G726r16"/>
+<phrase i="3142" t="Надо G723"/>
+<phrase i="3143" t="Лучше G723"/>
+<phrase i="3144" t="Надо G711A"/>
+<phrase i="3145" t="Лучше G711A"/>
+<phrase i="3146" t="Надо G711U"/>
+<phrase i="3147" t="Лучше G711U"/>
+<phrase i="3148" t="Пейджинг"/>
+<phrase i="3149" t="Отмена защиты следующего"/>
+<phrase i="3150" t="Защитить следующий"/>
+<phrase i="3151" t="Отмена защиты всех вызовов"/>
+<phrase i="3152" t="Защитить все вызовы"/>
+<phrase i="3153" t="Отмена режима Не беспокоить"/>
+<phrase i="3155" t="Разблокировать неопознанные вызовы"/>
+<phrase i="3157" t="Разблокировать CID следующего"/>
+<phrase i="3158" t="Блокировать CID следующего"/>
+<phrase i="3159" t="Отмена блокировки CID"/>
+<phrase i="3160" t="Блокировать CID"/>
+<phrase i="3161" t="Отмена обратного вызова"/>
+<phrase i="3162" t="Обратный вызов"/>
+<phrase i="3163" t="Отмена переадресации вызова, если нет ответа"/>
+<phrase i="3164" t="Переадресация вызова, если нет ответа"/>
+<phrase i="3165" t="Отмена переадресации вызова, если занято"/>
+<phrase i="3166" t="Переадресация вызова, если занято"/>
+<phrase i="3167" t="Отмена переадресации всех вызовов"/>
+<phrase i="3168" t="Переадресация всех вызовов"/>
+<phrase i="3169" t="Возврат вызова"/>
+<phrase i="3190" t="Гарнитура   "/>
+<phrase i="3191" t="Трубка   "/>
+<phrase i="3192" t="Динамик   "/>
+<phrase i="3194" t="Дисплей   "/>
+<phrase i="3195" t="Клавиатура   "/>
+<phrase i="3201" t="Передать"/>
+<phrase i="3202" t="Ошибка"/>
+<phrase i="3216" t="Рингтон:"/>
+<phrase i="3217" t="Номер:"/>
+<phrase i="3218" t="Имя:"/>
+<phrase i="3219" t="Удалить:"/>
+<phrase i="3220" t="Выбор рингтона"/>
+<phrase i="3221" t="Каталог"/>
+<phrase i="3222" t="Введите номер:"/>
+<phrase i="3223" t="Вв.целевой н-р пейджинга:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Введите группу подбора:"/>
+<phrase i="3225" t="Введите целевой номер специальной службы:"/>
+<phrase i="3226" t="Введите целевой номер службы перенаправления:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Вв.н-р для снят.с парковки:"/>
+<phrase i="3228" t="Введите номер для парковки:"/>
+<phrase i="3229" t="Введите целевой номер слепой передачи:"/>
+<phrase i="3230" t="Введите номер ПЕРЕАДР, если нет ответа:"/>
+<phrase i="3231" t="Введите номер ПЕРЕАДР, если занято:"/>
+<phrase i="3232" t="Введите номер ПЕРЕАДР всех вызовов:"/>
+<phrase i="3234" t="Введите еще цифры:"/>
+<phrase i="3237" t="Пропущенные вызовы"/>
+<phrase i="3238" t="Отвеч. вызовы"/>
+<phrase i="3239" t="Отвеченные вызовы"/>
+<phrase i="3240" t="Список повторного набора"/>
+<phrase i="3241" t="Инициализация сети..."/>
+<phrase i="3242" t="Проверка DNS..."/>
+<phrase i="3243" t="папка"/><!-- This is a softkey label -->
+<phrase i="3244" t="переад"/><!-- This is a softkey label -->
+<phrase i="3245" t="Язык"/>
+<phrase i="3246" t="Выбор языка"/>
+<phrase i="3248" t="Переадресов.вызовы"/>
+<phrase i="3249" t="Новый пропущ.выз."/>
+<phrase i="3250" t="Новые пропущ.выз."/>
+<phrase i="3251" t="еще"/><!-- This is a softkey label -->
+<phrase i="3252" t="повтор"/><!-- This is a softkey label -->
+<phrase i="3253" t="отмена"/><!-- This is a softkey label -->
+<phrase i="3254" t="недост"/><!-- This is a softkey label -->
+<phrase i="3255" t="доступ"/><!-- This is a softkey label -->
+<phrase i="3258" t="грПодб"/><!-- This is a softkey label -->
+<phrase i="3259" t="подбор"/><!-- This is a softkey label -->
+<phrase i="3260" t="распар"/><!-- This is a softkey label -->
+<phrase i="3261" t="парковать"/><!-- This is a softkey label -->
+<phrase i="3262" t="слеп.перед."/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="прд Лин.x"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="перед."/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*код"/><!-- This is a softkey label -->
+<phrase i="3267" t="выбор"/><!-- This is a softkey label -->
+<phrase i="3268" t="сохр."/><!-- This is a softkey label -->
+<phrase i="3270" t="возобн"/><!-- This is a softkey label -->
+<phrase i="3272" t="назад"/><!-- This is a softkey label -->
+<phrase i="3273" t="воспр"/><!-- This is a softkey label -->
+<phrase i="3274" t="встав."/><!-- This is a softkey label -->
+<phrase i="3275" t="парам."/><!-- This is a softkey label -->
+<phrase i="3276" t="ок"/><!-- This is a softkey label -->
+<phrase i="3277" t="ном"/><!-- This is a softkey label -->
+<phrase i="3278" t="далее"/><!-- This is a softkey label -->
+<phrase i="3279" t="пропус"/><!-- This is a softkey label -->
+<phrase i="3281" t="посл.N"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="присое"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="выход"/><!-- This is a softkey label -->
+<phrase i="3285" t="измен."/><!-- This is a softkey label -->
+<phrase i="3286" t="не бесп"/><!-- This is a softkey label -->
+<phrase i="3288" t="набор"/><!-- This is a softkey label -->
+<phrase i="3289" t="удал."/><!-- This is a softkey label -->
+<phrase i="3290" t="копир."/><!-- This is a softkey label -->
+<phrase i="3291" t="конф Лин.x"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="конф."/><!-- This is a softkey label -->
+<phrase i="3293" t="очистить"/><!-- This is a softkey label -->
+<phrase i="3294" t="-п-адр"/><!-- This is a softkey label -->
+<phrase i="3295" t="-НеБесп"/><!-- This is a softkey label -->
+<phrase i="3296" t="измен."/><!-- This is a softkey label -->
+<phrase i="3298" t="отмена"/><!-- This is a softkey label -->
+<phrase i="3299" t="мост"/><!-- This is a softkey label -->
+<phrase i="3300" t="удСимв"/><!-- This is a softkey label -->
+<phrase i="3301" t="буквы"/><!-- This is a softkey label -->
+<phrase i="3302" t="добав."/><!-- This is a softkey label -->
+<phrase i="3303" t="Настроить x"/>
+<phrase i="3304" t="Настройка"/>
+<phrase i="3305" t="Общие"/>
+<phrase i="3306" t="Попытка возобновления..."/>
+<phrase i="3307" t="Попытка удержания..."/>
+<phrase i="3308" t="Удержание..."/>
+<phrase i="3309" t="Подключено"/>
+<phrase i="3310" t="Ответ..."/>
+<phrase i="3311" t="Вызов завершен"/>
+<phrase i="3312" t="Звонит..."/>
+<phrase i="3313" t="Звонит вызванный участник"/>
+<phrase i="3314" t="Вызов..."/>
+<phrase i="3315" t="Обращение к STUN-серверу..."/>
+<phrase i="3316" t="Набор..."/>
+<phrase i="3317" t="Выбор станции..."/>
+<phrase i="3318" t="Выбор вызова..."/>
+<phrase i="3319" t="Сбор информации..."/>
+<phrase i="3320" t="Попытка занять линию..."/>
+<phrase i="3321" t="Готово"/>
+<phrase i="3322" t="Да"/>
+<phrase i="3323" t="Не зарегистрировано"/>
+<phrase i="3324" t="Зарегистрировано"/>
+<phrase i="3325" t="Входящий"/>
+<phrase i="3326" t="Исходящий"/>
+<phrase i="3327" t="Обрат.вызов"/>
+<phrase i="3328" t="Переадресовано"/>
+<phrase i="3329" t="Передано"/>
+<phrase i="3330" t="Недействительный"/>
+<phrase i="3331" t="Неактивный"/>
+<phrase i="3332" t="Сигнал ожидания вызова"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Рингтон — обратный вызов"/>
+<phrase i="3334" t="Рингтон — удержание"/>
+<phrase i="3335" t="Рингтон"/>
+<phrase i="3336" t="Индикация защищенного вызова"/>
+<phrase i="3337" t="Конференция"/>
+<phrase i="3338" t="Удержать"/>
+<phrase i="3339" t="Ошибка"/>
+<phrase i="3340" t="Подтвердить"/>
+<phrase i="3341" t="Подсказка"/>
+<phrase i="3342" t="Специальный информационный сигнал 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="Специальный информационный сигнал 3"/>
+<phrase i="3344" t="Специальный информационный сигнал 2"/>
+<phrase i="3345" t="Специальный информационный сигнал 1"/>
+<phrase i="3346" t="Предупреждение об отсутствии соединения"/>
+<phrase i="3347" t="Ответный вызов"/>
+<phrase i="3348" t="Перегруппировать"/>
+<phrase i="3349" t="Занято"/>
+<phrase i="3350" t="Сигнал ожидания сообщения"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Внешний набор"/>
+<phrase i="3352" t="2-й набор"/>
+<phrase i="3353" t="Набор"/><!-- This is a softkey label -->
+<phrase i="3354" t="нет"/>
+<phrase i="3355" t="Переданный"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Переадр"/>
+<phrase i="3357" t="Обратный вызов"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Кому"/>
+<phrase i="3359" t="От"/>
+<phrase i="3360" t="Новая запись"/>
+<phrase i="3361" t="(НЕТ МЕСТА)"/>
+<phrase i="3362" t="Корпоративный каталог"/>
+<phrase i="3363" t="Введите номер подбора:"/>
+<phrase i="3365" t="Быстрый набор"/>
+<phrase i="3366" t="&lt;Не назначено&gt;"/>
+<phrase i="3367" t="Вв.номер быстрого набора 2"/>
+<phrase i="3368" t="Вв.номер быстрого набора 3"/>
+<phrase i="3369" t="Вв.номер быстрого набора 4"/>
+<phrase i="3370" t="Вв.номер быстрого набора 5"/>
+<phrase i="3371" t="Вв.номер быстрого набора 6"/>
+<phrase i="3372" t="Вв.номер быстрого набора 7"/>
+<phrase i="3373" t="Вв.номер быстрого набора 8"/>
+<phrase i="3374" t="Вв.номер быстрого набора 9"/>
+<phrase i="3375" t="Вв.номер быстрого набора"/>
+<phrase i="3376" t="Журнал вызовов"/>
+<phrase i="3377" t="Отвеченные вызовы"/>
+<phrase i="3378" t="Рингтон"/>
+<phrase i="3379" t="Рингтон E1"/>
+<phrase i="3380" t="Рингтон E2"/>
+<phrase i="3381" t="Рингтон E3"/>
+<phrase i="3382" t="Рингтон E4"/>
+<phrase i="3383" t="Корпоративный каталог"/>
+<phrase i="3384" t="Настройки"/>
+<phrase i="3385" t="да/нет"/><!-- This is a softkey label -->
+<phrase i="3386" t="Блокировать ID абонента&#xA;"/>
+<phrase i="3387" t="Блокир.неопознан.вызов&#xA;"/>
+<phrase i="3388" t="Не беспокоить&#xA;"/>
+<phrase i="3389" t="Защищенный вызов&#xA;"/>
+<phrase i="3390" t="Помощь в наборе&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Предпоч.аудио-устр.&#xA;"/>
+<phrase i="3394" t="Автоответчик&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Перекл.звук на динамик&#xA;"/>
+<phrase i="3396" t="Формат времени&#xA;"/>
+<phrase i="3397" t="Формат даты&#xA;"/>
+<phrase i="3398" t="день/месяц"/>
+<phrase i="3399" t="месяц/день"/>
+<phrase i="3400" t="Язык"/>
+<phrase i="3401" t="Состоян.парковки вызова"/>
+<phrase i="3402" t="Состояние"/>
+<phrase i="3403" t="Состояние телефона"/>
+<phrase i="3405" t="Состояние доб. 2"/>
+<phrase i="3406" t="Состояние Л1"/>
+<phrase i="3407" t="Состояние Л2"/>
+<phrase i="3408" t="Состояние Л3"/>
+<phrase i="3409" t="Состояние Л4"/>
+<phrase i="3410" t="Вызов1:"/>
+<phrase i="3412" t="Дата: "/>
+<phrase i="3413" t="Время работы: "/>
+<phrase i="3415" t="Посл.регистрация: %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="След.рег.через %uс&#xA;"/>
+<phrase i="3418" t="Вызов 1: "/>
+<phrase i="3420" t="Сигнал: "/>
+<phrase i="3421" t="Нет"/>
+<phrase i="3422" t="Не установлено"/>
+<phrase i="3423" t="По умолч."/><!-- This is a softkey label -->
+<phrase i="3425" t="Станция"/>
+<phrase i="3426" t="Группа пейджинга"/>
+<phrase i="3427" t="Автоучастник"/>
+<phrase i="3428" t="Внутренняя музыка"/>
+<phrase i="3429" t="Подождите"/>
+<phrase i="3430" t="Попытка входа..."/>
+<phrase i="3432" t="Запрос доступности ACD-сервера&#xA;..."/>
+<phrase i="3433" t="Запрос доступности ACD-сервера&#xA;..."/>
+<phrase i="3434" t="Ошибка входа.&#xA;"/>
+<phrase i="3435" t="Проверьте свой ID пользователя&#xA;и пароль."/>
+<phrase i="3437" t="Ошибка запроса доступности&#xA;"/>
+<phrase i="3438" t="Ошибка запроса доступности&#xA;"/>
+<phrase i="3439" t="ID пользователя:"/>
+<phrase i="3440" t="Пароль:"/>
+<phrase i="3441" t="Вход ACD"/>
+<phrase i="3445" t="Обновление ПО...&#xA;Не отключайте питание!&#xA;Телефон загрузится сам"/>
+<phrase i="3446" t="&#xA;&#xA;Подбор: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Загрузка системы..."/>
+<phrase i="3451" t="Запрос корпоративного&#xA;каталога сервером..."/>
+<phrase i="3452" t="Ошибка запроса корпоративного&#xA;каталога"/>
+<phrase i="3453" t="корп.кат"/>
+<phrase i="3461" t="Неизвестная запись"/>
+<phrase i="3468" t="Неизвестный пользователь"/>
+<phrase i="3469" t="По: %s"/>
+<phrase i="3470" t="шлюз"/>
+<phrase i="3472" t="Общий вызов %s"/>
+<phrase i="3473" t="По: %s&#xA;"/>
+<phrase i="3476" t="получатель"/>
+<phrase i="3477" t="состояние"/>
+<phrase i="3478" t="завершено"/>
+<phrase i="3479" t="попытка..."/>
+<phrase i="3480" t="раннее"/>
+<phrase i="3481" t="продолжение..."/>
+<phrase i="3482" t="подтверждено"/>
+<phrase i="3503" t="Пользователь %d"/>
+<phrase i="3504" t="Нет рингтона"/>
+<phrase i="3509" t="Пользователь %d (не устан.)"/>
+<phrase i="3510" t="12ч"/>
+<phrase i="3511" t="24ч"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Статический IP"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="пароль"/><!-- password -->
+<phrase i="3517" t="конфиг"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Язык(недоступно)"/>
+<phrase i="3519" t="Недоступно"/>
+<phrase i="3520" t="подтвердить"/>
+<phrase i="3521" t="контраст"/>
+<phrase i="3522" t="spd_dial"/>
+<phrase i="3523" t="%d дн."/>
+<phrase i="3524" t="1 день"/>
+<phrase i="3525" t="Выключено&#xA;"/>
+<phrase i="3526" t="Тип вызова %d: %s&#xA;"/>
+<phrase i="3527" t="Имя пира: %s&#xA;"/>
+<phrase i="3528" t="Тел. пира: %s&#xA;"/>
+<phrase i="3529" t="Длит: %02d:%02d:%02d"/>
+<phrase i="3530" t="Вызов %d: %s&#xA;"/>
+<phrase i="3531" t="Сигнал: %s&#xA;"/>
+<phrase i="3532" t="Шифр: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Дешифр: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="Л%d: Службы отсутствуют&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Состояние телефона"/>
+<phrase i="3536" t="Состояние доб. %d"/>
+<phrase i="3537" t="Состояние Л%d"/>
+<phrase i="3538" t="ВремяДата"/>
+<phrase i="3539" t="Сохранить изменение громкости&#xA;"/>
+<phrase i="3540" t="Сохранить изменение контраста&#xA;"/>
+<phrase i="3541" t="повт. набор"/><!-- This is a softkey label -->
+<phrase i="3542" t="вход"/><!-- This is a softkey label -->
+<phrase i="3543" t="выход"/><!-- This is a softkey label -->
+<phrase i="3544" t="громкость"/>
+<phrase i="3545" t="настройка"/>
+<phrase i="3546" t="Пропущенный вызов"/>
+<phrase i="3548" t="Ошибка&#xA;"/>
+<phrase i="3549" t="снять с парковки?"/>
+<phrase i="3550" t="Английский"/>
+<phrase i="3551" t="Испанский"/>
+<phrase i="3552" t="Португальский"/>
+<phrase i="3553" t="Итальянский"/>
+<phrase i="3554" t="Немецкий"/>
+<phrase i="3555" t="Датский"/>
+<phrase i="3556" t="Финский"/>
+<phrase i="3557" t="Голландский"/>
+<phrase i="3558" t="Норвежский"/>
+<phrase i="3559" t="Французский"/>
+<phrase i="3560" t="Таймер подсветки"/>
+<phrase i="3561" t="Всегда Вкл"/>
+<phrase i="3562" t="Выкл"/>
+<phrase i="3563" t="Значок пропущ.вызова"/>
+<phrase i="3564" t="Ожидание вызова..."/>
+<phrase i="3565" t="Включить VLAN"/>
+<phrase i="3566" t="ID VLAN"/>
+<phrase i="3567" t="Офис"/>
+<phrase i="3568" t="Классический-1"/>
+<phrase i="3569" t="Классический-2"/>
+<phrase i="3570" t="Классический-3"/>
+<phrase i="3571" t="Классический-4"/>
+<phrase i="3572" t="Простой-1"/>
+<phrase i="3573" t="Простой-2"/>
+<phrase i="3574" t="Простой-3"/>
+<phrase i="3575" t="Простой-4"/>
+<phrase i="3576" t="Простой-5"/>
+<phrase i="3577" t="Установлено"/>
+<phrase i="3578" t="удалСимв"/>
+<phrase i="3579" t="Переадр"/><!-- This is a softkey label -->
+<phrase i="3580" t="Удал НЕ БЕСП"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Не беспокоить "/>
+<phrase i="3582" t="Удал Переадр"/><!-- This is a softkey label -->
+<phrase i="3583" t="Линия конф"/><!-- This is a softkey label -->
+<phrase i="3584" t="Возвр выз"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Назад"/><!-- This is a softkey label -->
+<phrase i="3586" t="Передача"/><!-- This is a softkey label -->
+<phrase i="3587" t="Лин перед"/><!-- This is a softkey label -->
+<phrase i="3588" t="СлепПередача"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="ГрПодбор"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Просмотр"/><!-- This is a softkey label -->
+<phrase i="3591" t="Параметр интерфейса"/>
+<phrase i="3592" t="Параметр интерфейса"/>
+<phrase i="3593" t="Предпочтительный фон"/>
+<phrase i="3594" t="Загружено"/>
+<phrase i="3596" t="Предпочтительная цветовая схема меню"/>
+<phrase i="3597" t="Голубой"/>
+<phrase i="3598" t="Светло-зеленый"/>
+<phrase i="3599" t="Розовый"/>
+<phrase i="3600" t="Серебристый"/>
+<phrase i="3601" t="Переадресов.вызовы "/>
+<phrase i="3602" t="Клавиша линии 5"/>
+<phrase i="3603" t="Клавиша линии 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Доб. 5"/>
+<phrase i="3606" t="Доб. 6"/>
+<phrase i="3607" t="Динамик"/>
+<phrase i="3608" t="Гарнитура"/>
+<phrase i="3609" t="am"/>
+<phrase i="3610" t="pm"/>
+<phrase i="3614" t="Линия %d: %s(%s)"/>
+<phrase i="3616" t="Восстановление пользовательских настроек"/>
+<phrase i="3617" t="Проверить обновления&#xA;настроек профиля?&#xA;(работает в фоновом режиме)"/>
+<phrase i="3618" t="Веб-служба"/>
+<phrase i="3619" t="Веб-служба"/>
+<phrase i="3620" t="Местные новости"/>
+<phrase i="3621" t="В мире"/>
+<phrase i="3623" t="Спорт"/>
+<phrase i="3624" t="Политика"/>
+<phrase i="3625" t="Технологии"/>
+<phrase i="3626" t="Развлечения"/>
+<phrase i="3627" t="Трафик"/>
+<phrase i="3628" t="Котировки акций"/>
+<phrase i="3629" t="Котировки акций:"/>
+<phrase i="3630" t="RSS-канал 1"/>
+<phrase i="3631" t="RSS-канал 2"/>
+<phrase i="3632" t="RSS-канал 3"/>
+<phrase i="3633" t="RSS-канал 4"/>
+<phrase i="3634" t="RSS-канал 5"/>
+<phrase i="3635" t="Символ:"/>
+<phrase i="3636" t="Последний:"/>
+<phrase i="3637" t="Изменение:"/>
+<phrase i="3638" t="Предложение:"/>
+<phrase i="3639" t="Спрос:"/>
+<phrase i="3640" t="Инициализация"/>
+<phrase i="3641" t="Журнал статист.вызовов"/>
+<phrase i="3642" t="Прокси:%s:%u&#xA;"/>
+<phrase i="3643" t="Профиль:%s&#xA;"/>
+<phrase i="3644" t="Состояние:%s&#xA;"/>
+<phrase i="3645" t="Причина:%s&#xA;"/>
+<phrase i="3647" t="Выключено"/>
+<phrase i="3649" t="Синтаксическая ошибка в правиле"/>
+<phrase i="3650" t="Выполняется"/>
+<phrase i="3651" t="Успешно выполнено"/>
+<phrase i="3652" t="Разрешение DNS"/>
+<phrase i="3653" t="Нет имени сервера"/>
+<phrase i="3654" t="Недопустимый или запрещенный сервер"/>
+<phrase i="3655" t="Ресурсы исчерпаны"/>
+<phrase i="3656" t="Поврежденный файл"/>
+<phrase i="3657" t="Ключ шифрования"/>
+<phrase i="3658" t="Недействительный URL"/>
+<phrase i="3659" t="Файл не найден"/>
+<phrase i="3660" t="Ошибка загрузки"/>
+<phrase i="3661" t="&lt;Нет элементов&lt;"/>
+<phrase i="3662" t="Тип:%s"/>
+<phrase i="3663" t="Имя пира:%s"/>
+<phrase i="3664" t="Телефон пира:%s"/>
+<phrase i="3665" t="Длит:"/>
+<phrase i="3666" t="Время вызова:"/>
+<phrase i="3667" t="Шифр:%s"/>
+<phrase i="3668" t="Дешифр:%s"/>
+<phrase i="3669" t="ID вызова:%s"/>
+<phrase i="3674" t="Обновление данных канала новостей..."/>
+<phrase i="3675" t="Данные канала новостей отсутствуют..."/>
+<phrase i="3676" t="Ошибка получения данных канала новостей..."/>
+<phrase i="3677" t="Новости"/>
+<phrase i="3680" t="Отпр: %u пак.&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Получ: %u пак.&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Прокси:%s&#xA;"/>
+<phrase i="3684" t="Л%d: %s&#xA;"/>
+<phrase i="3685" t="Тип вызова: %s&#xA;"/>
+<phrase i="3687" t="Пустой"/>
+<phrase i="3690" t="Сост.инициализации"/>
+<phrase i="3693" t="Статистика вызовов"/>
+<phrase i="3703" t="ДОБ:%d"/>
+<phrase i="3704" t="Обновление данных по котировкам..."/>
+<phrase i="3705" t="Нет данных по котировкам..."/>
+<phrase i="3706" t="Ошибка получения данных по котировкам..."/>
+<phrase i="3713" t="Котировки Yahoo"/>
+<phrase i="3715" t="Обновление данных канала трафика..."/>
+<phrase i="3716" t="Данные канала трафика отсутствуют..."/>
+<phrase i="3717" t="Ошибка получения данных канала трафика..."/>
+<phrase i="3718" t="Детализация трафика недоступна..."/>
+<phrase i="3719" t="Ошибка отображения данных канала трафика..."/>
+<phrase i="3721" t="Котировка"/>
+<phrase i="3730" t="Yahoo! Вход"/>
+<phrase i="3731" t="Выйти из Yahoo!?"/>
+<phrase i="3732" t="Успешно"/>
+<phrase i="3733" t="Ошибка. Проверьте&#xA;ID пользователя и пароль"/>
+<phrase i="3734" t="Вход... Подождите."/>
+<phrase i="3735" t="Подбор: "/>
+<phrase i="3736" t="Переадресов.вызовы&#xA;"/>
+<phrase i="3737" t="Выход выполнен&#xA;"/>
+<phrase i="3738" t="Вход...&#xA;"/>
+<phrase i="3739" t="Не зарегистрировано&#xA;"/>
+<phrase i="3741" t="&#xA;По: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;Подбор: "/>
+<phrase i="3744" t="%sВыход выполнен"/>
+<phrase i="3745" t="обновить"/><!-- This is a softkey label -->
+<phrase i="3746" t="Подробно"/><!-- This is a softkey label -->
+<phrase i="3756" t="ТЕСТ_ЯЗЫК"/>
+<phrase i="3757" t="Изображение BMP"/>
+<phrase i="3758" t="Добавить"/><!-- This is a softkey label -->
+<phrase i="3759" t="Буквы"/><!-- This is a softkey label -->
+<phrase i="3760" t="УдалСимв"/><!-- This is a softkey label -->
+<phrase i="3761" t="Мост"/><!-- This is a softkey label -->
+<phrase i="3762" t="Отмена"/><!-- This is a softkey label -->
+<phrase i="3764" t="Очистить"/><!-- This is a softkey label -->
+<phrase i="3765" t="Конф"/><!-- This is a softkey label -->
+<phrase i="3766" t="Копир"/><!-- This is a softkey label -->
+<phrase i="3767" t="Удалить"/><!-- This is a softkey label -->
+<phrase i="3771" t="Изменить"/><!-- This is a softkey label -->
+<phrase i="3772" t="Выход"/><!-- This is a softkey label -->
+<phrase i="3774" t="Присоед"/><!-- This is a softkey label -->
+<phrase i="3775" t="Пропустить"/><!-- This is a softkey label -->
+<phrase i="3776" t="Далее"/><!-- This is a softkey label -->
+<phrase i="3777" t="Ном"/><!-- This is a softkey label -->
+<phrase i="3778" t="ОК"/><!-- This is a softkey label -->
+<phrase i="3779" t="Параметр"/><!-- This is a softkey label -->
+<phrase i="3780" t="Вставить"/><!-- This is a softkey label -->
+<phrase i="3781" t="Воспр"/><!-- This is a softkey label -->
+<phrase i="3783" t="Возобн"/><!-- This is a softkey label -->
+<phrase i="3784" t="Сохранить"/><!-- This is a softkey label -->
+<phrase i="3785" t="Выбрать"/><!-- This is a softkey label -->
+<phrase i="3786" t="*Код"/><!-- This is a softkey label -->
+<phrase i="3787" t="ДА/НЕТ"/><!-- This is a softkey label -->
+<phrase i="3793" t="Доступ."/><!-- This is a softkey label -->
+<phrase i="3794" t="Недоступ."/><!-- This is a softkey label -->
+<phrase i="3795" t="Отмена"/><!-- This is a softkey label -->
+<phrase i="3796" t="Повтор"/><!-- This is a softkey label -->
+<phrase i="3797" t="Еще"/><!-- This is a softkey label -->
+<phrase i="3798" t="Обновить"/><!-- This is a softkey label -->
+<phrase i="3799" t="просмотр"/><!-- This is a softkey label -->
+<phrase i="3800" t="подроб"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Выход"/>
+<phrase i="3807" t="Корп.кат"/>
+<phrase i="3808" t="Нет изображений для загрузки"/>
+<phrase i="3809" t="Блокировать неопозн.вызовы"/>
+<phrase i="3810" t="Подробные новости недоступны..."/>
+<phrase i="3811" t="Подробные новости недоступны&#xA;"/>
+<phrase i="3812" t="Ошибка отображения данных канала новостей..."/>
+<phrase i="3813" t="Передача..."/>
+<phrase i="3814" t="Ошибка передачи"/>
+<phrase i="3815" t="Длит: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Статистика вызовов:"/>
+<phrase i="3817" t="Ошибка отображения данных по котировкам..."/>
+<phrase i="3818" t="Детализация трафика недоступна&#xA;"/>
+<phrase i="3822" t="Рингтон E5"/>
+<phrase i="3824" t="Не беспокоить"/>
+<phrase i="3825" t="Переадресов.вызовы"/>
+<phrase i="3826" t="&lt;Нет элементов&gt;"/>
+<phrase i="3827" t="Настройки"/>
+<phrase i="3828" t="Открыть"/>
+<phrase i="3829" t="Ожидание..."/>
+<phrase i="3830" t="Настроено"/>
+<phrase i="3831" t="По умолчанию&quot;Загруженные"/>
+<phrase i="3832" t="Абонент неизвестен"/>
+<phrase i="3833" t="%sПереадресов.вызовы"/>
+<phrase i="3834" t="%sВыход..."/>
+<phrase i="3835" t="%sВход..."/>
+<phrase i="3836" t="%sНе зарегистрировано"/>
+<phrase i="3837" t="%sРегистрация..."/>
+<phrase i="3838" t="%sНе беспокоить"/>
+<phrase i="3839" t="Рингтон E1"/>
+<phrase i="3840" t="Рингтон E2"/>
+<phrase i="3841" t="Рингтон E3"/>
+<phrase i="3842" t="Рингтон E4"/>
+<phrase i="3843" t="Рингтон E5"/>
+<phrase i="3844" t="Рингтон E6"/>
+<phrase i="3845" t="Ошибка входа.&#xA;Проверьте ID пользователя&#xA;и пароль."/>
+<phrase i="3846" t="Попытка входа..."/>
+<phrase i="3847" t="Авторизация..."/>
+<phrase i="3848" t="Вход CMS"/>
+<phrase i="3849" t="Выйти из CMS?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" А Б В A B C 2 а б в a b c "/>
+<phrase i="3852" t=" Г Д Е D E F 3 г д е d e f "/>
+<phrase i="3853" t=" Ж З И G H I 4 ж з и g h i "/>
+<phrase i="3854" t=" К Л М J K L 5 к л м j k l "/>
+<phrase i="3855" t=" Н О П M N O 6 н о п m n o "/>
+<phrase i="3856" t=" Р С P Q R S 7 р с p q r s "/>
+<phrase i="3857" t=" Т У Ф T U V 8 т у ф t u v "/>
+<phrase i="3858" t=" Х Ц W X Y Z 9 х ц w x y z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Польский"/>
+<phrase i="3864" t="Русский"/>
+<phrase i="3865" t="Венгерский"/>
+<phrase i="3866" t="Чешский"/>
+<phrase i="3867" t="Турецкий"/>
+<phrase i="3868" t="Шведский"/>
+<phrase i="3869" t="Словенский"/>
+<phrase i="3870" t="Болгарский"/>
+<phrase i="3871" t="Словацкий"/>
+<phrase i="3872" t="Хорватский"/>
+<phrase i="3950" t="Не отвечает"/>
+<phrase i="3951" t="Недоступно"/>
+<phrase i="3952" t="Аутентификация"/>
+<phrase i="3953" t="Неизвестно"/>
+<phrase i="3954" t="Попытка удержания..."/>
+<phrase i="3955" t="Попытка возобновления..."/>
+<phrase i="3956" t="Изменить"/><!-- This is a softkey label -->
+<phrase i="3957" t="Парковать"/><!-- This is a softkey label -->
+<phrase i="3958" t="Распарк"/><!-- This is a softkey label -->
+<phrase i="3959" t="Подбор"/><!-- This is a softkey label -->
+<phrase i="3960" t="Повт.синх"/><!-- This is a softkey label -->
+<phrase i="3961" t="Активир"/><!-- This is a softkey label -->
+<phrase i="3962" t="Принять"/><!-- This is a softkey label -->
+<phrase i="3963" t="Подкл"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Подкл"/><!-- This is a softkey label -->
+<phrase i="3965" t="отправить"/><!-- This is a softkey label -->
+<phrase i="3966" t="ПвтСин"/><!-- This is a softkey label -->
+<phrase i="3967" t="актив"/><!-- This is a softkey label -->
+<phrase i="3968" t="принять"/><!-- This is a softkey label -->
+<phrase i="3969" t="подкл"/><!-- This is a softkey label -->
+<phrase i="3970" t="-подкл"/><!-- This is a softkey label -->
+<phrase i="3971" t="тише"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="громче"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="по умол"/><!-- This is a softkey label -->
+<phrase i="3974" t="измНаб"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Обновление ПО...&#xA;Не отключайте питание&#xA;Телефон перезагрузится автоматически"/>
+<phrase i="3976" t="Загрузка приложения XML..."/>
+<phrase i="3977" t="Ошибка обновления"/>
+<phrase i="3978" t="Загрузка приложения ОК"/>
+<phrase i="3979" t="Ошибка загрузки приложения"/>
+<phrase i="3980" t="Службы CME"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Попытка выхода...&#xA;Подождите..."/>
+<phrase i="3982" t="Ошибка выхода.&#xA;Перезагрузка..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Выбрать рингтон"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Рингтон по умолчанию: %s"/>
+<phrase i="3987" t="Выбор линии"/>
+<phrase i="3988" t="Рингтон линии по умолчанию                        "/>
+<phrase i="3989" t="Название рингтона по умолчанию                     "/>
+<phrase i="3990" t="Настройки"/>
+<phrase i="3991" t="Режим хранителя экрана"/>
+<phrase i="3992" t="Включить хранитель экрана"/>
+<phrase i="3993" t="Время запуска хран.экрана"/>
+<phrase i="3994" t="Значок хранителя экрана"/>
+<phrase i="3995" t="ВремяСтанции&quot;Блокировка&quot;Телефон&quot;ДатаВремя&quot;Фоновое изображение"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Восстан.заводских настроек...&#xA;Подождите"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;Перезагрузка системы...&#xA;Подождите"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Перезапуск системы...&#xA;Подождите"/>
+<phrase i="4001" t="Правило профиля"/>
+<phrase i="4002" t="Правило профиля:"/>
+<phrase i="4003" t="Синх. профиль повторно: %s&#xA;"/>
+<phrase i="4004" t="Результат: %s&#xA;"/>
+<phrase i="4005" t="Причина: %s&#xA;"/>
+<phrase i="4006" t="Повторная синхронизация с&#xA;%s&#xA;При успешном выполнении телефон может быть перезапущен!"/>
+<phrase i="4007" t="Недопустимое правило профиля!&#xA;"/>
+<phrase i="4008" t="Запрос повторной синхронизации с&#xA;%s&#xA;при неактивном телефоне!"/>
+<phrase i="4009" t="Ошибка запроса повторной синхронизации!&#xA;Телефон обрабатывает запрос повторной синхронизации.&#xA;Повторите попытку позже."/>
+<phrase i="4010" t="Регистрация...&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Для разблокирования телефона нажмите любую клавишу"/>
+<phrase i="4013" t="Протокол управления вызовами"/>
+<phrase i="4014" t="Маршрутизатор по умолчанию"/>
+<phrase i="4015" t="TFTP-сервер"/>
+<phrase i="4016" t="Админ. ID VLAN"/>
+<phrase i="4017" t="Включить CDP"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Call Manager"/>
+<phrase i="4019" t="Служебное имя PPPoE"/>
+<phrase i="4020" t="Имя для входа PPPOE"/>
+<phrase i="4021" t="Пароль для входа PPPoE"/>
+<phrase i="4022" t="Веб-сервер включен"/>
+<phrase i="4023" t="Отладка сервера"/>
+<phrase i="4024" t="Выкл&quot;10 с&quot;20 с&quot;30 с&quot;Всегда вкл"/>
+<phrase i="4025" t="Местные настройки"/>
+<phrase i="4026" t="Версия ПО"/>
+<phrase i="4027" t="Получ: %u, "/>
+<phrase i="4028" t="Отпр: %u,&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Затраченное время: "/>
+<phrase i="4030" t="Доб%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Модель: %s&#xA;"/>
+<phrase i="4032" t="Версия: %s&#xA;"/>
+<phrase i="4033" t="Линия:%s"/>
+<phrase i="4034" t="Н/Д"/>
+<phrase i="4038" t="Подключение к &#xA;VPN-серверу..."/>
+<phrase i="4039" t="Отключение от &#xA;VPN-сервера..."/>
+<phrase i="4040" t="Ошибка соединения VPN!&#xA;"/>
+<phrase i="4041" t="Подключено к VPN!"/>
+<phrase i="4042" t="Отключено от VPN!"/>
+<phrase i="4043" t="Неизвестный сертификат. Принять?&#xA;"/>
+<phrase i="4044" t="Отменено!"/>
+<phrase i="4045" t="Подождите..."/>
+<phrase i="4046" t="Подключить к VPN при загрузке?"/>
+<phrase i="4047" t="VPN-сервер"/>
+<phrase i="4048" t="ID пользователя"/>
+<phrase i="4049" t="Туннельн. группа"/>
+<phrase i="4050" t="Подключено к VPN?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Длительность"/>
+<phrase i="4054" t="Отправлено байтов"/>
+<phrase i="4055" t="Получено байтов"/>
+<phrase i="4056" t="Причина последнего сбоя"/>
+<phrase i="4057" t="Сначала настройте VPN-сервер"/>
+<phrase i="4058" t="Телефон подключен к VPN-серверу"/>
+<phrase i="4059" t="Перед подключением к VPN-серверу повесьте трубку телефона"/>
+<phrase i="4060" t="Телефон не подключен к VPN-серверу"/>
+<phrase i="4061" t="Сначала повесьте трубку"/>
+<phrase i="4062" t="Подключение к CME..."/>
+<phrase i="4063" t="Регистрация CME..."/>
+<phrase i="4064" t="Метка регистрации SPCP"/>
+<phrase i="4065" t="Ошибка загрузки рингтона"/>
+<phrase i="4066" t="Обновление ПО...&#xA;Не выключайте питание"/>
+<phrase i="4067" t="Успешно обновлено&#xA;...перезагрузка..."/>
+<phrase i="4068" t="Запрос LDAP"/>
+<phrase i="4069" t="Каталог запроса LDAP"/>
+<phrase i="4070" t="Недопустимые введенные данные/конфигурация,&#xA;проверьте введенные данные/конфигурацию"/>
+<phrase i="4071" t="Ошибка LDAP: невозможно подключиться к серверу"/>
+<phrase i="4072" t="Ошибка LDAP: недопустимое значение введенных данных"/>
+<phrase i="4073" t="Совпадения не найдены"/>
+<phrase i="4074" t="Результат запроса LDAP"/>
+<phrase i="4075" t="Запрос каталога от сервера LDAP..."/>
+<phrase i="4076" t="Ошибка запроса каталога LDAP"/>
+<phrase i="4077" t="Слишком много совпадений,&#xA;уточните критерии поиска"/>
+<phrase i="4079" t="Подбор вызова"/>
+<phrase i="4080" t="Снятие с парковки"/>
+<phrase i="4081" t="Групповой подбор вызова"/>
+<phrase i="4083" t="Вкл. доб. отметок д/VLAN ПК"/>
+<phrase i="4084" t="ID VLAN порта ПК"/>
+<phrase i="4085" t="Предупреждение"/>
+<phrase i="4086" t="Сигнал пейджинга"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="назад"/><!-- This is a softkey label -->
+<phrase i="4088" t="переключить"/><!-- This is a softkey label -->
+<phrase i="4089" t="Назад"/><!-- This is a softkey label -->
+<phrase i="4090" t="ИзмНабор"/><!-- This is a softkey label -->
+<phrase i="4091" t="Имя"/>
+<phrase i="4092" t="Поиск"/>
+<phrase i="4093" t="Отправить"/><!-- This is a softkey label -->
+<phrase i="4094" t="Циклическое воспр.музыки"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Тише"/><!-- This is a softkey label -->
+<phrase i="4096" t="Громче"/><!-- This is a softkey label -->
+<phrase i="4097" t="Переключить"/><!-- This is a softkey label -->
+<phrase i="4098" t="Запрос..."/>
+<phrase i="4099" t="Недействительный номер"/>
+<phrase i="4100" t="Нет линии"/>
+<phrase i="4101" t="Тайм-аут"/>
+<phrase i="4102" t="Служба недоступна"/>
+<phrase i="4103" t="Сетевая ошибка"/>
+<phrase i="4104" t="Ошибка протокола"/>
+<phrase i="4105" t="Попытка..."/>
+<phrase i="4106" t="Переадресация вызова..."/>
+<phrase i="4107" t="Добавлено в очередь"/>
+<phrase i="4108" t="Ход сеанса"/>
+<phrase i="4109" t="Принято"/>
+<phrase i="4110" t="Выбор из вариантов"/>
+<phrase i="4111" t="Перемещено навсегда"/>
+<phrase i="4112" t="Перемещено временно"/>
+<phrase i="4113" t="Использовать прокси"/>
+<phrase i="4114" t="Альтернативная служба"/>
+<phrase i="4115" t="Неверный запрос"/>
+<phrase i="4116" t="Нет авторизации"/>
+<phrase i="4117" t="Требуется платеж"/>
+<phrase i="4118" t="Запрещено"/>
+<phrase i="4119" t="Не найдено"/>
+<phrase i="4120" t="Запрещенный способ"/>
+<phrase i="4121" t="Недопустимо"/>
+<phrase i="4122" t="Требуется аутентификация прокси"/>
+<phrase i="4123" t="Тайм-аут запроса"/>
+<phrase i="4124" t="Прошло"/>
+<phrase i="4125" t="Запрос слишком большой"/>
+<phrase i="4126" t="URI запроса слишком большой"/>
+<phrase i="4127" t="Неподдерживаемый тип мультимедиа"/>
+<phrase i="4128" t="Неподдерживаемая структура URI"/>
+<phrase i="4129" t="Неверный добавочный номер"/>
+<phrase i="4130" t="Требуется добавочный номер"/>
+<phrase i="4131" t="Слишком маленький интервал"/>
+<phrase i="4132" t="Временно недоступно"/>
+<phrase i="4133" t="Участок вызова/транзакция не существует"/>
+<phrase i="4134" t="Обнаружен цикл"/>
+<phrase i="4135" t="Слишком много переходов"/>
+<phrase i="4136" t="Неполный адрес"/>
+<phrase i="4137" t="Неясный"/>
+<phrase i="4138" t="Занято здесь"/>
+<phrase i="4139" t="Запрос отменен"/>
+<phrase i="4140" t="Недопустимо здесь"/>
+<phrase i="4141" t="Неверное событие"/>
+<phrase i="4142" t="Приостановка запроса..."/>
+<phrase i="4143" t="Невозможно расшифровать"/>
+<phrase i="4144" t="Внутренняя ошибка сервера"/>
+<phrase i="4145" t="Не выполнено"/>
+<phrase i="4146" t="Неверный шлюз"/>
+<phrase i="4147" t="Служба недоступна"/>
+<phrase i="4148" t="Тайм-аут сервера"/>
+<phrase i="4149" t="Версия SIP не поддерживается"/>
+<phrase i="4150" t="Слишком длинное сообщение"/>
+<phrase i="4151" t="Занято везде"/>
+<phrase i="4152" t="Отклонить"/>
+<phrase i="4153" t="Не существует нигде"/>
+<phrase i="4154" t="Ошибка транспортного уровня"/>
+<phrase i="4155" t="ВремяСтанции"/>
+<phrase i="4156" t="Заблокировать"/>
+<phrase i="4157" t="Телефон"/>
+<phrase i="4158" t="ДатаВремя"/>
+<phrase i="4159" t="Фоновое изображение"/>
+<phrase i="4160" t="Финансы"/>
+<phrase i="4161" t="Транзакция просрочена"/>
+<phrase i="4162" t="Маршрут не найден"/>
+<phrase i="4163" t="Временно недоступно"/>
+<phrase i="4164" t="Вызов отменен"/>
+<phrase i="4165" t="Сервер занят"/>
+<phrase i="4166" t="Недостаточная пропускная способность"/>
+<phrase i="4200" t="404 Не найдено"/>
+<phrase i="4201" t="Добавить в персональную запись"/>
+<phrase i="4202" t="Расширенный поиск"/>
+<phrase i="4203" t="Ответ"/>
+<phrase i="4204" t="ответ"/>
+<phrase i="4205" t="Ошибка запроса каталога Broadsoft"/>
+<phrase i="4206" t="Каталог BroadSoft"/>
+<phrase i="4207" t="Broadsoft: запрос отменен пользователем"/>
+<phrase i="4208" t="Настр.управл.вызовами"/>
+<phrase i="4209" t="Каталог CME"/>
+<phrase i="4210" t="Отдел: "/>
+<phrase i="4211" t="Функция DHCP для"/>
+<phrase i="4212" t="DHCP:ф-ции повт.синхр."/>
+<phrase i="4213" t="Эл. почта: "/>
+<phrase i="4214" t="Сведения о записи"/>
+<phrase i="4215" t="Ошибка: Данные не введены или недействительны."/>
+<phrase i="4216" t="Доб. 10"/>
+<phrase i="4217" t="Доб. 11"/>
+<phrase i="4218" t="Доб. 12"/>
+<phrase i="4219" t="Доб. 7"/>
+<phrase i="4220" t="Доб. 8"/>
+<phrase i="4221" t="Доб. 9"/>
+<phrase i="4222" t="Добавочный номер: "/>
+<phrase i="4223" t="Первый: "/>
+<phrase i="4224" t="флэш-накопитель"/>
+<phrase i="4225" t="Надо G722"/>
+<phrase i="4226" t="ID группы: "/>
+<phrase i="4227" t="Запрос HTTP отменен"/>
+<phrase i="4228" t="Ошибка запроса HTTP"/>
+<phrase i="4229" t="Пропустить"/>
+<phrase i="4230" t="пропустить"/>
+<phrase i="4231" t="Автообнаруж.осн.сист."/>
+<phrase i="4232" t="IP-адрес основной системы"/>
+<phrase i="4233" t="Последний: "/>
+<phrase i="4234" t="Ошибка LDAP: невозможно подключиться к серверу."/>
+<phrase i="4235" t="Клавиша линии 10"/>
+<phrase i="4236" t="Клавиша линии 11"/>
+<phrase i="4237" t="Клавиша линии 12"/>
+<phrase i="4238" t="Клавиша линии 7"/>
+<phrase i="4239" t="Клавиша линии 8"/>
+<phrase i="4240" t="Клавиша линии 9"/>
+<phrase i="4241" t="Мобильный: "/>
+<phrase i="4242" t="Имя: "/>
+<phrase i="4243" t="Совпадения не найдены&#xA;"/>
+<phrase i="4244" t="нет&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Номер: "/>
+<phrase i="4246" t="Номер телефона:"/>
+<phrase i="4247" t="Лучше G722"/>
+<phrase i="4248" t="КонфидУдерж"/>
+<phrase i="4249" t="конфидУдерж"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Запрос каталога BS"/>
+<phrase i="4257" t="Запрос каталога сервером Broadsoft..."/>
+<phrase i="4258" t="Сигнальный протокол"/>
+<phrase i="4259" t="Простой поиск"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="Модель SPA5X5"/>
+<phrase i="4263" t="Автообнаружение SPCP"/>
+<phrase i="4264" t="вКорпКат"/>
+<phrase i="4265" t="Слишком много записей&#xA;"/>
+<phrase i="4266" t="Слишком много личных записей&#xA;"/>
+<phrase i="4267" t="Транспортный протокол"/>
+<phrase i="4268" t="Попытка выхода...&#xA;Подождите..."/>
+<phrase i="4269" t="ID пользователя: "/>
+<phrase i="4270" t="Ошибка формата XML или недопустимое приложение"/>
+<phrase i="4271" t="Службы XML"/>
+<phrase i="4272" t="По"/>
+<phrase i="4273" t="Имя пира"/>
+<phrase i="4274" t="Тел. пира"/>
+<phrase i="4275" t="Телефон пира"/>
+<phrase i="4276" t="Первый:"/>
+<phrase i="4277" t="завершить"/><!-- This is a softkey label -->
+<phrase i="4278" t="новыйВызов"/><!-- This is a softkey label -->
+<phrase i="4279" t="Глубокий бас"/>
+<phrase i="4280" t="Новая запись в персональном каталоге"/>
+<phrase i="4281" t="Поиск в персональном каталоге"/>
+<phrase i="12000" t="Запустить приложение"/>
+<phrase i="12001" t="Недопустимый IP-адрес"/>
+<phrase i="12002" t="Выбор линии..."/>
+<phrase i="12003" t="Выбор рингтона..."/>
+<phrase i="12004" t="Требуется авторизация!"/>
+<phrase i="12005" t="CM-ICMP-недоступно"/>
+<phrase i="12006" t="Смещение(\202ч:м:с):"/>
+<phrase i="12007" t="Регистрация..."/>
+<phrase i="12008" t="Вход STUN"/>
+<phrase i="12009" t="Админ. ID VLAN"/>
+<phrase i="12010" t="Изменить TFTP"/>
+<phrase i="12011" t="Call Manager 1"/>
+<phrase i="12012" t="Маршрутизатор по умолчанию 1"/>
+<phrase i="12013" t="DHCP&quot;Статичный IP"/>
+<phrase i="12014" t="TFTP-сервер 1"/>
+<phrase i="12015" t="Веб-доступ включен"/>
+<phrase i="12016" t="Затраченное время"/>
+<phrase i="12017" t="Получ"/>
+<phrase i="12018" t="Версия"/>
+<phrase i="12019" t="Отпр"/>
+<phrase i="12020" t="Подключение..."/>
+<phrase i="12021" t="Успешно обновлено"/>
+<phrase i="12022" t="ПропущВызов"/>
+<phrase i="12023" t="Файл рингтона недоступен!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Регистрация отклонена:&#xA;%s"/>
+<phrase i="12026" t="Метка регистрации SPCP отклонена [%d]&#xA;...повтор..."/>
+<phrase i="12027" t="Ошибка: Не удается найти UC500.&#xA;Обратитесь к администратору"/>
+<phrase i="12028" t="10 с"/>
+<phrase i="12029" t="20 с"/>
+<phrase i="12030" t="30 с"/>
+<phrase i="12031" t="Загрузка...&#xA;%s"/>
+<phrase i="12032" t="(Нет совпадений)"/>
+<phrase i="12033" t="Новое имя"/>
+<phrase i="12034" t="Последний TFTP-сервер"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Тестовый BMP"/>
+<phrase i="12037" t="Румынский"/>
+<phrase i="12038" t="Глубокий бас"/>
+<phrase i="12039" t="Ключевое слово:"/>
+<phrase i="12040" t="Результаты"/>
+<phrase i="12041" t="Результат"/>
+<phrase i="12043" t="Выйти?"/>
+<phrase i="12044" t="Выбрать номер"/>
+<phrase i="12045" t="удержать"/>
+<phrase i="12046" t="Запрещенный номер"/>
+<phrase i="12047" t="вне диапазона!"/>
+<phrase i="12048" t="поиск"/>
+<phrase i="12049" t="С возможностью записи на веб-сервер"/>
+<phrase i="12050" t="Испанский (Мексика)"/>
+<phrase i="12051" t="Во время вызова невозможно получить голосовую почту"/>
+<phrase i="12052" t="Неверный адрес сервера"/>
+<phrase i="12053" t="Ошибка сетевого подключения"/>
+<phrase i="12054" t="Ошибка формата голосовой почты"/>
+<phrase i="12055" t="Ошибка запроса"/>
+<phrase i="12056" t="Измените:"/>
+<phrase i="12057" t="Целевой номер слепой передачи:"/>
+<phrase i="12058" t="включиться в разговор"/>
+<phrase i="12059" t="(Нет поступающих вызовов)"/>
+<phrase i="12060" t="Баннер пропущ.вызова"/>
+<phrase i="12061" t="Включиться в разговор"/>
+<phrase i="12062" t="неактивный"/>
+<phrase i="12063" t="захваченный"/>
+<phrase i="12064" t="выполняется"/>
+<phrase i="12065" t="предупреждение..."/>
+<phrase i="12066" t="удержанная конфиденциальная"/>
+<phrase i="12067" t="активная"/>
+<phrase i="12068" t="удержанная"/>
+<phrase i="12069" t="активная на мосту"/>
+<phrase i="12070" t="удержанная на мосту"/>
+<phrase i="12071" t="вызывающая"/>
+<phrase i="12072" t="в использовании"/>
+<phrase i="12073" t="вызывающая другая"/>
+<phrase i="12074" t="удержанная другая"/>
+<phrase i="12075" t="нет обслуживания"/>
+<phrase i="12076" t="неактивная другая"/>
+<phrase i="12077" t="резервная"/>
+<phrase i="12078" t="Не настроено"/>
+<phrase i="12079" t="Проверка URL обновления...&#xA;Не выключайте питание"/>
+<phrase i="12080" t="Повторная синхронизация..."/>
+<phrase i="12081" t="Успешно синхронизировано"/>
+<phrase i="12082" t="Успешно синхронизировано. &#xA;Телефон будет перезагружен. Подождите"/>
+<phrase i="12083" t="Ошибка синхронизации"/>
+<phrase i="12084" t="Английский (США)"/>
+<phrase i="12085" t="Мост конференции"/>
+<phrase i="12086" t="Неопознанный"/>
+<phrase i="12087" t="сброс"/>
+<phrase i="12088" t="общий"/>
+<phrase i="12089" t="подключенный"/>
+<phrase i="12090" t="добавить в каталог"/>
+<phrase i="12091" t="удержание..."/>
+<phrase i="12092" t="недействительный"/>
+<phrase i="12093" t="возобновление..."/>
+<phrase i="12094" t="вызов..."/>
+<phrase i="12095" t="ответ..."/>
+<phrase i="12096" t="Персональный быстрый набор"/>
+<phrase i="12097" t="Передать на Лx список вызовов"/>
+<phrase i="12098" t="Список вызовов конфЛx"/>
+<phrase i="12099" t="версия"/>
+<phrase i="12100" t="Корпоративный&quot;групповой&quot;персональный"/>
+<phrase i="12101" t="Имя каталога"/>
+<phrase i="12102" t="Хост-сервер"/>
+<phrase i="12103" t="через"/>
+<phrase i="12104" t="Установить состояние агента"/>
+<phrase i="12105" t="Доступен"/>
+<phrase i="12106" t="Журнал перезагрузок"/>
+<phrase i="12107" t="По умолчанию&quot;выс. качество&quot;стандартный"/>
+<phrase i="12108" t="Задержка запуска сети"/>
+<phrase i="12109" t="Особый сигнал ожидания вызова"/>
+<phrase i="12110" t="Включить LLDP-MED"/>
+<phrase i="12111" t="Регистрация отклонена:&#xA;%s"/>
+<phrase i="12112" t="Ошибка: Ошибка регистрации.&#xA;Обратитесь к администратору..."/>
+<phrase i="12113" t="Обнаружена сетевая ошибка."/>
+<phrase i="12114" t="Регистрация..."/>
+<phrase i="12115" t="Сетевая ошибка."/>
+<phrase i="12116" t="Пароль"/>
+<phrase i="12117" t="Успешно синхронизировано. &#xA;Телефон будет перезагружен. Подождите."/>
+<phrase i="12118" t="Версия трубки"/>
+<phrase i="12119" t="Авто&quot;исходная&quot;v3"/>
+<phrase i="12120" t="Ошибка DHCP"/>
+<phrase i="12121" t="Обновить"/>
+<phrase i="12122" t="Инициализация"/>
+<phrase i="12123" t="По команде пользоват."/>
+<phrase i="12124" t="По команде SIP"/>
+<phrase i="12125" t="Ошибка системы"/>
+<phrase i="12126" t="Связь прервана"/>
+<phrase i="12127" t="Система 1"/>
+<phrase i="12128" t="Система 2"/>
+<phrase i="12129" t="Копировать IP"/>
+<phrase i="12130" t="Резервный IP"/>
+<phrase i="12131" t="Система 3"/>
+<phrase i="12132" t="Система 4"/>
+<phrase i="12133" t="Система 5"/>
+<phrase i="12134" t="Система 6"/>
+<phrase i="12135" t="Система 7"/>
+<phrase i="12136" t="По команде SIP"/>
+<phrase i="12137" t="Загрузка словаря"/>
+<phrase i="12138" t="VLAN изменена"/>
+<phrase i="12139" t="Код возврата"/>
+<phrase i="12140" t="Восстановление настроек по умолчанию"/>
+<phrase i="12141" t="Прогр.запрос"/>
+<phrase i="12142" t="IP изменен"/>
+<phrase i="12143" t="Ввести код учетной записи"/>
+<phrase i="12144" t="Ввести внешний номер"/>
+<phrase i="12145" t="Внутренний каталог"/>
+<phrase i="12146" t="Внешний каталог"/>
+<phrase i="12147" t="Каталог групп"/>
+<phrase i="12148" t="Каталог станций"/>
+<phrase i="12149" t="Внешняя музыка"/>
+<phrase i="12150" t="Группа пейджинга 1"/>
+<phrase i="12151" t="Группа пейджинга 2"/>
+<phrase i="12152" t="Группа пейджинга 3"/>
+<phrase i="12153" t="Группа пейджинга 4"/>
+<phrase i="12154" t="Группа пейджинга 5"/>
+<phrase i="12155" t="Внешний пейджинг"/>
+<phrase i="12156" t="Пример вызова"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Системный режим ночного сигнала"/>
+<phrase i="12159" t="Парковка вызова..."/>
+<phrase i="12160" t="Дублирование порта"/>
+<phrase i="12161" t="Вне диапазона!"/>
+<phrase i="12162" t="Служба XML"/>
+<phrase i="12163" t="иврит"/>
+<phrase i="12164" t="Парковка вызова..."/>
+<phrase i="12165" t="Линия"/>
+<phrase i="12166" t="Выберите ввод слева направо или справа налево.&#xA; Ранее введенный текст будет&#xA; удален, продолжить?"/>
+<phrase i="12167" t="Размер шрифта"/>
+<phrase i="12168" t="Настр.автоучастника"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Быстр.набор:указ.Лин.%d"/><!--Def. means define-->
+<phrase i="12170" t="Быстр.набор:указ.Клав.%d"/><!--Def. means define-->
+<phrase i="12171" t="перевод вызова"/>
+<phrase i="12172" t="Ожидание ввода цифр...&#xA;По окончании ввода нажмите OK."/>
+<phrase i="12173" t="Пульсация"/>
+<phrase i="12174" t="Удалить все"/>
+<phrase i="12175" t="Удал.список"/>
+<phrase i="12176" t="Удалить все записи?"/>
+<phrase i="12177" t="Режим Oтображения"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Доб."/>
+<phrase i="12179" t="Оба"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Конфигурация Wi-Fi"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Устройство Wi-Fi не найдено."/>
+<phrase i="12182" t="Профиль беспроводного соединения"/>
+<phrase i="12183" t="Защищенная настройка Wi-Fi"/>
+<phrase i="12184" t="Состояние беспроводного соединения"/>
+<phrase i="12185" t="Базовая настройка"/>
+<phrase i="12186" t="Защищенный режим"/>
+<phrase i="12187" t="Настройка шифрования"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Диапазон"/>
+<phrase i="12190" t="Шифрование WPA"/>
+<phrase i="12191" t="Формат общего ключа"/>
+<phrase i="12192" t="Ключ WPA"/>
+<phrase i="12193" t="Тип авторизации WEP"/>
+<phrase i="12194" t="Длина ключа WEP"/>
+<phrase i="12195" t="Ключ WEP"/>
+<phrase i="12196" t="Профиль"/>
+<phrase i="12197" t="Настройка с помощью PIN-кода"/>
+<phrase i="12198" t="Началась конфигурация PIN беспроводной сети!"/>
+<!--phrase i="12199" t="Для устройств, требующих ввода PIN-кода, введите следующее число: [%s], затем выберите этот режим."/-->
+<phrase i="12200" t="Поиск беспроводных сетей..."/>
+<phrase i="12201" t="Выберите профиль"/>
+<phrase i="12202" t="Настройка с помощью кнопки"/>
+<phrase i="12203" t="Кнопка старт конфигурации беспроводной сети"/>
+<phrase i="12204" t="Защищенная настройка Wi-Fi"/>
+<phrase i="12205" t="Состояние беспроводного соединения"/>
+<phrase i="12206" t="Имя сети (SSID)"/>
+<phrase i="12207" t="Мощность сигнала"/>
+<phrase i="12208" t="поиск"/>
+<phrase i="12209" t="Чтобы использовать эту функцию, необходимо обновить микропрограмму WBPN до последней версии."/>
+<phrase i="12210" t="Гостевой вход"/>
+<phrase i="12211" t="gstIn"/>
+<phrase i="12212" t="gstOut"/>
+<phrase i="12213" t="(Гость подключен)"/> 
+<phrase i="12214" t="Все настройки будут сброшены до фабричных настроек. Продолжить?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

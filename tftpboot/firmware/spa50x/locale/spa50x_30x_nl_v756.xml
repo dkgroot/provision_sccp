@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Dutch</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Domeinnaam"/>
+<phrase i="204" t="IP-adres"/>
+<phrase i="205" t="Subnetmasker"/>
+<phrase i="212" t="DNS-server 1"/>
+<phrase i="213" t="DNS-server 2"/>
+<phrase i="225" t="Telefoonlijsten-URL"/>
+<phrase i="226" t="Berichten-URL"/>
+<phrase i="227" t="Services-URL"/>
+<phrase i="354" t="Ontvangen gesprekken"/>
+<phrase i="355" t="Gevoerde gesprekken"/>
+<phrase i="364" t="Contrast"/>
+<phrase i="365" t="Netwerkconfiguratie"/>
+<phrase i="374" t="Tjilp 1"/>
+<phrase i="375" t="Tjilp 2"/>
+<phrase i="378" t="Beltoon"/>
+<phrase i="384" t="Statusberichten"/>
+<phrase i="393" t="Netwerkstatistieken"/>
+<phrase i="473" t="IP-adres vrijgegeven"/>
+<phrase i="500" t="DHCP-adres vrijgegeven"/>
+<phrase i="502" t="Configuratie wissen"/>
+<phrase i="552" t="Verificatie-URL"/>
+<phrase i="585" t="Gebruikerslocatie"/>
+<phrase i="586" t="Netwerklocatie"/>
+<phrase i="635" t="DHCP-server"/>
+<phrase i="655" t="Modelinformatie"/>
+<phrase i="657" t="Modelnummer"/>
+<phrase i="670" t="Standaardbeltoon"/>
+<phrase i="676" t="KortKies"/>
+<phrase i="716" t="Beveiligingsconfig."/>
+<phrase i="3000" t="Gemiste gesprekken"/>
+<phrase i="3001" t="Lijst Opnieuw kiezen"/>
+<phrase i="3002" t="Belvolume"/>
+<phrase i="3003" t="Luidsprekervolume"/>
+<phrase i="3004" t="Headsetvolume"/>
+<phrase i="3005" t="Handsetvolume"/>
+<phrase i="3006" t="LCD-contrast"/>
+<phrase i="3007" t="status"/>
+<phrase i="3008" t="Status"/>
+<phrase i="3009" t="Toets lijn 4"/><!-- comment content -->
+<phrase i="3010" t="Toets lijn 3"/>
+<phrase i="3011" t="Toets lijn 2"/>
+<phrase i="3012" t="Toets lijn 1"/>
+<phrase i="3013" t="Toestel 4"/>
+<phrase i="3014" t="Toestel 3"/>
+<phrase i="3015" t="Toestel 2"/>
+<phrase i="3016" t="Toestel 1"/>
+<phrase i="3018" t="nStor"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Lokale services"/>
+<phrase i="3020" t="NwGesprek"/>
+<phrase i="3021" t="Ink. gesprek"/>
+<phrase i="3022" t="Intercom"/>
+<phrase i="3023" t="Herh"/><!-- This is a softkey label -->
+<phrase i="3027" t="Systeem start opnieuw&#xA;Een moment"/>
+<phrase i="3028" t="Systeem reboot&#xA;Een moment"/>
+<phrase i="3029" t="Fabrieksinstellingen herstellen&#xA;Een moment"/>
+<phrase i="3030" t="Opnieuw starten systeem bevestigen?"/>
+<phrase i="3031" t="Reboot systeem bevestigen?"/>
+<phrase i="3032" t="De fabrieksinstellingen van alle parameters worden &#xA;hersteld.&#xA;Doorgaan?"/>
+<phrase i="3033" t="Fout in wachtwoord. Opnieuw proberen?"/>
+<phrase i="3034" t="Nw wachtw:"/>
+<phrase i="3035" t="Voicemailnummer:"/>
+<phrase i="3036" t="Offset(U:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Tijd(U:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Datum(m/d/j):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Afm"/><!-- This is a softkey label -->
+<phrase i="3040" t="Aanm"/><!-- This is a softkey label -->
+<phrase i="3041" t="x instellen"/>
+<phrase i="3042" t="Instellen"/>
+<phrase i="3043" t="Netwerk"/>
+<phrase i="3044" t="Geef beheerderswachtwoord op:"/>
+<phrase i="3045" t="Nee"/>
+<phrase i="3046" t="Doorst geen gehoor na bep tijd"/>
+<phrase i="3047" t="Doorst bij geen gehoor"/>
+<phrase i="3048" t="Doorsturen bij bezet"/>
+<phrase i="3049" t="Alle gespr doorsturen"/>
+<phrase i="3050" t="Multicast-adres"/>
+<phrase i="3051" t="Niet-DHCP NTP-server 2"/>
+<phrase i="3052" t="Niet-DHCP NTP-server 1"/>
+<phrase i="3053" t="Niet-DHCP DNS 2"/>
+<phrase i="3054" t="Niet-DHCP DNS 1"/>
+<phrase i="3055" t="Niet-DHCP-standaardroute"/>
+<phrase i="3056" t="Niet-DHCP-subnetmasker"/>
+<phrase i="3057" t="Niet-DHCP-IP-adres"/>
+<phrase i="3058" t="Webserver inschakelen"/>
+<phrase i="3059" t="Huidige gateway"/>
+<phrase i="3060" t="Huidig netmasker"/>
+<phrase i="3061" t="Domein"/>
+<phrase i="3062" t="Hostnaam"/>
+<phrase i="3063" t="Huidig IP-adres"/>
+<phrase i="3064" t="DHCP inschakelen"/>
+<phrase i="3065" t="Verbindingstype WAN"/>
+<phrase i="3066" t="Datumnotatie"/>
+<phrase i="3067" t="Tijdnotatie"/>
+<phrase i="3068" t="Audio naar luidspreker"/>
+<phrase i="3069" t="Pag voor autom. beantw."/>
+<phrase i="3070" t="Voorkeursaudioapparaat"/>
+<phrase i="3071" t="Kieshulp"/>
+<phrase i="3072" t="Beveiligd gesprek"/>
+<phrase i="3073" t="Niet storen"/>
+<phrase i="3074" t="Anonieme gespr. blokk."/>
+<phrase i="3075" t="Beller-id blokk."/>
+<phrase i="3076" t="Clientcertificaat"/>
+<phrase i="3077" t="MAC-adres"/>
+<phrase i="3078" t="Hardwareversie"/>
+<phrase i="3079" t="Softwareversie"/>
+<phrase i="3080" t="Serienummer"/>
+<phrase i="3081" t="Productnaam"/>
+<phrase i="3082" t="Voorkeursapparaat"/>
+<phrase i="3083" t="Naam telefoon"/>
+<phrase i="3085" t="Status gepark. gesprek"/>
+<phrase i="3087" t="Wachtwoord instellen"/>
+<phrase i="3088" t="Fabrieksinst. herst."/>
+<phrase i="3089" t="Opn. starten"/>
+<phrase i="3090" t="Reboot"/>
+<phrase i="3092" t="Productinformatie"/>
+<phrase i="3094" t="Voicemail"/>
+<phrase i="3095" t="Tijd/datum"/>
+<phrase i="3096" t="Gesprekken doorst."/>
+<phrase i="3097" t="Voorkeuren"/>
+<phrase i="3099" t="Belgeschiedenis"/>
+<phrase i="3100" t="Snelkiezen"/>
+<phrase i="3101" t="Telefoonlijst"/>
+<phrase i="3102" t="Snelkeuze x invoeren"/>
+<phrase i="3104" t="Bel 10"/>
+<phrase i="3105" t="Bel 9"/>
+<phrase i="3106" t="Bel 8"/>
+<phrase i="3107" t="Bel 7"/>
+<phrase i="3108" t="Bel 6"/>
+<phrase i="3109" t="Bel 5"/>
+<phrase i="3110" t="Bel 4"/>
+<phrase i="3111" t="Bel 3"/>
+<phrase i="3112" t="Bel 2"/>
+<phrase i="3113" t="Bel 1"/>
+<phrase i="3114" t="Extern bellen"/>
+<phrase i="3115" t="Extern 1: "/>
+<phrase i="3116" t="Beltoon"/>
+<phrase i="3117" t="Verwijderen: "/>
+<phrase i="3118" t="Lijst is leeg"/>
+<phrase i="3119" t="Onjuist wachtwoord. Opnieuw proberen?"/>
+<phrase i="3120" t="Voer wachtwoord in:"/>
+<phrase i="3121" t="Gepark. gesprek"/>
+<phrase i="3123" t="Gepark. gesprek opvragen&#xA;Status mislukt"/>
+<phrase i="3124" t="Geen gepark. gesprekken"/>
+<phrase i="3125" t="Gepark. gesprek opvragen&#xA;Status..."/>
+<phrase i="3126" t="Ongeldig park.nr&#xA;Probeer het opnieuw"/>
+<phrase i="3127" t="Telefoon bellen"/>
+<phrase i="3128" t="Gesprek aannemen"/>
+<phrase i="3129" t="Selectr wachtlijn&#xA;voor doorverbinden"/>
+<phrase i="3130" t="Selectr wachtlijn&#xA;voor tel. vergaderen"/>
+<phrase i="3131" t="*Code voor kiezen"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="Forceer G729A"/>
+<phrase i="3133" t="Verkies G729A"/>
+<phrase i="3134" t="Forceer G726r40"/>
+<phrase i="3135" t="Verkies G726r40"/>
+<phrase i="3136" t="Forceer G726r32"/>
+<phrase i="3137" t="Verkies G726r32"/>
+<phrase i="3138" t="Forceer G726r24"/>
+<phrase i="3139" t="Verkies G726r24"/>
+<phrase i="3140" t="Forceer G726r16"/>
+<phrase i="3141" t="Verkies G726r16"/>
+<phrase i="3142" t="Forceer G723"/>
+<phrase i="3143" t="Verkies G723"/>
+<phrase i="3144" t="Forceer G711A"/>
+<phrase i="3145" t="Verkies G711A"/>
+<phrase i="3146" t="Forceer G711U"/>
+<phrase i="3147" t="Verkies G711U"/>
+<phrase i="3148" t="Tekstbericht"/>
+<phrase i="3149" t="Volgende beveiligen annul."/>
+<phrase i="3150" t="Volgende beveiligen"/>
+<phrase i="3151" t="Alle gespr. beveiligen annul."/>
+<phrase i="3152" t="Alle gesprekken beveiligen"/>
+<phrase i="3153" t="Niet storen annul."/>
+<phrase i="3155" t="Anonieme gespr. blokk. opheffen"/>
+<phrase i="3157" t="Volg. beller-id blokk. oph."/>
+<phrase i="3158" t="Volgende beller-id blokk."/>
+<phrase i="3159" t="Beller-id blokk. annul."/>
+<phrase i="3160" t="Beller-id blokk."/>
+<phrase i="3161" t="Terugbellen annul."/>
+<phrase i="3162" t="Terugbellen"/>
+<phrase i="3163" t="Gespr doorstrn bij niet beantw. annul."/>
+<phrase i="3164" t="Gespr doorstrn bij niet beantw."/>
+<phrase i="3165" t="Gespr doorstrn bij bezet annul."/>
+<phrase i="3166" t="Gespr doorstrn bij bezet"/>
+<phrase i="3167" t="Doorst v alle gespr annul."/>
+<phrase i="3168" t="Alle gespr doorstrn"/>
+<phrase i="3169" t="Terugbellen"/>
+<phrase i="3190" t="Headset   "/>
+<phrase i="3191" t="Handset   "/>
+<phrase i="3192" t="Luidspreker   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Toetsenblok   "/>
+<phrase i="3201" t="Gelukt"/>
+<phrase i="3202" t="Mislukt"/>
+<phrase i="3216" t="Bel:"/>
+<phrase i="3217" t="Nummer:"/>
+<phrase i="3218" t="Naam:"/>
+<phrase i="3219" t="Verwijderen:"/>
+<phrase i="3220" t="Beantwoorder bellen"/>
+<phrase i="3221" t="TlfLst"/>
+<phrase i="3222" t="Voer nummer in:"/>
+<phrase i="3223" t="Voer paginadoel in:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Voer groep beantw. tel. in:"/>
+<phrase i="3225" t="Voer doel spec. serv. in:"/>
+<phrase i="3226" t="Voer doel referral service in:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Voer nr in voor oph. park:"/>
+<phrase i="3228" t="Voer nr in voor park.:"/>
+<phrase i="3229" t="Voer doel blind doorverb in:"/>
+<phrase i="3230" t="Nr doorstrn bij geen gehoor:"/>
+<phrase i="3231" t="Nr doorstrn bij bezet:"/>
+<phrase i="3232" t="Nr alles doorsturen:"/>
+<phrase i="3234" t="Meer cijfers invoeren:"/>
+<phrase i="3237" t="Gemiste gesprekken"/>
+<phrase i="3238" t="Beantw. gesprekken"/>
+<phrase i="3239" t="Beantwoorde gespr."/>
+<phrase i="3240" t="Lijst Opnieuw kiezen"/>
+<phrase i="3241" t="Netwerk initialiseren"/>
+<phrase i="3242" t="DNS controleren"/>
+<phrase i="3243" t="lijst"/><!-- This is a softkey label -->
+<phrase i="3244" t="dstrn"/><!-- This is a softkey label -->
+<phrase i="3245" t="Taal"/>
+<phrase i="3246" t="Taalselectie"/>
+<phrase i="3248" t="Doorgest. gesprekken"/>
+<phrase i="3249" t="Nieuw gemist gesprek"/>
+<phrase i="3250" t="Nieuwe gemiste gesprekken"/>
+<phrase i="3251" t="meer"/><!-- This is a softkey label -->
+<phrase i="3252" t="opnw"/><!-- This is a softkey label -->
+<phrase i="3253" t="afbr"/><!-- This is a softkey label -->
+<phrase i="3254" t="ntBsb"/><!-- This is a softkey label -->
+<phrase i="3255" t="bsb"/><!-- This is a softkey label -->
+<phrase i="3258" t="grOpn"/><!-- This is a softkey label -->
+<phrase i="3259" t="pakOp"/><!-- This is a softkey label -->
+<phrase i="3260" t="prkUit"/><!-- This is a softkey label -->
+<phrase i="3261" t="park"/><!-- This is a softkey label -->
+<phrase i="3262" t="blDrvb"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="DrvbLx"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="drst"/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*code"/><!-- This is a softkey label -->
+<phrase i="3267" t="select"/><!-- This is a softkey label -->
+<phrase i="3268" t="slaOp"/><!-- This is a softkey label -->
+<phrase i="3270" t="hervat"/><!-- This is a softkey label -->
+<phrase i="3272" t="vorige"/><!-- This is a softkey label -->
+<phrase i="3273" t="speel"/><!-- This is a softkey label -->
+<phrase i="3274" t="plak"/><!-- This is a softkey label -->
+<phrase i="3275" t="optie"/><!-- This is a softkey label -->
+<phrase i="3276" t="ok"/><!-- This is a softkey label -->
+<phrase i="3277" t="getal"/><!-- This is a softkey label -->
+<phrase i="3278" t="vlgnd"/><!-- This is a softkey label -->
+<phrase i="3279" t="gemist"/><!-- This is a softkey label -->
+<phrase i="3281" t="LtstG"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="deeln"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="afsltn"/><!-- This is a softkey label -->
+<phrase i="3285" t="bewerk"/><!-- This is a softkey label -->
+<phrase i="3286" t="nStor"/><!-- This is a softkey label -->
+<phrase i="3288" t="kies"/><!-- This is a softkey label -->
+<phrase i="3289" t="verwij"/><!-- This is a softkey label -->
+<phrase i="3290" t="kopie"/><!-- This is a softkey label -->
+<phrase i="3291" t="confLx"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="conf"/><!-- This is a softkey label -->
+<phrase i="3293" t="wis"/><!-- This is a softkey label -->
+<phrase i="3294" t="-drst"/><!-- This is a softkey label -->
+<phrase i="3295" t="-nStor"/><!-- This is a softkey label -->
+<phrase i="3296" t="wijzig"/><!-- This is a softkey label -->
+<phrase i="3298" t="annul"/><!-- This is a softkey label -->
+<phrase i="3299" t="brug"/><!-- This is a softkey label -->
+<phrase i="3300" t="TekWis"/><!-- This is a softkey label -->
+<phrase i="3301" t="letter"/><!-- This is a softkey label -->
+<phrase i="3302" t="toev"/><!-- This is a softkey label -->
+<phrase i="3303" t="x instellen"/>
+<phrase i="3304" t="Instellen"/>
+<phrase i="3305" t="Gedeeld"/>
+<phrase i="3306" t="Prob. te hervatten"/>
+<phrase i="3307" t="Prob. in wacht zetten"/>
+<phrase i="3308" t="In wacht"/>
+<phrase i="3309" t="Verbonden"/>
+<phrase i="3310" t="Beantwoorden"/>
+<phrase i="3311" t="Gesprek beëindigd"/>
+<phrase i="3312" t="Bellen"/>
+<phrase i="3313" t="Gebelde partij bellen"/>
+<phrase i="3314" t="Bellen"/>
+<phrase i="3315" t="Contact opnemen met STUN-server"/>
+<phrase i="3316" t="Kiezen"/>
+<phrase i="3317" t="Telefoon kiezen"/>
+<phrase i="3318" t="Gesprek kiezen"/>
+<phrase i="3319" t="Gespreksinfo verzamelen"/>
+<phrase i="3320" t="Lijn proberen in beslag te nemen"/>
+<phrase i="3321" t="Gereed"/>
+<phrase i="3322" t="Ja"/>
+<phrase i="3323" t="Niet geregistreerd"/>
+<phrase i="3324" t="Geregistreerd"/>
+<phrase i="3325" t="Inkomend"/>
+<phrase i="3326" t="Uitgaand"/>
+<phrase i="3327" t="Terugbellen"/>
+<phrase i="3328" t="Doorgestuurd"/>
+<phrase i="3329" t="Doorverbonden"/>
+<phrase i="3330" t="Ongeldig"/>
+<phrase i="3331" t="Inactief"/>
+<phrase i="3332" t="Toon gespr. in wacht"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Bellen - terugbellen"/>
+<phrase i="3334" t="Bellen - in wacht"/>
+<phrase i="3335" t="Bellen"/>
+<phrase i="3336" t="Signaal beveiligd gesprek"/>
+<phrase i="3337" t="Tel. verg."/>
+<phrase i="3338" t="In wacht"/>
+<phrase i="3339" t="Fout"/>
+<phrase i="3340" t="Bevestigen"/>
+<phrase i="3341" t="Prompt"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Waarschuwing hoorn van haak"/>
+<phrase i="3347" t="Terugbellen"/>
+<phrase i="3348" t="Nabestellen"/>
+<phrase i="3349" t="Bezet"/>
+<phrase i="3350" t="Signaal ontvangen bericht"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Buitenlijn kiezen"/>
+<phrase i="3352" t="Tweede keer kiezen"/>
+<phrase i="3353" t="Kies"/><!-- This is a softkey label -->
+<phrase i="3354" t="geen"/>
+<phrase i="3355" t="Drverb"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Drstrn"/>
+<phrase i="3357" t="Trgbel"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Tot"/>
+<phrase i="3359" t="Van"/>
+<phrase i="3360" t="Nieuwe invoer"/>
+<phrase i="3361" t="(FULL)"/>
+<phrase i="3362" t="Bedrijfstelefoonlijst"/>
+<phrase i="3363" t="Nr voor aannemen:"/>
+<phrase i="3365" t="Snelkiezen"/>
+<phrase i="3366" t="&lt;Niet-toegewezen&gt;"/>
+<phrase i="3367" t="Snelkiesnr 2 invoeren"/>
+<phrase i="3368" t="Snelkiesnr 3 invoeren"/>
+<phrase i="3369" t="Snelkiesnr 4 invoeren"/>
+<phrase i="3370" t="Snelkiesnr 5 invoeren"/>
+<phrase i="3371" t="Snelkiesnr 6 invoeren"/>
+<phrase i="3372" t="Snelkiesnr 7 invoeren"/>
+<phrase i="3373" t="Snelkiesnr 8 invoeren"/>
+<phrase i="3374" t="Snelkiesnr 9 invoeren"/>
+<phrase i="3375" t="Snelkiesnr invoeren"/>
+<phrase i="3376" t="Belgeschiedenis"/>
+<phrase i="3377" t="Beantwoorde gespr."/>
+<phrase i="3378" t="Beltoon"/>
+<phrase i="3379" t="E1 bellen"/>
+<phrase i="3380" t="E2 bellen"/>
+<phrase i="3381" t="E3 bellen"/>
+<phrase i="3382" t="E4 bellen"/>
+<phrase i="3383" t="Bedrijfstelefoonlijst"/>
+<phrase i="3384" t="Voorkeuren"/>
+<phrase i="3385" t="j/n"/><!-- This is a softkey label -->
+<phrase i="3386" t="Beller-id blokk.&#xA;"/>
+<phrase i="3387" t="Anonieme gespr. blokk.&#xA;"/>
+<phrase i="3388" t="Niet storen&#xA;"/>
+<phrase i="3389" t="Beveiligd gesprek&#xA;"/>
+<phrase i="3390" t="Kieshulp&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Voorkeursaudioapparaat&#xA;"/>
+<phrase i="3394" t="Pag voor autom. beantw.&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Audio naar luidspreker&#xA;"/>
+<phrase i="3396" t="Tijdnotatie&#xA;"/>
+<phrase i="3397" t="Datumnotatie&#xA;"/>
+<phrase i="3398" t="dag/maand"/>
+<phrase i="3399" t="maand/dag"/>
+<phrase i="3400" t="Taal"/>
+<phrase i="3401" t="Status gepark. gesprek"/>
+<phrase i="3402" t="Status"/>
+<phrase i="3403" t="Telefoonstatus"/>
+<phrase i="3405" t="Status ext. 2"/>
+<phrase i="3406" t="Status lijn 1"/>
+<phrase i="3407" t="Status lijn 2"/>
+<phrase i="3408" t="Status lijn 3"/>
+<phrase i="3409" t="Status lijn 4"/>
+<phrase i="3410" t="Gesprek1:"/>
+<phrase i="3412" t="Datum: "/>
+<phrase i="3413" t="Tijd actief: "/>
+<phrase i="3415" t="Laatste reg op %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Volgende reg over %us&#xA;"/>
+<phrase i="3418" t="Gesprek 1: "/>
+<phrase i="3420" t="Toon: "/>
+<phrase i="3421" t="Geen"/>
+<phrase i="3422" t="Niet geïnstalleerd"/>
+<phrase i="3423" t="Stndrd"/><!-- This is a softkey label -->
+<phrase i="3425" t="Telefoon"/>
+<phrase i="3426" t="Gespreksgroep"/>
+<phrase i="3427" t="Automat. beantwoorder"/>
+<phrase i="3428" t="Interne muziek"/>
+<phrase i="3429" t="Even geduld"/>
+<phrase i="3430" t="Proberen aan te melden"/>
+<phrase i="3432" t="Contact opnemen met ACD-server&#xA;Voor beschikb."/>
+<phrase i="3433" t="Contact opnemen met ACD-server&#xA;Voor niet beschikb."/>
+<phrase i="3434" t="Aanmelden mislukt.&#xA;"/>
+<phrase i="3435" t="Controleer uw gebruikers-id&#xA;en wachtwoord."/>
+<phrase i="3437" t="Beschkb. inform mislukt&#xA;"/>
+<phrase i="3438" t="Niet beschkb. inform mislukt&#xA;"/>
+<phrase i="3439" t="Gebruikers-id:"/>
+<phrase i="3440" t="Wachtwoord:"/>
+<phrase i="3441" t="ACD aanmelden"/>
+<phrase i="3445" t="Firmware upgraden&#xA;Verwijder de stekker niet&#xA;Telef reboot&#xA;automatisch"/>
+<phrase i="3446" t="&#xA;&#xA;Opnemen: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Systeem opn start"/>
+<phrase i="3451" t="Bedrijfstelefoonlijst&#xA;van server opvragen..."/>
+<phrase i="3452" t="Bedrijfstelefoonlijst&#xA;opvragen mislukt"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="Onbekende vermelding"/>
+<phrase i="3468" t="Onbekende gebruiker"/>
+<phrase i="3469" t="Van: %s"/>
+<phrase i="3470" t="gateway"/>
+<phrase i="3472" t="Gesprek delen %s"/>
+<phrase i="3473" t="Van: %s&#xA;"/>
+<phrase i="3476" t="ontvanger"/>
+<phrase i="3477" t="status"/>
+<phrase i="3478" t="beëindigd"/>
+<phrase i="3479" t="proberen"/>
+<phrase i="3480" t="vroeg"/>
+<phrase i="3481" t="doorgaan"/>
+<phrase i="3482" t="bevestigd"/>
+<phrase i="3503" t="Gebruiker %d"/>
+<phrase i="3504" t="Niet bellen"/>
+<phrase i="3509" t="Gebruiker %d (Niet geïnstalleerd)"/>
+<phrase i="3510" t="12 uur"/>
+<phrase i="3511" t="24 uur"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Statisch IP-adres"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="wachtw."/><!-- password -->
+<phrase i="3517" t="configureren"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Taal (niet beschikbaar)"/>
+<phrase i="3519" t="Niet beschikbaar"/>
+<phrase i="3520" t="bevestigen"/>
+<phrase i="3521" t="contrast"/>
+<phrase i="3522" t="snl_kiezen"/>
+<phrase i="3523" t="%d dagen"/>
+<phrase i="3524" t="1 dag"/>
+<phrase i="3525" t="Uitgeschakeld&#xA;"/>
+<phrase i="3526" t="Gesprek %d Type: %s&#xA;"/>
+<phrase i="3527" t="Naam peer: %s&#xA;"/>
+<phrase i="3528" t="Telefoon peer: %s&#xA;"/>
+<phrase i="3529" t="Duur: %02d:%02d:%02d"/>
+<phrase i="3530" t="Gesprek %d: %s&#xA;"/>
+<phrase i="3531" t="Toon: %s&#xA;"/>
+<phrase i="3532" t="Cod: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Decod: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Geen service&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Telefoonstatus"/>
+<phrase i="3536" t="Status toest %d"/>
+<phrase i="3537" t="L%d-status"/>
+<phrase i="3538" t="Tijd/datum"/>
+<phrase i="3539" t="Wijzigingen volume opslaan&#xA;"/>
+<phrase i="3540" t="Wijzigingen contrast opslaan&#xA;"/>
+<phrase i="3541" t="herh"/><!-- This is a softkey label -->
+<phrase i="3542" t="aanm"/><!-- This is a softkey label -->
+<phrase i="3543" t="afm"/><!-- This is a softkey label -->
+<phrase i="3544" t="vol."/>
+<phrase i="3545" t="instellen"/>
+<phrase i="3546" t="Gemist gesprek"/>
+<phrase i="3548" t="Mislukt&#xA;"/>
+<phrase i="3549" t="parkUit?"/>
+<phrase i="3550" t="Engels"/>
+<phrase i="3551" t="Spaans"/>
+<phrase i="3552" t="Portugees"/>
+<phrase i="3553" t="Italiaans"/>
+<phrase i="3554" t="Duits"/>
+<phrase i="3555" t="Deens"/>
+<phrase i="3556" t="Fins"/>
+<phrase i="3557" t="Nederlands"/>
+<phrase i="3558" t="Noors"/>
+<phrase i="3559" t="Frans"/>
+<phrase i="3560" t="Timer achtergr.verl."/>
+<phrase i="3561" t="Altijd aan"/>
+<phrase i="3562" t="Uit"/>
+<phrase i="3563" t="Snelkoppeling gemist gesprek"/>
+<phrase i="3564" t="Gesprek in wachtstand"/>
+<phrase i="3565" t="VLAN insch"/>
+<phrase i="3566" t="VLAN-id"/>
+<phrase i="3567" t="Kantoor"/>
+<phrase i="3568" t="Klassiek-1"/>
+<phrase i="3569" t="Klassiek-2"/>
+<phrase i="3570" t="Klassiek-3"/>
+<phrase i="3571" t="Klassiek-4"/>
+<phrase i="3572" t="Simpel-1"/>
+<phrase i="3573" t="Simpel-2"/>
+<phrase i="3574" t="Simpel-3"/>
+<phrase i="3575" t="Simpel-4"/>
+<phrase i="3576" t="Simpel-5"/>
+<phrase i="3577" t="Geïnstalleerd"/>
+<phrase i="3578" t="tekWis"/>
+<phrase i="3579" t="Drst"/><!-- This is a softkey label -->
+<phrase i="3580" t="-nStor"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Niet storen "/>
+<phrase i="3582" t="-drst"/><!-- This is a softkey label -->
+<phrase i="3583" t="ConfLn"/><!-- This is a softkey label -->
+<phrase i="3584" t="OntvOp"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Vorige"/><!-- This is a softkey label -->
+<phrase i="3586" t="Drvb"/><!-- This is a softkey label -->
+<phrase i="3587" t="LnDrvb"/><!-- This is a softkey label -->
+<phrase i="3588" t="BlDrvb"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="GrOpn"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Vrbld"/><!-- This is a softkey label -->
+<phrase i="3591" t="GUI-eigenschappen"/>
+<phrase i="3592" t="GUI-eigenschappen"/>
+<phrase i="3593" t="Gewenste achtergrondafb."/>
+<phrase i="3594" t="Gedownload"/>
+<phrase i="3596" t="Gewenste menukleur"/>
+<phrase i="3597" t="Lichtblauw"/>
+<phrase i="3598" t="Lichtgroen"/>
+<phrase i="3599" t="Roze"/>
+<phrase i="3600" t="Zilver"/>
+<phrase i="3601" t="Doorgest. gesprekken "/>
+<phrase i="3602" t="Toets lijn 5"/>
+<phrase i="3603" t="Toets lijn 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Toestel 5"/>
+<phrase i="3606" t="Toestel 6"/>
+<phrase i="3607" t="Luidspreker"/>
+<phrase i="3608" t="Headset"/>
+<phrase i="3609" t="am"/>
+<phrase i="3610" t="pm"/>
+<phrase i="3614" t="Lijn %d: %s(%s)"/>
+<phrase i="3616" t="Aangepaste reset"/>
+<phrase i="3617" t="Check voor updates&#xA;van persoonlijke profiel?&#xA;(achtergrondtaak)"/>
+<phrase i="3618" t="Webservice"/>
+<phrase i="3619" t="Webservice"/>
+<phrase i="3620" t="Nieuws lokaal"/>
+<phrase i="3621" t="Nieuws wereld"/>
+<phrase i="3623" t="Nieuws sport"/>
+<phrase i="3624" t="Nieuws politiek"/>
+<phrase i="3625" t="Nieuws technologie"/>
+<phrase i="3626" t="Nieuws amusement"/>
+<phrase i="3627" t="Verkeer"/>
+<phrase i="3628" t="Aandeel Symbool"/>
+<phrase i="3629" t="Aandeel Symbool:"/>
+<phrase i="3630" t="RSS-feed 1"/>
+<phrase i="3631" t="RSS-feed 2"/>
+<phrase i="3632" t="RSS-feed 3"/>
+<phrase i="3633" t="RSS-feed 4"/>
+<phrase i="3634" t="RSS-feed 5"/>
+<phrase i="3635" t="Symbool:"/>
+<phrase i="3636" t="Laatste:"/>
+<phrase i="3637" t="Verandering:"/>
+<phrase i="3638" t="Geboden:"/>
+<phrase i="3639" t="Gevraagd:"/>
+<phrase i="3640" t="Toegangsbeheer"/>
+<phrase i="3641" t="Geschiedenis gesprek."/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="Profiel:%s&#xA;"/>
+<phrase i="3644" t="Status:%s&#xA;"/>
+<phrase i="3645" t="Reden:%s&#xA;"/>
+<phrase i="3647" t="Uitgeschakeld"/>
+<phrase i="3649" t="Vertaalfout in regel"/>
+<phrase i="3650" t="In voortgang"/>
+<phrase i="3651" t="Gelukt"/>
+<phrase i="3652" t="DNS-resolutie"/>
+<phrase i="3653" t="Geen servernaam"/>
+<phrase i="3654" t="Foutieve of vertrouwelijke server"/>
+<phrase i="3655" t="Bronnen uitgeput"/>
+<phrase i="3656" t="Beschadigd bestand"/>
+<phrase i="3657" t="Encryptiesleutel"/>
+<phrase i="3658" t="Ongeldige URL"/>
+<phrase i="3659" t="Bestand niet gevonden"/>
+<phrase i="3660" t="Download mislukt"/>
+<phrase i="3661" t="&lt;Geen item&lt;"/>
+<phrase i="3662" t="Type:%s"/>
+<phrase i="3663" t="Naam peer:%s"/>
+<phrase i="3664" t="Tel. peer:%s"/>
+<phrase i="3665" t="Duur:"/>
+<phrase i="3666" t="Beltijd:"/>
+<phrase i="3667" t="Cod:%s"/>
+<phrase i="3668" t="Decod:%s"/>
+<phrase i="3669" t="Bel-id:%s"/>
+<phrase i="3674" t="Nieuwsfeedgegevens bijwerken..."/>
+<phrase i="3675" t="Geen nieuwsfeedgegevens beschikb.."/>
+<phrase i="3676" t="Ophalen nieuwsfeedgegevens mislukt..."/>
+<phrase i="3677" t="Nieuws"/>
+<phrase i="3680" t="Tx: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Rx: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Gesprekstype: %s&#xA;"/>
+<phrase i="3687" t="Leeg"/>
+<phrase i="3690" t="Toegangsbeheerstatus"/>
+<phrase i="3693" t="Gesprekstatistieken"/>
+<phrase i="3703" t="EXT:%d"/>
+<phrase i="3704" t="Aandeleninfo bijwerken..."/>
+<phrase i="3705" t="Geen aandeleninfo beschikbaar..."/>
+<phrase i="3706" t="Aandeleninfo ophalen mislukt..."/>
+<phrase i="3713" t="Yahoo Aandeleninfo"/>
+<phrase i="3715" t="Verkeersinformatie bijwerken..."/>
+<phrase i="3716" t="Geen verkeersinformatie beschikbaar..."/>
+<phrase i="3717" t="Verkeersinformatie ophalen mislukt..."/>
+<phrase i="3718" t="Geen verkeersinformatie beschikbaar..."/>
+<phrase i="3719" t="Verkeersinformatie weergeven mislukt..."/>
+<phrase i="3721" t="Aandeleninfo"/>
+<phrase i="3730" t="Yahoo! aanmelden"/>
+<phrase i="3731" t="Yahoo! afmelden?"/>
+<phrase i="3732" t="Geslaagd"/>
+<phrase i="3733" t="Mislukt. Controleer&#xA;gebruikers-id en wachtwoord"/>
+<phrase i="3734" t="Aanmelden. Even geduld."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="Doorgest. gesprekken&#xA;"/>
+<phrase i="3737" t="Afgemeld&#xA;"/>
+<phrase i="3738" t="Aanmelden&#xA;"/>
+<phrase i="3739" t="Niet geregistreerd&#xA;"/>
+<phrase i="3741" t="&#xA;Door: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;Opnemen: "/>
+<phrase i="3744" t="%sAfgemeld"/>
+<phrase i="3745" t="bijwrk"/><!-- This is a softkey label -->
+<phrase i="3746" t="Detail"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_LANGUAGE"/>
+<phrase i="3757" t="BMP-afbeelding"/>
+<phrase i="3758" t="Toev"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alfa"/><!-- This is a softkey label -->
+<phrase i="3760" t="TekWis"/><!-- This is a softkey label -->
+<phrase i="3761" t="Brug"/><!-- This is a softkey label -->
+<phrase i="3762" t="Annul"/><!-- This is a softkey label -->
+<phrase i="3764" t="Wis"/><!-- This is a softkey label -->
+<phrase i="3765" t="Conf"/><!-- This is a softkey label -->
+<phrase i="3766" t="Kopie"/><!-- This is a softkey label -->
+<phrase i="3767" t="Verwij"/><!-- This is a softkey label -->
+<phrase i="3771" t="Bewrk"/><!-- This is a softkey label -->
+<phrase i="3772" t="Afsl"/><!-- This is a softkey label -->
+<phrase i="3774" t="Deeln"/><!-- This is a softkey label -->
+<phrase i="3775" t="Gemist"/><!-- This is a softkey label -->
+<phrase i="3776" t="Vlgnde"/><!-- This is a softkey label -->
+<phrase i="3777" t="Num"/><!-- This is a softkey label -->
+<phrase i="3778" t="OK"/><!-- This is a softkey label -->
+<phrase i="3779" t="Optie"/><!-- This is a softkey label -->
+<phrase i="3780" t="Plak"/><!-- This is a softkey label -->
+<phrase i="3781" t="Afsp."/><!-- This is a softkey label -->
+<phrase i="3783" t="Hervat"/><!-- This is a softkey label -->
+<phrase i="3784" t="slaOp"/><!-- This is a softkey label -->
+<phrase i="3785" t="Sel."/><!-- This is a softkey label -->
+<phrase i="3786" t="*Code"/><!-- This is a softkey label -->
+<phrase i="3787" t="J/N"/><!-- This is a softkey label -->
+<phrase i="3793" t="Bsb"/><!-- This is a softkey label -->
+<phrase i="3794" t="NtBsb"/><!-- This is a softkey label -->
+<phrase i="3795" t="Stop"/><!-- This is a softkey label -->
+<phrase i="3796" t="Opnw"/><!-- This is a softkey label -->
+<phrase i="3797" t="Meer"/><!-- This is a softkey label -->
+<phrase i="3798" t="Bijwrk"/><!-- This is a softkey label -->
+<phrase i="3799" t="vrbld"/><!-- This is a softkey label -->
+<phrase i="3800" t="detail"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! afmelden"/>
+<phrase i="3807" t="Bedr.tel.lijst"/>
+<phrase i="3808" t="Geen downloadafb. beschikb."/>
+<phrase i="3809" t="Anonieme gespr. blokk."/>
+<phrase i="3810" t="Geen gedetail. nieuws beschikb..."/>
+<phrase i="3811" t="Geen gedetail. nieuws beschikb&#xA;"/>
+<phrase i="3812" t="Nieuwsfeedgegevens weergeven mislukt..."/>
+<phrase i="3813" t="Doorverbinden"/>
+<phrase i="3814" t="Doorverbinden mislukt"/>
+<phrase i="3815" t="Duur: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Gespr.statistieken:"/>
+<phrase i="3817" t="Aandeleninfo weergeven mislukt..."/>
+<phrase i="3818" t="Geen verkeersinformatie beschikbaar&#xA;"/>
+<phrase i="3822" t="E5 Bellen"/>
+<phrase i="3824" t="Niet storen"/>
+<phrase i="3825" t="Doorgest. gesprekken"/>
+<phrase i="3826" t="&lt;Geen item&gt;"/>
+<phrase i="3827" t="Persoonlijk"/>
+<phrase i="3828" t="Open"/>
+<phrase i="3829" t="Hangende"/>
+<phrase i="3830" t="Persoonlijk"/>
+<phrase i="3831" t="Standaard&quot;gedownload"/>
+<phrase i="3832" t="Anon. beller"/>
+<phrase i="3833" t="%sDoorgest. gesprekken"/>
+<phrase i="3834" t="%sAfmelden"/>
+<phrase i="3835" t="%sAanmelden"/>
+<phrase i="3836" t="%sNiet geregistreerd"/>
+<phrase i="3837" t="%sRegistreren"/>
+<phrase i="3838" t="%sNiet storen"/>
+<phrase i="3839" t="E1 Bellen"/>
+<phrase i="3840" t="E2 Bellen"/>
+<phrase i="3841" t="E3 Bellen"/>
+<phrase i="3842" t="E4 Bellen"/>
+<phrase i="3843" t="E5 Bellen"/>
+<phrase i="3844" t="E6 Bellen"/>
+<phrase i="3845" t="Aanmelden mislukt.&#xA;Controleer uw gebruikers-id&#xA;en wachtwoord."/>
+<phrase i="3846" t="Probeer aan te melden."/>
+<phrase i="3847" t="Autoriseren..."/>
+<phrase i="3848" t="Aanmelden bij CMS"/>
+<phrase i="3849" t="Afmelden bij CMS?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C à á â ä À Á Â Ä "/>
+<phrase i="3852" t=" d e f 3 D E F è é ê ë È É Ê Ë "/>
+<phrase i="3853" t=" g h i 4 G H I ì í î ï Ì Í Î Ï "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O ò ó ô ö Ò Ó Ô Ö "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V ù ú û ü Ù Ú Û Ü "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Pools"/>
+<phrase i="3864" t="Russisch"/>
+<phrase i="3865" t="Hongaars"/>
+<phrase i="3866" t="Tsjechisch"/>
+<phrase i="3867" t="Turks"/>
+<phrase i="3868" t="Zweeds"/>
+<phrase i="3869" t="Sloveens"/>
+<phrase i="3870" t="Bulgaars"/>
+<phrase i="3871" t="Slovaaks"/>
+<phrase i="3872" t="Kroatisch"/>
+<phrase i="3950" t="Geen antwoord"/>
+<phrase i="3951" t="Niet bereikbaar"/>
+<phrase i="3952" t="Authentiseren"/>
+<phrase i="3953" t="Onbekend"/>
+<phrase i="3954" t="Probeer in wacht"/>
+<phrase i="3955" t="Probeer te hervatten"/>
+<phrase i="3956" t="Wijzig"/><!-- This is a softkey label -->
+<phrase i="3957" t="Park"/><!-- This is a softkey label -->
+<phrase i="3958" t="PrkUit"/><!-- This is a softkey label -->
+<phrase i="3959" t="pakOp"/><!-- This is a softkey label -->
+<phrase i="3960" t="NwSyn."/><!-- This is a softkey label -->
+<phrase i="3961" t="Activ"/><!-- This is a softkey label -->
+<phrase i="3962" t="Accept"/><!-- This is a softkey label -->
+<phrase i="3963" t="Verb"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Verb"/><!-- This is a softkey label -->
+<phrase i="3965" t="verznd"/><!-- This is a softkey label -->
+<phrase i="3966" t="nwSyn."/><!-- This is a softkey label -->
+<phrase i="3967" t="activ"/><!-- This is a softkey label -->
+<phrase i="3968" t="accept"/><!-- This is a softkey label -->
+<phrase i="3969" t="verb"/><!-- This is a softkey label -->
+<phrase i="3970" t="-verb"/><!-- This is a softkey label -->
+<phrase i="3971" t="omlaag"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="omhoog"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="sndrd"/><!-- This is a softkey label -->
+<phrase i="3974" t="bewKzn"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Firmware upgraden&#xA;Verwijder de stekker niet&#xA;Telef reboot&#xA;automatisch"/>
+<phrase i="3976" t="XML-toep. laden..."/>
+<phrase i="3977" t="Upgraden mislukt"/>
+<phrase i="3978" t="Toep. laden OK"/>
+<phrase i="3979" t="Toep. laden mislukt"/>
+<phrase i="3980" t="CME-services"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Probeer af te melden.&#xA;Even geduld..."/>
+<phrase i="3982" t="Afmelden mislukt.&#xA;Rebooten..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Beltoon selecteren"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Standaardtoon: %s"/>
+<phrase i="3987" t="Lijn selecteren"/>
+<phrase i="3988" t="Standaardtoon lijn                        "/>
+<phrase i="3989" t="Naam standaardtoon                     "/>
+<phrase i="3990" t="Instellingen"/>
+<phrase i="3991" t="Screen Saver-modus"/>
+<phrase i="3992" t="Screen Saver insch"/>
+<phrase i="3993" t="Screen Saver-wachttijd"/>
+<phrase i="3994" t="Screen Saver-pictogram"/>
+<phrase i="3995" t="Stationtijd&quot;Vergrendelen&quot;Telefoon&quot;Datum/tijd&quot;Achtergrondafbeelding"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Fabrieksinstellingen herstellen&#xA;Een moment"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;Systeem reboot&#xA;Een moment"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Systeem start opnieuw&#xA;Een moment"/>
+<phrase i="4001" t="Profielregel"/>
+<phrase i="4002" t="Profielregel:"/>
+<phrase i="4003" t="Profiel opn. sync: %s&#xA;"/>
+<phrase i="4004" t="Resultaat: %s&#xA;"/>
+<phrase i="4005" t="Reden: %s&#xA;"/>
+<phrase i="4006" t="Opn. sync. naar&#xA;%s&#xA;Telefoon kan herstarten wanneer voltooid!"/>
+<phrase i="4007" t="Foutieve profielregel!&#xA;"/>
+<phrase i="4008" t="Opn. sync. aanvragen naar&#xA;%s&#xA;wanneer telefoon inactief is!"/>
+<phrase i="4009" t="Opn. sync. aanvragen mislukt!&#xA;Telefoon verwerkt aanvraag opn. sync.&#xA;Probeer het later opnieuw."/>
+<phrase i="4010" t="Registeren&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Druk op een toets om te ontgrendelen"/>
+<phrase i="4013" t="gespreksbeheerprot."/>
+<phrase i="4014" t="Standaardrouter"/>
+<phrase i="4015" t="TFTP-server"/>
+<phrase i="4016" t="Beheer VLAN-id"/>
+<phrase i="4017" t="CDP inschakelen"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Gespreksbeheer"/>
+<phrase i="4019" t="PPPoE-servicenaam"/>
+<phrase i="4020" t="PPPOE-aanmeldnaam"/>
+<phrase i="4021" t="PPPoE-aanmeldwachtwoord"/>
+<phrase i="4022" t="Webserver ingeschakeld"/>
+<phrase i="4023" t="Foutoplossingsserver"/>
+<phrase i="4024" t="Uit&quot;10 s&quot;20 s&quot;30 s&quot;Altijd aan"/>
+<phrase i="4025" t="Lokale instell."/>
+<phrase i="4026" t="Firmwareversie"/>
+<phrase i="4027" t="Rcv: %u, "/>
+<phrase i="4028" t="Xmt: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Verstreken tijd: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Model: %s&#xA;"/>
+<phrase i="4032" t="Versie: %s&#xA;"/>
+<phrase i="4033" t="Lijn:%s"/>
+<phrase i="4034" t="NVT"/>
+<phrase i="4038" t="Verbinden met&#xA;VPN-server..."/>
+<phrase i="4039" t="Verbinding met &#xA;VPN-server verbreken..."/>
+<phrase i="4040" t="VPN-verbinding mislukt!&#xA;"/>
+<phrase i="4041" t="VPN verbonden!"/>
+<phrase i="4042" t="VPN-verbinding verbroken!"/>
+<phrase i="4043" t="Onbekend CA. Accepteren?&#xA;"/>
+<phrase i="4044" t="Bewerking geannuleerd!"/>
+<phrase i="4045" t="Even geduld..."/>
+<phrase i="4046" t="Verbinden met VPN bij opstarten?"/>
+<phrase i="4047" t="VPN-server"/>
+<phrase i="4048" t="Gebruikers-id"/>
+<phrase i="4049" t="Tunnelgroep"/>
+<phrase i="4050" t="VPN Verbonden?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Duur"/>
+<phrase i="4054" t="Bytes verzonden"/>
+<phrase i="4055" t="Bytes ontvangen"/>
+<phrase i="4056" t="Reden voor laatste fout"/>
+<phrase i="4057" t="Configureer eerst de VPN-server"/>
+<phrase i="4058" t="Telefoon is verbonden met de VPN-server"/>
+<phrase i="4059" t="Hang de telefoon op alvorens VPN te verbinden met de server"/>
+<phrase i="4060" t="Telefoon is niet verbonden met de VPN-server"/>
+<phrase i="4061" t="Hang eerst de telefoon op"/>
+<phrase i="4062" t="Verbinden met CME"/>
+<phrase i="4063" t="Registeren bij CME"/>
+<phrase i="4064" t="SPCP registereert token"/>
+<phrase i="4065" t="Beltoon downloaden mislukt"/>
+<phrase i="4066" t="Firmware upgraden&#xA;Verwijder de stekker niet"/>
+<phrase i="4067" t="Upgrade voltooid&#xA;...rebooten"/>
+<phrase i="4068" t="Query-LDAP"/>
+<phrase i="4069" t="Query-LDAP-telefoonlijst"/>
+<phrase i="4070" t="Ongeldige invoer/configuratie,&#xA;Controleer uw invoer/configuratie"/>
+<phrase i="4071" t="LDAP-fout: kan geen verbinding maken met server"/>
+<phrase i="4072" t="LDAP-fout: ongeldige waarde van invoer"/>
+<phrase i="4073" t="Geen resultaten"/>
+<phrase i="4074" t="Query-LDAP-resultaten"/>
+<phrase i="4075" t="Telefoonlijst van LDAP-server aanvragen..."/>
+<phrase i="4076" t="LDAP-telefoonlijst aanvragen mislukt"/>
+<phrase i="4077" t="Er zijn te veel resultaten.&#xA;Verfijn uw zoekopdracht."/>
+<phrase i="4079" t="Opnemen"/>
+<phrase i="4080" t="Gesprek parkeren ongedaan maken"/>
+<phrase i="4081" t="Groep opnemen"/>
+<phrase i="4083" t="Tags van VLAN voor pc-poort"/>
+<phrase i="4084" t="PC-poort VLAN ID"/>
+<phrase i="4085" t="Waarschuwing"/>
+<phrase i="4086" t="Pagina"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="Terug"/><!-- This is a softkey label -->
+<phrase i="4088" t="switch"/><!-- This is a softkey label -->
+<phrase i="4089" t="Terug"/><!-- This is a softkey label -->
+<phrase i="4090" t="BewKzn"/><!-- This is a softkey label -->
+<phrase i="4091" t="Naam"/>
+<phrase i="4092" t="Zoeken"/>
+<phrase i="4093" t="Verznd"/><!-- This is a softkey label -->
+<phrase i="4094" t="Media-loopback"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Omlaag"/><!-- This is a softkey label -->
+<phrase i="4096" t="Omhoog"/><!-- This is a softkey label -->
+<phrase i="4097" t="Switch"/><!-- This is a softkey label -->
+<phrase i="4098" t="Aanvragen..."/>
+<phrase i="4099" t="Ongeldig nummer"/>
+<phrase i="4100" t="Geen lijn"/>
+<phrase i="4101" t="Time-out"/>
+<phrase i="4102" t="Service niet beschikbaar"/>
+<phrase i="4103" t="Netwerkfout"/>
+<phrase i="4104" t="Protocolfout"/>
+<phrase i="4105" t="Proberen"/>
+<phrase i="4106" t="Gesprek wordt doorgestuurd"/>
+<phrase i="4107" t="In wachtrij"/>
+<phrase i="4108" t="Sessievoortgang"/>
+<phrase i="4109" t="Geaccepteerd"/>
+<phrase i="4110" t="Meerdere keuzes mogelijk"/>
+<phrase i="4111" t="Permanent verplaatst"/>
+<phrase i="4112" t="Tijdelijk verplaatst"/>
+<phrase i="4113" t="Proxy gebruiken"/>
+<phrase i="4114" t="Alternatieve service"/>
+<phrase i="4115" t="Onjuiste aanvraag"/>
+<phrase i="4116" t="Niet geautoriseerd"/>
+<phrase i="4117" t="Betaling vereist"/>
+<phrase i="4118" t="Verboden"/>
+<phrase i="4119" t="Niet gevonden"/>
+<phrase i="4120" t="Methode niet toegestaan"/>
+<phrase i="4121" t="Niet geaccepteerd"/>
+<phrase i="4122" t="Verificatie vereist voor proxy"/>
+<phrase i="4123" t="Time-out van aanvraag"/>
+<phrase i="4124" t="Niet meer aanwezig"/>
+<phrase i="4125" t="Aanvraagentiteit te groot"/>
+<phrase i="4126" t="Aanvraag-URI te groot"/>
+<phrase i="4127" t="Niet-ondersteund mediatype"/>
+<phrase i="4128" t="Niet-ondersteund URI-schema"/>
+<phrase i="4129" t="Onjuiste extensie"/>
+<phrase i="4130" t="Extensie vereist"/>
+<phrase i="4131" t="Interval te kort"/>
+<phrase i="4132" t="Tijdelijk niet beschikbaar"/>
+<phrase i="4133" t="Gesprekgedeelte of transactie bestaat niet"/>
+<phrase i="4134" t="Lus gedetecteerd"/>
+<phrase i="4135" t="Te veel hops"/>
+<phrase i="4136" t="Adres onvolledig"/>
+<phrase i="4137" t="Onduidelijk"/>
+<phrase i="4138" t="Lokaal bezet"/>
+<phrase i="4139" t="Aanvraag beëindigd"/>
+<phrase i="4140" t="Lokaal niet geaccepteerd"/>
+<phrase i="4141" t="Ongeldige gebeurtenis"/>
+<phrase i="4142" t="Aanvraag in behandeling"/>
+<phrase i="4143" t="Niet te ontcijferen"/>
+<phrase i="4144" t="Interne serverfout"/>
+<phrase i="4145" t="Niet geïmplementeerd"/>
+<phrase i="4146" t="Onjuiste gateway"/>
+<phrase i="4147" t="Service niet beschikbaar"/>
+<phrase i="4148" t="Time-out van server"/>
+<phrase i="4149" t="SIP-versie wordt niet ondersteund"/>
+<phrase i="4150" t="Bericht te groot"/>
+<phrase i="4151" t="Overal bezet"/>
+<phrase i="4152" t="Weigeren"/>
+<phrase i="4153" t="Bestaat nergens"/>
+<phrase i="4154" t="Fout in transportlaag"/>
+<phrase i="4155" t="Stationtijd"/>
+<phrase i="4156" t="Vergrendelen"/>
+<phrase i="4157" t="Telefoon"/>
+<phrase i="4158" t="DatumTijd"/>
+<phrase i="4159" t="achtergrondafbeeld."/>
+<phrase i="4160" t="Financieel nieuws"/>
+<phrase i="4161" t="Time-out transactie"/>
+<phrase i="4162" t="Geen route gevonden"/>
+<phrase i="4163" t="Tijdelijk niet beschikbaar"/>
+<phrase i="4164" t="Aanvraag geannuleerd"/>
+<phrase i="4165" t="Server overbezet"/>
+<phrase i="4166" t="Onvoldoende mediabandbreedte"/>
+<phrase i="4200" t="404 niet gevonden"/>
+<phrase i="4201" t="Toevoegen aan persoonlijk gegeven"/>
+<phrase i="4202" t="Geavanceerd zoeken"/>
+<phrase i="4203" t="Antw."/>
+<phrase i="4204" t="antw."/>
+<phrase i="4205" t="Broadsoft-telefoonlijstaanvraag mislukt"/>
+<phrase i="4206" t="BroadSoft-telefoonlijst"/>
+<phrase i="4207" t="Broadsoft: aanvraag geannuleerd door gebruiker"/>
+<phrase i="4208" t="Gespreksbeheerinst."/>
+<phrase i="4209" t="CME-telefoonlijst"/>
+<phrase i="4210" t="Afdeling: "/>
+<phrase i="4211" t="Te gebruiken DHCP-optie"/>
+<phrase i="4212" t="DHCP-opties hersynchr."/>
+<phrase i="4213" t="E-mail: "/>
+<phrase i="4214" t="Gegevendetail"/>
+<phrase i="4215" t="Fout: lege of ongeldige invoer."/>
+<phrase i="4216" t="Toestel 10"/>
+<phrase i="4217" t="Toestel 11"/>
+<phrase i="4218" t="Toestel 12"/>
+<phrase i="4219" t="Toestel 7"/>
+<phrase i="4220" t="Toestel 8"/>
+<phrase i="4221" t="Toestel 9"/>
+<phrase i="4222" t="Toestel: "/>
+<phrase i="4223" t="Eerste: "/>
+<phrase i="4224" t="flash"/>
+<phrase i="4225" t="Forceer G722"/>
+<phrase i="4226" t="Groeps-id: "/>
+<phrase i="4227" t="HTTP-aanvraag geannuleerd"/>
+<phrase i="4228" t="HTTP-aanvraag mislukt"/>
+<phrase i="4229" t="Neg."/>
+<phrase i="4230" t="neg."/>
+<phrase i="4231" t="Auto opsporen hoofdsysteem"/>
+<phrase i="4232" t="IP-adres hoofdsysteem"/>
+<phrase i="4233" t="Laatste: "/>
+<phrase i="4234" t="LDAP-fout: kan geen verbinding maken met server."/>
+<phrase i="4235" t="Toets lijn 10"/>
+<phrase i="4236" t="Toets lijn 11"/>
+<phrase i="4237" t="Toets lijn 12"/>
+<phrase i="4238" t="Toets lijn 7"/>
+<phrase i="4239" t="Toets lijn 8"/>
+<phrase i="4240" t="Toets lijn 9"/>
+<phrase i="4241" t="Mobiel: "/>
+<phrase i="4242" t="Naam: "/>
+<phrase i="4243" t="Geen resultaten&#xA;"/>
+<phrase i="4244" t="geen&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Nummer: "/>
+<phrase i="4246" t="Tel.nr.:"/>
+<phrase i="4247" t="Voorkeur G722"/>
+<phrase i="4248" t="PrvWcht"/>
+<phrase i="4249" t="prvWcht"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Query BS-telefoonlijst"/>
+<phrase i="4257" t="Bezig met aanvragen telefoonlijst van Broadsoft-server..."/>
+<phrase i="4258" t="Signaleringsprotocol"/>
+<phrase i="4259" t="Eenvoudige zoekactie"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="SPA5X5-model"/>
+<phrase i="4263" t="SPCP auto detectie"/>
+<phrase i="4264" t="NrBdrg"/>
+<phrase i="4265" t="Te veel gegevens&#xA;"/>
+<phrase i="4266" t="Te veel persoonlijke gegevens&#xA;"/>
+<phrase i="4267" t="Transportprotocol"/>
+<phrase i="4268" t="Poging tot afmelden.&#xA;Even geduld..."/>
+<phrase i="4269" t="Gebr.-id: "/>
+<phrase i="4270" t="XML-indelingsfout of ongeldige toepassing"/>
+<phrase i="4271" t="XML-services"/>
+<phrase i="4272" t="Van"/>
+<phrase i="4273" t="Naam peer"/>
+<phrase i="4274" t="Tel. peer"/>
+<phrase i="4275" t="Telefoon peer"/>
+<phrase i="4276" t="Eerste:"/>
+<phrase i="4277" t="Gesprek beëindigen"/><!-- This is a softkey label -->
+<phrase i="4278" t="Nieuw gesprek"/><!-- This is a softkey label -->
+<phrase i="4279" t="Diepe lage tonen"/>
+<phrase i="4280" t="Nieuwe invoer in pers.map"/>
+<phrase i="4281" t="In persoonlijke map zoeken"/>
+<phrase i="12000" t="Toepassing uitvoeren"/>
+<phrase i="12001" t="Ongeldig IP-adres"/>
+<phrase i="12002" t="Lijn selecteren"/>
+<phrase i="12003" t="Beltoon selecteren..."/>
+<phrase i="12004" t="Autorisatie vereist!"/>
+<phrase i="12005" t="Bereik CM-ICMP opheffen"/>
+<phrase i="12006" t="Offset(\202U:m:s):"/>
+<phrase i="12007" t="Registreren"/>
+<phrase i="12008" t="STUN-ingang"/>
+<phrase i="12009" t="Beheer VLAN-id"/>
+<phrase i="12010" t="Alternatieve TFTP"/>
+<phrase i="12011" t="Gespreksbeheer 1"/>
+<phrase i="12012" t="Standaardrouter 1"/>
+<phrase i="12013" t="DHCP&quot;Statisch IP"/>
+<phrase i="12014" t="TFTP-server 1"/>
+<phrase i="12015" t="Webtoegang ingesch."/>
+<phrase i="12016" t="Verstr. tijd"/>
+<phrase i="12017" t="Ontv"/>
+<phrase i="12018" t="Versie"/>
+<phrase i="12019" t="Xmt"/>
+<phrase i="12020" t="Verbinding maken..."/>
+<phrase i="12021" t="Upgrade voltooid"/>
+<phrase i="12022" t="GemistGespr."/>
+<phrase i="12023" t="Beltoonbestand niet beschikbaar!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Register geweigerd:&#xA;%s"/>
+<phrase i="12026" t="SPCP-registertoken geweigerd [%d]&#xA;...nieuwe poging"/>
+<phrase i="12027" t="Fout: Kan UC500.&#xA; niet vinden. Neem contact op met uw beheerder"/>
+<phrase i="12028" t="10 s"/>
+<phrase i="12029" t="20 s"/>
+<phrase i="12030" t="30 s"/>
+<phrase i="12031" t="Downloaden&#xA;%s"/>
+<phrase i="12032" t="(Geen overeenkomend resultaat)"/>
+<phrase i="12033" t="Een nieuwe naam"/>
+<phrase i="12034" t="Laatste TFTP-server"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Test BMP"/>
+<phrase i="12037" t="Roemeens"/>
+<phrase i="12038" t="Diepe lage tonen"/>
+<phrase i="12039" t="Trefwoord:"/>
+<phrase i="12040" t="Resultaten"/>
+<phrase i="12041" t="Resultaat"/>
+<phrase i="12043" t="Afmelden?"/>
+<phrase i="12044" t="Selecteer een nummer"/>
+<phrase i="12045" t="wacht"/>
+<phrase i="12046" t="Geheim nr."/>
+<phrase i="12047" t="buiten bereik."/>
+<phrase i="12048" t="zkn"/>
+<phrase i="12049" t="Webserver beschr."/>
+<phrase i="12050" t="Spaans-Mexico"/>
+<phrase i="12051" t="Kan voicemail niet ophalen tijdens gesprek"/>
+<phrase i="12052" t="Onjuist serveradres"/>
+<phrase i="12053" t="Netwerkverbindig mislukt"/>
+<phrase i="12054" t="Fout voicemailformaat"/>
+<phrase i="12055" t="Aanvraag mislukt"/>
+<phrase i="12056" t="Bewerk het volgende:"/>
+<phrase i="12057" t="Doel blinde overdracht:"/>
+<phrase i="12058" t="inbrkn"/>
+<phrase i="12059" t="(Geen actieve oproepen)"/>
+<phrase i="12060" t="Oproepbanner ontbreekt"/>
+<phrase i="12061" t="Inbrkn"/>
+<phrase i="12062" t="inactief"/>
+<phrase i="12063" t="gegrepen"/>
+<phrase i="12064" t="in voortgang"/>
+<phrase i="12065" t="waarschuw"/>
+<phrase i="12066" t="in de wacht - privé"/>
+<phrase i="12067" t="actief"/>
+<phrase i="12068" t="in wacht"/>
+<phrase i="12069" t="brug actief"/>
+<phrase i="12070" t="brug in de wacht"/>
+<phrase i="12071" t="bellen"/>
+<phrase i="12072" t="in gebruik"/>
+<phrase i="12073" t="andere bel"/>
+<phrase i="12074" t="andere wacht"/>
+<phrase i="12075" t="geen service"/>
+<phrase i="12076" t="ander inactief"/>
+<phrase i="12077" t="gereserv"/>
+<phrase i="12078" t="Niet geconfigureerd"/>
+<phrase i="12079" t="URL wordt opgewaardeerd&#xA;Verwijder de stekker niet"/>
+<phrase i="12080" t="Hersynchroniseren"/>
+<phrase i="12081" t="Hersync voltooid"/>
+<phrase i="12082" t="Hersync voltooid.&#xA;Telefoon zal herstarten. Even wachten"/>
+<phrase i="12083" t="Hersync mislukt"/>
+<phrase i="12084" t="Engels US"/>
+<phrase i="12085" t="Conferentiebrug"/>
+<phrase i="12086" t="Anoniem"/>
+<phrase i="12087" t="reset"/>
+<phrase i="12088" t="gedeeld"/>
+<phrase i="12089" t="verbonden"/>
+<phrase i="12090" t="aan dir toev"/>
+<phrase i="12091" t="wachten"/>
+<phrase i="12092" t="ongeldig"/>
+<phrase i="12093" t="hervatten"/>
+<phrase i="12094" t="oproepen"/>
+<phrase i="12095" t="antwoorden"/>
+<phrase i="12096" t="Persoonlijk snelkiezen"/>
+<phrase i="12097" t="Lijst van doorgeschakelde gesprekken"/>
+<phrase i="12098" t="Lijst van conferentiegesprekken"/>
+<phrase i="12099" t="versie"/>
+<phrase i="12100" t="Bedrijf&quot;Groep&quot;Persoonlijk"/>
+<phrase i="12101" t="Naam tel.lijst"/>
+<phrase i="12102" t="Hostserver"/>
+<phrase i="12103" t="Via"/>
+<phrase i="12104" t="Agentstatus instellen"/>
+<phrase i="12105" t="Beschikbaar"/>
+<phrase i="12106" t="Rebootgeschiedenis"/>
+<phrase i="12107" t="Standaard&quot;HiDef&quot;Standaard"/>
+<phrase i="12108" t="Vertraging start netwerk"/>
+<phrase i="12109" t="Onderscheid maken voor gesprek in wacht"/>
+<phrase i="12110" t="LLDP-MED inschakelen"/>
+<phrase i="12111" t="Registratie geweigerd:&#xA;%s"/>
+<phrase i="12112" t="Fout: registratie mislukt.&#xA;Neem contact op met uw beheerder..."/>
+<phrase i="12113" t="Netwerkfout gedetecteerd."/>
+<phrase i="12114" t="Bezig met registreren..."/>
+<phrase i="12115" t="Netwerkfout."/>
+<phrase i="12116" t="Wachtwoord"/>
+<phrase i="12117" t="Hersync voltooid.&#xA;Telefoon zal herstarten. Even wachten."/>
+<phrase i="12118" t="Handversie"/>
+<phrase i="12119" t="Auto&quot;Origineel&quot;v3"/>
+<phrase i="12120" t="DHCP mislukt"/>
+<phrase i="12121" t="Upgrade"/>
+<phrase i="12122" t="Inrichting"/>
+<phrase i="12123" t="Door gebr.geactiveerd"/>
+<phrase i="12124" t="Door SIP geactiveerd"/>
+<phrase i="12125" t="Systeemfout"/>
+<phrase i="12126" t="Omlaag koppelen"/>
+<phrase i="12127" t="Systeem 1"/>
+<phrase i="12128" t="Systeem 2"/>
+<phrase i="12129" t="Dubbel IP"/>
+<phrase i="12130" t="Back-up IP"/>
+<phrase i="12131" t="Systeem 3"/>
+<phrase i="12132" t="Systeem 4"/>
+<phrase i="12133" t="Systeem 5"/>
+<phrase i="12134" t="Systeem 6"/>
+<phrase i="12135" t="Systeem 7"/>
+<phrase i="12136" t="Door SIP geactiveerd"/>
+<phrase i="12137" t="Wb download"/>
+<phrase i="12138" t="VLAN gewijzigd"/>
+<phrase i="12139" t="RC"/>
+<phrase i="12140" t="Fabriekswaarden"/>
+<phrase i="12141" t="Softwareaanvraag"/>
+<phrase i="12142" t="IP gewijzigd"/>
+<phrase i="12143" t="Accountcode invoeren"/>
+<phrase i="12144" t="Buitennummer invoeren"/>
+<phrase i="12145" t="Interne gids"/>
+<phrase i="12146" t="Externe gids"/>
+<phrase i="12147" t="Groepsgids"/>
+<phrase i="12148" t="Stationsgids"/>
+<phrase i="12149" t="Externe muziek"/>
+<phrase i="12150" t="Paginagroep 1"/>
+<phrase i="12151" t="Paginagroep 2"/>
+<phrase i="12152" t="Paginagroep 3"/>
+<phrase i="12153" t="Paginagroep 4"/>
+<phrase i="12154" t="Paginagroep 5"/>
+<phrase i="12155" t="Externe pagina"/>
+<phrase i="12156" t="Gespreksvoorbeeld"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Systeembelmodus nachtdienst"/>
+<phrase i="12159" t="Gesprek dat wordt geparkeerd"/>
+<phrase i="12160" t="Poorten spiegelen"/>
+<phrase i="12161" t="Buiten bereik!"/>
+<phrase i="12162" t="XML-service"/>
+<phrase i="12163" t="hebreeuws"/>
+<phrase i="12164" t="Gesprek dat wordt geparkeerd"/>
+<phrase i="12165" t="Lijn"/>
+<phrase i="12166" t="Schakelen tussen LTR en RTL,&#xA; eerder ingevoerde tekst&#xA; wordt verwijderd. Doorgaan?"/>
+<phrase i="12167" t="Tekengrootte"/>
+<phrase i="12168" t="Voork. beantw.console"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Def. snelkiezen - lijn %d"/><!--Def. means define-->
+<phrase i="12170" t="Def. snelkiezen - toets %d"/><!--Def. means define-->
+<phrase i="12171" t="gespr. parkeren"/>
+<phrase i="12172" t="In afwachting van meer cijferinvoer...&#xA;Druk als u klaar bent op OK om door te gaan."/>
+<phrase i="12173" t="Puls"/>
+<phrase i="12174" t="Alles verw."/>
+<phrase i="12175" t="Lijst verw."/>
+<phrase i="12176" t="Wilt u alle gegevens verwijderen?"/>
+<phrase i="12177" t="Weergavemodus"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Toestel"/>
+<phrase i="12179" t="Beide"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Wi-Fi-configuratie"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Geen Wi-Fi-apparaat gevonden."/>
+<phrase i="12182" t="Draadloos profiel"/>
+<phrase i="12183" t="Wi-Fi Protected Setup"/>
+<phrase i="12184" t="Draadloze status"/>
+<phrase i="12185" t="Basisconfiguratie"/>
+<phrase i="12186" t="Beveiligingsmodus"/>
+<phrase i="12187" t="Coderingsconfiguratie"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Band"/>
+<phrase i="12190" t="WPA-codering"/>
+<phrase i="12191" t="Notatie gedeelde sleutel"/>
+<phrase i="12192" t="WPA-sleutel"/>
+<phrase i="12193" t="WEP-verificatietype"/>
+<phrase i="12194" t="WEP-sleutellengte"/>
+<phrase i="12195" t="WEP-sleutel"/>
+<phrase i="12196" t="Profiel"/>
+<phrase i="12197" t="PIN-configuratie"/>
+<phrase i="12198" t="Draadloze PIN configuratie begonnen!"/>
+<!--phrase i="12199" t="Voer het volgende nummer in voor apparaten waarvoor een PIN is vereist: [%s]. Selecteer vervolgens deze modus."/-->
+<phrase i="12200" t="Draadloos scannen..."/>
+<phrase i="12201" t="Profiel selecteren"/>
+<phrase i="12202" t="Drukknopconfiguratie"/>
+<phrase i="12203" t="Draadloze drukknop-configuratie start"/>
+<phrase i="12204" t="Wi-Fi Protected Setup"/>
+<phrase i="12205" t="Draadloze status"/>
+<phrase i="12206" t="Netwerknaam (SSID)"/>
+<phrase i="12207" t="Signaalsterkte"/>
+<phrase i="12208" t="scan"/>
+<phrase i="12209" t="U moet upgraden naar de laatste WBPN-firmware om deze functie te gebruiken."/>
+<phrase i="12210" t="Aanmelden als gast"/>
+<phrase i="12211" t="gstIn"/>
+<phrase i="12212" t="gstOut"/>
+<phrase i="12213" t="(Gast In)"/> 
+<phrase i="12214" t="Alle parameters worden teruggezet naar de fabrieksinstellingen. Doorgaan?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Swedish</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="Systemet startas..."/>
+<phrase i="L_S_NET" t="Startar nätverk..."/>
+<phrase i="L_S_DOWNLOAD" t="Nedladdning"/>
+<phrase i="L_S_UPGRADE" t="Uppgradering till"/>
+<phrase i="L_S_UPGRADEFAILED" t="Uppgraderingen misslyckades."/>
+<phrase i="L_S_RESYNC" t="Resynkning till"/>
+<phrase i="L_S_RESYNCFAILED" t="Resynkning misslyckades"/>
+<phrase i="L_S_CONNECT" t="Ansluter..."/>
+<phrase i="L_S_NOCME" t="Fel: Kan inte hitta UCxxx. Kontakta din administratör."/>
+<phrase i="L_S_REGTOKENREJECT" t="SPCP-registerigenkänningstecken avvisat. Försöker igen..."/>
+<phrase i="L_S_REGISTERING" t="Registrerar..."/>
+<phrase i="L_S_REGISTERED" t="Registrering fullföljd."/>
+<phrase i="L_S_REGREJECT" t="Registreringen godkändes inte"/>
+<phrase i="L_S_REGFAILED" t="Registreringen misslyckades."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_ENTERNUMBER" t="Slå nummer"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Ange CFWD alla nummer"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Ange CFWD upptaget nummer"/>
+<phrase i="L_DS_ENTER_NOANS" t="Ange CFWD inget svar nummer"/>
+<phrase i="L_DS_ENTER_BXFER" t="Ange mål för dold överflyttning"/>
+<phrase i="L_DS_ENTER_PARK" t="Ange nummer som ska parkeras"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Ange nummer som ska återupptas"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Ange mål för hänvisningstjänst"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Ange mål för speciell tjänst"/>
+<phrase i="L_DS_ENTER_MORE" t="Ange fler siffror"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Ange svarsnummer"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Ange svarsgrupp"/>
+<phrase i="L_DS_ENTER_PAGE" t="Ange sidmål"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Ange externt nummer"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Ange kontokod"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Linje"/>
+<phrase i="L_READY" t="Klar"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="Oregistrerad"/>
+<phrase i="L_CAPPN_DISABLED" t="Avaktiverad"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Kortnummer"/>
+<phrase i="L_CAPPN_APP" t="Program"/>
+<phrase i="L_CAPPN_URL" t="Tjänst-URL"/>
+<phrase i="L_CAPPN_FEAT" t="Funktion"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Utökad funktion"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Gäst redo"/>
+<phrase i="CALL_RINGING" t="Ringer"/>
+<phrase i="L_CONNECTED" t="Ansluten"/>
+<phrase i="L_NOT_CONNECTED" t="Inte ansluten"/>
+<phrase i="L_OK" t="OK"/>
+<phrase i="L_DUPLICATED" t="Duplicera"/>
+<phrase i="CALL_HOLDING" t="Parkerad"/>
+<phrase i="CALL_END" t="Samtal avslutat"/>
+<phrase i="CALL_CALLING" t="Ringer upp"/>
+<phrase i="CALL_SEIZED" t="Taget"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="Försöker parkera"/>
+<phrase i="CALL_DIALING" t="Uppringning"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Försöker återuppta"/>
+<phrase i="CALL_SHARE" t="Dela samtal"/>
+<phrase i="CALL_PAGE" t="Sida"/>
+<phrase i="CALL_PICKUP" t="Samtal besvaras"/>
+<phrase i="CALL_PICKUPCALL" t="Besvara samtal"/>
+<phrase i="CALL_PICKUPFAILED" t="Samtalssvar misslyckades."/>
+<phrase i="CALL_PICKUP_NULL" t="Inga samtal."/>
+<phrase i="CALL_GPICKUP" t="Besvara gruppsamtal"/>
+<phrase i="CALL_GPICKUPSTATION" t="Svarsstation"/>
+<phrase i="CALL_ANSWERING" t="Svarar"/>
+<phrase i="CALL_UNKNOWN" t="Okänt"/>
+<phrase i="CALL_ANONYMOUS" t="Anonym"/>
+<phrase i="CALL_USER" t="Användare"/>
+<phrase i="CALL_IDLE" t="Passiv"/>
+<phrase i="CALL_PROGRESSING" t="Pågår"/>
+<phrase i="CALL_ALERT" t="Larmar"/>
+<phrase i="CALL_ACTIVE" t="Aktiv"/>
+<phrase i="CALL_HELD" t="Hålls"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Brygga aktiv"/>
+<phrase i="CALL_BRIDGE_HELD" t="Brygga hålls"/>
+<phrase i="CALL_FROM" t="Från"/>
+<phrase i="CALL_TO" t="Till"/>
+<phrase i="CALL_CALLBACK" t="Återuppringning"/>
+<phrase i="CALL_FORWARD" t="Vidarekoppling"/>
+<phrase i="CALL_XFERTO" t="Överför till"/>
+<phrase i="CALL_PAGEFROM" t="Sida från"/>
+<phrase i="CALL_PAGETO" t="Sida till"/>
+<phrase i="CALL_BY" t="Av"/>
+<phrase i="CALL_CALLER" t="Påringande"/>
+<phrase i="CALL_BUSY" t="Upptagen"/>
+<phrase i="CALL_CONGESTION" t="Överbelastning"/>
+<phrase i="CALL_PROCEED" t="Fortsätt"/>
+<phrase i="CALL_RML" t="Flerfjärrlinje används"/>
+<phrase i="CALL_INVALIDNUM" t="Ogiltigt nummer"/>
+<phrase i="CALL_INVALID" t="Ogiltig"/>
+<phrase i="L_GATHERINFO" t="Samlar info..."/>
+<phrase i="L_FAILED" t="Misslyckades"/>
+<phrase i="L_Empty" t="Tom"/>
+<phrase i="L_DND" t="Stör ej"/>
+<phrase i="L_CFWD" t="Samtal vidarebefordrat"/>
+<phrase i="L_CFWDTO" t="Vidarekoppla samtal till"/>
+<phrase i="L_MissedCall" t="Nytt missat samtal"/>
+<phrase i="L_MissedCalls" t="Nytt missat samtal"/>
+<phrase i="L_RingCallList" t="Ringning samtalslista"/>
+<phrase i="L_RingStationList" t="Ringning stationslista"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Ogiltigt parkeringsnummer. \r Ange parkeringsnummer igen."/>
+<phrase i="L_SECS_LOGIN_OK" t="Inloggningen lyckades"/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Inloggning misslyckades. \r Verifiera ditt användar-ID \r och lösenord."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="Uppdatering av ACD-\r tillgänglighet misslyckades."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="Uppdatering av ACD-\r tillgänglighet lyckades."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="Kontaktar ACD-server...."/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Mata in användar-ID och \r lösenord."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Kontaktar hoteling-server ..."/>
+<phrase i="L_SECS_HOTELING_OK" t="Hoteling-inloggning slutförd."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Hoteling-inloggning misslyckades."/>
+<phrase i="L_ACD_LoginForm" t="ACD-inloggningsformulär"/>
+<phrase i="L_TRANSFERRING" t="Överför"/>
+<phrase i="L_XFERFAILED" t="Överföring misslyckades"/>
+<phrase i="L_LineSeizing" t="Försöker överta linje"/>
+<phrase i="L_GatheringCallInfo" t="Samlar in samtalsinfo"/>
+<phrase i="L_SelectingCall" t="Väljer samtal"/>
+<phrase i="L_SelectingStation" t="Väljer station"/>
+<phrase i="L_ContactingStunServer" t="Kontaktar STUN-server"/>
+<phrase i="L_CalledPartyRinging" t="Uppringt nummer ringer"/>
+<phrase i="L_TryingHold" t="Försöker parkera"/>
+<phrase i="L_TringResume" t="Försöker återuppta"/>
+<phrase i="L_StunIn" t="STUN In"/>
+<phrase i="L_Shared" t="Delad"/>
+<phrase i="L_Conference" t="Konferens"/>
+<phrase i="L_SecureCallIndication" t="Indikation för säkert samtal"/>
+<phrase i="L_SystemBeep" t="Systempip"/>
+<phrase i="L_2ndDial" t="Andra samtalet"/>
+<phrase i="L_OutsideDial" t="Externt samtal"/>
+<phrase i="L_BluetoothDial" t="Bluetooth-uppringning"/>
+<phrase i="L_MessageWaiting" t="Meddelande väntar"/>
+<phrase i="L_RingBack" t="Ring tillbaka"/>
+<phrase i="L_OffhookWarning" t="Varning för lur av"/>
+<phrase i="L_Ring" t="Ringsignal"/>
+<phrase i="L_Alert" t="Varning"/>
+<phrase i="L_Ring_hold" t="Signal - Vänteläge"/>
+<phrase i="L_Ring_Callback" t="Signal - Återuppringning"/>
+<phrase i="L_Inbound" t="Inkommande"/>
+<phrase i="L_Outbound" t="Utgående"/>
+<phrase i="L_Forwarded" t="Vidarebefordrat"/>
+<phrase i="L_Transfered" t="Överfört"/>
+<phrase i="L_Secure" t="Säker"/>
+<phrase i="L_CallsList" t="Samtalslista"/>
+<phrase i="L_InvalidAcntCode" t="Ogiltig kontokod"/>
+<phrase i="L_ServiceUnavailable" t="Service inte tillgänglig"/>
+<phrase i="L_Avail" t="Tillgängliga"/>
+<phrase i="L_Unavail" t="Inte tillgängligt"/>
+<phrase i="L_Wrap" t="Sammanfattning"/>
+<phrase i="L_Via" t="Via"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Väntar på fler tecken...\r Klicka OK för att fortsätta."/>
+<phrase i="L_CALL_PARKED" t="Samtalet parkeras"/>
+<phrase i="L_TO" t="till"/>
+<phrase i="L_Hoteling_LoginForm" t="Hoteling-inloggningsformulär"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="Används"/>
+<phrase i="CALL_OTHERRESERVED" t="Reserverad"/>
+<phrase i="CALL_OTHERIDLE" t="Annat viloläge"/>
+<phrase i="CALL_OTHERNOSERV" t="Ingen tjänst"/>
+<phrase i="CALL_OTHERHOLD" t="Andra väntar"/>
+<phrase i="CALL_OTHERRING" t="Andra ringer"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Samtalsstatistik"/>
+<phrase i="T_AB_STSCH_LIST" t="Samtalsstatistik"/>
+<phrase i="L_Name" t="Namn"/>
+<phrase i="L_WorkPhone" t="Arbetsnr."/>
+<phrase i="L_HomePhone" t="Hemnummer"/>
+<phrase i="L_MobilePhone" t="Mobilnummer"/>
+<phrase i="L_RingTone" t="Ringsignal"/>
+<phrase i="L_AT" t="vid"/>
+<phrase i="L_PeerName" t="Peer namn"/>
+<phrase i="L_PeerNumber" t="Peer telefon"/>
+<phrase i="L_CallType" t="Samtalstyp"/>
+<phrase i="L_CallDuration" t="Samtalslängd"/>
+<phrase i="L_EncCodec" t="Koda Codec"/>
+<phrase i="L_DecCodec" t="Avkoda Codec"/>
+<phrase i="L_CallTime" t="Samtalstid"/>
+<phrase i="L_CallID" t="Nummerpresentation"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Status för samtalsparkering"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Parkeringslista samtal"/>
+<phrase i="L_ParkingAt" t="Park vid"/>
+<phrase i="L_ParkingBy" t="Park av"/>
+<phrase i="CPARK_PROGRESSING" t="Få samtals parkeringsstatus som pågår..."/>
+<phrase i="CPARK_FAILED" t="Begäran status park samt misslyckades"/>
+<phrase i="CPARK_EMPTY" t="Samtalsparkering tom"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Stjärnkodsval"/>
+<phrase i="callReturnCode" t="Återkoppling av samtal"/>
+<phrase i="blindXferCode" t="Dold överföring"/>
+<phrase i="callBackActCode" t="Återuppringning"/>
+<phrase i="callBackDeactCode" t="Avaktivera återuppringning"/>
+<phrase i="forwardAllActCode" t="Vidarekoppla alla samtal"/>
+<phrase i="forwardAllDeactCode" t="Avbr vidarekoppl av samtal"/>
+<phrase i="forwardBusyActCode" t="Vidarekoppling vid upptaget"/>
+<phrase i="forwardBusyDeactCode" t="Avbr vidarekoppl upptaget"/>
+<phrase i="forwardNoAnsActCode" t="Vidarekoppl vid inget svar"/>
+<phrase i="forwardNoAnsDeactCode" t="Vidarekoppl vid inget svar"/>
+<phrase i="blockCIDActCode" t="Blockera nummerpresentation"/>
+<phrase i="blockCIDDeactCode" t="Avbr blockering nummerpres"/>
+<phrase i="blockCIDPerCallActCode" t="Block nummerpres. för nästa"/>
+<phrase i="blockCIDPerCallDeactCode" t="Avbr Block nummerpres nästa"/>
+<phrase i="blockANCode" t="Blockera anonyma samtal"/>
+<phrase i="blockANCDeactCode" t="Avbr block anonyma samtal"/>
+<phrase i="DNDActCode" t="Stör ej"/>
+<phrase i="DNDDeactCode" t="Avaktivera stör inte-funkt"/>
+<phrase i="CIDActCode" t="Nummerpresentation"/>
+<phrase i="CIDDeactCode" t="Avbryt nummerpresentation"/>
+<phrase i="secureAllActCode" t="Skydda alla samtal"/>
+<phrase i="secureAllDeactCode" t="Avbryt skydd alla samtal"/>
+<phrase i="secureOneCallActCode" t="Skydda nästa"/>
+<phrase i="secureOneCallDeactCode" t="Avbryt skydd för nästa"/>
+<phrase i="pagingCode" t="Söker"/>
+<phrase i="callParkCode" t="Parkera samtal"/>
+<phrase i="callUnparkCode" t="Återuppta samtal"/>
+<phrase i="callPickupCode" t="Samtal besvaras"/>
+<phrase i="groupCallPickupCode" t="Besvara gruppsamtal"/>
+<phrase i="mediaLoopBackCode" t="Media-loopback"/>
+<phrase i="preferG711uCode" t="Föredra G711U"/>
+<phrase i="forceG711uCode" t="Tvinga G711U"/>
+<phrase i="preferG711aCode" t="Föredra G711A"/>
+<phrase i="forceG711aCode" t="Tvinga G711A"/>
+<phrase i="preferG723Code" t="Föredra G723"/>
+<phrase i="forceG723Code" t="Tvinga G723"/>
+<phrase i="preferG726r16Code" t="Föredra G726r16"/>
+<phrase i="forceG726r16Code" t="Tvinga G726r16"/>
+<phrase i="preferG726r24Code" t="Föredra G726r24"/>
+<phrase i="forceG726r24Code" t="Tvinga G726r24"/>
+<phrase i="preferG726r32Code" t="Föredra G726r32"/>
+<phrase i="forceG726r32Code" t="Tvinga G726r32"/>
+<phrase i="preferG726r40Code" t="Föredra G726r40"/>
+<phrase i="forceG726r40Code" t="Tvinga G726r40"/>
+<phrase i="preferG729aCode" t="Föredra G729A"/>
+<phrase i="forceG729aCode" t="Tvinga G729A"/>
+<phrase i="preferG722Code" t="Föredra G722"/>
+<phrase i="forceG722Code" t="Tvinga G722"/>
+<phrase i="preferL16Code" t="Föredra L16"/>
+<phrase i="forceL16Code" t="Tvinga L16"/>
+<phrase i="preferiLBCCode" t="Föredra iLBC"/>
+<phrase i="forceiLBCCode" t="Tvinga iLBC"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_UpTime" t="Förfluten tid"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="dag och"/> 
+<phrase i="L_DAYS_AND" t="dagar och"/>
+<phrase i="L_Packets" t="(Paket)"/>
+<phrase i="L_Registered" t="Registrerad"/>
+<phrase i="L_notRegistered" t="Inte registrerad"/>
+<phrase i="L_notReachable" t="Ej nåbar"/>
+<phrase i="L_Authenticate" t="Verifiera"/>
+<phrase i="L_Succeeded" t="Lyckades"/>
+<phrase i="L_Error" t="Fel"/>
+<phrase i="L_LastRegAt" t="Senaste registrering"/>
+<phrase i="L_NextRegIn" t="Nästa registrering inom"/>
+<phrase i="L_Proxy" t="Proxy"/>
+<phrase i="L_Reason" t="Anledning"/>
+<phrase i="L_Status" t="Status"/>
+<phrase i="L_XMLServices" t="XML-tjänster"/>
+<phrase i="L_Tone" t="Ton"/>
+<phrase i="L_Type" t="Typ"/>
+<phrase i="L_Number" t="Nummer"/>
+<phrase i="L_Enc" t="Kodning"/>
+<phrase i="L_Dec" t="Dec"/>
+<phrase i="L_CALL" t="Samt"/>
+<phrase i="L_INFO" t="Information"/>
+<phrase i="L_Extension" t="Anknytn"/>
+<phrase i="T_PHN_STATUS" t="Telefonstatus"/>
+<phrase i="T_PROV_STATUS" t="Provisionering"/>
+<phrase i="T_PHN_SYS_STATUS" t="Telefonstatus"/>
+<phrase i="L_Ext1Status" t="Anknytn 1 status"/>
+<phrase i="L_Ext2Status" t="Anknytn 2 status"/>
+<phrase i="L_Ext3Status" t="Anknytn 3 status"/>
+<phrase i="L_Ext4Status" t="Anknytn 4 status"/>
+<phrase i="L_Ext5Status" t="Anknytn 5 status"/>
+<phrase i="L_Line1Status" t="Linje 1 status"/>
+<phrase i="L_Line2Status" t="Linje 2 status"/>
+<phrase i="L_Line3Status" t="Linje 3 status"/>
+<phrase i="L_Line4Status" t="Linje 4 status"/>
+<phrase i="L_Line5Status" t="Linje 5 status"/>
+<phrase i="DeletePrompt" t="Vill du radera \r[%s]?"/>
+<phrase i="DeleteListPrompt" t="Vill du radera \r[%s] historiken?"/>
+<phrase i="DeleteAllPrompt" t="Vill du radera alla poster?"/>
+<phrase i="AddPrompt" t="Inmatade data ej kompletta. \r Vill du spara?"/>
+<phrase i="AddNullPrompt" t="Inmatad data ej komplett. "/>
+<phrase i="AddFullPrompt" t="Inmatade data ej kompletta."/>
+<phrase i="UpdatePrompt" t="Inmatade data ej kompletta. \r Vill du uppdatera?"/>
+<phrase i="ClearPrompt" t="Vill du rensa post \r[%s]?"/>
+<phrase i="ClearString" t="Vill du rensa \r [%s]?"/>
+<phrase i="Prompt_Logout" t="Vill du logga ut?"/>
+<phrase i="Message_Rebooting" t="Startar om..."/>
+<phrase i="Message_FactoryReset" t="Fabriksåterställning \r Startar om...."/>
+<phrase i="Message_RebootingVoIP" t="Uppdaterar röstkomponent...."/>
+<phrase i="Message_CustomReset" t="Anpassad återställning \r Startar om...."/>
+<phrase i="All" t="Alla samtal"/>
+<phrase i="Answered" t="Mottagna samtal"/>
+<phrase i="Outgoing" t="Ringda samtal"/>
+<phrase i="Missed" t="Missade samtal"/>
+<phrase i="AnsweredCallType" t="Mottagna samtal"/>
+<phrase i="OutgoingCallType" t="Ringda samtal"/>
+<phrase i="MissedCallType" t="Missat samtal"/>
+<phrase i="GetNews" t="Få nyheter...."/>
+<phrase i="GetWeather" t="Få väderinformation...."/>
+<phrase i="Searching" t="Söker...."/>
+<phrase i="Binding" t="Bindning...."/>
+<phrase i="CityAccessError" t="Fel vid erhålla \r stadsinformation för \r[%s]."/>
+<phrase i="NewsAccessError" t="Svarsdata är för stort. \r Fel vid läsning av \r stadsinformation från \r[%s]."/>
+<phrase i="NewsAccessError1" t="Fel vid läsning av \r stadsinformation från \r[%s]."/>
+<phrase i="WeatherAccessError" t="Fel vid läsning av väder-\r information för stad \r[%s]."/>
+<phrase i="WeatherSearchError" t="Fel vid sökning efter \r stadsinformation. \r Kontrollera nätverket \r eller inmatningsvärde."/>
+<phrase i="WeatherDupInfo" t="Posten du lägger till finns \r redan."/>
+<phrase i="RebootPrompt" t="Vill du starta om systemet?"/>
+<phrase i="FactoryResetPrompt" t="Vill du göra en \r fabriksåterställning av \r systemet?"/>
+<phrase i="CustomResetPrompt" t="Säker efter uppdateringar \r för den anpassade \r profilen? (arbetar i \r bakgrunden)"/>
+<phrase i="FirmwareUpgradePrompt" t="Vill du uppgradera systemet?"/>
+<phrase i="MSG_InvalidPasswordData" t="Lösenordet är ogiltigt."/>
+<phrase i="Label_Day" t="Dag"/>
+<phrase i="CertInstall" t="Installerat"/>
+<phrase i="CertNotInstall" t="Ej installerat"/>
+<phrase i="L_Network_Type" t="Nätverkstyp"/>
+<phrase i="L_Network_Statistics" t="Nätverksstatistik"/>
+<phrase i="L_Address_Type" t="Adresstyp"/>
+<phrase i="L_Gateway" t="Standard-router"/>
+<phrase i="L_MAC_Address" t="MAC"/>
+<phrase i="T_DEVICE_INFO" t="Produktinformation"/>
+<phrase i="L_Product_Name" t="Produktnamn"/>
+<phrase i="L_Serial_Number" t="Serienummer"/>
+<phrase i="L_Software_Version" t="Programversion"/>
+<phrase i="L_Hardware_Version" t="Hårdvaruversion"/>
+<phrase i="L_Certificate" t="Certifikat"/>
+<phrase i="L_CustomizationInfo" t="Anpassning"/>
+<phrase i="L_Asset_ID" t="Resurs-ID"/>
+<phrase i="L_DHCP_Server" t="DHCP-server"/>
+<phrase i="L_TFTP_Server_1" t="TFTP-server 1"/>
+<phrase i="L_Last_TFTP_Server" t="Senaste TFTP-server"/>
+<phrase i="L_Host_Name" t="Värdnamn"/>
+<phrase i="L_Domain_Name" t="Domän"/>
+<phrase i="L_CallManager_1" t="Samtalshant 1"/>
+<phrase i="L_Directories_URL" t="Katalog URL"/>
+<phrase i="L_Services_URL" t="Tjänster URL"/>
+<phrase i="L_Messages_URL" t="Medd. URL"/>
+<phrase i="L_Authentication_URL" t="URL för verifiering"/>
+<phrase i="L_User_Locale" t="Användarspråk"/>
+<phrase i="L_Network_Locale" t="Systemspråk"/>
+<phrase i="L_Status_Messages" t="Statusmeddelanden"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Kringutrustningsstatus"/>
+<phrase i="L_USB_Status" t="USB-enhet"/>
+<phrase i="L_xmit" t="sänd"/>
+<phrase i="L_recv" t="ta emot"/>
+<phrase i="L_Multicast" t="multicast"/>
+<phrase i="L_EthPackets" t="Ethernet: Paket (byte)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: Paket (byte)"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="Att Cons 1"/>
+<phrase i="L_Sidecar2_Status" t="Att Cons 2"/>
+<phrase i="L_DISCONNECTED" t="Frånkopplad"/>
+<phrase i="L_Wireless" t="Trådlös"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Nyckel"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Ja"/>
+<phrase i="L_No" t="Nej"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Redigera personlig adresspost"/>
+<phrase i="T_AB_Add_Entry" t="Lägg till personlig adresspost"/>
+<phrase i="T_AB_Search" t="Sök adresspost"/>
+<phrase i="T_AB_Select" t="Välj adresspost"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Samtalstid"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Missade samtal"/>
+<phrase i="L_PhoneNo" t="Telefonnr"/>
+<phrase i="L_CallAt" t="Ring vid"/>
+<phrase i="L_Duration" t="Varaktighet"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Redigera kortnummerpost"/>
+<phrase i="T_SD_List" t="Kortnummerlista"/>
+<phrase i="L_SpeedDialNo" t="Kortnummer"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Välj ringsignal"/>
+<phrase i="T_RT_Select_USB" t="Välj ringsignal från USB"/>
+<phrase i="T_RT_Select_Slot" t="Välj fack att spara ringsignal"/>
+<phrase i="T_RT_Not_Installed" t="Ej installerat"/>
+<phrase i="T_RT_USER_1" t="Användare 1"/>
+<phrase i="T_RT_USER_2" t="Användare 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Information och inställningar"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth-konfiguration"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Bluetooth-headset"/>
+<phrase i="L_UserPref" t="Användarinställningar"/>
+<phrase i="L_CallRecord" t="Samtalsinspeln.-konfiguration"/>
+<phrase i="L_CallRecordMode" t="Inspelning ljudläge"/>
+<phrase i="L_CallRecordAudioPath" t="Inspelning ljudsökväg"/>
+<phrase i="L_CallRecordBeep" t="Insp. pip-påminnare"/>
+<phrase i="L_CallRecords" t="Inspelningar"/>
+<phrase i="L_CallRecordsPlayer" t="Samtalsinspelningar"/>
+<phrase i="L_Directory" t="Kataloger"/>
+<phrase i="L_CallHistory" t="Samtalshistorik"/>
+<phrase i="L_SpeedDial" t="Kortnummer"/>
+<phrase i="L_VideoMonitoring" t="Videoövervakning"/>
+<phrase i="L_MP3Player" t="MP3-spelare"/>
+<phrase i="L_PictureViewer" t="Bildvisare"/>
+<phrase i="L_Messaging" t="Meddelande"/>
+<phrase i="L_WebApplication" t="Webbprogram"/>
+<phrase i="L_CMEServices" t="CME-tjänster"/>
+<phrase i="L_CallPreferences" t="Samtalsinställningar"/>
+<phrase i="L_ConnectionSetting" t="Anslutningsinställningar"/>
+<phrase i="L_NetworkConfig" t="Nätverkskonfiguration"/>
+<phrase i="L_AudioPreferences" t="Ljudinställningar"/>
+<phrase i="L_RingSetting" t="Ringningsinställningar"/>
+<phrase i="L_ScreenPreferences" t="Skärminställningar"/>
+<phrase i="L_Administration" t="Enhetsadministration"/>
+<phrase i="T_ST_IP_Address" t="Inställn statisk IP-adr"/>
+<phrase i="L_IPAddress" t="IP-adress"/>
+<phrase i="L_SubnetMask" t="Subnetmask"/>
+<phrase i="L_GatewayAddress" t="Gateway-adress"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="T_ST_Admin" t="Administration"/>
+<phrase i="T_ST_PartitionList" t="Välj partitionen"/>
+<phrase i="L_About" t="Om"/>
+<phrase i="L_SetPassword" t="Ställ in lösenord"/>
+<phrase i="L_DateTime" t="Datum/Tid"/>
+<phrase i="L_Language" t="Språk"/>
+<phrase i="L_Reboot" t="Starta om"/>
+<phrase i="L_FactoryReset" t="Fabriksåterställning"/>
+<phrase i="L_CustomReset" t="Anpassad återställning"/>
+<phrase i="L_ProfileRule" t="Profilregel"/>
+<phrase i="L_CallControlSettings" t="Inställn samtalskontroll"/>
+<phrase i="L_SignalingProtocol" t="Signalprotokoll"/>
+<phrase i="L_AutoDetectSPCP" t="Autodetekt SCCP"/>
+<phrase i="T_ST_Audio" t="Audioinställningar"/>
+<phrase i="L_PrefAudioDevice" t="Föredragen ljudenhet"/>
+<phrase i="L_SwapLRChannel" t="Byt V/H kanal"/>
+<phrase i="L_EnableStereo" t="Headsettyp"/>
+<phrase i="L_PhRingTone" t="Standardsignal"/>
+<phrase i="L_Ext1RingTone" t="Ank 1 - Ringsign"/>
+<phrase i="L_Ext2RingTone" t="Ank 2 - Ringsign"/>
+<phrase i="L_Ext3RingTone" t="Ank 3 - Ringsign"/>
+<phrase i="L_Ext4RingTone" t="Ank 4 - Ringsign"/>
+<phrase i="L_Ext5RingTone" t="Ank 5 - Ringsign"/>
+<phrase i="T_ST_CallForward" t="Inställning vidarekoppling samtal"/>
+<phrase i="L_ForwardAllNumbers" t="Vidarekoppl alla nr"/>
+<phrase i="L_ForwardBusyNumber" t="Vidarekoppl uppt nr"/>
+<phrase i="L_ForwardNoAnsNumber" t="Vidarebef ej svar nr"/>
+<phrase i="L_ForwardNoAnsDelay" t="Vidarebef ej svar fördröjn"/>
+<phrase i="L_WiFiConfiguration" t="Wi-Fi-konfig"/>
+<phrase i="L_ConnectionType" t="Anslutningstyp"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Auto anslutning"/>
+<phrase i="L_Headset" t="Headset"/>
+<phrase i="L_WebServer" t="Webbserver"/>
+<phrase i="L_DiscoveryAddress" t="Upptäckt adress"/>
+<phrase i="L_LVSAutoDiscovery" t="Auto nyckelsyst uppt"/>
+<phrase i="L_LVSProxyAddress" t="Nyckelsystem IP-adress"/>
+<phrase i="L_DHCPOption" t="DHCP-alternativ att använda"/>
+<phrase i="L_TranProtocol" t="Transportprotokoll"/>
+<phrase i="L_NetworkStatus" t="Nätverksstatus"/>
+<phrase i="L_RebootHistory" t="Omstarthistorik"/>
+<phrase i="L_IPStatus" t="IP-status"/>
+<phrase i="T_ST_SetTime" t="Ställ in aktuell tid"/>
+<phrase i="L_AB" t="Personlig adressbok"/>
+<phrase i="L_XMLDirectory" t="Företagskatalog (XML)"/>
+<phrase i="L_LDAPDirectory" t="Företagskatalog (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Företagskatalog"/>
+<phrase i="L_BroadsoftDirectory" t="Broadsoft-katalog"/>
+<phrase i="L_XMLService" t="Cisco XML-tjänster"/>
+<phrase i="T_ST_CallHistories" t="Samtalshistorik"/>
+<phrase i="T_ST_Language" t="Språkval"/>
+<phrase i="T_ST_Password" t="Ställ in lösenord"/>
+<phrase i="L_OldPassword" t="Gammalt lösenord"/>
+<phrase i="L_NewPassword" t="Nytt lösenord"/>
+<phrase i="L_ReEnterNewPassword" t="Ange lösenord igen"/>
+<phrase i="L_CallForwarding" t="Samtal vidarebef"/>
+<phrase i="L_CallWaiting" t="Samtal väntar"/>
+<phrase i="L_VoiceMail" t="Röstmeddelande"/>
+<phrase i="L_BlockCallerID" t="Blockera nummerpres"/>
+<phrase i="L_BlockAnonymCall" t="Block anonyma samtal"/>
+<phrase i="L_SecureCall" t="Säkert samtal"/>
+<phrase i="L_DialAssist" t="Uppringningshjälp"/>
+<phrase i="L_AutoAnswerPage" t="Automatisk svarssida"/>
+<phrase i="L_MissCallShortCut" t="Genväg missat samtal"/>
+<phrase i="L_MissCallBanner" t="Missade samtal-ruta"/>
+<phrase i="L_EnabledScreenSaver" t="Skärmsläckare"/>
+<phrase i="L_Constrast" t="Ljusstyrka skärmen"/>
+<phrase i="L_WallPaper" t="Bakgrund"/>
+<phrase i="L_Theme" t="Tema"/>
+<phrase i="T_ST_ScreenSaver" t="Inställning skärmsläckare"/>
+<phrase i="L_ScreenSaverType" t="Skärmsläckartyp"/>
+<phrase i="L_TriggerInterval" t="Utlösn.interv (s)"/>
+<phrase i="L_RefreshInterval" t="Uppdat.interv (s)"/>
+<phrase i="L_BackLight" t="Bakgrundsljus"/>
+<phrase i="L_BackLightTimer" t="Bakgr.ljustimer (sek)"/>
+<phrase i="L_Contrast" t="Ljusstyrka"/>
+<phrase i="T_StarCodeList" t="Välj stjärnkod"/>
+<phrase i="T_Select_Image" t="Välj en bild"/>
+<phrase i="T_ST_Time" t="Tidsinställning"/>
+<phrase i="L_TimeZone" t="Tidszon"/>
+<phrase i="L_DayLightSaving" t="Sommartid"/>
+<phrase i="L_AutomaticMode" t="Automatiskt läge"/>
+<phrase i="L_NTPServer1" t="NTP Server 1"/>
+<phrase i="L_NTPServer2" t="NTP Server 2"/>
+<phrase i="L_SetCurrentTimeManually" t="Ställ in aktuell tid man"/>
+<phrase i="T_ST_TimeZone" t="Välj tidszon"/>
+<phrase i="T_ST_VPN" t="VPN-inställningar"/>
+<phrase i="L_VPNServer" t="VPN-server"/>
+<phrase i="L_UserName" t="Användarnamn"/>
+<phrase i="L_VPNTunnelGroup" t="Tunnelgrupp"/>
+<phrase i="L_VPNStatus" t="VPN-status"/>
+<phrase i="L_ConnectOnBootup" t="Anslut vid uppstart"/>
+<phrase i="L_Connect" t="Aktivera anslutning"/>
+<phrase i="L_Weather" t="Väder"/>
+<phrase i="L_News" t="Nyheter"/>
+<phrase i="L_City" t="Ort"/>
+<phrase i="L_ZipCode" t="Postnummer"/>
+<phrase i="L_CityZipCode" t="Stad/postnr"/>
+<phrase i="T_WeatherSearch" t="Ange stadsnamn eller postnummer"/>
+<phrase i="T_WeatherList" t="Stadslista"/>
+<phrase i="T_WeatherInfo" t="Väderinformation"/>
+<phrase i="L_LastUpdateOn" t="Senast uppdaterad - "/>
+<phrase i="L_CurrentCondition" t="Nuvarande förhållanden:"/>
+<phrase i="L_Forecast" t="Prognos:"/>
+<phrase i="T_NewsCategories" t="Nyhetskategorier"/>
+<phrase i="T_NewsCategory" t="[% $category %]"/>
+<phrase i="L_DHCP_Address_Released" t="DHCP-adressen släppt"/>
+<phrase i="L_Erase_Config" t="Radera konfig"/>
+<phrase i="L_Alternate_TFTP" t="Alt. TFTP"/>
+<phrase i="L_WebServerWritable" t="Webbserver skrivbar"/>
+<phrase i="M_ABEmpty" t="Adressbok är tom."/>
+<phrase i="M_ABDuplicate" t="Alla poster är identiska."/>
+<phrase i="M_InvalidVLAN" t="VLAN ID [%d] är ogiltigt. \r Värdet bör vara mellan 1-4094."/>
+<phrase i="M_InvalidDataportVLAN" t="PC PORT VLAN ID [%d] är \r ogiltigt. Värdet bör vara \r mellan 1-4094."/>
+<phrase i="M_InvalidDataportPriority" t="Prioritet [%d] är ogiltigt. \r Värdet bör vara mellan 0-7."/>
+<phrase i="M_InvalidMAddr" t="Upptäckt adress [%s] är \r ogiltig. Värdet bör vara i \r formen aaa.bbb.ccc.ddd:pppp"/>
+<phrase i="M_RebootInvalid" t="Telefonsamtal pågår. \r Omstart inte tillåten."/>
+<phrase i="M_FactoryResetInvalid" t="Telefonsamtal pågår. \r Fabriksåterställning är \r inte tillåten."/>
+<phrase i="M_CustomResetInvalid" t="Telefonsamtal pågår. \r Anpassad återställning är \r inte tillåten."/>
+<phrase i="M_OperationInvalid" t="Telefonsamtal pågår.\r Användning inte tillåten."/>
+<phrase i="M_ProfileRuleInvalid" t="Telefonsamtal pågår. Resynk \r användning av profilregler \r är inte tillåtet."/>
+<phrase i="M_UpgradeStart" t="Starta uppgradering."/>
+<phrase i="M_UpgradeInProgress" t="Uppgraderar... Stäng inte av."/>
+<phrase i="M_DownloadProgress" t="Laddar ned adressposter…"/>
+<phrase i="M_UpgradeCompleted" t="Uppgradering fullföljd."/>
+<phrase i="M_UpgradeAborted" t="Uppgradering avbruten av användare."/>
+<phrase i="M_UpgradeAbortedWithError" t="Uppgradering avbruten utan fel."/>
+<phrase i="M_UpgradeCompletedReboot" t="Uppgradering fullföljd. Startar om..."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="Uppgradering avbruten utan \r fel. Startar om..."/>
+<phrase i="T_ContactVcardFullAddressBook" t="Adressboken är full, kan \r inte importera några vcard."/>
+<phrase i="T_ContactVcardInvalid" t="Ogiltigt vCard-format"/>
+<phrase i="T_Login_Form" t="Inloggningsformulär"/>
+<phrase i="L_Pending" t="Väntar"/>
+<phrase i="L_Customized" t="Anpassad"/>
+<phrase i="L_Open" t="Öppen"/>
+<phrase i="L_Hour" t="Timme"/>
+<phrase i="L_Minute" t="Minut"/>
+<phrase i="L_Second" t="Sekund"/>
+<phrase i="L_HourShort" t="Timme"/>
+<phrase i="L_MinuteShort" t="Min"/>
+<phrase i="L_SecondShort" t="Sek"/>
+<phrase i="M_InvalidRefreshTime" t="Uppdateringstid måste vara \r 1 eller högre."/>
+<phrase i="M_InvalidBackLightTime" t="Utlösare bakgrundsljus måste\r vara 30 eller högre."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="Utlösare skärmsläckare måste\r vara 30 eller högre."/>
+<phrase i="M_InvalidContrastLevel" t="Ljusstyrka måste vara \r mellan 1 och 15."/>
+<phrase i="L_DeepBass" t="Djup bas"/>
+<phrase i="L_HandsetVersion" t="Handapparatvers."/>
+<phrase i="L_ACD_AGENT_STATE" t="ACD agentstatus"/>
+<phrase i="L_Att_Cons_Pref" t="Inst. för övervakningskonsol"/>
+<phrase i="L_Attendant_Console_Pref" t="Inställningar för övervakningskonsol"/>
+<phrase i="L_LCD_Contrast" t="Kontrast"/>
+<phrase i="L_Font_Size" t="Teckenstorlek"/>
+<phrase i="L_Display_Mode" t="Visningsläge"/>
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Intern katalog"/>
+<phrase i="L_EXTERNAL_DIR" t="Extern katalog"/>
+<phrase i="L_GROUPS_DIR" t="Gruppkatalog"/>
+<phrase i="L_STATIONS_DIR" t="Stationskatalog"/>
+<phrase i="L_Auto_Attnd" t="Auto övervakning"/>
+<phrase i="L_Int_Music" t="Intern musik"/>
+<phrase i="L_ExternalMusic" t="Extern musik"/>
+<phrase i="L_Station" t="Station"/>
+<phrase i="L_PageGroup1" t="Sidgrupp 1"/>
+<phrase i="L_PageGroup2" t="Sidgrupp 2"/>
+<phrase i="L_PageGroup3" t="Sidgrupp 3"/>
+<phrase i="L_PageGroup4" t="Sidgrupp 4"/>
+<phrase i="L_PageGroup5" t="Sidgrupp 5"/>
+<phrase i="L_Page_Grp" t="Sidgrupp"/>
+<phrase i="L_ExternalPage" t="Extern sida"/>
+<phrase i="L_CallPark" t="parkera samtal"/>
+<phrase i="L_PickUp" t="svara"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Företag"/>
+<phrase i="L_FirstName" t="Förnamn"/>
+<phrase i="L_LastName" t="Efternamn"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Namn"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Arbetsnummer"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Mobilnummer"/>
+<phrase i="LDAP_ACCESS_ERROR" t="LDAP-fel: Kan inte ansluta \r till server"/>
+<phrase i="LDAP_InvalidInput" t="LDAP-fel: Ogiltigt \r inmatningsvärde"/>
+<phrase i="LDAP_NoFilter" t="Definiera filer."/>
+<phrase i="LDAP_TooManyResults" t="För många träffar, Förfina \r din sökning"/>
+<phrase i="LDAP_NoResult" t="Inga träffar hittades"/>
+<phrase i="NoRingTone" t="Ingen ringsignal"/>
+<phrase i="S_Failed" t="Sökning misslyckades."/>
+<phrase i="S_Sys_Err" t="Systemfel."/>
+<phrase i="T_LDAP_ResultList" t="Företagskat (LDAP) resultatlista"/>
+<phrase i="T_LDAPQueryForm" t="LDAP-frågeformulär"/>
+<phrase i="T_LDAPAddrEntry" t="Företagskatalog (LDAP) adresspost"/>
+<phrase i="T_LDAPQuery" t="Fråga LDAP-server"/>
+<phrase i="L_SimpleSearch" t="Enkel sökning"/>
+<phrase i="L_AdvSearch" t="Avancerad sökning"/>
+
+<!-- #############  #Broadsoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Broadsoft-katalogfel: Kan \r inte ansluta till server."/>
+<phrase i="BSDIR_InvalidInput" t="Broadsoft-katalogfel: \r Ogiltigt inmatningsvärde."/>
+<phrase i="BSDIR_TooManyResults" t="För många matchningar \r hittade. Finjustera sökningen."/>
+<phrase i="T_BSDIR_CONFIG" t="Broadsoft-katalogkonfiguration"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Sök i personlig katalog"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Sök i gruppkatalog"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Sök i företagskatalog"/>
+<phrase i="T_BSDIR_HTTP_AUTH_ERR" t="Verifieringsfel: \r Kontrollera lösenordet."/>
+<phrase i="L_HOST_SERVER" t="Värdserver"/>
+<phrase i="L_DIR_NAME" t="Katalognamn"/>
+<phrase i="T_Configure" t="Konfigurera"/>
+
+<phrase i="T_BSDIR_SEARCH" t="Sök i Broadsoft-katalog"/>
+<phrase i="T_SIMPLE_SEARCH" t="Enkel sökning"/>
+<phrase i="T_ADVANCED_SEARCH" t="Avancerad sökning"/>
+<phrase i="L_BSDIR_LNAME" t="Efternamn"/>
+<phrase i="L_BSDIR_FNAME" t="Förnamn"/>
+<phrase i="L_BSDIR_GROUPID" t="Grupp-ID"/>
+<phrase i="L_BSDIR_DEPT" t="Avdelning"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Avd."/>
+<phrase i="L_BSDIR_EMAIL" t="E-post"/>
+
+<phrase i="T_LVSDIR_REQ" t="Begär LVS-katalog från server..."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="Begäran LVS-katalog misslyckades."/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="Konf L"/>
+<phrase i="S_XferLx" t="Övfly L"/>
+<phrase i="S_Redial" t="Ring igen"/>
+<phrase i="S_Contacts" t="Katalog"/>
+<phrase i="S_Forward" t="VidKoppl"/>
+<phrase i="S_DND" t="Stör ej"/>
+<phrase i="S_NForward" t="Rensa vid"/>
+<phrase i="S_NDND" t="RensaStEj"/>
+<phrase i="S_LCR" t="RMissSmt"/>
+<phrase i="S_Missed" t="Missat"/>
+<phrase i="S_Login" t="Inloggn"/>
+<phrase i="S_Logout" t="Utloggning"/>
+<phrase i="S_Avail" t="Tillgängl"/>
+<phrase i="S_UnAvail" t="Otillg"/>
+<phrase i="S_UnPark" t="Ej vänta"/>
+<phrase i="S_PickUp" t="Svara"/>
+<phrase i="S_Mobility" t="Mobilitet"/>
+<phrase i="S_GrPickup" t="g Svar"/>
+<phrase i="S_NewCall" t="Nytt samt"/>
+<phrase i="S_Barge" t="BrytIn"/>
+<phrase i="S_Resume" t="Åter"/>
+<phrase i="S_Answer" t="Svar"/>
+<phrase i="S_Hold" t="Parkera"/>
+<phrase i="S_EndCall" t="Avsl samt"/>
+<phrase i="S_Transfer" t="överflytt"/>
+<phrase i="S_CONF" t="Konf"/>
+<phrase i="S_BXfer" t="Dold övfly"/>
+<phrase i="S_Park" t="Parkera"/>
+<phrase i="S_Join" t="Delta"/>
+<phrase i="S_Update" t="Uppdatera"/>
+<phrase i="S_Dial" t="Ring"/>
+<phrase i="S_delChar" t="Radera"/>
+<phrase i="S_AbbrDial" t="Snabbval"/>
+<phrase i="S_Back" t="Bakåt"/>
+<phrase i="S_Save" t="Spara"/>
+<phrase i="S_Delete" t="Radera"/>
+<phrase i="S_Add" t="Lägg till"/>
+<phrase i="S_Option" t="Alt"/>
+<phrase i="S_EditDial" t="RedUppr"/>
+<phrase i="S_EditDial1" t="Red uppr"/>
+<phrase i="S_AddNew" t="Infoga ny"/>
+<phrase i="S_Copy" t="Kopiera"/>
+<phrase i="S_Paste" t="Klistra"/>
+<phrase i="S_Search" t="Sök"/>
+<phrase i="S_Select" t="Välj"/>
+<phrase i="S_Default" t="Standard"/>
+<phrase i="S_Add2SpeedDial" t="Lägg till i kortnummer"/>
+<phrase i="S_SendMessage" t="Skicka meddelande"/>
+<phrase i="S_InputAll" t="Inmatn all"/>
+<phrase i="S_InputNum" t="Inmatn nr"/>
+<phrase i="S_InputIP" t="Inmatn IP"/>
+<phrase i="S_InputHebrew" t="Hebreisk inmatning"/>
+<phrase i="S_InputStarCode" t="Inmatn stjärnkod"/>
+<phrase i="S_Clear" t="Rensa"/>
+<phrase i="S_DeleteList" t="Radera lista"/>
+<phrase i="S_DeleteAll" t="Radera alla"/>
+<phrase i="S_DeleteEntry" t="Radera post"/>
+<phrase i="S_Add2AB" t="Infoga i adressbok"/>
+<phrase i="S_Next" t="Nästa"/>
+<phrase i="S_Zoom" t="Zoom"/>
+<phrase i="S_Previous" t="Föreg."/>
+<phrase i="S_Previous1" t="Föreg"/>
+<phrase i="S_Up" t="Upp"/>
+<phrase i="S_Down" t="Ned"/>
+<phrase i="S_SelectFromAB" t="Välj från adressbok"/>
+<phrase i="S_Play" t="Spela"/>
+<phrase i="S_Exit" t="Lämna"/>
+<phrase i="S_Resync" t="Resynk"/>
+<phrase i="S_SetTime" t="Spara"/>
+<phrase i="S_Set" t="Spara"/>
+<phrase i="S_MoveUp" t="Flytta upp"/>
+<phrase i="S_MoveDown" t="Flytta ned"/>
+<phrase i="S_Edit" t="Redigera"/>
+<phrase i="S_View" t="Visa"/>
+<phrase i="S_Enable_Disable" t="Aktivera/avaktivera"/>
+<phrase i="S_Refresh" t="Uppdater."/>
+<phrase i="S_List" t="Lista"/>
+<phrase i="S_Stop" t="Stopp"/>
+<phrase i="S_AddList" t="Lägg till"/>
+<phrase i="S_Scan" t="Sök"/>
+<phrase i="S_Connect" t="Anslut"/>
+<phrase i="S_Disconnect" t="Koppla fr"/>
+<phrase i="S_ConnectAll" t="AnslutAlla"/>
+<phrase i="S_Detail" t="Detalj"/>
+<phrase i="S_Cancel" t="Avbryt"/>
+<phrase i="S_OK" t="OK"/>
+<phrase i="S_Unpair" t="Bryt parn"/>
+<phrase i="S_SelectAll" t="VäljAlla"/>
+<phrase i="S_ClearAll" t="RensaAlla"/>
+<phrase i="S_More" t="Mer"/>
+<phrase i="S_Format" t="Format"/>
+<phrase i="S_Monitor" t="Bevakn"/>
+<phrase i="S_VCARD" t="Import"/> 
+<phrase i="S_FromUsb" t="Från USB"/> 
+<phrase i="S_Retry" t="Förs igen"/> 
+<phrase i="S_FLASH" t="Blixt"/> 
+<phrase i="S_STARCODE" t="*Kod"/> 
+<phrase i="S_IP" t="IP"/> 
+<phrase i="S_NUM" t="Num"/> 
+<phrase i="S_ALPHA" t="Alfa"/> 
+<phrase i="S_Audio" t="Ljud"/> 
+<phrase i="S_Video" t="Video"/> 
+<phrase i="S_Call" t="Samtal"/> 
+<phrase i="S_Submit" t="Skicka"/> 
+<phrase i="S_CallRecordStart" t="InspNu"/> 
+<phrase i="S_CallRecordStop" t="StoppInsp"/> 
+<phrase i="S_Ignore" t="Ignorera"/> 
+<phrase i="S_Override" t="Åsidosätt"/>
+<phrase i="S_AState" t="AgentStat"/>
+<phrase i="S_HotelingGuestIn" t="GästIn"/>
+<phrase i="S_HotelingGuestOut" t="GästUt"/>
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Fahrenheit"/>
+<phrase i="OL_Celsius" t="Celsius"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Stereo"/>
+<phrase i="OL_InProgress" t="Pågår"/>
+<phrase i="OL_DnsResolution" t="DNS-upplösning"/>
+<phrase i="OL_NoServerName" t="Inget servernamn"/>
+<phrase i="OL_InvalidServer" t="Ogiltig eller skyddad server"/>
+<phrase i="OL_NoResources" t="Resurser slut"/>
+<phrase i="OL_FileNotFound" t="Fil ej funnen"/>
+<phrase i="OL_CorruptFile" t="Korrupt fil"/>
+<phrase i="OL_EncrptionKey" t="Krypteringsnyckel"/>
+<phrase i="OL_InvalidURL" t="Ogiltig URL"/>
+<phrase i="OL_Phone" t="Telefon"/>
+<phrase i="OL_Handsfree" t="Handsfree"/>
+<phrase i="OL_Both" t="Båda"/>
+<phrase i="OL_DownloadFailed" t="Nedladdning misslyckades"/>
+<phrase i="OL_DownloadConflict" t="%d poster är nya %d poster \r har konflikter"/>
+<phrase i="OL_DownloadTypeError" t="Bluetooth inte i handsfreeläge"/>
+<phrase i="OL_DownloadFull" t="Adressboken är full, kan \r inte importera några poster."/>
+<phrase i="OL_ParsingError" t="Fel i regel"/>
+<phrase i="OL_Ended" t="Avslutad"/>
+<phrase i="OL_StaticIP" t="Stat IP"/>
+<phrase i="OL_BlackBackground" t="Svart bakgrund"/>
+<phrase i="OL_GrayBackground" t="Grå bakgrund"/>
+<phrase i="OL_BlackGrayRotation" t="Svart/Grå rotation"/>
+<phrase i="OL_PictureRotation" t="Bildrotation"/>
+<phrase i="OL_DigitalFrame" t="Digitalram"/>
+<phrase i="OL_DownloadPicture" t="Ladda ned bild"/>
+<phrase i="OL_Clock" t="Klocka"/>
+<phrase i="OL_Speaker" t="Högtalare"/>
+<phrase i="OL_Headset" t="Headset"/>
+<phrase i="OL_Handset" t="Lur"/>
+<phrase i="OL_Ringer" t="Ringer"/>
+<phrase i="OL_LightBlue" t="Ljusblå"/>
+<phrase i="OL_LightGray" t="Ljusgrå"/>
+<phrase i="OL_LightGreen" t="Ljusgrön"/>
+<phrase i="OL_None" t="Ingen"/>
+<phrase i="OL_Simple" t="Enkel"/>
+<phrase i="OL_PlainTLS" t="Enkel-TLS"/>
+<phrase i="OL_64HEX" t="10 hex-siffror"/>
+<phrase i="OL_128HEX" t="26 hex-siffror"/>
+<phrase i="OL_64ASCII" t="5 ascii-tecken"/>
+<phrase i="OL_128ASCII" t="13 ascii-tecken"/>
+<phrase i="OL_Enterprise" t="Företag"/>
+<phrase i="OL_Group" t="Grupp"/>
+<phrase i="OL_Personal" t="Personlig"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_Disabled" t="Avaktiverad"/>
+<!-- Option Label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Auto"/>
+<phrase i="OL_Original" t="Original"/>
+<phrase i="OL_v3" t="v3"/>
+<phrase i="OL_Name" t="Namn"/>
+<phrase i="OL_Ext" t="Ank"/>
+<phrase i="OL_Both" t="Båda"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############--> 
+<phrase i="T_WlanProfileList" t="Välj en profil"/>
+<phrase i="T_WlanScanList" t="Välj en profil att ansluta"/>
+<phrase i="T_WlanServerCaList" t="Välj en fil som servercertifikat"/>
+<phrase i="T_WlanClientCaList" t="Välj en fil som klientcertifikat"/>
+<phrase i="T_WlanProfileReplace" t="Välj en profil att ersätta"/>
+<phrase i="T_WlanWpsSelect" t="Välj WPS-läge"/>
+<phrase i="WirelessStatusDetail" t="Trådlös avdelning"/>
+<phrase i="T_Profile" t="Profil"/>
+<phrase i="T_WlanPartitionLsit" t="Välj en partition"/>
+<phrase i="L_InvalidProfile" t="Ogiltig profil"/>
+<phrase i="L_Disable" t="Avaktivera"/>
+<phrase i="L_WpaEnt" t="WPA företag"/>
+<phrase i="L_Wpa2Ent" t="WPA2 företag"/>
+<phrase i="L_Connection" t="Anslutning"/>
+<phrase i="L_SecurityMode" t="Säkerhetsläge"/>
+<phrase i="L_ProfileName" t="Profilnamn"/>
+<phrase i="L_NetworkName" t="Nätverksnamn (SSID)"/>
+<phrase i="L_CipherType" t="Chiffertyp"/>
+<phrase i="L_KeyId" t="Standardöverföringsnyckel"/>
+<phrase i="L_KeyLen" t="Nyckellängd"/>
+<phrase i="L_Key1" t="Nyckel 1"/>
+<phrase i="L_Key2" t="Nyckel 2"/>
+<phrase i="L_Key3" t="Nyckel 3"/>
+<phrase i="L_Key4" t="Nyckel 4"/>
+<phrase i="L_PskKey" t="WPA dela nyckel"/>
+<phrase i="L_EapType" t="EAP-typ"/>
+<phrase i="L_UserId" t="Användar-ID"/>
+<phrase i="L_Password" t="Lösenord"/>
+<phrase i="L_CheckSvrCa" t="Kontrollera servercert"/>
+<phrase i="L_On" t="På"/>
+<phrase i="L_Off" t="Av"/>
+<phrase i="L_LinkSignal" t="Signalstyrka"/>
+<phrase i="L_NoiseLevel" t="Brusnivå"/>
+<phrase i="L_Bssid" t="Associerad AP MAC-adress"/>
+<phrase i="L_Frequency" t="Frekvens"/>
+<phrase i="L_DataEncryption" t="Datakryptering"/>
+<phrase i="L_EncryptionType" t="Krypteringstyp"/>
+<phrase i="L_TransmitRate" t="Sändhastighet"/>
+<phrase i="L_Channel" t="Kanal"/>
+<phrase i="L_RootCa" t="Rotcertifikat"/>
+<phrase i="L_UserCa" t="Användarcert"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Lösenord priv nyckel"/>
+<phrase i="L_AnonyId" t="Anonym ID"/>
+<phrase i="L_TtlsInnerProto" t="TTLS Inre Protokoll"/>
+<phrase i="L_PeapInnerProto" t="PEAP inre protokoll"/>
+<phrase i="L_WlanConfiguration" t="Trådlös konfiguration"/>
+<phrase i="L_WlanWpsPbc" t="Tryckknappskonfiguration"/>
+<phrase i="L_WlanWpsPbcText1" t="Enheter med knapp Wi-Fi skydd."/>
+<phrase i="L_WlanWpsPbcText2" t="inställn. Tryck på knapp på"/>
+<phrase i="L_WlanWpsPbcText3" t="enheten. Välj sedan detta läge."/>
+<phrase i="L_WlanWpsPin" t="PIN-konfiguration"/>
+<phrase i="L_WlanWpsPinText1" t="Enheter som kräver PIN, ange"/>
+<phrase i="L_WlanWpsPinText2" t="följ nr: [%s], välj sedan"/>
+<phrase i="L_WlanWpsPinText3" t="detta läge."/>
+<phrase i="L_WlanProfile" t="Trådlös profil"/>
+<phrase i="L_WlanAddCurrent" t="Lägg till anslutning som en profil"/>
+<phrase i="L_WlanStatus" t="Trådlös status"/>
+<phrase i="L_WlanWps" t="Wi-Fi skyddad inställning"/>
+<phrase i="WlanMsgPfLock" t="Trådlös profil är blockerad"/>
+<phrase i="WlanMsgPfNameLenNull" t="Ogiltigt profilnamn"/>
+<phrase i="WlanMsgPfNameLenOver" t="Profilnamn för långt"/>
+<phrase i="WlanMsgSssidLenNull" t="Ogiltigt SSID"/>
+<phrase i="WlanMsgSssidLenOver" t="SSID för långt"/>
+<phrase i="WlanMsgWepNoValue" t="Ställ in nyckel-ID till %d, vilket inte har något nyckelvärde."/>
+<phrase i="WlanMsgWepWrongLen" t="Nyckel %d längd är ogiltig."/>
+<phrase i="WlanMsgWepWrongHex" t="Nyckel %d har icke-Hex-\r siffror."/>
+<phrase i="WlanMsgPsKeyLenLess" t="WPA delad nyckel för kort."/>
+<phrase i="WlanMsgPsKeyLenOver" t="WPA delad nyckel för lång."/>
+<phrase i="WlanMsgIdentityLenNull" t="Ogiltig identitet"/>
+<phrase i="WlanMsgIdentityLenOver" t="Identitet för lång"/>
+<phrase i="WlanMsgServerCaWrong" t="Ogiltigt servercertifikat"/>
+<phrase i="WlanMsgClientCaWrong" t="Ogiltigt klientcertifikat"/>
+<phrase i="WlanMsgPasswordLenNull" t="Ogiltigt lösenord"/>
+<phrase i="WlanMsgPasswordLenOver" t="Lösenord för långt"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="Ingen anonym identitet"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Anonym identitet för lång"/>
+<phrase i="WlanMsgOverMaxPFNum" t="Listan är full. Vill du \r ersätta en annan profil?"/>
+<phrase i="WlanMsgUseWpsPbc" t="Använd WPS PBC för att ansluta"/>
+<phrase i="WlanMsgUseWpsPin" t="Använd WPS PIN för att ansluta"/>
+<phrase i="WlanNoProfileConnect" t="Ingen befintlig profil att \r ansluta"/>
+<phrase i="WlanNoScanProfileAdd" t="Ingen sökprofil att lägga till"/>
+<phrase i="WlanProfileExistReplace" t="Profil med SSID: %s finns \r redan. Vill du ersätta \r denna profil?"/>
+<phrase i="WlanNotEnable" t="Wi-Fi måste vara aktiverad \r för att ansluta."/>
+<phrase i="WlanNotConnect" t="Wi-Fi anslöt inte, kan inte \r läggas till i profillista"/>
+<phrase i="WlanProfileExist" t="Profil med SSID: [%s] \r finns redan."/>
+<phrase i="WlanNotInterface" t="Ethernet måste kopplas \r ifrån för att använda Wi-Fi."/>
+<phrase i="WlanMsgAssociating" t="Associering med SSID: [%s]"/>
+<phrase i="WlanMsgFailAssociation" t="Misslyckades att associera \r med SSID: [%s]\r fortsätter att försöka i bakgrunden."/>
+<phrase i="WlanProfileAlreadyConnected" t="Denna profil är redan ansluten."/>
+<phrase i="WlanWpsFailConnect" t="Misslyckades att ansluta \r med WPS och fortsätter att \r försöka i bakgrunden."/>
+<phrase i="WlanAddIntoProfile" t="Vill du lägga till denna \r inställning som en profil?"/>
+<phrase i="WlanScanning" t="Trådlös sökning..."/>
+<phrase i="WlanWpsConnect" t="WPS-konfigurationen är klar.\r Du kan lägga till\r inställningen till profilen\r från sidan Trådlös anslutning."/>
+<phrase i="WlanConnectAll1" t="Vill du använda \r profillistan för att ansluta?"/>
+<phrase i="WlanConnectAll2" t="Vill du koppla ifrån \r nuvarande anslutning och \r använda profillistan för \r att ansluta?"/>
+<phrase i="WlanMsgConnectAll" t="Använd profillistan för \r att ansluta"/>
+<phrase i="WlanMsgFailConnectAll" t="Misslyckades att ansluta, \r försöker i bakgrunden."/>
+<phrase i="WlanAddCurrent" t="Vill du lägga till \r nuvarande anslutning som en \r profil?"/>
+<phrase i="FileLengthOver" t="Filnamnet överskrider \r längden %d."/>
+<phrase i="WlanProfileConnectDisable" t="WiFi-profil är avaktiverad"/>
+<phrase i="WlanProfileEnable" t="Vill du aktivera \r denna profil?"/>
+<phrase i="WlanProfileDisable" t="Vill du avaktivera \r denna profil?"/>
+<phrase i="WlanEmptyScanningResult" t="Inget sökresultat \r försök igen"/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Välj titel"/>
+<phrase i="T_MP3SourceList" t="Lägg till titel i spellista"/>
+<phrase i="T_MP3PartitionList" t="Välj partition för att få sånger"/>
+<phrase i="MP3MsgOverMaxSongNum" t="Listan är begränsad till \r %d poster."/>
+<phrase i="MP3MsgEntryNotExist" t="Posten finns inte."/>
+<phrase i="MP3MsgAPendingCall" t="Kan inte spela musik under \r ett samtal."/>
+<phrase i="MP3MsgFileNameOverLen" t="%d filnamnet överskrider \r längden %d."/>
+<phrase i="MP3MsgGetList" t="Hämtar lista från USB-enhet...."/>
+<phrase i="MP3MsgSaveRing" t="Spara ringsignal från USB-enhet..."/>
+<phrase i="MP3MsgFileIllegle" t="Filformatet är ogiltigt."/>
+<phrase i="MP3DeletePrompt" t="Vill du radera \r[%s]\r från spellistan?"/>
+<phrase i="MP3MsgSelectNull" t="Inga sånger valda att lägga \r till i spellistan."/>
+<phrase i="MP3MsgSelectOverMax" t="Du har valt mer än %d sånger!"/>
+<phrase i="MP3UsbFolderNotPresent" t="'%s' mappen finns inte. \r Kontrollera att du har \r mp3-filer i ”mp3”-mappen \r på USB-enheten."/>
+<phrase i="MP3UsbFileNotPresent" t="Inga MP3-filer i mappen \r '%s'. Kontrollera att du \r har mp3-filer i \r ”mp3-mappen” på USB-enheten."/>
+<phrase i="MP3DeleteAllPrompt" t="Vill du radera alla sånger \r från spellistan?"/>
+<phrase i="MP3MsgCalcTime" t="Beräknar uppspelningstiden..."/> 
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="Använder Ethernet"/>
+<phrase i="NC_TITLE_WIRELESS" t="Använder trådlöst"/>
+<phrase i="NC_NOT_AVAILABLE" t="Ej tillgängligt"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Ansluter till AP...."/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Kontrollerar Ethernet-anslutning...."/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="Trådlös anslutning misslyckades."/>
+<phrase i="NC_L2_FAIL_WIRED" t="Ethernet-anslutning misslyckades."/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="Trådlös anslutning är OK."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="Ethernet-anslutning är OK."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Använd statisk IP"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="Få IP av DHCP..."/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="Få IP av PPPOE..."/>
+<phrase i="NC_L3_FAIL_STATIC" t="Misslyckades ställa in IP-adr."/>
+<phrase i="NC_L3_FAIL_DHCP" t="Misslyckades få IP av DHCP."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="Misslyckades få IP av PPPOE."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="Ställ in IP-adress"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="Hämta IP-adress"/>
+<phrase i="NC_WAIT_VLAN_ID" t="Hämta VLAN ID...."/>
+<phrase i="NC_NO_PROFILE_LIST" t="Ingen profillista"/>
+<phrase i="NC_VPN_CONNECTING" t="Skapa VPN-anslutning."/>
+<phrase i="NC_VPN_CONNECTED" t="VPN-anslutning är OK."/>
+<phrase i="NC_VPN_FAILED" t="Misslyckades skapa VPN-anslutning"/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="USB-enheten existerar inte. \r Mata in USB-enheten i \r USB-öppningen på telefonen."/>
+<phrase i="UsbFolderNotPresent" t="'%s' mappen finns inte."/>
+<phrase i="UsbFileNotPresent" t="Ingen fil i \r'%s' mappen."/>
+<phrase i="UsbFileNotPresent2" t="[%s]-fil finns inte."/>
+<phrase i="UsbUnknownError" t="USB okänt fel"/>
+<phrase i="UsbPartitionName" t="Partition"/>
+<phrase i="UsbDevicePluged" t="USB-enhet är ansluten. \r Vänta ett ögonblick för \r montering av enheten."/>
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USB är fullt nu.\r Samtalsregistrering är\r stoppad. Koppla in ett nytt\r och starta registreringen\r igen."/>
+<phrase i="UsbDeviceIsFull" t="USB är fullt nu.\r Koppla in ett nytt\r och starta registreringen\r igen."/>
+<phrase i="CallRecordMaxSingleFileReached" t="Max enskilda\r registreringslängd uppnådd,\r starta en ny registrering."/>
+<phrase i="CallRecordMaxFileNumberReached" t="Max registreringsantal\r uppnåtts, radera några\r registreringar, och starta\r registreringen igen."/>
+<phrase i="CallRecordListDeletePrompt" t="Är du verkligen säker på att\r du vill ta bort denna\r registrering?"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Vill du radera alla\rregistreringar?"/>
+<phrase i="CallRecordNameInvalid" t="Samtalsregistreringsfilens\r namn är ogiltigt."/>
+<phrase i="CallRecordLenInvalid" t="Kan inte beräkna längden på\r samtalsregistrering."/>
+<phrase i="CallRecordFoldInvalid" t="Katalogen för\r samtalsregistrering är\r ogiltig."/>
+<phrase i="CallRecordUnknownError" t="Samtalsregistrering Okänt Fel"/>
+<phrase i="CallRecordMsgAPendingCall" t="Kan inte spela upp\rregistrering under ett samtal."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Bluetooth måste aktiveras \r före %s."/>
+<phrase i="BT_Discovering" t="Upptäckt av %s pågår."/>
+<phrase i="BT_Discovered" t="Upptäckt %s."/>
+<phrase i="BT_DiscoveredFaild" t="Upptäckt av %s misslyckades."/>
+<phrase i="BT_DeviceNotFound" t="Ingen Bluetoth-enhet hittad."/>
+<phrase i="BT_Pairing" t="Parning av %s pågår."/>
+<phrase i="BT_Paired" t="%s-parning lyckades."/>
+<phrase i="BT_PairingFailed" t="Parning misslyckades."/>
+<phrase i="BT_Abort" t="Anslutning till %s avbruten."/>
+<phrase i="BT_UnPairPrompt" t="Vill du koppla från \r[%s]?"/>
+<phrase i="BT_PinCodePrompt" t="Ange PIN-kod."/>
+<phrase i="BT_ScanningPrompt" t="I sökstatus. Vänta 10 \r sekunder och kör igen."/>
+<phrase i="BT_ConnectingPrompt" t="I anslutningsstatus. Vänta \r 10 sekunder och kör igen."/>
+<phrase i="BT_DownloadingPrompt" t="I nedladdningsstatus, vänta \r en minut och kör igen."/>
+<phrase i="BT_CallActivePrompt" t="I callAtcive-status, vänta \r på att samtalet avslutas."/>
+<phrase i="BT_OP_FAIL" t="Operationen misslyckades."/>
+<phrase i="BT_Dev_Connected" t="Enheten är redan ansluten."/>
+<phrase i="BT_Search" t="Söker efter Bluetoot-henheter"/>
+<phrase i="BT_Connecting_Dev" t="Ansluter Bluetooth-enhet "/>
+<phrase i="BT_HeadsetNamePrompt" t="Headsetnamnet kan inte vara \r tomt."/>
+<phrase i="BT_PhoneModeError" t="Telefonläget kan inte \r ansluta till mobiltelefon."/>
+<phrase i="BT_HandsfreeModeError" t="Handsfreeläget kan inte \r ansluta till headsetet."/>
+<phrase i="BT_DownloadUpdate" t="Uppdaterar personlig adressbok"/>
+<phrase i="BT_DownloadAddFull" t="Adressboken är full, kan \r inte lägga till några \r poster. Lägg till %d nya \r poster Ignorera %d nya poster"/>
+<phrase i="BT_DownloadConflictFull" t="Adressboken är full, kan inte\r lägga till några poster. \r Uppdatera %d konfliktposter\r Lägg till %d nya poster \r Ignorera %d nya poster"/>
+<phrase i="BT_OverMaxProfileNum" t="Listan är full. Vill du \r ersätta en annan profil?"/>
+<phrase i="T_BluetoothProfileList" t="Välj Bluetooth-profil"/>
+<phrase i="T_BluetoothProfilePlace" t="Välj Bluetooth-profil att ersätta"/>
+<phrase i="T_BTMode" t="Bluetooth-läge"/>
+<phrase i="T_BTProfile" t="Bluetooth-profiler"/>
+<phrase i="T_BTHeadsetName" t="Headsetnamn"/>
+<phrase i="T_BTLoadPhoneBook" t="Ladda ned telefonbok"/>
+<phrase i="T_BTShowPhoneBook" t="Visa telefonbok"/>
+<phrase i="T_BTChoosePair" t="Välj en Bluetooth-enhet att para"/>
+<phrase i="T_BTEditProfile" t="Redigera Bluetooth-profil"/>
+<phrase i="L_BTDeviceName" t="Enhetsnamn"/>
+<phrase i="L_BTPINCODE" t="Pin"/>
+<phrase i="L_BTConnectAuto" t="Anslut automatiskt"/>
+<phrase i="T_BTDownLoad" t="Ladda ned"/>
+<phrase i="T_BTReplace" t="Ersätt"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Tjänst inte tillgänglig"/>
+<phrase i="CALL_NETERR" t="Nätverksfel"/>
+<phrase i="CALL_NORES" t="Inget gensvar"/>
+<phrase i="CALL_PROTOERR" t="Protokollfel"/>
+<phrase i="CALL_NOLINE" t="Ingen rad"/>
+<phrase i="CALL_TIMEOUT" t="Timeout"/>
+<phrase i="S_PHOLD" t="PrivVänta"/>
+<phrase i="CALL_PHELD" t="Privat Vänta"/>
+<phrase i="S_IGNORE" t="Ignorera"/>
+<phrase i="LINE_INUSE" t="Används"/>
+<phrase i="CALL_SERVUNAVAIL" t="Service inte tillgänglig"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="ÅÅÅÅ"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="tt"/>
+<phrase i="Label_mm" t="mm"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_STARTUP_DELAY" t="Uppstartsfördröjning"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="VLAN ID"/>
+<phrase i="L_VLAN_PRIPORITY" t="VLAN Priority"/>
+<phrase i="L_DATAPORT_VLAN" t="PC Port VLAN"/>
+<phrase i="L_DATAPORT_VLANID" t="PC Port VLAN ID"/>
+<phrase i="L_DATAPORT_PRIORITY" t="PC Port Priority"/>
+<phrase i="OL_NO_LIMIT" t="No Limit"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_MD5-Digest" t="MD5-Digest"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C å ä Å Ä "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O ö Ö "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+ 
+<!-- #############  #language #############-->
+<phrase i="L_English" t="Engelska"/>
+<phrase i="L_English-US" t="Engelska-USA"/>
+<phrase i="L_English-Canada" t="Engelska -Kanada"/>
+<phrase i="L_English-Australia" t="Engelska-Australien"/>
+<phrase i="L_English-Britain" t="Eng-Storbritannien"/>
+<phrase i="L_English-NewZealand" t="Engelska-Nya Zeeland"/>
+<phrase i="L_French" t="Franska"/>
+<phrase i="L_French-Canada" t="Franska - Kanada"/>
+<phrase i="L_Spanish" t="Spanska"/>
+<phrase i="L_Spanish-Mexico" t="Spanska-Mexiko"/>
+<phrase i="L_Italian" t="Italienska"/>
+<phrase i="L_German" t="Tyska"/>
+<phrase i="L_Norwegian" t="Norska"/>
+<phrase i="L_Portuguese" t="Portugisiska"/>
+<phrase i="L_Polish" t="Polska"/>
+<phrase i="L_Dutch" t="Holländska"/>
+<phrase i="L_Swedish" t="Svenska"/>
+<phrase i="L_Russian" t="Ryska"/>
+<phrase i="L_Turkish" t="Turkiska"/>
+<phrase i="L_Slovak" t="Slovakiska"/>
+<phrase i="L_Hungarian" t="Ungerska"/>
+<phrase i="L_Croatian" t="Kroatiska"/>
+<phrase i="L_Bulgarian" t="Bulgariska"/>
+<phrase i="L_Czech_Republic" t="Tjeckien"/>
+<phrase i="L_Slovenian" t="Slovenska"/>
+<phrase i="L_Danish" t="Danska"/>
+<phrase i="L_Hebrew" t="Hebreiska"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy \r demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear \r demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP Phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware Upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992–2013"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All Rights Reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP Phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi Device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless Enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless Status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi Protected Setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth Status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth Profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade File Select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware Upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi Profile Name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push Button Configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN Configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching Available Sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please Wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC Address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal Level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to Personal Address Book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to Personal Address Book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with Personal Address Book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the Conflict List"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the Personal Address Book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth Type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth Device Name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices...."/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi Profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait..."/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting Wireless Profile...."/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth Device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone Number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start Time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End Time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call History Type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add New Wi-Fi Profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site Survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit All Changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel Settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-Scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware Upgrade Window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth Devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from\r webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space Not Allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password Not Valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available Speed Dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current Personal Directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, Each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension Name of Certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or Server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User Certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid Certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter Pin."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit \r WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as Profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of Personal Address Book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of Call History entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of Received Calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of Placed Calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of Missed Calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth History entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi Profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected Personal Address Book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected Call History entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected Received Calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected Placed Calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected Missed Calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth History entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi Profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to Personal Address Book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal Address Book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Call History"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed Dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi Profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth Device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth Device List"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security Mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher Type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default Transmit Key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key Length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA Shared Key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root Certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User Certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of Private Key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS Inner Protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP Inner Protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile Name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect Automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="Pin"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone No"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work No"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile No"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home No"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring Tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add Personal Address Entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA Enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 Enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP Type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check Server Certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received Calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed Calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed Calls"/>
+<phrase i="S_Pg_C_All" t="All Calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth Device List"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth Devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi Connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import Address Book from Mobile Phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="Kamera nr"/>
+<phrase i="L_Camera_Name" t="Kameranamn"/>
+<phrase i="L_Camera_Ip" t="IP-adress"/>
+<phrase i="L_Camara_UserName" t="Användarnamn"/>
+<phrase i="L_Camera_Password" t="Lösenord"/>
+<phrase i="L_Camera_Port" t="Port nr"/>
+<phrase i="L_Camera_Resolution" t="Upplösning"/>
+<phrase i="L_Camera_Quality" t="Videokvalitet"/>
+<phrase i="L_Camera_FrameRate" t="Ruthastighet"/>
+<phrase i="L_Camera_Status" t="Status"/>
+<phrase i="T_Camera_Entry" t="Kamerainformation"/>
+<phrase i="T_Camera_List" t="Välj en kamera att övervaka"/>
+<phrase i="CamInvalidParam" t="Kamera [%s]\r Parameter/parametrar \r inte giltiga."/>
+<phrase i="CamMissingURL" t="Kamera [%s]\r åtkomst-URL saknas."/>
+<phrase i="CamMissingUserName" t="Kamera [%s]\r användarnamn saknas."/>
+<phrase i="CamMissingPassword" t="Kamera [%s]\r lösenord saknas."/>
+<phrase i="CamInvalidURL" t="Kamera [%s]\r åtkomst-URL är ogiltig."/>
+<phrase i="CamInvalidProtocol" t="Kamera [%s]\r protokoll är inte RTSP."/>
+<phrase i="CamNoVideo" t="Ingen video."/>
+<phrase i="CamConnecting" t="Ansluter..."/>
+<phrase i="CamConnectError" t="Ingen video - anslutning \rmisslyckades."/>
+<phrase i="CamAccessError" t="Ingen video - åtkomst nekad."/>
+<phrase i="CamResolveError" t="Ingen video - Misslyckades \r att bestämma adress."/>
+<phrase i="CamResolutionError" t="Ingen video - Upplösning \r för stor."/>
+<phrase i="CamBusy" t="Kamera är upptagen.\r Vänta och försök igen."/>
+<phrase i="CamActivateDoorOK" t="Öppen dörr OK\r för [%s]."/>
+<phrase i="CamActivateDoorFailed" t="Öppen dörr misslyckades\r för [%s]."/>
+<phrase i="CamFeatureNotAvailable" t="Funktionen är inte tillgänglig\r När Bluetooth är aktiverat"/>
+<phrase i="P_CamAccess" t="Åtkomst video"/>
+
+<phrase i="OL_160_120" t="160 * 120"/>
+<phrase i="OL_320_240" t="320 * 240"/>
+<phrase i="OL_640_480" t="640 * 480"/>
+<phrase i="OL_Very_Low" t="Mycket låg"/>
+<phrase i="OL_Low" t="Låg"/>
+<phrase i="OL_Normal" t="Normal"/>
+<phrase i="OL_High" t="Hög"/>
+<phrase i="OL_Very_High" t="Mycket hög"/>
+<phrase i="OL_10fps" t="10 Bps"/>
+<phrase i="OL_15fps" t="15 Bps"/>
+<phrase i="OL_20fps" t="20 Bps"/>
+
+<!-- #############  #SMS #############-->
+<phrase i="T_SMS_Title" t="SMS e-postmeddelanden"/>
+<phrase i="L_SMS_Create_Msg" t="Skapa SMS-meddelande"/>
+<phrase i="L_SMS_Inbox" t="SMS Inkorg"/>
+<phrase i="L_SMS_Outbox" t="SMS utkorg"/>
+<phrase i="L_SMS_Saved" t="Sparade SMS"/>
+<phrase i="SMSInbox_Title" t="Mottagna SMS-meddelanden"/>
+<phrase i="SMSOutBoxType_Title" t="Skickade SMS-meddelanden"/>
+<phrase i="SMSSavedType_Title" t="Sparade SMS-meddelanden"/>
+<phrase i="SMSEditTitle_Title" t="Spara SMS-meddelande"/>
+<phrase i="SMSMessage_Title" t="SMS-meddelande"/>
+<phrase i="SMSRecipient_Title" t="Mottagare"/>
+<phrase i="S_Reply" t="Svara"/>
+<phrase i="S_Send" t="Skicka"/>
+<phrase i="S_EditTitle" t="Titel"/>
+<phrase i="CreateSMS" t="Skapa ett SMS-meddelande"/>
+<phrase i="EditSMS" t="Redigera ett SMS-meddelande"/>
+<phrase i="SMS_RecNULLPrompt" t="Hittar inte sändlistan"/>
+<phrase i="SMS_SendOverMaxPFNum" t="Välj sändlistan för mycket"/>
+<phrase i="SMS_TitileLenNull" t="Ogiltig titel"/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Anknytningsmobilitet"/>
+<phrase i="L_ExtMob_LoginForm" t="Anknytn.mobilitet inloggn.formulär"/>
+<phrase i="L_EM_LOGIN_TRY" t="Försöker logga in. Vänta..."/>
+<phrase i="L_EM_LOGIN_OK" t="Inloggningen lyckades Kan starta om..."/>
+<phrase i="L_EM_LOGIN_FAILED" t="Inloggning misslyckades. Verifiera ditt användar-ID, lösenord och profilregler."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Försöker logga ut. Vänta..."/>
+<phrase i="L_EM_LOGOUT_OK" t="Utloggning lyckades. Kan starta om..."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Utloggning misslyckades, startar om..."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Mata in användar-ID och lösenord."/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Vill du göra en återställning?"/>
+<phrase i="L_RecoveryReset" t="Återställning"/>
+<phrase i="L_FirmwareUpgrade" t="Uppgradering fast program"/>
+<phrase i="T_ST_Diag" t="Diag återställning"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.bin hittas \r inte. Kopiera det fasta \r programmets bild till \r /image/spa525g.bin."/>
+<phrase i="L_Picture" t="Bild"/>
+
+<!-- #############  #VPN #############-->
+<phrase i="VPNConnecting" t="VPN-anslutning..."/>
+<phrase i="VPNDisconnecting" t="VPN-frånkoppling..."/>
+<phrase i="VPNConnectSuccess" t="VPN-session etablerad."/>
+<phrase i="VPNDisconnectSuccess" t="VPN-session avslutad."/>
+<phrase i="VPNConnectFailed" t="VPN-anslutning misslyckades."/>
+<phrase i="L_VPNStatus" t="VPN-status"/>
+<phrase i="L_VPNConnected" t="VPN-ansluten"/>
+<phrase i="L_BytesSend" t="Byte skickade"/>
+<phrase i="L_BytesRecv" t="Byte mottagna"/>
+<phrase i="V_AuthFail" t="Verifiering misslyckades."/>
+<phrase i="V_HTTPSFail" t="Misslyckades att öppna HTTPS \ranslutning till server."/>
+<phrase i="V_NegFail" t="HTTP svarsfel."/>
+<phrase i="V_URLFail" t="KMisslyckades att analysera \rserver URL."/>
+<phrase i="V_HTTPSOnly" t="Endast https tillåtet för \rserver URL."/>
+<phrase i="V_CookieFail" t="Misslyckades att få WebVPN \rcookie."/>
+<phrase i="V_CSTPFail" t="Skapande av CSTP-anslutning \rmisslyckades."/>
+<phrase i="V_TUNFail" t="Inställning mottagarenhet \rmisslyckades."/>
+<phrase i="V_AuthGroup_Invalid" t="Auth Group-inställningen är ogiltig."/>
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="'%s' mappen finns inte. \r Kontrollera att du har \r jpg-filer i '%s’ mappen på \r USB-enheten."/>
+<phrase i="ImageUsbFileNotPresent" t="Inga JPG-filer i mappen \r '%s'. Kontrollera att du \r har jpg-filer i '%s’ \r mappen på USB-enheten."/>
+<phrase i="T_ImageSelect" t="Välj en bild"/>
+<phrase i="ImageMsgOverMaxImageNum" t="Du har valt fler än \r %d bilder!"/>
+
+<!-- #############  #Weather #############-->
+<phrase i="WS_Today" t="       I dag"/> 
+<phrase i="WS_Night" t="       Natt"/>
+<phrase i="WS_Tomorrow" t="   I morgon"/>
+<phrase i="WS_Sunday" t="     Söndag"/>
+<phrase i="WS_Monday" t="     Måndag"/>
+<phrase i="WS_Tuesday" t="     Tisdag"/>
+<phrase i="WS_Wednesday" t=" Onsdag"/>
+<phrase i="WS_Thursday" t="     Torsdag"/>
+<phrase i="WS_Friday" t="       Fredag"/>
+<phrase i="WS_Saturday" t="   Lördag"/>
+<phrase i="WS_Jan" t="Jan"/>
+<phrase i="WS_Feb" t="Feb"/>
+<phrase i="WS_Mar" t="Mar"/>
+<phrase i="WS_Apr" t="Apr"/>
+<phrase i="WS_May" t="Maj"/>
+<phrase i="WS_Jun" t="Jun"/>
+<phrase i="WS_Jul" t="Jul"/>
+<phrase i="WS_Aug" t="Aug"/>
+<phrase i="WS_Sep" t="Sep"/>
+<phrase i="WS_Oct" t="Okt"/>
+<phrase i="WS_Nov" t="Nov"/>
+<phrase i="WS_Dec" t="Dec"/>
+<phrase i="WS_Mostly Cloudy" t="Mest molnigt"/>
+<phrase i="WS_Partly Cloudy" t="Delvis molnigt"/>
+<phrase i="WS_Cloudy" t="Molnigt"/>
+<phrase i="WS_Clouds" t="Moln"/>
+<phrase i="WS_Cloudy and Wind" t="Molnigt och blåsigt"/>
+<phrase i="WS_Cloudy / Wind" t="Molnigt / blåsigt"/>
+<phrase i="WS_Mostly Sunny" t="Mest soligt"/>
+<phrase i="WS_Mostly Clear" t="Mest klart"/>
+<phrase i="WS_Fair" t="Lagom"/>
+<phrase i="WS_Sun" t="Sön"/>
+<phrase i="WS_Sunny" t="Soligt"/>
+<phrase i="WS_Clear" t="Rensa"/>
+<phrase i="WS_Clearing" t="Rensar"/>
+<phrase i="WS_Hot" t="Het"/>
+<phrase i="WS_Rain and Snow" t="Regn och snö"/>
+<phrase i="WS_Rain / Snow" t="Regn / Snö"/>
+<phrase i="WS_Rain" t="Regn"/>
+<phrase i="WS_Drizzle" t="Duggar"/>
+<phrase i="WS_Showers" t="Regnigt"/>
+<phrase i="WS_T-showers" t="Åskregn"/>
+<phrase i="WS_Scattered Showers" t="Spridda regnskurar"/>
+<phrase i="WS_Scattered T-storms" t="Spridda åskväder"/>
+<phrase i="WS_Isolated T-storms" t="Isolerade åskväder"/>
+<phrase i="WS_Severe T-storms" t="Kraftiga åskväder"/>
+<phrase i="WS_T-storms" t="Åskväder"/>
+<phrase i="WS_Thunder" t="Åska"/>
+<phrase i="WS_Tornado" t="Tornado"/>
+<phrase i="WS_Tropical Storm" t="Tropisk storm"/>
+<phrase i="WS_Storm" t="Storm"/>
+<phrase i="WS_Hurricane" t="Orkan"/>
+<phrase i="WS_Typhoon" t="Tyfon"/>
+<phrase i="WS_Snow Shower and Windy" t="Snöväder och blåsigt"/>
+<phrase i="WS_Snow Shower" t="Snöoväder"/>
+<phrase i="WS_Snow Flurries" t="Snöbyar"/>
+<phrase i="WS_Scattered Snow Showers" t="Spridda snöbyar"/>
+<phrase i="WS_Blowing Snow" t="Snöblåst"/>
+<phrase i="WS_Flurries" t="Kastby"/>
+<phrase i="WS_Scattered Flurries" t="Spridda snöbyar"/>
+<phrase i="WS_Snow" t="Snö"/>
+<phrase i="WS_Wintry Mix" t="Vintermix"/>
+<phrase i="WS_Cold" t="Kall"/>
+<phrase i="WS_Windy" t="Blåsigt"/>
+<phrase i="WS_Wind" t="Vind"/>
+<phrase i="WS_Blustery" t="Stormigt"/>
+<phrase i="WS_Foggy" t="Dimmigt"/>
+<phrase i="WS_Fog" t="Dimma"/>
+<phrase i="WS_Mist" t="Dis"/>
+<phrase i="WS_Haze" t="Disigt"/>
+<phrase i="WS_Smoky" t="Rökigt"/>
+<phrase i="WS_Widespread Dust" t="Utspritt damm"/>
+<phrase i="WS_Dust" t="Damm"/>
+<phrase i="WS_Hail" t="Hagel"/>
+<phrase i="WS_Sleet" t="Snöblandad regn"/>
+<phrase i="WS_Freezing Drizzle" t="Underkylt duggregn"/>
+<phrase i="WS_Freezing Rain" t="Underkylt regn"/>
+<phrase i="WS_Ice" t="Is"/>
+<phrase i="WS_Scattered" t="Halvklart"/>
+<phrase i="WS_N/A" t="N/A"/>
+<phrase i="WS_Sprinkles" t="Sprinkler"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Begäran..."/>
+<phrase i="T_EmptyHTTPBody" t="Tom Http kropp."/>
+<phrase i="T_404NotFound" t="404 Hittas inte."/>
+<phrase i="T_AudioDataError" t="Ljuddatafel."/>
+<phrase i="T_DNSError" t="DNS Fel."/>
+<phrase i="T_NoServer" t="Kan inte ansluta till server."/>
+<phrase i="T_NoResponse" t="Server svarar inte. Försök igen."/>
+<phrase i="T_DataError" t="Datafel."/>
+<phrase i="T_UnknownError" t="Okänt fel."/>
+<phrase i="T_RTPFail" t="Telefonen hanterar annat\r samtal. Försök igen senare."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Resultat"/>
+<phrase i="PRV_Msg_Resync" t="Omsynkning till"/>
+<phrase i="PRV_Msg_ReqFailed" t="Telefonen behandlar en \r omsynkningsbegäran. \r Försök igen senare."/>
+<phrase i="PRV_Invalid_URL" t="Ogiltig omsynkningsprofilregel!"/>
+<phrase i="L_DefSpeedDial" t="Definiera uppringningshastighet"/>
+<phrase i="L_SDLK_ERROR" t="Fel: tom eller ogiltig"/>
+<phrase i="SDLK_DeletePrompt" t="Vill du radera\r hastighetsratten på knappraden [%d]?"/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Omsynk pågår…"/>
+<phrase i="PRV_Msg_Resync_OK" t="Omsynk lyckades"/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="Telefonen startar om. Vänta…"/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Ingen"/>
+<phrase i="L_RReason1" t="DHCP misslyckades"/>
+<phrase i="L_RReason2" t="Upppgradering"/>
+<phrase i="L_RReason3" t="Etablering"/>
+<phrase i="L_RReason4" t="Upppgradering"/>
+<phrase i="L_RReason5" t="Utlöst av användaren"/>
+<phrase i="L_RReason6" t="Upppgradering"/>
+<phrase i="L_RReason7" t="Utlöst av SIP"/>
+<phrase i="L_RReason8" t="Upppgradering"/>
+<phrase i="L_RReason9" t="Systemfel"/>
+<phrase i="L_RReason10" t="Otillgänglig länk"/>
+<phrase i="L_RReason11" t="System 1"/>
+<phrase i="L_RReason12" t="System 2"/>
+<phrase i="L_RReason13" t="Duplicerad IP"/>
+<phrase i="L_RReason14" t="Säkerhetskopiera IP"/>
+<phrase i="L_RReason15" t="System 3"/>
+<phrase i="L_RReason16" t="System 4"/>
+<phrase i="L_RReason17" t="System 5"/>
+<phrase i="L_RReason18" t="System 6"/>
+<phrase i="L_RReason19" t="System 7"/>
+<phrase i="L_RReason20" t="Utlöst av SIP"/>
+<phrase i="L_RReason21" t="Ordbok nedladdad"/>
+<phrase i="L_RReason22" t="VLAN ändrat"/>
+<phrase i="L_RReason23" t="RC"/>
+<phrase i="L_RReason24" t="Fabriksåterställning"/>
+<phrase i="L_RReason25" t="Programvaruregistrering"/>
+<phrase i="L_RReason26" t="IP ändrad"/>
+<phrase i="T_WeatherSearch2" t="Ange namn på stad"/>
+
+</phrases>

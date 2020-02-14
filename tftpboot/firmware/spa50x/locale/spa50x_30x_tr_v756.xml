@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Turkish</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Etki Alanı Adı"/>
+<phrase i="204" t="IP Adresi"/>
+<phrase i="205" t="Alt Ağ Maskesi"/>
+<phrase i="212" t="DNS Sunucusu 1"/>
+<phrase i="213" t="DNS Sunucusu 2"/>
+<phrase i="225" t="Dizinler URL'si"/>
+<phrase i="226" t="Mesajlar URL'si"/>
+<phrase i="227" t="Hizmetler URL'si"/>
+<phrase i="354" t="Gelen Aramalar"/>
+<phrase i="355" t="Yapılan Aramalar"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="365" t="Ağ Yapılandırması"/>
+<phrase i="374" t="Kuş ötmesi 1"/>
+<phrase i="375" t="Kuş ötmesi 2"/>
+<phrase i="378" t="Zil Türü"/>
+<phrase i="384" t="Durum Mesajları"/>
+<phrase i="393" t="Ağ İstatistikleri"/>
+<phrase i="473" t="IP Adresi Serbest Bırakıldı"/>
+<phrase i="500" t="DHCP Adresi Serbest Bırakıldı"/>
+<phrase i="502" t="Silme Yapılandırması"/>
+<phrase i="552" t="Kimlik Doğrulama URL'si"/>
+<phrase i="585" t="Kullanıcı Konumu"/>
+<phrase i="586" t="Ağ Konumu"/>
+<phrase i="635" t="DHCP Sunucusu"/>
+<phrase i="655" t="Model Bilgileri"/>
+<phrase i="657" t="Model Numarası"/>
+<phrase i="670" t="Varsayılan Zil"/>
+<phrase i="676" t="KısaÇevr"/>
+<phrase i="716" t="Güvenlik Yapılandırması"/>
+<phrase i="3000" t="Cevapsız Aramalar"/>
+<phrase i="3001" t="Yeniden Arama Listesi"/>
+<phrase i="3002" t="Zil Sesi Seviyesi"/>
+<phrase i="3003" t="Hoparlör Ses Seviyesi"/>
+<phrase i="3004" t="Kulaklık Ses Seviyesi"/>
+<phrase i="3005" t="Kulaklık Ses Seviyesi"/>
+<phrase i="3006" t="LCD Kontrastı"/>
+<phrase i="3007" t="durum"/>
+<phrase i="3008" t="Durum"/>
+<phrase i="3009" t="Hat Tuşu 4"/><!-- comment content -->
+<phrase i="3010" t="Hat Tuşu 3"/>
+<phrase i="3011" t="Hat Tuşu 2"/>
+<phrase i="3012" t="Hat Tuşu 1"/>
+<phrase i="3013" t="Harici 4"/>
+<phrase i="3014" t="Harici 3"/>
+<phrase i="3015" t="Harici 2"/>
+<phrase i="3016" t="Harici 1"/>
+<phrase i="3018" t="RahEtm"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Yerel Hizmetler"/>
+<phrase i="3020" t="Ara"/>
+<phrase i="3021" t="Zil"/>
+<phrase i="3022" t="Dahili telefon sistemi"/>
+<phrase i="3023" t="TkrAra"/><!-- This is a softkey label -->
+<phrase i="3027" t="Sistem yeniden başlatılıyor Lütfen bekleyin"/>
+<phrase i="3028" t="Sistem tekrar yükleniyor Lütfen bekleyin"/>
+<phrase i="3029" t="Fabrika ayarlarına sıfırlanıyor Lütfen bekleyin"/>
+<phrase i="3030" t="Sistem Yeniden Başlatma Onaylansın mı?"/>
+<phrase i="3031" t="Sistem&amp;apos;i Tekrar Yükleme Onaylansın mı?"/>
+<phrase i="3032" t="Tüm parametreler varsayılan fabrika değerlerine sıfırlanacak. Devam edilsin mi?"/>
+<phrase i="3033" t="Şifre Hatası. Tekrar denensin mi?"/>
+<phrase i="3034" t="Yeni Şifre:"/>
+<phrase i="3035" t="Sesli Posta Numarası:"/>
+<phrase i="3036" t="Sıfırlama (S:d:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Saat(S:d:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Tarih (a/g/y):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Çıkış"/><!-- This is a softkey label -->
+<phrase i="3040" t="Giriş"/><!-- This is a softkey label -->
+<phrase i="3041" t="Kur x"/>
+<phrase i="3042" t="Kur"/>
+<phrase i="3043" t="Ağ"/>
+<phrase i="3044" t="Yönetici Şifresini Gir:"/>
+<phrase i="3045" t="Hayır"/>
+<phrase i="3046" t="ArYön Cvpsz Gecikme"/>
+<phrase i="3047" t="ArYön Cvpsz No"/>
+<phrase i="3048" t="ArYön Meşgul Numara"/>
+<phrase i="3049" t="ArYön Tüm Numara"/>
+<phrase i="3050" t="Çoklu Yayın Adresi"/>
+<phrase i="3051" t="DHCP Olmayan NTP Sun 2"/>
+<phrase i="3052" t="DHCP Olmayan NTP Sun 1"/>
+<phrase i="3053" t="DHCP Olmayan DNS 2"/>
+<phrase i="3054" t="DHCP Olmayan DNS 1"/>
+<phrase i="3055" t="DHCP Olmayan Stndrt Rota"/>
+<phrase i="3056" t="DHCP Olmayan Alt Ağ Maskesi"/>
+<phrase i="3057" t="DHCP Olmayan IP Adresi"/>
+<phrase i="3058" t="Web Sunucusunu Etkinleştir"/>
+<phrase i="3059" t="Mevcut Ağ Geçidi"/>
+<phrase i="3060" t="Mevcut Ağ Maskesi"/>
+<phrase i="3061" t="Etki Alanı"/>
+<phrase i="3062" t="Ana Bilgisayar Adı"/>
+<phrase i="3063" t="Mevcut IP"/>
+<phrase i="3064" t="DHCP Etkinleştir"/>
+<phrase i="3065" t="WAN Bağlantısı Türü"/>
+<phrase i="3066" t="Tarih Biçimi"/>
+<phrase i="3067" t="Saat Biçimi"/>
+<phrase i="3068" t="Hoparlöre Ses Gönder"/>
+<phrase i="3069" t="Otomatik Yanıt Sayfası"/>
+<phrase i="3070" t="Tercih Edilen Ses Cihazı"/>
+<phrase i="3071" t="Arama Yardımı"/>
+<phrase i="3072" t="Güvenli Arama"/>
+<phrase i="3073" t="Rahatsız Etmeyin"/>
+<phrase i="3074" t="Adsız Aramaları Engel."/>
+<phrase i="3075" t="Arayan Kimliği Engelle"/>
+<phrase i="3076" t="İstemci Sertifikası"/>
+<phrase i="3077" t="MAC Adresi"/>
+<phrase i="3078" t="Donanım Sürümü"/>
+<phrase i="3079" t="Yazılım Sürümü"/>
+<phrase i="3080" t="Seri Numarası"/>
+<phrase i="3081" t="Ürün Adı"/>
+<phrase i="3082" t="Tercih Edilen Cihaz"/>
+<phrase i="3083" t="İstasyon Adı"/>
+<phrase i="3085" t="Arama Bekletme Durumu"/>
+<phrase i="3087" t="Şifreyi Ayarla"/>
+<phrase i="3088" t="Fabrika Ayarlarına Sıfırlama"/>
+<phrase i="3089" t="Yeniden Başlat"/>
+<phrase i="3090" t="Tekrar Yükleme"/>
+<phrase i="3092" t="Ürün Bilgileri"/>
+<phrase i="3094" t="Sesli Posta"/>
+<phrase i="3095" t="Saat/Tarih"/>
+<phrase i="3096" t="Arama Yönlendirme"/>
+<phrase i="3097" t="Tercihler"/>
+<phrase i="3099" t="Arama Geçmişi"/>
+<phrase i="3100" t="Hızlı Çevir"/>
+<phrase i="3101" t="Dizin"/>
+<phrase i="3102" t="Hızlı Çevir x Gir"/>
+<phrase i="3104" t="Zil 10"/>
+<phrase i="3105" t="Zil 9"/>
+<phrase i="3106" t="Zil 8"/>
+<phrase i="3107" t="Zil 7"/>
+<phrase i="3108" t="Zil 6"/>
+<phrase i="3109" t="Zil 5"/>
+<phrase i="3110" t="Zil 4"/>
+<phrase i="3111" t="Zil 3"/>
+<phrase i="3112" t="Zil 2"/>
+<phrase i="3113" t="Zil 1"/>
+<phrase i="3114" t="Uzun Zil"/>
+<phrase i="3115" t="Harici 1: "/>
+<phrase i="3116" t="Zil Sesi Tonu"/>
+<phrase i="3117" t="Sil: "/>
+<phrase i="3118" t="Liste Boş"/>
+<phrase i="3119" t="Yanlış Şifre. TkrDen denensin mi?"/>
+<phrase i="3120" t="Şifreyi Girin:"/>
+<phrase i="3121" t="Arama Bekletme"/>
+<phrase i="3123" t="Arama Bekletme İsteği Durum başarısız"/>
+<phrase i="3124" t="Arama Bekletme Boş"/>
+<phrase i="3125" t="Arama Bekletme İsteniyor Durum..."/>
+<phrase i="3126" t="Geçersiz bekletme numarası.\r Numarayı yeniden girin."/>
+<phrase i="3127" t="Zil Sesi İstasyonu"/>
+<phrase i="3128" t="Arama Seçme"/>
+<phrase i="3129" t="Aktarmak için bir Bekletme Hattı seçin"/>
+<phrase i="3130" t="Konferans için bir Bekletme Hattı seçin"/>
+<phrase i="3131" t="*Kodunu Çevir"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="G729A'yı Zorla"/>
+<phrase i="3133" t="G729A'yı Tercih Et"/>
+<phrase i="3134" t="G726r40'ı Zorla"/>
+<phrase i="3135" t="G726r40'ı Tercih Et"/>
+<phrase i="3136" t="G726r32'yi Zorla"/>
+<phrase i="3137" t="G726r32'yi Tercih Et"/>
+<phrase i="3138" t="G726r24'ü Zorla"/>
+<phrase i="3139" t="G726r24'ü Tercih Et"/>
+<phrase i="3140" t="G726r16'yı Zorla"/>
+<phrase i="3141" t="G726r16'yı Tercih Et"/>
+<phrase i="3142" t="G723'ü Zorla"/>
+<phrase i="3143" t="G723'ü Tercih Et"/>
+<phrase i="3144" t="G711A'yı Zorla"/>
+<phrase i="3145" t="G711A'yı Tercih Et"/>
+<phrase i="3146" t="G711U'yu Zorla"/>
+<phrase i="3147" t="G711U'yu Tercih Et"/>
+<phrase i="3148" t="Mizanpaj"/>
+<phrase i="3149" t="Sonraki Güvenliyi İptal Et"/>
+<phrase i="3150" t="Sonrakini Güvenli Yap"/>
+<phrase i="3151" t="Tüm Aramalar Güvenli İptal"/>
+<phrase i="3152" t="Tüm Aramalar Güvenli"/>
+<phrase i="3153" t="Rahatsız Etmeyin İptal"/>
+<phrase i="3155" t="Adsız Aramaları Engelleme"/>
+<phrase i="3157" t="Sonraki Arayan Kimliği Engelleme"/>
+<phrase i="3158" t="Sonraki Arayan Kimliği Engelle"/>
+<phrase i="3159" t="Arayan Kimliği Engelleme İptal"/>
+<phrase i="3160" t="Arayan ID Engelle"/>
+<phrase i="3161" t="TkrDen Arama İptal"/>
+<phrase i="3162" t="TkrDen Ara"/>
+<phrase i="3163" t="Cvpsz Arama Yönl. İptal"/>
+<phrase i="3164" t="Cevap Yoksa Aramayı Yönlendir"/>
+<phrase i="3165" t="Meşgul Arama Yönl. İptal"/>
+<phrase i="3166" t="Meşgulken Aramayı Yönlendir"/>
+<phrase i="3167" t="Tüm Arama Yönlendirme İptal"/>
+<phrase i="3168" t="Arama Yönlendirme Tümü"/>
+<phrase i="3169" t="Geri Ara"/>
+<phrase i="3190" t="Kulaklık   "/>
+<phrase i="3191" t="Ahize   "/>
+<phrase i="3192" t="Hoparlör   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Klavye   "/>
+<phrase i="3201" t="Geçti"/>
+<phrase i="3202" t="Başarısız"/>
+<phrase i="3216" t="Zil sesi:"/>
+<phrase i="3217" t="Numara:"/>
+<phrase i="3218" t="Ad:"/>
+<phrase i="3219" t="Sil:"/>
+<phrase i="3220" t="Zil Sesi Seçici"/>
+<phrase i="3221" t="Dizin"/>
+<phrase i="3222" t="No Gir:"/>
+<phrase i="3223" t="Sayfa Hedefini Girin:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Seçim Grubunu Girin:"/>
+<phrase i="3225" t="Özel Hizmet Hedefini Girin:"/>
+<phrase i="3226" t="Sevk Hizmet Hedefini Girin:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Bek. İptal için No Girin:"/>
+<phrase i="3228" t="Bekletmek için Numarayı Girin:"/>
+<phrase i="3229" t="Kontrolsüz Hizmet Hedefini Girin:"/>
+<phrase i="3230" t="ArYön Cvpsz No Gir:"/>
+<phrase i="3231" t="ArYön Meşgul Numarasını Girin:"/>
+<phrase i="3232" t="ArYön Tümü Nosu Gir:"/>
+<phrase i="3234" t="Daha Fazla Sayı Girin:"/>
+<phrase i="3237" t="Cevapsız Aramalar"/>
+<phrase i="3238" t="Cevaplanmış Aramalar"/>
+<phrase i="3239" t="Cevaplanan Aramalar"/>
+<phrase i="3240" t="Yeniden Arama Listesi"/>
+<phrase i="3241" t="Ağ Başlatılıyor"/>
+<phrase i="3242" t="DNS Kontrol Ediliyor"/>
+<phrase i="3243" t="diz"/><!-- This is a softkey label -->
+<phrase i="3244" t="ArYön"/><!-- This is a softkey label -->
+<phrase i="3245" t="Dil"/>
+<phrase i="3246" t="Dil Seçimi"/>
+<phrase i="3248" t="Aramalar Yönlendirildi"/>
+<phrase i="3249" t="Yeni Cvpsz Arama"/>
+<phrase i="3250" t="Yeni Cvpsz Arama"/>
+<phrase i="3251" t="diğer"/><!-- This is a softkey label -->
+<phrase i="3252" t="tkrden"/><!-- This is a softkey label -->
+<phrase i="3253" t="çıkış"/><!-- This is a softkey label -->
+<phrase i="3254" t="uygDğl"/><!-- This is a softkey label -->
+<phrase i="3255" t="uygun"/><!-- This is a softkey label -->
+<phrase i="3258" t="grSeç"/><!-- This is a softkey label -->
+<phrase i="3259" t="seçim"/><!-- This is a softkey label -->
+<phrase i="3260" t="bekİpt"/><!-- This is a softkey label -->
+<phrase i="3261" t="beklet"/><!-- This is a softkey label -->
+<phrase i="3262" t="KtrlszAkt"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="hatAkt"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="araAkt"/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*kodu"/><!-- This is a softkey label -->
+<phrase i="3267" t="seç"/><!-- This is a softkey label -->
+<phrase i="3268" t="kaydet"/><!-- This is a softkey label -->
+<phrase i="3270" t="sürdür"/><!-- This is a softkey label -->
+<phrase i="3272" t="önceki"/><!-- This is a softkey label -->
+<phrase i="3273" t="oynat"/><!-- This is a softkey label -->
+<phrase i="3274" t="ypştr"/><!-- This is a softkey label -->
+<phrase i="3275" t="sçnk"/><!-- This is a softkey label -->
+<phrase i="3276" t="tamam"/><!-- This is a softkey label -->
+<phrase i="3277" t="no"/><!-- This is a softkey label -->
+<phrase i="3278" t="sonraki"/><!-- This is a softkey label -->
+<phrase i="3279" t="cvpsz"/><!-- This is a softkey label -->
+<phrase i="3281" t="SnTkrAra"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="katıl"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="çıkış"/><!-- This is a softkey label -->
+<phrase i="3285" t="dznle"/><!-- This is a softkey label -->
+<phrase i="3286" t="RahEtm"/><!-- This is a softkey label -->
+<phrase i="3288" t="çevir"/><!-- This is a softkey label -->
+<phrase i="3289" t="sil"/><!-- This is a softkey label -->
+<phrase i="3290" t="kpyla"/><!-- This is a softkey label -->
+<phrase i="3291" t="konAkt"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="konf"/><!-- This is a softkey label -->
+<phrase i="3293" t="sil"/><!-- This is a softkey label -->
+<phrase i="3294" t="ArYön"/><!-- This is a softkey label -->
+<phrase i="3295" t="-RahEt"/><!-- This is a softkey label -->
+<phrase i="3296" t="dğştr"/><!-- This is a softkey label -->
+<phrase i="3298" t="iptal"/><!-- This is a softkey label -->
+<phrase i="3299" t="köprü"/><!-- This is a softkey label -->
+<phrase i="3300" t="karSil"/><!-- This is a softkey label -->
+<phrase i="3301" t="alfa"/><!-- This is a softkey label -->
+<phrase i="3302" t="ekle"/><!-- This is a softkey label -->
+<phrase i="3303" t="Kur x"/>
+<phrase i="3304" t="Kur"/>
+<phrase i="3305" t="Paylaşıldı"/>
+<phrase i="3306" t="Sürdürülmeye Çalışılıyor"/>
+<phrase i="3307" t="Bekletilmeye Çalışılıyor"/>
+<phrase i="3308" t="Bekletiliyor"/>
+<phrase i="3309" t="Bağlandı"/>
+<phrase i="3310" t="Cevaplanıyor"/>
+<phrase i="3311" t="Arama Sonlandırıldı"/>
+<phrase i="3312" t="Zil çalıyor"/>
+<phrase i="3313" t="Parti Zili İptal Edildi"/>
+<phrase i="3314" t="Aranıyor"/>
+<phrase i="3315" t="STUN Sunucusuyla İletişim Kuruluyor"/>
+<phrase i="3316" t="Çevriliyor"/>
+<phrase i="3317" t="İstasyon Seçiliyor"/>
+<phrase i="3318" t="Arama Seçiliyor"/>
+<phrase i="3319" t="Arama Bilgileri Toplanıyor"/>
+<phrase i="3320" t="Hat Yakalama Deneniyor"/>
+<phrase i="3321" t="Hazır"/>
+<phrase i="3322" t="Evet"/>
+<phrase i="3323" t="Kayıtlı Değil"/>
+<phrase i="3324" t="Kayıtlı"/>
+<phrase i="3325" t="Gelen"/>
+<phrase i="3326" t="Giden"/>
+<phrase i="3327" t="Geri ara"/>
+<phrase i="3328" t="Yönlendirildi"/>
+<phrase i="3329" t="Aktarıldı"/>
+<phrase i="3330" t="Geçersiz"/>
+<phrase i="3331" t="Boşta"/>
+<phrase i="3332" t="CWT"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Zil - Geri arama"/>
+<phrase i="3334" t="Zil - Beklet"/>
+<phrase i="3335" t="Zil"/>
+<phrase i="3336" t="Güvenli Arama Göstergesi"/>
+<phrase i="3337" t="Konferans"/>
+<phrase i="3338" t="Beklet"/>
+<phrase i="3339" t="Hata"/>
+<phrase i="3340" t="Onayla"/>
+<phrase i="3341" t="İste"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Kullanımda Uyarısı"/>
+<phrase i="3347" t="TkrDen Çaldır"/>
+<phrase i="3348" t="Yeniden Sırala"/>
+<phrase i="3349" t="Meşgul"/>
+<phrase i="3350" t="MWI"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Dışarıdan Çevir"/>
+<phrase i="3352" t="2. Çevir"/>
+<phrase i="3353" t="Çevir"/><!-- This is a softkey label -->
+<phrase i="3354" t="yok"/>
+<phrase i="3355" t="Xfr"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Yönl"/>
+<phrase i="3357" t="Cb"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Şuna:"/>
+<phrase i="3359" t="Kimden"/>
+<phrase i="3360" t="Yeni Giriş"/>
+<phrase i="3361" t="(TAM)"/>
+<phrase i="3362" t="Birleşik Dizin"/>
+<phrase i="3363" t="Seçim Numarasını Girin:"/>
+<phrase i="3365" t="Hızlı Çevir"/>
+<phrase i="3366" t="&lt;Atanmadı&gt;"/>
+<phrase i="3367" t="Hızlı Çevir 2 Girin"/>
+<phrase i="3368" t="Hızlı Çevir 3 Girin"/>
+<phrase i="3369" t="Hızlı Çevir 4 Girin"/>
+<phrase i="3370" t="Hızlı Çevir 5 Girin"/>
+<phrase i="3371" t="Hızlı Çevir 6 Girin"/>
+<phrase i="3372" t="Hızlı Çevir 7 Girin"/>
+<phrase i="3373" t="Hızlı Çevir 8 Girin"/>
+<phrase i="3374" t="Hızlı Çevir 9 Girin"/>
+<phrase i="3375" t="Hızlı Çevir Girin"/>
+<phrase i="3376" t="Arama Geçmişi"/>
+<phrase i="3377" t="Cevaplanan Aramalar"/>
+<phrase i="3378" t="Zil Sesi Tonu"/>
+<phrase i="3379" t="E1 Zil:"/>
+<phrase i="3380" t="E2 Zil"/>
+<phrase i="3381" t="E3 Zil"/>
+<phrase i="3382" t="E4 Zil"/>
+<phrase i="3383" t="Birleşik Dizin"/>
+<phrase i="3384" t="Tercihler"/>
+<phrase i="3385" t="e/h"/><!-- This is a softkey label -->
+<phrase i="3386" t="Arayan Kimliği Engelle&#xA;"/>
+<phrase i="3387" t="Adsız Arama Engelle&#xA;"/>
+<phrase i="3388" t="Rahatsız Etmeyin&#xA;"/>
+<phrase i="3389" t="Güvenli Arama&#xA;"/>
+<phrase i="3390" t="Arama Yardımı&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Tercih Edilen Ses Cihazı&#xA;"/>
+<phrase i="3394" t="Otomatik Yanıt Sayfası&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Hoparlöre Ses Gönder&#xA;"/>
+<phrase i="3396" t="Saat Biçimi&#xA;"/>
+<phrase i="3397" t="Tarih Biçimi&#xA;"/>
+<phrase i="3398" t="gün/ay"/>
+<phrase i="3399" t="ay/gün"/>
+<phrase i="3400" t="Dil"/>
+<phrase i="3401" t="Arama Bekletme Durumu"/>
+<phrase i="3402" t="Durum"/>
+<phrase i="3403" t="Telefon Durumu"/>
+<phrase i="3405" t="Harici 2 Durumu"/>
+<phrase i="3406" t="H1 Durumu"/>
+<phrase i="3407" t="H2 Durumu"/>
+<phrase i="3408" t="H3 Durumu"/>
+<phrase i="3409" t="H4 Durumu"/>
+<phrase i="3410" t="Ara1:"/>
+<phrase i="3412" t="Tarih: "/>
+<phrase i="3413" t="Çalışma Süresi: "/>
+<phrase i="3415" t="Son Kayıt %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Sonraki Kayıt %us&#xA;"/>
+<phrase i="3418" t="Arama 1: "/>
+<phrase i="3420" t="Ton: "/>
+<phrase i="3421" t="Yok"/>
+<phrase i="3422" t="Yüklenmedi"/>
+<phrase i="3423" t="Stndrt"/><!-- This is a softkey label -->
+<phrase i="3425" t="İstasyon"/>
+<phrase i="3426" t="Sayfa Grubu"/>
+<phrase i="3427" t="Otomatik Katılımcı"/>
+<phrase i="3428" t="Dahili Müzik"/>
+<phrase i="3429" t="Lütfen bekleyin"/>
+<phrase i="3430" t="Oturum Açılmaya Çalışılıyor"/>
+<phrase i="3432" t="ACD Sunucusu ile iletişim kuruluyor Uygun için"/>
+<phrase i="3433" t="ACD Sunucusu ile iletişim kuruluyor Uygun değil için"/>
+<phrase i="3434" t="Oturum Açma Başarısız.&#xA;"/>
+<phrase i="3435" t="Lütfen kullanıcı Kimliğinizi ve Şifrenizi kontrol edin."/>
+<phrase i="3437" t="Uygun Bildirimi Başarısız&#xA;"/>
+<phrase i="3438" t="Uygun Değil Bildirimi Başarısız&#xA;"/>
+<phrase i="3439" t="Kullanıcı ID:"/>
+<phrase i="3440" t="Şifre:"/>
+<phrase i="3441" t="ACD Oturumu Aç"/>
+<phrase i="3445" t="Bellenim Yükseltiliyor Lütfen gücü kesmeyin Telefon otomatik olarak\ntekrar yüklenecektir"/>
+<phrase i="3446" t="&#xA;&#xA;PU: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Sistem Başlatılıyor"/>
+<phrase i="3451" t="Sunucudan birleştirilmiş dizin isteniyor..."/>
+<phrase i="3452" t="Birleştirilmiş dizin istenemedi"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="Bilinmeyen Girdi"/>
+<phrase i="3468" t="Bilinmeyen Kullanıcı"/>
+<phrase i="3469" t="Kim: %s"/>
+<phrase i="3470" t="ağ geçidi"/>
+<phrase i="3472" t="%s Aramasını Paylaş"/>
+<phrase i="3473" t="Kim: %s&#xA;"/>
+<phrase i="3476" t="alıcı"/>
+<phrase i="3477" t="durum"/>
+<phrase i="3478" t="sonlandırıldı"/>
+<phrase i="3479" t="deneniyor"/>
+<phrase i="3480" t="erken"/>
+<phrase i="3481" t="devam ediliyor"/>
+<phrase i="3482" t="onaylandı"/>
+<phrase i="3503" t="Kullanıcı %d"/>
+<phrase i="3504" t="Zil Yok"/>
+<phrase i="3509" t="Kullanıcı %d (Yüklenmedi)"/>
+<phrase i="3510" t="12s"/>
+<phrase i="3511" t="24s"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Statik IP"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="pwd"/><!-- password -->
+<phrase i="3517" t="cfg"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Dil (Uygun Değil)"/>
+<phrase i="3519" t="Uygun Değil"/>
+<phrase i="3520" t="onayla"/>
+<phrase i="3521" t="kontrast"/>
+<phrase i="3522" t="hzl_çevr"/>
+<phrase i="3523" t="%d gün"/>
+<phrase i="3524" t="1 gün"/>
+<phrase i="3525" t="Devre dışı bırakıldı&#xA;"/>
+<phrase i="3526" t="%d Türünü Ara: %s&#xA;"/>
+<phrase i="3527" t="Eş Adı: %s&#xA;"/>
+<phrase i="3528" t="Eş Tel: %s&#xA;"/>
+<phrase i="3529" t="Sür: %02d:%02d:%02d"/>
+<phrase i="3530" t="%d Ara: %s&#xA;"/>
+<phrase i="3531" t="Ton: %s&#xA;"/>
+<phrase i="3532" t="Şifrlm: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Şifr Çözm: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Hizmet Yok&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Telefon Durumu"/>
+<phrase i="3536" t="Harici %d Durumu"/>
+<phrase i="3537" t="L%d Durumu"/>
+<phrase i="3538" t="GününSaati"/>
+<phrase i="3539" t="Ses seviyesi değişikliklerini kaydet&#xA;"/>
+<phrase i="3540" t="Kontrast değişikliklerini kaydet&#xA;"/>
+<phrase i="3541" t="TkrAra"/><!-- This is a softkey label -->
+<phrase i="3542" t="giriş"/><!-- This is a softkey label -->
+<phrase i="3543" t="çıkış"/><!-- This is a softkey label -->
+<phrase i="3544" t="ses sev"/>
+<phrase i="3545" t="kur"/>
+<phrase i="3546" t="Cevapsız Arama"/>
+<phrase i="3548" t="Başarısız&#xA;"/>
+<phrase i="3549" t="bekİpt?"/>
+<phrase i="3550" t="İngilizce"/>
+<phrase i="3551" t="İspanyolca"/>
+<phrase i="3552" t="Portekizce"/>
+<phrase i="3553" t="İtalyanca"/>
+<phrase i="3554" t="Almanca"/>
+<phrase i="3555" t="Danimarkaca"/>
+<phrase i="3556" t="Fince"/>
+<phrase i="3557" t="Felemenkçe"/>
+<phrase i="3558" t="Norveççe"/>
+<phrase i="3559" t="Fransızca"/>
+<phrase i="3560" t="Arka Işık Zamanlayıcı"/>
+<phrase i="3561" t="Her Zaman Açık"/>
+<phrase i="3562" t="Kapalı"/>
+<phrase i="3563" t="Cvpsz Arama Kısayolu"/>
+<phrase i="3564" t="Arama Bekliyor"/>
+<phrase i="3565" t="VLAN'ı Etkinleştir"/>
+<phrase i="3566" t="VLAN Kimliği"/>
+<phrase i="3567" t="Ofis"/>
+<phrase i="3568" t="Klasik-1"/>
+<phrase i="3569" t="Klasik-2"/>
+<phrase i="3570" t="Klasik-3"/>
+<phrase i="3571" t="Klasik-4"/>
+<phrase i="3572" t="Basit-1"/>
+<phrase i="3573" t="Basit-2"/>
+<phrase i="3574" t="Basit-3"/>
+<phrase i="3575" t="Basit-4"/>
+<phrase i="3576" t="Basit-5"/>
+<phrase i="3577" t="Yüklendi"/>
+<phrase i="3578" t="KarSil"/>
+<phrase i="3579" t="Yönl"/><!-- This is a softkey label -->
+<phrase i="3580" t="RahEtmSil"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Rahatsız Etmeyin "/>
+<phrase i="3582" t="YönSil"/><!-- This is a softkey label -->
+<phrase i="3583" t="KonAkt"/><!-- This is a softkey label -->
+<phrase i="3584" t="AraTut"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Önceki"/><!-- This is a softkey label -->
+<phrase i="3586" t="Aktar"/><!-- This is a softkey label -->
+<phrase i="3587" t="AktHat"/><!-- This is a softkey label -->
+<phrase i="3588" t="KörAkt"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="GrSeç"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Önizle"/><!-- This is a softkey label -->
+<phrase i="3591" t="GKA Özelliği"/>
+<phrase i="3592" t="GKA Özelliği"/>
+<phrase i="3593" t="Tercih Edilen Arka Plan Resmi"/>
+<phrase i="3594" t="İndirildi"/>
+<phrase i="3596" t="Tercih Edilen Menü Rengi Düzeni"/>
+<phrase i="3597" t="Açık Mavi"/>
+<phrase i="3598" t="Açık Yeşil"/>
+<phrase i="3599" t="Pembe"/>
+<phrase i="3600" t="Gümüş"/>
+<phrase i="3601" t="Aramalar Yönlendirildi "/>
+<phrase i="3602" t="Hat Tuşu 5"/>
+<phrase i="3603" t="Hat Tuşu 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Harici 5"/>
+<phrase i="3606" t="Harici 6"/>
+<phrase i="3607" t="Hoparlör"/>
+<phrase i="3608" t="Kulaklık"/>
+<phrase i="3609" t="öö"/>
+<phrase i="3610" t="ös"/>
+<phrase i="3614" t="Hat %d: %s(%s)"/>
+<phrase i="3616" t="Özel Sıfırlama"/>
+<phrase i="3617" t="Özelleştirilmiş profildeki güncellemeler denetlensin mi? (arka planda çalışır)"/>
+<phrase i="3618" t="Web Hizmeti"/>
+<phrase i="3619" t="Web Hizmeti"/>
+<phrase i="3620" t="Yerel Haberler"/>
+<phrase i="3621" t="Dünya Haberleri"/>
+<phrase i="3623" t="Spor Haberleri"/>
+<phrase i="3624" t="Siyaset Haberleri"/>
+<phrase i="3625" t="Teknoloji Haberleri"/>
+<phrase i="3626" t="Eğlence Haberleri"/>
+<phrase i="3627" t="Trafik"/>
+<phrase i="3628" t="Hisse Senedi Sembolü"/>
+<phrase i="3629" t="Hisse Senedi Sembolü:"/>
+<phrase i="3630" t="RSS Akışı 1"/>
+<phrase i="3631" t="RSS Akışı 2"/>
+<phrase i="3632" t="RSS Akışı 3"/>
+<phrase i="3633" t="RSS Akışı 4"/>
+<phrase i="3634" t="RSS Akışı 5"/>
+<phrase i="3635" t="Sembol:"/>
+<phrase i="3636" t="Son:"/>
+<phrase i="3637" t="Dğştr:"/>
+<phrase i="3638" t="İhale:"/>
+<phrase i="3639" t="Sor:"/>
+<phrase i="3640" t="Sıralanıyor"/>
+<phrase i="3641" t="Arama İstatistikleri Geçmişi"/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="Profil:%s&#xA;"/>
+<phrase i="3644" t="Durum:%s&#xA;"/>
+<phrase i="3645" t="Neden:%s&#xA;"/>
+<phrase i="3647" t="Devre dışı bırakıldı"/>
+<phrase i="3649" t="Kuralda ayrıştırma hatası"/>
+<phrase i="3650" t="Sürüyor"/>
+<phrase i="3651" t="Başarılı"/>
+<phrase i="3652" t="DNS çözünürlüğü"/>
+<phrase i="3653" t="Sunucu adı yok"/>
+<phrase i="3654" t="Geçersiz veya kısıtlanmış sunucu"/>
+<phrase i="3655" t="Kaynaklar bitti"/>
+<phrase i="3656" t="Bozuk dosya"/>
+<phrase i="3657" t="Şifreleme anahtarı"/>
+<phrase i="3658" t="Geçersiz URL"/>
+<phrase i="3659" t="Dosya bulunamadı"/>
+<phrase i="3660" t="İndirilemedi"/>
+<phrase i="3661" t="&lt;Öğe yok&lt;"/>
+<phrase i="3662" t="Tür:%s"/>
+<phrase i="3663" t="Eş Adı:%s"/>
+<phrase i="3664" t="Eş Telefonu:%s"/>
+<phrase i="3665" t="Sür:"/>
+<phrase i="3666" t="Arama Zamanı:"/>
+<phrase i="3667" t="Şifrlm:%s"/>
+<phrase i="3668" t="Şifr Çözm:%s"/>
+<phrase i="3669" t="Arama Kimliği:%s"/>
+<phrase i="3674" t="Haber akışı verileri güncelleniyor..."/>
+<phrase i="3675" t="Haber akışı verisi yok..."/>
+<phrase i="3676" t="Haber akışı verileri alınamadı..."/>
+<phrase i="3677" t="Haberler"/>
+<phrase i="3680" t="Tx: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Rx: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Arama Türü: %s&#xA;"/>
+<phrase i="3687" t="Boş"/>
+<phrase i="3690" t="Sıralama Durumu"/>
+<phrase i="3693" t="Arama İstatistikleri"/>
+<phrase i="3703" t="HARİCİ:%d"/>
+<phrase i="3704" t="Hisse senedi verileri güncelleniyor..."/>
+<phrase i="3705" t="Hisse senedi verisi yok..."/>
+<phrase i="3706" t="Hisse senedi verileri alınamadı..."/>
+<phrase i="3713" t="Yahoo Hisse Senedi"/>
+<phrase i="3715" t="Trafik akışı verileri güncelleniyor..."/>
+<phrase i="3716" t="Trafik akışı verisi yok..."/>
+<phrase i="3717" t="Trafik akışı verileri alınamadı..."/>
+<phrase i="3718" t="Ayrıntılı trafik verisi yok..."/>
+<phrase i="3719" t="Trafik akışı verileri görüntülenemedi..."/>
+<phrase i="3721" t="Hisse Senedi"/>
+<phrase i="3730" t="Yahoo! Oturum Aç"/>
+<phrase i="3731" t="Yahoo! Oturumu Kapatılsın Mı?"/>
+<phrase i="3732" t="Başarılı"/>
+<phrase i="3733" t="Başarısız. Lütfen Kullanıcı Kimliğini ve Şifreyi kontrol edin"/>
+<phrase i="3734" t="Oturum açılıyor. Lütfen bekleyin."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="Aramalar Yönlendirildi&#xA;"/>
+<phrase i="3737" t="Oturum Kapatıldı&#xA;"/>
+<phrase i="3738" t="Oturum Açılıyor&#xA;"/>
+<phrase i="3739" t="Kayıtlı Değil&#xA;"/>
+<phrase i="3741" t="&#xA;Kim: %s %s: "/>
+<phrase i="3743" t="&#xA;PU: "/>
+<phrase i="3744" t="%sOturum Kapatıldı"/>
+<phrase i="3745" t="güncl"/><!-- This is a softkey label -->
+<phrase i="3746" t="Detay"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_DİLİ"/>
+<phrase i="3757" t="BMP Resmi"/>
+<phrase i="3758" t="Ekle"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alfa"/><!-- This is a softkey label -->
+<phrase i="3760" t="KarSil"/><!-- This is a softkey label -->
+<phrase i="3761" t="Köprü"/><!-- This is a softkey label -->
+<phrase i="3762" t="İptal"/><!-- This is a softkey label -->
+<phrase i="3764" t="Sil"/><!-- This is a softkey label -->
+<phrase i="3765" t="Konf"/><!-- This is a softkey label -->
+<phrase i="3766" t="Kpyla"/><!-- This is a softkey label -->
+<phrase i="3767" t="Sil"/><!-- This is a softkey label -->
+<phrase i="3771" t="Dznle"/><!-- This is a softkey label -->
+<phrase i="3772" t="Çıkış"/><!-- This is a softkey label -->
+<phrase i="3774" t="Katıl"/><!-- This is a softkey label -->
+<phrase i="3775" t="Cvpsz"/><!-- This is a softkey label -->
+<phrase i="3776" t="Snrk"/><!-- This is a softkey label -->
+<phrase i="3777" t="Num"/><!-- This is a softkey label -->
+<phrase i="3778" t="Tamam"/><!-- This is a softkey label -->
+<phrase i="3779" t="Sçnk"/><!-- This is a softkey label -->
+<phrase i="3780" t="Ypştr"/><!-- This is a softkey label -->
+<phrase i="3781" t="Oynat"/><!-- This is a softkey label -->
+<phrase i="3783" t="Sürdür"/><!-- This is a softkey label -->
+<phrase i="3784" t="Kaydet"/><!-- This is a softkey label -->
+<phrase i="3785" t="Seç"/><!-- This is a softkey label -->
+<phrase i="3786" t="*Kodu"/><!-- This is a softkey label -->
+<phrase i="3787" t="E/H"/><!-- This is a softkey label -->
+<phrase i="3793" t="Uygun"/><!-- This is a softkey label -->
+<phrase i="3794" t="Uygdğl"/><!-- This is a softkey label -->
+<phrase i="3795" t="Çıkış"/><!-- This is a softkey label -->
+<phrase i="3796" t="TkrDen"/><!-- This is a softkey label -->
+<phrase i="3797" t="Diğer"/><!-- This is a softkey label -->
+<phrase i="3798" t="Güncl"/><!-- This is a softkey label -->
+<phrase i="3799" t="önizle"/><!-- This is a softkey label -->
+<phrase i="3800" t="detay"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Çıkış"/>
+<phrase i="3807" t="Birl.Dizin"/>
+<phrase i="3808" t="İndirme resmi yok"/>
+<phrase i="3809" t="Adsız Aramaları Engelle"/>
+<phrase i="3810" t="Ayrıntılı haber yok..."/>
+<phrase i="3811" t="Ayrıntılı haber yok&#xA;"/>
+<phrase i="3812" t="Haber akışı verileri görüntülenemedi..."/>
+<phrase i="3813" t="Aktarılıyor"/>
+<phrase i="3814" t="Aktarım Başarısız"/>
+<phrase i="3815" t="Sür: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Arama İstatistikleri:"/>
+<phrase i="3817" t="Hisse senedi verileri görüntülenemedi..."/>
+<phrase i="3818" t="Ayrıntılı trafik verisi yok&#xA;"/>
+<phrase i="3822" t="E5 Zil"/>
+<phrase i="3824" t="Rahatsız Etmeyin"/>
+<phrase i="3825" t="Aramalar Yönlendirildi"/>
+<phrase i="3826" t="&lt;Öğe Yok&gt;"/>
+<phrase i="3827" t="Özelleştirme"/>
+<phrase i="3828" t="Aç"/>
+<phrase i="3829" t="Beklemede"/>
+<phrase i="3830" t="Özelleştirildi"/>
+<phrase i="3831" t="Varsayılan&quot;İndirildi"/>
+<phrase i="3832" t="İsimsiz Arayan"/>
+<phrase i="3833" t="%sAramalar Yönlendirildi"/>
+<phrase i="3834" t="%sOturum Kapatılıyor"/>
+<phrase i="3835" t="%sOturum Açılıyor"/>
+<phrase i="3836" t="%sKayıtlı Değil"/>
+<phrase i="3837" t="%sKaydediliyor"/>
+<phrase i="3838" t="%sRahatsız Etmeyin"/>
+<phrase i="3839" t="E1 Zil"/>
+<phrase i="3840" t="E2 Zil"/>
+<phrase i="3841" t="E3 Zil"/>
+<phrase i="3842" t="E4 Zil"/>
+<phrase i="3843" t="E5 Zil"/>
+<phrase i="3844" t="E6 Zil"/>
+<phrase i="3845" t="Oturum açma başarısız. Lütfen Kullanıcı Kimliğinizi ve Şifrenizi kontrol edin."/>
+<phrase i="3846" t="Oturum Açılmaya Çalışılıyor."/>
+<phrase i="3847" t="Yetkilendiriliyor..."/>
+<phrase i="3848" t="CMS Oturumunu Aç"/>
+<phrase i="3849" t="CMS Oturumu Kapatılsın Mı?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c ç 2 A B C Ç "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g ğ h ı i 4 G Ğ H İ I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o ö 6 M N O Ö "/>
+<phrase i="3856" t=" p q r s ş 7 P Q R S Ş "/>
+<phrase i="3857" t=" t u ü v 8 T U Ü V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Lehçe"/>
+<phrase i="3864" t="Rusça"/>
+<phrase i="3865" t="Macarca"/>
+<phrase i="3866" t="Çekçe"/>
+<phrase i="3867" t="Türkçe"/>
+<phrase i="3868" t="İsveççe"/>
+<phrase i="3869" t="Slovence"/>
+<phrase i="3870" t="Bulgarca"/>
+<phrase i="3871" t="Slovakça"/>
+<phrase i="3872" t="Hırvatça"/>
+<phrase i="3950" t="Yanıt Yok"/>
+<phrase i="3951" t="Ulaşılamıyor"/>
+<phrase i="3952" t="Kimlik Doğrula"/>
+<phrase i="3953" t="Bilinmiyor"/>
+<phrase i="3954" t="Bekletilmeye Çalışılıyor"/>
+<phrase i="3955" t="Sürdürülmeye Çalışılıyor"/>
+<phrase i="3956" t="Dğştr"/><!-- This is a softkey label -->
+<phrase i="3957" t="Beklet"/><!-- This is a softkey label -->
+<phrase i="3958" t="Bekİpt"/><!-- This is a softkey label -->
+<phrase i="3959" t="Seçim"/><!-- This is a softkey label -->
+<phrase i="3960" t="Eşzmnla"/><!-- This is a softkey label -->
+<phrase i="3961" t="Etknlş"/><!-- This is a softkey label -->
+<phrase i="3962" t="Kabul"/><!-- This is a softkey label -->
+<phrase i="3963" t="Bağl"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Bağl"/><!-- This is a softkey label -->
+<phrase i="3965" t="gönder"/><!-- This is a softkey label -->
+<phrase i="3966" t="eşzmnla"/><!-- This is a softkey label -->
+<phrase i="3967" t="etknlş"/><!-- This is a softkey label -->
+<phrase i="3968" t="kabul"/><!-- This is a softkey label -->
+<phrase i="3969" t="bağl"/><!-- This is a softkey label -->
+<phrase i="3970" t="bağl"/><!-- This is a softkey label -->
+<phrase i="3971" t="aşağı"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="yukarı"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="stndrt"/><!-- This is a softkey label -->
+<phrase i="3974" t="no.dzn"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Bellenim Yükseltiliyor Lütfen gücü kesmeyin Telefon otomatik olarak\ntekrar yüklenecektir"/>
+<phrase i="3976" t="XML Uyg. yükleniyor..."/>
+<phrase i="3977" t="Yükseltme Başarısız"/>
+<phrase i="3978" t="Uygulama Sorunsuz Yüklendi"/>
+<phrase i="3979" t="Uygulama Yüklenemedi"/>
+<phrase i="3980" t="CME Hizmetleri"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Oturum kapatılmaya çalışılıyor. Lütfen bekleyin..."/>
+<phrase i="3982" t="Oturum Açılamadı. Tekrar Yükleniyor..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Zil Sesi Seç"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Varsayılan Zil: %s"/>
+<phrase i="3987" t="Hat Seç"/>
+<phrase i="3988" t="Hat Varsayılan Zili                        "/>
+<phrase i="3989" t="Varsayılan Zil Adı                     "/>
+<phrase i="3990" t="Ayarlar"/>
+<phrase i="3991" t="Ekran Koruyucu Modu"/>
+<phrase i="3992" t="Ekran Kor. Etkinleştir"/>
+<phrase i="3993" t="Ekran Kor. Bek. Süresi"/>
+<phrase i="3994" t="Ekran Koruyucu Simgesi"/>
+<phrase i="3995" t="İstasyonSaati&quot;Kilit&quot;Telefon&quot;GününSaati&quot;Arka Plan Resmi"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;\n\n\nFabrika ayarlarına sıfırlanıyor\nLütfen bekleyin"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;Sistem Tekrar Yükleniyor Lütfen bekleyin"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Sistem yeniden başlatılıyor Lütfen bekleyin"/>
+<phrase i="4001" t="Profil Kuralı"/>
+<phrase i="4002" t="Profil Kuralı:"/>
+<phrase i="4003" t="Eşzamanlama Profili: %s&#xA;"/>
+<phrase i="4004" t="Sonuç: %s&#xA;"/>
+<phrase i="4005" t="Neden: %s&#xA;"/>
+<phrase i="4006" t="Şuna eşzamanla: %s Başarılı olursa telefon yeniden başlatılabilir!"/>
+<phrase i="4007" t="Geçersiz profil kuralı!&#xA;"/>
+<phrase i="4008" t="%s Telefon boştayken şuna eşzamanlama isteniyor!"/>
+<phrase i="4009" t="Eşzamanlama isteği başarısız! Telefon bir eşzamanlama isteğini işliyor. Lütfen daha sonra tekrar deneyin."/>
+<phrase i="4010" t="Kaydediliyor&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Telefonunuzun kilidini açmak için herhangi bir tuşa basın"/>
+<phrase i="4013" t="Arama Kontrol Protokolü"/>
+<phrase i="4014" t="Standart Router"/>
+<phrase i="4015" t="TFTP Sunucusu"/>
+<phrase i="4016" t="Yönetici. VLAN Kimliği"/>
+<phrase i="4017" t="CDP'yi etkinleştir"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Arama Yöneticisi"/>
+<phrase i="4019" t="PPPoE Hizmeti Adı"/>
+<phrase i="4020" t="PPPOE Oturum Açma Adı"/>
+<phrase i="4021" t="PPPoE Oturum Açma Şifresi"/>
+<phrase i="4022" t="Web Sunucusu Etkinleştirildi"/>
+<phrase i="4023" t="Sunucuda Hata Ayıkla"/>
+<phrase i="4024" t="Kapalı&quot;10 sn&quot;20 sn&quot;30 sn&quot;Her Zaman Açık"/>
+<phrase i="4025" t="Yerel Ayarlar"/>
+<phrase i="4026" t="Bellenim Sürümü"/>
+<phrase i="4027" t="Rcv: %u, "/>
+<phrase i="4028" t="Xmt: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Geçen Süre: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Model: %s&#xA;"/>
+<phrase i="4032" t="Sürüm: %s&#xA;"/>
+<phrase i="4033" t="Hat:%s"/>
+<phrase i="4034" t="Yok"/>
+<phrase i="4038" t="VPN sunucusuna bağlanılıyor..."/>
+<phrase i="4039" t="VPN sunucusuyla bağlantı kesiliyor..."/>
+<phrase i="4040" t="VPN bağlantısı başarısız!&#xA;"/>
+<phrase i="4041" t="VPN bağlantısı yapıldı!"/>
+<phrase i="4042" t="VPN bağlantısı kesildi!"/>
+<phrase i="4043" t="Bilinmeyen CA. Kabul edilsin mi?&#xA;"/>
+<phrase i="4044" t="İşlem iptal edildi!"/>
+<phrase i="4045" t="Lütfen bekleyin..."/>
+<phrase i="4046" t="Başlangıçta VPN ile bağlantı kurulsun mu?"/>
+<phrase i="4047" t="VPN Sunucusu"/>
+<phrase i="4048" t="Kullanıcı ID"/>
+<phrase i="4049" t="Tünel Grubu"/>
+<phrase i="4050" t="VPN Bağlantısı Yapıldı mı?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Süre"/>
+<phrase i="4054" t="Gönderilen Bayt"/>
+<phrase i="4055" t="Alınan Bayt"/>
+<phrase i="4056" t="Son Hata Nedeni"/>
+<phrase i="4057" t="Lütfen önce sunucusunu yapılandırın"/>
+<phrase i="4058" t="Telefon VPN sunucusuna bağlandı"/>
+<phrase i="4059" t="Lütfen VPN sunucusuna bağlanmadan önce telefonu beklemeye alın"/>
+<phrase i="4060" t="Telefon VPN sunucusuna bağlanmadı"/>
+<phrase i="4061" t="Lütfen önce telefonu beklemeye alın"/>
+<phrase i="4062" t="CME ile bağlanılıyor"/>
+<phrase i="4063" t="CME ile kaydettiriliyor"/>
+<phrase i="4064" t="SPCP Kayıt Sembolü"/>
+<phrase i="4065" t="Zil sesi indirilemedi"/>
+<phrase i="4066" t="Bellenim Yükseltiliyor Lütfen gücü kesmeyin"/>
+<phrase i="4067" t="Yükseltme Başarılı ...tekrar yükleniyor"/>
+<phrase i="4068" t="LDAP Sorgusu"/>
+<phrase i="4069" t="LDAP Sorgusu Dizini"/>
+<phrase i="4070" t="Geçersiz giriş/yapılandırma, Lütfen girişinizi/yapılandırmanızı kontrol edin"/>
+<phrase i="4071" t="LDAP Hatası: sunucuya bağlanılamıyor"/>
+<phrase i="4072" t="LDAP Hatası: Geçersiz giriş değeri"/>
+<phrase i="4073" t="Eşleşme bulunamadı"/>
+<phrase i="4074" t="LDAP Sorgu Sonucu"/>
+<phrase i="4075" t="LDAP Sunucusundan Dizin isteniyor..."/>
+<phrase i="4076" t="LDAP Dizini isteme başarısız"/>
+<phrase i="4077" t="Çok fazla eşleşme bulundu, Lütfen aramanızı iyileştirin"/>
+<phrase i="4079" t="Arama Seçimi"/>
+<phrase i="4080" t="Arama Bekletme İptal"/>
+<phrase i="4081" t="Grup Arama Seçimi"/>
+<phrase i="4083" t="PC Port VLAN Etkt Aktif"/>
+<phrase i="4084" t="PC Portu VLAN Kimliği"/>
+<phrase i="4085" t="Alarm"/>
+<phrase i="4086" t="Sayfa"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="geri"/><!-- This is a softkey label -->
+<phrase i="4088" t="geçiş"/><!-- This is a softkey label -->
+<phrase i="4089" t="Geri"/><!-- This is a softkey label -->
+<phrase i="4090" t="No.Dzn"/><!-- This is a softkey label -->
+<phrase i="4091" t="Ad"/>
+<phrase i="4092" t="Arama"/>
+<phrase i="4093" t="Gönder"/><!-- This is a softkey label -->
+<phrase i="4094" t="Medya Geri Döngüsü"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Aşağı"/><!-- This is a softkey label -->
+<phrase i="4096" t="Yukarı"/><!-- This is a softkey label -->
+<phrase i="4097" t="Geçiş"/><!-- This is a softkey label -->
+<phrase i="4098" t="İsteniyor..."/>
+<phrase i="4099" t="Geçersiz Numara"/>
+<phrase i="4100" t="Hat Yok"/>
+<phrase i="4101" t="Zaman Aşımı"/>
+<phrase i="4102" t="Hizmet Kullanılamıyor"/>
+<phrase i="4103" t="Ağ Hatası"/>
+<phrase i="4104" t="Protokol Hatası"/>
+<phrase i="4105" t="Deneniyor"/>
+<phrase i="4106" t="Arama Yönlendiriliyor"/>
+<phrase i="4107" t="Kuyruğa Alındı"/>
+<phrase i="4108" t="Oturum İlerlemesi"/>
+<phrase i="4109" t="Kabul Edildi"/>
+<phrase i="4110" t="Çoklu Seçimler"/>
+<phrase i="4111" t="Kalıcı Olarak Taşındı"/>
+<phrase i="4112" t="Geçici Olarak Taşındı"/>
+<phrase i="4113" t="Proxy Kullan"/>
+<phrase i="4114" t="Alternatif Hizmet"/>
+<phrase i="4115" t="Hatalı İstek"/>
+<phrase i="4116" t="Yetkilendirilmedi"/>
+<phrase i="4117" t="Ödeme Gerekli"/>
+<phrase i="4118" t="Yasaklı"/>
+<phrase i="4119" t="Bulunamadı"/>
+<phrase i="4120" t="Yönteme İzin Verilmedi"/>
+<phrase i="4121" t="Kabul Edilemez"/>
+<phrase i="4122" t="Proxy Kimlik Doğrulaması Gerekli"/>
+<phrase i="4123" t="İstek Zaman Aşımı"/>
+<phrase i="4124" t="Gitti"/>
+<phrase i="4125" t="İstek Varlığı Çok Büyük"/>
+<phrase i="4126" t="İstek URI'si Çok Büyük"/>
+<phrase i="4127" t="Desteklenmeyen Medya Türü"/>
+<phrase i="4128" t="Desteklenmeyen URI Düzeni"/>
+<phrase i="4129" t="Bozuk Uzantı"/>
+<phrase i="4130" t="Uzantı Gerekli"/>
+<phrase i="4131" t="Aralık Çok Kısa"/>
+<phrase i="4132" t="Geçici olarak kullanılamıyor"/>
+<phrase i="4133" t="Arama Etabı/İşlemi Mevcut Değil"/>
+<phrase i="4134" t="Döngü Tespit Edildi"/>
+<phrase i="4135" t="Çok Fazla Sıçrama"/>
+<phrase i="4136" t="Adres Eksik"/>
+<phrase i="4137" t="Belirsiz"/>
+<phrase i="4138" t="Burası Meşgul"/>
+<phrase i="4139" t="İstek Sonlandırıldı"/>
+<phrase i="4140" t="Burada Kabul Edilemez"/>
+<phrase i="4141" t="Kötü Olay"/>
+<phrase i="4142" t="İstek Beklemede"/>
+<phrase i="4143" t="Okunamaz"/>
+<phrase i="4144" t="Dahili Sunucu Hatası"/>
+<phrase i="4145" t="Uygulanmadı"/>
+<phrase i="4146" t="Bozuk Ağ Geçidi"/>
+<phrase i="4147" t="Hizmet Kullanılamıyor"/>
+<phrase i="4148" t="Sunucu Zaman Aşımı"/>
+<phrase i="4149" t="SIP Sürümü desteklenmiyor"/>
+<phrase i="4150" t="Mesaj Çok Uzun"/>
+<phrase i="4151" t="Her Yerde Meşgul"/>
+<phrase i="4152" t="Reddet"/>
+<phrase i="4153" t="Herhangi bir yerde mevcut"/>
+<phrase i="4154" t="Aktarım Katmanı Hatası"/>
+<phrase i="4155" t="İstasyonSaati"/>
+<phrase i="4156" t="Kilit"/>
+<phrase i="4157" t="Telefon"/>
+<phrase i="4158" t="GününSaati"/>
+<phrase i="4159" t="Arka Plan Resmi"/>
+<phrase i="4160" t="Finans Haberleri"/>
+<phrase i="4161" t="İşlem Zaman Aşımına Uğradı"/>
+<phrase i="4162" t="Yönlendirme Bulunamadı"/>
+<phrase i="4163" t="Geçici Olarak Kullanılamıyor"/>
+<phrase i="4164" t="İstek İptal Edildi"/>
+<phrase i="4165" t="Sunucu Çok Meşgul"/>
+<phrase i="4166" t="Yetersiz Medya Bant Genişliği"/>
+<phrase i="4200" t="404 bulunamadı"/>
+<phrase i="4201" t="Kişisel Girdiye Ekle"/>
+<phrase i="4202" t="Gelişmiş Arama"/>
+<phrase i="4203" t="Cevapla"/>
+<phrase i="4204" t="cevapla"/>
+<phrase i="4205" t="Yayın dizini isteği başarısız"/>
+<phrase i="4206" t="BroadSoft Dizini"/>
+<phrase i="4207" t="Broadsoft: İstek kullanıcı tarafından iptal edildi"/>
+<phrase i="4208" t="Arama Kontrolü Ayarları"/>
+<phrase i="4209" t="CME Dizini"/>
+<phrase i="4210" t="Departman: "/>
+<phrase i="4211" t="Kullanılacak DHCP Seçeneği"/>
+<phrase i="4212" t="DHCP Eşzmnlama Sçnkleri"/>
+<phrase i="4213" t="E-posta: "/>
+<phrase i="4214" t="Girdi Detayı"/>
+<phrase i="4215" t="Hata: Boş veya geçersiz giriş."/>
+<phrase i="4216" t="Harici 10"/>
+<phrase i="4217" t="Harici 11"/>
+<phrase i="4218" t="Harici 12"/>
+<phrase i="4219" t="Harici 7"/>
+<phrase i="4220" t="Harici 8"/>
+<phrase i="4221" t="Harici 9"/>
+<phrase i="4222" t="Uzantı: "/>
+<phrase i="4223" t="İlk: "/>
+<phrase i="4224" t="flash"/>
+<phrase i="4225" t="G722'ü Zorla"/>
+<phrase i="4226" t="GrupKimliği: "/>
+<phrase i="4227" t="HTTP İsteği İptal Edildi"/>
+<phrase i="4228" t="HTTP İsteği başarısız"/>
+<phrase i="4229" t="Yoksay"/>
+<phrase i="4230" t="yoksay"/>
+<phrase i="4231" t="Temel Sistem Ses Keşfi"/>
+<phrase i="4232" t="Temel Sistem IP Adresi"/>
+<phrase i="4233" t="Son: "/>
+<phrase i="4234" t="LDAP Hatası: sunucuya bağlanılamıyor."/>
+<phrase i="4235" t="Hat Tuşu 10"/>
+<phrase i="4236" t="Hat Tuşu 11"/>
+<phrase i="4237" t="Hat Tuşu 12"/>
+<phrase i="4238" t="Hat Tuşu 7"/>
+<phrase i="4239" t="Hat Tuşu 8"/>
+<phrase i="4240" t="Hat Tuşu 9"/>
+<phrase i="4241" t="Mobil: "/>
+<phrase i="4242" t="Ad: "/>
+<phrase i="4243" t="Eşleşme bulunamadı&#xA;"/>
+<phrase i="4244" t="yok&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Numara: "/>
+<phrase i="4246" t="Telefon No:"/>
+<phrase i="4247" t="G722'ü Tercih Et"/>
+<phrase i="4248" t="PrvHld"/>
+<phrase i="4249" t="prvHld"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Sorgu BS Dizini"/>
+<phrase i="4257" t="Broadsoft Sunucusundan dizin isteniyor..."/>
+<phrase i="4258" t="Sinyal Verme Protokolü"/>
+<phrase i="4259" t="Basit Arama"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="SPA5X5 Modeli"/>
+<phrase i="4263" t="SPCP Otomatik Tespit"/>
+<phrase i="4264" t="toCdir"/>
+<phrase i="4265" t="Çok fazla girdi&#xA;"/>
+<phrase i="4266" t="Çok fazla kişişel girdi&#xA;"/>
+<phrase i="4267" t="Aktarım Protokolü"/>
+<phrase i="4268" t="Oturum kapatılmaya çalışılıyor. Lütfen bekleyin..."/>
+<phrase i="4269" t="Kullanıcı ID: "/>
+<phrase i="4270" t="XML biçimi hatası veya veya geçersiz uygulama"/>
+<phrase i="4271" t="XML Hizmetleri"/>
+<phrase i="4272" t="Kim"/>
+<phrase i="4273" t="Eş Adı"/>
+<phrase i="4274" t="Eş Tel."/>
+<phrase i="4275" t="Eş Telefonu"/>
+<phrase i="4276" t="İlk:"/>
+<phrase i="4277" t="kapat"/><!-- This is a softkey label -->
+<phrase i="4278" t="ara"/><!-- This is a softkey label -->
+<phrase i="4279" t="Derin Bas"/>
+<phrase i="4280" t="Yeni Kişisel Dizin Girdisi"/>
+<phrase i="4281" t="Kişisel Dizini Ara"/>
+<phrase i="12000" t="Uygulamayı Çalıştır"/>
+<phrase i="12001" t="Geçersiz IP adresi"/>
+<phrase i="12002" t="Hat Seç..."/>
+<phrase i="12003" t="Zil Sesi Seç..."/>
+<phrase i="12004" t="Yetkilendirme Gerekli!"/>
+<phrase i="12005" t="CM-ICMP-Ulaşılamıyor"/>
+<phrase i="12006" t="Sıfırlama(\202S:d:s):"/>
+<phrase i="12007" t="Kaydediliyor"/>
+<phrase i="12008" t="STUN Girişi"/>
+<phrase i="12009" t="Yönetici. VLAN Kimliği"/>
+<phrase i="12010" t="Alternatif TFTP"/>
+<phrase i="12011" t="Arama Yöneticisi 1"/>
+<phrase i="12012" t="Standart Router 1"/>
+<phrase i="12013" t="DHCP&quot;Statik IP"/>
+<phrase i="12014" t="TFTP Sunucusu 1"/>
+<phrase i="12015" t="Web Erişimi Etkinleştirildi"/>
+<phrase i="12016" t="Geçen Süre"/>
+<phrase i="12017" t="Rcv"/>
+<phrase i="12018" t="Sürüm"/>
+<phrase i="12019" t="Xmt"/>
+<phrase i="12020" t="Bağlanılıyor..."/>
+<phrase i="12021" t="Yükseltme Başarılı"/>
+<phrase i="12022" t="CevapsızArama"/>
+<phrase i="12023" t="Zil Dosyası Kullanılamıyor!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Kayıt Reddedildi: %s"/>
+<phrase i="12026" t="SPCP Kayıt Sembolü Reddedildi [%d] ...tekrar deneniyor"/>
+<phrase i="12027" t="Hata: UC500 bulunamıyor. Yöneticinizle iletişim kurun"/>
+<phrase i="12028" t="10 sn"/>
+<phrase i="12029" t="20 sn"/>
+<phrase i="12030" t="30 sn"/>
+<phrase i="12031" t="İndiriliyor %s"/>
+<phrase i="12032" t="(Eşleşme Yok)"/>
+<phrase i="12033" t="Yeni Bir Ad"/>
+<phrase i="12034" t="Son TFTP Sunucusu"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="BMP Testi"/>
+<phrase i="12037" t="Romence"/>
+<phrase i="12038" t="Derin Bas"/>
+<phrase i="12039" t="Anahtar Sözcük:"/>
+<phrase i="12040" t="Sonuçlar"/>
+<phrase i="12041" t="Sonuç"/>
+<phrase i="12043" t="Oturum Kapatılsın Mı?"/>
+<phrase i="12044" t="Bir numara seçin"/>
+<phrase i="12045" t="beklet"/>
+<phrase i="12046" t="Kısıtlanmış Numara"/>
+<phrase i="12047" t="aralık dışında!"/>
+<phrase i="12048" t="arama"/>
+<phrase i="12049" t="Web Sunucusu Yazdırılabilir"/>
+<phrase i="12050" t="İspanyolca-Meksika"/>
+<phrase i="12051" t="Bir arama sırasında sesli posta getirilemiyor"/>
+<phrase i="12052" t="Sunucu adresi yanlış"/>
+<phrase i="12053" t="Ağ bağlantısı başarısız"/>
+<phrase i="12054" t="Sesli posta biçim hatası"/>
+<phrase i="12055" t="İstek başarısız"/>
+<phrase i="12056" t="Lütfen Düzenleyin:"/>
+<phrase i="12057" t="KörAkt Hedefi:"/>
+<phrase i="12058" t="barge"/>
+<phrase i="12059" t="(Çalan arama yok)"/>
+<phrase i="12060" t="Cevapsız Arama Bayrağı"/>
+<phrase i="12061" t="Barge"/>
+<phrase i="12062" t="boşta"/>
+<phrase i="12063" t="kullanımda"/>
+<phrase i="12064" t="ilerliyor"/>
+<phrase i="12065" t="alarm veriyor"/>
+<phrase i="12066" t="özel tut"/>
+<phrase i="12067" t="aktif"/>
+<phrase i="12068" t="tut"/>
+<phrase i="12069" t="köprü-aktif"/>
+<phrase i="12070" t="köprü-tut"/>
+<phrase i="12071" t="zil çalıyor"/>
+<phrase i="12072" t="kullanımda"/>
+<phrase i="12073" t="diğer-zil"/>
+<phrase i="12074" t="diğer-beklet"/>
+<phrase i="12075" t="hizmet yok"/>
+<phrase i="12076" t="diğer-boşta"/>
+<phrase i="12077" t="saklandı"/>
+<phrase i="12078" t="Yapılandırılmadı"/>
+<phrase i="12079" t="URL Yükseltmeyi Doğrula Lütfen gücü kesmeyin"/>
+<phrase i="12080" t="Eşzamanlama sürüyor"/>
+<phrase i="12081" t="Eşzamanlama Başarılı"/>
+<phrase i="12082" t="Eşzamanlama Başarılı. \nTelefon tekrar yüklenecektir. Lütfen bekleyin"/>
+<phrase i="12083" t="Eşzamanlama Başarısız"/>
+<phrase i="12084" t="İngilizce-ABD"/>
+<phrase i="12085" t="Konferans Köprüsü"/>
+<phrase i="12086" t="İsimsiz"/>
+<phrase i="12087" t="sıfırla"/>
+<phrase i="12088" t="paylaşıldı"/>
+<phrase i="12089" t="bağlandı"/>
+<phrase i="12090" t="dizine ekle"/>
+<phrase i="12091" t="bekletiliyor"/>
+<phrase i="12092" t="geçersiz"/>
+<phrase i="12093" t="sürdürülüyor"/>
+<phrase i="12094" t="aranıyor"/>
+<phrase i="12095" t="cevaplanıyor"/>
+<phrase i="12096" t="Kişisel Hızlı Çevir"/>
+<phrase i="12097" t="XferLx Arama Listesi"/>
+<phrase i="12098" t="ConfLx Arama Listesi"/>
+<phrase i="12099" t="sürüm"/>
+<phrase i="12100" t="Kurumsal&quot;Grup&quot;Kişisel"/>
+<phrase i="12101" t="Dizin Adı"/>
+<phrase i="12102" t="Ana Bilgisayar Sunucusu"/>
+<phrase i="12103" t="Aracılığıyla"/>
+<phrase i="12104" t="Aracı Durumunu Ayarla"/>
+<phrase i="12105" t="Uygun"/>
+<phrase i="12106" t="Tekrar Yükleme Geçmişi"/>
+<phrase i="12107" t="Varsayılan&quot;HiDef&quot;Standardı"/>
+<phrase i="12108" t="Ağ Başlatma Gecikmesi"/>
+<phrase i="12109" t="Ayrı CWT"/>
+<phrase i="12110" t="LLDP-MED Etkinleştir"/>
+<phrase i="12111" t="Kayıt Reddedildi: %s"/>
+<phrase i="12112" t="Hata: Kayıt Başarısız. Yöneticinizle iletişim kurun..."/>
+<phrase i="12113" t="Ağ Hatası Tespit Edildi."/>
+<phrase i="12114" t="Kaydediliyor..."/>
+<phrase i="12115" t="Ağ hatası."/>
+<phrase i="12116" t="Şifre"/>
+<phrase i="12117" t="Eşzamanlama Başarılı. Telefon tekrar yüklenecektir. Lütfen bekleyin."/>
+<phrase i="12118" t="Ahize Sürümü"/>
+<phrase i="12119" t="Oto&quot;Orijinal&quot;v3"/>
+<phrase i="12120" t="DHCP Başarısız"/>
+<phrase i="12121" t="Yükselt"/>
+<phrase i="12122" t="Sıralanıyor"/>
+<phrase i="12123" t="Kullanıcı Tarafından Tetiklendi"/>
+<phrase i="12124" t="SIP Tarafından Tetiklendi"/>
+<phrase i="12125" t="Sistem Hatası"/>
+<phrase i="12126" t="Bağlantı Kopmuş"/>
+<phrase i="12127" t="Sistem 1"/>
+<phrase i="12128" t="Sistem 2"/>
+<phrase i="12129" t="Yineleyen IP"/>
+<phrase i="12130" t="Yedek IP"/>
+<phrase i="12131" t="Sistem 3"/>
+<phrase i="12132" t="Sistem 4"/>
+<phrase i="12133" t="Sistem 5"/>
+<phrase i="12134" t="Sistem 6"/>
+<phrase i="12135" t="Sistem 7"/>
+<phrase i="12136" t="SIP Tarafından Tetiklendi"/>
+<phrase i="12137" t="Sözlük İndirme"/>
+<phrase i="12138" t="VLAN Değiştirildi"/>
+<phrase i="12139" t="GGK"/>
+<phrase i="12140" t="Fabrika Ayarlarına Sıfırlama"/>
+<phrase i="12141" t="Yazılım İsteği"/>
+<phrase i="12142" t="IP Değiştirildi"/>
+<phrase i="12143" t="Hesap Kodunu Girin"/>
+<phrase i="12144" t="Dış Numarayı Girin"/>
+<phrase i="12145" t="Dahili Dizin"/>
+<phrase i="12146" t="Harici Dizin"/>
+<phrase i="12147" t="Gruplar Dizini"/>
+<phrase i="12148" t="İstasyonlar Dizini"/>
+<phrase i="12149" t="Harici Müzik"/>
+<phrase i="12150" t="Sayfa Grubu 1"/>
+<phrase i="12151" t="Sayfa Grubu 2"/>
+<phrase i="12152" t="Sayfa Grubu 3"/>
+<phrase i="12153" t="Sayfa Grubu 4"/>
+<phrase i="12154" t="Sayfa Grubu 5"/>
+<phrase i="12155" t="Harici Sayfa"/>
+<phrase i="12156" t="Arama Örneği"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Sistem Gece Zil Çalma Modu"/>
+<phrase i="12159" t="Arama Bekletiliyor"/>
+<phrase i="12160" t="Port Yansıtma"/>
+<phrase i="12161" t="Aralık dışında!"/>
+<phrase i="12162" t="XML Hizmeti"/>
+<phrase i="12163" t="ibranice"/>
+<phrase i="12164" t="Arama Beklemede"/>
+<phrase i="12165" t="Hat"/>
+<phrase i="12166" t="LTR veya RTL arasında geçiş yap, önceki giriş metni silinecek, devam edilsin mi?"/>
+<phrase i="12167" t="Yazı Tipi Boyutu"/>
+<phrase i="12168" t="Katlmc.Kons.Terchleri"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Tnm. Hızlı Arama - Satır %d"/><!--Def. means define-->
+<phrase i="12170" t="Tnm. Hızlı Arama - Tuş %d"/><!--Def. means define-->
+<phrase i="12171" t="çağrı bekletme"/>
+<phrase i="12172" t="Daha fazla basamak girdisi için bekleniyor...&#xA;Bittiğinde, devam etmek için OK (Tamam) öğesine basın."/>
+<phrase i="12173" t="Nabız"/>
+<phrase i="12174" t="Tüm.Sil"/>
+<phrase i="12175" t="List.Sil"/>
+<phrase i="12176" t="Tüm kayıtları silmek istiyor musunuz?"/>
+<phrase i="12177" t="Ekran Modu"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Harici"/>
+<phrase i="12179" t="Her ikisi de"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Wi-Fi Yapılandırması"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Wi-Fi aygıtı bulunamadı."/>
+<phrase i="12182" t="Kablosuz Profili"/>
+<phrase i="12183" t="Wi-Fi Korumalı Kurulum"/>
+<phrase i="12184" t="Kablosuz Durumu"/>
+<phrase i="12185" t="Temel Yapılandırma"/>
+<phrase i="12186" t="Güvenlik Modu"/>
+<phrase i="12187" t="Şifreleme Yapılandırması"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Bant"/>
+<phrase i="12190" t="WPA Şifreleme"/>
+<phrase i="12191" t="Paylaşılan Anahtar Biçimi"/>
+<phrase i="12192" t="WPA Anahtarı"/>
+<phrase i="12193" t="WEP Kimlik Doğ. Türü"/>
+<phrase i="12194" t="WEP Anahtar Uzunluğu"/>
+<phrase i="12195" t="WEP Anahtarı"/>
+<phrase i="12196" t="Profil"/>
+<phrase i="12197" t="PIN Yapılandırması"/>
+<phrase i="12198" t="Kablosuz iletişim PIN yapılandırması başladı!"/>
+<!--phrase i="12199" t="PIN kodu gerektiren aygıtlar için şu sayıyı girin: [%s], ardından bu modu seçin."/-->
+<phrase i="12200" t="Kablosuz Tarama..."/>
+<phrase i="12201" t="Bir Profil Seçin"/>
+<phrase i="12202" t="Basmalı Düğme Yapılandırması"/>
+<phrase i="12203" t="Kablosuz iletişim düğmeyle tetiklenen yapılandırmasını başlat"/>
+<phrase i="12204" t="Wi-Fi Korumalı Kurulum"/>
+<phrase i="12205" t="Kablosuz Durumu"/>
+<phrase i="12206" t="Ağ Adı (SSID)"/>
+<phrase i="12207" t="Sinyal Gücü"/>
+<phrase i="12208" t="tara"/>
+<phrase i="12209" t="Bu özelliği kullanmak için en son WBPN bellenim sürümüne yükseltmelisiniz."/>
+<phrase i="12210" t="Konuk Kullanıcı Adı"/>
+<phrase i="12211" t="gstIn"/>
+<phrase i="12212" t="gstOut"/>
+<phrase i="12213" t="(Konuk)"/> 
+<phrase i="12214" t="Tüm parametreler fabrika varsayılan değerlerine döndürülecektir. Devam et?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

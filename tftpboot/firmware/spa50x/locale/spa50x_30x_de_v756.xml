@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>German</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Domänenname"/>
+<phrase i="204" t="IP-Adresse"/>
+<phrase i="205" t="Subnetzmaske"/>
+<phrase i="212" t="DNS-Server 1"/>
+<phrase i="213" t="DNS-Server 2"/>
+<phrase i="225" t="Verzeichnisse-URL"/>
+<phrase i="226" t="Nachrichten-URL"/>
+<phrase i="227" t="Dienste-URL"/>
+<phrase i="354" t="Empfangene Anrufe"/>
+<phrase i="355" t="Gewählte Rufnummern"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="365" t="Netzwerkkonfiguration"/>
+<phrase i="374" t="Chirp 1"/>
+<phrase i="375" t="Chirp 2"/>
+<phrase i="378" t="Klingeltontyp"/>
+<phrase i="384" t="Statusmeldungen"/>
+<phrase i="393" t="Netzwerkstatistik"/>
+<phrase i="473" t="IP-Adresse freigegeben"/>
+<phrase i="500" t="DHCP-Adresse freigegeben"/>
+<phrase i="502" t="Konfiguration löschen"/>
+<phrase i="552" t="Authentifizierungs-URL"/>
+<phrase i="585" t="Sprache"/>
+<phrase i="586" t="Länderspezif Einst"/>
+<phrase i="635" t="DHCP-Server"/>
+<phrase i="655" t="Modell-Information"/>
+<phrase i="657" t="Modellnummer"/>
+<phrase i="670" t="Standardklingelton"/>
+<phrase i="676" t="Kurzwahl"/>
+<phrase i="716" t="Sicherheitskonfiguration"/>
+<phrase i="3000" t="Verpasste Anrufe"/>
+<phrase i="3001" t="Wahlwiederholungsliste"/>
+<phrase i="3002" t="Klingeltonlautstärke"/>
+<phrase i="3003" t="Lautsprecherlautstärke"/>
+<phrase i="3004" t="Headset-Lautstärke"/>
+<phrase i="3005" t="Handset-Lautstärke"/>
+<phrase i="3006" t="LCD-Kontrast"/>
+<phrase i="3007" t="Status"/>
+<phrase i="3008" t="Status"/>
+<phrase i="3009" t="Leitungstaste 4"/><!-- comment content -->
+<phrase i="3010" t="Leitungstaste 3"/>
+<phrase i="3011" t="Leitungstaste 2"/>
+<phrase i="3012" t="Leitungstaste 1"/>
+<phrase i="3013" t="Nebenstelle 4"/>
+<phrase i="3014" t="Nebenstelle 3"/>
+<phrase i="3015" t="Nebenstelle 2"/>
+<phrase i="3016" t="Nebenstelle 1"/>
+<phrase i="3018" t="NiStör"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Lokale Dienste"/>
+<phrase i="3020" t="NeuerAnruf"/>
+<phrase i="3021" t="Klingelton eingeh"/>
+<phrase i="3022" t="Intern-Taste"/>
+<phrase i="3023" t="Wahlwdh"/><!-- This is a softkey label -->
+<phrase i="3027" t="System wird neu gestartet&#xA;Bitte warten"/>
+<phrase i="3028" t="System wird neu gestartet&#xA;Bitte warten"/>
+<phrase i="3029" t="Zurücksetzen auf Werkseinstellungen&#xA;Bitte warten"/>
+<phrase i="3030" t="Systemneustart bestätigen?"/>
+<phrase i="3031" t="Systemneustart bestätigen?"/>
+<phrase i="3032" t="Zurücksetzen aller Parameter&#xA;auf Werkseinstellungen.&#xA;Fortfahren?"/>
+<phrase i="3033" t="Passwortfehler Erneut versuchen?"/>
+<phrase i="3034" t="Neues Passwort:"/>
+<phrase i="3035" t="Sprachmitteil.-Nr.:"/>
+<phrase i="3036" t="MGZ(S:M:S):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Zeit(S:M:S):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Datum(T/M/J):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Abmelden"/><!-- This is a softkey label -->
+<phrase i="3040" t="Anmelden"/><!-- This is a softkey label -->
+<phrase i="3041" t="Einrichtung von x"/>
+<phrase i="3042" t="Einrichtung"/>
+<phrase i="3043" t="Netzwerk"/>
+<phrase i="3044" t="Admin-Passwort eingeben:"/>
+<phrase i="3045" t="Nein"/>
+<phrase i="3046" t="Verzög. RUL-bei-Nichtant."/>
+<phrase i="3047" t="RUL-bei-Nichtant.-Nr."/>
+<phrase i="3048" t="RUL-bei-bestezt-Nr."/>
+<phrase i="3049" t="RUL-Alle-Anrufnr."/>
+<phrase i="3050" t="Multicast-Adresse"/>
+<phrase i="3051" t="Nicht-DHCP-NTP-Server 2"/>
+<phrase i="3052" t="Nicht-DHCP-NTP-Server 1"/>
+<phrase i="3053" t="Nicht-DHCP-DNS 2"/>
+<phrase i="3054" t="Nicht-DHCP-DNS 1"/>
+<phrase i="3055" t="Nicht-DHCP-Std.-route"/>
+<phrase i="3056" t="Nicht-DHCP-Subnetzma."/>
+<phrase i="3057" t="Nicht-DHCP-IP-Adresse"/>
+<phrase i="3058" t="Webserver aktivieren"/>
+<phrase i="3059" t="Aktuelles Gateway"/>
+<phrase i="3060" t="Aktuelle Netzmaske"/>
+<phrase i="3061" t="Domäne"/>
+<phrase i="3062" t="Hostname"/>
+<phrase i="3063" t="Aktuelle IP"/>
+<phrase i="3064" t="DHCP aktivieren"/>
+<phrase i="3065" t="Verbindungstyp 'WAN'"/>
+<phrase i="3066" t="Datumsformat"/>
+<phrase i="3067" t="Zeitformat"/>
+<phrase i="3068" t="Audio an Lautsprecher senden"/>
+<phrase i="3069" t="Seite 'Automatische Rufannahme'"/>
+<phrase i="3070" t="Bevorzugtes Audiogerät"/>
+<phrase i="3071" t="Wählhilfe"/>
+<phrase i="3072" t="Sicherer Anruf"/>
+<phrase i="3073" t="Bitte nicht stören"/>
+<phrase i="3074" t="Anonyme Anrufe block."/>
+<phrase i="3075" t="Anrufer-ID unterdrücken"/>
+<phrase i="3076" t="Client-Zertifikat"/>
+<phrase i="3077" t="MAC-Adresse"/>
+<phrase i="3078" t="Hardware-Version"/>
+<phrase i="3079" t="Software-Version"/>
+<phrase i="3080" t="Seriennummer"/>
+<phrase i="3081" t="Produktname"/>
+<phrase i="3082" t="Bevorzugtes Gerät"/>
+<phrase i="3083" t="Name der Station"/>
+<phrase i="3085" t="Anrufpark-Status"/>
+<phrase i="3087" t="Kennwort festlegen"/>
+<phrase i="3088" t="Werkswerte verwenden"/>
+<phrase i="3089" t="Neustart"/>
+<phrase i="3090" t="Hardware Neustart"/>
+<phrase i="3092" t="Produktinformationen"/>
+<phrase i="3094" t="Sprachmitteilung"/>
+<phrase i="3095" t="Datum/Zeit"/>
+<phrase i="3096" t="Rufumleitung"/>
+<phrase i="3097" t="Voreinstellungen"/>
+<phrase i="3099" t="Anrufsverlauf"/>
+<phrase i="3100" t="Kurzwahl"/>
+<phrase i="3101" t="Verzeichnis"/>
+<phrase i="3102" t="Folgende Kurzwahl eingeben: x"/>
+<phrase i="3104" t="Klingelton 10"/>
+<phrase i="3105" t="Klingelton 9"/>
+<phrase i="3106" t="Klingelton 8"/>
+<phrase i="3107" t="Klingelton 7"/>
+<phrase i="3108" t="Klingelton 6"/>
+<phrase i="3109" t="Klingelton 5"/>
+<phrase i="3110" t="Klingelton 4"/>
+<phrase i="3111" t="Klingelton 3"/>
+<phrase i="3112" t="Klingelton 2"/>
+<phrase i="3113" t="Klingelton 1"/>
+<phrase i="3114" t="Klingelton Nebenstelle"/>
+<phrase i="3115" t="Nebenstelle 1: "/>
+<phrase i="3116" t="Klingelton"/>
+<phrase i="3117" t="Löschen: "/>
+<phrase i="3118" t="Die Liste ist leer."/>
+<phrase i="3119" t="Falsches Passwort. Erneut versuchen?"/>
+<phrase i="3120" t="Passwort eingeben:"/>
+<phrase i="3121" t="Parken von Anrufen"/>
+<phrase i="3123" t="Abrufen von Anrufpark-&#xA;Status fehlgeschlagen"/>
+<phrase i="3124" t="Kein geparkter Anruf"/>
+<phrase i="3125" t="Anrufpark-&#xA;Status wird abgerufen..."/>
+<phrase i="3126" t="Ungültige Parking-Nummer&#xA;Bitte erneut versuchen"/>
+<phrase i="3127" t="Klingelton bei Station"/>
+<phrase i="3128" t="Anrufannahme"/>
+<phrase i="3129" t="Gehaltenen Anschluss&#xA;für Umleitung auswählen"/>
+<phrase i="3130" t="Gehaltenen Anschluss&#xA;für Konferenz auswählen"/>
+<phrase i="3131" t="*Code wählen"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="G729A erzwingen"/>
+<phrase i="3133" t="G729A bevorzugen"/>
+<phrase i="3134" t="G726r40 erzwingen"/>
+<phrase i="3135" t="G726r40 bevorzugen"/>
+<phrase i="3136" t="G726r32 erzwingen"/>
+<phrase i="3137" t="G726r32 bevorzugen"/>
+<phrase i="3138" t="G726r24 erzwingen"/>
+<phrase i="3139" t="G726r24 bevorzugen"/>
+<phrase i="3140" t="G726r16 erzwingen"/>
+<phrase i="3141" t="G726r16 bevorzugen"/>
+<phrase i="3142" t="G723 erzwingen"/>
+<phrase i="3143" t="G723 bevorzugen"/>
+<phrase i="3144" t="G711A erzwingen"/>
+<phrase i="3145" t="G711A bevorzugen"/>
+<phrase i="3146" t="G711U erzwingen"/>
+<phrase i="3147" t="G711U bevorzugen"/>
+<phrase i="3148" t="Paging"/>
+<phrase i="3149" t="'Nächsten sichern' abbrechen"/>
+<phrase i="3150" t="Nächsten sichern"/>
+<phrase i="3151" t="'Alle Anrufe sichern' abbrechen"/>
+<phrase i="3152" t="Alle Anrufe sichern"/>
+<phrase i="3153" t="'Bitte nicht stören' abbrechen"/>
+<phrase i="3155" t="Blockieren anonymer Anrufe aufheben"/>
+<phrase i="3157" t="Unterdrücken der Anrufer-ID für nächsten Anruf aufheben"/>
+<phrase i="3158" t="Anrufer-ID für nächsten Anruf unterdrücken"/>
+<phrase i="3159" t="Unterdrücken der Anrufer-ID abbrechen"/>
+<phrase i="3160" t="Anrufer-ID unterdrücken"/>
+<phrase i="3161" t="Rückruf abbrechen"/>
+<phrase i="3162" t="Rückruf"/>
+<phrase i="3163" t="'RUL bei Nichtantwort' abbrechen"/>
+<phrase i="3164" t="RUL bei Nichtantwort"/>
+<phrase i="3165" t="'RUL bei besetzt' abbrechen"/>
+<phrase i="3166" t="RUL bei besetzt"/>
+<phrase i="3167" t="'RUL Alle Anrufe' abbrechen"/>
+<phrase i="3168" t="RUL Alle Anrufe"/>
+<phrase i="3169" t="Letzter Anruf"/>
+<phrase i="3190" t="Headset   "/>
+<phrase i="3191" t="Handset   "/>
+<phrase i="3192" t="Lautsprecher   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Tastatur   "/>
+<phrase i="3201" t="Erfolgreich"/>
+<phrase i="3202" t="Fehlgeschlagen"/>
+<phrase i="3216" t="Klingelton:"/>
+<phrase i="3217" t="Nummer:"/>
+<phrase i="3218" t="Name:"/>
+<phrase i="3219" t="Löschen:"/>
+<phrase i="3220" t="Klingelton abhebende Person"/>
+<phrase i="3221" t="Verzeichnis"/>
+<phrase i="3222" t="Nummer eingeben:"/>
+<phrase i="3223" t="Paging-Ziel eingeben:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Gruppe für Anrufannahme eingeben:"/>
+<phrase i="3225" t="Ziel für Spezialdienst eingeben:"/>
+<phrase i="3226" t="Ziel für Referenzdienst eingeben:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Zu entparkende Nummer eingeben:"/>
+<phrase i="3228" t="Zu parkende Nummer eingeben:"/>
+<phrase i="3229" t="Ziel für Weitergabe ohne Rückfrage eingeben:"/>
+<phrase i="3230" t="RUL bei Nichtantwort-Nr  eingbn:"/>
+<phrase i="3231" t="RUL bei besetzt-Nr eingbn:"/>
+<phrase i="3232" t="RUL Alle Anrufe-Nr eingbn:"/>
+<phrase i="3234" t="Mehr Ziffern eingeben:"/>
+<phrase i="3237" t="Verpasste Anrufe"/>
+<phrase i="3238" t="An g Anrufe"/>
+<phrase i="3239" t="Angenommene Anrufe"/>
+<phrase i="3240" t="Wahlwiederholungsliste"/>
+<phrase i="3241" t="Netzwerkinitialisierung"/>
+<phrase i="3242" t="DNS wird überprüft"/>
+<phrase i="3243" t="Verz"/><!-- This is a softkey label -->
+<phrase i="3244" t="RUL"/><!-- This is a softkey label -->
+<phrase i="3245" t="Sprache"/>
+<phrase i="3246" t="Sprachauswahl"/>
+<phrase i="3248" t="Umgeleitete Anrufe"/>
+<phrase i="3249" t="Neuer verpasster Anruf"/>
+<phrase i="3250" t="Neue verpasste Anrufe"/>
+<phrase i="3251" t="mehr"/><!-- This is a softkey label -->
+<phrase i="3252" t="eVersu"/><!-- This is a softkey label -->
+<phrase i="3253" t="abbrec"/><!-- This is a softkey label -->
+<phrase i="3254" t="Nverf"/><!-- This is a softkey label -->
+<phrase i="3255" t="verfüg"/><!-- This is a softkey label -->
+<phrase i="3258" t="grpAn"/><!-- This is a softkey label -->
+<phrase i="3259" t="Ann"/><!-- This is a softkey label -->
+<phrase i="3260" t="entpa"/><!-- This is a softkey label -->
+<phrase i="3261" t="parkn"/><!-- This is a softkey label -->
+<phrase i="3262" t="bxfer"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="nWgabe"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="wgabe"/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*Code"/><!-- This is a softkey label -->
+<phrase i="3267" t="Ausw"/><!-- This is a softkey label -->
+<phrase i="3268" t="Speich"/><!-- This is a softkey label -->
+<phrase i="3270" t="wieder"/><!-- This is a softkey label -->
+<phrase i="3272" t="vorher"/><!-- This is a softkey label -->
+<phrase i="3273" t="Abspie"/><!-- This is a softkey label -->
+<phrase i="3274" t="Einfgn"/><!-- This is a softkey label -->
+<phrase i="3275" t="Option"/><!-- This is a softkey label -->
+<phrase i="3276" t="OK"/><!-- This is a softkey label -->
+<phrase i="3277" t="Num"/><!-- This is a softkey label -->
+<phrase i="3278" t="weiter"/><!-- This is a softkey label -->
+<phrase i="3279" t="verpas"/><!-- This is a softkey label -->
+<phrase i="3281" t="LNrRück"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="verbnd"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="beend"/><!-- This is a softkey label -->
+<phrase i="3285" t="Bearb"/><!-- This is a softkey label -->
+<phrase i="3286" t="NiStör"/><!-- This is a softkey label -->
+<phrase i="3288" t="wähln"/><!-- This is a softkey label -->
+<phrase i="3289" t="entf"/><!-- This is a softkey label -->
+<phrase i="3290" t="kopier"/><!-- This is a softkey label -->
+<phrase i="3291" t="nKonf"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="konf"/><!-- This is a softkey label -->
+<phrase i="3293" t="Löschn"/><!-- This is a softkey label -->
+<phrase i="3294" t="-RUL"/><!-- This is a softkey label -->
+<phrase i="3295" t="-NiStör"/><!-- This is a softkey label -->
+<phrase i="3296" t="Ändern"/><!-- This is a softkey label -->
+<phrase i="3298" t="Abbr"/><!-- This is a softkey label -->
+<phrase i="3299" t="Brücke"/><!-- This is a softkey label -->
+<phrase i="3300" t="ZeiLö"/><!-- This is a softkey label -->
+<phrase i="3301" t="Alpha"/><!-- This is a softkey label -->
+<phrase i="3302" t="Hzufgn"/><!-- This is a softkey label -->
+<phrase i="3303" t="Einrichtung von x"/>
+<phrase i="3304" t="Einrichtung"/>
+<phrase i="3305" t="Freigegeben"/>
+<phrase i="3306" t="Wiederaufnahme wird versucht"/>
+<phrase i="3307" t="Halten wird versucht"/>
+<phrase i="3308" t="Gehalten"/>
+<phrase i="3309" t="Verbunden"/>
+<phrase i="3310" t="Antwort"/>
+<phrase i="3311" t="Anruf beendet"/>
+<phrase i="3312" t="Klingelton"/>
+<phrase i="3313" t="Klingelton bei gewähltem Anschluss"/>
+<phrase i="3314" t="Anruf"/>
+<phrase i="3315" t="Verbindungsaufbau mit STUN-Server"/>
+<phrase i="3316" t="Wählen"/>
+<phrase i="3317" t="Station wird ausgewählt"/>
+<phrase i="3318" t="Anruf wird ausgewählt"/>
+<phrase i="3319" t="Anrufinfo wird ermittelt"/>
+<phrase i="3320" t="Leitungsaufbau wird versucht"/>
+<phrase i="3321" t="Bereit"/>
+<phrase i="3322" t="Ja"/>
+<phrase i="3323" t="Nicht registriert"/>
+<phrase i="3324" t="Registriert"/>
+<phrase i="3325" t="Eingehend"/>
+<phrase i="3326" t="Ausgehend"/>
+<phrase i="3327" t="Rückruf"/>
+<phrase i="3328" t="Umgeleitet"/>
+<phrase i="3329" t="Weitergeleitet"/>
+<phrase i="3330" t="Ungültig"/>
+<phrase i="3331" t="Frei"/>
+<phrase i="3332" t="Anklopfton"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Klingelton - Rückruf"/>
+<phrase i="3334" t="Klingelton - Halten"/>
+<phrase i="3335" t="Klingelton"/>
+<phrase i="3336" t="Anzeige für sicheren Anruf"/>
+<phrase i="3337" t="Konferenz"/>
+<phrase i="3338" t="Halten"/>
+<phrase i="3339" t="Fehler"/>
+<phrase i="3340" t="Bestätigen"/>
+<phrase i="3341" t="Aufforderung"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Warnung 'Hörer auflegen'"/>
+<phrase i="3347" t="Automatischer Rückruf"/>
+<phrase i="3348" t="Neu anordnen"/>
+<phrase i="3349" t="Besetzt"/>
+<phrase i="3350" t="Hinweis auf wartende Nachricht"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Externes Wählen"/>
+<phrase i="3352" t="Zweites Wählen"/>
+<phrase i="3353" t="Wählen"/><!-- This is a softkey label -->
+<phrase i="3354" t="Keine"/>
+<phrase i="3355" t="Weitl"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Uml"/>
+<phrase i="3357" t="Rückr"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="An"/>
+<phrase i="3359" t="Von"/>
+<phrase i="3360" t="Neuer Eintrag"/>
+<phrase i="3361" t="(VOLL)"/>
+<phrase i="3362" t="Firmentelefonbuch"/>
+<phrase i="3363" t="Nr für Anrufan eing:"/>
+<phrase i="3365" t="Kurzwahl"/>
+<phrase i="3366" t="&lt;Nicht Zugewiesen&gt;"/>
+<phrase i="3367" t="Kurzwahl 2 eingeben"/>
+<phrase i="3368" t="Kurzwahl 3 eingeben"/>
+<phrase i="3369" t="Kurzwahl 4 eingeben"/>
+<phrase i="3370" t="Kurzwahl 5 eingeben"/>
+<phrase i="3371" t="Kurzwahl 6 eingeben"/>
+<phrase i="3372" t="Kurzwahl 7 eingeben"/>
+<phrase i="3373" t="Kurzwahl 8 eingeben"/>
+<phrase i="3374" t="Kurzwahl 9 eingeben"/>
+<phrase i="3375" t="Kurzwahl eingeben"/>
+<phrase i="3376" t="Anrufsverlauf"/>
+<phrase i="3377" t="Angenommene Anrufe"/>
+<phrase i="3378" t="Klingelton"/>
+<phrase i="3379" t="Klingelton N1"/>
+<phrase i="3380" t="Klingelton N2"/>
+<phrase i="3381" t="Klingelton N3"/>
+<phrase i="3382" t="Klingelton N4"/>
+<phrase i="3383" t="Firmentelefonbuch"/>
+<phrase i="3384" t="Voreinstellungen"/>
+<phrase i="3385" t="J/N"/><!-- This is a softkey label -->
+<phrase i="3386" t="Anrufer-ID unterdrücken&#xA;"/>
+<phrase i="3387" t="Anonyme Anrufe blockieren&#xA;"/>
+<phrase i="3388" t="Bitte nicht stören&#xA;"/>
+<phrase i="3389" t="Sicherer Anruf&#xA;"/>
+<phrase i="3390" t="Wählhilfe&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Bevorzugtes Audiogerät&#xA;"/>
+<phrase i="3394" t="Seite 'Automatische Rufannahme'&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Audio an Lautsprecher senden&#xA;"/>
+<phrase i="3396" t="Zeitformat&#xA;"/>
+<phrase i="3397" t="Datumsformat&#xA;"/>
+<phrase i="3398" t="Tag/Monat"/>
+<phrase i="3399" t="Monat/Tag"/>
+<phrase i="3400" t="Sprache"/>
+<phrase i="3401" t="Anrufpark-Status"/>
+<phrase i="3402" t="Status"/>
+<phrase i="3403" t="Telefonstatus"/>
+<phrase i="3405" t="Nebenstelle 2 - Status"/>
+<phrase i="3406" t="Anschluss 1 - Status"/>
+<phrase i="3407" t="Anschluss 2 - Status"/>
+<phrase i="3408" t="Anschluss 3 - Status"/>
+<phrase i="3409" t="Anschluss 4 - Status"/>
+<phrase i="3410" t="Anruf1:"/>
+<phrase i="3412" t="Datum: "/>
+<phrase i="3413" t="Betriebszeit: "/>
+<phrase i="3415" t="Letzte Registrierung: %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Nächste Registrierung in %us&#xA;"/>
+<phrase i="3418" t="Anruf 1: "/>
+<phrase i="3420" t="Ton: "/>
+<phrase i="3421" t="Keine"/>
+<phrase i="3422" t="Nicht installiert"/>
+<phrase i="3423" t="Strd"/><!-- This is a softkey label -->
+<phrase i="3425" t="Station"/>
+<phrase i="3426" t="Paging-Gruppe"/>
+<phrase i="3427" t="Automatische Anrufvermittlung"/>
+<phrase i="3428" t="Interne Musik"/>
+<phrase i="3429" t="Bitte warten"/>
+<phrase i="3430" t="Anmeldung wird versucht"/>
+<phrase i="3432" t="Verbindung mit ACD-Server&#xA;für Verfügbarkeit"/>
+<phrase i="3433" t="Verbindung mit ACD-Server&#xA;für Nichtverfügbarkeit"/>
+<phrase i="3434" t="Anmeldung fehlgeschlagen.&#xA;"/>
+<phrase i="3435" t="Überprüfen Sie Ihre Benutzer-ID&#xA;und Ihr Passwort."/>
+<phrase i="3437" t="Verfügbarkeitsmitteilung fehlgeschlagen&#xA;"/>
+<phrase i="3438" t="Nichtverfügbarkeitsmeldung fehlgeschlagen&#xA;"/>
+<phrase i="3439" t="Benutzer-ID:"/>
+<phrase i="3440" t="Passwort:"/>
+<phrase i="3441" t="ACD-Anmeldung"/>
+<phrase i="3445" t="FW wird aktualisiert&#xA;Gerät nicht von Stromversorgung trennen.&#xA;Tel. wird automatisch neu&#xA;gestartet"/>
+<phrase i="3446" t="&#xA;&#xA;Annehmen: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="System wird neu gestartet"/>
+<phrase i="3451" t="Firmentelefonbuch&#xA;wird vom Server abgerufen..."/>
+<phrase i="3452" t="Abrufen des Firmentelefonbuchs&#xA;fehlgeschlagen"/>
+<phrase i="3453" t="FTelb"/>
+<phrase i="3461" t="Unbekannter Eintrag"/>
+<phrase i="3468" t="Unbekannter Benutzer"/>
+<phrase i="3469" t="Von: %s"/>
+<phrase i="3470" t="Gateway"/>
+<phrase i="3472" t="Gemeinsamer Anruf %s"/>
+<phrase i="3473" t="Von: %s&#xA;"/>
+<phrase i="3476" t="Empfänger"/>
+<phrase i="3477" t="Bundesland"/>
+<phrase i="3478" t="Beendet"/>
+<phrase i="3479" t="Wird versucht"/>
+<phrase i="3480" t="Früh"/>
+<phrase i="3481" t="Fährt fort"/>
+<phrase i="3482" t="Bestätigt"/>
+<phrase i="3503" t="Benutzer %d"/>
+<phrase i="3504" t="Kein Klingeln"/>
+<phrase i="3509" t="Benutzer %d (nicht installiert)"/>
+<phrase i="3510" t="12 Std"/>
+<phrase i="3511" t="24 Std"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Stat IP"/>
+<phrase i="3515" t="PPPoE"/>
+<phrase i="3516" t="pwt"/><!-- password -->
+<phrase i="3517" t="Konfiguration"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Sprache (nicht verfügbar)"/>
+<phrase i="3519" t="Nicht verfügbar"/>
+<phrase i="3520" t="bestätigen"/>
+<phrase i="3521" t="Kontrast"/>
+<phrase i="3522" t="krz_wahl"/>
+<phrase i="3523" t="%d Tage"/>
+<phrase i="3524" t="1 Tag"/>
+<phrase i="3525" t="Deaktiviert&#xA;"/>
+<phrase i="3526" t="Anruf %d Typ: %s&#xA;"/>
+<phrase i="3527" t="Partnername: %s&#xA;"/>
+<phrase i="3528" t="Partnertelefon: %s&#xA;"/>
+<phrase i="3529" t="Dauer: %02d:%02d:%02d"/>
+<phrase i="3530" t="Anruf %d: %s&#xA;"/>
+<phrase i="3531" t="Ton: %s&#xA;"/>
+<phrase i="3532" t="Cod.: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Dek: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Kein Dienst&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Telefonstatus"/>
+<phrase i="3536" t="Status %d Neb"/>
+<phrase i="3537" t="Status %d A"/>
+<phrase i="3538" t="ZeitDatum"/>
+<phrase i="3539" t="Lautstärkeänderung speichern&#xA;"/>
+<phrase i="3540" t="Kontraständerung speichern&#xA;"/>
+<phrase i="3541" t="Wdh"/><!-- This is a softkey label -->
+<phrase i="3542" t="Anmelden"/><!-- This is a softkey label -->
+<phrase i="3543" t="Abmelden"/><!-- This is a softkey label -->
+<phrase i="3544" t="Lautstärke"/>
+<phrase i="3545" t="Einrichtung"/>
+<phrase i="3546" t="Verpasster Anruf"/>
+<phrase i="3548" t="Fehlgeschlagen&#xA;"/>
+<phrase i="3549" t="Entparkn?"/>
+<phrase i="3550" t="Englisch"/>
+<phrase i="3551" t="Spanisch"/>
+<phrase i="3552" t="Portugiesisch"/>
+<phrase i="3553" t="Italienisch"/>
+<phrase i="3554" t="Deutsch"/>
+<phrase i="3555" t="Dänisch"/>
+<phrase i="3556" t="Finnisch"/>
+<phrase i="3557" t="Niederländisch"/>
+<phrase i="3558" t="Norwegisch"/>
+<phrase i="3559" t="Französisch"/>
+<phrase i="3560" t="Beleuchtungstimer"/>
+<phrase i="3561" t="Immer Ein"/>
+<phrase i="3562" t="Aus"/>
+<phrase i="3563" t="Schnelltst. für Verpas."/>
+<phrase i="3564" t="Anklopfen"/>
+<phrase i="3565" t="VLAN aktivieren"/>
+<phrase i="3566" t="VLAN-ID"/>
+<phrase i="3567" t="Büro"/>
+<phrase i="3568" t="Klassisch-1"/>
+<phrase i="3569" t="Klassisch-2"/>
+<phrase i="3570" t="Klassisch-3"/>
+<phrase i="3571" t="Klassisch-4"/>
+<phrase i="3572" t="Basis-1"/>
+<phrase i="3573" t="Basis-2"/>
+<phrase i="3574" t="Basis-3"/>
+<phrase i="3575" t="Basis-4"/>
+<phrase i="3576" t="Basis-5"/>
+<phrase i="3577" t="Installiert"/>
+<phrase i="3578" t="ZeiLö"/>
+<phrase i="3579" t="Umleiten"/><!-- This is a softkey label -->
+<phrase i="3580" t="NiStör"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Bitte nicht stören "/>
+<phrase i="3582" t="WtrlAufh"/><!-- This is a softkey label -->
+<phrase i="3583" t="n Konf"/><!-- This is a softkey label -->
+<phrase i="3584" t="Letzt Anr"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Vorher"/><!-- This is a softkey label -->
+<phrase i="3586" t="Übgabe"/><!-- This is a softkey label -->
+<phrase i="3587" t="Gesügb"/><!-- This is a softkey label -->
+<phrase i="3588" t="BlÜgbe"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="Grupanna"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Vschau"/><!-- This is a softkey label -->
+<phrase i="3591" t="GUI-Eigenschaft"/>
+<phrase i="3592" t="GUI Eigenschaft"/>
+<phrase i="3593" t="Bevorzugtes Hintergrundbild"/>
+<phrase i="3594" t="Heruntergeladen"/>
+<phrase i="3596" t="Bevorzugtes Menüfarbschema"/>
+<phrase i="3597" t="Hellblau"/>
+<phrase i="3598" t="Hellgrün"/>
+<phrase i="3599" t="Pink"/>
+<phrase i="3600" t="Silber"/>
+<phrase i="3601" t="Umgeleitete Anrufe "/>
+<phrase i="3602" t="Nebenstelle 5"/>
+<phrase i="3603" t="Nebenstelle 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Durchwahl 5"/>
+<phrase i="3606" t="Durchwahl 6"/>
+<phrase i="3607" t="Lautsprecher"/>
+<phrase i="3608" t="Headset"/>
+<phrase i="3609" t="vorm"/>
+<phrase i="3610" t="nachm"/>
+<phrase i="3614" t="Anschluss %d: %s(%s)"/>
+<phrase i="3616" t="Spezial-Rücksetzen"/>
+<phrase i="3617" t="Auf Updates für Anpassungsprofil prüfen?&#xA;(arbeitet im Hintergrund)"/>
+<phrase i="3618" t="Webservice"/>
+<phrase i="3619" t="Webservice"/>
+<phrase i="3620" t="Lokale Nachrichten"/>
+<phrase i="3621" t="Weltnachrichten"/>
+<phrase i="3623" t="Sportnachrichten"/>
+<phrase i="3624" t="Politiknachrichten"/>
+<phrase i="3625" t="Technologienachrichten"/>
+<phrase i="3626" t="Unterhaltungsnachrichten"/>
+<phrase i="3627" t="Verkehr"/>
+<phrase i="3628" t="Börsenkurs-Symbol"/>
+<phrase i="3629" t="Börsenkurs-Symbol:"/>
+<phrase i="3630" t="RSS-Feed 1"/>
+<phrase i="3631" t="RSS-Feed 2"/>
+<phrase i="3632" t="RSS-Feed 3"/>
+<phrase i="3633" t="RSS-Feed 4"/>
+<phrase i="3634" t="RSS-Feed 5"/>
+<phrase i="3635" t="Symbol"/>
+<phrase i="3636" t="Nachname:"/>
+<phrase i="3637" t="Ändern"/>
+<phrase i="3638" t="Geld:"/>
+<phrase i="3639" t="Brief:"/>
+<phrase i="3640" t="Provisionierung"/>
+<phrase i="3641" t="Anrufstatistik - Verlauf"/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="Profil:%s&#xA;"/>
+<phrase i="3644" t="Status:%s&#xA;"/>
+<phrase i="3645" t="Grund:%s&#xA;"/>
+<phrase i="3647" t="Deaktiviert"/>
+<phrase i="3649" t="Parsing-Fehler in Regel"/>
+<phrase i="3650" t="In Bearbeitung"/>
+<phrase i="3651" t="Erfolgreich"/>
+<phrase i="3652" t="DNS-Auflösung"/>
+<phrase i="3653" t="Kein Servername"/>
+<phrase i="3654" t="Ungültiger oder beschränkter Server"/>
+<phrase i="3655" t="Ressourcen verbraucht"/>
+<phrase i="3656" t="Fehlerhafte Datei"/>
+<phrase i="3657" t="Verschlüsselungsschlüssel"/>
+<phrase i="3658" t="Ungültige URL"/>
+<phrase i="3659" t="Datei nicht gefunden"/>
+<phrase i="3660" t="Herunterladen fehlgeschlagen"/>
+<phrase i="3661" t="&lt;kein Element&lt;"/>
+<phrase i="3662" t="Typ:%s"/>
+<phrase i="3663" t="Partnername:%s"/>
+<phrase i="3664" t="Partnertelefon:%s"/>
+<phrase i="3665" t="Dauer:"/>
+<phrase i="3666" t="Anrufzeit:"/>
+<phrase i="3667" t="Cod.:%s"/>
+<phrase i="3668" t="Dec.:%s"/>
+<phrase i="3669" t="Anruf-ID:%s"/>
+<phrase i="3674" t="Newsfeed-Daten werden aktualisiert..."/>
+<phrase i="3675" t="Keine Newsfeed-Daten verfügbar..."/>
+<phrase i="3676" t="Abrufen von Newsfeed-Daten fehlgeschlagen..."/>
+<phrase i="3677" t="Nachrichten"/>
+<phrase i="3680" t="Senden: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Empfangen: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="A%d: %s&#xA;"/>
+<phrase i="3685" t="Anruftyp: %s&#xA;"/>
+<phrase i="3687" t="Leer"/>
+<phrase i="3690" t="Provisionierungsstatus"/>
+<phrase i="3693" t="Anrufstatistik"/>
+<phrase i="3703" t="Nebenstelle:%d"/>
+<phrase i="3704" t="Börsenkurse werden aktualisiert..."/>
+<phrase i="3705" t="Keine Börsenkurse verfügbar..."/>
+<phrase i="3706" t="Abruf von Börsenkursen fehlgeschlagen..."/>
+<phrase i="3713" t="Yahoo-Börsenkurse"/>
+<phrase i="3715" t="Verkehrsmeldungen werden aktualisiert..."/>
+<phrase i="3716" t="Keine Verkehrsmeldungen verfügbar..."/>
+<phrase i="3717" t="Abruf von Verkehrsmeldungen fehlgeschlagen..."/>
+<phrase i="3718" t="Keine detaillierten Verkehrsmeldungen verfügbar..."/>
+<phrase i="3719" t="Anzeige von Verkehrsmeldungen fehlgeschlagen..."/>
+<phrase i="3721" t="Börsenkurse"/>
+<phrase i="3730" t="Yahoo! Anmelden"/>
+<phrase i="3731" t="Abmelden von Yahoo!?"/>
+<phrase i="3732" t="Erfolgreich"/>
+<phrase i="3733" t="Fehlgeschlagen. Bitte prüfen Sie&#xA;Benutzer-ID und Passwort."/>
+<phrase i="3734" t="Anmeldung. Bitte warten."/>
+<phrase i="3735" t="Annehmen: "/>
+<phrase i="3736" t="Umgeleitete Anrufe&#xA;"/>
+<phrase i="3737" t="Abgemeldet&#xA;"/>
+<phrase i="3738" t="Anmeldung&#xA;"/>
+<phrase i="3739" t="Nicht registriert&#xA;"/>
+<phrase i="3741" t="&#xA;Von: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;Annehmen: "/>
+<phrase i="3744" t="%sAbgemeldet"/>
+<phrase i="3745" t="Update"/><!-- This is a softkey label -->
+<phrase i="3746" t="Details"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_SPRACHE"/>
+<phrase i="3757" t="BMP-Bild"/>
+<phrase i="3758" t="Hzufgn"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alpha"/><!-- This is a softkey label -->
+<phrase i="3760" t="ZeiLö"/><!-- This is a softkey label -->
+<phrase i="3761" t="Brücke"/><!-- This is a softkey label -->
+<phrase i="3762" t="Abbr"/><!-- This is a softkey label -->
+<phrase i="3764" t="Lösch"/><!-- This is a softkey label -->
+<phrase i="3765" t="Konf"/><!-- This is a softkey label -->
+<phrase i="3766" t="Koprn"/><!-- This is a softkey label -->
+<phrase i="3767" t="Entf"/><!-- This is a softkey label -->
+<phrase i="3771" t="Bearb"/><!-- This is a softkey label -->
+<phrase i="3772" t="Beend"/><!-- This is a softkey label -->
+<phrase i="3774" t="Vrbnden"/><!-- This is a softkey label -->
+<phrase i="3775" t="Vpasst"/><!-- This is a softkey label -->
+<phrase i="3776" t="Nächst"/><!-- This is a softkey label -->
+<phrase i="3777" t="Num"/><!-- This is a softkey label -->
+<phrase i="3778" t="OK"/><!-- This is a softkey label -->
+<phrase i="3779" t="Option"/><!-- This is a softkey label -->
+<phrase i="3780" t="Einfg"/><!-- This is a softkey label -->
+<phrase i="3781" t="Absp"/><!-- This is a softkey label -->
+<phrase i="3783" t="Fortf"/><!-- This is a softkey label -->
+<phrase i="3784" t="Speich"/><!-- This is a softkey label -->
+<phrase i="3785" t="Auswäh"/><!-- This is a softkey label -->
+<phrase i="3786" t="*Code"/><!-- This is a softkey label -->
+<phrase i="3787" t="J/N"/><!-- This is a softkey label -->
+<phrase i="3793" t="Vfgb"/><!-- This is a softkey label -->
+<phrase i="3794" t="N Vfgb"/><!-- This is a softkey label -->
+<phrase i="3795" t="Abbr"/><!-- This is a softkey label -->
+<phrase i="3796" t="N Vrs"/><!-- This is a softkey label -->
+<phrase i="3797" t="Mehr"/><!-- This is a softkey label -->
+<phrase i="3798" t="Update"/><!-- This is a softkey label -->
+<phrase i="3799" t="Vorsch"/><!-- This is a softkey label -->
+<phrase i="3800" t="Detail"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Abmelden"/>
+<phrase i="3807" t="Firmenverzeichnis"/>
+<phrase i="3808" t="Kein Bild zum Herunterladen verfügbar"/>
+<phrase i="3809" t="Anonyme Anrufe block."/>
+<phrase i="3810" t="Keine detaillierten Nachrichten verfügbar..."/>
+<phrase i="3811" t="Keine detaillierten Nachrichten verfügbar&#xA;"/>
+<phrase i="3812" t="Anzeige von Newsfeed-Daten fehlgeschlagen..."/>
+<phrase i="3813" t="Weiterleitung"/>
+<phrase i="3814" t="Weiterleitung fehlgeschlagen"/>
+<phrase i="3815" t="Dauer: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Anrufstatistik:"/>
+<phrase i="3817" t="Anzeige von Börsenkursen fehlgeschlagen..."/>
+<phrase i="3818" t="Keine detaillierten Verkehrsdaten verfügbar&#xA;"/>
+<phrase i="3822" t="Klingelton N5"/>
+<phrase i="3824" t="Bitte nicht stören"/>
+<phrase i="3825" t="Umgeleitete Anrufe"/>
+<phrase i="3826" t="&lt;Kein Element&gt;"/>
+<phrase i="3827" t="Personalisierung:"/>
+<phrase i="3828" t="Öffen"/>
+<phrase i="3829" t="Ausstehend"/>
+<phrase i="3830" t="Personalisiert"/>
+<phrase i="3831" t="Standard&quot;heruntergeladen"/>
+<phrase i="3832" t="Unbekannter Anrufer"/>
+<phrase i="3833" t="%sUmgeleitete Anrufe"/>
+<phrase i="3834" t="%sAbmeldung"/>
+<phrase i="3835" t="%sAnmeldung"/>
+<phrase i="3836" t="%sNicht registriert"/>
+<phrase i="3837" t="%sRegistrierung"/>
+<phrase i="3838" t="%sBitte nicht stören"/>
+<phrase i="3839" t="Klingelton N1"/>
+<phrase i="3840" t="Klingelton N2"/>
+<phrase i="3841" t="Klingelton N3"/>
+<phrase i="3842" t="Klingelton N4"/>
+<phrase i="3843" t="Klingelton N5"/>
+<phrase i="3844" t="Klingelton N6"/>
+<phrase i="3845" t="Anmeldung fehlgeschlagen.&#xA;Bitte prüfen Sie Ihre Benutzer-ID&#xA; und Ihr Passwort."/>
+<phrase i="3846" t="Anmeldung wird versucht."/>
+<phrase i="3847" t="Autorisierung..."/>
+<phrase i="3848" t="CMS-Anmeldung"/>
+<phrase i="3849" t="Von CMS abmelden?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 ä A B C Ä à â ç À Â Ç "/>
+<phrase i="3852" t=" d e f 3 D E F ë é è ê Ë É È Ê "/>
+<phrase i="3853" t=" g h i 4 G H I î ï Î Ï "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 ö M N O Ö ô Ô "/>
+<phrase i="3856" t=" p q r s 7 ß P Q R S "/>
+<phrase i="3857" t=" t u v 8 ü T U V Ü ù û Ù Û "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Polnisch"/>
+<phrase i="3864" t="Russisch"/>
+<phrase i="3865" t="Ungarisch"/>
+<phrase i="3866" t="Tschechisch"/>
+<phrase i="3867" t="Türkisch"/>
+<phrase i="3868" t="Schwedisch"/>
+<phrase i="3869" t="Slowenisch"/>
+<phrase i="3870" t="Bulgarisch"/>
+<phrase i="3871" t="Slowakisch"/>
+<phrase i="3872" t="Kroatisch"/>
+<phrase i="3950" t="Keine Rückmeldung"/>
+<phrase i="3951" t="Nicht erreichbar"/>
+<phrase i="3952" t="Authentifizierung"/>
+<phrase i="3953" t="Unbekannt"/>
+<phrase i="3954" t="Halten wird versucht"/>
+<phrase i="3955" t="Wiederaufnahme wird versucht"/>
+<phrase i="3956" t="Ändern"/><!-- This is a softkey label -->
+<phrase i="3957" t="Parken"/><!-- This is a softkey label -->
+<phrase i="3958" t="Entparken"/><!-- This is a softkey label -->
+<phrase i="3959" t="Übrnhm"/><!-- This is a softkey label -->
+<phrase i="3960" t="Resync"/><!-- This is a softkey label -->
+<phrase i="3961" t="Aktivi"/><!-- This is a softkey label -->
+<phrase i="3962" t="Annehm"/><!-- This is a softkey label -->
+<phrase i="3963" t="Verbin"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Verbin"/><!-- This is a softkey label -->
+<phrase i="3965" t="senden"/><!-- This is a softkey label -->
+<phrase i="3966" t="Resync"/><!-- This is a softkey label -->
+<phrase i="3967" t="aktiv"/><!-- This is a softkey label -->
+<phrase i="3968" t="annehm"/><!-- This is a softkey label -->
+<phrase i="3969" t="verbin"/><!-- This is a softkey label -->
+<phrase i="3970" t="-verbin"/><!-- This is a softkey label -->
+<phrase i="3971" t="leiser"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="lauter"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="Strd"/><!-- This is a softkey label -->
+<phrase i="3974" t="Nrbear"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;FW wird aktualisiert.&#xA;Gerät nicht von Stromversorgung trennen.&#xA;Tel. wird automatisch neu&#xA;gestartet."/>
+<phrase i="3976" t="XML-Anwendung wird geladen..."/>
+<phrase i="3977" t="Upgrade fehlgeschlagen"/>
+<phrase i="3978" t="Anwendung wurde erfolgreich geladen"/>
+<phrase i="3979" t="Laden der Anwendung fehlgeschlagen"/>
+<phrase i="3980" t="CME-Dienste"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Abmeldung wird versucht.&#xA;Bitte warten..."/>
+<phrase i="3982" t="Abmelden fehlgeschlagen.&#xA;Neustart..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Klingelton auswählen"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Standardklingelton: %s"/>
+<phrase i="3987" t="Anschluss auswählen"/>
+<phrase i="3988" t="Standardklingelton des Anschlusses                        "/>
+<phrase i="3989" t="Name des Standardklingeltons                     "/>
+<phrase i="3990" t="Einstellungen"/>
+<phrase i="3991" t="Bildschirmschoner"/>
+<phrase i="3992" t="Bildschirmschoner aktiv"/>
+<phrase i="3993" t="Bildschirmsch-Wartezeit"/>
+<phrase i="3994" t="Bildschirmsch.-Symbol"/>
+<phrase i="3995" t="Stationszeit&quot;Sperren&quot;Telefon&quot;DatumZeit&quot;Hintergrundbild"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Rücksetzung auf Werkseinstellungen&#xA;Bitte warten"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;System wird gestartet&#xA;Bitte warten"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Systemneustart&#xA;Bitte warten"/>
+<phrase i="4001" t="Profilregel"/>
+<phrase i="4002" t="Profilregel:"/>
+<phrase i="4003" t="Resync-Profil: %s&#xA;"/>
+<phrase i="4004" t="Ergebnis: %s&#xA;"/>
+<phrase i="4005" t="Grund: %s&#xA;"/>
+<phrase i="4006" t="Resync auf&#xA;%s&#xA;Telefon könnte neu starten, falls erfolgreich!"/>
+<phrase i="4007" t="Ungültige Profilregel!&#xA;"/>
+<phrase i="4008" t="Anfrage von Resync auf&#xA;%s,&#xA;wenn Telefon nicht belegt ist!"/>
+<phrase i="4009" t="Resync-Anfrage fehlgeschlagen!&#xA;Telefon verarbeitet gerade eine Resync-Anfrage.&#xA;Bitte später noch einmal versuchen."/>
+<phrase i="4010" t="Registrierung&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Beliebige Taste drücken, um Telefon zu entsperren"/>
+<phrase i="4013" t="Anrufsteuerungsprotokoll"/>
+<phrase i="4014" t="Standardrouter"/>
+<phrase i="4015" t="TFTP-Server"/>
+<phrase i="4016" t="Admin VLAN-ID"/>
+<phrase i="4017" t="CDP aktivieren"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="CallManager"/>
+<phrase i="4019" t="PPPoE-Servicename"/>
+<phrase i="4020" t="PPPOE-Anmeldename"/>
+<phrase i="4021" t="Passwort für PPPoE-Anmeldung"/>
+<phrase i="4022" t="Webserver aktiv"/>
+<phrase i="4023" t="Debug-Server"/>
+<phrase i="4024" t="Aus&quot;10 s&quot;20 s&quot;30 s&quot;Immer Ein"/>
+<phrase i="4025" t="Lokale Einstellungen"/>
+<phrase i="4026" t="Firmware-Version"/>
+<phrase i="4027" t="Empf: %u, "/>
+<phrase i="4028" t="Send: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Vergangene Zeit: "/>
+<phrase i="4030" t="N%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Modell: %s&#xA;"/>
+<phrase i="4032" t="Version: %s&#xA;"/>
+<phrase i="4033" t="Anschluss:%s"/>
+<phrase i="4034" t="nicht verfügbar"/>
+<phrase i="4038" t="Verbindung zum VPN-Server wird hergestellt..."/>
+<phrase i="4039" t="Verbindung mit dem VPN-Server &#xA;VPN wird getrennt..."/>
+<phrase i="4040" t="VPN-Verbindung fehlgeschlagen!&#xA;"/>
+<phrase i="4041" t="VPN verbunden!"/>
+<phrase i="4042" t="VPN-Verbindung getrennt!"/>
+<phrase i="4043" t="Unbekannter Anrufer. Annehmen?&#xA;"/>
+<phrase i="4044" t="Aktion abgebrochen!"/>
+<phrase i="4045" t="Bitte warten..."/>
+<phrase i="4046" t="Nach Startvorgang mit VPN verbinden?"/>
+<phrase i="4047" t="VPN-Server"/>
+<phrase i="4048" t="Benutzer-ID"/>
+<phrase i="4049" t="Tunnelgruppe:"/>
+<phrase i="4050" t="VPN verbunden?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Dauer"/>
+<phrase i="4054" t="Byte gesendet"/>
+<phrase i="4055" t="Byte empfangen"/>
+<phrase i="4056" t="Grund für letzten Fehler"/>
+<phrase i="4057" t="Bitte zuerst VPN-Server konfigurieren"/>
+<phrase i="4058" t="Telefon ist mit VPN-Server verbunden"/>
+<phrase i="4059" t="Vor Aufbau von VPN-Verbindung mit Server bitte zuerst Telefon auflegen"/>
+<phrase i="4060" t="Telefon ist nicht mit VPN-Server verbunden"/>
+<phrase i="4061" t="Bitte legen Sie zuerst auf"/>
+<phrase i="4062" t="Verbindung mit CME"/>
+<phrase i="4063" t="Registrierung bei CME"/>
+<phrase i="4064" t="SPCP-Registrierungstoken"/>
+<phrase i="4065" t="Klingelton-Download fehlgeschlagen"/>
+<phrase i="4066" t="Firmware wird aktualisiert&#xA;Bitte nicht von Stromversorgung trennen"/>
+<phrase i="4067" t="Update erfolgreich&#xA;...Neustart"/>
+<phrase i="4068" t="Suche im LDAP"/>
+<phrase i="4069" t="Suche im LDAP-Verzeichnis"/>
+<phrase i="4070" t="Ungültige Eingabe/Konfiguration,&#xA; bitte prüfen Sie Ihre Eingabe/Konfiguration."/>
+<phrase i="4071" t="LDAP-Fehler: Verbindung zum Server kann nicht hergestellt werden"/>
+<phrase i="4072" t="LDAP-Fehler: ungültiger Eingabewert"/>
+<phrase i="4073" t="Keinen Treffer gefunden"/>
+<phrase i="4074" t="LDAP-Suchergebnis"/>
+<phrase i="4075" t="Verzeichnis wird vom LDAP-Server angefordert..."/>
+<phrase i="4076" t="Anforderung des LDAP-Verzeichnisses fehlgeschlagen"/>
+<phrase i="4077" t="Zu viele Treffer gefunden, &#xA; verfeinern Sie Ihre Suche."/>
+<phrase i="4079" t="Anrufannahme"/>
+<phrase i="4080" t="Anruf entparken"/>
+<phrase i="4081" t="Gruppenanrufannahme"/>
+<phrase i="4083" t="PC-Anschl. VLAN-Kennz."/>
+<phrase i="4084" t="PC-Anschl. VLAN-ID."/>
+<phrase i="4085" t="Achtung"/>
+<phrase i="4086" t="Melder"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="rück"/><!-- This is a softkey label -->
+<phrase i="4088" t="Umscha"/><!-- This is a softkey label -->
+<phrase i="4089" t="Rück"/><!-- This is a softkey label -->
+<phrase i="4090" t="NrBear"/><!-- This is a softkey label -->
+<phrase i="4091" t="Name"/>
+<phrase i="4092" t="Suche"/>
+<phrase i="4093" t="Sende"/><!-- This is a softkey label -->
+<phrase i="4094" t="Medien-Loopback"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Reduzrn"/><!-- This is a softkey label -->
+<phrase i="4096" t="Erhöhen"/><!-- This is a softkey label -->
+<phrase i="4097" t="Umscha"/><!-- This is a softkey label -->
+<phrase i="4098" t="Angefordert..."/>
+<phrase i="4099" t="Ungültige Nummer"/>
+<phrase i="4100" t="Kein Anschluss"/>
+<phrase i="4101" t="Timeout"/>
+<phrase i="4102" t="Dienst nicht verfügbar"/>
+<phrase i="4103" t="Netzwerkfehler"/>
+<phrase i="4104" t="Protokollfehler"/>
+<phrase i="4105" t="Wird versucht"/>
+<phrase i="4106" t="Anruf wird umgeleitet"/>
+<phrase i="4107" t="In Warteschlange"/>
+<phrase i="4108" t="Sitzungsfortschritt"/>
+<phrase i="4109" t="Angenommen"/>
+<phrase i="4110" t="Mehrere Optionen"/>
+<phrase i="4111" t="Dauerhaft verschoben"/>
+<phrase i="4112" t="Vorübergehend verschoben"/>
+<phrase i="4113" t="Proxy verwenden"/>
+<phrase i="4114" t="Alternativer Dienst"/>
+<phrase i="4115" t="Ungültige Anforderung"/>
+<phrase i="4116" t="Nicht berechtigt"/>
+<phrase i="4117" t="Zahlung erforderlich"/>
+<phrase i="4118" t="Verboten"/>
+<phrase i="4119" t="Nicht gefunden"/>
+<phrase i="4120" t="Methode nicht zulässig"/>
+<phrase i="4121" t="Nicht möglich"/>
+<phrase i="4122" t="Proxy-Authentifizierung erforderlich"/>
+<phrase i="4123" t="Timeout anfordern"/>
+<phrase i="4124" t="Fort"/>
+<phrase i="4125" t="Anforderungseinheit zu groß"/>
+<phrase i="4126" t="Anforderungs-URI zu groß"/>
+<phrase i="4127" t="Nicht unterstützter Medientyp"/>
+<phrase i="4128" t="Nicht unterstütztes URI-Schema"/>
+<phrase i="4129" t="Ungültige Nebenstelle"/>
+<phrase i="4130" t="Nebenstelle erforderlich"/>
+<phrase i="4131" t="Intervall zu kurz"/>
+<phrase i="4132" t="Vorübergehend nicht verfügbar"/>
+<phrase i="4133" t="Anrufstrecke/Transaktion ist nicht vorhanden"/>
+<phrase i="4134" t="Loop entdeckt"/>
+<phrase i="4135" t="Zu viele Hops"/>
+<phrase i="4136" t="Adresse unvollständig"/>
+<phrase i="4137" t="Zweideutig"/>
+<phrase i="4138" t="Hier besetzt"/>
+<phrase i="4139" t="Anforderung abgebrochen"/>
+<phrase i="4140" t="Hier nicht möglich"/>
+<phrase i="4141" t="Ungültiges Ereignis"/>
+<phrase i="4142" t="Anforderung ausstehend"/>
+<phrase i="4143" t="Nicht entzifferbar"/>
+<phrase i="4144" t="Interner Serverfehler"/>
+<phrase i="4145" t="Nicht implementiert"/>
+<phrase i="4146" t="Ungültiges Gateway"/>
+<phrase i="4147" t="Dienst nicht verfügbar"/>
+<phrase i="4148" t="Server-Timeout"/>
+<phrase i="4149" t="SIP-Version nicht unterstützt"/>
+<phrase i="4150" t="Nachricht zu groß"/>
+<phrase i="4151" t="Überall besetzt"/>
+<phrase i="4152" t="Ablehnen"/>
+<phrase i="4153" t="Ist nirgends vorhanden"/>
+<phrase i="4154" t="Transportschichtfehler"/>
+<phrase i="4155" t="Stationszeit"/>
+<phrase i="4156" t="Sperre"/>
+<phrase i="4157" t="Telefon"/>
+<phrase i="4158" t="DatumZeit"/>
+<phrase i="4159" t="Hintergrundbild"/>
+<phrase i="4160" t="Finanznachrichten"/>
+<phrase i="4161" t="Transaktions-Timeout"/>
+<phrase i="4162" t="Keine Route gefunden"/>
+<phrase i="4163" t="Vorübergehend nicht erreichbar"/>
+<phrase i="4164" t="Anfrage abgebrochen"/>
+<phrase i="4165" t="Server ausgelastet"/>
+<phrase i="4166" t="Unzureichende Medienbandbreite"/>
+<phrase i="4200" t="404 Nicht gefunden"/>
+<phrase i="4201" t="Zu Privatadresseneintrag hinzufügen"/>
+<phrase i="4202" t="Erweiterte Suche"/>
+<phrase i="4203" t="Antw"/>
+<phrase i="4204" t="antw"/>
+<phrase i="4205" t="BroadSoft-Verzeichnisabruf fehlgeschlagen"/>
+<phrase i="4206" t="BroadSoft-Verzeichnis"/>
+<phrase i="4207" t="BroadSoft: Anfrage vom Anwender abgebrochen"/>
+<phrase i="4208" t="Anrufsteuereinstellung"/>
+<phrase i="4209" t="CME-Verzeichnis"/>
+<phrase i="4210" t="Abteilung "/>
+<phrase i="4211" t="Zu nutzende DHCP-Opt."/>
+<phrase i="4212" t="DHCP-Resync-Option"/>
+<phrase i="4213" t="E-Mail: "/>
+<phrase i="4214" t="Eingabe-Detail"/>
+<phrase i="4215" t="Fehler: keine oder ungültige Eingabe."/>
+<phrase i="4216" t="Nebenstelle 10"/>
+<phrase i="4217" t="Nebenstelle 11"/>
+<phrase i="4218" t="Nebenstelle 12"/>
+<phrase i="4219" t="Nebenstelle 7"/>
+<phrase i="4220" t="Nebenstelle 8"/>
+<phrase i="4221" t="Nebenstelle 9"/>
+<phrase i="4222" t="Nebenstelle: "/>
+<phrase i="4223" t="Vorname: "/>
+<phrase i="4224" t="Flash"/>
+<phrase i="4225" t="G722 erzwingen"/>
+<phrase i="4226" t="GruppenID: "/>
+<phrase i="4227" t="HTTP-Anfrage abgebrochen"/>
+<phrase i="4228" t="HTTP-Anfrage fehlgeschlagen"/>
+<phrase i="4229" t="Ignor"/>
+<phrase i="4230" t="ignor"/>
+<phrase i="4231" t="Schl.Syst.-Autoerk"/>
+<phrase i="4232" t="Schl.Syst.-IP-Adresse"/>
+<phrase i="4233" t="Nachname: "/>
+<phrase i="4234" t="LDAP-Fehler: Serververbindung nicht möglich."/>
+<phrase i="4235" t="Leitungstaste 10"/>
+<phrase i="4236" t="Leitungstaste 11"/>
+<phrase i="4237" t="Leitungstaste 12"/>
+<phrase i="4238" t="Leitungstaste 7"/>
+<phrase i="4239" t="Leitungstaste 8"/>
+<phrase i="4240" t="Leitungstaste 9"/>
+<phrase i="4241" t="Mobil: "/>
+<phrase i="4242" t="Name: "/>
+<phrase i="4243" t="Keine Treffer gefunden&#xA;"/>
+<phrase i="4244" t="kein&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Nummer: "/>
+<phrase i="4246" t="Telefon-Nr."/>
+<phrase i="4247" t="G722 bevorzugen"/>
+<phrase i="4248" t="PrvHlt"/>
+<phrase i="4249" t="prvHlt"/>
+<phrase i="4250" t="PSK 1"/>
+<phrase i="4251" t="PSK 2"/>
+<phrase i="4252" t="PSK 3"/>
+<phrase i="4253" t="PSK 4"/>
+<phrase i="4254" t="PSK 5"/>
+<phrase i="4255" t="PSK 6"/>
+<phrase i="4256" t="BS-Verzeichnisabfrage"/>
+<phrase i="4257" t="Verzeichnis wird vom Broadsoft-Server abgerufen..."/>
+<phrase i="4258" t="Signalprotokoll"/>
+<phrase i="4259" t="Einfache Suche"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="SPA5X5-Modell"/>
+<phrase i="4263" t="SPCP-Autoerkennung"/>
+<phrase i="4264" t="zuVerz"/>
+<phrase i="4265" t="Zu viele Einträge&#xA;"/>
+<phrase i="4266" t="Zu viele Privateinträge&#xA;"/>
+<phrase i="4267" t="Transportprotokoll"/>
+<phrase i="4268" t="Abmeldung wird versucht.&#xA;Bitte warten..."/>
+<phrase i="4269" t="Benutzer-ID: "/>
+<phrase i="4270" t="XML-Formatfehler oder ungültige Anwendung"/>
+<phrase i="4271" t="XML-Dienste"/>
+<phrase i="4272" t="Von"/>
+<phrase i="4273" t="Partnername"/>
+<phrase i="4274" t="Partnertel"/>
+<phrase i="4275" t="Partnertelefon"/>
+<phrase i="4276" t="Vorname:"/>
+<phrase i="4277" t="Auflegen"/><!-- This is a softkey label -->
+<phrase i="4278" t="Neuer Anruf"/><!-- This is a softkey label -->
+<phrase i="4279" t="Tiefbass:"/>
+<phrase i="4280" t="Neuer pers. Verz.eintrag"/>
+<phrase i="4281" t="Persönliches Verzeichnis durchsuchen"/>
+<phrase i="12000" t="Anwendung ausführen"/>
+<phrase i="12001" t="Ungültige IP-Adresse"/>
+<phrase i="12002" t="Anschluss wählen..."/>
+<phrase i="12003" t="Rufton auswählen..."/>
+<phrase i="12004" t="Autorisierung erforderlich!"/>
+<phrase i="12005" t="CM-ICMP-Ziel nicht erreichbar"/>
+<phrase i="12006" t="MGZ(\202S:M:S):"/>
+<phrase i="12007" t="Registrierung"/>
+<phrase i="12008" t="STUN-Aufbau"/>
+<phrase i="12009" t="Admin VLAN-ID"/>
+<phrase i="12010" t="Alternativ-TFTP"/>
+<phrase i="12011" t="CallManager 1"/>
+<phrase i="12012" t="Standardrouter 1"/>
+<phrase i="12013" t="DHCP&quot; Statische IP"/>
+<phrase i="12014" t="TFTP-Server 1"/>
+<phrase i="12015" t="Webzugriff aktiviert"/>
+<phrase i="12016" t="Vergangene Zeit"/>
+<phrase i="12017" t="Empf"/>
+<phrase i="12018" t="Version"/>
+<phrase i="12019" t="Sende"/>
+<phrase i="12020" t="Verbinden..."/>
+<phrase i="12021" t="Aktualisierung erfolgreich"/>
+<phrase i="12022" t="VerpAnruf"/>
+<phrase i="12023" t="Klingeltondatei nicht vefügbar!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Registrierung abgewiesen: &#xA;%s"/>
+<phrase i="12026" t="SPCP-Registrierungstoken abgewiesen [%d]&#xA;...Neuversuch"/>
+<phrase i="12027" t="Fehler: UC500 nicht gefunden.&#xA;Wenden Sie sich an Ihren Administrator."/>
+<phrase i="12028" t="10 s"/>
+<phrase i="12029" t="20 s"/>
+<phrase i="12030" t="30 s"/>
+<phrase i="12031" t="Herunterladen&#xA;%s"/>
+<phrase i="12032" t="(Keine Treffer)"/>
+<phrase i="12033" t="Ein neuer Name"/>
+<phrase i="12034" t="Letzter TFTP-Server"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Test-BMP"/>
+<phrase i="12037" t="Rumänisch"/>
+<phrase i="12038" t="Tiefbass:"/>
+<phrase i="12039" t="Schlüsselwort:"/>
+<phrase i="12040" t="Ergebnisse"/>
+<phrase i="12041" t="Ergebnis"/>
+<phrase i="12043" t="Abmelden?"/>
+<phrase i="12044" t="Nummer auswählen"/>
+<phrase i="12045" t="Halten"/>
+<phrase i="12046" t="Gesperrte Nummer"/>
+<phrase i="12047" t="Limit überschritten!"/>
+<phrase i="12048" t="Suche"/>
+<phrase i="12049" t="Webserv beschreibbar"/>
+<phrase i="12050" t="Spanisch–Mexiko"/>
+<phrase i="12051" t="Sprachmitteilung kann nicht im Gespräch abgerufen werden."/>
+<phrase i="12052" t="Serveradresse falsch"/>
+<phrase i="12053" t="Netzwerkverbindung fehlgeschlagen"/>
+<phrase i="12054" t="Sprachmitteilungsformatfehler"/>
+<phrase i="12055" t="Anfrage fehlgeschlagen"/>
+<phrase i="12056" t="Bitte bearbeiten:"/>
+<phrase i="12057" t="Blindtransferziel:"/>
+<phrase i="12058" t="aufschlt."/>
+<phrase i="12059" t="(Nicht sign. Anrufe)"/>
+<phrase i="12060" t="Verpasste Anrufe"/>
+<phrase i="12061" t="Aufschlt."/>
+<phrase i="12062" t="Leerlauf"/>
+<phrase i="12063" t="angenommen"/>
+<phrase i="12064" t="fortlaufend"/>
+<phrase i="12065" t="alarmierend"/>
+<phrase i="12066" t="gehalten - privat"/>
+<phrase i="12067" t="aktiv"/>
+<phrase i="12068" t="gehalten"/>
+<phrase i="12069" t="Konferenz, aktiv"/>
+<phrase i="12070" t="Konferenz, gehalten"/>
+<phrase i="12071" t="klingeln"/>
+<phrase i="12072" t="in Verwendung"/>
+<phrase i="12073" t="Sonstiges, klingeln"/>
+<phrase i="12074" t="Sonstiges, halten"/>
+<phrase i="12075" t="kein Dienst"/>
+<phrase i="12076" t="Sonstiges, Leerlauf"/>
+<phrase i="12077" t="reserviert"/>
+<phrase i="12078" t="Nicht konfiguriert"/>
+<phrase i="12079" t="Aktualisierungs-URL prüfen&#xA;Stromversorgung nicht unterbrechen."/>
+<phrase i="12080" t="Neusynchronisierung läuft"/>
+<phrase i="12081" t="Neusynchronisierung erfolgreich"/>
+<phrase i="12082" t="Neusynchronisierung erfolgreich. &#xA;Telefon startet neu. Bitte warten."/>
+<phrase i="12083" t="Neusynchronisierung fehlgeschlagen"/>
+<phrase i="12084" t="Englisch, USA"/>
+<phrase i="12085" t="Konferenz"/>
+<phrase i="12086" t="Anonym"/>
+<phrase i="12087" t="rücksetzen"/>
+<phrase i="12088" t="freigegeben"/>
+<phrase i="12089" t="verbunden"/>
+<phrase i="12090" t="zum Telefonbuch zufügen"/>
+<phrase i="12091" t="gehalten"/>
+<phrase i="12092" t="ungültig"/>
+<phrase i="12093" t="fortsetzen"/>
+<phrase i="12094" t="anrufen"/>
+<phrase i="12095" t="annehmen"/>
+<phrase i="12096" t="Private Kurzwahl"/>
+<phrase i="12097" t="Umleitungsliste"/>
+<phrase i="12098" t="Konferenzanrufliste"/>
+<phrase i="12099" t="Version"/>
+<phrase i="12100" t="Unternehmen&quot;Gruppe&quot; Persönlich"/>
+<phrase i="12101" t="Verz-name"/>
+<phrase i="12102" t="Host-Server"/>
+<phrase i="12103" t="Via"/>
+<phrase i="12104" t="Agentstatus festlegen"/>
+<phrase i="12105" t="Verfügbar"/>
+<phrase i="12106" t="Neustartverlauf"/>
+<phrase i="12107" t="Standard&quot;HiDef&quot;Standard"/>
+<phrase i="12108" t="Netzwerkstartverzög."/>
+<phrase i="12109" t="Eigener Anklopfton"/>
+<phrase i="12110" t="LLDP-MED aktivieren"/>
+<phrase i="12111" t="Registrierung abgewiesen:&#xA;%s"/>
+<phrase i="12112" t="Fehler: Registrierung fehlgeschlagen. &#xA;Administrator kontaktieren..."/>
+<phrase i="12113" t="Netzwerkfehler erkannt."/>
+<phrase i="12114" t="Registrierung..."/>
+<phrase i="12115" t="Netzwerkfehler."/>
+<phrase i="12116" t="Passwort"/>
+<phrase i="12117" t="Neusynchronisierung erfolgreich. &#xA;Telefon startet neu. Bitte warten."/>
+<phrase i="12118" t="Hörerversion"/>
+<phrase i="12119" t="Auto&quot;Original&quot;v3"/>
+<phrase i="12120" t="DHCP fehlgeschlagen"/>
+<phrase i="12121" t="Aktualisierung"/>
+<phrase i="12122" t="Bereitstellung"/>
+<phrase i="12123" t="Nutzer-ausgelöst"/>
+<phrase i="12124" t="SIP-ausgelöst"/>
+<phrase i="12125" t="Systemfehler"/>
+<phrase i="12126" t="Link ausgefallen"/>
+<phrase i="12127" t="System 1"/>
+<phrase i="12128" t="System 2"/>
+<phrase i="12129" t="Doppelte IP"/>
+<phrase i="12130" t="Reserve-IP"/>
+<phrase i="12131" t="System 3"/>
+<phrase i="12132" t="System 4"/>
+<phrase i="12133" t="System 5"/>
+<phrase i="12134" t="System 6"/>
+<phrase i="12135" t="System 7"/>
+<phrase i="12136" t="SIP-ausgelöst"/>
+<phrase i="12137" t="Dict-Download"/>
+<phrase i="12138" t="VLAN geändert"/>
+<phrase i="12139" t="RC"/>
+<phrase i="12140" t="Werkseinstellungen"/>
+<phrase i="12141" t="Softwareanforderung"/>
+<phrase i="12142" t="IP geändert"/>
+<phrase i="12143" t="Kontencode eingeben"/>
+<phrase i="12144" t="Externnummer eingeben"/>
+<phrase i="12145" t="Internes Verzeichnis"/>
+<phrase i="12146" t="Externes Verzeichnis"/>
+<phrase i="12147" t="Gruppenverzeichnis"/>
+<phrase i="12148" t="Stationsverzeichnis"/>
+<phrase i="12149" t="Externe Musik"/>
+<phrase i="12150" t="Paging-Gruppe 1"/>
+<phrase i="12151" t="Paging-Gruppe 2"/>
+<phrase i="12152" t="Paging-Gruppe 3"/>
+<phrase i="12153" t="Paging-Gruppe 4"/>
+<phrase i="12154" t="Paging-Gruppe 5"/>
+<phrase i="12155" t="Extern-Paging"/>
+<phrase i="12156" t="Anrufbeispiel"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="System-Nachtsignalmodus"/>
+<phrase i="12159" t="Anruf wird geparkt"/>
+<phrase i="12160" t="Anschlussspiegelung"/>
+<phrase i="12161" t="Außer Reichweite!"/>
+<phrase i="12162" t="XML Service"/>
+<phrase i="12163" t="Hebräisch"/>
+<phrase i="12164" t="Anruf wird geparkt"/>
+<phrase i="12165" t="Leitung"/>
+<phrase i="12166" t="Zwischen LTR oder RTL wechseln,&#xA; der zuvor eingegebene Text&#xA; wird gelöscht, fortfahren?"/>
+<phrase i="12167" t="Schriftgröße"/>
+<phrase i="12168" t="Beistellmod. Einstell."/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Def. Kurzwahl - Leitung %d"/><!--Def. means define-->
+<phrase i="12170" t="Def. Kurzwahl - Schlüssel %d"/><!--Def. means define-->
+<phrase i="12171" t="Parken von Anrufen"/>
+<phrase i="12172" t="Warten auf weitere Ziffern...&#xA;Wenn fertig, OK drücken."/>
+<phrase i="12173" t="Puls"/>
+<phrase i="12174" t="Alles lösch"/>
+<phrase i="12175" t="Liste lösch"/>
+<phrase i="12176" t="Möchten Sie alle Einträge löschen?"/>
+<phrase i="12177" t="Anzeige-Modus"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Nebenstelle"/>
+<phrase i="12179" t="Beide"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="WiFi-Konfiguration"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Kein WiFi-Gerät gefunden."/>
+<phrase i="12182" t="WLAN-Profil"/>
+<phrase i="12183" t="Geschütztes Wi-Fi - Setup"/>
+<phrase i="12184" t="WLAN-Status"/>
+<phrase i="12185" t="Basiskonfiguration"/>
+<phrase i="12186" t="Sicherheitsmodus"/>
+<phrase i="12187" t="Verschlüsselungskonfiguration"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Band"/>
+<phrase i="12190" t="WPA-Verschlüsselung"/>
+<phrase i="12191" t="Format des gemeinsamen Schlüssels"/>
+<phrase i="12192" t="WPA-Schlüssel"/>
+<phrase i="12193" t="WEP-Auth.-Typ"/>
+<phrase i="12194" t="Länge des WEP-Schlüssels"/>
+<phrase i="12195" t="WEP-Schlüssel"/>
+<phrase i="12196" t="Profil"/>
+<phrase i="12197" t="PIN-Konfiguration"/>
+<phrase i="12198" t="Drahtlose PIN konfiguration gestartet!"/>
+<!--phrase i="12199" t="Geben Sie für Geräte, die eine PIN erfordern, die Nummer [%s] ein, und wählen Sie dann diesen Modus."/-->
+<phrase i="12200" t="WLAN-Suche..."/>
+<phrase i="12201" t="Profil auswählen"/>
+<phrase i="12202" t="Tastenkonfiguration"/>
+<phrase i="12203" t="Start der drahtlosen Drucktaste konfiguration"/>
+<phrase i="12204" t="Geschütztes Wi-Fi - Setup"/>
+<phrase i="12205" t="WLAN-Status"/>
+<phrase i="12206" t="Netzwerkname (SSID)"/>
+<phrase i="12207" t="Signalstärke"/>
+<phrase i="12208" t="Scan"/>
+<phrase i="12209" t="Zur Nutzung dieser Funktion müssen Sie ein Upgrade auf die aktuelle WBPN-Firmware durchführen."/>
+<phrase i="12210" t="Gastanmeldung"/>
+<phrase i="12211" t="gstIn"/>
+<phrase i="12212" t="gstOut"/>
+<phrase i="12213" t="(als Gast)"/> 
+<phrase i="12214" t="Alle Parameter werden auf die Werkseinstellungen zurückgesetzt. Fortfahren?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

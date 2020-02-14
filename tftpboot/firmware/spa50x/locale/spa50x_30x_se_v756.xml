@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Swedish</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Domännamn"/>
+<phrase i="204" t="IP-adress"/>
+<phrase i="205" t="Subnetmask"/>
+<phrase i="212" t="DNS-server 1"/>
+<phrase i="213" t="DNS-server 2"/>
+<phrase i="225" t="Kataloger URL"/>
+<phrase i="226" t="Meddelanden URL"/>
+<phrase i="227" t="Tjänster URL"/>
+<phrase i="354" t="Mottagna samtal"/>
+<phrase i="355" t="Ringda samtal"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="365" t="Nätverkskonfiguration"/>
+<phrase i="374" t="Kvittra 1"/>
+<phrase i="375" t="Kvittra 2"/>
+<phrase i="378" t="Ringsignaltyp"/>
+<phrase i="384" t="Statusmeddelanden"/>
+<phrase i="393" t="Nätverksstatistik"/>
+<phrase i="473" t="IP-adress släppt"/>
+<phrase i="500" t="DHCP-adress släppt"/>
+<phrase i="502" t="Radera konfiguration"/>
+<phrase i="552" t="URL för verifiering"/>
+<phrase i="585" t="Användarplats"/>
+<phrase i="586" t="Nätverksplats"/>
+<phrase i="635" t="DHCP-server"/>
+<phrase i="655" t="Modellinfo"/>
+<phrase i="657" t="Modellnr"/>
+<phrase i="670" t="Standardsignal"/>
+<phrase i="676" t="Snabbval"/>
+<phrase i="716" t="Säkerhetskonfig"/>
+<phrase i="3000" t="Missade samtal"/>
+<phrase i="3001" t="Återuppringningslista"/>
+<phrase i="3002" t="Ringsignalvolym"/>
+<phrase i="3003" t="Högtalarvolym"/>
+<phrase i="3004" t="Headsetvolym"/>
+<phrase i="3005" t="Lurvolym"/>
+<phrase i="3006" t="LCD-kontrast"/>
+<phrase i="3007" t="status"/>
+<phrase i="3008" t="Status"/>
+<phrase i="3009" t="Linjeknapp 4"/><!-- comment content -->
+<phrase i="3010" t="Linjeknapp 3"/>
+<phrase i="3011" t="Linjeknapp 2"/>
+<phrase i="3012" t="Linjeknapp 1"/>
+<phrase i="3013" t="Ank 4"/>
+<phrase i="3014" t="Ank 3"/>
+<phrase i="3015" t="Ank 2"/>
+<phrase i="3016" t="Ank 1"/>
+<phrase i="3018" t="Stör ej"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Lokala tjänster"/>
+<phrase i="3020" t="NyttSamtal"/>
+<phrase i="3021" t="Ring-Ink"/>
+<phrase i="3022" t="Snabbtelefon"/>
+<phrase i="3023" t="Ring om"/><!-- This is a softkey label -->
+<phrase i="3027" t="Systemet startas om&#xA;Vänta"/>
+<phrase i="3028" t="Systemet startas om&#xA;Vänta"/>
+<phrase i="3029" t="Återställer fabriksstandard&#xA;Vänta"/>
+<phrase i="3030" t="Bekräfta systemomstart?"/>
+<phrase i="3031" t="Bekräfta omstart av system?"/>
+<phrase i="3032" t="Alla parametrar återställs&#xA;till fabriksstandard&#xA;Vill du fortsätta?"/>
+<phrase i="3033" t="Lösenordsfel. Försöka igen?"/>
+<phrase i="3034" t="Nytt lösenord:"/>
+<phrase i="3035" t="Röstbrevlådenummer:"/>
+<phrase i="3036" t="Förskj.(T:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Tid(T:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Datum(m/d/å):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Utloggning"/><!-- This is a softkey label -->
+<phrase i="3040" t="Inloggning"/><!-- This is a softkey label -->
+<phrase i="3041" t="Inställning x"/>
+<phrase i="3042" t="Inställning"/>
+<phrase i="3043" t="Nätverk"/>
+<phrase i="3044" t="Ange administratörslösenord:"/>
+<phrase i="3045" t="Nej"/>
+<phrase i="3046" t="Vidarekoppl ej svar, fördröjning"/>
+<phrase i="3047" t="Vidarekoppl ej svar, nummer"/>
+<phrase i="3048" t="Vidarekoppl upptaget"/>
+<phrase i="3049" t="Vidarekoppl alla nr"/>
+<phrase i="3050" t="Multicast-adress"/>
+<phrase i="3051" t="Icke-DHCP NTP-server 2"/>
+<phrase i="3052" t="Icke-DHCP NTP-server 1"/>
+<phrase i="3053" t="Icke-DHCP DNS 2"/>
+<phrase i="3054" t="Icke-DHCP DNS 1"/>
+<phrase i="3055" t="Icke-DHCP-standardrouting"/>
+<phrase i="3056" t="Icke-DHCP-subnetmask"/>
+<phrase i="3057" t="Icke-DHCP-IP-adress"/>
+<phrase i="3058" t="Aktivera webbserver"/>
+<phrase i="3059" t="Aktuell gateway"/>
+<phrase i="3060" t="Aktuell nätmask"/>
+<phrase i="3061" t="Domän"/>
+<phrase i="3062" t="Värdnamn"/>
+<phrase i="3063" t="Aktuell IP"/>
+<phrase i="3064" t="DHCP-aktivering"/>
+<phrase i="3065" t="WAN-anslutningstyp"/>
+<phrase i="3066" t="Datumformat"/>
+<phrase i="3067" t="Tidsformat"/>
+<phrase i="3068" t="Skicka ljud till högtalare"/>
+<phrase i="3069" t="Automatisk svarssida"/>
+<phrase i="3070" t="Önskad ljudenhet"/>
+<phrase i="3071" t="Uppringningshjälp"/>
+<phrase i="3072" t="Säkert samtal"/>
+<phrase i="3073" t="Stör ej"/>
+<phrase i="3074" t="Blockera anonyma samtal"/>
+<phrase i="3075" t="Blockera nummerpres"/>
+<phrase i="3076" t="Klientcert."/>
+<phrase i="3077" t="MAC-adress"/>
+<phrase i="3078" t="Hårdvaruversion"/>
+<phrase i="3079" t="Programversion"/>
+<phrase i="3080" t="Serienummer"/>
+<phrase i="3081" t="Produktnamn"/>
+<phrase i="3082" t="Önskad enhet"/>
+<phrase i="3083" t="Stationsnamn"/>
+<phrase i="3085" t="Status samtalsparkering"/>
+<phrase i="3087" t="Ställ in lösenord"/>
+<phrase i="3088" t="Fabriksåterställning"/>
+<phrase i="3089" t="Starta om"/>
+<phrase i="3090" t="Hårdvara Starta om"/>
+<phrase i="3092" t="Produktinfo"/>
+<phrase i="3094" t="Röstmeddelande"/>
+<phrase i="3095" t="Tid/ datum"/>
+<phrase i="3096" t="Vidarekoppla samtal"/>
+<phrase i="3097" t="Inställningar"/>
+<phrase i="3099" t="Samtalshistorik"/>
+<phrase i="3100" t="Kortnummer"/>
+<phrase i="3101" t="Katalog"/>
+<phrase i="3102" t="Ange kortnummer x"/>
+<phrase i="3104" t="Ringsignal 10"/>
+<phrase i="3105" t="Ringsignal 9"/>
+<phrase i="3106" t="Ringsignal 8"/>
+<phrase i="3107" t="Ringsignal 7"/>
+<phrase i="3108" t="Ringsignal 6"/>
+<phrase i="3109" t="Ringsignal 5"/>
+<phrase i="3110" t="Ringsignal 4"/>
+<phrase i="3111" t="Ringsignal 3"/>
+<phrase i="3112" t="Ringsignal 2"/>
+<phrase i="3113" t="Ringsignal 1"/>
+<phrase i="3114" t="Ex ringsignal"/>
+<phrase i="3115" t="Ank 1: "/>
+<phrase i="3116" t="Ringsignal"/>
+<phrase i="3117" t="Radera: "/>
+<phrase i="3118" t="Listan är tom"/>
+<phrase i="3119" t="Fel lösenord. Försöka igen?"/>
+<phrase i="3120" t="Ange lösenord:"/>
+<phrase i="3121" t="Parkera samtal"/>
+<phrase i="3123" t="Begär samtalsparkering&#xA;Status misslyckades"/>
+<phrase i="3124" t="Samtalsparkering tom"/>
+<phrase i="3125" t="Begär samtalsparkering&#xA;Status..."/>
+<phrase i="3126" t="Ogiltigt parkeringsnummer&#xA;Försök igen"/>
+<phrase i="3127" t="Ringstation"/>
+<phrase i="3128" t="Besvara samtal"/>
+<phrase i="3129" t="Välj en väntelinje&#xA;för överföring"/>
+<phrase i="3130" t="Välj en väntelinje&#xA;för konferens"/>
+<phrase i="3131" t="Slå *kod"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="Tvinga G729A"/>
+<phrase i="3133" t="Föredra G729A"/>
+<phrase i="3134" t="Tvinga G726r40"/>
+<phrase i="3135" t="Föredra G726r40"/>
+<phrase i="3136" t="Tvinga G726r32"/>
+<phrase i="3137" t="Föredra G726r32"/>
+<phrase i="3138" t="Tvinga G726r24"/>
+<phrase i="3139" t="Föredra G726r24"/>
+<phrase i="3140" t="Tvinga G726r16"/>
+<phrase i="3141" t="Föredra G726r16"/>
+<phrase i="3142" t="Tvinga G723"/>
+<phrase i="3143" t="Föredra G723"/>
+<phrase i="3144" t="Tvinga G711A"/>
+<phrase i="3145" t="Föredra G711A"/>
+<phrase i="3146" t="Tvinga G711U"/>
+<phrase i="3147" t="Föredra G711U"/>
+<phrase i="3148" t="Söker"/>
+<phrase i="3149" t="Avbryt skydd för nästa"/>
+<phrase i="3150" t="Skydda nästa"/>
+<phrase i="3151" t="Avbryt skydd alla samtal"/>
+<phrase i="3152" t="Skydda alla samtal"/>
+<phrase i="3153" t="Avaktivera stör inte"/>
+<phrase i="3155" t="Avblockera anonyma samtal"/>
+<phrase i="3157" t="Avblockera nummerpres. för nästa samtal"/>
+<phrase i="3158" t="Block nummerpres. för nästa"/>
+<phrase i="3159" t="Avbr blockering nummerpres"/>
+<phrase i="3160" t="Blockera nummerpresentation"/>
+<phrase i="3161" t="Avaktivera återuppringning"/>
+<phrase i="3162" t="Återuppringning"/>
+<phrase i="3163" t="Avaktivera vidarekoppling vid inget svar"/>
+<phrase i="3164" t="Vidarekoppling vid inget svar"/>
+<phrase i="3165" t="Avbr vidarekoppl upptaget"/>
+<phrase i="3166" t="Vidarekoppling vid upptaget"/>
+<phrase i="3167" t="Avaktivera vidarekoppling av alla samtal"/>
+<phrase i="3168" t="Vidarekoppla alla samtal"/>
+<phrase i="3169" t="Återkoppling av samtal"/>
+<phrase i="3190" t="Headset   "/>
+<phrase i="3191" t="Lur   "/>
+<phrase i="3192" t="Högtalare   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Knappsats   "/>
+<phrase i="3201" t="Lyckades"/>
+<phrase i="3202" t="Misslyckades"/>
+<phrase i="3216" t="Ringsignal:"/>
+<phrase i="3217" t="Nummer:"/>
+<phrase i="3218" t="Namn:"/>
+<phrase i="3219" t="Radera:"/>
+<phrase i="3220" t="Ring svarande"/>
+<phrase i="3221" t="Katalog"/>
+<phrase i="3222" t="Slå nummer:"/>
+<phrase i="3223" t="Ange personsökning:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Ange svarsgrupp:"/>
+<phrase i="3225" t="Ange mål för specialtjänst:"/>
+<phrase i="3226" t="Ange mål för hänvisningstjänst:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Ange nr som ska återupptas:"/>
+<phrase i="3228" t="Ange nr som ska parkeras:"/>
+<phrase i="3229" t="Ange mål för dold överflyttning:"/>
+<phrase i="3230" t="Num vidarekoppling vid inget svar:"/>
+<phrase i="3231" t="Num vidarekoppling vid upptaget:"/>
+<phrase i="3232" t="Num vidarekoppl alla samtal:"/>
+<phrase i="3234" t="Ange fler siffror:"/>
+<phrase i="3237" t="Missade samtal"/>
+<phrase i="3238" t="Besvarade samtal"/>
+<phrase i="3239" t="Besvarade samtal"/>
+<phrase i="3240" t="Återuppringningslista"/>
+<phrase i="3241" t="Initierar nätverk"/>
+<phrase i="3242" t="Kontrollerar DNS"/>
+<phrase i="3243" t="kat"/><!-- This is a softkey label -->
+<phrase i="3244" t="vkopp"/><!-- This is a softkey label -->
+<phrase i="3245" t="Språk"/>
+<phrase i="3246" t="Språkval"/>
+<phrase i="3248" t="Vidarekopplade samtal"/>
+<phrase i="3249" t="Nytt missat samtal"/>
+<phrase i="3250" t="Nya missade samtal"/>
+<phrase i="3251" t="fler"/><!-- This is a softkey label -->
+<phrase i="3252" t="försök igen"/><!-- This is a softkey label -->
+<phrase i="3253" t="avbryt"/><!-- This is a softkey label -->
+<phrase i="3254" t="EjTillg"/><!-- This is a softkey label -->
+<phrase i="3255" t="tillg"/><!-- This is a softkey label -->
+<phrase i="3258" t="gSvar"/><!-- This is a softkey label -->
+<phrase i="3259" t="svara"/><!-- This is a softkey label -->
+<phrase i="3260" t="återta"/><!-- This is a softkey label -->
+<phrase i="3261" t="parkera"/><!-- This is a softkey label -->
+<phrase i="3262" t="oövfly"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="övflyL"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="övfly"/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*kod"/><!-- This is a softkey label -->
+<phrase i="3267" t="välj"/><!-- This is a softkey label -->
+<phrase i="3268" t="spara"/><!-- This is a softkey label -->
+<phrase i="3270" t="återta"/><!-- This is a softkey label -->
+<phrase i="3272" t="föreg."/><!-- This is a softkey label -->
+<phrase i="3273" t="spela"/><!-- This is a softkey label -->
+<phrase i="3274" t="klistr"/><!-- This is a softkey label -->
+<phrase i="3275" t="altern"/><!-- This is a softkey label -->
+<phrase i="3276" t="ok"/><!-- This is a softkey label -->
+<phrase i="3277" t="num"/><!-- This is a softkey label -->
+<phrase i="3278" t="nästa"/><!-- This is a softkey label -->
+<phrase i="3279" t="missat"/><!-- This is a softkey label -->
+<phrase i="3281" t="åss"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="gå med"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="avsluta"/><!-- This is a softkey label -->
+<phrase i="3285" t="redig"/><!-- This is a softkey label -->
+<phrase i="3286" t="StörEj"/><!-- This is a softkey label -->
+<phrase i="3288" t="ring"/><!-- This is a softkey label -->
+<phrase i="3289" t="radera"/><!-- This is a softkey label -->
+<phrase i="3290" t="kopie"/><!-- This is a softkey label -->
+<phrase i="3291" t="konfL"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="konf"/><!-- This is a softkey label -->
+<phrase i="3293" t="rensa"/><!-- This is a softkey label -->
+<phrase i="3294" t="-vkoppl"/><!-- This is a softkey label -->
+<phrase i="3295" t="-stEj"/><!-- This is a softkey label -->
+<phrase i="3296" t="byt"/><!-- This is a softkey label -->
+<phrase i="3298" t="avbryt"/><!-- This is a softkey label -->
+<phrase i="3299" t="brygga"/><!-- This is a softkey label -->
+<phrase i="3300" t="rader. S"/><!-- This is a softkey label -->
+<phrase i="3301" t="alfa"/><!-- This is a softkey label -->
+<phrase i="3302" t="läggTi"/><!-- This is a softkey label -->
+<phrase i="3303" t="Inställn x"/>
+<phrase i="3304" t="Inställning"/>
+<phrase i="3305" t="Delad"/>
+<phrase i="3306" t="Försöker återta"/>
+<phrase i="3307" t="Försöker att parkera"/>
+<phrase i="3308" t="Parkerar"/>
+<phrase i="3309" t="Ansluten"/>
+<phrase i="3310" t="Svarar"/>
+<phrase i="3311" t="Samtal avslutat"/>
+<phrase i="3312" t="Ringer"/>
+<phrase i="3313" t="Uppringt nummer ringer"/>
+<phrase i="3314" t="Ringer upp"/>
+<phrase i="3315" t="Kontaktar STUN-server"/>
+<phrase i="3316" t="Uppringning"/>
+<phrase i="3317" t="Väljer station"/>
+<phrase i="3318" t="Väljer samtal"/>
+<phrase i="3319" t="Samlar in samtalsinfo"/>
+<phrase i="3320" t="Försöker överta linje"/>
+<phrase i="3321" t="Redo"/>
+<phrase i="3322" t="Ja"/>
+<phrase i="3323" t="Inte registrerad"/>
+<phrase i="3324" t="Registrerad"/>
+<phrase i="3325" t="Inkommande"/>
+<phrase i="3326" t="Utgående"/>
+<phrase i="3327" t="Återuppringning"/>
+<phrase i="3328" t="Vidarebefordrad"/>
+<phrase i="3329" t="Överfört"/>
+<phrase i="3330" t="Ogiltig"/>
+<phrase i="3331" t="Passiv"/>
+<phrase i="3332" t="Signal för samtal väntar"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Signal - Återuppringning"/>
+<phrase i="3334" t="Signal - Vänteläge"/>
+<phrase i="3335" t="Ringsignal"/>
+<phrase i="3336" t="Indikation för säkert samtal"/>
+<phrase i="3337" t="Konferens"/>
+<phrase i="3338" t="Parkera"/>
+<phrase i="3339" t="Fel"/>
+<phrase i="3340" t="Bekräfta"/>
+<phrase i="3341" t="Uppmaning"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Varning för lur av"/>
+<phrase i="3347" t="Ring tillbaka"/>
+<phrase i="3348" t="Ändra ordning"/>
+<phrase i="3349" t="Upptagen"/>
+<phrase i="3350" t="Indikator för samtal väntar"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Externt samtal"/>
+<phrase i="3352" t="Andra samtalet"/>
+<phrase i="3353" t="Ring"/><!-- This is a softkey label -->
+<phrase i="3354" t="ingen"/>
+<phrase i="3355" t="Be övf"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Vidarekoppling"/>
+<phrase i="3357" t="Å.uppr"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Till"/>
+<phrase i="3359" t="Från"/>
+<phrase i="3360" t="Ny post"/>
+<phrase i="3361" t="(FULL)"/>
+<phrase i="3362" t="Företagskatalog"/>
+<phrase i="3363" t="Ange svarsnummer:"/>
+<phrase i="3365" t="Kortnummer"/>
+<phrase i="3366" t="&lt;Ej allokerat&gt;"/>
+<phrase i="3367" t="Ange kortnummer 2"/>
+<phrase i="3368" t="Ange kortnummer 3"/>
+<phrase i="3369" t="Ange kortnummer 4"/>
+<phrase i="3370" t="Ange kortnummer 5"/>
+<phrase i="3371" t="Ange kortnummer 6"/>
+<phrase i="3372" t="Ange kortnummer 7"/>
+<phrase i="3373" t="Ange kortnummer 8"/>
+<phrase i="3374" t="Ange kortnummer 9"/>
+<phrase i="3375" t="Ange kortnummer"/>
+<phrase i="3376" t="Samtalshistorik"/>
+<phrase i="3377" t="Besvarade samtal"/>
+<phrase i="3378" t="Rington"/>
+<phrase i="3379" t="E1-ring"/>
+<phrase i="3380" t="E2-ring"/>
+<phrase i="3381" t="E3-ring"/>
+<phrase i="3382" t="E4-ring"/>
+<phrase i="3383" t="Företagskatalog"/>
+<phrase i="3384" t="Inställningar"/>
+<phrase i="3385" t="j/n"/><!-- This is a softkey label -->
+<phrase i="3386" t="Blockera uppringar-ID&#xA;"/>
+<phrase i="3387" t="Blockera anonyma samtal&#xA;"/>
+<phrase i="3388" t="Stör ej&#xA;"/>
+<phrase i="3389" t="Säkra samtal&#xA;"/>
+<phrase i="3390" t="Uppringningshjälp&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Föredragen ljudenhet&#xA;"/>
+<phrase i="3394" t="Autosvarsida&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Skicka ljud till högtalare&#xA;"/>
+<phrase i="3396" t="Tidsformat&#xA;"/>
+<phrase i="3397" t="Datumformat&#xA;"/>
+<phrase i="3398" t="dag/månad"/>
+<phrase i="3399" t="månad/dag"/>
+<phrase i="3400" t="Språk"/>
+<phrase i="3401" t="Samtal parkeringsstatus"/>
+<phrase i="3402" t="Status"/>
+<phrase i="3403" t="Telefonstatus"/>
+<phrase i="3405" t="Ank 2 Status"/>
+<phrase i="3406" t="L1-status"/>
+<phrase i="3407" t="L2-status"/>
+<phrase i="3408" t="L3-status"/>
+<phrase i="3409" t="L4-status"/>
+<phrase i="3410" t="Samtal1:"/>
+<phrase i="3412" t="Datum: "/>
+<phrase i="3413" t="Uppkoppl.tid: "/>
+<phrase i="3415" t="Senaste reg %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Nästa reg om %us&#xA;"/>
+<phrase i="3418" t="Samtal 1: "/>
+<phrase i="3420" t="Ton: "/>
+<phrase i="3421" t="Ingen"/>
+<phrase i="3422" t="Ej installerat"/>
+<phrase i="3423" t="Standard"/><!-- This is a softkey label -->
+<phrase i="3425" t="Station"/>
+<phrase i="3426" t="Sidgrupp"/>
+<phrase i="3427" t="Auto övervakning"/>
+<phrase i="3428" t="Intern musik"/>
+<phrase i="3429" t="Vänta"/>
+<phrase i="3430" t="Försöker logga in"/>
+<phrase i="3432" t="Kontaktar ACD-server&#xA;För tillgänglig"/>
+<phrase i="3433" t="Kontaktar ACD-server&#xA;För inte tillgänglig"/>
+<phrase i="3434" t="Inloggningen misslyckades.&#xA;"/>
+<phrase i="3435" t="Kontrollera ditt användar-ID&#xA;och lösenord."/>
+<phrase i="3437" t="Medd. om tillg. misslyckades&#xA;"/>
+<phrase i="3438" t="Medd. om inte tillg. misslyckades&#xA;"/>
+<phrase i="3439" t="Användar-ID:"/>
+<phrase i="3440" t="Lösenord:"/>
+<phrase i="3441" t="ACD-inloggning"/>
+<phrase i="3445" t="Uppgraderar fast programvara&#xA;Koppla inte bort strömmen&#xA;Telefonen startas om&#xA;automatiskt"/>
+<phrase i="3446" t="&#xA;&#xA;Besvara: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Systemet startas"/>
+<phrase i="3451" t="Begär företagskatalog&#xA;från server..."/>
+<phrase i="3452" t="Begäran om&#xA;företagskatalog misslyckades"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="Okänd post"/>
+<phrase i="3468" t="Okänd användare"/>
+<phrase i="3469" t="Av: %s"/>
+<phrase i="3470" t="gateway"/>
+<phrase i="3472" t="Dela samtal %s"/>
+<phrase i="3473" t="Av: %s&#xA;"/>
+<phrase i="3476" t="mottagare"/>
+<phrase i="3477" t="status"/>
+<phrase i="3478" t="avslutad"/>
+<phrase i="3479" t="försöker"/>
+<phrase i="3480" t="tidig"/>
+<phrase i="3481" t="fortsätter"/>
+<phrase i="3482" t="bekräftad"/>
+<phrase i="3503" t="Användare %d"/>
+<phrase i="3504" t="Ingen ringsignal"/>
+<phrase i="3509" t="Användare %d (inte installerad)"/>
+<phrase i="3510" t="12 tim."/>
+<phrase i="3511" t="24 tim."/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Statisk IP"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="lösenord"/><!-- password -->
+<phrase i="3517" t="konfiguration"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Språk(inte tillgängligt)"/>
+<phrase i="3519" t="Inte tillgängligt"/>
+<phrase i="3520" t="bekräfta"/>
+<phrase i="3521" t="kontrast"/>
+<phrase i="3522" t="kort_nr"/>
+<phrase i="3523" t="%d dagar"/>
+<phrase i="3524" t="1 dag"/>
+<phrase i="3525" t="Avaktiverad&#xA;"/>
+<phrase i="3526" t="Samtal %d typ: %s&#xA;"/>
+<phrase i="3527" t="Per namn: %s&#xA;"/>
+<phrase i="3528" t="Per tel: %s&#xA;"/>
+<phrase i="3529" t="Längd: %02d:%02d:%02d"/>
+<phrase i="3530" t="Samtal %d: %s&#xA;"/>
+<phrase i="3531" t="Ton: %s&#xA;"/>
+<phrase i="3532" t="Kodn: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Avkodn: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Ingen tjänst&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Telefonstatus"/>
+<phrase i="3536" t="Ank %d status"/>
+<phrase i="3537" t="L%d status"/>
+<phrase i="3538" t="TidDatum"/>
+<phrase i="3539" t="Spara volymändringar&#xA;"/>
+<phrase i="3540" t="Spara kontraständringar&#xA;"/>
+<phrase i="3541" t="ring om"/><!-- This is a softkey label -->
+<phrase i="3542" t="inlogg"/><!-- This is a softkey label -->
+<phrase i="3543" t="utlogg"/><!-- This is a softkey label -->
+<phrase i="3544" t="volym"/>
+<phrase i="3545" t="inställning"/>
+<phrase i="3546" t="Missat samtal"/>
+<phrase i="3548" t="Misslyckades&#xA;"/>
+<phrase i="3549" t="återuppta?"/>
+<phrase i="3550" t="Engelska"/>
+<phrase i="3551" t="Spanska"/>
+<phrase i="3552" t="Portugisiska"/>
+<phrase i="3553" t="Italienska"/>
+<phrase i="3554" t="Tyska"/>
+<phrase i="3555" t="Danska"/>
+<phrase i="3556" t="Finska"/>
+<phrase i="3557" t="Holländska"/>
+<phrase i="3558" t="Norska"/>
+<phrase i="3559" t="Franska"/>
+<phrase i="3560" t="Timer bakgrundsbel"/>
+<phrase i="3561" t="Alltid på"/>
+<phrase i="3562" t="Av"/>
+<phrase i="3563" t="Genväg missat samtal"/>
+<phrase i="3564" t="Samtal väntar"/>
+<phrase i="3565" t="Aktivera VLAN"/>
+<phrase i="3566" t="VLAN-id"/>
+<phrase i="3567" t="Kontor"/>
+<phrase i="3568" t="Klassisk-1"/>
+<phrase i="3569" t="Klassisk-2"/>
+<phrase i="3570" t="Klassisk-3"/>
+<phrase i="3571" t="Klassisk-4"/>
+<phrase i="3572" t="Enkel-1"/>
+<phrase i="3573" t="Enkel-2"/>
+<phrase i="3574" t="Enkel-3"/>
+<phrase i="3575" t="Enkel-4"/>
+<phrase i="3576" t="Enkel-5"/>
+<phrase i="3577" t="Installerat"/>
+<phrase i="3578" t="radTecken"/>
+<phrase i="3579" t="VidKoppl"/><!-- This is a softkey label -->
+<phrase i="3580" t="Rensa StEj"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Stör ej "/>
+<phrase i="3582" t="Rensa vid"/><!-- This is a softkey label -->
+<phrase i="3583" t="Konf L"/><!-- This is a softkey label -->
+<phrase i="3584" t="Samt retur"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Föregående"/><!-- This is a softkey label -->
+<phrase i="3586" t="Överflytt"/><!-- This is a softkey label -->
+<phrase i="3587" t="Övfly L"/><!-- This is a softkey label -->
+<phrase i="3588" t="Dold övfly"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="Grsvar"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Förhandsgranska"/><!-- This is a softkey label -->
+<phrase i="3591" t="GUI-egenskap"/>
+<phrase i="3592" t="GUI-egenskap"/>
+<phrase i="3593" t="Önskad bakgrundsbild"/>
+<phrase i="3594" t="Hämtad"/>
+<phrase i="3596" t="Önskat färgschema för meny"/>
+<phrase i="3597" t="Ljusblå"/>
+<phrase i="3598" t="Ljusgrön"/>
+<phrase i="3599" t="Rosa"/>
+<phrase i="3600" t="Silvergrå"/>
+<phrase i="3601" t="Vidarekopplade samtal "/>
+<phrase i="3602" t="Linjeknapp 5"/>
+<phrase i="3603" t="Linjeknapp 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Ank 5"/>
+<phrase i="3606" t="Ank 6"/>
+<phrase i="3607" t="Högtalare"/>
+<phrase i="3608" t="Headset"/>
+<phrase i="3609" t="fm"/>
+<phrase i="3610" t="em"/>
+<phrase i="3614" t="Linje %d: %s(%s)"/>
+<phrase i="3616" t="Anpasad återställning"/>
+<phrase i="3617" t="Sök uppdatering&#xA;för anpassad profil?&#xA;(arbetar i bakgrunden)"/>
+<phrase i="3618" t="Webbtjänst"/>
+<phrase i="3619" t="Webbtjänst"/>
+<phrase i="3620" t="Lokala nyheter"/>
+<phrase i="3621" t="Världsnyheter"/>
+<phrase i="3623" t="Sportnyheter"/>
+<phrase i="3624" t="Politiska nyheter"/>
+<phrase i="3625" t="Tekniknyheter"/>
+<phrase i="3626" t="Underhållningsnyheter"/>
+<phrase i="3627" t="Trafik"/>
+<phrase i="3628" t="Aktiekurssymbol"/>
+<phrase i="3629" t="Aktiekurssymbol:"/>
+<phrase i="3630" t="RSS-matn 1"/>
+<phrase i="3631" t="RSS-matn 2"/>
+<phrase i="3632" t="RSS-matn 3"/>
+<phrase i="3633" t="RSS-matn 4"/>
+<phrase i="3634" t="RSS-matn 5"/>
+<phrase i="3635" t="Symbol:"/>
+<phrase i="3636" t="Sist:"/>
+<phrase i="3637" t="Ändra:"/>
+<phrase i="3638" t="Bit:"/>
+<phrase i="3639" t="Fråga:"/>
+<phrase i="3640" t="Provisionering"/>
+<phrase i="3641" t="Samtalshistorik"/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="Profil:%s&#xA;"/>
+<phrase i="3644" t="Status:%s&#xA;"/>
+<phrase i="3645" t="Anledning:%s&#xA;"/>
+<phrase i="3647" t="Avaktiverad"/>
+<phrase i="3649" t="Parsn.fel i regel"/>
+<phrase i="3650" t="Pågår"/>
+<phrase i="3651" t="Lyckades"/>
+<phrase i="3652" t="DNS-upplösning"/>
+<phrase i="3653" t="Inget servernamn"/>
+<phrase i="3654" t="Ogiltig eller skyddad server"/>
+<phrase i="3655" t="Resurser slut"/>
+<phrase i="3656" t="Korrupt fil"/>
+<phrase i="3657" t="Krypteringsnyckel"/>
+<phrase i="3658" t="Ogiltig URL"/>
+<phrase i="3659" t="Fil ej funnen"/>
+<phrase i="3660" t="Nedladdning misslyckades"/>
+<phrase i="3661" t="&lt;Ingen post&lt;"/>
+<phrase i="3662" t="Typ:%s"/>
+<phrase i="3663" t="Peer namn:%s"/>
+<phrase i="3664" t="Peer telefon:%s"/>
+<phrase i="3665" t="Längd:"/>
+<phrase i="3666" t="Samtalstid"/>
+<phrase i="3667" t="Kodn:%s"/>
+<phrase i="3668" t="Avkodn:%s"/>
+<phrase i="3669" t="Samtals-ID:%s"/>
+<phrase i="3674" t="Uppdaterar onlinenyheter..."/>
+<phrase i="3675" t="Inga onlinenyheter finns tillgängliga..."/>
+<phrase i="3676" t="Misslyckades att ta emot &amp;#10;onlinenyheter..."/>
+<phrase i="3677" t="Nyheter"/>
+<phrase i="3680" t="Sänt: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Mott: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Samtalstyp: %s&#xA;"/>
+<phrase i="3687" t="Tom"/>
+<phrase i="3690" t="Provisioneringsstatus"/>
+<phrase i="3693" t="Samtalsstatistik"/>
+<phrase i="3703" t="EXT:%d"/>
+<phrase i="3704" t="Uppdaterar börsinformationen..."/>
+<phrase i="3705" t="Ingen börsinformation finns tillgänglig..."/>
+<phrase i="3706" t="Misslyckades att ta emot bö&#xA;rsinformation..."/>
+<phrase i="3713" t="Yahoo börsinformation"/>
+<phrase i="3715" t="Uppdaterar trafikinformationsdata..."/>
+<phrase i="3716" t="Inga trafikinformationsdata &#xA;finns tillgängliga..."/>
+<phrase i="3717" t="Misslyckades att ta emot trafikinformationsdata..."/>
+<phrase i="3718" t="Ingen detaljerad trafikinfo finns tillgänglig..."/>
+<phrase i="3719" t="Misslyckades att visa trafikinformationsdata..."/>
+<phrase i="3721" t="Börspriser"/>
+<phrase i="3730" t="Yahoo! Logga in"/>
+<phrase i="3731" t="Logga ut från Yahoo!?"/>
+<phrase i="3732" t="Slutförd"/>
+<phrase i="3733" t="Misslyckades. Kontrollera&#xA;Användar-ID och lösenord"/>
+<phrase i="3734" t="Inloggning sker. Vänligen vänta."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="Vidarekopplade samtal&#xA;"/>
+<phrase i="3737" t="Utloggad&#xA;"/>
+<phrase i="3738" t="Loggar in&#xA;"/>
+<phrase i="3739" t="Inte registrerad&#xA;"/>
+<phrase i="3741" t="&#xA;Efter: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;PU: "/>
+<phrase i="3744" t="%sUtloggad"/>
+<phrase i="3745" t="uppdatera"/><!-- This is a softkey label -->
+<phrase i="3746" t="Detalj"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_SPRÅK"/>
+<phrase i="3757" t="BMP-bild"/>
+<phrase i="3758" t="Lägg till"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alfa"/><!-- This is a softkey label -->
+<phrase i="3760" t="Radera"/><!-- This is a softkey label -->
+<phrase i="3761" t="Brygga"/><!-- This is a softkey label -->
+<phrase i="3762" t="Avbr."/><!-- This is a softkey label -->
+<phrase i="3764" t="Rensa"/><!-- This is a softkey label -->
+<phrase i="3765" t="Konf"/><!-- This is a softkey label -->
+<phrase i="3766" t="Kopiera"/><!-- This is a softkey label -->
+<phrase i="3767" t="Radera"/><!-- This is a softkey label -->
+<phrase i="3771" t="Redig"/><!-- This is a softkey label -->
+<phrase i="3772" t="Avsluta"/><!-- This is a softkey label -->
+<phrase i="3774" t="Gå med"/><!-- This is a softkey label -->
+<phrase i="3775" t="Missat"/><!-- This is a softkey label -->
+<phrase i="3776" t="Nästa"/><!-- This is a softkey label -->
+<phrase i="3777" t="Num"/><!-- This is a softkey label -->
+<phrase i="3778" t="OK"/><!-- This is a softkey label -->
+<phrase i="3779" t="Alt"/><!-- This is a softkey label -->
+<phrase i="3780" t="Klistra in"/><!-- This is a softkey label -->
+<phrase i="3781" t="Spela"/><!-- This is a softkey label -->
+<phrase i="3783" t="Fortsätt"/><!-- This is a softkey label -->
+<phrase i="3784" t="Spara"/><!-- This is a softkey label -->
+<phrase i="3785" t="Välj"/><!-- This is a softkey label -->
+<phrase i="3786" t="*Kod"/><!-- This is a softkey label -->
+<phrase i="3787" t="J/N"/><!-- This is a softkey label -->
+<phrase i="3793" t="Tillgängl"/><!-- This is a softkey label -->
+<phrase i="3794" t="Otillg"/><!-- This is a softkey label -->
+<phrase i="3795" t="Avbryt"/><!-- This is a softkey label -->
+<phrase i="3796" t="Förs igen"/><!-- This is a softkey label -->
+<phrase i="3797" t="Fler"/><!-- This is a softkey label -->
+<phrase i="3798" t="Uppdatera"/><!-- This is a softkey label -->
+<phrase i="3799" t="För.gr"/><!-- This is a softkey label -->
+<phrase i="3800" t="detalj"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Logga ut"/>
+<phrase i="3807" t="Gemensam adressbok"/>
+<phrase i="3808" t="Ingen bild för nerladdning finns tillgänglig"/>
+<phrase i="3809" t="Blockera anonyma samtal"/>
+<phrase i="3810" t="Det finns inga detaljerade nyheter..."/>
+<phrase i="3811" t="Det finns inga detaljerade nyheter&#xA;"/>
+<phrase i="3812" t="Misslyckades att visa nyhetsdata"/>
+<phrase i="3813" t="Överför"/>
+<phrase i="3814" t="Överföring misslyckades"/>
+<phrase i="3815" t="Längd: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Samtalsstatistik:"/>
+<phrase i="3817" t="Misslyckades att visa börspriser..."/>
+<phrase i="3818" t="Det finns ingen detaljerad trafikinfo&#xA;"/>
+<phrase i="3822" t="E5-ring"/>
+<phrase i="3824" t="Stör ej,"/>
+<phrase i="3825" t="Vidarekopplade samtal"/>
+<phrase i="3826" t="&lt;Ingen post&gt;"/>
+<phrase i="3827" t="Anpassa"/>
+<phrase i="3828" t="Öppen"/>
+<phrase i="3829" t="Väntar"/>
+<phrase i="3830" t="Anpassad"/>
+<phrase i="3831" t="Standard&quot;nedladdad"/>
+<phrase i="3832" t="Anonymt samtal"/>
+<phrase i="3833" t="%sSamtal vidarekopplade"/>
+<phrase i="3834" t="%sUtloggning Sker"/>
+<phrase i="3835" t="%sInloggning sker"/>
+<phrase i="3836" t="%sInte registrerad"/>
+<phrase i="3837" t="%sRegistrerar"/>
+<phrase i="3838" t="%sStör ej"/>
+<phrase i="3839" t="E1-ring"/>
+<phrase i="3840" t="E2-ring"/>
+<phrase i="3841" t="E3-ring"/>
+<phrase i="3842" t="E4-ring"/>
+<phrase i="3843" t="E5-ring"/>
+<phrase i="3844" t="E6-ring"/>
+<phrase i="3845" t="Inloggning misslyckades.&#xA;kontrollera ditt användar-ID&#xA;och lösenord."/>
+<phrase i="3846" t="Försöker logga in."/>
+<phrase i="3847" t="Autentiserar..."/>
+<phrase i="3848" t="Logga in på CMS"/>
+<phrase i="3849" t="Logga ut från CMS?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C å ä Å Ä "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O ö Ö "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Polska"/>
+<phrase i="3864" t="Ryska"/>
+<phrase i="3865" t="Ungerska"/>
+<phrase i="3866" t="Tjeckiska"/>
+<phrase i="3867" t="Turkiska"/>
+<phrase i="3868" t="Svenska"/>
+<phrase i="3869" t="Slovenska"/>
+<phrase i="3870" t="Bulgariska"/>
+<phrase i="3871" t="Slovakiska"/>
+<phrase i="3872" t="Kroatiska"/>
+<phrase i="3950" t="Inget svar"/>
+<phrase i="3951" t="Ej nåbar"/>
+<phrase i="3952" t="Verifiera"/>
+<phrase i="3953" t="Okänt"/>
+<phrase i="3954" t="Försöker att parkera"/>
+<phrase i="3955" t="Försöker att återuppta"/>
+<phrase i="3956" t="Ändra"/><!-- This is a softkey label -->
+<phrase i="3957" t="Parkera"/><!-- This is a softkey label -->
+<phrase i="3958" t="Återta"/><!-- This is a softkey label -->
+<phrase i="3959" t="Svara"/><!-- This is a softkey label -->
+<phrase i="3960" t="Omsynka"/><!-- This is a softkey label -->
+<phrase i="3961" t="Aktivera"/><!-- This is a softkey label -->
+<phrase i="3962" t="Acceptera"/><!-- This is a softkey label -->
+<phrase i="3963" t="Ansl"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Ansl"/><!-- This is a softkey label -->
+<phrase i="3965" t="skicka"/><!-- This is a softkey label -->
+<phrase i="3966" t="omsynka"/><!-- This is a softkey label -->
+<phrase i="3967" t="aktiv"/><!-- This is a softkey label -->
+<phrase i="3968" t="accep"/><!-- This is a softkey label -->
+<phrase i="3969" t="ansl"/><!-- This is a softkey label -->
+<phrase i="3970" t="-ansl"/><!-- This is a softkey label -->
+<phrase i="3971" t="ner"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="upp"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="stand"/><!-- This is a softkey label -->
+<phrase i="3974" t="redUppr"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Uppgraderar fast program&#xA;Koppla inte bort strömmen&#xA;Telefonen startas om&#xA;automatiskt"/>
+<phrase i="3976" t="Inläsning av XML App..."/>
+<phrase i="3977" t="Uppgraderingen misslyckades"/>
+<phrase i="3978" t="Ladda progr OK"/>
+<phrase i="3979" t="Ladda progr misslyckades"/>
+<phrase i="3980" t="CME-tjänster"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Försöker att logga ut.&#xA;Vänta..."/>
+<phrase i="3982" t="Utloggningen misslyckades.&#xA;Startar om...."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Välj ringsignal"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Standardsignal: %s"/>
+<phrase i="3987" t="Välj linje"/>
+<phrase i="3988" t="Standardringsignal på linje                        "/>
+<phrase i="3989" t="Standardnamn på ringsignal                     "/>
+<phrase i="3990" t="Inställningar"/>
+<phrase i="3991" t="Skärmsläck. inställn"/>
+<phrase i="3992" t="Aktivera skärmsläckare"/>
+<phrase i="3993" t="Skärmsläckarens väntetid"/>
+<phrase i="3994" t="Skärmsläckarikon"/>
+<phrase i="3995" t="Stationstid&quot;Lås&quot;Telefon&quot;Datumtid&quot;Bakgrundsbild"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Återställning till fabriksstandard&#xA;Vänta"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;System startar om&#xA;Vänta"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;System startar om&#xA;Vänta"/>
+<phrase i="4001" t="Profilregel"/>
+<phrase i="4002" t="Profilregel:"/>
+<phrase i="4003" t="Synka profil: %s&#xA;"/>
+<phrase i="4004" t="Resultat: %s&#xA;"/>
+<phrase i="4005" t="Anledning: %s&#xA;"/>
+<phrase i="4006" t="Synka till&#xA;%s&#xA;Vid lyckad synka kommer telefonen &#xA;att starta om!"/>
+<phrase i="4007" t="Ogiltig profilregel!&#xA;"/>
+<phrase i="4008" t="Begär synka till&#xA;%s&#xA;&#xA;är telefonen inte är aktiv!"/>
+<phrase i="4009" t="Begäran av synka misslyckades!&#xA;Telefonen är upptagen med en sådan begäran.&#xA;Försök senare."/>
+<phrase i="4010" t="Registrering&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Tryck på valfri knapp för att låsa upp telefonen"/>
+<phrase i="4013" t="Protokoll för samtalskontroll"/>
+<phrase i="4014" t="Standardrouter"/>
+<phrase i="4015" t="TFTP-server"/>
+<phrase i="4016" t="Admin. VLAN-id"/>
+<phrase i="4017" t="Aktivera CDP"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Samtalshanterare"/>
+<phrase i="4019" t="PPPoE Tjänstnamn"/>
+<phrase i="4020" t="PPPOE Inloggn.namn"/>
+<phrase i="4021" t="PPPoE Inloggn.lösenord"/>
+<phrase i="4022" t="Webbserver aktiverad"/>
+<phrase i="4023" t="Debug-server"/>
+<phrase i="4024" t="Av&quot;10 s&quot;20 s&quot;30 s&quot;Alltid på"/>
+<phrase i="4025" t="Lokala inställningar"/>
+<phrase i="4026" t="Fast programversion"/>
+<phrase i="4027" t="Mott: %u, "/>
+<phrase i="4028" t="Sänt: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Förfluten tid: "/>
+<phrase i="4030" t="Ank%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Modell: %s&#xA;"/>
+<phrase i="4032" t="Version: %s&#xA;"/>
+<phrase i="4033" t="Linje:%s"/>
+<phrase i="4034" t="N/A"/>
+<phrase i="4038" t="Ansluter till&#xA;VPN servern..."/>
+<phrase i="4039" t="Kopplar ifrån &#xA;VPN-servern..."/>
+<phrase i="4040" t="VPN anslutningen misslyckades!&#xA;"/>
+<phrase i="4041" t="VPN är ansluten!"/>
+<phrase i="4042" t="VPN är inte ansluten!"/>
+<phrase i="4043" t="Okänd CA. Acceptera?&#xA;"/>
+<phrase i="4044" t="Funktionen avbruten!"/>
+<phrase i="4045" t="Vänta..."/>
+<phrase i="4046" t="Koppla upp mot VPN vid uppstart?"/>
+<phrase i="4047" t="VPN-server"/>
+<phrase i="4048" t="Användar-ID"/>
+<phrase i="4049" t="Tunnelgrupp"/>
+<phrase i="4050" t="VPN-uppkopplad?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Varaktighet"/>
+<phrase i="4054" t="Byte sända"/>
+<phrase i="4055" t="Byte mottagna"/>
+<phrase i="4056" t="Senaste anledning till fel"/>
+<phrase i="4057" t="Vänligen konfigurera VPN-servern först"/>
+<phrase i="4058" t="Telefonen är uppkopplad mot VPN-servern"/>
+<phrase i="4059" t="Vänligen lägg på luren innan uppkoppling mot VPN-server sker"/>
+<phrase i="4060" t="Telefonen är inte uppkopplad mot VPN-servern"/>
+<phrase i="4061" t="Vänligen lägg på luren först"/>
+<phrase i="4062" t="Ansluter w/ CME"/>
+<phrase i="4063" t="Registrerar w/ CME"/>
+<phrase i="4064" t="SPCP-registreringskod"/>
+<phrase i="4065" t="Fel när ringsignal hämtades"/>
+<phrase i="4066" t="Uppgraderar fast program&#xA;Vänligen stäng inte av strömmen"/>
+<phrase i="4067" t="Uppgradering lyckad&#xA;.....startar om"/>
+<phrase i="4068" t="LDAP-fråga"/>
+<phrase i="4069" t="LDAP-frågekatalog"/>
+<phrase i="4070" t="Ogiltig indata/konfiguration,&#xA;Kontrollera din indata/konfiguration"/>
+<phrase i="4071" t="LDAP fel: Kan inte ansluta till server"/>
+<phrase i="4072" t="LDAP fel: Ogiltigt inmatningsvärde."/>
+<phrase i="4073" t="Inga träffar hittades"/>
+<phrase i="4074" t="LDAP-frågeresultat"/>
+<phrase i="4075" t="Begär katalog från LDAP-server..."/>
+<phrase i="4076" t="Kunde inte begära LDAP-katalog"/>
+<phrase i="4077" t="För många träffar hittades,&#xA;förfina din sökning"/>
+<phrase i="4079" t="Samtal besvaras"/>
+<phrase i="4080" t="Återuppta samtal"/>
+<phrase i="4081" t="Besvara gruppsamtal"/>
+<phrase i="4083" t="Aktiv PC-port VLAN-taggn"/>
+<phrase i="4084" t="PC-port VLAN-id"/>
+<phrase i="4085" t="Larm"/>
+<phrase i="4086" t="Sida"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="tillbaka"/><!-- This is a softkey label -->
+<phrase i="4088" t="växla"/><!-- This is a softkey label -->
+<phrase i="4089" t="Tillbaka"/><!-- This is a softkey label -->
+<phrase i="4090" t="RedUppr"/><!-- This is a softkey label -->
+<phrase i="4091" t="Namn"/>
+<phrase i="4092" t="Sök"/>
+<phrase i="4093" t="Skicka"/><!-- This is a softkey label -->
+<phrase i="4094" t="Media-loopback"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Ner"/><!-- This is a softkey label -->
+<phrase i="4096" t="Upp"/><!-- This is a softkey label -->
+<phrase i="4097" t="Växla"/><!-- This is a softkey label -->
+<phrase i="4098" t="Begär..."/>
+<phrase i="4099" t="Ogiltigt nummer"/>
+<phrase i="4100" t="Ingen linje"/>
+<phrase i="4101" t="Tidsutlösn"/>
+<phrase i="4102" t="Tjänsten är inte tillgänglig"/>
+<phrase i="4103" t="Nätverksfel"/>
+<phrase i="4104" t="Protokollfel"/>
+<phrase i="4105" t="Försöker"/>
+<phrase i="4106" t="Samtalet vidarebefordras"/>
+<phrase i="4107" t="Har köats"/>
+<phrase i="4108" t="Sessionsförlopp"/>
+<phrase i="4109" t="Accepterat"/>
+<phrase i="4110" t="Flerval"/>
+<phrase i="4111" t="Flyttades permanent"/>
+<phrase i="4112" t="Flyttades tillfälligt"/>
+<phrase i="4113" t="Använd proxy"/>
+<phrase i="4114" t="Alternativa tjänster"/>
+<phrase i="4115" t="Felaktig förfrågan"/>
+<phrase i="4116" t="Behörighet saknas"/>
+<phrase i="4117" t="Betalning krävs"/>
+<phrase i="4118" t="Förbjuden"/>
+<phrase i="4119" t="Kunde inte hittas"/>
+<phrase i="4120" t="Metoden är inte tillåten"/>
+<phrase i="4121" t="Ej acceptabel"/>
+<phrase i="4122" t="Proxyverifiering krävs"/>
+<phrase i="4123" t="Begär paus"/>
+<phrase i="4124" t="Borta"/>
+<phrase i="4125" t="Begärd enhet är för stor"/>
+<phrase i="4126" t="Begärd-URI är för stor"/>
+<phrase i="4127" t="Mediatypen stöds inte"/>
+<phrase i="4128" t="URI-schemat stöds inte"/>
+<phrase i="4129" t="Dålig anknytning"/>
+<phrase i="4130" t="Anknytning krävs"/>
+<phrase i="4131" t="Intervallet är för kort"/>
+<phrase i="4132" t="Inte tillgängligt för tillfället"/>
+<phrase i="4133" t="Samtalsleg/Transaktionen finns inte"/>
+<phrase i="4134" t="Loop identifierad"/>
+<phrase i="4135" t="För många hopp"/>
+<phrase i="4136" t="Adressen ofullständig"/>
+<phrase i="4137" t="Tvetydig"/>
+<phrase i="4138" t="Upptaget här"/>
+<phrase i="4139" t="Begäran avslutad"/>
+<phrase i="4140" t="Accepteras inte här"/>
+<phrase i="4141" t="Ogiltig händelse"/>
+<phrase i="4142" t="Begäran väntar"/>
+<phrase i="4143" t="Oläslig"/>
+<phrase i="4144" t="Internt serverfel"/>
+<phrase i="4145" t="Inte implementerad"/>
+<phrase i="4146" t="Ogiltig gateway"/>
+<phrase i="4147" t="Tjänsten ej tillgänglig"/>
+<phrase i="4148" t="Server-timeout"/>
+<phrase i="4149" t="SIP-versionen stöds inte"/>
+<phrase i="4150" t="Meddelandet är för stort"/>
+<phrase i="4151" t="Upptaget överallt"/>
+<phrase i="4152" t="Avböja"/>
+<phrase i="4153" t="Finns inte någonstans"/>
+<phrase i="4154" t="Fel i transportlager"/>
+<phrase i="4155" t="Stationstid"/>
+<phrase i="4156" t="Lås"/>
+<phrase i="4157" t="Telefon"/>
+<phrase i="4158" t="DatumTid"/>
+<phrase i="4159" t="Bakgrundsbild"/>
+<phrase i="4160" t="Ekonominyheter"/>
+<phrase i="4161" t="Transaktion tidsutlöst"/>
+<phrase i="4162" t="Ingen rutt hittad"/>
+<phrase i="4163" t="Tillfälligt otillgänglig"/>
+<phrase i="4164" t="Begäran avbruten"/>
+<phrase i="4165" t="Servern är för upptagen"/>
+<phrase i="4166" t="Otillräckligt med mediabandbredd"/>
+<phrase i="4200" t="404 Hittas inte"/>
+<phrase i="4201" t="Lägg till personlig post"/>
+<phrase i="4202" t="Avancerad sökning"/>
+<phrase i="4203" t="Svar"/>
+<phrase i="4204" t="svar"/>
+<phrase i="4205" t="Broadsoft-katalogbegäran misslyckades"/>
+<phrase i="4206" t="Broadsoft-katalog"/>
+<phrase i="4207" t="Broadsoft: Begäran avbruten av användare"/>
+<phrase i="4208" t="Samt Inst kontroll"/>
+<phrase i="4209" t="CME-katalog"/>
+<phrase i="4210" t="Avdelning: "/>
+<phrase i="4211" t="DHCP-alternativ att använda"/>
+<phrase i="4212" t="DHCP-omsynkalternativ"/>
+<phrase i="4213" t="E-post: "/>
+<phrase i="4214" t="Mata in detalj"/>
+<phrase i="4215" t="Fel: Tom eller ogiltig inmatning."/>
+<phrase i="4216" t="Ank 10"/>
+<phrase i="4217" t="Ank 11"/>
+<phrase i="4218" t="Ank 12"/>
+<phrase i="4219" t="Ank 7"/>
+<phrase i="4220" t="Ank 8"/>
+<phrase i="4221" t="Ank 9"/>
+<phrase i="4222" t="Anknytning: "/>
+<phrase i="4223" t="Första: "/>
+<phrase i="4224" t="blixt"/>
+<phrase i="4225" t="Tvinga G722"/>
+<phrase i="4226" t="GruppId: "/>
+<phrase i="4227" t="HTTP-begäran avbröts"/>
+<phrase i="4228" t="HTTP-begäran misslyckades"/>
+<phrase i="4229" t="Ignorera"/>
+<phrase i="4230" t="ignorera"/>
+<phrase i="4231" t="Nyckelsystem auto upptäck"/>
+<phrase i="4232" t="Nyckelsystem IP-adress"/>
+<phrase i="4233" t="Sist: "/>
+<phrase i="4234" t="LDAP-fel: kan inte ansluta till server."/>
+<phrase i="4235" t="Linjeknapp 10"/>
+<phrase i="4236" t="Linjeknapp 11"/>
+<phrase i="4237" t="Linjeknapp 12"/>
+<phrase i="4238" t="Linjeknapp 7"/>
+<phrase i="4239" t="Linjeknapp 8"/>
+<phrase i="4240" t="Linjeknapp 9"/>
+<phrase i="4241" t="Mobil: "/>
+<phrase i="4242" t="Namn: "/>
+<phrase i="4243" t="Ingen matchning hittad&#xA;"/>
+<phrase i="4244" t="inga&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Nummer: "/>
+<phrase i="4246" t="Telefonnummer:"/>
+<phrase i="4247" t="Föredra G722"/>
+<phrase i="4248" t="PrvHåll"/>
+<phrase i="4249" t="prvHåll"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Fråga BS-katalog"/>
+<phrase i="4257" t="Begär katalog från Broadsoft-server..."/>
+<phrase i="4258" t="Signalprotokoll"/>
+<phrase i="4259" t="Enkel sökning"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="SPA5X5 Modell"/>
+<phrase i="4263" t="SPCP Autoupptäckt"/>
+<phrase i="4264" t="tillCkat"/>
+<phrase i="4265" t="För många inmatningar&#xA;"/>
+<phrase i="4266" t="För många personliga inmatningar&#xA;"/>
+<phrase i="4267" t="Transportprotokoll"/>
+<phrase i="4268" t="Försöker att logga ut.&#xA;Vänligen vänta..."/>
+<phrase i="4269" t="AnvändarID: "/>
+<phrase i="4270" t="XML-formatfel eller ogiltigt program"/>
+<phrase i="4271" t="XML-tjänster"/>
+<phrase i="4272" t="Av"/>
+<phrase i="4273" t="Peer namn"/>
+<phrase i="4274" t="Peer tel"/>
+<phrase i="4275" t="Peer telefon"/>
+<phrase i="4276" t="Första:"/>
+<phrase i="4277" t="slutSamtal"/><!-- This is a softkey label -->
+<phrase i="4278" t="nyttSamtal"/><!-- This is a softkey label -->
+<phrase i="4279" t="Djup bas"/>
+<phrase i="4280" t="Ny personlig kataloginmatning"/>
+<phrase i="4281" t="Sök personlig katalog"/>
+<phrase i="12000" t="Kör program"/>
+<phrase i="12001" t="Ogiltig IP-adress"/>
+<phrase i="12002" t="Välj linje..."/>
+<phrase i="12003" t="Välj ringsignal..."/>
+<phrase i="12004" t="Auktorisering krävs!"/>
+<phrase i="12005" t="CM-ICMP-Onåbar"/>
+<phrase i="12006" t="Förskjutning(\202T:m:s):"/>
+<phrase i="12007" t="Registrerar"/>
+<phrase i="12008" t="STUN-in"/>
+<phrase i="12009" t="Admin. VLAN-id"/>
+<phrase i="12010" t="Alt. TFTP"/>
+<phrase i="12011" t="Samtalshanterare 1"/>
+<phrase i="12012" t="Standardrouter 1"/>
+<phrase i="12013" t="DHCP&quot;Statisk IP"/>
+<phrase i="12014" t="TFTP-server 1"/>
+<phrase i="12015" t="Webbåtkomst aktiverad"/>
+<phrase i="12016" t="Förfluten tid"/>
+<phrase i="12017" t="Mott"/>
+<phrase i="12018" t="Version"/>
+<phrase i="12019" t="Sänt"/>
+<phrase i="12020" t="Ansluter..."/>
+<phrase i="12021" t="Uppgradering lyckades"/>
+<phrase i="12022" t="MissSamtal"/>
+<phrase i="12023" t="Ring-filen ej tillgänglig!"/>
+<phrase i="12024" t="toner.xml"/>
+<phrase i="12025" t="Registrering avvisad:&#xA;%s"/>
+<phrase i="12026" t="SPCP-registreringskod avvisad [%d]&#xA;...försöker igen"/>
+<phrase i="12027" t="Fel: Hittar inte UC500.&#xA;Kontakta din administratör"/>
+<phrase i="12028" t="10 s"/>
+<phrase i="12029" t="20 s"/>
+<phrase i="12030" t="30 s"/>
+<phrase i="12031" t="Laddar ned&#xA;%s"/>
+<phrase i="12032" t="(Ej match res)"/>
+<phrase i="12033" t="Ett nytt namn"/>
+<phrase i="12034" t="Senaste TFTP-server"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Testa BMP"/>
+<phrase i="12037" t="Rumänska"/>
+<phrase i="12038" t="Djup bas"/>
+<phrase i="12039" t="Nyckelord:"/>
+<phrase i="12040" t="Resultat"/>
+<phrase i="12041" t="Resutat"/>
+<phrase i="12043" t="Logga ut?"/>
+<phrase i="12044" t="Välj ett nummer"/>
+<phrase i="12045" t="parkera"/>
+<phrase i="12046" t="Hemligt nummer"/>
+<phrase i="12047" t="utanför täckningsområde!"/>
+<phrase i="12048" t="sök"/>
+<phrase i="12049" t="Webbserver skrivbar"/>
+<phrase i="12050" t="Spanska-Mexiko"/>
+<phrase i="12051" t="Kan inte ta emot talsvar under ett samtal"/>
+<phrase i="12052" t="Serveradress är fel"/>
+<phrase i="12053" t="Nätverksanslutning misslyckades"/>
+<phrase i="12054" t="Fel talsvarsformat"/>
+<phrase i="12055" t="Begäran misslyckades"/>
+<phrase i="12056" t="Redigera:"/>
+<phrase i="12057" t="Dolt överföringsmål:"/>
+<phrase i="12058" t="brytin"/>
+<phrase i="12059" t="(Ingen ringsignal)"/>
+<phrase i="12060" t="Missade samtal-ruta"/>
+<phrase i="12061" t="BrytIn"/>
+<phrase i="12062" t="passiv"/>
+<phrase i="12063" t="greppad"/>
+<phrase i="12064" t="behandlar"/>
+<phrase i="12065" t="larmar"/>
+<phrase i="12066" t="parkera-privat"/>
+<phrase i="12067" t="aktiv"/>
+<phrase i="12068" t="parkera"/>
+<phrase i="12069" t="brygga-aktiv"/>
+<phrase i="12070" t="brygga-parkera"/>
+<phrase i="12071" t="ringer"/>
+<phrase i="12072" t="används"/>
+<phrase i="12073" t="annan ringn"/>
+<phrase i="12074" t="annan park"/>
+<phrase i="12075" t="igen tjänst"/>
+<phrase i="12076" t="annan-passiv"/>
+<phrase i="12077" t="reserverad"/>
+<phrase i="12078" t="Okonfigurerad"/>
+<phrase i="12079" t="Värderar uppgradering av URL&#xA;Koppla inte ifrån strömmen"/>
+<phrase i="12080" t="Synka pågår"/>
+<phrase i="12081" t="Synka lyckades"/>
+<phrase i="12082" t="Synka lyckades. &#xA;Telefonen startar om. Vänta"/>
+<phrase i="12083" t="Synka misslyckades"/>
+<phrase i="12084" t="Engelska-USA"/>
+<phrase i="12085" t="Konferensbrygga"/>
+<phrase i="12086" t="Anonym"/>
+<phrase i="12087" t="återställ"/>
+<phrase i="12088" t="delad"/>
+<phrase i="12089" t="ansluten"/>
+<phrase i="12090" t="lägg till i kat"/>
+<phrase i="12091" t="parkerar"/>
+<phrase i="12092" t="ogiltig"/>
+<phrase i="12093" t="återupptar"/>
+<phrase i="12094" t="ringer"/>
+<phrase i="12095" t="svarar"/>
+<phrase i="12096" t="Personlig hastighetsratt"/>
+<phrase i="12097" t="XferLx Samtalslista"/>
+<phrase i="12098" t="ConfLx Samtalslista"/>
+<phrase i="12099" t="version"/>
+<phrase i="12100" t="Företag&quot;Grupp&quot;Personal"/>
+<phrase i="12101" t="Katalognamn"/>
+<phrase i="12102" t="Värdserver"/>
+<phrase i="12103" t="Via"/>
+<phrase i="12104" t="Ställ in Agentstatus"/>
+<phrase i="12105" t="Tillgängliga"/>
+<phrase i="12106" t="Omstartshistorik"/>
+<phrase i="12107" t="Standard&quot;HögDef&quot;Standard"/>
+<phrase i="12108" t="Fördröjning nätverksstart"/>
+<phrase i="12109" t="Distinkt signal för samtal väntar"/>
+<phrase i="12110" t="Aktivera LLDP-MED"/>
+<phrase i="12111" t="Registrering avvisad:&#xA;%s"/>
+<phrase i="12112" t="Fel: Registrering Misslyckad.&#xA;Kontakta din administratör..."/>
+<phrase i="12113" t="Nätverksfel upptäckt"/>
+<phrase i="12114" t="Registrerar..."/>
+<phrase i="12115" t="Nätverksfel."/>
+<phrase i="12116" t="Lösenord"/>
+<phrase i="12117" t="Omsynk lyckades. &#xA;Telefonen startar om. Vänta."/>
+<phrase i="12118" t="Handapparatvers."/>
+<phrase i="12119" t="Auto&quot;Original&quot;v3"/>
+<phrase i="12120" t="DHCP misslyckades"/>
+<phrase i="12121" t="Upppgradering"/>
+<phrase i="12122" t="Etablering"/>
+<phrase i="12123" t="Utlöst av användaren"/>
+<phrase i="12124" t="Utlöst av SIP"/>
+<phrase i="12125" t="Systemfel"/>
+<phrase i="12126" t="Otillgänglig länk"/>
+<phrase i="12127" t="System 1"/>
+<phrase i="12128" t="System 2"/>
+<phrase i="12129" t="Duplicerad IP"/>
+<phrase i="12130" t="Säkerhetskopiera IP"/>
+<phrase i="12131" t="System 3"/>
+<phrase i="12132" t="System 4"/>
+<phrase i="12133" t="System 5"/>
+<phrase i="12134" t="System 6"/>
+<phrase i="12135" t="System 7"/>
+<phrase i="12136" t="Utlöst av SIP"/>
+<phrase i="12137" t="Ordbok nedladdad"/>
+<phrase i="12138" t="VLAN ändrat"/>
+<phrase i="12139" t="RC"/>
+<phrase i="12140" t="Fabriksåterställning"/>
+<phrase i="12141" t="Programvaruregistrering"/>
+<phrase i="12142" t="IP ändrad"/>
+<phrase i="12143" t="Ange kontokod"/>
+<phrase i="12144" t="Ange externt nummer"/>
+<phrase i="12145" t="Intern katalog"/>
+<phrase i="12146" t="Extern katalog"/>
+<phrase i="12147" t="Gruppkatalog"/>
+<phrase i="12148" t="Stationskatalog"/>
+<phrase i="12149" t="Extern musik"/>
+<phrase i="12150" t="Sidgrupp 1"/>
+<phrase i="12151" t="Sidgrupp 2"/>
+<phrase i="12152" t="Sidgrupp 3"/>
+<phrase i="12153" t="Sidgrupp 4"/>
+<phrase i="12154" t="Sidgrupp 5"/>
+<phrase i="12155" t="Extern sida"/>
+<phrase i="12156" t="Samtalsexempel"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Systemläge nattuppringning"/>
+<phrase i="12159" t="Samtalet parkeras"/>
+<phrase i="12160" t="Portspegling"/>
+<phrase i="12161" t="Ingen täckning!"/>
+<phrase i="12162" t="XML-service"/>
+<phrase i="12163" t="hebreiska"/>
+<phrase i="12164" t="Samtalet parkeras"/>
+<phrase i="12165" t="Rad"/>
+<phrase i="12166" t="Ändring till eller från LTR och RTL,&#xA; tidigare angiven text kommer att&#xA; tas bort. Vill du fortsätta?"/>
+<phrase i="12167" t="Teckenstorlek"/>
+<phrase i="12168" t="Inst. för överv.konsol"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Def. kortnummer – linje %d"/><!--Def. means define-->
+<phrase i="12170" t="Def. kortnummer – knapp %d"/><!--Def. means define-->
+<phrase i="12171" t="parkera samtal"/>
+<phrase i="12172" t="Väntar på fler tecken...&#xA;Klicka på OK för att fortsätta."/>
+<phrase i="12173" t="Puls"/>
+<phrase i="12174" t="rader. A"/>
+<phrase i="12175" t="rader. L"/>
+<phrase i="12176" t="Vill du radera alla poster?"/>
+<phrase i="12177" t="Visningsläge"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Ank"/>
+<phrase i="12179" t="Båda"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Wi-Fi-konfig"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Ingen Wi-Fi-enhet har hittats."/>
+<phrase i="12182" t="Trådlös profil"/>
+<phrase i="12183" t="Konfiguration av skyddat Wi-Fi"/>
+<phrase i="12184" t="Trådlös status"/>
+<phrase i="12185" t="Grundläggande konfiguration"/>
+<phrase i="12186" t="Säkerhetsläge"/>
+<phrase i="12187" t="Krypteringskonfiguration"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Band"/>
+<phrase i="12190" t="WPA-kryptering"/>
+<phrase i="12191" t="Format för delad nyckel"/>
+<phrase i="12192" t="WPA-nyckel"/>
+<phrase i="12193" t="WEP-autentiseringstyp"/>
+<phrase i="12194" t="WEP-nyckellängd"/>
+<phrase i="12195" t="WEP-nyckel"/>
+<phrase i="12196" t="Profil"/>
+<phrase i="12197" t="PIN-konfiguration"/>
+<phrase i="12198" t="Trådlös PIN-konfiguration påbörjad!"/>
+<!--phrase i="12199" t="För enheter som kräver en PIN ska följande nummer anges: [%s] och sedan ska detta läge väljas."/-->
+<phrase i="12200" t="Trådlös sökning ..."/>
+<phrase i="12201" t="Välj en profil"/>
+<phrase i="12202" t="Tryckknappskonfiguration"/>
+<phrase i="12203" t="Trådlös knapptryckningskonfiguration"/>
+<phrase i="12204" t="Konfiguration av skyddat Wi-Fi"/>
+<phrase i="12205" t="Trådlös status"/>
+<phrase i="12206" t="Nätverksnamn(SSID)"/>
+<phrase i="12207" t="Signalstyrka"/>
+<phrase i="12208" t="Sök"/>
+<phrase i="12209" t="Du måste uppgradera till det senaste fasta WBPN-programmet för att kunna använda denna funktion."/>
+<phrase i="12210" t="Gästinloggning"/>
+<phrase i="12211" t="gstIn"/>
+<phrase i="12212" t="gstUt"/>
+<phrase i="12213" t="(Gäst inne)"/> 
+<phrase i="12214" t="Alla värden kommer att återgå till fabriksinställningarna. Vill du fortsätta?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

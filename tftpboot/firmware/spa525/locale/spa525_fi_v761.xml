@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Finnish</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="Järjestelmää käynnistetään..."/>
+<phrase i="L_S_NET" t="Alustetaan verkkoa..."/>
+<phrase i="L_S_DOWNLOAD" t="Ladataan"/>
+<phrase i="L_S_UPGRADE" t="Päivitetään:"/>
+<phrase i="L_S_UPGRADEFAILED" t="Päivitys epäonnistui."/>
+<phrase i="L_S_RESYNC" t="Uudelleensynkronoidaan:"/>
+<phrase i="L_S_RESYNCFAILED" t="Uudelleensynkronointi epäonnistui"/>
+<phrase i="L_S_CONNECT" t="Yhdistetään..."/>
+<phrase i="L_S_NOCME" t="Virhe: Ei löydy: UCxxx. Ota yhteys järjestelmänvalvojaan."/>
+<phrase i="L_S_REGTOKENREJECT" t="SPCP-rekisterimerkintä hylättiin. Yritetään uudelleen..."/>
+<phrase i="L_S_REGISTERING" t="Rekisteröidään..."/>
+<phrase i="L_S_REGISTERED" t="Rekisteröinti valmis."/>
+<phrase i="L_S_REGREJECT" t="Rekisteröinti hylättiin."/>
+<phrase i="L_S_REGFAILED" t="Rekisteröinti epäonnistui."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_ENTERNUMBER" t="Syötä numero"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="Syötä Soitonsiirron numero (kaikki)"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="Syötä Soitonsiirron numero (varattu)"/>
+<phrase i="L_DS_ENTER_NOANS" t="Syötä Soitonsiirto (ei vastaa) -numero"/>
+<phrase i="L_DS_ENTER_BXFER" t="Syötä valvomattoman siirron kohde"/>
+<phrase i="L_DS_ENTER_PARK" t="Syötä parkkiin siirrettävä numero"/>
+<phrase i="L_DS_ENTER_UNPARK" t="Syötä parkista siirrettävä numero"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="Syötä viitepalvelun kohde"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="Syötä erikoispalvelun kohde"/>
+<phrase i="L_DS_ENTER_MORE" t="Syötä lisää numeroita"/>
+<phrase i="L_DS_ENTER_PICKUP" t="Syötä soitonpoimintanumero"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="Syötä soitonpoimintaryhmä"/>
+<phrase i="L_DS_ENTER_PAGE" t="Syötä sivutuskohde"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="Syötä ulkopuolinen numero"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="Syötä tilikoodi"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="Linja"/>
+<phrase i="L_READY" t="Valmis"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="Rekisteröimätön"/>
+<phrase i="L_CAPPN_DISABLED" t="Ei käytössä"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="Pikavalinta"/>
+<phrase i="L_CAPPN_APP" t="Sovellus"/>
+<phrase i="L_CAPPN_URL" t="Palveluiden URL-osoite"/>
+<phrase i="L_CAPPN_FEAT" t="Ominaisuus"/>
+<phrase i="L_CAPPN_EXTFUNC" t="Laajennettu toiminto"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="Vieras valmis"/>
+<phrase i="CALL_RINGING" t="Soitto"/>
+<phrase i="L_CONNECTED" t="Yhdistetty"/>
+<phrase i="L_NOT_CONNECTED" t="Ei yhdistetty"/>
+<phrase i="L_OK" t="OK"/>
+<phrase i="L_DUPLICATED" t="Monistettu"/>
+<phrase i="CALL_HOLDING" t="Pidossa"/>
+<phrase i="CALL_END" t="Puhelu lopetettu"/>
+<phrase i="CALL_CALLING" t="Soitetaan"/>
+<phrase i="CALL_SEIZED" t="Kaapattu"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="Yritetään asettaa pitoon"/>
+<phrase i="CALL_DIALING" t="Valitaan numero"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="Yritetään jatkaa"/>
+<phrase i="CALL_SHARE" t="Jaa puhelu"/>
+<phrase i="CALL_PAGE" t="Sivu"/>
+<phrase i="CALL_PICKUP" t="Soiton poiminta"/>
+<phrase i="CALL_PICKUPCALL" t="Poimi soitto"/>
+<phrase i="CALL_PICKUPFAILED" t="Poiminta epäonnistui."/>
+<phrase i="CALL_PICKUP_NULL" t="Ei soivia puheluita."/>
+<phrase i="CALL_GPICKUP" t="Soittajaryhmän poiminta"/>
+<phrase i="CALL_GPICKUPSTATION" t="Aseman poiminta"/>
+<phrase i="CALL_ANSWERING" t="Vastataan"/>
+<phrase i="CALL_UNKNOWN" t="Tuntematon"/>
+<phrase i="CALL_ANONYMOUS" t="Nimetön"/>
+<phrase i="CALL_USER" t="Käyttäjä"/>
+<phrase i="CALL_IDLE" t="Vapaa"/>
+<phrase i="CALL_PROGRESSING" t="Edistyy"/>
+<phrase i="CALL_ALERT" t="Hälytys"/>
+<phrase i="CALL_ACTIVE" t="Aktiivinen"/>
+<phrase i="CALL_HELD" t="Pidossa"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="Silta aktiivinen"/>
+<phrase i="CALL_BRIDGE_HELD" t="Silta pidossa"/>
+<phrase i="CALL_FROM" t="Lähettäjä"/>
+<phrase i="CALL_TO" t="Vastaanottaja"/>
+<phrase i="CALL_CALLBACK" t="Takaisinsoitto"/>
+<phrase i="CALL_FORWARD" t="Siirto"/>
+<phrase i="CALL_XFERTO" t="Siirrä:"/>
+<phrase i="CALL_PAGEFROM" t="Sivulta"/>
+<phrase i="CALL_PAGETO" t="Sivulle"/>
+<phrase i="CALL_BY" t="-"/>
+<phrase i="CALL_CALLER" t="Soittaja"/>
+<phrase i="CALL_BUSY" t="Varattu"/>
+<phrase i="CALL_CONGESTION" t="Ruuhka"/>
+<phrase i="CALL_PROCEED" t="Jatka"/>
+<phrase i="CALL_RML" t="Etämonilinja käytössä"/>
+<phrase i="CALL_INVALIDNUM" t="Virheellinen numero"/>
+<phrase i="CALL_INVALID" t="Virhe"/>
+<phrase i="L_GATHERINFO" t="Kerätään tietoja..."/>
+<phrase i="L_FAILED" t="Epäonnistui"/>
+<phrase i="L_Empty" t="Tyhjä"/>
+<phrase i="L_DND" t="Ei saa häiritä"/>
+<phrase i="L_CFWD" t="Siirretyt puhelut"/>
+<phrase i="L_CFWDTO" t="Soitonsiirto:"/>
+<phrase i="L_MissedCall" t="uusi vastaamaton puhelu"/>
+<phrase i="L_MissedCalls" t="uutta vastaamatonta puhelua"/>
+<phrase i="L_RingCallList" t="Soivien puhelujen luettelo"/>
+<phrase i="L_RingStationList" t="Soivien asemien luettelo"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="Virheellinen parkkinumero. \r Anna parkkinumero uudelleen."/>
+<phrase i="L_SECS_LOGIN_OK" t="Kirjautuminen onnistui."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="Kirjautuminen epäonnistui. \rVarmista käyttäjätunnus \rja salasana."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="ACD-käytettävyyden päivitys epäonnistui."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="ACD-käytettävyyden päivitys onnistui."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="Yhdistetään ACD-palvelimeen...."/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="Anna käyttäjätunnus ja salasana."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="Yhdistetään hotellikäytön palvelimeen...."/>
+<phrase i="L_SECS_HOTELING_OK" t="Hotellikäytön kirjautuminen onnistui."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="Hotellikäytön kirjautuminen epäonnistui."/>
+<phrase i="L_ACD_LoginForm" t="ACD-kirjautumislomake"/>
+<phrase i="L_TRANSFERRING" t="Siirretään"/>
+<phrase i="L_XFERFAILED" t="Siirto epäonnistui"/>
+<phrase i="L_LineSeizing" t="Yritetään linjan kaappausta"/>
+<phrase i="L_GatheringCallInfo" t="Kerätään puhelun tietoja"/>
+<phrase i="L_SelectingCall" t="Valitaan puhelu"/>
+<phrase i="L_SelectingStation" t="Valitaan asema"/>
+<phrase i="L_ContactingStunServer" t="Yhdistetään STUN-palvelimeen"/>
+<phrase i="L_CalledPartyRinging" t="Soi puhelun vastaanottajalla"/>
+<phrase i="L_TryingHold" t="Yritetään asettaa pitoon"/>
+<phrase i="L_TringResume" t="Yritetään jatkaa"/>
+<phrase i="L_StunIn" t="STUN:"/>
+<phrase i="L_Shared" t="Jaettu"/>
+<phrase i="L_Conference" t="Neuvottelu"/>
+<phrase i="L_SecureCallIndication" t="Suojatun soiton merkki"/>
+<phrase i="L_SystemBeep" t="Järjestelmän äänimerkki"/>
+<phrase i="L_2ndDial" t="Toinen valinta"/>
+<phrase i="L_OutsideDial" t="Ulkoinen valinta"/>
+<phrase i="L_BluetoothDial" t="Bluetooth-valinta"/>
+<phrase i="L_MessageWaiting" t="Viesti odottaa"/>
+<phrase i="L_RingBack" t="Soita takaisin"/>
+<phrase i="L_OffhookWarning" t="Linja auki -varoitus"/>
+<phrase i="L_Ring" t="Soitto"/>
+<phrase i="L_Alert" t="Hälytys"/>
+<phrase i="L_Ring_hold" t="Soitto - Pito"/>
+<phrase i="L_Ring_Callback" t="Soitto - Takaisinsoitto"/>
+<phrase i="L_Inbound" t="Tulevat"/>
+<phrase i="L_Outbound" t="Lähtevä"/>
+<phrase i="L_Forwarded" t="Siirretty"/>
+<phrase i="L_Transfered" t="Siirretty"/>
+<phrase i="L_Secure" t="Suojattu"/>
+<phrase i="L_CallsList" t="Soittoluettelo"/>
+<phrase i="L_InvalidAcntCode" t="Virheellinen tilikoodi"/>
+<phrase i="L_ServiceUnavailable" t="Palvelu ei käytettävissä"/>
+<phrase i="L_Avail" t="Käytettävissä"/>
+<phrase i="L_Unavail" t="Ei käytettävissä"/>
+<phrase i="L_Wrap" t="Tiivistelmä"/>
+<phrase i="L_Via" t="-"/>
+<phrase i="L_CALL_DTMF_WAIT" t="Odotetaan lisää digitaalista syötettä...\rKun olet valmis, jatka painamalla OK."/>
+<phrase i="L_CALL_PARKED" t="Puhelua asetetaan parkkiin"/>
+<phrase i="L_TO" t="nroon"/>
+<phrase i="L_Hoteling_LoginForm" t="Hotellikäytön kirjautumislomake"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="Käytössä"/>
+<phrase i="CALL_OTHERRESERVED" t="Varattu"/>
+<phrase i="CALL_OTHERIDLE" t="Muu vapaa"/>
+<phrase i="CALL_OTHERNOSERV" t="Ei palvelua"/>
+<phrase i="CALL_OTHERHOLD" t="Muu pito"/>
+<phrase i="CALL_OTHERRING" t="Muu sointi"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="Puhelun tiedot"/>
+<phrase i="T_AB_STSCH_LIST" t="Puhelun tiedot"/>
+<phrase i="L_Name" t="Nimi"/>
+<phrase i="L_WorkPhone" t="Työnumero"/>
+<phrase i="L_HomePhone" t="Kotinumero"/>
+<phrase i="L_MobilePhone" t="Matkapuhelin"/>
+<phrase i="L_RingTone" t="Soittoääni"/>
+<phrase i="L_AT" t="-"/>
+<phrase i="L_PeerName" t="Kumpp. nimi"/>
+<phrase i="L_PeerNumber" t="Kumpp. puh."/>
+<phrase i="L_CallType" t="Tyyppi"/>
+<phrase i="L_CallDuration" t="Kesto"/>
+<phrase i="L_EncCodec" t="Koodausk."/>
+<phrase i="L_DecCodec" t="Purkukood."/>
+<phrase i="L_CallTime" t="Puheluaika"/>
+<phrase i="L_CallID" t="Puhelutunnus"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="Puheluparkin tila"/>
+<phrase i="T_AB_CALLPARK_LIST" t="Puheluparkkiluettelo"/>
+<phrase i="L_ParkingAt" t="Parkki:"/>
+<phrase i="L_ParkingBy" t="Parkki, tekijä:"/>
+<phrase i="CPARK_PROGRESSING" t="Puheluparkin tilan haku käynnissä..."/>
+<phrase i="CPARK_FAILED" t="Puheluparkin tilan pyyntö epäonnistui"/>
+<phrase i="CPARK_EMPTY" t="Puheluparkki tyhjä"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="Tähtikoodin valinta"/>
+<phrase i="callReturnCode" t="Soitto takaisin"/>
+<phrase i="blindXferCode" t="Sokkosiirto"/>
+<phrase i="callBackActCode" t="Takaisinsoitto"/>
+<phrase i="callBackDeactCode" t="Peruuta takaisinsoitto"/>
+<phrase i="forwardAllActCode" t="Soitonsiirto (kaikki)"/>
+<phrase i="forwardAllDeactCode" t="Peruuta Soitonsiirto (kaikki)"/>
+<phrase i="forwardBusyActCode" t="Soitonsiirto (varattu)"/>
+<phrase i="forwardBusyDeactCode" t="Peruuta Soitonsiirto (varattu)"/>
+<phrase i="forwardNoAnsActCode" t="Soitonsiirto (ei vastaa)"/>
+<phrase i="forwardNoAnsDeactCode" t="Peruuta soitonsiirto (ei vastaa)"/>
+<phrase i="blockCIDActCode" t="Estä oman numeron lähetys"/>
+<phrase i="blockCIDDeactCode" t="Peruuta oman nron läh.esto"/>
+<phrase i="blockCIDPerCallActCode" t="Estä seur. oman nron lähetys"/>
+<phrase i="blockCIDPerCallDeactCode" t="Peruuta seur. nron läh.esto"/>
+<phrase i="blockANCode" t="Estä tuntemattomat numerot"/>
+<phrase i="blockANCDeactCode" t="Peruuta tuntemattomien esto"/>
+<phrase i="DNDActCode" t="Ei saa häiritä"/>
+<phrase i="DNDDeactCode" t="Peruuta Ei saa häiritä"/>
+<phrase i="CIDActCode" t="Puhelutunnus"/>
+<phrase i="CIDDeactCode" t="Peruuta puhelutunnus"/>
+<phrase i="secureAllActCode" t="Suojaa kaikki puhelut"/>
+<phrase i="secureAllDeactCode" t="Peruuta kaikki suojaukset"/>
+<phrase i="secureOneCallActCode" t="Suojaa seuraava"/>
+<phrase i="secureOneCallDeactCode" t="Peruuta seuraavan suojaus"/>
+<phrase i="pagingCode" t="Sivutus"/>
+<phrase i="callParkCode" t="Puheluparkki"/>
+<phrase i="callUnparkCode" t="Puhelun siirto parkista"/>
+<phrase i="callPickupCode" t="Soiton poiminta"/>
+<phrase i="groupCallPickupCode" t="Soittajaryhmän poiminta"/>
+<phrase i="mediaLoopBackCode" t="Median takaisinsiirto"/>
+<phrase i="preferG711uCode" t="Suosi: G711U"/>
+<phrase i="forceG711uCode" t="Pakota: G711U"/>
+<phrase i="preferG711aCode" t="Suosi: G711A"/>
+<phrase i="forceG711aCode" t="Pakota: G711A"/>
+<phrase i="preferG723Code" t="Suosi: G723"/>
+<phrase i="forceG723Code" t="Pakota: G723"/>
+<phrase i="preferG726r16Code" t="Suosi: G726r16"/>
+<phrase i="forceG726r16Code" t="Pakota: G726r16"/>
+<phrase i="preferG726r24Code" t="Suosi: G726r24"/>
+<phrase i="forceG726r24Code" t="Pakota: G726r24"/>
+<phrase i="preferG726r32Code" t="Suosi: G726r32"/>
+<phrase i="forceG726r32Code" t="Pakota: G726r32"/>
+<phrase i="preferG726r40Code" t="Suosi: G726r40"/>
+<phrase i="forceG726r40Code" t="Pakota: G726r40"/>
+<phrase i="preferG729aCode" t="Suosi: G729A"/>
+<phrase i="forceG729aCode" t="Pakota: G729A"/>
+<phrase i="preferG722Code" t="Suosi: G722"/>
+<phrase i="forceG722Code" t="Pakota: G722"/>
+<phrase i="preferL16Code" t="Suosi: L16"/>
+<phrase i="forceL16Code" t="Pakota: L16"/>
+<phrase i="preferiLBCCode" t="Suosi: iLBC"/>
+<phrase i="forceiLBCCode" t="Pakota: iLBC"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_UpTime" t="Käytetty aika"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="päivä ja"/> 
+<phrase i="L_DAYS_AND" t="päivää ja"/>
+<phrase i="L_Packets" t="(paketit)"/>
+<phrase i="L_Registered" t="Rekisteröity"/>
+<phrase i="L_notRegistered" t="Ei rekisteröity"/>
+<phrase i="L_notReachable" t="Ei tavoitettavissa"/>
+<phrase i="L_Authenticate" t="Todenna"/>
+<phrase i="L_Succeeded" t="Onnistui"/>
+<phrase i="L_Error" t="Virhe"/>
+<phrase i="L_LastRegAt" t="Edellinen rekisteröinti:"/>
+<phrase i="L_NextRegIn" t="Seuraava rekisteröinti:"/>
+<phrase i="L_Proxy" t="Välityspalvelin"/>
+<phrase i="L_Reason" t="Syy"/>
+<phrase i="L_Status" t="Tila"/>
+<phrase i="L_XMLServices" t="XML-palvelut"/>
+<phrase i="L_Tone" t="Ääni"/>
+<phrase i="L_Type" t="Tyyppi"/>
+<phrase i="L_Number" t="Numero"/>
+<phrase i="L_Enc" t="Kood."/>
+<phrase i="L_Dec" t="Kood.purku"/>
+<phrase i="L_CALL" t="Puhelu"/>
+<phrase i="L_INFO" t="Tiedot"/>
+<phrase i="L_Extension" t="Alanumero"/>
+<phrase i="T_PHN_STATUS" t="Puhelimen tila"/>
+<phrase i="T_PROV_STATUS" t="Valmistelu"/>
+<phrase i="T_PHN_SYS_STATUS" t="Puhelimen tila"/>
+<phrase i="L_Ext1Status" t="Alan. 1 tila"/>
+<phrase i="L_Ext2Status" t="Alan. 2 tila"/>
+<phrase i="L_Ext3Status" t="Alan. 3 tila"/>
+<phrase i="L_Ext4Status" t="Alan. 4 tila"/>
+<phrase i="L_Ext5Status" t="Alan. 5 tila"/>
+<phrase i="L_Line1Status" t="Linjan 1 tila"/>
+<phrase i="L_Line2Status" t="Linjan 2 tila"/>
+<phrase i="L_Line3Status" t="Linjan 3 tila"/>
+<phrase i="L_Line4Status" t="Linjan 4 tila"/>
+<phrase i="L_Line5Status" t="Linjan 5 tila"/>
+<phrase i="DeletePrompt" t="Haluatko poistaa kohteen\r [%s]?"/>
+<phrase i="DeleteListPrompt" t="Haluatko poistaa kohteen\r [%s] historian?"/>
+<phrase i="DeleteAllPrompt" t="Haluatko poistaa\r kaikki tietueet?"/>
+<phrase i="AddPrompt" t="Syöttötiedot ovat puutteelliset. \r Haluatko tallentaa?"/>
+<phrase i="AddNullPrompt" t="Syöttötiedot ovat puutteelliset. "/>
+<phrase i="AddFullPrompt" t="Osoitekirja on täynnä, \rmerkintää ei voi liittää."/>
+<phrase i="UpdatePrompt" t="Syöttötiedot ovat puutteelliset. \r Haluatko päivittää?"/>
+<phrase i="ClearPrompt" t="Haluatko tyhjentää \r tietueen [%s]?"/>
+<phrase i="ClearString" t="Haluatko tyhjentää kohteen \r [%s]?"/>
+<phrase i="Prompt_Logout" t="Kirjaudutaanko ulos?"/>
+<phrase i="Message_Rebooting" t="Käynnistetään uudelleen..."/>
+<phrase i="Message_FactoryReset" t="Tehdasasetusten palautus\r Käynnistetään uudelleen..."/>
+<phrase i="Message_RebootingVoIP" t="Päivitetään ääniosaa..."/>
+<phrase i="Message_CustomReset" t="Mukautettu palautus\r Käynnistetään uudelleen..."/>
+<phrase i="All" t="Kaikki puhelut"/>
+<phrase i="Answered" t="Vastatut puhelut"/>
+<phrase i="Outgoing" t="Soitetut puhelut"/>
+<phrase i="Missed" t="Vastaamattomat puhelut"/>
+<phrase i="AnsweredCallType" t="Vastattu puhelu"/>
+<phrase i="OutgoingCallType" t="Soitettu puhelu"/>
+<phrase i="MissedCallType" t="Vastaamaton puhelu"/>
+<phrase i="GetNews" t="Haetaan uutisia..."/>
+<phrase i="GetWeather" t="Haetaan säätietoja..."/>
+<phrase i="Searching" t="Etsitään..."/>
+<phrase i="Binding" t="Sidotaan..."/>
+<phrase i="CityAccessError" t="Virheitä kaupunkitietojen hakemisessa\r kohteelle [%s]."/>
+<phrase i="NewsAccessError" t="Vastetiedot liian suuret.\r Virhe uutistietojen luvussa\r kohteesta [%s]."/>
+<phrase i="NewsAccessError1" t="Virhe uutistietojen luvussa\r kohteesta [%s]."/>
+<phrase i="WeatherAccessError" t="Virhe säätietojen luvussa\r kaupungille\r[%s]."/>
+<phrase i="WeatherSearchError" t="Virheitä kaupunkitietojen\r haussa.\r Tarkista verkko\r tai syötearvo."/>
+<phrase i="WeatherDupInfo" t="Lisättävä syöte on jo\r olemassa."/>
+<phrase i="RebootPrompt" t="Haluatko käynnistää\r järjestelmän uudelleen?"/>
+<phrase i="FactoryResetPrompt" t="Haluatko ottaa järjestelmän \r tehdasasetukset käyttöön?"/>
+<phrase i="CustomResetPrompt" t="Tarkistetaanko päivitykset \r mukautusprofiilille? \r (toimii taustalla)"/>
+<phrase i="FirmwareUpgradePrompt" t="Haluatko päivittää \r järjestelmän?"/>
+<phrase i="MSG_InvalidPasswordData" t="Salasana ei ole kelvollinen."/>
+<phrase i="Label_Day" t="Päivä"/>
+<phrase i="CertInstall" t="Asennettu"/>
+<phrase i="CertNotInstall" t="Ei asennettu"/>
+<phrase i="L_Network_Type" t="Verkkotyyppi"/>
+<phrase i="L_Network_Statistics" t="Verkkotilastot"/>
+<phrase i="L_Address_Type" t="Osoitetyyppi"/>
+<phrase i="L_Gateway" t="Oletusreititin"/>
+<phrase i="L_MAC_Address" t="MAC-osoite"/>
+<phrase i="T_DEVICE_INFO" t="Tuotetiedot"/>
+<phrase i="L_Product_Name" t="Tuotteen nimi"/>
+<phrase i="L_Serial_Number" t="Sarjanumero:"/>
+<phrase i="L_Software_Version" t="Ohjelmistoversio"/>
+<phrase i="L_Hardware_Version" t="Laiteversio"/>
+<phrase i="L_Certificate" t="Varmenne"/>
+<phrase i="L_CustomizationInfo" t="Mukauttaminen"/>
+<phrase i="L_Asset_ID" t="Resurssitunnus"/>
+<phrase i="L_DHCP_Server" t="DHCP-palvelin"/>
+<phrase i="L_TFTP_Server_1" t="TFTP-palvelin 1"/>
+<phrase i="L_Last_TFTP_Server" t="Edellinen TFTP-palvelin"/>
+<phrase i="L_Host_Name" t="Isäntänimi"/>
+<phrase i="L_Domain_Name" t="Toimialue"/>
+<phrase i="L_CallManager_1" t="Soitonhallinta 1"/>
+<phrase i="L_Directories_URL" t="Hakemistojen URL-osoite"/>
+<phrase i="L_Services_URL" t="Palveluiden URL-osoite"/>
+<phrase i="L_Messages_URL" t="Viestien URL-osoite"/>
+<phrase i="L_Authentication_URL" t="Todennuksen URL-osoite"/>
+<phrase i="L_User_Locale" t="Käyttäjän alueasetukset"/>
+<phrase i="L_Network_Locale" t="Verkon alueasetukset"/>
+<phrase i="L_Status_Messages" t="Tilasanomat"/>
+<phrase i="T_PERIPHERAL_STATUS" t="Lisälaitteen tila"/>
+<phrase i="L_USB_Status" t="USB-asema"/>
+<phrase i="L_xmit" t="läh."/>
+<phrase i="L_recv" t="vast."/>
+<phrase i="L_Multicast" t="mcst"/>
+<phrase i="L_EthPackets" t="Ethernet: Paketit (tavut)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: Paketit (tavut)"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="Puh.väl. kons. 1"/>
+<phrase i="L_Sidecar2_Status" t="Puh.väl. kons. 2"/>
+<phrase i="L_DISCONNECTED" t="Katkaistu"/>
+<phrase i="L_Wireless" t="Langaton"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="Avain"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="Kyllä"/>
+<phrase i="L_No" t="Ei"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="Muokkaa omaa osoitemerkintää"/>
+<phrase i="T_AB_Add_Entry" t="Lisää oma osoitemerkintä"/>
+<phrase i="T_AB_Search" t="Hae osoitemerkintä"/>
+<phrase i="T_AB_Select" t="Valitse osoitemerkintä"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="Puhelun aika"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="Vastaamaton puhelu"/>
+<phrase i="L_PhoneNo" t="Puhelinnumero"/>
+<phrase i="L_CallAt" t="Puhelu:"/>
+<phrase i="L_Duration" t="Kesto"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="Muokkaa pikavalintaa"/>
+<phrase i="T_SD_List" t="Pikavalintaluettelo"/>
+<phrase i="L_SpeedDialNo" t="Pikavalintanro"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="Valitse soittoääni"/>
+<phrase i="T_RT_Select_USB" t="Valitse soittoääni USB-asemasta"/>
+<phrase i="T_RT_Select_Slot" t="Valitse äänen tallennuspaikka"/>
+<phrase i="T_RT_Not_Installed" t="Ei asennettu"/>
+<phrase i="T_RT_USER_1" t="Käyttäjä 1"/>
+<phrase i="T_RT_USER_2" t="Käyttäjä 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="Tiedot ja asetukset"/>
+<phrase i="T_ST_BlueTooth" t="Bluetooth-määritys"/>
+<phrase i="T_ST_BlueTooth_Plus" t="Bluetooth-kuulokkeet"/>
+<phrase i="L_UserPref" t="Käyttäjämääritykset"/>
+<phrase i="L_CallRecord" t="Puhelun tallennusmääritykset"/>
+<phrase i="L_CallRecordMode" t="Äänen tallennustila"/>
+<phrase i="L_CallRecordAudioPath" t="Äänen tallennuspolku"/>
+<phrase i="L_CallRecordBeep" t="Tallennusäänimerkki"/>
+<phrase i="L_CallRecords" t="Tietueet"/>
+<phrase i="L_CallRecordsPlayer" t="Puhelun tallennukset"/>
+<phrase i="L_Directory" t="Hakemistot"/>
+<phrase i="L_CallHistory" t="Puheluhistoria"/>
+<phrase i="L_SpeedDial" t="Pikavalinnat"/>
+<phrase i="L_VideoMonitoring" t="Videovalvonta"/>
+<phrase i="L_MP3Player" t="MP3-soitin"/>
+<phrase i="L_PictureViewer" t="Kuvakatselutoiminto"/>
+<phrase i="L_Messaging" t="Viestit"/>
+<phrase i="L_WebApplication" t="WWW-sovellukset"/>
+<phrase i="L_CMEServices" t="CME-palvelut"/>
+<phrase i="L_CallPreferences" t="Puheluasetukset"/>
+<phrase i="L_ConnectionSetting" t="Yhteysasetukset"/>
+<phrase i="L_NetworkConfig" t="Verkkomääritykset"/>
+<phrase i="L_AudioPreferences" t="Ääniasetukset"/>
+<phrase i="L_RingSetting" t="Soittoasetukset"/>
+<phrase i="L_ScreenPreferences" t="Näyttöasetukset"/>
+<phrase i="L_Administration" t="Laitehallinta"/>
+<phrase i="T_ST_IP_Address" t="Staattisen IP:n asetukset"/>
+<phrase i="L_IPAddress" t="IP-osoite"/>
+<phrase i="L_SubnetMask" t="Aliverkon peite"/>
+<phrase i="L_GatewayAddress" t="Yhdysk. osoite"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="T_ST_Admin" t="Hallinta"/>
+<phrase i="T_ST_PartitionList" t="Valitse osio"/>
+<phrase i="L_About" t="Tietoja"/>
+<phrase i="L_SetPassword" t="Aseta salasana"/>
+<phrase i="L_DateTime" t="Päivämäärä/Aika"/>
+<phrase i="L_Language" t="Kieli"/>
+<phrase i="L_Reboot" t="Kytke virta uudelleen"/>
+<phrase i="L_FactoryReset" t="Tehdasasetusten palautus"/>
+<phrase i="L_CustomReset" t="Mukautettu palautus"/>
+<phrase i="L_ProfileRule" t="Profiilin sääntö"/>
+<phrase i="L_CallControlSettings" t="Puhelun hallinta-asetukset"/>
+<phrase i="L_SignalingProtocol" t="Signaaliprotokolla"/>
+<phrase i="L_AutoDetectSPCP" t="SCCP-aut.tunnistus"/>
+<phrase i="T_ST_Audio" t="Ääniasetukset"/>
+<phrase i="L_PrefAudioDevice" t="Ensisijainen Äänilaite"/>
+<phrase i="L_SwapLRChannel" t="Vaihda V/O-kanavat"/>
+<phrase i="L_EnableStereo" t="Kuuloketyyppi"/>
+<phrase i="L_PhRingTone" t="Oletussoitto"/>
+<phrase i="L_Ext1RingTone" t="Alan. 1 - Soittoääni"/>
+<phrase i="L_Ext2RingTone" t="Alan. 2 - Soittoääni"/>
+<phrase i="L_Ext3RingTone" t="Alan. 3 - Soittoääni"/>
+<phrase i="L_Ext4RingTone" t="Alan. 4 - Soittoääni"/>
+<phrase i="L_Ext5RingTone" t="Alan. 5 - Soittoääni"/>
+<phrase i="T_ST_CallForward" t="Soitonsiirron asetukset"/>
+<phrase i="L_ForwardAllNumbers" t="Kaikkien siirron nro"/>
+<phrase i="L_ForwardBusyNumber" t="Varatt. siirron nro"/>
+<phrase i="L_ForwardNoAnsNumber" t="Ei vastaavien siirron nro"/>
+<phrase i="L_ForwardNoAnsDelay" t="Ei vastaav. siirron nro, viive"/>
+<phrase i="L_WiFiConfiguration" t="Wi-Fi-määritykset:"/>
+<phrase i="L_ConnectionType" t="Yhteystyyppi"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="Autom. yhdistys"/>
+<phrase i="L_Headset" t="Kuulokkeet"/>
+<phrase i="L_WebServer" t="WWW-palvelin"/>
+<phrase i="L_DiscoveryAddress" t="Tunnistusosoite"/>
+<phrase i="L_LVSAutoDiscovery" t="Avainjärj. automaattitunnistus"/>
+<phrase i="L_LVSProxyAddress" t="Avainjärjestelmän IP-osoite"/>
+<phrase i="L_DHCPOption" t="Käytettävä DHCP-asetus"/>
+<phrase i="L_TranProtocol" t="Siirtoprotokolla"/>
+<phrase i="L_NetworkStatus" t="Verkon tila"/>
+<phrase i="L_RebootHistory" t="Uudelleenkäynnistyshistoria"/>
+<phrase i="L_IPStatus" t="IP-tila"/>
+<phrase i="T_ST_SetTime" t="Aseta nykyinen aika"/>
+<phrase i="L_AB" t="Oma osoitekirja"/>
+<phrase i="L_XMLDirectory" t="Yrityshakemisto (XML)"/>
+<phrase i="L_LDAPDirectory" t="Yrityshakemisto (LDAP)"/>
+<phrase i="L_LVSDirectory" t="Yrityksen hakemisto"/>
+<phrase i="L_BroadsoftDirectory" t="Broadsoft-hakemisto"/>
+<phrase i="L_XMLService" t="Cisco XML -palvelut"/>
+<phrase i="T_ST_CallHistories" t="Puheluhistoriat"/>
+<phrase i="T_ST_Language" t="Kielivalinta"/>
+<phrase i="T_ST_Password" t="Aseta salasana"/>
+<phrase i="L_OldPassword" t="Vanha salasana"/>
+<phrase i="L_NewPassword" t="Uusi salasana"/>
+<phrase i="L_ReEnterNewPassword" t="Anna salasana uudelleen"/>
+<phrase i="L_CallForwarding" t="Soitonsiirto"/>
+<phrase i="L_CallWaiting" t="Puhelu odottaa"/>
+<phrase i="L_VoiceMail" t="Puheposti"/>
+<phrase i="L_BlockCallerID" t="Estä nron lähetys"/>
+<phrase i="L_BlockAnonymCall" t="Estä tuntemattomat"/>
+<phrase i="L_SecureCall" t="Suojattu soitto"/>
+<phrase i="L_DialAssist" t="Numerontäydennys"/>
+<phrase i="L_AutoAnswerPage" t="Autom. vastaussivu"/>
+<phrase i="L_MissCallShortCut" t="Vastaamatt. pikaval."/>
+<phrase i="L_MissCallBanner" t="Vastaamatt. ilmoit."/>
+<phrase i="L_EnabledScreenSaver" t="Näytönsäästäjä"/>
+<phrase i="L_Constrast" t="Näytön kirkkaus"/>
+<phrase i="L_WallPaper" t="Taustakuva"/>
+<phrase i="L_Theme" t="Teema"/>
+<phrase i="T_ST_ScreenSaver" t="Näytönsäästäjän asetukset"/>
+<phrase i="L_ScreenSaverType" t="Näytönsäästäjän tyyppi"/>
+<phrase i="L_TriggerInterval" t="Käynnistysväli (s)"/>
+<phrase i="L_RefreshInterval" t="Päivitysväli (s)"/>
+<phrase i="L_BackLight" t="Taustavalo"/>
+<phrase i="L_BackLightTimer" t="Taustavalon ajastin (s)"/>
+<phrase i="L_Contrast" t="Kirkkaus"/>
+<phrase i="T_StarCodeList" t="Valitse tähtikoodi"/>
+<phrase i="T_Select_Image" t="Valitse kuva"/>
+<phrase i="T_ST_Time" t="Aika-asetukset"/>
+<phrase i="L_TimeZone" t="Aikavyöhyke"/>
+<phrase i="L_DayLightSaving" t="Kesäaika"/>
+<phrase i="L_AutomaticMode" t="Automaattitila"/>
+<phrase i="L_NTPServer1" t="NTP-palvelin 1"/>
+<phrase i="L_NTPServer2" t="NTP-palvelin 2"/>
+<phrase i="L_SetCurrentTimeManually" t="Aseta aika manuaalisesti"/>
+<phrase i="T_ST_TimeZone" t="Valitse aikavyöhyke"/>
+<phrase i="T_ST_VPN" t="VPN-asetukset"/>
+<phrase i="L_VPNServer" t="VPN-palvelin"/>
+<phrase i="L_UserName" t="Käyttäjänimi"/>
+<phrase i="L_VPNTunnelGroup" t="Tunneliryhmä"/>
+<phrase i="L_VPNStatus" t="VPN-tila"/>
+<phrase i="L_ConnectOnBootup" t="Liitä käynnistett."/>
+<phrase i="L_Connect" t="Ota yhteys käyttöön"/>
+<phrase i="L_Weather" t="Sää"/>
+<phrase i="L_News" t="Uutiset"/>
+<phrase i="L_City" t="Postitoimipaikka"/>
+<phrase i="L_ZipCode" t="Postinumero"/>
+<phrase i="L_CityZipCode" t="Postitoimipaikka tai postinumero"/>
+<phrase i="T_WeatherSearch" t="Anna postitoimipaikka tai postinro"/>
+<phrase i="T_WeatherList" t="Postitoimipaikkaluettelo"/>
+<phrase i="T_WeatherInfo" t="Säätiedot"/>
+<phrase i="L_LastUpdateOn" t="Viimeinen päivitys - "/>
+<phrase i="L_CurrentCondition" t="Nykyinen tila:"/>
+<phrase i="L_Forecast" t="Ennuste:"/>
+<phrase i="T_NewsCategories" t="Uutisluokat"/>
+<phrase i="T_NewsCategory" t="[% $category %]"/>
+<phrase i="L_DHCP_Address_Released" t="DHCP-osoite julkistettu"/>
+<phrase i="L_Erase_Config" t="Poista määritys"/>
+<phrase i="L_Alternate_TFTP" t="Muu TFTP"/>
+<phrase i="L_WebServerWritable" t="WWW-palvelin kirjoitettavissa"/>
+<phrase i="M_ABEmpty" t="Osoitekirja on tyhjä."/>
+<phrase i="M_ABDuplicate" t="Kaikki tietueet ovat identtisiä."/>
+<phrase i="M_InvalidVLAN" t="VLAN-tunnus [%d] on virheellinen.\rArvon tulisi olla \r1 - 4094."/>
+<phrase i="M_InvalidDataportVLAN" t="PC-portin VLAN-tunnus [%d] on virheellinen.\rArvon tulisi olla \r1 - 4094."/>
+<phrase i="M_InvalidDataportPriority" t="Prioriteetti [%d] on virheellinen.\rArvon tulisi olla \r0 - 7."/>
+<phrase i="M_InvalidMAddr" t="Tunnistusosoite \r[%s] on virheellinen.\rArvon tulisi olla muotoa \raaa.bbb.ccc.ddd:pppp"/>
+<phrase i="M_RebootInvalid" t="Puheluita käynnissä.\r Uudelleenkäynnistys ei ole sallittu."/>
+<phrase i="M_FactoryResetInvalid" t="Puheluita käynnissä.\r Tehdasasetusten palautus ei ole sallittua."/>
+<phrase i="M_CustomResetInvalid" t="Puheluita käynnissä.\r Mukautettu palautus ei ole sallittu."/>
+<phrase i="M_OperationInvalid" t="Puheluita käynnissä.\r Toiminto ei ole sallittu."/>
+<phrase i="M_ProfileRuleInvalid" t="Puheluita käynnissä.\r Uudelleensynkronointi profiilisäännön\ravulla ei ole sallittu."/>
+<phrase i="M_UpgradeStart" t="Päivitys alkaa."/>
+<phrase i="M_UpgradeInProgress" t="Päivitetään... Älä sammuta virtaa."/>
+<phrase i="M_DownloadProgress" t="Ladataan osoitemerkinnät..."/>
+<phrase i="M_UpgradeCompleted" t="Päivitys valmis."/>
+<phrase i="M_UpgradeAborted" t="Käyttäjä keskeytti päivityksen."/>
+<phrase i="M_UpgradeAbortedWithError" t="Päivitys päättyi virheeseen."/>
+<phrase i="M_UpgradeCompletedReboot" t="Päivitys valmis.\rKäynnistetään uudelleen..."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="Päivitys päättyi virheeseen.\rKäynnistetään uudelleen..."/>
+<phrase i="T_ContactVcardFullAddressBook" t="Osoitekirja on täynnä, \rvcard-tietoja ei voi tuoda."/>
+<phrase i="T_ContactVcardInvalid" t="Virheellinen vCard-muoto"/>
+<phrase i="T_Login_Form" t="Kirjautumislomake"/>
+<phrase i="L_Pending" t="Odottaa"/>
+<phrase i="L_Customized" t="Mukautettu"/>
+<phrase i="L_Open" t="Avoin"/>
+<phrase i="L_Hour" t="Tunti"/>
+<phrase i="L_Minute" t="Minuutti"/>
+<phrase i="L_Second" t="Sekunti"/>
+<phrase i="L_HourShort" t="Tunti"/>
+<phrase i="L_MinuteShort" t="Min"/>
+<phrase i="L_SecondShort" t="S"/>
+<phrase i="M_InvalidRefreshTime" t="Päivitysajan \r on oltava 1 tai suurempi."/>
+<phrase i="M_InvalidBackLightTime" t="Taustavalon käynnistysajan \r on oltava 30 tai suurempi."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="Näytönsäästäjän käynnistysajan \r on oltava 30 tai suurempi."/>
+<phrase i="M_InvalidContrastLevel" t="Kirkkauden on oltava \r 1 - 15."/>
+<phrase i="L_DeepBass" t="Syvä basso"/>
+<phrase i="L_HandsetVersion" t="Luurin versio"/>
+<phrase i="L_ACD_AGENT_STATE" t="ACD-agentin tila"/>
+<phrase i="L_Att_Cons_Pref" t="Puh.väl. konsolin määritykset"/>
+<phrase i="L_Attendant_Console_Pref" t="Puh.väl. konsolin määritykset"/>
+<phrase i="L_LCD_Contrast" t="Kontrasti"/>
+<phrase i="L_Font_Size" t="Fonttikoko"/>
+<phrase i="L_Display_Mode" t="Näyttömoodi"/>
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="Sisäinen hakemisto"/>
+<phrase i="L_EXTERNAL_DIR" t="Ulkoinen hakemisto"/>
+<phrase i="L_GROUPS_DIR" t="Ryhmähakemisto"/>
+<phrase i="L_STATIONS_DIR" t="Asemahakemisto"/>
+<phrase i="L_Auto_Attnd" t="Automaattinen puhelunvälittäjä"/>
+<phrase i="L_Int_Music" t="Sisäinen musiikki"/>
+<phrase i="L_ExternalMusic" t="Ulkoinen musiikki"/>
+<phrase i="L_Station" t="Asema"/>
+<phrase i="L_PageGroup1" t="Sivuryhmä 1"/>
+<phrase i="L_PageGroup2" t="Sivuryhmä 2"/>
+<phrase i="L_PageGroup3" t="Sivuryhmä 3"/>
+<phrase i="L_PageGroup4" t="Sivuryhmä 4"/>
+<phrase i="L_PageGroup5" t="Sivuryhmä 5"/>
+<phrase i="L_Page_Grp" t="Sivuryhmä"/>
+<phrase i="L_ExternalPage" t="Ulkoinen sivu"/>
+<phrase i="L_CallPark" t="puheluparkki"/>
+<phrase i="L_PickUp" t="poiminta"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="Organisaatio"/>
+<phrase i="L_FirstName" t="Etunimi"/>
+<phrase i="L_LastName" t="Sukunimi"/>
+<phrase i="LDAP_DISPLAY_NAME" t="Nimi"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="Työpuhelin"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="Matkapuhelin"/>
+<phrase i="LDAP_ACCESS_ERROR" t="LDAP-virhe: Yhteyttä palvelimeen\r ei voi muodostaa"/>
+<phrase i="LDAP_InvalidInput" t="LDAP-virhe: Virheellinen\r syöttöarvo"/>
+<phrase i="LDAP_NoFilter" t="Määritä suodatin."/>
+<phrase i="LDAP_TooManyResults" t="Liian monta vastaavuutta,\r määritä haku uudelleen"/>
+<phrase i="LDAP_NoResult" t="Ei vastaavuuksia"/>
+<phrase i="NoRingTone" t="Ei soittoääntä"/>
+<phrase i="S_Failed" t="Haku epäonnistui."/>
+<phrase i="S_Sys_Err" t="Järjestelmävirhe."/>
+<phrase i="T_LDAP_ResultList" t="LDAP-yrityshakemiston tulosluettelo"/>
+<phrase i="T_LDAPQueryForm" t="LDAP-kyselylomake"/>
+<phrase i="T_LDAPAddrEntry" t="Yrityshakemiston (LDAP) osoitemerkintä"/>
+<phrase i="T_LDAPQuery" t="Kyselyn LDAP-palvelin"/>
+<phrase i="L_SimpleSearch" t="Yksinkertainen haku"/>
+<phrase i="L_AdvSearch" t="Tarkennettu haku"/>
+
+<!-- #############  #Broadsoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="Broadsoft-hakemiston virhe:\r Yhteyttä palvelimeen ei voi muodostaa."/>
+<phrase i="BSDIR_InvalidInput" t="Broadsoft-hakemiston virhe:\r Virheellinen syöttöarvo."/>
+<phrase i="BSDIR_TooManyResults" t="Liian monta vastaavuutta löytyi.\r Tarkenna hakua"/>
+<phrase i="T_BSDIR_CONFIG" t="Broadsoft-hakemiston määritys"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="Hae omasta hakemistosta"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="Hae ryhmä hakemistosta"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="Hae yrityshakemistosta"/>
+<phrase i="T_BSDIR_HTTP_AUTH_ERR" t="Valtuutusvirhe:\r Tarkista salasana."/>
+<phrase i="L_HOST_SERVER" t="Isäntäpalvelin"/>
+<phrase i="L_DIR_NAME" t="Hakemiston nimi"/>
+<phrase i="T_Configure" t="Määritä"/>
+
+<phrase i="T_BSDIR_SEARCH" t="Hae Broadsoft-hakemistosta"/>
+<phrase i="T_SIMPLE_SEARCH" t="Yksinkertainen haku"/>
+<phrase i="T_ADVANCED_SEARCH" t="Tarkennettu haku"/>
+<phrase i="L_BSDIR_LNAME" t="Sukunimi"/>
+<phrase i="L_BSDIR_FNAME" t="Etunimi"/>
+<phrase i="L_BSDIR_GROUPID" t="Ryhmän tunnus"/>
+<phrase i="L_BSDIR_DEPT" t="Osasto"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="Os."/>
+<phrase i="L_BSDIR_EMAIL" t="Sähköposti"/>
+
+<phrase i="T_LVSDIR_REQ" t="Pyydetään LVS-hakemistoa palvelimesta..."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="LVS-hakemiston pyyntö epäonnistui."/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="Neuv.lin"/>
+<phrase i="S_XferLx" t="Srä lnja"/>
+<phrase i="S_Redial" t="Soita"/>
+<phrase i="S_Contacts" t="Hakem."/>
+<phrase i="S_Forward" t="Siirrä"/>
+<phrase i="S_DND" t="ESH"/>
+<phrase i="S_NForward" t="Ei-siirt"/>
+<phrase i="S_NDND" t="- ESH"/>
+<phrase i="S_LCR" t="Soitto tak."/>
+<phrase i="S_Missed" t="Vastaam."/>
+<phrase i="S_Login" t="Kirj.Si."/>
+<phrase i="S_Logout" t="Kirj.Ul."/>
+<phrase i="S_Avail" t="Käyt."/>
+<phrase i="S_UnAvail" t="Ei käyt."/>
+<phrase i="S_UnPark" t="Parkista"/>
+<phrase i="S_PickUp" t="Poiminta"/>
+<phrase i="S_Mobility" t="Siirrettävyys"/>
+<phrase i="S_GrPickup" t="Ryhmäp."/>
+<phrase i="S_NewCall" t="Uusi puh"/>
+<phrase i="S_Barge" t="Häiriö"/>
+<phrase i="S_Resume" t="Jatka"/>
+<phrase i="S_Answer" t="Vastaa"/>
+<phrase i="S_Hold" t="Pito"/>
+<phrase i="S_EndCall" t="Lopeta"/>
+<phrase i="S_Transfer" t="Siirrä"/>
+<phrase i="S_CONF" t="Neuv."/>
+<phrase i="S_BXfer" t="SokSrt"/>
+<phrase i="S_Park" t="Parkki"/>
+<phrase i="S_Join" t="Liity"/>
+<phrase i="S_Update" t="Päivitä"/>
+<phrase i="S_Dial" t="Valinta"/>
+<phrase i="S_delChar" t="P. mer."/>
+<phrase i="S_AbbrDial" t="Lyh. val."/>
+<phrase i="S_Back" t="Edellinen"/>
+<phrase i="S_Save" t="Tallenna"/>
+<phrase i="S_Delete" t="Poista"/>
+<phrase i="S_Add" t="Lisää"/>
+<phrase i="S_Option" t="Asetus"/>
+<phrase i="S_EditDial" t="Mkk val"/>
+<phrase i="S_EditDial1" t="Muokkaa valintaa"/>
+<phrase i="S_AddNew" t="Lisää uusi"/>
+<phrase i="S_Copy" t="Kopioi"/>
+<phrase i="S_Paste" t="Liitä"/>
+<phrase i="S_Search" t="Etsi"/>
+<phrase i="S_Select" t="Valitse"/>
+<phrase i="S_Default" t="Oletus"/>
+<phrase i="S_Add2SpeedDial" t="Lisää pikavalintaan"/>
+<phrase i="S_SendMessage" t="Lähetä viesti"/>
+<phrase i="S_InputAll" t="Syötä kaikki"/>
+<phrase i="S_InputNum" t="Syötä num."/>
+<phrase i="S_InputIP" t="Syötä IP"/>
+<phrase i="S_InputHebrew" t="Syötä hepreaa"/>
+<phrase i="S_InputStarCode" t="Anna tähtikoodi"/>
+<phrase i="S_Clear" t="Tyhjennä"/>
+<phrase i="S_DeleteList" t="Poista luettelo"/>
+<phrase i="S_DeleteAll" t="Poista kaikki"/>
+<phrase i="S_DeleteEntry" t="Poista merkintä"/>
+<phrase i="S_Add2AB" t="Lisää osoitekirjaan"/>
+<phrase i="S_Next" t="Seuraava"/>
+<phrase i="S_Zoom" t="Zoomaa"/>
+<phrase i="S_Previous" t="Edell."/>
+<phrase i="S_Previous1" t="Edellinen"/>
+<phrase i="S_Up" t="Ylös"/>
+<phrase i="S_Down" t="Alas"/>
+<phrase i="S_SelectFromAB" t="Valitse osoitekirjasta"/>
+<phrase i="S_Play" t="Toista"/>
+<phrase i="S_Exit" t="Lopeta"/>
+<phrase i="S_Resync" t="Synkron."/>
+<phrase i="S_SetTime" t="Tallenna"/>
+<phrase i="S_Set" t="Aseta"/>
+<phrase i="S_MoveUp" t="Siirrä ylös"/>
+<phrase i="S_MoveDown" t="Siirrä alas"/>
+<phrase i="S_Edit" t="Muokkaa"/>
+<phrase i="S_View" t="Näytä"/>
+<phrase i="S_Enable_Disable" t="Ota käyttöön / Poista käytöstä"/>
+<phrase i="S_Refresh" t="Päivitä"/>
+<phrase i="S_List" t="Luettelo"/>
+<phrase i="S_Stop" t="Pysäytä"/>
+<phrase i="S_AddList" t="Lisää luettelo"/>
+<phrase i="S_Scan" t="Tarkista"/>
+<phrase i="S_Connect" t="Yhdistä"/>
+<phrase i="S_Disconnect" t="Katkaise yhteys"/>
+<phrase i="S_ConnectAll" t="Yhdistä kaikki"/>
+<phrase i="S_Detail" t="Tiedot"/>
+<phrase i="S_Cancel" t="Peruuta"/>
+<phrase i="S_OK" t="OK"/>
+<phrase i="S_Unpair" t="Pura pariliitos"/>
+<phrase i="S_SelectAll" t="Val. kki"/>
+<phrase i="S_ClearAll" t="Tyh. kki"/>
+<phrase i="S_More" t="Lisää"/>
+<phrase i="S_Format" t="Muoto"/>
+<phrase i="S_Monitor" t="Näyttö"/>
+<phrase i="S_VCARD" t="Tuonti"/> 
+<phrase i="S_FromUsb" t="USB:ltä"/> 
+<phrase i="S_Retry" t="Yritä uudelleen"/> 
+<phrase i="S_FLASH" t="Flash"/> 
+<phrase i="S_STARCODE" t="*Koodi"/> 
+<phrase i="S_IP" t="IP"/> 
+<phrase i="S_NUM" t="Num."/> 
+<phrase i="S_ALPHA" t="Alpha"/> 
+<phrase i="S_Audio" t="Ääni"/> 
+<phrase i="S_Video" t="Video"/> 
+<phrase i="S_Call" t="Puhelu"/> 
+<phrase i="S_Submit" t="Lähetä"/> 
+<phrase i="S_CallRecordStart" t="Tall. nyt"/> 
+<phrase i="S_CallRecordStop" t="Lopeta tall."/> 
+<phrase i="S_Ignore" t="Ohita"/> 
+<phrase i="S_Override" t="Korvaa"/>
+<phrase i="S_AState" t="Agent. tila"/>
+<phrase i="S_HotelingGuestIn" t="VierSis"/>
+<phrase i="S_HotelingGuestOut" t="VierUlos"/>
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="Fahrenheit"/>
+<phrase i="OL_Celsius" t="Celsius"/>
+<phrase i="OL_MONO" t="Mono"/>
+<phrase i="OL_STEREO" t="Stereo"/>
+<phrase i="OL_InProgress" t="Käynnissä"/>
+<phrase i="OL_DnsResolution" t="DNS-ratkaisu"/>
+<phrase i="OL_NoServerName" t="Ei palvelimen nimeä"/>
+<phrase i="OL_InvalidServer" t="Virheellinen tai rajoitettu palvelin"/>
+<phrase i="OL_NoResources" t="Resurssit käytetty"/>
+<phrase i="OL_FileNotFound" t="Tiedostoa ei löytynyt"/>
+<phrase i="OL_CorruptFile" t="Vioittunut tiedosto"/>
+<phrase i="OL_EncrptionKey" t="Salausavain"/>
+<phrase i="OL_InvalidURL" t="Virheellinen URL-osoite"/>
+<phrase i="OL_Phone" t="Puhelin"/>
+<phrase i="OL_Handsfree" t="Handsfree"/>
+<phrase i="OL_Both" t="Molemmat"/>
+<phrase i="OL_DownloadFailed" t="Lataus epäonnistui"/>
+<phrase i="OL_DownloadConflict" t="%d uutta merkintää\r %d merkinnässä on ristiriitoja"/>
+<phrase i="OL_DownloadTypeError" t="Bluetooth ei ole handsfree-tila."/>
+<phrase i="OL_DownloadFull" t="Osoitekirja on täynnä, \rtietoja ei voi ladata."/>
+<phrase i="OL_ParsingError" t="Jäsennysvirhe säännössä"/>
+<phrase i="OL_Ended" t="Päättynyt"/>
+<phrase i="OL_StaticIP" t="St. IP"/>
+<phrase i="OL_BlackBackground" t="Musta tausta"/>
+<phrase i="OL_GrayBackground" t="Harmaa tausta"/>
+<phrase i="OL_BlackGrayRotation" t="Musta/harmaa kierto"/>
+<phrase i="OL_PictureRotation" t="Kuvan kääntö"/>
+<phrase i="OL_DigitalFrame" t="Digitaalinen kehys"/>
+<phrase i="OL_DownloadPicture" t="Lataa kuva"/>
+<phrase i="OL_Clock" t="Kello"/>
+<phrase i="OL_Speaker" t="Kaiutin"/>
+<phrase i="OL_Headset" t="Kuulokkeet"/>
+<phrase i="OL_Handset" t="Luuri"/>
+<phrase i="OL_Ringer" t="Soittokello"/>
+<phrase i="OL_LightBlue" t="Vaaleansininen"/>
+<phrase i="OL_LightGray" t="Vaaleanharmaa"/>
+<phrase i="OL_LightGreen" t="Vaalean vihreä"/>
+<phrase i="OL_None" t="Ei mitään"/>
+<phrase i="OL_Simple" t="Yksinkertainen"/>
+<phrase i="OL_PlainTLS" t="Normaali TLS"/>
+<phrase i="OL_64HEX" t="10 x heksad."/>
+<phrase i="OL_128HEX" t="26 x heksad."/>
+<phrase i="OL_64ASCII" t="5 x ascii"/>
+<phrase i="OL_128ASCII" t="13 x ascii"/>
+<phrase i="OL_Enterprise" t="Yritys"/>
+<phrase i="OL_Group" t="Ryhmä"/>
+<phrase i="OL_Personal" t="Oma"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_Disabled" t="Ei käytössä"/>
+<!-- Option Label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="Autom."/>
+<phrase i="OL_Original" t="Alkuperäinen"/>
+<phrase i="OL_v3" t="v3"/>
+<phrase i="OL_Name" t="Nimi"/>
+<phrase i="OL_Ext" t="Alanumero"/>
+<phrase i="OL_Both" t="Molemmat"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############--> 
+<phrase i="T_WlanProfileList" t="Valitse profiili"/>
+<phrase i="T_WlanScanList" t="Valitse yhdistettävä profiili"/>
+<phrase i="T_WlanServerCaList" t="Palvelinsertifikaatin tiedosto"/>
+<phrase i="T_WlanClientCaList" t="Asiakassertifikaatin tiedosto"/>
+<phrase i="T_WlanProfileReplace" t="Valitse korvattava profiili"/>
+<phrase i="T_WlanWpsSelect" t="Valitse WPS-tila"/>
+<phrase i="WirelessStatusDetail" t="Langattomat tiedot"/>
+<phrase i="T_Profile" t="Profiili"/>
+<phrase i="T_WlanPartitionLsit" t="Valitse osio"/>
+<phrase i="L_InvalidProfile" t="Virheellinen profiili"/>
+<phrase i="L_Disable" t="Poista käytöstä"/>
+<phrase i="L_WpaEnt" t="WPA Enterprise"/>
+<phrase i="L_Wpa2Ent" t="WPA2 Enterprise"/>
+<phrase i="L_Connection" t="Yhteys"/>
+<phrase i="L_SecurityMode" t="Suojaustila"/>
+<phrase i="L_ProfileName" t="Profiilin nimi"/>
+<phrase i="L_NetworkName" t="Verkon nimi (SSID)"/>
+<phrase i="L_CipherType" t="Cipher-tyyppi"/>
+<phrase i="L_KeyId" t="Oletuslähetysavain"/>
+<phrase i="L_KeyLen" t="Avaimen pituus"/>
+<phrase i="L_Key1" t="Avain 1"/>
+<phrase i="L_Key2" t="Avain 2"/>
+<phrase i="L_Key3" t="Avain 3"/>
+<phrase i="L_Key4" t="Avain 4"/>
+<phrase i="L_PskKey" t="WPA, jaettu avain"/>
+<phrase i="L_EapType" t="EAP-tyyppi"/>
+<phrase i="L_UserId" t="Käyttäjätun."/>
+<phrase i="L_Password" t="Salasana"/>
+<phrase i="L_CheckSvrCa" t="Tark. palvelinvarmenne"/>
+<phrase i="L_On" t="Päällä"/>
+<phrase i="L_Off" t="Poissa päältä"/>
+<phrase i="L_LinkSignal" t="Signaalin vahvuus"/>
+<phrase i="L_NoiseLevel" t="Kohinataso"/>
+<phrase i="L_Bssid" t="Liitetyn yhteyspisteen MAC-osoite"/>
+<phrase i="L_Frequency" t="Taajuus"/>
+<phrase i="L_DataEncryption" t="Tietojen salaus"/>
+<phrase i="L_EncryptionType" t="Salaustyyppi"/>
+<phrase i="L_TransmitRate" t="Lähetysnopeus"/>
+<phrase i="L_Channel" t="Kanava"/>
+<phrase i="L_RootCa" t="Päävarmenne"/>
+<phrase i="L_UserCa" t="Käyttäjän varmenne"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="Oman avaimen salasana"/>
+<phrase i="L_AnonyId" t="Tuntematon tunnus"/>
+<phrase i="L_TtlsInnerProto" t="TTLS-protokolla"/>
+<phrase i="L_PeapInnerProto" t="PEAP-protokolla"/>
+<phrase i="L_WlanConfiguration" t="Langaton määritys"/>
+<phrase i="L_WlanWpsPbc" t="Painikemääritys"/>
+<phrase i="L_WlanWpsPbcText1" t="Laitteille, joissa on Wi-Fi Protected"/>
+<phrase i="L_WlanWpsPbcText2" t="Setup (WPS) -painike, paina laitteen"/>
+<phrase i="L_WlanWpsPbcText3" t="painiketta ja valitse sitten tämä tila."/>
+<phrase i="L_WlanWpsPin" t="PIN-määritys"/>
+<phrase i="L_WlanWpsPinText1" t="Jos laite tarvitsee PIN-koodin, kirjoita"/>
+<phrase i="L_WlanWpsPinText2" t="seuraava numero: [%s] ja"/>
+<phrase i="L_WlanWpsPinText3" t="valitse sitten tämä tila."/>
+<phrase i="L_WlanProfile" t="Langaton profiili"/>
+<phrase i="L_WlanAddCurrent" t="Lisää yhteys profiilina"/>
+<phrase i="L_WlanStatus" t="Langaton tila"/>
+<phrase i="L_WlanWps" t="Wi-Fi Protected Setup"/>
+<phrase i="WlanMsgPfLock" t="Langaton profiili on lukittu"/>
+<phrase i="WlanMsgPfNameLenNull" t="Virheellinen profiilin nimi"/>
+<phrase i="WlanMsgPfNameLenOver" t="Profiilin nimi on liian pitkä"/>
+<phrase i="WlanMsgSssidLenNull" t="Virheellinen SSID"/>
+<phrase i="WlanMsgSssidLenOver" t="SSID on liian pitkä"/>
+<phrase i="WlanMsgWepNoValue" t="Aseta avaimen tunnukseksi %d, \r millä ei ole avainarvoa.."/>
+<phrase i="WlanMsgWepWrongLen" t="Avaimen %d pituus on virheellinen."/>
+<phrase i="WlanMsgWepWrongHex" t="Avaimessa %d on lukuja, jotka eivät ole heksadesimaalilukuja."/>
+<phrase i="WlanMsgPsKeyLenLess" t="WPA:n jaettu avain on liian lyhyt."/>
+<phrase i="WlanMsgPsKeyLenOver" t="WPA:n jaettu avain on liian pitkä"/>
+<phrase i="WlanMsgIdentityLenNull" t="Virheellinen henkilöllisyys"/>
+<phrase i="WlanMsgIdentityLenOver" t="Henkilöllisyys on liian pitkä"/>
+<phrase i="WlanMsgServerCaWrong" t="Virheellinen palvelimen varmenne"/>
+<phrase i="WlanMsgClientCaWrong" t="Virheellinen asiakkaan varmenne"/>
+<phrase i="WlanMsgPasswordLenNull" t="Virheellinen salasana"/>
+<phrase i="WlanMsgPasswordLenOver" t="Salasana on liian pitkä"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="Ei tuntematonta henkilöllisyyttä"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="Tuntematon henkilöllisyys \r on liian pitkä"/>
+<phrase i="WlanMsgOverMaxPFNum" t="Luettelo on täynnä. Haluatko korvata \r toisen profiilin?"/>
+<phrase i="WlanMsgUseWpsPbc" t="Käytä WPS-painiketta yhdistämiseen"/>
+<phrase i="WlanMsgUseWpsPin" t="Käytä WPS:n PIN-koodia yhdistämiseen"/>
+<phrase i="WlanNoProfileConnect" t="Ei yhdistettävää profiilia"/>
+<phrase i="WlanNoScanProfileAdd" t="Ei lisättävää tarkistusprofiilia"/>
+<phrase i="WlanProfileExistReplace" t="Profiili, jolla on SSID %s \r on jo olemassa. \r Haluatko korvata tämän \r profiilin?"/>
+<phrase i="WlanNotEnable" t="Wi-Fi:n on oltava käytössä \r yhdistämistä varten."/>
+<phrase i="WlanNotConnect" t="Wi-Fi ei muodostanut yhteyttä, lisääminen \r profiililuetteloon ei onnistunut"/>
+<phrase i="WlanProfileExist" t="Profiili, jolla on SSID [%s]\r on jo olemassa."/>
+<phrase i="WlanNotInterface" t="Ethernet on katkaistava, \r jotta Wi-Fi:ä voi käyttää."/>
+<phrase i="WlanMsgAssociating" t="Yhdistetään SSID: [%s]"/>
+<phrase i="WlanMsgFailAssociation" t="SSID-liitos epäonnistui: \r[%s] \rjatka yrittämistä taustalla."/>
+<phrase i="WlanProfileAlreadyConnected" t="Tämä profiili on jo yhdistetty."/>
+<phrase i="WlanWpsFailConnect" t="WPS-yhdistäminen epäonnistui, \r jatka yrittämistä taustalla."/>
+<phrase i="WlanAddIntoProfile" t="Haluatko lisätä tämän asetuksen \r profiiliksi?"/>
+<phrase i="WlanScanning" t="Langaton tarkistus..."/>
+<phrase i="WlanWpsConnect" t="WPS-määritykset ovat valmiit.\r Voit lisätä asetuksen\r profiiliin Langattoman tila \r -sivulta."/>
+<phrase i="WlanConnectAll1" t="Haluatko käyttää profiililuetteloa \r yhdistämiseen?"/>
+<phrase i="WlanConnectAll2" t="Haluatko purkaa \r nykyisen yhteyden ja käyttää \r profiililuetteloa yhdistämiseen?"/>
+<phrase i="WlanMsgConnectAll" t="Käytä profiililuetteloa yhdistämiseen"/>
+<phrase i="WlanMsgFailConnectAll" t="Yhdistäminen epäonnistui, \r jatka yrittämistä taustalla."/>
+<phrase i="WlanAddCurrent" t="Haluatko lisätä nykyisen \r yhteyden profiiliksi?"/>
+<phrase i="FileLengthOver" t="Tiedoston nimi on pidempi kuin %d."/>
+<phrase i="WlanProfileConnectDisable" t="Wi-Fi-profiili on poistettu käytöstä"/>
+<phrase i="WlanProfileEnable" t="Haluatko ottaa tämän \r profiilin käyttöön?"/>
+<phrase i="WlanProfileDisable" t="Haluatko poistaa tämän \r profiilin käytöstä?"/>
+<phrase i="WlanEmptyScanningResult" t="Ei tarkistustulosta, \r yritä uudelleen"/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="Valitse nimi"/>
+<phrase i="T_MP3SourceList" t="Lisää nimi toistolistaan"/>
+<phrase i="T_MP3PartitionList" t="Valitse osio kappaleiden hakemiseksi"/>
+<phrase i="MP3MsgOverMaxSongNum" t="Luettelossa voi olla korkeintaan %d merkintää."/>
+<phrase i="MP3MsgEntryNotExist" t="Merkintää ei ole olemassa."/>
+<phrase i="MP3MsgAPendingCall" t="Musiikkia ei voi toistaa puhelun aikana."/>
+<phrase i="MP3MsgFileNameOverLen" t="%d tiedoston nimi on \r pidempi kuin %d."/>
+<phrase i="MP3MsgGetList" t="Haetaan luetteloa USB-asemasta...."/>
+<phrase i="MP3MsgSaveRing" t="Tallennetaan soittoa USB-asemasta..."/>
+<phrase i="MP3MsgFileIllegle" t="Tiedostomuoto ei ole kelvollinen."/>
+<phrase i="MP3DeletePrompt" t="Haluatko poistaa\r [%s]\r toistoluettelosta?"/>
+<phrase i="MP3MsgSelectNull" t="Toistoluetteloon lisättävää \r kappaletta ei ole valittu."/>
+<phrase i="MP3MsgSelectOverMax" t="Olet valinnut yli \r %d kappaletta!"/>
+<phrase i="MP3UsbFolderNotPresent" t="Kansiota %s ei ole olemassa. \rTarkista, että mp3-tiedostoja on \rmp3-kansiossa USB-laitteessa."/>
+<phrase i="MP3UsbFileNotPresent" t="Ei tiedostoja kansiossa %s. \rTarkista, että USB-laitteen \rkansiossa on mp3-tiedostoja."/>
+<phrase i="MP3DeleteAllPrompt" t="Haluatko poistaa\r kaikki kappaleet toistoluettelosta?"/>
+<phrase i="MP3MsgCalcTime" t="Lasketaan toistoaikaa..."/> 
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="Käytetään Ethernetiä"/>
+<phrase i="NC_TITLE_WIRELESS" t="Käytetään langatonta"/>
+<phrase i="NC_NOT_AVAILABLE" t="Ei käytettävissä"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="Yhdistetään yhteyspisteeseen..."/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="Tarkistetaan Ethernet-yhteyttä..."/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="Langaton yhteys katkesi."/>
+<phrase i="NC_L2_FAIL_WIRED" t="Ethernet-yhteys katkesi."/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="Langaton yhteys on kunnossa."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="Ethernet-yhteys on kunnossa."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="Käytä staattista IP.osoitetta"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="Haetaan IP-osoitetta DHCP:n avulla..."/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="Haetaan IP-osoitetta PPPOE:n avulla..."/>
+<phrase i="NC_L3_FAIL_STATIC" t="IP-osoitteen määritys epäonnistui."/>
+<phrase i="NC_L3_FAIL_DHCP" t="IP-osoitteen määritys DHCP:n avulla epäonnistui."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="IP-osoitteen määritys PPPOE:n avulla epäonnistui."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="Aseta IP-osoite"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="Hae IP-osoite"/>
+<phrase i="NC_WAIT_VLAN_ID" t="Haetaan VLAN-tunnusta..."/>
+<phrase i="NC_NO_PROFILE_LIST" t="Ei profiililuetteloa"/>
+<phrase i="NC_VPN_CONNECTING" t="Luo VPN-yhteys."/>
+<phrase i="NC_VPN_CONNECTED" t="VPN-yhteys on kunnossa."/>
+<phrase i="NC_VPN_FAILED" t="VPN-yhteyden luominen epäonnistui."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="USB-laitetta ei löytynyt.\r Aseta USB-laite \r puhelimen USB-aukkoon."/>
+<phrase i="UsbFolderNotPresent" t="Kansiota %s ei \r ole olemassa."/>
+<phrase i="UsbFileNotPresent" t="Ei tiedostoa \r kansiossa %s."/>
+<phrase i="UsbFileNotPresent2" t="[%s]\r tiedostoa ei ole olemassa."/>
+<phrase i="UsbUnknownError" t="USB, tuntematon virhe"/>
+<phrase i="UsbPartitionName" t="Osio"/>
+<phrase i="UsbDevicePluged" t="USB-laite on yhdistetty.\r Odota hetki, \r laitetta otetaan käyttöön."/>
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USB-laite on nyt täynnä.\r Puhelutietue on pysäytetty.\r Aseta uusi \r ja aloita tallennus uudelleen."/>
+<phrase i="UsbDeviceIsFull" t="USB-laite on nyt täynnä.\r Aseta uusi \r ja aloita tallennus uudelleen."/>
+<phrase i="CallRecordMaxSingleFileReached" t="Yksittäisen tallennuksen enimmäispituus saavutettu.\r Aloita uusi tietue."/>
+<phrase i="CallRecordMaxFileNumberReached" t="Tietueiden enimmäismäärä saavutettu,\r poista tietueita \r ja aloita tallennus uudelleen."/>
+<phrase i="CallRecordListDeletePrompt" t="Haluatko varmasti poistaa tämän \r tietueen:"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="Haluatko todella poistaa kaikki \rtietueet?"/>
+<phrase i="CallRecordNameInvalid" t="Puhelutietueen tiedostonimi on virheellinen."/>
+<phrase i="CallRecordLenInvalid" t="Puhelutietueen pituutta ei voi laskea."/>
+<phrase i="CallRecordFoldInvalid" t="Puhelutietueen hakemisto on virheellinen."/>
+<phrase i="CallRecordUnknownError" t="Puhelutietueen tuntematon virhe"/>
+<phrase i="CallRecordMsgAPendingCall" t="Tietuetta ei voi toistaa puhelun aikana."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Bluetoothin on oltava käytössä\r ennen: %s."/>
+<phrase i="BT_Discovering" t="Haku (%s) on käynnissä."/>
+<phrase i="BT_Discovered" t="Löydettiin %s."/>
+<phrase i="BT_DiscoveredFaild" t="Haku (%s) epäonnistui."/>
+<phrase i="BT_DeviceNotFound" t="Bluetooth-laitetta ei löytynyt."/>
+<phrase i="BT_Pairing" t="Pariliitoksen muodostus (%s) on käynnissä."/>
+<phrase i="BT_Paired" t="%s muodosti pariliitoksen onnistuneesti."/>
+<phrase i="BT_PairingFailed" t="Pariliitos epäonnistui."/>
+<phrase i="BT_Abort" t="Yhdistäminen kohteeseen %s lopetettiin."/>
+<phrase i="BT_UnPairPrompt" t="Haluatko katkaista yhteyden\r [%s]?"/>
+<phrase i="BT_PinCodePrompt" t="Kirjoita PIN-tunnus."/>
+<phrase i="BT_ScanningPrompt" t="Tarkistustilassa.\r Odota 10 sekuntia ja suorita uudelleen."/>
+<phrase i="BT_ConnectingPrompt" t="Yhteyden muodostustilassa,\r odotetaan 10 sekuntia ja suoritetaan uudelleen."/>
+<phrase i="BT_DownloadingPrompt" t="Lataustilassa, \r odotetaan minuutti ja suoritetaan uudelleen."/>
+<phrase i="BT_CallActivePrompt" t="callAtcive-tilassa,\r odotetaan puhelun päättymistä."/>
+<phrase i="BT_OP_FAIL" t="Toiminto epäonnistui."/>
+<phrase i="BT_Dev_Connected" t="Laite on jo yhdistetty."/>
+<phrase i="BT_Search" t="Hae Bluetooth-laitteita"/>
+<phrase i="BT_Connecting_Dev" t="Yhdistetään Bluetooth-laitteeseen "/>
+<phrase i="BT_HeadsetNamePrompt" t="The Headset Name cannot \r be empty."/>
+<phrase i="BT_PhoneModeError" t="Puhelintila ei voi muodostaa yhteyttä \r matkapuhelimeen."/>
+<phrase i="BT_HandsfreeModeError" t="Handsfree-tila ei voi muodostaa \r yhteyttä kuulokkeeseen."/>
+<phrase i="BT_DownloadUpdate" t="Päivitetään omaa osoitekirjaa."/>
+<phrase i="BT_DownloadAddFull" t="Osoitekirja on täynnä, \rmerkintöjä ei voi lisätä uudelleen. \r Lisää %d uutta merkintää \r Ohita %d uutta merkintää"/>
+<phrase i="BT_DownloadConflictFull" t="Osoitekirja on täynnä, \rmerkintöjä ei voi lisätä uudelleen. \r Päivitä %d ristiriitaista merkintää \r Lisää %d uutta merkintää \r Ohita %d uutta merkintää"/>
+<phrase i="BT_OverMaxProfileNum" t="Luettelo on täynnä. Haluatko korvata \r toisen profiilin?"/>
+<phrase i="T_BluetoothProfileList" t="Valitse Bluetooth-profiili"/>
+<phrase i="T_BluetoothProfilePlace" t="Valitse korvattava Bluetooth-profiili"/>
+<phrase i="T_BTMode" t="Bluetooth-tila"/>
+<phrase i="T_BTProfile" t="Bluetooth-profiilit"/>
+<phrase i="T_BTHeadsetName" t="Kuulokkeen nimi"/>
+<phrase i="T_BTLoadPhoneBook" t="Lataa puhelinluettelo"/>
+<phrase i="T_BTShowPhoneBook" t="Näytä puhelinluettelo"/>
+<phrase i="T_BTChoosePair" t="Valitse Bluetooth-laite, johon muodostetaan pariliitos"/>
+<phrase i="T_BTEditProfile" t="Muokkaa Bluetooth-profiilia"/>
+<phrase i="L_BTDeviceName" t="Laitteen nimi"/>
+<phrase i="L_BTPINCODE" t="PIN-koodi"/>
+<phrase i="L_BTConnectAuto" t="Yhdistä automaattisesti"/>
+<phrase i="T_BTDownLoad" t="Lataa"/>
+<phrase i="T_BTReplace" t="Korvaa"/>
+<phrase i="CALL_SERVNOTAVAIL" t="Palvelu ei käytettävissä"/>
+<phrase i="CALL_NETERR" t="Verkkovirhe"/>
+<phrase i="CALL_NORES" t="Ei vastausta"/>
+<phrase i="CALL_PROTOERR" t="Protokollavirhe"/>
+<phrase i="CALL_NOLINE" t="Ei linjaa"/>
+<phrase i="CALL_TIMEOUT" t="Aikakatkaisu"/>
+<phrase i="S_PHOLD" t="Yks. pito"/>
+<phrase i="CALL_PHELD" t="Yksityisesti pidossa"/>
+<phrase i="S_IGNORE" t="Ohita"/>
+<phrase i="LINE_INUSE" t="Käytössä"/>
+<phrase i="CALL_SERVUNAVAIL" t="Palvelu ei käytettävissä"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="YYYY"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="hh"/>
+<phrase i="Label_mm" t="mm"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_STARTUP_DELAY" t="Käynnistysviive"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="VLAN ID"/>
+<phrase i="L_VLAN_PRIPORITY" t="VLAN Priority"/>
+<phrase i="L_DATAPORT_VLAN" t="PC Port VLAN"/>
+<phrase i="L_DATAPORT_VLANID" t="PC Port VLAN ID"/>
+<phrase i="L_DATAPORT_PRIORITY" t="PC Port Priority"/>
+<phrase i="OL_NO_LIMIT" t="No Limit"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_MD5-Digest" t="MD5-Digest"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c Ã¥ ä 2 A B C Ã… Ä "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o ö 6 M N O Ã– "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+ 
+<!-- #############  #language #############-->
+<phrase i="L_English" t="English"/>
+<phrase i="L_English-US" t="English-US"/>
+<phrase i="L_English-Canada" t="English-Canada"/>
+<phrase i="L_English-Australia" t="English-Australia"/>
+<phrase i="L_English-Britain" t="English-Britain"/>
+<phrase i="L_English-NewZealand" t="English-New Zealand"/>
+<phrase i="L_French" t="French"/>
+<phrase i="L_French-Canada" t="French-Canada"/>
+<phrase i="L_Spanish" t="Spanish"/>
+<phrase i="L_Spanish-Mexico" t="Spanish-Mexico"/>
+<phrase i="L_Italian" t="Italian"/>
+<phrase i="L_German" t="German"/>
+<phrase i="L_Norwegian" t="Norwegian"/>
+<phrase i="L_Portuguese" t="Portuguese"/>
+<phrase i="L_Polish" t="Polish"/>
+<phrase i="L_Dutch" t="Dutch"/>
+<phrase i="L_Swedish" t="Swedish"/>
+<phrase i="L_Russian" t="Russian"/>
+<phrase i="L_Turkish" t="Turkish"/>
+<phrase i="L_Slovak" t="Slovak"/>
+<phrase i="L_Hungarian" t="Hungarian"/>
+<phrase i="L_Croatian" t="Croatian"/>
+<phrase i="L_Bulgarian" t="Bulgarian"/>
+<phrase i="L_Czech_Republic" t="Czech Republic"/>
+<phrase i="L_Slovenian" t="Slovenian"/>
+<phrase i="L_Danish" t="Danish"/>
+<phrase i="L_Hebrew" t="heprea"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="Do you want to copy \r demo data?"/>
+<phrase i="DemoDataClearPrompt" t="Do you want to clear \r demo data?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP Phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware Upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2013"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All Rights Reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP Phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi Device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless Enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless Status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi Protected Setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth Status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth Profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade File Select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware Upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi Profile Name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push Button Configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN Configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching Available Sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please Wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC Address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal Level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to Personal Address Book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to Personal Address Book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with Personal Address Book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the Conflict List"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the Personal Address Book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth Type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth Device Name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices...."/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi Profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait..."/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting Wireless Profile...."/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth Device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone Number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start Time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End Time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call History Type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add New Wi-Fi Profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site Survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit All Changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel Settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-Scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware Upgrade Window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth Devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from\r webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space Not Allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password Not Valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available Speed Dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current Personal Directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, Each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension Name of Certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or Server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User Certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid Certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter Pin."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit \r WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as Profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of Personal Address Book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of Call History entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of Received Calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of Placed Calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of Missed Calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth History entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi Profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected Personal Address Book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected Call History entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected Received Calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected Placed Calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected Missed Calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth History entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi Profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to Personal Address Book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal Address Book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Call History"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed Dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi Profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth Device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth Device List"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security Mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher Type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default Transmit Key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key Length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA Shared Key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root Certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User Certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of Private Key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS Inner Protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP Inner Protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile Name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect Automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="Pin"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone No"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work No"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile No"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home No"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring Tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add Personal Address Entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA Enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 Enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP Type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check Server Certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received Calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed Calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed Calls"/>
+<phrase i="S_Pg_C_All" t="All Calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth Device List"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth Devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi Connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import Address Book from Mobile Phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="Kameran numero"/>
+<phrase i="L_Camera_Name" t="Kameran nimi"/>
+<phrase i="L_Camera_Ip" t="IP-osoite"/>
+<phrase i="L_Camara_UserName" t="Käyttäjänimi"/>
+<phrase i="L_Camera_Password" t="Salasana"/>
+<phrase i="L_Camera_Port" t="Portin numero"/>
+<phrase i="L_Camera_Resolution" t="Tarkkuus"/>
+<phrase i="L_Camera_Quality" t="Videon laatu"/>
+<phrase i="L_Camera_FrameRate" t="Kuvanopeus"/>
+<phrase i="L_Camera_Status" t="Tila"/>
+<phrase i="T_Camera_Entry" t="Kameran tiedot"/>
+<phrase i="T_Camera_List" t="Valitse valvottava kamera"/>
+<phrase i="CamInvalidParam" t="Kameran [%s]\r parametrit eivät kelpaa."/>
+<phrase i="CamMissingURL" t="Kameran [%s]\r käytön URL-osoite puuttuu."/>
+<phrase i="CamMissingUserName" t="Kameran [%s]\r käyttäjänimi puuttuu."/>
+<phrase i="CamMissingPassword" t="Kameran [%s]\r salasana puuttuu."/>
+<phrase i="CamInvalidURL" t="Kameran [%s]\r käytön URL-osoite on virheellinen."/>
+<phrase i="CamInvalidProtocol" t="Kameran [%s]\r protokolla ei ole RTSP."/>
+<phrase i="CamNoVideo" t="Ei videota."/>
+<phrase i="CamConnecting" t="Yhdistetään..."/>
+<phrase i="CamConnectError" t="Ei videota – yhdistäminen epäonnistui."/>
+<phrase i="CamAccessError" t="Ei videota – Käyttö estetty."/>
+<phrase i="CamResolveError" t="Ei videota – Osoitetta ei voi ratkaista."/>
+<phrase i="CamResolutionError" t="Ei videota – Tarkkuus on liian suuri."/>
+<phrase i="CamBusy" t="Kamera on varattu.\r Odota ja yritä uudelleen."/>
+<phrase i="CamActivateDoorOK" t="Avaa ovi OK\r kohteelle [%s]."/>
+<phrase i="CamActivateDoorFailed" t="Avaa ovi epäonnistui\r kohteelle [%s]."/>
+<phrase i="CamFeatureNotAvailable" t="Tämä ominaisuus ei ole käytettävissä, \r kun Bluetooth on käytössä"/>
+<phrase i="P_CamAccess" t="Käytetään videota"/>
+
+<phrase i="OL_160_120" t="160 * 120"/>
+<phrase i="OL_320_240" t="320 * 240"/>
+<phrase i="OL_640_480" t="640 * 480"/>
+<phrase i="OL_Very_Low" t="Hyvin matala"/>
+<phrase i="OL_Low" t="Matala"/>
+<phrase i="OL_Normal" t="Normaali"/>
+<phrase i="OL_High" t="Korkea"/>
+<phrase i="OL_Very_High" t="Hyvin korkea"/>
+<phrase i="OL_10fps" t="10 fps"/>
+<phrase i="OL_15fps" t="15 fps"/>
+<phrase i="OL_20fps" t="20 fps"/>
+
+<!-- #############  #SMS #############-->
+<phrase i="T_SMS_Title" t="SMS-postiviestit"/>
+<phrase i="L_SMS_Create_Msg" t="Luo SMS-viesti"/>
+<phrase i="L_SMS_Inbox" t="SMS: Saapuneet"/>
+<phrase i="L_SMS_Outbox" t="SMS: Lähtevät"/>
+<phrase i="L_SMS_Saved" t="SMS: Tallennetut"/>
+<phrase i="SMSInbox_Title" t="Vastaanotetut SMS-viestit"/>
+<phrase i="SMSOutBoxType_Title" t="Lähetetyt SMS-viestit"/>
+<phrase i="SMSSavedType_Title" t="Tallennetut SMS-viestit"/>
+<phrase i="SMSEditTitle_Title" t="Tallenna SMS-viesti"/>
+<phrase i="SMSMessage_Title" t="SMS-viesti"/>
+<phrase i="SMSRecipient_Title" t="Vastaanottaja"/>
+<phrase i="S_Reply" t="Vastaa"/>
+<phrase i="S_Send" t="Lähetä"/>
+<phrase i="S_EditTitle" t="Nimi"/>
+<phrase i="CreateSMS" t="Luo SMS-viesti"/>
+<phrase i="EditSMS" t="Muokkaa SMS-viestiä"/>
+<phrase i="SMS_RecNULLPrompt" t="Ei löydetty lähetysluetteloa"/>
+<phrase i="SMS_SendOverMaxPFNum" t="Liikaa lähetysluettelon valintaa"/>
+<phrase i="SMS_TitileLenNull" t="Virheellinen nimi"/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="Matkapuhelimen alatunniste"/>
+<phrase i="L_ExtMob_LoginForm" t="Matkapuh. alatun. kirjautumislomake"/>
+<phrase i="L_EM_LOGIN_TRY" t="Yritetään kirjautumista. Odota hetki..."/>
+<phrase i="L_EM_LOGIN_OK" t="Kirjautuminen onnistui. Saatetaan käynnistää uudelleen..."/>
+<phrase i="L_EM_LOGIN_FAILED" t="Kirjautuminen epäonnistui. Varmista käyttäjätunnus, salasana ja profiilin säännöt."/>
+<phrase i="L_EM_LOGOUT_TRY" t="Yritetään uloskirjautumista. Odota hetki..."/>
+<phrase i="L_EM_LOGOUT_OK" t="Uloskirjautuminen onnistui. Saatetaan käynnistää uudelleen..."/>
+<phrase i="L_EM_LOGOUT_FAILED" t="Uloskirjautuminen epäonnistui. Käynnistetään uudelleen..."/>
+<phrase i="L_EM_LOGIN_WARNING" t="Anna käyttäjätunnus ja salasana."/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="Haluatko tehdä\r palautuksen?"/>
+<phrase i="L_RecoveryReset" t="Palautus"/>
+<phrase i="L_FirmwareUpgrade" t="Laiteohjelmiston päivitys"/>
+<phrase i="T_ST_Diag" t="Diagnosoinnin palautus"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.bin ei löytynyt.\rKopioi laiteohjelmistokuva\rkohteeseen /image/spa525g.bin."/>
+<phrase i="L_Picture" t="Kuva"/>
+
+<!-- #############  #VPN #############-->
+<phrase i="VPNConnecting" t="VPN:ää yhdistetään..."/>
+<phrase i="VPNDisconnecting" t="VPN-yhteyttä katkaistaan..."/>
+<phrase i="VPNConnectSuccess" t="VPN-istunto muodostettu."/>
+<phrase i="VPNDisconnectSuccess" t="VPN-istunto päättynyt."/>
+<phrase i="VPNConnectFailed" t="VPN-yhteys epäonnistui."/>
+<phrase i="L_VPNStatus" t="VPN-tila"/>
+<phrase i="L_VPNConnected" t="VPN yhdistetty"/>
+<phrase i="L_BytesSend" t="Lähetetyt tavut"/>
+<phrase i="L_BytesRecv" t="Vastaanotetut tavut"/>
+<phrase i="V_AuthFail" t="Todennus epäonnistui."/>
+<phrase i="V_HTTPSFail" t="HTTPS-yhteyden avaaminen \rpalvelimeen epäonnistui."/>
+<phrase i="V_NegFail" t="HTTP-vastausvirhe."/>
+<phrase i="V_URLFail" t="Palvelimen URL-osoitteen jäsennys epäonnistui."/>
+<phrase i="V_HTTPSOnly" t="Vain https sallittu palvelimen URL-osoitteelle."/>
+<phrase i="V_CookieFail" t="WebVPN-evästeen hakeminen epäonnistui."/>
+<phrase i="V_CSTPFail" t="CSTP-yhteyden luominen epäonnistui."/>
+<phrase i="V_TUNFail" t="Tun-laitteen määritys epäonnistui."/>
+<phrase i="V_AuthGroup_Invalid" t="Todennusryhmän asetus on virheellinen."/>
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="Kansiota %s ei ole olemassa. \rTarkista, että jpg-tiedostoja on \r'%s-kansiossa USB-laitteessa."/>
+<phrase i="ImageUsbFileNotPresent" t="Ei JPG-tiedostoja kansiossa %s. \rTarkista, että jpg-tiedostoja on \r'%s-kansiossa USB-laitteessa."/>
+<phrase i="T_ImageSelect" t="Valitse kuva"/>
+<phrase i="ImageMsgOverMaxImageNum" t="Olet valinnut yli \r %d kuvaa!"/>
+
+<!-- #############  #Weather #############-->
+<phrase i="WS_Today" t="       Tänään"/> 
+<phrase i="WS_Night" t="       Yö"/>
+<phrase i="WS_Tomorrow" t="   Huomenna"/>
+<phrase i="WS_Sunday" t="     sunnuntai"/>
+<phrase i="WS_Monday" t="     maanantai"/>
+<phrase i="WS_Tuesday" t="     tiistai"/>
+<phrase i="WS_Wednesday" t=" keskiviikko"/>
+<phrase i="WS_Thursday" t="     torstai"/>
+<phrase i="WS_Friday" t="       perjantai"/>
+<phrase i="WS_Saturday" t="   lauantai"/>
+<phrase i="WS_Jan" t="tammi"/>
+<phrase i="WS_Feb" t="helmi"/>
+<phrase i="WS_Mar" t="maalis"/>
+<phrase i="WS_Apr" t="huhti"/>
+<phrase i="WS_May" t="touko"/>
+<phrase i="WS_Jun" t="kesä"/>
+<phrase i="WS_Jul" t="heinä"/>
+<phrase i="WS_Aug" t="elo"/>
+<phrase i="WS_Sep" t="syys"/>
+<phrase i="WS_Oct" t="loka"/>
+<phrase i="WS_Nov" t="marras"/>
+<phrase i="WS_Dec" t="joulu"/>
+<phrase i="WS_Mostly Cloudy" t="Enimmäkseen pilvinen"/>
+<phrase i="WS_Partly Cloudy" t="Puolipilvinen"/>
+<phrase i="WS_Cloudy" t="Pilvinen"/>
+<phrase i="WS_Clouds" t="Pilvet"/>
+<phrase i="WS_Cloudy and Wind" t="Pilvistä ja tuulista"/>
+<phrase i="WS_Cloudy / Wind" t="Pilvistä/tuulista"/>
+<phrase i="WS_Mostly Sunny" t="Enimmäkseen poutaa"/>
+<phrase i="WS_Mostly Clear" t="Enimmäkseen selkeää"/>
+<phrase i="WS_Fair" t="Hyvä"/>
+<phrase i="WS_Sun" t="Aurinko"/>
+<phrase i="WS_Sunny" t="Aurinkoista"/>
+<phrase i="WS_Clear" t="Selkeää"/>
+<phrase i="WS_Clearing" t="Selkenevää"/>
+<phrase i="WS_Hot" t="Helteistä"/>
+<phrase i="WS_Rain and Snow" t="Sateista ja lumista"/>
+<phrase i="WS_Rain / Snow" t="Sateista/lumista"/>
+<phrase i="WS_Rain" t="Sateista"/>
+<phrase i="WS_Drizzle" t="Tihkua"/>
+<phrase i="WS_Showers" t="Kuuroja"/>
+<phrase i="WS_T-showers" t="Ukkoskuuroja"/>
+<phrase i="WS_Scattered Showers" t="Ajoittaisia sadekuuroja"/>
+<phrase i="WS_Scattered T-storms" t="Ajoittaisia ukkoskuuroja"/>
+<phrase i="WS_Isolated T-storms" t="Yksittäisiä ukkoskuuroja"/>
+<phrase i="WS_Severe T-storms" t="Ankaria ukkoskuuroja"/>
+<phrase i="WS_T-storms" t="Ukkoskuuroja"/>
+<phrase i="WS_Thunder" t="Ukkosta"/>
+<phrase i="WS_Tornado" t="Trombeja"/>
+<phrase i="WS_Tropical Storm" t="Trooppinen myrsky"/>
+<phrase i="WS_Storm" t="Myrsky"/>
+<phrase i="WS_Hurricane" t="Hirmumyrsky"/>
+<phrase i="WS_Typhoon" t="Taifuuni"/>
+<phrase i="WS_Snow Shower and Windy" t="Lumikuuroja ja tuulista"/>
+<phrase i="WS_Snow Shower" t="Lumikuuroja"/>
+<phrase i="WS_Snow Flurries" t="Lumipuuskia"/>
+<phrase i="WS_Scattered Snow Showers" t="Ajoittaisia lumikuuroja"/>
+<phrase i="WS_Blowing Snow" t="Pöllyävää lunta"/>
+<phrase i="WS_Flurries" t="Kuuroja"/>
+<phrase i="WS_Scattered Flurries" t="Ajoittaisia kuuroja"/>
+<phrase i="WS_Snow" t="Lumisadetta"/>
+<phrase i="WS_Wintry Mix" t="Räntää"/>
+<phrase i="WS_Cold" t="Kylmää"/>
+<phrase i="WS_Windy" t="Tuulista"/>
+<phrase i="WS_Wind" t="Tuulee"/>
+<phrase i="WS_Blustery" t="Myrskyisää"/>
+<phrase i="WS_Foggy" t="Sumuista"/>
+<phrase i="WS_Fog" t="Sumua"/>
+<phrase i="WS_Mist" t="Usvaa"/>
+<phrase i="WS_Haze" t="Utua"/>
+<phrase i="WS_Smoky" t="Savuista"/>
+<phrase i="WS_Widespread Dust" t="Laajallelevinnyttä pölyä"/>
+<phrase i="WS_Dust" t="Pölyä"/>
+<phrase i="WS_Hail" t="Rakeita"/>
+<phrase i="WS_Sleet" t="Räntää"/>
+<phrase i="WS_Freezing Drizzle" t="Jäätävää tihkua"/>
+<phrase i="WS_Freezing Rain" t="Jäätävää sadetta"/>
+<phrase i="WS_Ice" t="Jäätä"/>
+<phrase i="WS_Scattered" t="Ajoittaista"/>
+<phrase i="WS_N/A" t="Ei käytettävissä"/>
+<phrase i="WS_Sprinkles" t="Satunnaisia kuuroja"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="Pyydetään..."/>
+<phrase i="T_EmptyHTTPBody" t="Tyhjä Http-teksti."/>
+<phrase i="T_404NotFound" t="404 ei löydy."/>
+<phrase i="T_AudioDataError" t="Äänidatavirhe."/>
+<phrase i="T_DNSError" t="DNS-virhe."/>
+<phrase i="T_NoServer" t="Yhteyttä palvelimeen ei voi muodostaa."/>
+<phrase i="T_NoResponse" t="Palvelin ei vastaa. Yritä uudelleen."/>
+<phrase i="T_DataError" t="Datavirhe."/>
+<phrase i="T_UnknownError" t="Tuntematon virhe."/>
+<phrase i="T_RTPFail" t="Puhelin käsittelee toista puhelua.\r Yritä myöhemmin uudelleen."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="Tulos"/>
+<phrase i="PRV_Msg_Resync" t="Uudelleensynkronoi:"/>
+<phrase i="PRV_Msg_ReqFailed" t="Uudelleensynkronoinnin pyyntö epäonnistui! Puhelin käsittelee uudelleensynkronointipyyntöä. Yritä myöhemmin."/>
+<phrase i="PRV_Invalid_URL" t="Virheellinen uudelleensynkronoinnin profiilisääntö!"/>
+<phrase i="L_DefSpeedDial" t="Määritä pikavalinta"/>
+<phrase i="L_SDLK_ERROR" t="Virhe: Syöte on tyhjä tai virheellinen."/>
+<phrase i="SDLK_DeletePrompt" t="Haluatko poistaa\r pikavalinnan linjanäppäimestä [%d]?"/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="Uudelleensynkronointi käynnissä..."/>
+<phrase i="PRV_Msg_Resync_OK" t="Uudelleensynkronointi onnistui."/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="Puhelin käynnistyy uudelleen. Odota hetki..."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="Ei mitään"/>
+<phrase i="L_RReason1" t="DHCP-virhe"/>
+<phrase i="L_RReason2" t="Päivitä"/>
+<phrase i="L_RReason3" t="Valmistelu"/>
+<phrase i="L_RReason4" t="Päivitä"/>
+<phrase i="L_RReason5" t="Käyttäjän aloittama"/>
+<phrase i="L_RReason6" t="Päivitä"/>
+<phrase i="L_RReason7" t="SIP:n aloittama"/>
+<phrase i="L_RReason8" t="Päivitä"/>
+<phrase i="L_RReason9" t="Järjestelmävirhe"/>
+<phrase i="L_RReason10" t="Linkki ei käytettävissä"/>
+<phrase i="L_RReason11" t="Järjestelmä 1"/>
+<phrase i="L_RReason12" t="Järjestelmä 2"/>
+<phrase i="L_RReason13" t="Kopioi IP"/>
+<phrase i="L_RReason14" t="Varmuuskopioi IP"/>
+<phrase i="L_RReason15" t="Järjestelmä 3"/>
+<phrase i="L_RReason16" t="Järjestelmä 4"/>
+<phrase i="L_RReason17" t="Järjestelmä 5"/>
+<phrase i="L_RReason18" t="Järjestelmä 6"/>
+<phrase i="L_RReason19" t="Järjestelmä 7"/>
+<phrase i="L_RReason20" t="SIP:n aloittama"/>
+<phrase i="L_RReason21" t="San. lataus"/>
+<phrase i="L_RReason22" t="VLAN vaihdettu"/>
+<phrase i="L_RReason23" t="RC"/>
+<phrase i="L_RReason24" t="Tehdasasetusten palautus"/>
+<phrase i="L_RReason25" t="Ohjelmistopyyntö"/>
+<phrase i="L_RReason26" t="IP vaihdettu"/>
+<phrase i="T_WeatherSearch2" t="Anna kaupungin nimi"/>
+
+</phrases>

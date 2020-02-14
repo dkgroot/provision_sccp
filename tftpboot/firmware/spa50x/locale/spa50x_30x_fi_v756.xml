@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Finnish</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Toimialuenimi"/>
+<phrase i="204" t="IP-osoite"/>
+<phrase i="205" t="Aliverkon peite"/>
+<phrase i="212" t="DNS-palvelin 1"/>
+<phrase i="213" t="DNS-palvelin 2"/>
+<phrase i="225" t="Hakemistojen URL-osoite"/>
+<phrase i="226" t="Viestien URL-osoite"/>
+<phrase i="227" t="Palveluiden URL-osoite"/>
+<phrase i="354" t="Vastatut puhelut"/>
+<phrase i="355" t="Soitetut puhelut"/>
+<phrase i="364" t="Kontrasti"/>
+<phrase i="365" t="Verkkomääritykset"/>
+<phrase i="374" t="Siritys 1"/>
+<phrase i="375" t="Siritys 2"/>
+<phrase i="378" t="Soittoäänityyppi"/>
+<phrase i="384" t="Tilasanomat"/>
+<phrase i="393" t="Verkkotilastot"/>
+<phrase i="473" t="IP-osoite julkistettu"/>
+<phrase i="500" t="DHCP-osoite julkistettu"/>
+<phrase i="502" t="Poista määritys"/>
+<phrase i="552" t="Todennuksen URL-osoite"/>
+<phrase i="585" t="Käyttäjän alueasetukset"/>
+<phrase i="586" t="Verkon alueasetukset"/>
+<phrase i="635" t="DHCP-palvelin"/>
+<phrase i="655" t="Mallitiedot"/>
+<phrase i="657" t="Mallinumero"/>
+<phrase i="670" t="Oletussoitto"/>
+<phrase i="676" t="Lyh. val."/>
+<phrase i="716" t="Suojausmääritykset"/>
+<phrase i="3000" t="Vastaamattomat puhelut"/>
+<phrase i="3001" t="Uudelleenvalintaluettelo"/>
+<phrase i="3002" t="Soittokellon voimakkuus"/>
+<phrase i="3003" t="Kaiuttimen voimakkuus"/>
+<phrase i="3004" t="Kuulokkeiden voimakkuus"/>
+<phrase i="3005" t="Luurin äänenvoim."/>
+<phrase i="3006" t="LCD-kontrasti"/>
+<phrase i="3007" t="tila"/>
+<phrase i="3008" t="Tila"/>
+<phrase i="3009" t="Linjanäppäin 4"/><!-- comment content -->
+<phrase i="3010" t="Linjanäppäin 3"/>
+<phrase i="3011" t="Linjanäppäin 2"/>
+<phrase i="3012" t="Linjanäppäin 1"/>
+<phrase i="3013" t="Alanum. 4"/>
+<phrase i="3014" t="Alanum. 3"/>
+<phrase i="3015" t="Alanum. 2"/>
+<phrase i="3016" t="Alanum. 1"/>
+<phrase i="3018" t="ESH"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Paikalliset palvelut"/>
+<phrase i="3020" t="Uusi puh."/>
+<phrase i="3021" t="Sisäänsoitto"/>
+<phrase i="3022" t="Sisäpuhelin"/>
+<phrase i="3023" t="Soita"/><!-- This is a softkey label -->
+<phrase i="3027" t="Järjestelmän virta kytketään uud.&#xA;Odota hetki"/>
+<phrase i="3028" t="Järjestelmä&#xA;käynnistyy uudelleen&#xA;Odota hetki"/>
+<phrase i="3029" t="Palautetaan tehdasasetuksiin&#xA;Odota hetki"/>
+<phrase i="3030" t="Vahvistetaanko järjestelmän virran kytkeminen uudelleen?"/>
+<phrase i="3031" t="Vahvistetaanko järjestelmän uudelleenkäynnistys?"/>
+<phrase i="3032" t="Kaikki parametrit palautetaan&#xA;tehdasarvoihin.&#xA;Haluatko jatkaa?"/>
+<phrase i="3033" t="Salasanavirhe. Yritetäänkö uudelleen?"/>
+<phrase i="3034" t="Uusi salasana:"/>
+<phrase i="3035" t="Puhepostin numero:"/>
+<phrase i="3036" t="Siirtymä(H:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Aika(H:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Päivä(m/d/y):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Ulosk."/><!-- This is a softkey label -->
+<phrase i="3040" t="Siskir"/><!-- This is a softkey label -->
+<phrase i="3041" t="Asennus: x"/>
+<phrase i="3042" t="Asennus"/>
+<phrase i="3043" t="Verkko"/>
+<phrase i="3044" t="Kirjoita järjestelmänvalvojan salasana:"/>
+<phrase i="3045" t="Ei"/>
+<phrase i="3046" t="Soitonsiirron viive (ei vast.)"/>
+<phrase i="3047" t="Soitonsiirron numero (ei v.)"/>
+<phrase i="3048" t="Soitonsiirron numero (var.)"/>
+<phrase i="3049" t="Soitonsiirron numero (kaikki)"/>
+<phrase i="3050" t="Monilähetysosoite"/>
+<phrase i="3051" t="NTP-palvelin (ei DHCP) 2"/>
+<phrase i="3052" t="NTP-palvelin (ei DHCP) 1"/>
+<phrase i="3053" t="DNS (muu kuin DHCP) 2"/>
+<phrase i="3054" t="DNS (muu kuin DHCP) 1"/>
+<phrase i="3055" t="Oletusreititys (ei DHCP)"/>
+<phrase i="3056" t="Aliverkon peite (muu kuin DHCP)"/>
+<phrase i="3057" t="IP-osoite (muu kuin DHCP)"/>
+<phrase i="3058" t="Ota Web-palvelin käyttöön"/>
+<phrase i="3059" t="Nykyinen yhdyskäytävä"/>
+<phrase i="3060" t="Nykyinen verkkopeite"/>
+<phrase i="3061" t="Toimialue"/>
+<phrase i="3062" t="Isäntänimi"/>
+<phrase i="3063" t="Nykyinen IP"/>
+<phrase i="3064" t="DHCP:n käyttöönotto"/>
+<phrase i="3065" t="WAN-yhteystyyppi"/>
+<phrase i="3066" t="Päivämäärän muoto"/>
+<phrase i="3067" t="Ajan muoto"/>
+<phrase i="3068" t="Lähetä ääni kaiuttimeen"/>
+<phrase i="3069" t="Autom. vastaussivu"/>
+<phrase i="3070" t="Ensisijainen äänilaite"/>
+<phrase i="3071" t="Numerontäydennys"/>
+<phrase i="3072" t="Suojattu soitto"/>
+<phrase i="3073" t="Ei saa häiritä"/>
+<phrase i="3074" t="Estä tuntematon numero"/>
+<phrase i="3075" t="Estä oman numeron lähetys"/>
+<phrase i="3076" t="Asiakasvarmenne"/>
+<phrase i="3077" t="MAC-osoite"/>
+<phrase i="3078" t="Laiteversio"/>
+<phrase i="3079" t="Ohjelmistoversio"/>
+<phrase i="3080" t="Sarjanumero:"/>
+<phrase i="3081" t="Tuotteen nimi"/>
+<phrase i="3082" t="Ensisijainen laite"/>
+<phrase i="3083" t="Aseman nimi"/>
+<phrase i="3085" t="Puheluparkin tila"/>
+<phrase i="3087" t="Aseta salasana"/>
+<phrase i="3088" t="Tehdasasetusten palautus"/>
+<phrase i="3089" t="Kytke virta uudelleen"/>
+<phrase i="3090" t="Käynnistä uudelleen"/>
+<phrase i="3092" t="Tietoja tuotteesta"/>
+<phrase i="3094" t="Puheposti"/>
+<phrase i="3095" t="Aika/Päivämäärä"/>
+<phrase i="3096" t="Soitonsiirto"/>
+<phrase i="3097" t="Määritykset"/>
+<phrase i="3099" t="Puheluhistoria"/>
+<phrase i="3100" t="Pikavalinta"/>
+<phrase i="3101" t="Hakemisto"/>
+<phrase i="3102" t="Syötä pikavalinta x"/>
+<phrase i="3104" t="Soitto 10"/>
+<phrase i="3105" t="Soitto 9"/>
+<phrase i="3106" t="Soitto 8"/>
+<phrase i="3107" t="Soitto 7"/>
+<phrase i="3108" t="Soitto 6"/>
+<phrase i="3109" t="Soitto 5"/>
+<phrase i="3110" t="Soitto 4"/>
+<phrase i="3111" t="Soitto 3"/>
+<phrase i="3112" t="Soitto 2"/>
+<phrase i="3113" t="Soitto 1"/>
+<phrase i="3114" t="Alan. soitto"/>
+<phrase i="3115" t="Alanum. 1: "/>
+<phrase i="3116" t="Soittoääni"/>
+<phrase i="3117" t="Poista: "/>
+<phrase i="3118" t="Luettelo on tyhjä"/>
+<phrase i="3119" t="Väärä salasana. Yritetäänkö uudelleen?"/>
+<phrase i="3120" t="Anna salasana:"/>
+<phrase i="3121" t="Puheluparkki"/>
+<phrase i="3123" t="Puheluparkkipyyntö&#xA;Virhetila"/>
+<phrase i="3124" t="Puheluparkki tyhjä"/>
+<phrase i="3125" t="Puheluparkkipyyntö&#xA;Tila..."/>
+<phrase i="3126" t="Parkkinumero ei kelpaa&#xA;Yritä uudelleen"/>
+<phrase i="3127" t="Soittoasema"/>
+<phrase i="3128" t="Soiton poiminta"/>
+<phrase i="3129" t="Valitse pidossa oleva linja&#xA;siirrettäväksi"/>
+<phrase i="3130" t="Valitse pidossa oleva linja&#xA;neuvotteluun"/>
+<phrase i="3131" t="Suunta*numero"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="Pakota: G729A"/>
+<phrase i="3133" t="Suosi: G729A"/>
+<phrase i="3134" t="Pakota: G726r40"/>
+<phrase i="3135" t="Suosi: G726r40"/>
+<phrase i="3136" t="Pakota: G726r32"/>
+<phrase i="3137" t="Suosi: G726r32"/>
+<phrase i="3138" t="Pakota: G726r24"/>
+<phrase i="3139" t="Suosi: G726r24"/>
+<phrase i="3140" t="Pakota: G726r16"/>
+<phrase i="3141" t="Suosi: G726r16"/>
+<phrase i="3142" t="Pakota: G723"/>
+<phrase i="3143" t="Suosi: G723"/>
+<phrase i="3144" t="Pakota: G711A"/>
+<phrase i="3145" t="Suosi: G711A"/>
+<phrase i="3146" t="Pakota: G711U"/>
+<phrase i="3147" t="Suosi: G711U"/>
+<phrase i="3148" t="Sivutus"/>
+<phrase i="3149" t="Peruuta seuraavan suojaus"/>
+<phrase i="3150" t="Suojaa seuraava"/>
+<phrase i="3151" t="Peruuta kaikkien puheluiden suojaus"/>
+<phrase i="3152" t="Suojaa kaikki puhelut"/>
+<phrase i="3153" t="Peruuta Ei saa häiritä"/>
+<phrase i="3155" t="Pura tuntemattomien numeroiden esto"/>
+<phrase i="3157" t="Pura seuraavan oman numeron lähetyksen esto"/>
+<phrase i="3158" t="Estä seuraava oman numeron lähetys"/>
+<phrase i="3159" t="Peruuta oman numeron lähetyksen esto"/>
+<phrase i="3160" t="Estä oman numeron lähetys"/>
+<phrase i="3161" t="Peruuta takaisinsoitto"/>
+<phrase i="3162" t="Takaisinsoitto"/>
+<phrase i="3163" t="Peruuta Soitonsiirto (ei vastaa)"/>
+<phrase i="3164" t="Soitonsiirto (ei vastaa)"/>
+<phrase i="3165" t="Peruuta Soitonsiirto (varattu)"/>
+<phrase i="3166" t="Soitonsiirto (varattu)"/>
+<phrase i="3167" t="Peruuta Soitonsiirto (kaikki)"/>
+<phrase i="3168" t="Soitonsiirto (kaikki)"/>
+<phrase i="3169" t="Soitto takaisin"/>
+<phrase i="3190" t="Kuulokkeet   "/>
+<phrase i="3191" t="Luuri   "/>
+<phrase i="3192" t="Kaiutin   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Näppäimistö   "/>
+<phrase i="3201" t="Kierto"/>
+<phrase i="3202" t="Epäonnistui"/>
+<phrase i="3216" t="Soitto:"/>
+<phrase i="3217" t="Numero:"/>
+<phrase i="3218" t="Nimi:"/>
+<phrase i="3219" t="Poista:"/>
+<phrase i="3220" t="Soiton poiminta"/>
+<phrase i="3221" t="Hakemisto"/>
+<phrase i="3222" t="Syötä numero:"/>
+<phrase i="3223" t="Syötä sivutuskohde:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Syötä soitonpoimintaryhmä:"/>
+<phrase i="3225" t="Syötä erikoispalvelun kohde:"/>
+<phrase i="3226" t="Syötä viitepalvelun kohde:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Parkista siirrettävä nro:"/>
+<phrase i="3228" t="Syötä parkkiin siirrettävä numero:"/>
+<phrase i="3229" t="Syötä valvomattoman siirron kohde:"/>
+<phrase i="3230" t="Syötä Soitonsiirto (ei vastaa) -numero:"/>
+<phrase i="3231" t="Syötä Soitonsiirron numero (varattu):"/>
+<phrase i="3232" t="Syötä Soitonsiirron numero:"/>
+<phrase i="3234" t="Syötä lisää numeroita:"/>
+<phrase i="3237" t="Vastaamattomat puhelut"/>
+<phrase i="3238" t="Vastatut puh."/>
+<phrase i="3239" t="Vastatut puhelut"/>
+<phrase i="3240" t="Uudelleenvalintaluettelo"/>
+<phrase i="3241" t="Alustetaan verkkoa"/>
+<phrase i="3242" t="Tarkistetaan DNS"/>
+<phrase i="3243" t="hakem."/><!-- This is a softkey label -->
+<phrase i="3244" t="siirto"/><!-- This is a softkey label -->
+<phrase i="3245" t="Kieli"/>
+<phrase i="3246" t="Kielivalinta"/>
+<phrase i="3248" t="Siirretyt puhelut"/>
+<phrase i="3249" t="Uusi vastaamaton"/>
+<phrase i="3250" t="Uud. vastaamattomat"/>
+<phrase i="3251" t="lisää"/><!-- This is a softkey label -->
+<phrase i="3252" t="toista"/><!-- This is a softkey label -->
+<phrase i="3253" t="kesk."/><!-- This is a softkey label -->
+<phrase i="3254" t="ei tav"/><!-- This is a softkey label -->
+<phrase i="3255" t="valmis"/><!-- This is a softkey label -->
+<phrase i="3258" t="ryhmäp"/><!-- This is a softkey label -->
+<phrase i="3259" t="poimi"/><!-- This is a softkey label -->
+<phrase i="3260" t="nouda"/><!-- This is a softkey label -->
+<phrase i="3261" t="parkki"/><!-- This is a softkey label -->
+<phrase i="3262" t="soksrt"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="siirLx"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="siirto"/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*nro"/><!-- This is a softkey label -->
+<phrase i="3267" t="val."/><!-- This is a softkey label -->
+<phrase i="3268" t="tall."/><!-- This is a softkey label -->
+<phrase i="3270" t="jatka"/><!-- This is a softkey label -->
+<phrase i="3272" t="edell."/><!-- This is a softkey label -->
+<phrase i="3273" t="toista"/><!-- This is a softkey label -->
+<phrase i="3274" t="liitä"/><!-- This is a softkey label -->
+<phrase i="3275" t="asetus"/><!-- This is a softkey label -->
+<phrase i="3276" t="ok"/><!-- This is a softkey label -->
+<phrase i="3277" t="num."/><!-- This is a softkey label -->
+<phrase i="3278" t="seur."/><!-- This is a softkey label -->
+<phrase i="3279" t="ei-vas"/><!-- This is a softkey label -->
+<phrase i="3281" t="ed.puh"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="liity"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="lopeta"/><!-- This is a softkey label -->
+<phrase i="3285" t="muokk."/><!-- This is a softkey label -->
+<phrase i="3286" t="esh"/><!-- This is a softkey label -->
+<phrase i="3288" t="soita"/><!-- This is a softkey label -->
+<phrase i="3289" t="poista"/><!-- This is a softkey label -->
+<phrase i="3290" t="kopioi"/><!-- This is a softkey label -->
+<phrase i="3291" t="neuvLx"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="neuv."/><!-- This is a softkey label -->
+<phrase i="3293" t="tyhj."/><!-- This is a softkey label -->
+<phrase i="3294" t="-srto"/><!-- This is a softkey label -->
+<phrase i="3295" t="-esh"/><!-- This is a softkey label -->
+<phrase i="3296" t="muuta"/><!-- This is a softkey label -->
+<phrase i="3298" t="per."/><!-- This is a softkey label -->
+<phrase i="3299" t="silta"/><!-- This is a softkey label -->
+<phrase i="3300" t="p.mrki"/><!-- This is a softkey label -->
+<phrase i="3301" t="alfa"/><!-- This is a softkey label -->
+<phrase i="3302" t="lisää"/><!-- This is a softkey label -->
+<phrase i="3303" t="Asennus: x"/>
+<phrase i="3304" t="Asennus"/>
+<phrase i="3305" t="Jaettu"/>
+<phrase i="3306" t="Yritetään jatkaa"/>
+<phrase i="3307" t="Yritetään asettaa pitoon"/>
+<phrase i="3308" t="Pidossa"/>
+<phrase i="3309" t="Yhdistetty"/>
+<phrase i="3310" t="Vastataan"/>
+<phrase i="3311" t="Puhelu lopetettu"/>
+<phrase i="3312" t="Soitetaan"/>
+<phrase i="3313" t="Soi puhelun vastaanottajalla"/>
+<phrase i="3314" t="Soitetaan"/>
+<phrase i="3315" t="Yhdistetään STUN-palvelimeen"/>
+<phrase i="3316" t="Valitaan numero"/>
+<phrase i="3317" t="Valitaan asema"/>
+<phrase i="3318" t="Valitaan puhelu"/>
+<phrase i="3319" t="Kerätään puhelun tietoja"/>
+<phrase i="3320" t="Yritetään linjan kaappausta"/>
+<phrase i="3321" t="Valmis"/>
+<phrase i="3322" t="Kyllä"/>
+<phrase i="3323" t="Ei rekisteröity"/>
+<phrase i="3324" t="Rekisteröity"/>
+<phrase i="3325" t="Tulevat"/>
+<phrase i="3326" t="Lähtevä"/>
+<phrase i="3327" t="Takaisinsoitto"/>
+<phrase i="3328" t="Siirretty"/>
+<phrase i="3329" t="Siirretty"/>
+<phrase i="3330" t="Virhe"/>
+<phrase i="3331" t="Vapaa"/>
+<phrase i="3332" t="Soitto od. -ääni"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Soitto - Takaisinsoitto"/>
+<phrase i="3334" t="Soitto - Pito"/>
+<phrase i="3335" t="Soitto"/>
+<phrase i="3336" t="Suojatun soiton merkki"/>
+<phrase i="3337" t="Neuvottelu"/>
+<phrase i="3338" t="Pito"/>
+<phrase i="3339" t="Virhe"/>
+<phrase i="3340" t="Vahvista"/>
+<phrase i="3341" t="Toimintaohjeet"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Linja auki -varoitus"/>
+<phrase i="3347" t="Soita takaisin"/>
+<phrase i="3348" t="Järjestä uudelleen"/>
+<phrase i="3349" t="Varattu"/>
+<phrase i="3350" t="Viesti od. -ilmaisin"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Ulkoinen valinta"/>
+<phrase i="3352" t="Toinen valinta"/>
+<phrase i="3353" t="Soita"/><!-- This is a softkey label -->
+<phrase i="3354" t="ei mitään"/>
+<phrase i="3355" t="Siirto"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Siirto"/>
+<phrase i="3357" t="Tak.soitt."/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="V.ottaja"/>
+<phrase i="3359" t="Lähettäjä"/>
+<phrase i="3360" t="Uusi tieto"/>
+<phrase i="3361" t="(TÄYSI)"/>
+<phrase i="3362" t="Yrityksen hakemisto"/>
+<phrase i="3363" t="Syötä soitonpoimintanro:"/>
+<phrase i="3365" t="Pikavalinta"/>
+<phrase i="3366" t="&lt;Ei määritetty&gt;"/>
+<phrase i="3367" t="Syötä pikavalinta 2"/>
+<phrase i="3368" t="Syötä pikavalinta 3"/>
+<phrase i="3369" t="Syötä pikavalinta 4"/>
+<phrase i="3370" t="Syötä pikavalinta 5"/>
+<phrase i="3371" t="Syötä pikavalinta 6"/>
+<phrase i="3372" t="Syötä pikavalinta 7"/>
+<phrase i="3373" t="Syötä pikavalinta 8"/>
+<phrase i="3374" t="Syötä pikavalinta 9"/>
+<phrase i="3375" t="Syötä pikavalinta"/>
+<phrase i="3376" t="Puheluhistoria"/>
+<phrase i="3377" t="Vastatut puhelut"/>
+<phrase i="3378" t="Soittoääni"/>
+<phrase i="3379" t="E1-soitto"/>
+<phrase i="3380" t="E2-soitto"/>
+<phrase i="3381" t="E3-soitto"/>
+<phrase i="3382" t="E4-soitto"/>
+<phrase i="3383" t="Yrityksen hakemisto"/>
+<phrase i="3384" t="Määritykset"/>
+<phrase i="3385" t="k/e"/><!-- This is a softkey label -->
+<phrase i="3386" t="Estä oman numeron lähetys&#xA;"/>
+<phrase i="3387" t="Estä tuntematon numero&#xA;"/>
+<phrase i="3388" t="Ei saa häiritä&#xA;"/>
+<phrase i="3389" t="Suojattu soitto&#xA;"/>
+<phrase i="3390" t="Numerontäydennys&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Ensisijainen äänilaite&#xA;"/>
+<phrase i="3394" t="Automaattisen vastauksen sivu&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Lähetä ääni kaiuttimeen&#xA;"/>
+<phrase i="3396" t="Ajan muoto&#xA;"/>
+<phrase i="3397" t="Päivämäärän muoto&#xA;"/>
+<phrase i="3398" t="päivä/kuukausi"/>
+<phrase i="3399" t="kuukausi/päivä"/>
+<phrase i="3400" t="Kieli"/>
+<phrase i="3401" t="Puheluparkin tila"/>
+<phrase i="3402" t="Tila"/>
+<phrase i="3403" t="Puhelimen tila"/>
+<phrase i="3405" t="Alan. 2 tila"/>
+<phrase i="3406" t="L1:n tila"/>
+<phrase i="3407" t="L2:n tila"/>
+<phrase i="3408" t="L3:n tila"/>
+<phrase i="3409" t="L4:n tila"/>
+<phrase i="3410" t="Soita1:"/>
+<phrase i="3412" t="Päivämäärä: "/>
+<phrase i="3413" t="Käyttöaika: "/>
+<phrase i="3415" t="Edellinen rek. %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Seuraava rek. %us&#xA;"/>
+<phrase i="3418" t="Soita 1: "/>
+<phrase i="3420" t="Ääni: "/>
+<phrase i="3421" t="Ei mitään"/>
+<phrase i="3422" t="Ei asennettu"/>
+<phrase i="3423" t="Oletus"/><!-- This is a softkey label -->
+<phrase i="3425" t="Asema"/>
+<phrase i="3426" t="Sivuryhmä"/>
+<phrase i="3427" t="Automaattinen puhelunvälittäjä"/>
+<phrase i="3428" t="Sisäinen musiikki"/>
+<phrase i="3429" t="Odota hetki"/>
+<phrase i="3430" t="Yritetään kirjautua"/>
+<phrase i="3432" t="Yhdistetään ACD-palvelimeen&#xA;käytettävyystarkistusta varten"/>
+<phrase i="3433" t="Yhdistetään ACD-palvelimeen&#xA;käyttämättömyystarkistusta varten"/>
+<phrase i="3434" t="Kirjautuminen epäonnistui.&#xA;"/>
+<phrase i="3435" t="Tarkista käyttäjätunnus&#xA;ja salasana."/>
+<phrase i="3437" t="Käytettävyystarkistus epäonnistui&#xA;"/>
+<phrase i="3438" t="Käyttämättömyystarkistus epäonnistui&#xA;"/>
+<phrase i="3439" t="Käyttäjätunnus:"/>
+<phrase i="3440" t="Salasana:"/>
+<phrase i="3441" t="ACD-kirjautuminen"/>
+<phrase i="3445" t="Laiteohjelmaa päivitetään&#xA;Älä kytke virtaa pois päältä&#xA;Puhelin käynnistyy &#xA;automaattisesti uudelleen"/>
+<phrase i="3446" t="&#xA;&#xA;Poim: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Järjestelmää käynnistetään"/>
+<phrase i="3451" t="Pyydetään yrityksen&#xA;hakemistoa palvelimesta..."/>
+<phrase i="3452" t="Yrityksen&#xA;hakemiston pyyntö epäonnistui"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="Tuntematon tieto"/>
+<phrase i="3468" t="Tuntematon käyttäjä"/>
+<phrase i="3469" t="Tekijä: %s"/>
+<phrase i="3470" t="yhdyskäytävä"/>
+<phrase i="3472" t="Jaa puhelu %s"/>
+<phrase i="3473" t="Tekijä: %s&#xA;"/>
+<phrase i="3476" t="vastaanottaja"/>
+<phrase i="3477" t="tila"/>
+<phrase i="3478" t="lopetettu"/>
+<phrase i="3479" t="yritetään"/>
+<phrase i="3480" t="varhainen"/>
+<phrase i="3481" t="toimitaan"/>
+<phrase i="3482" t="vahvistettu"/>
+<phrase i="3503" t="Käyttäjä %d"/>
+<phrase i="3504" t="Ei soittoa"/>
+<phrase i="3509" t="Käyttäjä %d (ei asennettu)"/>
+<phrase i="3510" t="12 h"/>
+<phrase i="3511" t="24 h"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Staattinen IP-osoite"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="salas."/><!-- password -->
+<phrase i="3517" t="määr."/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Kieli(ei käytettävissä)"/>
+<phrase i="3519" t="Ei käytettävissä"/>
+<phrase i="3520" t="vahvista"/>
+<phrase i="3521" t="kontrasti"/>
+<phrase i="3522" t="pikaval."/>
+<phrase i="3523" t="%d päivää"/>
+<phrase i="3524" t="1 päivä"/>
+<phrase i="3525" t="Ei käytössä&#xA;"/>
+<phrase i="3526" t="Puhelun %d tyyppi: %s&#xA;"/>
+<phrase i="3527" t="Kumpp. nimi: %s&#xA;"/>
+<phrase i="3528" t="Kumpp. puh: %s&#xA;"/>
+<phrase i="3529" t="Kesto: %02d:%02d:%02d"/>
+<phrase i="3530" t="Puhelu %d: %s&#xA;"/>
+<phrase i="3531" t="Ääni: %s&#xA;"/>
+<phrase i="3532" t="Kood: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Kood.purku: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Ei palvelua&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Puhelimen tila"/>
+<phrase i="3536" t="Alan. %d tila"/>
+<phrase i="3537" t="L%d, tila"/>
+<phrase i="3538" t="AikaPäivämäärä"/>
+<phrase i="3539" t="Tallenna äänenvoimakkuuden muutokset&#xA;"/>
+<phrase i="3540" t="Tallenna kontrastin muutokset&#xA;"/>
+<phrase i="3541" t="soita"/><!-- This is a softkey label -->
+<phrase i="3542" t="siskir"/><!-- This is a softkey label -->
+<phrase i="3543" t="ulosk."/><!-- This is a softkey label -->
+<phrase i="3544" t="äänenv."/>
+<phrase i="3545" t="asennus"/>
+<phrase i="3546" t="Vastaamaton puhelu"/>
+<phrase i="3548" t="Epäonnistui&#xA;"/>
+<phrase i="3549" t="siirretäänkö parkista?"/>
+<phrase i="3550" t="englanti"/>
+<phrase i="3551" t="espanja"/>
+<phrase i="3552" t="portugali"/>
+<phrase i="3553" t="italia"/>
+<phrase i="3554" t="saksa"/>
+<phrase i="3555" t="tanska"/>
+<phrase i="3556" t="suomi"/>
+<phrase i="3557" t="hollanti"/>
+<phrase i="3558" t="norja"/>
+<phrase i="3559" t="ranska"/>
+<phrase i="3560" t="Taustavalon ajastin"/>
+<phrase i="3561" t="Aina päällä"/>
+<phrase i="3562" t="Poissa päältä"/>
+<phrase i="3563" t="Vastaamatt. pikavalinta"/>
+<phrase i="3564" t="Puhelu odottaa"/>
+<phrase i="3565" t="Ota VLAN käyttöön"/>
+<phrase i="3566" t="VLAN-tunnus"/>
+<phrase i="3567" t="Toimisto"/>
+<phrase i="3568" t="Perinteinen-1"/>
+<phrase i="3569" t="Perinteinen-2"/>
+<phrase i="3570" t="Perinteinen-3"/>
+<phrase i="3571" t="Perinteinen-4"/>
+<phrase i="3572" t="Yksinkertainen-1"/>
+<phrase i="3573" t="Yksinkertainen-2"/>
+<phrase i="3574" t="Yksinkertainen-3"/>
+<phrase i="3575" t="Yksinkertainen-4"/>
+<phrase i="3576" t="Yksinkertainen-5"/>
+<phrase i="3577" t="Asennettu"/>
+<phrase i="3578" t="poista merkki"/>
+<phrase i="3579" t="Siirrä"/><!-- This is a softkey label -->
+<phrase i="3580" t="TyhESH"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Ei saa häiritä "/>
+<phrase i="3582" t="TyhSrt"/><!-- This is a softkey label -->
+<phrase i="3583" t="NeuvLj"/><!-- This is a softkey label -->
+<phrase i="3584" t="TakSoi"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Edell."/><!-- This is a softkey label -->
+<phrase i="3586" t="Siirto"/><!-- This is a softkey label -->
+<phrase i="3587" t="SiirLj"/><!-- This is a softkey label -->
+<phrase i="3588" t="SokSrt"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="Ryhmäp"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Esikat"/><!-- This is a softkey label -->
+<phrase i="3591" t="GUI-ominaisuus"/>
+<phrase i="3592" t="GUI-ominaisuus"/>
+<phrase i="3593" t="Ensisijainen taustakuva"/>
+<phrase i="3594" t="Ladattu"/>
+<phrase i="3596" t="Valikon ensisijainen värimalli"/>
+<phrase i="3597" t="Vaaleansininen"/>
+<phrase i="3598" t="Vaaleanvihreä"/>
+<phrase i="3599" t="Vaaleanpunainen"/>
+<phrase i="3600" t="Hopeinen"/>
+<phrase i="3601" t="Siirretyt puhelut "/>
+<phrase i="3602" t="Linjanäppäin 5"/>
+<phrase i="3603" t="Linjanäppäin 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Alanum. 5"/>
+<phrase i="3606" t="Alanum. 6"/>
+<phrase i="3607" t="Kaiutin"/>
+<phrase i="3608" t="Kuulokkeet"/>
+<phrase i="3609" t="am"/>
+<phrase i="3610" t="pm"/>
+<phrase i="3614" t="Linja %d: %s(%s)"/>
+<phrase i="3616" t="Mukautettu palautus"/>
+<phrase i="3617" t="Tarkistetaanko päivitykset&#xA;mukautusprofiilille?&#xA;(toimii taustalla)"/>
+<phrase i="3618" t="WWW-palvelu"/>
+<phrase i="3619" t="WWW-palvelu"/>
+<phrase i="3620" t="Paikallisia uutisia"/>
+<phrase i="3621" t="Ulkomaanuutiset"/>
+<phrase i="3623" t="Urheilu-uutiset"/>
+<phrase i="3624" t="Uutiset politiikasta"/>
+<phrase i="3625" t="Teknologiauutiset"/>
+<phrase i="3626" t="Viihdeuutiset"/>
+<phrase i="3627" t="Liikenne"/>
+<phrase i="3628" t="Osakekurssin tunnus"/>
+<phrase i="3629" t="Osakekurssin tunnus:"/>
+<phrase i="3630" t="RSS-syöte 1"/>
+<phrase i="3631" t="RSS-syöte 2"/>
+<phrase i="3632" t="RSS-syöte 3"/>
+<phrase i="3633" t="RSS-syöte 4"/>
+<phrase i="3634" t="RSS-syöte 5"/>
+<phrase i="3635" t="Tunnus:"/>
+<phrase i="3636" t="Viimeinen:"/>
+<phrase i="3637" t="Muuta:"/>
+<phrase i="3638" t="Osto:"/>
+<phrase i="3639" t="Myynti:"/>
+<phrase i="3640" t="Valmistelu"/>
+<phrase i="3641" t="Puhelutilastohistoria"/>
+<phrase i="3642" t="Välityspalvelin:%s:%u&#xA;"/>
+<phrase i="3643" t="Profiili:%s&#xA;"/>
+<phrase i="3644" t="Tila:%s&#xA;"/>
+<phrase i="3645" t="Syy:%s&#xA;"/>
+<phrase i="3647" t="Ei käytössä"/>
+<phrase i="3649" t="Säännön jäsennysvirhe"/>
+<phrase i="3650" t="Meneillään"/>
+<phrase i="3651" t="Onnistui"/>
+<phrase i="3652" t="DNS-ratkaisu"/>
+<phrase i="3653" t="Ei palvelinnimeä"/>
+<phrase i="3654" t="Virheellinen tai rajoitettu palvelin"/>
+<phrase i="3655" t="Resurssit käytetty"/>
+<phrase i="3656" t="Viallinen tiedosto"/>
+<phrase i="3657" t="Salausavain"/>
+<phrase i="3658" t="Virheellinen URL-osoite"/>
+<phrase i="3659" t="Tiedostoa ei löydy."/>
+<phrase i="3660" t="Lataus epäonnistui"/>
+<phrase i="3661" t="&lt;Ei kohdetta&lt;"/>
+<phrase i="3662" t="Tyyppi:%s"/>
+<phrase i="3663" t="Kumpp. nimi:%s"/>
+<phrase i="3664" t="Kumpp. puhelin:%s"/>
+<phrase i="3665" t="Kesto:"/>
+<phrase i="3666" t="Puheluaika:"/>
+<phrase i="3667" t="Kood:%s"/>
+<phrase i="3668" t="Kood.purku:%s"/>
+<phrase i="3669" t="Puhelutunnus:%s"/>
+<phrase i="3674" t="Päivitetään uutissyötetietoja..."/>
+<phrase i="3675" t="Uutissyötetietoja ei ole käytettävissä..."/>
+<phrase i="3676" t="Uutissyötetietojen nouto epäonnistui..."/>
+<phrase i="3677" t="Uutiset"/>
+<phrase i="3680" t="Siirr: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="V.ott: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Välityspalvelin:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Puhelutyyppi: %s&#xA;"/>
+<phrase i="3687" t="Tyhjä"/>
+<phrase i="3690" t="Valmistelun tila"/>
+<phrase i="3693" t="Puhelun tiedot"/>
+<phrase i="3703" t="ALAN:%d"/>
+<phrase i="3704" t="Päivitetään osakekurssitietoja..."/>
+<phrase i="3705" t="Osakekurssitietoja ei ole käytettävissä..."/>
+<phrase i="3706" t="Osakekurssisyötetietojen nouto epäonnistui..."/>
+<phrase i="3713" t="Yahoo-osakekurssit"/>
+<phrase i="3715" t="Päivitetään liikennesyötetietoja..."/>
+<phrase i="3716" t="Liikennesyötetietoja ei ole käytettävissä..."/>
+<phrase i="3717" t="Liikennesyötetietojen nouto epäonnistui..."/>
+<phrase i="3718" t="Tarkkoja liikennetietoja ei ole käytettävissä..."/>
+<phrase i="3719" t="Liikennesyötetietojen näyttäminen epäonnistui..."/>
+<phrase i="3721" t="Osakekurssi"/>
+<phrase i="3730" t="Yahoo! -kirjautuminen"/>
+<phrase i="3731" t="Kirjaudutaanko ulos Yahoo!-palvelusta?"/>
+<phrase i="3732" t="Onnistui"/>
+<phrase i="3733" t="Epäonnistui. Tarkista&#xA;käyttäjätunnus ja salasana"/>
+<phrase i="3734" t="Kirjaudutaan sisään. Odota hetki."/>
+<phrase i="3735" t="Poim: "/>
+<phrase i="3736" t="Siirretyt puhelut&#xA;"/>
+<phrase i="3737" t="Kirjattu ulos&#xA;"/>
+<phrase i="3738" t="Kirjautuminen&#xA;"/>
+<phrase i="3739" t="Ei rekisteröity&#xA;"/>
+<phrase i="3741" t="&#xA;Tekijä: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;Poim: "/>
+<phrase i="3744" t="%sKirjattu ulos"/>
+<phrase i="3745" t="päiv."/><!-- This is a softkey label -->
+<phrase i="3746" t="Tiedot"/><!-- This is a softkey label -->
+<phrase i="3756" t="TESTIKIELI"/>
+<phrase i="3757" t="BMP-kuva"/>
+<phrase i="3758" t="Lisää"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alpha"/><!-- This is a softkey label -->
+<phrase i="3760" t="P.mer."/><!-- This is a softkey label -->
+<phrase i="3761" t="Silta"/><!-- This is a softkey label -->
+<phrase i="3762" t="Per."/><!-- This is a softkey label -->
+<phrase i="3764" t="Tyhj."/><!-- This is a softkey label -->
+<phrase i="3765" t="Neuv."/><!-- This is a softkey label -->
+<phrase i="3766" t="Kopioi"/><!-- This is a softkey label -->
+<phrase i="3767" t="Poista"/><!-- This is a softkey label -->
+<phrase i="3771" t="Muokk."/><!-- This is a softkey label -->
+<phrase i="3772" t="Lopeta"/><!-- This is a softkey label -->
+<phrase i="3774" t="Liity"/><!-- This is a softkey label -->
+<phrase i="3775" t="Ei-vas"/><!-- This is a softkey label -->
+<phrase i="3776" t="Seur."/><!-- This is a softkey label -->
+<phrase i="3777" t="Num."/><!-- This is a softkey label -->
+<phrase i="3778" t="OK"/><!-- This is a softkey label -->
+<phrase i="3779" t="Asetus"/><!-- This is a softkey label -->
+<phrase i="3780" t="Liitä"/><!-- This is a softkey label -->
+<phrase i="3781" t="Toista"/><!-- This is a softkey label -->
+<phrase i="3783" t="Jatka"/><!-- This is a softkey label -->
+<phrase i="3784" t="Tall."/><!-- This is a softkey label -->
+<phrase i="3785" t="Val."/><!-- This is a softkey label -->
+<phrase i="3786" t="*Nro"/><!-- This is a softkey label -->
+<phrase i="3787" t="K/E"/><!-- This is a softkey label -->
+<phrase i="3793" t="Valmis"/><!-- This is a softkey label -->
+<phrase i="3794" t="Ei tav"/><!-- This is a softkey label -->
+<phrase i="3795" t="Kesk."/><!-- This is a softkey label -->
+<phrase i="3796" t="Toista"/><!-- This is a softkey label -->
+<phrase i="3797" t="Lisää"/><!-- This is a softkey label -->
+<phrase i="3798" t="Päiv."/><!-- This is a softkey label -->
+<phrase i="3799" t="esikat"/><!-- This is a softkey label -->
+<phrase i="3800" t="tiedot"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! -uloskirjautuminen"/>
+<phrase i="3807" t="Yrityshak."/>
+<phrase i="3808" t="Latauskuva ei ole käytettävissä"/>
+<phrase i="3809" t="Estä tuntemattomat numerot"/>
+<phrase i="3810" t="Tarkkoja uutisia ei ole käytettävissä..."/>
+<phrase i="3811" t="Tarkkoja uutisia ei ole käytettävissä&#xA;"/>
+<phrase i="3812" t="Uutissyötetietojen näyttäminen epäonnistui..."/>
+<phrase i="3813" t="Siirretään"/>
+<phrase i="3814" t="Siirto epäonnistui"/>
+<phrase i="3815" t="Kesto: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Puhelun tiedot:"/>
+<phrase i="3817" t="Osakekurssisyötetietojen näyttäminen epäonnistui..."/>
+<phrase i="3818" t="Tarkkoja liikennetietoja ei ole käytettävissä&#xA;"/>
+<phrase i="3822" t="E5-soitto"/>
+<phrase i="3824" t="Ei saa häiritä"/>
+<phrase i="3825" t="Siirretyt puhelut"/>
+<phrase i="3826" t="&lt;Ei kohdetta&gt;"/>
+<phrase i="3827" t="Mukauttaminen"/>
+<phrase i="3828" t="Avoin"/>
+<phrase i="3829" t="Odottaa"/>
+<phrase i="3830" t="Mukautettu"/>
+<phrase i="3831" t="Oletus&quot;Ladattu"/>
+<phrase i="3832" t="Tuntematon soittaja"/>
+<phrase i="3833" t="%sSiirretyt puhelut"/>
+<phrase i="3834" t="%sKirjaudutaan ulos"/>
+<phrase i="3835" t="%sKirjaudutaan sisään"/>
+<phrase i="3836" t="%sEi rekisteröity"/>
+<phrase i="3837" t="%sRekisteröidään"/>
+<phrase i="3838" t="%sEi saa häiritä"/>
+<phrase i="3839" t="E1-soitto"/>
+<phrase i="3840" t="E2-soitto"/>
+<phrase i="3841" t="E3-soitto"/>
+<phrase i="3842" t="E4-soitto"/>
+<phrase i="3843" t="E5-soitto"/>
+<phrase i="3844" t="E6-soitto"/>
+<phrase i="3845" t="Kirjautuminen epäonnistui.&#xA;Tarkista käyttäjätunnus&#xA;ja salasana."/>
+<phrase i="3846" t="Yritetään kirjautumista."/>
+<phrase i="3847" t="Valtuutetaan..."/>
+<phrase i="3848" t="CMS-kirjautuminen"/>
+<phrase i="3849" t="Kirjaudutaanko ulos CMS:stä?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c å ä 2 A B C Ã… Ä "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o ö 6 M N O Ã– "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="puola"/>
+<phrase i="3864" t="venäjä"/>
+<phrase i="3865" t="unkari"/>
+<phrase i="3866" t="tšekki"/>
+<phrase i="3867" t="turkki"/>
+<phrase i="3868" t="ruotsi"/>
+<phrase i="3869" t="sloveeni"/>
+<phrase i="3870" t="bulgaria"/>
+<phrase i="3871" t="slovakki"/>
+<phrase i="3872" t="kroatia"/>
+<phrase i="3950" t="Ei vastausta"/>
+<phrase i="3951" t="Ei tavoitettavissa"/>
+<phrase i="3952" t="Todenna"/>
+<phrase i="3953" t="Tuntematon"/>
+<phrase i="3954" t="Yritetään asettaa pitoon"/>
+<phrase i="3955" t="Yritetään jatkaa"/>
+<phrase i="3956" t="Muuta"/><!-- This is a softkey label -->
+<phrase i="3957" t="Parkki"/><!-- This is a softkey label -->
+<phrase i="3958" t="Nouda"/><!-- This is a softkey label -->
+<phrase i="3959" t="Poimi"/><!-- This is a softkey label -->
+<phrase i="3960" t="Synkr."/><!-- This is a softkey label -->
+<phrase i="3961" t="Aktiv."/><!-- This is a softkey label -->
+<phrase i="3962" t="Hyv."/><!-- This is a softkey label -->
+<phrase i="3963" t="Yhd."/><!-- This is a softkey label -->
+<phrase i="3964" t="-Yhd."/><!-- This is a softkey label -->
+<phrase i="3965" t="lähetä"/><!-- This is a softkey label -->
+<phrase i="3966" t="synkr."/><!-- This is a softkey label -->
+<phrase i="3967" t="aktiv."/><!-- This is a softkey label -->
+<phrase i="3968" t="hyv."/><!-- This is a softkey label -->
+<phrase i="3969" t="yhd."/><!-- This is a softkey label -->
+<phrase i="3970" t="-yhd."/><!-- This is a softkey label -->
+<phrase i="3971" t="alas"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="ylös"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="oletus"/><!-- This is a softkey label -->
+<phrase i="3974" t="mkaval"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Laiteohjelmaa päivitetään&#xA;Älä kytke virtaa pois päältä&#xA;Puhelin käynnistyy&#xA;automaattisesti uudelleen"/>
+<phrase i="3976" t="Ladataan XML-sovellus..."/>
+<phrase i="3977" t="Päivitys epäonnistui"/>
+<phrase i="3978" t="Sovelluksen lataus onnistui"/>
+<phrase i="3979" t="Sovelluksen lataus epäonnistui"/>
+<phrase i="3980" t="CME-palvelut"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Yritetään kirjautua ulos.&#xA;Odota hetki..."/>
+<phrase i="3982" t="Uloskirjautuminen epäonnistui.&#xA;Käynnistetään uudelleen..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Valitse soittokello"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Oletussoitto: %s"/>
+<phrase i="3987" t="Valitse linja"/>
+<phrase i="3988" t="Linjan oletussoitto                        "/>
+<phrase i="3989" t="Oletussoiton nimi                     "/>
+<phrase i="3990" t="Asetukset"/>
+<phrase i="3991" t="Näytönsäästäjätila"/>
+<phrase i="3992" t="Ota näytönsäästäjä käytt."/>
+<phrase i="3993" t="Näytönsäästäjän odotusaika"/>
+<phrase i="3994" t="Näytönsäästäjän kuvake"/>
+<phrase i="3995" t="AsemanAika&quot;Lukitus&quot;Puhelin&quot;PäivämääräAika&quot;Taustakuva"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Palautetaan tehdasasetuksiin&#xA;Odota hetki"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;Järjestelmä käynnistyy uud.&#xA;Odota hetki"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Järjestelmän virta kytketään uudelleen&#xA;Odota hetki"/>
+<phrase i="4001" t="Profiilin sääntö"/>
+<phrase i="4002" t="Profiilin sääntö:"/>
+<phrase i="4003" t="Synkronoi profiili uudelleen: %s&#xA;"/>
+<phrase i="4004" t="Tulos: %s&#xA;"/>
+<phrase i="4005" t="Syy: %s&#xA;"/>
+<phrase i="4006" t="Uudelleensynkronointi&#xA;%s&#xA;puhelimeen voi alkaa uudelleen, jos toimet onnistuvat!"/>
+<phrase i="4007" t="Virheellinen profiilisääntö!&#xA;"/>
+<phrase i="4008" t="Pyydetään uudelleensynkronointia,&#xA;%s&#xA;kun puhelin on vapaa!"/>
+<phrase i="4009" t="Uudelleensynkronointipyyntö epäonnistui!&#xA;Puhelin käsittelee uudelleensynkronointipyyntöä.&#xA;Yritä myöhemmin uudelleen."/>
+<phrase i="4010" t="Rekisteröidään&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Avaa puhelimen lukitus millä tahansa näppäimellä"/>
+<phrase i="4013" t="Puhelun hallintaprotokolla"/>
+<phrase i="4014" t="Oletusreititin"/>
+<phrase i="4015" t="TFTP-palvelin"/>
+<phrase i="4016" t="Järjestelmänvalvojan VLAN-tunnus"/>
+<phrase i="4017" t="Ota CDP käyttöön"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Puhelunhallinta"/>
+<phrase i="4019" t="PPPoE-palvelun nimi"/>
+<phrase i="4020" t="PPPOE-kirjautumisnimi"/>
+<phrase i="4021" t="PPPoE-kirjautumisen salasana"/>
+<phrase i="4022" t="Web-palvelin käytössä"/>
+<phrase i="4023" t="Tee palvelimen virheenkorjaus"/>
+<phrase i="4024" t="Poissa käytöstä&quot;10 s&quot;20 s&quot;30 s&quot;Aina käytössä"/>
+<phrase i="4025" t="Paikalliset asetukset"/>
+<phrase i="4026" t="Laiteohjelman versio"/>
+<phrase i="4027" t="Vast.ott: %u, "/>
+<phrase i="4028" t="Siirto: %u,&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Käytetty aika: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Malli: %s&#xA;"/>
+<phrase i="4032" t="Versio: %s&#xA;"/>
+<phrase i="4033" t="Linja:%s"/>
+<phrase i="4034" t="Ei käytettävissä"/>
+<phrase i="4038" t="Yhdistetään &#xA;VPN-palvelimeen..."/>
+<phrase i="4039" t="Katkaistaan yhteyttä &#xA;VPN-palvelimeen..."/>
+<phrase i="4040" t="VPN-yhteys katkesi!&#xA;"/>
+<phrase i="4041" t="VPN yhdistetty!"/>
+<phrase i="4042" t="VPN-yhteys katkaistu!"/>
+<phrase i="4043" t="Tuntematon CA. Hyväksytäänkö?&#xA;"/>
+<phrase i="4044" t="Toimet peruutettu!"/>
+<phrase i="4045" t="Odota hetki..."/>
+<phrase i="4046" t="Yhdistetäänkö VPN:ään käynnistyksen yhteydessä?"/>
+<phrase i="4047" t="VPN-palvelin"/>
+<phrase i="4048" t="Käyttäjätunnus"/>
+<phrase i="4049" t="Tunneliryhmä"/>
+<phrase i="4050" t="VPN yhdistetty?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Kesto"/>
+<phrase i="4054" t="Lähetetyt tavut"/>
+<phrase i="4055" t="Vastaanotetut tavut"/>
+<phrase i="4056" t="Edellisen virheen syy"/>
+<phrase i="4057" t="Määritä ensin VPN-palvelin"/>
+<phrase i="4058" t="Puhelin on yhdistetty VPN-palvelimeen"/>
+<phrase i="4059" t="Katkaise puhelu, ennen kuin yhdistät VPN:n palvelimeen"/>
+<phrase i="4060" t="Puhelinta ei ole yhdistetty VPN-palvelimeen"/>
+<phrase i="4061" t="Katkaise ensin puhelu"/>
+<phrase i="4062" t="Yhdistetään käyttäen: CME"/>
+<phrase i="4063" t="Rekisteröidään käyttäen: CME"/>
+<phrase i="4064" t="SPCP-rekisterimerkintä"/>
+<phrase i="4065" t="Soiton lataus epäonnistui"/>
+<phrase i="4066" t="Päivitetään laiteohjelmaa&#xA;Älä katkaise virtaa"/>
+<phrase i="4067" t="Päivitys onnistui&#xA;...käynnistetään uudelleen"/>
+<phrase i="4068" t="Kyselyn LDAP"/>
+<phrase i="4069" t="Kyselyn LDAP-hakemisto"/>
+<phrase i="4070" t="Syöte/määritys ei kelpaa,&#xA;Tarkista syöte/määritys"/>
+<phrase i="4071" t="LDAP-virhe: yhteyttä palvelimeen ei voi muodostaa"/>
+<phrase i="4072" t="LDAP-virhe: Virheellinen syöttöarvo"/>
+<phrase i="4073" t="Ei vastaavuuksia"/>
+<phrase i="4074" t="Kyselyn LDAP-tulos"/>
+<phrase i="4075" t="Pyydetään hakemisto LDAP-palvelimesta..."/>
+<phrase i="4076" t="LDAP-hakemiston pyyntö epäonnistui"/>
+<phrase i="4077" t="Liian monta vastaavuutta,&#xA; määritä haku uudelleen"/>
+<phrase i="4079" t="Soiton poiminta"/>
+<phrase i="4080" t="Puhelun siirto parkista"/>
+<phrase i="4081" t="Soittajaryhmän poiminta"/>
+<phrase i="4083" t="Käytä PC-portin VLAN-merk."/>
+<phrase i="4084" t="PC-portin VLAN-tunnus"/>
+<phrase i="4085" t="Hälytys"/>
+<phrase i="4086" t="Sivu"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="edell."/><!-- This is a softkey label -->
+<phrase i="4088" t="vaihda"/><!-- This is a softkey label -->
+<phrase i="4089" t="Edell."/><!-- This is a softkey label -->
+<phrase i="4090" t="MkaVal"/><!-- This is a softkey label -->
+<phrase i="4091" t="Nimi"/>
+<phrase i="4092" t="Etsi"/>
+<phrase i="4093" t="Lähetä"/><!-- This is a softkey label -->
+<phrase i="4094" t="Median takaisinsiirto"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Alas"/><!-- This is a softkey label -->
+<phrase i="4096" t="Ylös"/><!-- This is a softkey label -->
+<phrase i="4097" t="Vaihda"/><!-- This is a softkey label -->
+<phrase i="4098" t="Pyydetään..."/>
+<phrase i="4099" t="Virheellinen numero"/>
+<phrase i="4100" t="Ei linjaa"/>
+<phrase i="4101" t="Aikakatkaisu"/>
+<phrase i="4102" t="Palvelu ei käytettävissä"/>
+<phrase i="4103" t="Verkkovirhe"/>
+<phrase i="4104" t="Protokollavirhe"/>
+<phrase i="4105" t="Yritetään"/>
+<phrase i="4106" t="Puhelua siirretään"/>
+<phrase i="4107" t="Jonossa"/>
+<phrase i="4108" t="Istunnon edistyminen"/>
+<phrase i="4109" t="Hyväksytty"/>
+<phrase i="4110" t="Monivalinta"/>
+<phrase i="4111" t="Siirretty pysyvästi"/>
+<phrase i="4112" t="Siirretty tilapäisesti"/>
+<phrase i="4113" t="Käytä välityspalvelinta"/>
+<phrase i="4114" t="Vaihtoehtoinen palvelu"/>
+<phrase i="4115" t="Virheellinen pyyntö"/>
+<phrase i="4116" t="Ei valtuuksia"/>
+<phrase i="4117" t="Maksullinen"/>
+<phrase i="4118" t="Kielletty"/>
+<phrase i="4119" t="Ei löytynyt"/>
+<phrase i="4120" t="Menetelmä ei ole sallittu"/>
+<phrase i="4121" t="Ei hyväksytä"/>
+<phrase i="4122" t="Välityspalvelimen todennus pakollinen"/>
+<phrase i="4123" t="Pyynnön aikakatkaisu"/>
+<phrase i="4124" t="Lopetettu"/>
+<phrase i="4125" t="Pyydetty kokonaisuus liian suuri"/>
+<phrase i="4126" t="Pyydetty URI-tunniste liian suuri"/>
+<phrase i="4127" t="Mediatyyppiä ei tueta"/>
+<phrase i="4128" t="URI-mallia ei tueta"/>
+<phrase i="4129" t="Virheellinen alatunniste"/>
+<phrase i="4130" t="Alatunniste on pakollinen"/>
+<phrase i="4131" t="Väli on liian lyhyt"/>
+<phrase i="4132" t="Tilapäisesti ei käytettävissä"/>
+<phrase i="4133" t="Kutsun osaa/siirtoa ei ole"/>
+<phrase i="4134" t="Silmukka havaittu"/>
+<phrase i="4135" t="Liian monta siirrettävää"/>
+<phrase i="4136" t="Osoite on puutteellinen"/>
+<phrase i="4137" t="Moniselitteinen"/>
+<phrase i="4138" t="Varattu täällä"/>
+<phrase i="4139" t="Pyyntö lopetettu"/>
+<phrase i="4140" t="Ei hyväksyttävä täällä"/>
+<phrase i="4141" t="Virheellinen tapahtuma"/>
+<phrase i="4142" t="Pyyntö odottaa"/>
+<phrase i="4143" t="Ei tulkittavissa oleva"/>
+<phrase i="4144" t="Sisäinen palvelinvirhe"/>
+<phrase i="4145" t="Ei vielä käytössä"/>
+<phrase i="4146" t="Virheellinen yhdyskäytävä"/>
+<phrase i="4147" t="Palvelu ei käytettävissä"/>
+<phrase i="4148" t="Palvelimen aikakatkaisu"/>
+<phrase i="4149" t="SIP-versiota ei tueta"/>
+<phrase i="4150" t="Viesti on liian suuri"/>
+<phrase i="4151" t="Varattu kaikkialla"/>
+<phrase i="4152" t="Hylkää"/>
+<phrase i="4153" t="Ei ole missään"/>
+<phrase i="4154" t="Siirtokerrosvirhe"/>
+<phrase i="4155" t="Aseman aika"/>
+<phrase i="4156" t="Lukitus"/>
+<phrase i="4157" t="Puhelin"/>
+<phrase i="4158" t="PäivämääräAika"/>
+<phrase i="4159" t="Taustakuva"/>
+<phrase i="4160" t="Talousuutiset"/>
+<phrase i="4161" t="Tapahtuma aikakatkaistiin"/>
+<phrase i="4162" t="Reittiä ei löytynyt"/>
+<phrase i="4163" t="Tilapäisesti ei käytettävissä"/>
+<phrase i="4164" t="Pyyntö peruutettu"/>
+<phrase i="4165" t="Palvelin on varattu"/>
+<phrase i="4166" t="Median kaista ei riitä"/>
+<phrase i="4200" t="404 ei löydy"/>
+<phrase i="4201" t="Lisää omiin tietoihin"/>
+<phrase i="4202" t="Tarkennettu haku"/>
+<phrase i="4203" t="Vastaa"/>
+<phrase i="4204" t="vastaa"/>
+<phrase i="4205" t="Broadsoft-hakemistopyyntö epäonnistui"/>
+<phrase i="4206" t="Broadsoft-hakemisto"/>
+<phrase i="4207" t="Broadsoft: Käyttäjä peruutti pyynnön"/>
+<phrase i="4208" t="Puhelun hallinta-aset."/>
+<phrase i="4209" t="CME-hakemisto"/>
+<phrase i="4210" t="Osasto: "/>
+<phrase i="4211" t="Käytettävä DHCP-asetus"/>
+<phrase i="4212" t="DHCP-uudelleensynkr."/>
+<phrase i="4213" t="Sähköposti: "/>
+<phrase i="4214" t="Merkinnän tiedot"/>
+<phrase i="4215" t="Virhe: Syöte on tyhjä tai virheellinen."/>
+<phrase i="4216" t="Alanum. 10"/>
+<phrase i="4217" t="Alanum. 11"/>
+<phrase i="4218" t="Alanum. 12"/>
+<phrase i="4219" t="Alanum. 7"/>
+<phrase i="4220" t="Alanum. 8"/>
+<phrase i="4221" t="Alanum. 9"/>
+<phrase i="4222" t="Alanumero: "/>
+<phrase i="4223" t="Ensimmäinen: "/>
+<phrase i="4224" t="flash"/>
+<phrase i="4225" t="Pakota: G722"/>
+<phrase i="4226" t="Ryhmätunnus: "/>
+<phrase i="4227" t="HTTP-pyyntö peruutettu"/>
+<phrase i="4228" t="HTTP-pyyntö epäonnistui"/>
+<phrase i="4229" t="Ohita"/>
+<phrase i="4230" t="ohita"/>
+<phrase i="4231" t="Avainjärj. autom. tunn."/>
+<phrase i="4232" t="Avainjärjestelmän IP-os."/>
+<phrase i="4233" t="Viimeinen: "/>
+<phrase i="4234" t="LDAP-virhe: yhteyttä palvelimeen ei voi muodostaa."/>
+<phrase i="4235" t="Linjanäppäin 10"/>
+<phrase i="4236" t="Linjanäppäin 11"/>
+<phrase i="4237" t="Linjanäppäin 12"/>
+<phrase i="4238" t="Linjanäppäin 7"/>
+<phrase i="4239" t="Linjanäppäin 8"/>
+<phrase i="4240" t="Linjanäppäin 9"/>
+<phrase i="4241" t="Matkapuhelin: "/>
+<phrase i="4242" t="Nimi: "/>
+<phrase i="4243" t="Ei vastaavuuksia&#xA;"/>
+<phrase i="4244" t="ei mitään&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Numero: "/>
+<phrase i="4246" t="Puhelinnumero:"/>
+<phrase i="4247" t="Suosi: G722"/>
+<phrase i="4248" t="Ed. pit."/>
+<phrase i="4249" t="ed. pit."/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Kyselyn BS-hakemisto"/>
+<phrase i="4257" t="Pyydetään hakemisto Broadsoft-palvelimesta..."/>
+<phrase i="4258" t="Signaalinvälitysprotokolla"/>
+<phrase i="4259" t="Yksinkertainen haku"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="SPA5X5-malli"/>
+<phrase i="4263" t="SPCP:n automaattinen tunn."/>
+<phrase i="4264" t="toCdir"/>
+<phrase i="4265" t="Liian monta kohdetta&#xA;"/>
+<phrase i="4266" t="Liian monta omaa kohdetta&#xA;"/>
+<phrase i="4267" t="Siirtoprotokolla"/>
+<phrase i="4268" t="Yritetään kirjautua ulos.&#xA;Odota hetki..."/>
+<phrase i="4269" t="Käyttäjätunnus: "/>
+<phrase i="4270" t="XML-muotovirhe tai virheellinen sovellus"/>
+<phrase i="4271" t="XML-palvelut"/>
+<phrase i="4272" t="-"/>
+<phrase i="4273" t="Kumpp. nimi"/>
+<phrase i="4274" t="Kumpp. puh"/>
+<phrase i="4275" t="Kumpp. puhelin"/>
+<phrase i="4276" t="Ensimmäinen:"/>
+<phrase i="4277" t="lopeta"/><!-- This is a softkey label -->
+<phrase i="4278" t="uusi"/><!-- This is a softkey label -->
+<phrase i="4279" t="Syvä basso"/>
+<phrase i="4280" t="Uusi oma tietomerkintä"/>
+<phrase i="4281" t="Hae omasta hakemistosta"/>
+<phrase i="12000" t="Suorita sovellus"/>
+<phrase i="12001" t="IP-osoite ei kelpaa"/>
+<phrase i="12002" t="Valitse linja..."/>
+<phrase i="12003" t="Valitse soittokello..."/>
+<phrase i="12004" t="Valtuutus vaaditaan!"/>
+<phrase i="12005" t="CM-ICMP-Tavoittamaton"/>
+<phrase i="12006" t="Siirtymä(\202H:m:s):"/>
+<phrase i="12007" t="Rekisteröidään"/>
+<phrase i="12008" t="STUN:"/>
+<phrase i="12009" t="Järjestelmänvalvojan VLAN-tunnus"/>
+<phrase i="12010" t="Muu TFTP"/>
+<phrase i="12011" t="Soitonhallinta 1"/>
+<phrase i="12012" t="Oletusreititin 1"/>
+<phrase i="12013" t="DHCP&quot;Staattinen IP"/>
+<phrase i="12014" t="TFTP-palvelin 1"/>
+<phrase i="12015" t="Web-yhteydet käytössä"/>
+<phrase i="12016" t="Käytetty aika"/>
+<phrase i="12017" t="Vast.ott"/>
+<phrase i="12018" t="Versio"/>
+<phrase i="12019" t="Siirto"/>
+<phrase i="12020" t="Yhdistetään..."/>
+<phrase i="12021" t="Päivitys onnistui"/>
+<phrase i="12022" t="Vastaam. puh."/>
+<phrase i="12023" t="Soittotiedosto ei ole käytettävissä!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Rekisteri hylätty:&#xA;%s"/>
+<phrase i="12026" t="SPCP-rekisterimerkintä hylätty [%d]&#xA;...yritetään uudelleen"/>
+<phrase i="12027" t="Virhe: Kohdetta UC500 ei löydy.&#xA;Ota yhteyttä järjestelmänvalvojaan"/>
+<phrase i="12028" t="10 s"/>
+<phrase i="12029" t="20 s"/>
+<phrase i="12030" t="30 s"/>
+<phrase i="12031" t="Ladataan&#xA;%s"/>
+<phrase i="12032" t="(Ei vastaavia tuloksia)"/>
+<phrase i="12033" t="Uusi nimi"/>
+<phrase i="12034" t="Edellinen TFTP-palvelin"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="BMP-testaus"/>
+<phrase i="12037" t="romania"/>
+<phrase i="12038" t="Syvä basso"/>
+<phrase i="12039" t="Avainsana:"/>
+<phrase i="12040" t="Tulokset"/>
+<phrase i="12041" t="Tulos"/>
+<phrase i="12043" t="Kirjaudutaanko ulos?"/>
+<phrase i="12044" t="Valitse numero"/>
+<phrase i="12045" t="pito"/>
+<phrase i="12046" t="Rajoitettu numero"/>
+<phrase i="12047" t="ei alueella!"/>
+<phrase i="12048" t="etsi"/>
+<phrase i="12049" t="WWW-palvelin kirjoitettavissa"/>
+<phrase i="12050" t="espanja (Meksiko)"/>
+<phrase i="12051" t="Puhepostia ei voi noutaa puhelun aikana"/>
+<phrase i="12052" t="Palvelimen osoite on väärä"/>
+<phrase i="12053" t="Verkkoyhteys katkesi"/>
+<phrase i="12054" t="Puhepostin muotovirhe"/>
+<phrase i="12055" t="Pyyntö epäonnistui"/>
+<phrase i="12056" t="Muokkaa:"/>
+<phrase i="12057" t="Valvomattoman siirron kohde:"/>
+<phrase i="12058" t="häiriö"/>
+<phrase i="12059" t="(Ei soivia puheluita)"/>
+<phrase i="12060" t="Vastaamatt. ilmoitus"/>
+<phrase i="12061" t="Häiriö"/>
+<phrase i="12062" t="vapaa"/>
+<phrase i="12063" t="kaapattu"/>
+<phrase i="12064" t="edistyy"/>
+<phrase i="12065" t="hälytetään"/>
+<phrase i="12066" t="yksityinen pidossa"/>
+<phrase i="12067" t="aktiivinen"/>
+<phrase i="12068" t="pidossa"/>
+<phrase i="12069" t="silta aktiivinen"/>
+<phrase i="12070" t="silta pidossa"/>
+<phrase i="12071" t="soi"/>
+<phrase i="12072" t="käytössä"/>
+<phrase i="12073" t="muu soitto"/>
+<phrase i="12074" t="muu pito"/>
+<phrase i="12075" t="ei palvelua"/>
+<phrase i="12076" t="muu vapaa"/>
+<phrase i="12077" t="varattu"/>
+<phrase i="12078" t="Ei määritetty"/>
+<phrase i="12079" t="Vahvistetaan URL-osoitteen päivitys&#xA;Älä katkaise virtaa"/>
+<phrase i="12080" t="Uudelleensynkronointi meneillään"/>
+<phrase i="12081" t="Uudelleensynkronointi onnistui"/>
+<phrase i="12082" t="Uudelleensynkronointi onnistui. &#xA;Puhelin käynnistyy uudelleen. Odota hetki"/>
+<phrase i="12083" t="Uudelleensynkronointi epäonnistui"/>
+<phrase i="12084" t="englanti (Yhdysvallat)"/>
+<phrase i="12085" t="Neuvottelun silta"/>
+<phrase i="12086" t="Nimetön"/>
+<phrase i="12087" t="palauta"/>
+<phrase i="12088" t="jaettu"/>
+<phrase i="12089" t="yhdistetty"/>
+<phrase i="12090" t="lisää hakem."/>
+<phrase i="12091" t="pidossa"/>
+<phrase i="12092" t="virhe"/>
+<phrase i="12093" t="jatketaan"/>
+<phrase i="12094" t="soitetaan"/>
+<phrase i="12095" t="vastataan"/>
+<phrase i="12096" t="Oma pikavalinta"/>
+<phrase i="12097" t="SiirtoLx-soittoluettelo"/>
+<phrase i="12098" t="NeuvLx-soittoluettelo"/>
+<phrase i="12099" t="versio"/>
+<phrase i="12100" t="Yritys&quot;Ryhmä&quot;Oma"/>
+<phrase i="12101" t="Hakemiston nimi"/>
+<phrase i="12102" t="Isäntäpalvelin"/>
+<phrase i="12103" t="-"/>
+<phrase i="12104" t="Aseta agentin tila"/>
+<phrase i="12105" t="Käytettävissä"/>
+<phrase i="12106" t="Uudelleenkäynnistysh."/>
+<phrase i="12107" t="Oletus&quot;HiDef&quot;Vakio"/>
+<phrase i="12108" t="Verkon käynnistysviive"/>
+<phrase i="12109" t="Erillinen Soitto od. -ääni"/>
+<phrase i="12110" t="Ota LLDP-MED käyttöön"/>
+<phrase i="12111" t="Rekisteröinti hylätty:&#xA;%s"/>
+<phrase i="12112" t="Virhe: Rekisteröinti epäonnistui.&#xA;Ota yhteyttä järjestelmänvalvojaan..."/>
+<phrase i="12113" t="Verkkovirhe havaittu."/>
+<phrase i="12114" t="Rekisteröidään..."/>
+<phrase i="12115" t="Verkkovirhe."/>
+<phrase i="12116" t="Salasana"/>
+<phrase i="12117" t="Uudelleensynkronointi onnistui. &#xA;Puhelin käynnistyy uudelleen. Odota hetki."/>
+<phrase i="12118" t="Luurin versio"/>
+<phrase i="12119" t="Autom.&quot;alkuper.&quot;v3"/>
+<phrase i="12120" t="DHCP-virhe"/>
+<phrase i="12121" t="Päivitä"/>
+<phrase i="12122" t="Valmistelu"/>
+<phrase i="12123" t="Käyttäjän käynnistämä"/>
+<phrase i="12124" t="SIP:n aloittama"/>
+<phrase i="12125" t="Järjestelmävirhe"/>
+<phrase i="12126" t="Linkki ei toimi"/>
+<phrase i="12127" t="Järjestelmä 1"/>
+<phrase i="12128" t="Järjestelmä 2"/>
+<phrase i="12129" t="Kopioi IP"/>
+<phrase i="12130" t="Varmuuskopioi IP"/>
+<phrase i="12131" t="Järjestelmä 3"/>
+<phrase i="12132" t="Järjestelmä 4"/>
+<phrase i="12133" t="Järjestelmä 5"/>
+<phrase i="12134" t="Järjestelmä 6"/>
+<phrase i="12135" t="Järjestelmä 7"/>
+<phrase i="12136" t="SIP:n aloittama"/>
+<phrase i="12137" t="San. lataus"/>
+<phrase i="12138" t="VLAN muuttunut"/>
+<phrase i="12139" t="RC"/>
+<phrase i="12140" t="Tehdasasetusten palautus"/>
+<phrase i="12141" t="Ohjelmistopyyntö"/>
+<phrase i="12142" t="IP muuttunut"/>
+<phrase i="12143" t="Syötä tilikoodi"/>
+<phrase i="12144" t="Syötä ulkopuolinen numero"/>
+<phrase i="12145" t="Sisäinen hakemisto"/>
+<phrase i="12146" t="Ulkoinen hakemisto"/>
+<phrase i="12147" t="Ryhmähakemisto"/>
+<phrase i="12148" t="Asemahakemisto"/>
+<phrase i="12149" t="Ulkoinen musiikki"/>
+<phrase i="12150" t="Sivuryhmä 1"/>
+<phrase i="12151" t="Sivuryhmä 2"/>
+<phrase i="12152" t="Sivuryhmä 3"/>
+<phrase i="12153" t="Sivuryhmä 4"/>
+<phrase i="12154" t="Sivuryhmä 5"/>
+<phrase i="12155" t="Ulkoinen sivu"/>
+<phrase i="12156" t="Soittoesimerkki"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Järjestelmän yösoittotila"/>
+<phrase i="12159" t="Puhelua asetetaan parkkiin"/>
+<phrase i="12160" t="Portin peilaus"/>
+<phrase i="12161" t="Ei alueella!"/>
+<phrase i="12162" t="XML-palvelu"/>
+<phrase i="12163" t="heprea"/>
+<phrase i="12164" t="Puhelua asetetaan parkkiin"/>
+<phrase i="12165" t="Linja"/>
+<phrase i="12166" t="Vaihto LTR:n tai RTL:n välillä,&#xA; aiempi syöteteksti&#xA; poistetaan, jatketaanko?"/>
+<phrase i="12167" t="Fonttikoko"/>
+<phrase i="12168" t="Väl. kons. määritykset"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Määritä pikavalinta - linja %d"/><!--Def. means define-->
+<phrase i="12170" t="Määritä pikavalinta - näppäin %d"/><!--Def. means define-->
+<phrase i="12171" t="puheluparkki"/>
+<phrase i="12172" t="Odotetaan lisää numeroita...&#xA;Kun olet valmis, jatka painamalla OK."/>
+<phrase i="12173" t="Pulssi"/>
+<phrase i="12174" t="Poista kaikki"/>
+<phrase i="12175" t="Poista luettelo"/>
+<phrase i="12176" t="Haluatko poistaa kaikki tietueet?"/>
+<phrase i="12177" t="Näyttömoodi"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Alanumero"/>
+<phrase i="12179" t="Molemmat"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Wi-Fi-määritys"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Wi-Fi-laitetta ei löydy."/>
+<phrase i="12182" t="Langaton profiili"/>
+<phrase i="12183" t="Wi-Fi Protected Setup"/>
+<phrase i="12184" t="Langaton tila"/>
+<phrase i="12185" t="Perusmääritys"/>
+<phrase i="12186" t="Suojaustila"/>
+<phrase i="12187" t="Salausmääritys"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Taajuusalue"/>
+<phrase i="12190" t="WPA-salaus"/>
+<phrase i="12191" t="Jaetun avaimen muoto"/>
+<phrase i="12192" t="WPA-avain"/>
+<phrase i="12193" t="WEP-todennustyyppi"/>
+<phrase i="12194" t="WEP-avaimen pituus"/>
+<phrase i="12195" t="WEP-avain"/>
+<phrase i="12196" t="Profiili"/>
+<phrase i="12197" t="PIN-määritys"/>
+<phrase i="12198" t="Langaton PIN kokoonpano alkoi!"/>
+<!--phrase i="12199" t="Anna seuraavat numerot PIN-koodia edellyttäviin laitteisiin: [%s]. Valitse sitten tämä tila."/-->
+<phrase i="12200" t="Langaton haku..."/>
+<phrase i="12201" t="Valitse profiili"/>
+<phrase i="12202" t="Painikemääritys"/>
+<phrase i="12203" t="Langaton painonappi kokoonpano alku"/>
+<phrase i="12204" t="Wi-Fi Protected Setup"/>
+<phrase i="12205" t="Langaton tila"/>
+<phrase i="12206" t="Verkon nimi (SSID)"/>
+<phrase i="12207" t="Signaalin vahvuus"/>
+<phrase i="12208" t="haku"/>
+<phrase i="12209" t="Tämän toiminnon käyttäminen edellyttää päivittämistä uusimpaan WBPN-laiteohjelmistoon."/>
+<phrase i="12210" t="Vieraskirjautuminen"/>
+<phrase i="12211" t="vierSis"/>
+<phrase i="12212" t="viesUlos"/>
+<phrase i="12213" t="(Vieras)"/> 
+<phrase i="12214" t="Kaikki parametrit palauttaa tehtaan oletusarvoihin. Haluatko jatkaa?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

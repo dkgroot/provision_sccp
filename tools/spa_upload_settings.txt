@@ -1,0 +1,1 @@
+http://192.168.178.226/admin/resync?http://192.168.178.3:6970/settings/SPA504G-cfg.xml

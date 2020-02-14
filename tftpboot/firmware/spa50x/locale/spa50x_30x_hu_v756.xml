@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Hungarian</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Tartománynév"/>
+<phrase i="204" t="IP-cím"/>
+<phrase i="205" t="Alhálózati maszk"/>
+<phrase i="212" t="1. DNS-kiszolgáló"/>
+<phrase i="213" t="2. DNS-kiszolgáló"/>
+<phrase i="225" t="Telefonkönyvek URL-címe"/>
+<phrase i="226" t="Üzenetek URL-címe"/>
+<phrase i="227" t="Szolgáltatások URL-címe"/>
+<phrase i="354" t="Fogadott hívások"/>
+<phrase i="355" t="Indított hívások"/>
+<phrase i="364" t="Kontraszt"/>
+<phrase i="365" t="Hálózat konfigurálása"/>
+<phrase i="374" t="1. csiripelés"/>
+<phrase i="375" t="2. csiripelés"/>
+<phrase i="378" t="Csengetés típusa"/>
+<phrase i="384" t="Állapotüzenetek"/>
+<phrase i="393" t="Hálózati statisztikák"/>
+<phrase i="473" t="IP-cím engedélyezve"/>
+<phrase i="500" t="DHCP-cím engedélyezve"/>
+<phrase i="502" t="Konfiguráció törlése"/>
+<phrase i="552" t="Hitelesítési URL-cím"/>
+<phrase i="585" t="Felhasználó területi beállításai"/>
+<phrase i="586" t="Hálózat területi beállításai"/>
+<phrase i="635" t="DHCP-kiszolgáló"/>
+<phrase i="655" t="Modellinformációk"/>
+<phrase i="657" t="Modellszám"/>
+<phrase i="670" t="Alapértelmezett csengetés"/>
+<phrase i="676" t="AbbrDial"/>
+<phrase i="716" t="Biztonsági konfiguráció"/>
+<phrase i="3000" t="Elmulasztott hívások"/>
+<phrase i="3001" t="Újratárcsázási lista"/>
+<phrase i="3002" t="Csengetés hangereje"/>
+<phrase i="3003" t="Hangszóró hangereje"/>
+<phrase i="3004" t="Fülhallgató hangereje"/>
+<phrase i="3005" t="Kézibeszélő hangereje"/>
+<phrase i="3006" t="LCD kontraszt"/>
+<phrase i="3007" t="állapot"/>
+<phrase i="3008" t="Állapot"/>
+<phrase i="3009" t="4. vonalbillentyű"/><!-- comment content -->
+<phrase i="3010" t="3. vonalbillentyű"/>
+<phrase i="3011" t="2. vonalbillentyű"/>
+<phrase i="3012" t="1. vonalbillentyű"/>
+<phrase i="3013" t="4. mellék"/>
+<phrase i="3014" t="3. mellék"/>
+<phrase i="3015" t="2. mellék"/>
+<phrase i="3016" t="1. mellék"/>
+<phrase i="3018" t="DND"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Helyi szolgáltatások"/>
+<phrase i="3020" t="NewCall"/>
+<phrase i="3021" t="Bejövő hívás csengetés"/>
+<phrase i="3022" t="Belső telefonrendszer"/>
+<phrase i="3023" t="ÚjrTár"/><!-- This is a softkey label -->
+<phrase i="3027" t="A rendszer újraindul.&#xA;Kérem várjon"/>
+<phrase i="3028" t="A rendszer újratölt.&#xA;Kérem várjon"/>
+<phrase i="3029" t="Visszaállítás a gyári alapértékekre.&#xA;Kérem várjon"/>
+<phrase i="3030" t="Megerősíti a rendszer újraindítását?"/>
+<phrase i="3031" t="Megerősíti a rendszer újratöltését?"/>
+<phrase i="3032" t="Minden paraméter a gyári&#xA;alapértékekre fog visszaállni.&#xA;Folytatja?"/>
+<phrase i="3033" t="Hibás jelszó. Ismét?"/>
+<phrase i="3034" t="Új jelszó:"/>
+<phrase i="3035" t="Hangpostafiók száma:"/>
+<phrase i="3036" t="Eltolás (Ó:p:mp):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Idő (Ó:p:mp):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Dátum (h/n/é):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Kijel."/><!-- This is a softkey label -->
+<phrase i="3040" t="Bejel."/><!-- This is a softkey label -->
+<phrase i="3041" t="x beállítása"/>
+<phrase i="3042" t="Beállítás"/>
+<phrase i="3043" t="Hálózat"/>
+<phrase i="3044" t="Rendszergazdai jelszó megadása:"/>
+<phrase i="3045" t="Nem"/>
+<phrase i="3046" t="HívTov.: nincs Vál. Késl."/>
+<phrase i="3047" t="HívTov.: nincs Vál. szám"/>
+<phrase i="3048" t="HívTov.: foglalt szám"/>
+<phrase i="3049" t="HívTov.: minden szám"/>
+<phrase i="3050" t="Többes üz.küld. cím"/>
+<phrase i="3051" t="2. nem DHCP NTP kiszolg."/>
+<phrase i="3052" t="1. nem DHCP NTP kiszolg."/>
+<phrase i="3053" t="2. nem DHCP DNS"/>
+<phrase i="3054" t="1. nem DHCP DNS"/>
+<phrase i="3055" t="Nem DHCP alapé. útvál."/>
+<phrase i="3056" t="Nem DHCP alhálózati maszk"/>
+<phrase i="3057" t="Nem DHCP IP-cím"/>
+<phrase i="3058" t="Webkiszolg. Engedélyez."/>
+<phrase i="3059" t="Jelenlegi átjáró"/>
+<phrase i="3060" t="Jelenlegi hálózati maszk"/>
+<phrase i="3061" t="Tartomány"/>
+<phrase i="3062" t="Állomásnév"/>
+<phrase i="3063" t="Jelenlegi IP-cím"/>
+<phrase i="3064" t="DHCP engedélyezése"/>
+<phrase i="3065" t="WAN-kapcsolat típusa"/>
+<phrase i="3066" t="Dátum formátuma"/>
+<phrase i="3067" t="Idő formátuma"/>
+<phrase i="3068" t="Hang küldése hangszóróra"/>
+<phrase i="3069" t="Személyhív. Aut. Megv."/>
+<phrase i="3070" t="Preferált hangeszköz"/>
+<phrase i="3071" t="Tárcsázási segédlet"/>
+<phrase i="3072" t="Biztonságos hívás"/>
+<phrase i="3073" t="Ne zavarjanak"/>
+<phrase i="3074" t="Névtelen hívás blokkolása"/>
+<phrase i="3075" t="Hív Fél Azon. Blokk."/>
+<phrase i="3076" t="Ügyfél tanúsítványa"/>
+<phrase i="3077" t="MAC-cím"/>
+<phrase i="3078" t="Hardververzió"/>
+<phrase i="3079" t="Szoftververzió"/>
+<phrase i="3080" t="Sorozatszám"/>
+<phrase i="3081" t="Terméknév"/>
+<phrase i="3082" t="Előnyben részesített készülék"/>
+<phrase i="3083" t="Állomásnév"/>
+<phrase i="3085" t="Hívásvárakoztatás állapota"/>
+<phrase i="3087" t="Jelszó beállítása"/>
+<phrase i="3088" t="Gyári alapértékek"/>
+<phrase i="3089" t="Újraindítás"/>
+<phrase i="3090" t="Újratöltés"/>
+<phrase i="3092" t="Termékinformáció"/>
+<phrase i="3094" t="Hangposta"/>
+<phrase i="3095" t="Idő/dátum"/>
+<phrase i="3096" t="Hívástovábbítás"/>
+<phrase i="3097" t="Beállítások"/>
+<phrase i="3099" t="Híváselőzmények"/>
+<phrase i="3100" t="Gyorstárcsázás"/>
+<phrase i="3101" t="Telefonkönyv"/>
+<phrase i="3102" t="x gyorstárcsázásának megadása"/>
+<phrase i="3104" t="10. csengőhang"/>
+<phrase i="3105" t="9. csengőhang"/>
+<phrase i="3106" t="8. csengőhang"/>
+<phrase i="3107" t="7. csengőhang"/>
+<phrase i="3108" t="6. csengőhang"/>
+<phrase i="3109" t="5. csengőhang"/>
+<phrase i="3110" t="4. csengőhang"/>
+<phrase i="3111" t="3. csengőhang"/>
+<phrase i="3112" t="2. csengőhang"/>
+<phrase i="3113" t="1. csengőhang"/>
+<phrase i="3114" t="Mellék csengetése"/>
+<phrase i="3115" t="1. mellék: "/>
+<phrase i="3116" t="Csengőhang"/>
+<phrase i="3117" t="Törlés: "/>
+<phrase i="3118" t="A lista üres"/>
+<phrase i="3119" t="Rossz jelszó. Ismét?"/>
+<phrase i="3120" t="Jelszó megadása:"/>
+<phrase i="3121" t="HívVár"/>
+<phrase i="3123" t="HívásVárak. állapot&#xA;igénylése sikertelen"/>
+<phrase i="3124" t="Hívásvárakoztatás üres"/>
+<phrase i="3125" t="Hívásvárakoztatás &#xA;állapotának igénylése..."/>
+<phrase i="3126" t="Érvénytelen hívásvárakoztatási szám&#xA;Próbálja meg ismét"/>
+<phrase i="3127" t="Állomás csengetése"/>
+<phrase i="3128" t="Hívás fogadása"/>
+<phrase i="3129" t="Válasszon tartó vonalat az&#xA;átadáshoz"/>
+<phrase i="3130" t="Válasszon tartó vonalat a&#xA;konferenciához"/>
+<phrase i="3131" t="Tárcsázza a(z) *kódot"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="G729A kényszerítése"/>
+<phrase i="3133" t="G729A előnyben részesítése"/>
+<phrase i="3134" t="G726r40 kényszerítése"/>
+<phrase i="3135" t="G726r40 előnyben részesítése"/>
+<phrase i="3136" t="G726r32 kényszerítése"/>
+<phrase i="3137" t="G726r32 előnyben részesítése"/>
+<phrase i="3138" t="G726r24 kényszerítése"/>
+<phrase i="3139" t="G726r24 előnyben részesítése"/>
+<phrase i="3140" t="G726r16 kényszerítése"/>
+<phrase i="3141" t="G726r16 előnyben részesítése"/>
+<phrase i="3142" t="G723 kényszerítése"/>
+<phrase i="3143" t="G723 előnyben részesítése"/>
+<phrase i="3144" t="G711A kényszerítése"/>
+<phrase i="3145" t="G711A előnyben részesítése"/>
+<phrase i="3146" t="G711U kényszerítése"/>
+<phrase i="3147" t="G711U előnyben részesítése"/>
+<phrase i="3148" t="Hívás személyhívón"/>
+<phrase i="3149" t="Következő hívás biztonságossá tételének visszavonása"/>
+<phrase i="3150" t="Következő hívás biztonságossá tétele"/>
+<phrase i="3151" t="Minden hívás biztonságossá tételének visszavonása"/>
+<phrase i="3152" t="Minden hívás biztonságossá tétele"/>
+<phrase i="3153" t="Ne zavarjanak visszavonása"/>
+<phrase i="3155" t="Névtelen hívások blokkolásának feloldása"/>
+<phrase i="3157" t="Hívófél-azonosítás blokkolásának feloldása Tovább"/>
+<phrase i="3158" t="Hívófél-azonosítás blokkolása Tovább"/>
+<phrase i="3159" t="Hívófél-azonosítás blokkolásának visszavonása"/>
+<phrase i="3160" t="Hívófél-azonosítás blokkolása"/>
+<phrase i="3161" t="Visszahívás visszavonása"/>
+<phrase i="3162" t="Visszahívás"/>
+<phrase i="3163" t="Hívástovábbítás, ha nincs válasz – visszavonás"/>
+<phrase i="3164" t="Hívástovábbítás, ha nincs válasz"/>
+<phrase i="3165" t="Hívástovábbítás, ha foglalt – visszavonás"/>
+<phrase i="3166" t="Hívástovábbítás, ha foglalt"/>
+<phrase i="3167" t="Hívástovábbítás, minden esetben – visszavonás"/>
+<phrase i="3168" t="Hívástovábbítás minden esetben"/>
+<phrase i="3169" t="Visszahívás"/>
+<phrase i="3190" t="Fülhallgató   "/>
+<phrase i="3191" t="Kézibeszélő   "/>
+<phrase i="3192" t="Hangszóró   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Billentyűzet   "/>
+<phrase i="3201" t="Sikerült"/>
+<phrase i="3202" t="Sikertelen"/>
+<phrase i="3216" t="Csengés:"/>
+<phrase i="3217" t="Szám:"/>
+<phrase i="3218" t="Név:"/>
+<phrase i="3219" t="Törlés:"/>
+<phrase i="3220" t="Csengésválasztó"/>
+<phrase i="3221" t="Telefonkönyv"/>
+<phrase i="3222" t="Szám megadása:"/>
+<phrase i="3223" t="Személyhívó cél Megad."/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Hívásfogadási csoport megadása:"/>
+<phrase i="3225" t="Speciális szolgáltatási cél megadása:"/>
+<phrase i="3226" t="Ajánlási szolgáltatási cél megadása:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Megsz. Várak. szám Megad."/>
+<phrase i="3228" t="Adja meg a várakoztatott számot:"/>
+<phrase i="3229" t="Feltétlen átkapcsolás céljának megadása:"/>
+<phrase i="3230" t="Adja meg a hívástovábbítás, ha nincs válasz telefonszámát:"/>
+<phrase i="3231" t="Adja meg a hívástovábbítás, ha foglalt telefonszámát:"/>
+<phrase i="3232" t="HívTov mind. szám meg"/>
+<phrase i="3234" t="Több számjegyet adjon meg:"/>
+<phrase i="3237" t="Elmulasztott hívások"/>
+<phrase i="3238" t="Megv. hívások"/>
+<phrase i="3239" t="Megválaszolt hívások"/>
+<phrase i="3240" t="Újratárcsázási lista"/>
+<phrase i="3241" t="Hálózat inicializálása"/>
+<phrase i="3242" t="DNS ellenőrzése"/>
+<phrase i="3243" t="Tel.K."/><!-- This is a softkey label -->
+<phrase i="3244" t="Hívtov"/><!-- This is a softkey label -->
+<phrase i="3245" t="Nyelv"/>
+<phrase i="3246" t="Nyelvválasztás"/>
+<phrase i="3248" t="Továbbított hívások"/>
+<phrase i="3249" t="elmulasztott hívás"/>
+<phrase i="3250" t="elmulasztott hívás"/>
+<phrase i="3251" t="több"/><!-- This is a softkey label -->
+<phrase i="3252" t="Ismét"/><!-- This is a softkey label -->
+<phrase i="3253" t="Megsz."/><!-- This is a softkey label -->
+<phrase i="3254" t="NemelÉ"/><!-- This is a softkey label -->
+<phrase i="3255" t="Elérh."/><!-- This is a softkey label -->
+<phrase i="3258" t="CsFelv"/><!-- This is a softkey label -->
+<phrase i="3259" t="Felv."/><!-- This is a softkey label -->
+<phrase i="3260" t="VárSzü"/><!-- This is a softkey label -->
+<phrase i="3261" t="HívVár"/><!-- This is a softkey label -->
+<phrase i="3262" t="VakÁtv"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="ÁtvVx"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="Átvit."/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*kód"/><!-- This is a softkey label -->
+<phrase i="3267" t="kivál."/><!-- This is a softkey label -->
+<phrase i="3268" t="mentés"/><!-- This is a softkey label -->
+<phrase i="3270" t="Folyt."/><!-- This is a softkey label -->
+<phrase i="3272" t="előző"/><!-- This is a softkey label -->
+<phrase i="3273" t="leját."/><!-- This is a softkey label -->
+<phrase i="3274" t="beill."/><!-- This is a softkey label -->
+<phrase i="3275" t="beáll."/><!-- This is a softkey label -->
+<phrase i="3276" t="ok"/><!-- This is a softkey label -->
+<phrase i="3277" t="szám"/><!-- This is a softkey label -->
+<phrase i="3278" t="tovább"/><!-- This is a softkey label -->
+<phrase i="3279" t="Elmul."/><!-- This is a softkey label -->
+<phrase i="3281" t="UtÚjrH"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="Csatl."/><!-- This is a softkey label -->
+<phrase i="3283" t="IP-cím"/><!-- This is a softkey label -->
+<phrase i="3284" t="kilép"/><!-- This is a softkey label -->
+<phrase i="3285" t="szerk."/><!-- This is a softkey label -->
+<phrase i="3286" t="dnd"/><!-- This is a softkey label -->
+<phrase i="3288" t="tárcs."/><!-- This is a softkey label -->
+<phrase i="3289" t="törlés"/><!-- This is a softkey label -->
+<phrase i="3290" t="másol"/><!-- This is a softkey label -->
+<phrase i="3291" t="KonfVx"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="konf"/><!-- This is a softkey label -->
+<phrase i="3293" t="törlés"/><!-- This is a softkey label -->
+<phrase i="3294" t="-H.T."/><!-- This is a softkey label -->
+<phrase i="3295" t="-dnd"/><!-- This is a softkey label -->
+<phrase i="3296" t="módos."/><!-- This is a softkey label -->
+<phrase i="3298" t="mégse"/><!-- This is a softkey label -->
+<phrase i="3299" t="híd"/><!-- This is a softkey label -->
+<phrase i="3300" t="KarTör"/><!-- This is a softkey label -->
+<phrase i="3301" t="alpha"/><!-- This is a softkey label -->
+<phrase i="3302" t="h.adás"/><!-- This is a softkey label -->
+<phrase i="3303" t="x beállítása"/>
+<phrase i="3304" t="Beállítás"/>
+<phrase i="3305" t="Megosztott"/>
+<phrase i="3306" t="Kísérlet a folytatásra"/>
+<phrase i="3307" t="Kísérlet a tartásra"/>
+<phrase i="3308" t="Tartásban"/>
+<phrase i="3309" t="Csatlakoztatva"/>
+<phrase i="3310" t="Válaszol"/>
+<phrase i="3311" t="Hívás befejeződött"/>
+<phrase i="3312" t="Csenget"/>
+<phrase i="3313" t="Hívott fél csengetése"/>
+<phrase i="3314" t="Hívás"/>
+<phrase i="3315" t="Kapcsolódás a STUN-kiszolgálóhoz"/>
+<phrase i="3316" t="Tárcsázás"/>
+<phrase i="3317" t="Állomás kiválasztása"/>
+<phrase i="3318" t="Hívás kiválasztása"/>
+<phrase i="3319" t="Hívásinformációk gyűjtése"/>
+<phrase i="3320" t="Vonal megszerzésének megkísérlése"/>
+<phrase i="3321" t="Kész"/>
+<phrase i="3322" t="Igen"/>
+<phrase i="3323" t="Nem regisztrált"/>
+<phrase i="3324" t="Regisztrált"/>
+<phrase i="3325" t="Bejövő"/>
+<phrase i="3326" t="Kimenő"/>
+<phrase i="3327" t="Visszahívás"/>
+<phrase i="3328" t="Továbbított"/>
+<phrase i="3329" t="Átadott"/>
+<phrase i="3330" t="Érvénytelen"/>
+<phrase i="3331" t="Tétlen"/>
+<phrase i="3332" t="CWT"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Csengetés – Visszahívás"/>
+<phrase i="3334" t="Csengetés – Tartás"/>
+<phrase i="3335" t="Csengetés"/>
+<phrase i="3336" t="Biztonságos hívás jelzése"/>
+<phrase i="3337" t="Konferencia"/>
+<phrase i="3338" t="Tartás"/>
+<phrase i="3339" t="Hiba"/>
+<phrase i="3340" t="Megerősítés"/>
+<phrase i="3341" t="Kérés"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Villáról levéve figyelmeztetés"/>
+<phrase i="3347" t="Visszacsengetés"/>
+<phrase i="3348" t="Átrendezés"/>
+<phrase i="3349" t="Foglalt"/>
+<phrase i="3350" t="MWI"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Külső tárcsázás"/>
+<phrase i="3352" t="2. tárcsázás"/>
+<phrase i="3353" t="Tárcs."/><!-- This is a softkey label -->
+<phrase i="3354" t="nincs"/>
+<phrase i="3355" t="Xfr"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Tovább"/>
+<phrase i="3357" t="Cb"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Hívott fél"/>
+<phrase i="3359" t="Hívó fél"/>
+<phrase i="3360" t="Új bejegyzés"/>
+<phrase i="3361" t="(TELE)"/>
+<phrase i="3362" t="Vállalati telefonkönyv"/>
+<phrase i="3363" t="HívFog szám megadása:"/>
+<phrase i="3365" t="Gyorstárcsázás"/>
+<phrase i="3366" t="&lt;Nincs hozzárendelve&gt;"/>
+<phrase i="3367" t="Gyorstárcs. megad. 2"/>
+<phrase i="3368" t="3. gyorstárcsázás Megad."/>
+<phrase i="3369" t="4. gyorstárcsázás Megad."/>
+<phrase i="3370" t="5. gyorstárcsázás Megad."/>
+<phrase i="3371" t="6. gyorstárcsázás Megad."/>
+<phrase i="3372" t="7. gyorstárcsázás Megad."/>
+<phrase i="3373" t="8. gyorstárcsázás Megad."/>
+<phrase i="3374" t="9. gyorstárcsázás Megad."/>
+<phrase i="3375" t="Gyorstárcsázás Megad."/>
+<phrase i="3376" t="Híváselőzmények"/>
+<phrase i="3377" t="Megválaszolt hívások"/>
+<phrase i="3378" t="Csengőhang"/>
+<phrase i="3379" t="E1 csengés"/>
+<phrase i="3380" t="E2 csengés"/>
+<phrase i="3381" t="E3 csengés"/>
+<phrase i="3382" t="E4 csengés"/>
+<phrase i="3383" t="Vállalati telefonkönyv"/>
+<phrase i="3384" t="Beállítások"/>
+<phrase i="3385" t="i/n"/><!-- This is a softkey label -->
+<phrase i="3386" t="Hív Fél Azon. Blokk.&#xA;"/>
+<phrase i="3387" t="Névtelen hívás blokkolása&#xA;"/>
+<phrase i="3388" t="Ne zavarjanak&#xA;"/>
+<phrase i="3389" t="Biztonságos hívás&#xA;"/>
+<phrase i="3390" t="Tárcsázási segédlet&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Előnyb. Rész. Hangeszk.&#xA;"/>
+<phrase i="3394" t="Személyhív. Aut. Megv.&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Hang küldése hangszóróra&#xA;"/>
+<phrase i="3396" t="Idő formátuma&#xA;"/>
+<phrase i="3397" t="Dátum formátuma&#xA;"/>
+<phrase i="3398" t="nap/hónap"/>
+<phrase i="3399" t="hónap/nap"/>
+<phrase i="3400" t="Nyelv"/>
+<phrase i="3401" t="HívVár. állapota"/>
+<phrase i="3402" t="Állapot"/>
+<phrase i="3403" t="Telefon állapota"/>
+<phrase i="3405" t="2. mellék állapota"/>
+<phrase i="3406" t="L1 állapota"/>
+<phrase i="3407" t="L2 állapota"/>
+<phrase i="3408" t="L3 állapota"/>
+<phrase i="3409" t="L4 állapota"/>
+<phrase i="3410" t="1. hívás:"/>
+<phrase i="3412" t="Dátum: "/>
+<phrase i="3413" t="Bekapcsolva: "/>
+<phrase i="3415" t="Ut. Reg.: %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Következő regisztráció %us&#xA;"/>
+<phrase i="3418" t="1. hívás: "/>
+<phrase i="3420" t="Hang: "/>
+<phrase i="3421" t="Nincs"/>
+<phrase i="3422" t="Nincs felszerelve"/>
+<phrase i="3423" t="AlapÉ."/><!-- This is a softkey label -->
+<phrase i="3425" t="Állomás"/>
+<phrase i="3426" t="Személyhívás csoportnak"/>
+<phrase i="3427" t="Automatikus felügyelő"/>
+<phrase i="3428" t="Belső zene"/>
+<phrase i="3429" t="Kérem várjon"/>
+<phrase i="3430" t="Kísérlet a bejelentkezésre"/>
+<phrase i="3432" t="Kapcsolódás az automatikus híváselosztó-kiszolgálóhoz&#xA;az elérhetőség kiderítésére"/>
+<phrase i="3433" t="Kapcsolódás az automatikus híváselosztó-kiszolgálóhoz&#xA;az elérhetetlenség kiderítésére"/>
+<phrase i="3434" t="Bejelentkezés sikertelen.&#xA;"/>
+<phrase i="3435" t="Ellenőrizze felhasználói azonosítóját&#xA;és jelszavát."/>
+<phrase i="3437" t="Elérhetőségi értesítés sikertelen&#xA;"/>
+<phrase i="3438" t="Elérhetetlenségi értesítés sikertelen&#xA;"/>
+<phrase i="3439" t="Felhasználói azonosító:"/>
+<phrase i="3440" t="Jelszó:"/>
+<phrase i="3441" t="Automatikus híváselosztó bejelentkezés"/>
+<phrase i="3445" t="Firmware frissítése&#xA;Ne húzza ki a tápkábelt&#xA;A telefon automatikusan újra fog indulni"/>
+<phrase i="3446" t="&#xA;&#xA;PU: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="A rendszer betöltődik"/>
+<phrase i="3451" t="Vállalati&#xA;telefonkönyv lekérése a kiszolgálóról..."/>
+<phrase i="3452" t="Vállalati&#xA;telefonkönyv lekérése sikertelen"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="Ismeretlen bejegyzés"/>
+<phrase i="3468" t="Ismeretlen felhasználó"/>
+<phrase i="3469" t="a következő által: %s"/>
+<phrase i="3470" t="átjáró"/>
+<phrase i="3472" t="Hívás megosztása %s"/>
+<phrase i="3473" t="a következő által: %s&#xA;"/>
+<phrase i="3476" t="címzett"/>
+<phrase i="3477" t="állapot"/>
+<phrase i="3478" t="befejezett"/>
+<phrase i="3479" t="kísérlet"/>
+<phrase i="3480" t="korán"/>
+<phrase i="3481" t="halad"/>
+<phrase i="3482" t="megerősített"/>
+<phrase i="3503" t="Felhasználó %d"/>
+<phrase i="3504" t="Nincs csengés"/>
+<phrase i="3509" t="Felhasználó %d (nincs felszerelve)"/>
+<phrase i="3510" t="12 órás"/>
+<phrase i="3511" t="24 órás"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Statikus IP-cím"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="pwd"/><!-- password -->
+<phrase i="3517" t="cfg"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Nyelv (nem érhető el)"/>
+<phrase i="3519" t="Nem érhető el"/>
+<phrase i="3520" t="megerősítés"/>
+<phrase i="3521" t="kontraszt"/>
+<phrase i="3522" t="spd_dial"/>
+<phrase i="3523" t="%d nap"/>
+<phrase i="3524" t="1 nap"/>
+<phrase i="3525" t="Kikapcsolva&#xA;"/>
+<phrase i="3526" t="Hívás %d típusa: %s&#xA;"/>
+<phrase i="3527" t="Másik fél neve: %s&#xA;"/>
+<phrase i="3528" t="Másik fél tel: %s&#xA;"/>
+<phrase i="3529" t="Időtart: %02d:%02d:%02d"/>
+<phrase i="3530" t="Hívás %d: %s&#xA;"/>
+<phrase i="3531" t="Hang: %s&#xA;"/>
+<phrase i="3532" t="Kódolás: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Dekódolás: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Nincs szolgáltatás&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Telefon állapota"/>
+<phrase i="3536" t="Mellék %d állapota"/>
+<phrase i="3537" t="L%d állapota"/>
+<phrase i="3538" t="TimeDate"/>
+<phrase i="3539" t="Hangerő-módosítások mentése&#xA;"/>
+<phrase i="3540" t="Kontraszt-módosítások mentése&#xA;"/>
+<phrase i="3541" t="újraT."/><!-- This is a softkey label -->
+<phrase i="3542" t="Bejel."/><!-- This is a softkey label -->
+<phrase i="3543" t="Kijel."/><!-- This is a softkey label -->
+<phrase i="3544" t="hangerő"/>
+<phrase i="3545" t="beállítás"/>
+<phrase i="3546" t="Elmulasztott hívás"/>
+<phrase i="3548" t="Sikertelen&#xA;"/>
+<phrase i="3549" t="hívásvárakoztatás megszüntetése?"/>
+<phrase i="3550" t="Angol"/>
+<phrase i="3551" t="Spanyol"/>
+<phrase i="3552" t="Portugál"/>
+<phrase i="3553" t="Olasz"/>
+<phrase i="3554" t="Német"/>
+<phrase i="3555" t="Dán"/>
+<phrase i="3556" t="Finn"/>
+<phrase i="3557" t="Holland"/>
+<phrase i="3558" t="Norvég"/>
+<phrase i="3559" t="Francia"/>
+<phrase i="3560" t="Háttérvilágítás időzítése"/>
+<phrase i="3561" t="Mindig bekapcsolva"/>
+<phrase i="3562" t="Kikapcsolva"/>
+<phrase i="3563" t="Elmul. Hív. parancsikon"/>
+<phrase i="3564" t="Hívásvárakoztatás"/>
+<phrase i="3565" t="VLAN engedélyezése"/>
+<phrase i="3566" t="VLAN-azonosító"/>
+<phrase i="3567" t="Office"/>
+<phrase i="3568" t="klasszikus-1"/>
+<phrase i="3569" t="klasszikus-2"/>
+<phrase i="3570" t="klasszikus-3"/>
+<phrase i="3571" t="klasszikus-4"/>
+<phrase i="3572" t="egyszerű-1"/>
+<phrase i="3573" t="egyszerű-2"/>
+<phrase i="3574" t="egyszerű-3"/>
+<phrase i="3575" t="egyszerű-4"/>
+<phrase i="3576" t="egyszerű-5"/>
+<phrase i="3577" t="Felszerelve"/>
+<phrase i="3578" t="delChar"/>
+<phrase i="3579" t="HívTov"/><!-- This is a softkey label -->
+<phrase i="3580" t="DND KI"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Ne zavarjanak "/>
+<phrase i="3582" t="HTovKI"/><!-- This is a softkey label -->
+<phrase i="3583" t="KonfV."/><!-- This is a softkey label -->
+<phrase i="3584" t="VisszH"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Előző"/><!-- This is a softkey label -->
+<phrase i="3586" t="Átvit."/><!-- This is a softkey label -->
+<phrase i="3587" t="ÁtvitV"/><!-- This is a softkey label -->
+<phrase i="3588" t="VakÁtv"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="CsFelv"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Előnéz"/><!-- This is a softkey label -->
+<phrase i="3591" t="GUI tulajdonság"/>
+<phrase i="3592" t="GUI tulajdonság"/>
+<phrase i="3593" t="Előnyben részesített háttérkép"/>
+<phrase i="3594" t="Letöltött"/>
+<phrase i="3596" t="Előnyben részesített menü színséma"/>
+<phrase i="3597" t="Világoskék"/>
+<phrase i="3598" t="Világoszöld"/>
+<phrase i="3599" t="Rózsaszín"/>
+<phrase i="3600" t="Ezüst"/>
+<phrase i="3601" t="Továbbított hívások "/>
+<phrase i="3602" t="5. vonalbillentyű"/>
+<phrase i="3603" t="6. vonalbillentyű"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="5. mellék"/>
+<phrase i="3606" t="6. mellék"/>
+<phrase i="3607" t="Hangszóró"/>
+<phrase i="3608" t="Fejhallgató"/>
+<phrase i="3609" t="de"/>
+<phrase i="3610" t="du"/>
+<phrase i="3614" t="Vonal %d: %s(%s)"/>
+<phrase i="3616" t="Egyéni nullázás"/>
+<phrase i="3617" t="Ellenőrizze a frissítéseket&#xA;a profil testreszabásához?&#xA;(a háttérben működik)"/>
+<phrase i="3618" t="Webszolgáltatás"/>
+<phrase i="3619" t="Webszolgáltatás"/>
+<phrase i="3620" t="Helyi hírek"/>
+<phrase i="3621" t="A világ hírei"/>
+<phrase i="3623" t="Sporthírek"/>
+<phrase i="3624" t="Politikai hírek"/>
+<phrase i="3625" t="Technológiai hírek"/>
+<phrase i="3626" t="Szórakoztatóipari hírek"/>
+<phrase i="3627" t="Forgalom"/>
+<phrase i="3628" t="Tőzsdei szimbólum"/>
+<phrase i="3629" t="Tőzsdei szimbólum:"/>
+<phrase i="3630" t="1. RSS adatfolyam"/>
+<phrase i="3631" t="2. RSS adatfolyam"/>
+<phrase i="3632" t="3. RSS adatfolyam"/>
+<phrase i="3633" t="4. RSS adatfolyam"/>
+<phrase i="3634" t="5. RSS adatfolyam"/>
+<phrase i="3635" t="Szimbólum:"/>
+<phrase i="3636" t="Utolsó:"/>
+<phrase i="3637" t="Módosítás:"/>
+<phrase i="3638" t="Ajánlat:"/>
+<phrase i="3639" t="Kérés:"/>
+<phrase i="3640" t="Ellátási szolgáltatás"/>
+<phrase i="3641" t="Hívásstatisztika-előzmények"/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="Profil:%s&#xA;"/>
+<phrase i="3644" t="Állapot:%s&#xA;"/>
+<phrase i="3645" t="Ok:%s&#xA;"/>
+<phrase i="3647" t="Kikapcsolva"/>
+<phrase i="3649" t="Elemzési hiba a szabályban"/>
+<phrase i="3650" t="Folyamatban"/>
+<phrase i="3651" t="Sikeres"/>
+<phrase i="3652" t="DNS-feloldás"/>
+<phrase i="3653" t="Nincs kiszolgálónév"/>
+<phrase i="3654" t="Érvénytelen vagy korlátozott kiszolgáló"/>
+<phrase i="3655" t="Az erőforrások kimerültek"/>
+<phrase i="3656" t="Sérült fájl"/>
+<phrase i="3657" t="Titkosítókulcs"/>
+<phrase i="3658" t="Érvénytelen URL-cím"/>
+<phrase i="3659" t="A fájl nem található"/>
+<phrase i="3660" t="A letöltés sikertelen"/>
+<phrase i="3661" t="&lt;Nincs elem&lt;"/>
+<phrase i="3662" t="Típus:%s"/>
+<phrase i="3663" t="Másik fél neve:%s"/>
+<phrase i="3664" t="Másik fél telefonja:%s"/>
+<phrase i="3665" t="Időtart:"/>
+<phrase i="3666" t="Hívás ideje:"/>
+<phrase i="3667" t="Kódolás:%s"/>
+<phrase i="3668" t="Dekódolás:%s"/>
+<phrase i="3669" t="Hívásazonosító:%s"/>
+<phrase i="3674" t="Híradatfolyam adatainak frissítése..."/>
+<phrase i="3675" t="Nincsenek elérhető híradatfolyamok..."/>
+<phrase i="3676" t="Nem sikerült lekérni a híradatfolyam adatait..."/>
+<phrase i="3677" t="Hírek"/>
+<phrase i="3680" t="Tx: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Rx: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Hívás típusa: %s&#xA;"/>
+<phrase i="3687" t="Üres:"/>
+<phrase i="3690" t="Ellátási állapot"/>
+<phrase i="3693" t="Hívási statisztikák"/>
+<phrase i="3703" t="MELLÉK:%d"/>
+<phrase i="3704" t="Tőzsdei adatok frissítése..."/>
+<phrase i="3705" t="Nincsenek elérhető tőzsdei adatok..."/>
+<phrase i="3706" t="Nem sikerült lekérni a tőzsdei adatfolyam adatait..."/>
+<phrase i="3713" t="Yahoo tőzsdei adatok"/>
+<phrase i="3715" t="Forgalmi adatfolyam adatainak frissítése..."/>
+<phrase i="3716" t="Nincsenek elérhető forgalmi adatfolyamok..."/>
+<phrase i="3717" t="Nem sikerült lekérni a forgalmi adatfolyam adatait..."/>
+<phrase i="3718" t="Nincsen elérhető részletes forgalom..."/>
+<phrase i="3719" t="Nem sikerült megjeleníteni a forgalmi adatfolyam adatait..."/>
+<phrase i="3721" t="tőzsdei adatok"/>
+<phrase i="3730" t="Yahoo! Bejelentkezés"/>
+<phrase i="3731" t="Kijelentkezik a Yahoo!-ból?"/>
+<phrase i="3732" t="Sikeres"/>
+<phrase i="3733" t="Sikertelen. Ellenőrizze&#xA;felhasználói azonosítóját és jelszavát"/>
+<phrase i="3734" t="Bejelentkezés Kérem várjon."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="Továbbított hívások&#xA;"/>
+<phrase i="3737" t="Kijelentkezett&#xA;"/>
+<phrase i="3738" t="Bejelentkezés&#xA;"/>
+<phrase i="3739" t="Nem regisztrált&#xA;"/>
+<phrase i="3741" t="&#xA;a következő által: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;PU: "/>
+<phrase i="3744" t="%sKijelentkezett"/>
+<phrase i="3745" t="friss."/><!-- This is a softkey label -->
+<phrase i="3746" t="Részl."/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_LANGUAGE"/>
+<phrase i="3757" t="BMP-kép"/>
+<phrase i="3758" t="H.Adás"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alpha"/><!-- This is a softkey label -->
+<phrase i="3760" t="KarTör"/><!-- This is a softkey label -->
+<phrase i="3761" t="Híd"/><!-- This is a softkey label -->
+<phrase i="3762" t="Mégse"/><!-- This is a softkey label -->
+<phrase i="3764" t="Törlés"/><!-- This is a softkey label -->
+<phrase i="3765" t="Konf"/><!-- This is a softkey label -->
+<phrase i="3766" t="Másol"/><!-- This is a softkey label -->
+<phrase i="3767" t="Törlés"/><!-- This is a softkey label -->
+<phrase i="3771" t="Szerk."/><!-- This is a softkey label -->
+<phrase i="3772" t="Kilép"/><!-- This is a softkey label -->
+<phrase i="3774" t="Csatl."/><!-- This is a softkey label -->
+<phrase i="3775" t="Elmul."/><!-- This is a softkey label -->
+<phrase i="3776" t="Tovább"/><!-- This is a softkey label -->
+<phrase i="3777" t="Szám"/><!-- This is a softkey label -->
+<phrase i="3778" t="OK"/><!-- This is a softkey label -->
+<phrase i="3779" t="Beáll."/><!-- This is a softkey label -->
+<phrase i="3780" t="Beill."/><!-- This is a softkey label -->
+<phrase i="3781" t="Leját."/><!-- This is a softkey label -->
+<phrase i="3783" t="Folyt."/><!-- This is a softkey label -->
+<phrase i="3784" t="Mentés"/><!-- This is a softkey label -->
+<phrase i="3785" t="Kivál."/><!-- This is a softkey label -->
+<phrase i="3786" t="*Kód"/><!-- This is a softkey label -->
+<phrase i="3787" t="I/N"/><!-- This is a softkey label -->
+<phrase i="3793" t="Elérh."/><!-- This is a softkey label -->
+<phrase i="3794" t="NemelÉ"/><!-- This is a softkey label -->
+<phrase i="3795" t="MegSz."/><!-- This is a softkey label -->
+<phrase i="3796" t="Ismét"/><!-- This is a softkey label -->
+<phrase i="3797" t="Több"/><!-- This is a softkey label -->
+<phrase i="3798" t="Friss."/><!-- This is a softkey label -->
+<phrase i="3799" t="Előnéz"/><!-- This is a softkey label -->
+<phrase i="3800" t="Részl."/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Kijelentkezés"/>
+<phrase i="3807" t="Váll. telefonkönyv"/>
+<phrase i="3808" t="Nincs elérhető letöltési kép"/>
+<phrase i="3809" t="Névtelen hívások blokkolása"/>
+<phrase i="3810" t="Nincsenek elérhető részletes hírek..."/>
+<phrase i="3811" t="Nincsenek elérhető részletes hírek&#xA;"/>
+<phrase i="3812" t="Nem sikerült megjeleníteni a híradatfolyam adatait..."/>
+<phrase i="3813" t="Átvitel"/>
+<phrase i="3814" t="Átvitel sikertelen"/>
+<phrase i="3815" t="Időtart: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Hívási statisztikák:"/>
+<phrase i="3817" t="Nem sikerült megjeleníteni a tőzsdei adatfolyam adatait..."/>
+<phrase i="3818" t="Nincsen elérhető részletes forgalom&#xA;"/>
+<phrase i="3822" t="E5 csengés"/>
+<phrase i="3824" t="Ne zavarjanak"/>
+<phrase i="3825" t="Továbbított hívások"/>
+<phrase i="3826" t="&lt;Nincs elem&gt;"/>
+<phrase i="3827" t="Testreszabás"/>
+<phrase i="3828" t="Nyílt"/>
+<phrase i="3829" t="Függőben"/>
+<phrase i="3830" t="Testre szabott"/>
+<phrase i="3831" t="Alapértelmezett&quot;Letöltött"/>
+<phrase i="3832" t="Névtelen hívó"/>
+<phrase i="3833" t="%sTovábbított hívások"/>
+<phrase i="3834" t="%sKijelentkezés"/>
+<phrase i="3835" t="%sBejelentkezés"/>
+<phrase i="3836" t="%sNem regisztrált"/>
+<phrase i="3837" t="%sRegisztrálás"/>
+<phrase i="3838" t="%sNe zavarjanak"/>
+<phrase i="3839" t="E1 csengés"/>
+<phrase i="3840" t="E2 csengés"/>
+<phrase i="3841" t="E3 csengés"/>
+<phrase i="3842" t="E4 csengés"/>
+<phrase i="3843" t="E5 csengés"/>
+<phrase i="3844" t="E6 csengés"/>
+<phrase i="3845" t="Bejelentkezés sikertelen.&#xA;Ellenőrizze felhasználói azonosítóját&#xA;és jelszavát."/>
+<phrase i="3846" t="Kísérlet a bejelentkezésre."/>
+<phrase i="3847" t="Engedélyezés..."/>
+<phrase i="3848" t="CMS bejelentkezés"/>
+<phrase i="3849" t="Kijelentkezés a CMS-ből?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a á b c 2 A Á B C "/>
+<phrase i="3852" t=" d e é f 3 D E É F "/>
+<phrase i="3853" t=" g h i í 4 G H I Í "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o ó ö ő 6 M N O Ó Ö Ő "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u ú ü ű v 8 T U Ú Ü Ű V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Lengyel"/>
+<phrase i="3864" t="Orosz"/>
+<phrase i="3865" t="Magyar"/>
+<phrase i="3866" t="Cseh"/>
+<phrase i="3867" t="Török"/>
+<phrase i="3868" t="Svéd"/>
+<phrase i="3869" t="Szlovén"/>
+<phrase i="3870" t="Bolgár"/>
+<phrase i="3871" t="Szlovák"/>
+<phrase i="3872" t="Horvát"/>
+<phrase i="3950" t="Nincs válasz"/>
+<phrase i="3951" t="Nem érhető el"/>
+<phrase i="3952" t="Hitelesítés"/>
+<phrase i="3953" t="Ismeretlen"/>
+<phrase i="3954" t="Kísérlet a tartásra"/>
+<phrase i="3955" t="Kísérlet a folytatásra"/>
+<phrase i="3956" t="Módos."/><!-- This is a softkey label -->
+<phrase i="3957" t="HívVár"/><!-- This is a softkey label -->
+<phrase i="3958" t="VárSzü"/><!-- This is a softkey label -->
+<phrase i="3959" t="Felv."/><!-- This is a softkey label -->
+<phrase i="3960" t="ÚjSzin"/><!-- This is a softkey label -->
+<phrase i="3961" t="Aktiv."/><!-- This is a softkey label -->
+<phrase i="3962" t="Elfog."/><!-- This is a softkey label -->
+<phrase i="3963" t="Kapcs"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Kapcs"/><!-- This is a softkey label -->
+<phrase i="3965" t="elküld"/><!-- This is a softkey label -->
+<phrase i="3966" t="ÚjSzin"/><!-- This is a softkey label -->
+<phrase i="3967" t="aktiv."/><!-- This is a softkey label -->
+<phrase i="3968" t="Elfog."/><!-- This is a softkey label -->
+<phrase i="3969" t="kapcs"/><!-- This is a softkey label -->
+<phrase i="3970" t="-kapcs"/><!-- This is a softkey label -->
+<phrase i="3971" t="le"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="fel"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="AlapÉ."/><!-- This is a softkey label -->
+<phrase i="3974" t="TáSzer"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Firmware frissítése&#xA;Ne húzza ki a tápkábelt&#xA;A telefon Aut. újraindul"/>
+<phrase i="3976" t="XML alkalmazás betöltése..."/>
+<phrase i="3977" t="Frissítés sikertelen"/>
+<phrase i="3978" t="Alkalmazás betöltése OK"/>
+<phrase i="3979" t="Alkalmazás betöltése sikertelen"/>
+<phrase i="3980" t="CME szolgáltatások"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Kísérlet a kijelentkezésre.&#xA;Kérem várjon..."/>
+<phrase i="3982" t="Kijelentkezés sikertelen.&#xA;Újratöltés..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Csengetés választása"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Alapértelmezett csengetés: %s"/>
+<phrase i="3987" t="Vonal választása"/>
+<phrase i="3988" t="Vonal alapértelmezett csengetése                        "/>
+<phrase i="3989" t="Alapértelmezett csengetés neve                     "/>
+<phrase i="3990" t="Beállítások"/>
+<phrase i="3991" t="Képernyővédő üzemmód"/>
+<phrase i="3992" t="Képernyővédő engedély."/>
+<phrase i="3993" t="Képernyővédő Várak. idő"/>
+<phrase i="3994" t="Képernyővédő ikonja"/>
+<phrase i="3995" t="Állomás ideje&quot;Zárolás&quot;Telefon&quot;DátumIdő&quot;Háttérkép"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Visszaáll. gyári Alapért.-re&#xA;Kérem várjon"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;A rendszer újratölt.&#xA;Kérem várjon"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;A rendszer újraindul.&#xA;Kérem várjon"/>
+<phrase i="4001" t="Profilszabály"/>
+<phrase i="4002" t="Profilszabály:"/>
+<phrase i="4003" t="Profil újraszinkronizálása: %s&#xA;"/>
+<phrase i="4004" t="Eredmény: %s&#xA;"/>
+<phrase i="4005" t="Ok: %s&#xA;"/>
+<phrase i="4006" t="Újraszinkronizálás erre:&#xA;%s&#xA;Siker esetén a telefon újraindulhat!"/>
+<phrase i="4007" t="Érvénytelen profilszabály!&#xA;"/>
+<phrase i="4008" t="Újraszinkronizálás kérése erre:&#xA;%s&#xA; amikor a telefon tétlen."/>
+<phrase i="4009" t="Újraszinkronizálás kérése sikertelen!&#xA;A telefon az újraszinkronizálási kérést dolgozza fel.&#xA;Próbálkozzon később."/>
+<phrase i="4010" t="Regisztrálás&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Nyomja le bármelyik gombot a telefon feloldásához"/>
+<phrase i="4013" t="Hívás-ellenőrzési protokoll"/>
+<phrase i="4014" t="Alapértelmezett útválasztó"/>
+<phrase i="4015" t="TFTP kiszolgáló"/>
+<phrase i="4016" t="Rendszergazd. VLAN-azonosító"/>
+<phrase i="4017" t="CDP engedélyezése"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Híváskezelő"/>
+<phrase i="4019" t="PPPoE szolgáltatásnév"/>
+<phrase i="4020" t="PPPOE bejelentkezési név"/>
+<phrase i="4021" t="PPPoE bejelentkezési jelszó"/>
+<phrase i="4022" t="Webkiszolgáló engedélyezve"/>
+<phrase i="4023" t="Hibaelhárítási kiszolgáló"/>
+<phrase i="4024" t="Ki&quot;10 mp&quot;20 mp&quot;30 mp&quot;Mindig bekapcsolva"/>
+<phrase i="4025" t="Helyi beállítások"/>
+<phrase i="4026" t="Firmware verziója"/>
+<phrase i="4027" t="Rcv: %u, "/>
+<phrase i="4028" t="Xmt: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Eltelt idő: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Modell: %s&#xA;"/>
+<phrase i="4032" t="Verzió: %s&#xA;"/>
+<phrase i="4033" t="Vonal:%s"/>
+<phrase i="4034" t="N.A."/>
+<phrase i="4038" t="Csatlakozás a &#xA;VPN-kiszolgálóhoz..."/>
+<phrase i="4039" t="Lekapcsolódás a &#xA;VPN-kiszolgálóról..."/>
+<phrase i="4040" t="A VPN kapcsolat sikertelen!&#xA;"/>
+<phrase i="4041" t="VPN csatlakoztatva!"/>
+<phrase i="4042" t="VPN lecsatlakoztatva!"/>
+<phrase i="4043" t="Ismeretlen CA. Elfogadja?&#xA;"/>
+<phrase i="4044" t="A művelet visszavonva!"/>
+<phrase i="4045" t="Kérem várjon..."/>
+<phrase i="4046" t="Csatlakozás a VPN-hez induláskor?"/>
+<phrase i="4047" t="VPN-kiszolgáló"/>
+<phrase i="4048" t="Felhasználói azonosító"/>
+<phrase i="4049" t="Alagútcsoport"/>
+<phrase i="4050" t="VPN csatlakoztatva?"/>
+<phrase i="4051" t="1. DNS"/>
+<phrase i="4052" t="2. DNS"/>
+<phrase i="4053" t="Időtartam"/>
+<phrase i="4054" t="Elküldött bájtok"/>
+<phrase i="4055" t="Fogadott bájtok"/>
+<phrase i="4056" t="Utolsó sikertelen művelet oka"/>
+<phrase i="4057" t="Konfigurálja előbb a VPN-kiszolgálót"/>
+<phrase i="4058" t="A telefon a VPN-kiszolgálóhoz van csatlakoztatva"/>
+<phrase i="4059" t="Tegye le a telefont a VPN-nek a kiszolgálóhoz való csatlakoztatása előtt"/>
+<phrase i="4060" t="A telefon nincs a VPN-kiszolgálóhoz csatlakoztatva"/>
+<phrase i="4061" t="Előbb tegye le a telefont"/>
+<phrase i="4062" t="Csatlakozás CME-vel"/>
+<phrase i="4063" t="Regisztrálás CME-vel"/>
+<phrase i="4064" t="SPCP regisztrációs token"/>
+<phrase i="4065" t="A csengetés letöltése sikertelen"/>
+<phrase i="4066" t="Firmware frissítése&#xA;Ne húzza ki a tápkábelt"/>
+<phrase i="4067" t="A frissítés sikeres&#xA;...újratöltés"/>
+<phrase i="4068" t="LDAP lekérdezése"/>
+<phrase i="4069" t="LDAP telefonkönyv lekérdezése"/>
+<phrase i="4070" t="Érvénytelen bevitel/konfiguráció,&#xA;Ellenőrizze a bevitelt/konfigurációt"/>
+<phrase i="4071" t="LDAP-hiba: nem lehet a kiszolgálóhoz csatlakozni"/>
+<phrase i="4072" t="LDAP-hiba: Érvénytelen beviteli érték"/>
+<phrase i="4073" t="Nem található egyezés"/>
+<phrase i="4074" t="LDAP-lekérd. eredménye"/>
+<phrase i="4075" t="Telefonkönyv kérése az LDAP kiszolgálótól..."/>
+<phrase i="4076" t="LDAP telefonkönyv lekérése sikertelen"/>
+<phrase i="4077" t="Túl sok egyezés található, &#xA;szűkítse a keresését"/>
+<phrase i="4079" t="Hívás felvétele"/>
+<phrase i="4080" t="Hívásvárakoztatás megszüntetése"/>
+<phrase i="4081" t="Csoportos hívás felvétele"/>
+<phrase i="4083" t="PC port VLAN-Címk. Eng."/>
+<phrase i="4084" t="PC port VLAN-Azonos."/>
+<phrase i="4085" t="Riasztás"/>
+<phrase i="4086" t="Személyhívó"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="vissza"/><!-- This is a softkey label -->
+<phrase i="4088" t="Atkap."/><!-- This is a softkey label -->
+<phrase i="4089" t="Vissza"/><!-- This is a softkey label -->
+<phrase i="4090" t="TáSzer"/><!-- This is a softkey label -->
+<phrase i="4091" t="Név"/>
+<phrase i="4092" t="Keresés"/>
+<phrase i="4093" t="Elküld"/><!-- This is a softkey label -->
+<phrase i="4094" t="Média visszacsatolása"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Le"/><!-- This is a softkey label -->
+<phrase i="4096" t="Fel"/><!-- This is a softkey label -->
+<phrase i="4097" t="Átkap."/><!-- This is a softkey label -->
+<phrase i="4098" t="Kérés..."/>
+<phrase i="4099" t="Érvénytelen szám"/>
+<phrase i="4100" t="Nincs vonal"/>
+<phrase i="4101" t="Időtúllépés"/>
+<phrase i="4102" t="A szolgáltatás nem érhető el"/>
+<phrase i="4103" t="Hálózati hiba"/>
+<phrase i="4104" t="Protokollhiba"/>
+<phrase i="4105" t="Kísérlet"/>
+<phrase i="4106" t="A hívás továbbítás alatt áll"/>
+<phrase i="4107" t="Sorba állítva"/>
+<phrase i="4108" t="Munkamenet folyamata"/>
+<phrase i="4109" t="Elfogadva"/>
+<phrase i="4110" t="Többszörös választás"/>
+<phrase i="4111" t="Véglegesen áthelyezve"/>
+<phrase i="4112" t="Ideiglenesen áthelyezve"/>
+<phrase i="4113" t="Proxy használata"/>
+<phrase i="4114" t="Alternatív szolgáltatás"/>
+<phrase i="4115" t="Rossz kérés"/>
+<phrase i="4116" t="Jogosulatlan"/>
+<phrase i="4117" t="Fizetés szükséges"/>
+<phrase i="4118" t="Tiltott"/>
+<phrase i="4119" t="Nem található"/>
+<phrase i="4120" t="A módszer nem engedélyezett"/>
+<phrase i="4121" t="Nem fogadható el"/>
+<phrase i="4122" t="Proxy-engedélyezés szükséges"/>
+<phrase i="4123" t="Kérés időtúllépése"/>
+<phrase i="4124" t="Elment"/>
+<phrase i="4125" t="A kérésentitás túl nagy"/>
+<phrase i="4126" t="A kérési URI túl nagy"/>
+<phrase i="4127" t="Nem támogatott médiatípus"/>
+<phrase i="4128" t="Nem támogatott URI-séma"/>
+<phrase i="4129" t="Rossz kiterjesztés"/>
+<phrase i="4130" t="Kiterjesztés szükséges"/>
+<phrase i="4131" t="Az intervallum túl rövid"/>
+<phrase i="4132" t="Ideiglenesen nem érhető el"/>
+<phrase i="4133" t="Hívás mellékvonala/tranzakció nem létezik"/>
+<phrase i="4134" t="Hurok észlelve"/>
+<phrase i="4135" t="Túl sok ugrás"/>
+<phrase i="4136" t="A cím nem teljes"/>
+<phrase i="4137" t="Nem egyértelmű"/>
+<phrase i="4138" t="Itt foglalt"/>
+<phrase i="4139" t="Kérés befejezve"/>
+<phrase i="4140" t="Itt nem fogadható el"/>
+<phrase i="4141" t="Rossz esemény"/>
+<phrase i="4142" t="A kérés függőben van"/>
+<phrase i="4143" t="Nem betűzhető ki"/>
+<phrase i="4144" t="Belső kiszolgálóhiba"/>
+<phrase i="4145" t="Nincs megvalósítva"/>
+<phrase i="4146" t="Rossz átjáró"/>
+<phrase i="4147" t="A szolgáltatás nem érhető el"/>
+<phrase i="4148" t="A kiszolgáló időtúllépése"/>
+<phrase i="4149" t="A SIP-verzió nem támogatott"/>
+<phrase i="4150" t="Az üzenet túl nagy"/>
+<phrase i="4151" t="Mindenhol foglalt"/>
+<phrase i="4152" t="Visszautasítás"/>
+<phrase i="4153" t="Nem létezik sehol"/>
+<phrase i="4154" t="Átviteli réteg hiba"/>
+<phrase i="4155" t="Állomásidő"/>
+<phrase i="4156" t="Zárolás"/>
+<phrase i="4157" t="Telefon"/>
+<phrase i="4158" t="DátumIdő"/>
+<phrase i="4159" t="Háttérkép"/>
+<phrase i="4160" t="Pénzügyi hírek"/>
+<phrase i="4161" t="A tranzakció időtúllépéssel lejárt"/>
+<phrase i="4162" t="Nem található útvonal"/>
+<phrase i="4163" t="Ideiglenesen nem érhető el"/>
+<phrase i="4164" t="A kérés megszüntetve"/>
+<phrase i="4165" t="A kiszolgáló túlságosan foglalt"/>
+<phrase i="4166" t="Nem elegendő a média sávszélessége"/>
+<phrase i="4200" t="404 – nem található"/>
+<phrase i="4201" t="Hozzáadás a személyes bejegyzéshez"/>
+<phrase i="4202" t="Speciális keresés"/>
+<phrase i="4203" t="Válasz"/>
+<phrase i="4204" t="válasz"/>
+<phrase i="4205" t="Broadsoft telefonkönyvkérés sikertelen"/>
+<phrase i="4206" t="BroadSoft-telefonkönyv"/>
+<phrase i="4207" t="Broadsoft: A kérést a felhasználó visszavonta"/>
+<phrase i="4208" t="Hívásellenőrzés beáll."/>
+<phrase i="4209" t="CME-telefonkönyv"/>
+<phrase i="4210" t="Részleg: "/>
+<phrase i="4211" t="Használandó DHCP-beáll."/>
+<phrase i="4212" t="DHCP-Újraszinkr. beáll."/>
+<phrase i="4213" t="E-mail: "/>
+<phrase i="4214" t="Bejegyzés részletei"/>
+<phrase i="4215" t="Hiba: Üres vagy érvénytelen bevitel."/>
+<phrase i="4216" t="10. mellék"/>
+<phrase i="4217" t="11. mellék"/>
+<phrase i="4218" t="12. mellék"/>
+<phrase i="4219" t="7. mellék"/>
+<phrase i="4220" t="8. mellék"/>
+<phrase i="4221" t="9. mellék"/>
+<phrase i="4222" t="Mellék: "/>
+<phrase i="4223" t="Első: "/>
+<phrase i="4224" t="villogás"/>
+<phrase i="4225" t="G722 kényszerítése"/>
+<phrase i="4226" t="Csoportazonosító: "/>
+<phrase i="4227" t="HTTP-kérés megszüntetve"/>
+<phrase i="4228" t="HTTP-kérés sikertelen"/>
+<phrase i="4229" t="Figyelmen kívül hagyás"/>
+<phrase i="4230" t="figyelmen kívül hagyás"/>
+<phrase i="4231" t="Kulcsrendsz. Aut. Felism."/>
+<phrase i="4232" t="Kulcsrendszer IP-címe"/>
+<phrase i="4233" t="Utolsó: "/>
+<phrase i="4234" t="LDAP-hiba: nem lehet a kiszolgálóhoz csatlakozni."/>
+<phrase i="4235" t="10. vonalbillentyű"/>
+<phrase i="4236" t="11. vonalbillentyű"/>
+<phrase i="4237" t="12. vonalbillentyű"/>
+<phrase i="4238" t="7. vonalbillentyű"/>
+<phrase i="4239" t="8. vonalbillentyű"/>
+<phrase i="4240" t="9. vonalbillentyű"/>
+<phrase i="4241" t="Mobil: "/>
+<phrase i="4242" t="Név: "/>
+<phrase i="4243" t="Nem található egyezés&#xA;"/>
+<phrase i="4244" t="nincs&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Szám: "/>
+<phrase i="4246" t="Telefonszám:"/>
+<phrase i="4247" t="G722 előnyben részesítése"/>
+<phrase i="4248" t="PrvHld"/>
+<phrase i="4249" t="prvHld"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="BS-telefonkönyv lekérdezése"/>
+<phrase i="4257" t="Telefonkönyv kérése a Broadsoft-kiszolgálótól..."/>
+<phrase i="4258" t="Jelzési protokoll"/>
+<phrase i="4259" t="Egyszerű keresés"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="SPA5X5 Modell"/>
+<phrase i="4263" t="SPCP Automatikus észlelés"/>
+<phrase i="4264" t="toCdir"/>
+<phrase i="4265" t="Túl sok bejegyzés&#xA;"/>
+<phrase i="4266" t="Túl sok személyes bejegyzés&#xA;"/>
+<phrase i="4267" t="Átviteli protokoll"/>
+<phrase i="4268" t="Kísérlet a kijelentkezésre.&#xA;Kérem várjon..."/>
+<phrase i="4269" t="UserId: "/>
+<phrase i="4270" t="XML formátumhiba vagy érvénytelen alkalmazás"/>
+<phrase i="4271" t="XML-szolgáltatások"/>
+<phrase i="4272" t="a következő által:"/>
+<phrase i="4273" t="Másik fél neve"/>
+<phrase i="4274" t="Másik fél tel"/>
+<phrase i="4275" t="Másik fél telefonja"/>
+<phrase i="4276" t="Első:"/>
+<phrase i="4277" t="H.Vége"/><!-- This is a softkey label -->
+<phrase i="4278" t="ÚjHív."/><!-- This is a softkey label -->
+<phrase i="4279" t="Mély basszus"/>
+<phrase i="4280" t="Új személyes telefonkönyv-bejegyzés"/>
+<phrase i="4281" t="Keresés a személyes telefonkönyvben"/>
+<phrase i="12000" t="Alkalmazás futtatása"/>
+<phrase i="12001" t="Érvénytelen IP-cím"/>
+<phrase i="12002" t="Vonal választása..."/>
+<phrase i="12003" t="Csengetés választása..."/>
+<phrase i="12004" t="Engedélyezés szükséges!"/>
+<phrase i="12005" t="CM-ICMP-Unreach"/>
+<phrase i="12006" t="Eltolás (\202Ó:p:mp):"/>
+<phrase i="12007" t="Regisztrálás"/>
+<phrase i="12008" t="STUN Be"/>
+<phrase i="12009" t="Rendszergazd. VLAN-azonosító"/>
+<phrase i="12010" t="Alternatív TFTP"/>
+<phrase i="12011" t="1. híváskezelő"/>
+<phrase i="12012" t="1. alapértelmezett útválasztó"/>
+<phrase i="12013" t="DHCP&quot;Statikus IP-cím"/>
+<phrase i="12014" t="1. TFTP-kiszolgáló"/>
+<phrase i="12015" t="Webes hozzáférés engedélyezve"/>
+<phrase i="12016" t="Eltelt idő"/>
+<phrase i="12017" t="Rcv"/>
+<phrase i="12018" t="Verzió"/>
+<phrase i="12019" t="Xmt"/>
+<phrase i="12020" t="Csatlakozás..."/>
+<phrase i="12021" t="Frissítés sikerült"/>
+<phrase i="12022" t="MissCall"/>
+<phrase i="12023" t="Csengetésfájl nem érhető el!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Regisztrálás visszautasítva:&#xA;%s"/>
+<phrase i="12026" t="SPCP regisztrálási token visszautasítva [%d]&#xA;...újrapróbálkozás"/>
+<phrase i="12027" t="Hiba: Az UC500 nem található.&#xA;Forduljon a rendszergazdához"/>
+<phrase i="12028" t="10 mp"/>
+<phrase i="12029" t="20 mp"/>
+<phrase i="12030" t="30 mp"/>
+<phrase i="12031" t="Letöltés&#xA;%s"/>
+<phrase i="12032" t="(Nem található egyezés)"/>
+<phrase i="12033" t="Egy új név"/>
+<phrase i="12034" t="Utolsó TFTP-kiszolgáló"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Teszt BMP"/>
+<phrase i="12037" t="Román"/>
+<phrase i="12038" t="Mély basszus"/>
+<phrase i="12039" t="Kulcsszó:"/>
+<phrase i="12040" t="Eredmények"/>
+<phrase i="12041" t="Eredmény"/>
+<phrase i="12043" t="Kijelentkezés?"/>
+<phrase i="12044" t="Válasszon egy számot"/>
+<phrase i="12045" t="tartás"/>
+<phrase i="12046" t="Korlátozott szám"/>
+<phrase i="12047" t="tartományon kívül!"/>
+<phrase i="12048" t="keresés"/>
+<phrase i="12049" t="Webkiszolgáló írható"/>
+<phrase i="12050" t="Spanyol – Mexikó"/>
+<phrase i="12051" t="Nem kérhető le a hangpostafiók egy hívás alatt"/>
+<phrase i="12052" t="A kiszolgáló címe hibás"/>
+<phrase i="12053" t="A hálózati kapcsolat sikertelen"/>
+<phrase i="12054" t="Hangpostaformátum hibája"/>
+<phrase i="12055" t="A kérés sikertelen"/>
+<phrase i="12056" t="Kérem, szerkessze:"/>
+<phrase i="12057" t="Feltétlen átkapcsolás célja:"/>
+<phrase i="12058" t="felhasználó hozzáadása a híváshoz"/>
+<phrase i="12059" t="(nincsenek csengető hívások)"/>
+<phrase i="12060" t="Elmulasztott hívássáv"/>
+<phrase i="12061" t="Felhasználó hozzáadása a híváshoz"/>
+<phrase i="12062" t="tétlen"/>
+<phrase i="12063" t="megszerezve"/>
+<phrase i="12064" t="haladó"/>
+<phrase i="12065" t="riasztás"/>
+<phrase i="12066" t="tartott – privát"/>
+<phrase i="12067" t="aktív"/>
+<phrase i="12068" t="tartott"/>
+<phrase i="12069" t="híd – aktív"/>
+<phrase i="12070" t="híd– tartott"/>
+<phrase i="12071" t="csenget"/>
+<phrase i="12072" t="használatban"/>
+<phrase i="12073" t="egyéb – csengetés"/>
+<phrase i="12074" t="egyéb – tartás"/>
+<phrase i="12075" t="nincs szolgáltatás"/>
+<phrase i="12076" t="egyéb – tétlen"/>
+<phrase i="12077" t="fenntartva"/>
+<phrase i="12078" t="nincs konfigurálva"/>
+<phrase i="12079" t="Frissítési URL-cím érvényesítése&#xA;Ne húzza ki a tápkábelt"/>
+<phrase i="12080" t="Újraszinkronizálás folyamatban"/>
+<phrase i="12081" t="Az újraszinkronizálás sikeres"/>
+<phrase i="12082" t="Az újraszinkronizálás sikeres. &#xA;A telefon újraindul. Kérem várjon"/>
+<phrase i="12083" t="Az újraszinkronizálás sikertelen"/>
+<phrase i="12084" t="Angol – Egyesült Államok"/>
+<phrase i="12085" t="Konferencia – híd"/>
+<phrase i="12086" t="Névtelen"/>
+<phrase i="12087" t="nullázás"/>
+<phrase i="12088" t="megosztott"/>
+<phrase i="12089" t="csatlakoztatva"/>
+<phrase i="12090" t="hozzáadás a telefonkönyvhöz"/>
+<phrase i="12091" t="tartásban"/>
+<phrase i="12092" t="érvénytelen"/>
+<phrase i="12093" t="folytatás"/>
+<phrase i="12094" t="hívás"/>
+<phrase i="12095" t="válaszol"/>
+<phrase i="12096" t="Személyes gyorstárcsázás megadása"/>
+<phrase i="12097" t="XferLx híváslista"/>
+<phrase i="12098" t="ConfLx híváslista"/>
+<phrase i="12099" t="verzió"/>
+<phrase i="12100" t="Nagyvállalat&quot;Csoport&quot;Személyes"/>
+<phrase i="12101" t="Telk. Név"/>
+<phrase i="12102" t="Állomáskiszolgáló"/>
+<phrase i="12103" t="ennek révén:"/>
+<phrase i="12104" t="Ügynök állapotának beállítása"/>
+<phrase i="12105" t="Elérhető"/>
+<phrase i="12106" t="Újratöltési előzmények"/>
+<phrase i="12107" t="Alapértelmezett&quot;HiDef&quot;Szokásos"/>
+<phrase i="12108" t="Hálózat Indít. Késleltet."/>
+<phrase i="12109" t="Külön CWT"/>
+<phrase i="12110" t="LLDP-MED engedélyezése"/>
+<phrase i="12111" t="Regisztráció visszautasítva:&#xA;%s"/>
+<phrase i="12112" t="Hiba: Regisztráció sikertelen.&#xA;Forduljon a rendszergazdához..."/>
+<phrase i="12113" t="Hálózati hiba észlelve."/>
+<phrase i="12114" t="Regisztrálás..."/>
+<phrase i="12115" t="Hálózati hiba."/>
+<phrase i="12116" t="Jelszó"/>
+<phrase i="12117" t="Az újraszinkronizálás sikeres. &#xA;A telefon újraindul. Kérem várjon."/>
+<phrase i="12118" t="Kézibeszélő verziója"/>
+<phrase i="12119" t="Automatikus&quot;Eredeti&quot;v3"/>
+<phrase i="12120" t="DHCP sikertelen"/>
+<phrase i="12121" t="Frissítés"/>
+<phrase i="12122" t="Ellátási szolgáltatás"/>
+<phrase i="12123" t="Felhasználó által indított"/>
+<phrase i="12124" t="SIP által indított"/>
+<phrase i="12125" t="Rendszerhiba"/>
+<phrase i="12126" t="Nem működő hivatkozás"/>
+<phrase i="12127" t="1. rendszer"/>
+<phrase i="12128" t="2. rendszer"/>
+<phrase i="12129" t="Duplikált IP-cím"/>
+<phrase i="12130" t="Biztonsági IP-cím"/>
+<phrase i="12131" t="3. rendszer"/>
+<phrase i="12132" t="4. rendszer"/>
+<phrase i="12133" t="5. rendszer"/>
+<phrase i="12134" t="6. rendszer"/>
+<phrase i="12135" t="7. rendszer"/>
+<phrase i="12136" t="SIP által indított"/>
+<phrase i="12137" t="Dict-letöltés"/>
+<phrase i="12138" t="VLAN módosult"/>
+<phrase i="12139" t="Visszatérési kód"/>
+<phrase i="12140" t="Gyári alapértékek"/>
+<phrase i="12141" t="A szoftver a telefon újraindítását kéri"/>
+<phrase i="12142" t="IP-cím módosult"/>
+<phrase i="12143" t="Fiókkód megadása"/>
+<phrase i="12144" t="Külső szám megadása"/>
+<phrase i="12145" t="Belső telefonkönyv"/>
+<phrase i="12146" t="Külső telefonkönyv"/>
+<phrase i="12147" t="Csoportok telefonkönyve"/>
+<phrase i="12148" t="Állomások telefonkönyve"/>
+<phrase i="12149" t="Külső zene"/>
+<phrase i="12150" t="1. személyhívási csoport"/>
+<phrase i="12151" t="2. személyhívási csoport"/>
+<phrase i="12152" t="3. személyhívási csoport"/>
+<phrase i="12153" t="4. személyhívási csoport"/>
+<phrase i="12154" t="5. személyhívási csoport"/>
+<phrase i="12155" t="Külső személyhívás"/>
+<phrase i="12156" t="Minta hívás"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="A rendszer éjjeli csengetési módja"/>
+<phrase i="12159" t="A hívás várakoztatva van"/>
+<phrase i="12160" t="Porttükrözés"/>
+<phrase i="12161" t="Tartományon kívül!"/>
+<phrase i="12162" t="XML-szolgáltatások"/>
+<phrase i="12163" t="héber"/>
+<phrase i="12164" t="Hívásvárakoztatás"/>
+<phrase i="12165" t="Vonal"/>
+<phrase i="12166" t="Ha átvált balról jobbra vagy jobbról balra történő gépelésre,&#xA; az előzőleg bevitt szöveg&#xA; törlődik. Folytatja?"/>
+<phrase i="12167" t="Betűméret"/>
+<phrase i="12168" t="Felügyelő konzol beállításai"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Gyorst. beáll.: %d vonal"/><!--Def. means define-->
+<phrase i="12170" t="Gyorst. beáll.: %d gomb"/><!--Def. means define-->
+<phrase i="12171" t="hívásvárakoztatás"/>
+<phrase i="12172" t="Adjon meg további számjegyeket...&#xA;Amikor kész van, a folytatáshoz nyomja meg az OK gombot."/>
+<phrase i="12173" t="Rezgő"/>
+<phrase i="12174" t="ö.törl."/>
+<phrase i="12175" t="listTörl"/>
+<phrase i="12176" t="Törölni kívánja az összes bejegyzést?"/>
+<phrase i="12177" t="Kijelző mód"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Mellék"/>
+<phrase i="12179" t="Mindkettő"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Wi-Fi konfiguráció"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Nem észlelhető Wi-Fi készülék."/>
+<phrase i="12182" t="Vezeték nélküli profil"/>
+<phrase i="12183" t="Wi-Fi védett beáll. (WPS)"/>
+<phrase i="12184" t="Vezeték nélküli állapot"/>
+<phrase i="12185" t="Alap beállítás"/>
+<phrase i="12186" t="Biztonsági mód"/>
+<phrase i="12187" t="Titkosítás beállítása"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Sáv"/>
+<phrase i="12190" t="WPA titkosítás"/>
+<phrase i="12191" t="Megosztott kulcs formátuma"/>
+<phrase i="12192" t="WPA-kulcs"/>
+<phrase i="12193" t="WEP hitelesítés típusa"/>
+<phrase i="12194" t="WEP-kulcs hossza"/>
+<phrase i="12195" t="WEP-kulcs"/>
+<phrase i="12196" t="Profil"/>
+<phrase i="12197" t="PIN beállítása"/>
+<phrase i="12198" t="Vezeték nélküli hálózat PIN-kód konfigurációja elkezdődött!"/>
+<!--phrase i="12199" t="A PIN kódot igénylő eszközöknél adja meg a következő számot: [%s], majd válassza ezt a módot."/-->
+<phrase i="12200" t="Vezeték nélküli – keresés..."/>
+<phrase i="12201" t="Válasszon profilt"/>
+<phrase i="12202" t="Nyomógomb konfigurálása"/>
+<phrase i="12203" t="Vezeték nélküli hálózat nyomógombjának a konfigurációja elindult"/>
+<phrase i="12204" t="Wi-Fi védett beáll. (WPS)"/>
+<phrase i="12205" t="Vezeték nélküli állapot"/>
+<phrase i="12206" t="Hálózat neve (SSID)"/>
+<phrase i="12207" t="Jel erőssége"/>
+<phrase i="12208" t="keresés"/>
+<phrase i="12209" t="A funkció használatához a legújabb WBPN firmware-re kell frissíteni."/>
+<phrase i="12210" t="Bejelentkezés vendégként"/>
+<phrase i="12211" t="VndgBe"/>
+<phrase i="12212" t="VndgKi"/>
+<phrase i="12213" t="(Vendég csatlakozva)"/> 
+<phrase i="12214" t="Az összes paraméter vissza lesz állítva a gyári alapértékre. Folytatja?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a á b c "/>
+<phrase i="12401" t=" d e é f "/>
+<phrase i="12402" t=" g h i í "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o ó ö ő "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u ú ü ű v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

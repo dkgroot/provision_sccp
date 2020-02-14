@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Croatian</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Naziv domene"/>
+<phrase i="204" t="IP adresa"/>
+<phrase i="205" t="Maska podmreže"/>
+<phrase i="212" t="DNS poslužitelj 1"/>
+<phrase i="213" t="DNS poslužitelj 2"/>
+<phrase i="225" t="URL direktorija"/>
+<phrase i="226" t="URL poruka"/>
+<phrase i="227" t="URL usluga"/>
+<phrase i="354" t="Primljeni pozivi"/>
+<phrase i="355" t="Odlazni pozivi"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="365" t="Konfiguracija mreže"/>
+<phrase i="374" t="Cvrkutanje 1"/>
+<phrase i="375" t="Cvrkutanje 2"/>
+<phrase i="378" t="Vrsta zvonjave"/>
+<phrase i="384" t="Poruke o statusu"/>
+<phrase i="393" t="Mrežne statistike"/>
+<phrase i="473" t="Objavljene IP adrese"/>
+<phrase i="500" t="Objavljena DHCP adresa"/>
+<phrase i="502" t="Izbriši konfiguraciju"/>
+<phrase i="552" t="URL za autentifikaciju"/>
+<phrase i="585" t="Lokalni korisnik"/>
+<phrase i="586" t="Lokalna mreža"/>
+<phrase i="635" t="DHCP poslužitelj"/>
+<phrase i="655" t="Informacije o modelu"/>
+<phrase i="657" t="Broj modela"/>
+<phrase i="670" t="Zadana zvonjava"/>
+<phrase i="676" t="Skraćeno biranje"/>
+<phrase i="716" t="Sigurnosna konfiguracija"/>
+<phrase i="3000" t="Propušteni pozivi"/>
+<phrase i="3001" t="Popis ponovno bir. broj."/>
+<phrase i="3002" t="Glasnoća melodije zvona"/>
+<phrase i="3003" t="Glasnoća zvučnika"/>
+<phrase i="3004" t="Glasnoća slušalica"/>
+<phrase i="3005" t="Glasnoća mikrotel. komb."/>
+<phrase i="3006" t="Kontrast LCD zaslona"/>
+<phrase i="3007" t="status"/>
+<phrase i="3008" t="Status"/>
+<phrase i="3009" t="Linijska tipka 4"/><!-- comment content -->
+<phrase i="3010" t="Linijska tipka 3"/>
+<phrase i="3011" t="Linijska tipka 2"/>
+<phrase i="3012" t="Linijska tipka 1"/>
+<phrase i="3013" t="Kućni broj"/>
+<phrase i="3014" t="Kućni broj 3"/>
+<phrase i="3015" t="Kućni broj 2"/>
+<phrase i="3016" t="Kućni broj 1"/>
+<phrase i="3018" t="NeSmet"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Lokalne usluge"/>
+<phrase i="3020" t="Novi poziv"/>
+<phrase i="3021" t="Zvonjava dolaznog poziva"/>
+<phrase i="3022" t="Interfon"/>
+<phrase i="3023" t="PonBir"/><!-- This is a softkey label -->
+<phrase i="3027" t="Sustav se ponovno pokreće&#xA;Molimo pričekajte"/>
+<phrase i="3028" t="Sustav se ponovno podiže&#xA;Molimo pričekajte"/>
+<phrase i="3029" t="Vraćanje na tvornički zadane postavke u tijeku&#xA;Molimo pričekajte"/>
+<phrase i="3030" t="Potvrditi ponovno pokretanje sustava?"/>
+<phrase i="3031" t="Potvrditi ponovno podizanje sustava?"/>
+<phrase i="3032" t="Svi će parametri biti vraćeni&#xA;na tvornički zadane vrijednosti.&#xA;Nastaviti?"/>
+<phrase i="3033" t="Pogrešna lozinka. Pokušati ponovno?"/>
+<phrase i="3034" t="Nova lozinka:"/>
+<phrase i="3035" t="Broj govorne pošte:"/>
+<phrase i="3036" t="Pomak (H:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Vrijeme(H:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Datum (m/d/g):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Odjava"/><!-- This is a softkey label -->
+<phrase i="3040" t="Prijav"/><!-- This is a softkey label -->
+<phrase i="3041" t="Postavljanje x"/>
+<phrase i="3042" t="Postavljanje"/>
+<phrase i="3043" t="Mreža"/>
+<phrase i="3044" t="Unesite administratorsku lozinku:"/>
+<phrase i="3045" t="Ne"/>
+<phrase i="3046" t="Odgoda preus.poz. bez odg."/>
+<phrase i="3047" t="Br. za preusm.poz. bez odg."/>
+<phrase i="3048" t="Br. za preusm. poz pri zauz."/>
+<phrase i="3049" t="Br. za preusm. svih poziva"/>
+<phrase i="3050" t="Adresa za isporuku podataka većem broju korisnika iz iste podgrupe"/>
+<phrase i="3051" t="NTP posluž. 2 koji nije DHCP"/>
+<phrase i="3052" t="NTP posluž. 1 koji nije DHCP"/>
+<phrase i="3053" t="DNS 2 koji nije DHCP"/>
+<phrase i="3054" t="DNS 1 koji nije DHCP"/>
+<phrase i="3055" t="Zadana ruta koja nije DHCP"/>
+<phrase i="3056" t="Maska podmreže koja nije DHCP"/>
+<phrase i="3057" t="IP adresa koja nije DHCP"/>
+<phrase i="3058" t="Omogući web-poslužitelj"/>
+<phrase i="3059" t="Trenutni pristupnik"/>
+<phrase i="3060" t="Trenutna maska mreže"/>
+<phrase i="3061" t="Domena"/>
+<phrase i="3062" t="Naziv centralnog računala"/>
+<phrase i="3063" t="Trenutna IP adresa"/>
+<phrase i="3064" t="Omogućavanje DHCP-a"/>
+<phrase i="3065" t="Vrsta WAN veze"/>
+<phrase i="3066" t="Format datuma"/>
+<phrase i="3067" t="Format vremena"/>
+<phrase i="3068" t="Pošalji audiozapis na zvučnik"/>
+<phrase i="3069" t="Str. za auto.odg. na poziv"/>
+<phrase i="3070" t="Omiljeni audiouređaj"/>
+<phrase i="3071" t="Biraj pomoć"/>
+<phrase i="3072" t="Siguran poziv"/>
+<phrase i="3073" t="Ne smetaj"/>
+<phrase i="3074" t="Blokiraj nepoznate pozive"/>
+<phrase i="3075" t="Blokiraj ID pozivatelja"/>
+<phrase i="3076" t="Vjerodajnica klijenta"/>
+<phrase i="3077" t="MAC adresa"/>
+<phrase i="3078" t="Inačica hardvera"/>
+<phrase i="3079" t="Inačica softvera"/>
+<phrase i="3080" t="Serijski broj"/>
+<phrase i="3081" t="Naziv proizvoda"/>
+<phrase i="3082" t="Omiljeni uređaj"/>
+<phrase i="3083" t="Naziv stanice"/>
+<phrase i="3085" t="Status poziva na čekanju, u spremniku"/>
+<phrase i="3087" t="Postavi lozinku"/>
+<phrase i="3088" t="Vraćanje na tvorničke postavke"/>
+<phrase i="3089" t="Ponovno pokretanje"/>
+<phrase i="3090" t="Ponovno podizanje"/>
+<phrase i="3092" t="Informacije o proizvodu"/>
+<phrase i="3094" t="Govorna pošta"/>
+<phrase i="3095" t="Vrijeme/datum"/>
+<phrase i="3096" t="Preusmjeravanje poziva"/>
+<phrase i="3097" t="Omiljene postavke"/>
+<phrase i="3099" t="Zapisnik poziva"/>
+<phrase i="3100" t="Brzo biranje"/>
+<phrase i="3101" t="Direktorij"/>
+<phrase i="3102" t="Unesi brzo biranje x"/>
+<phrase i="3104" t="Zvonjava 10"/>
+<phrase i="3105" t="Zvonjava 9"/>
+<phrase i="3106" t="Zvonjava 8"/>
+<phrase i="3107" t="Zvonjava 7"/>
+<phrase i="3108" t="Zvonjava 6"/>
+<phrase i="3109" t="Zvonjava 5"/>
+<phrase i="3110" t="Zvonjava 4"/>
+<phrase i="3111" t="Zvonjava 3"/>
+<phrase i="3112" t="Zvonjava 2"/>
+<phrase i="3113" t="Zvonjava 1"/>
+<phrase i="3114" t="Melodija zvona kućnog broja"/>
+<phrase i="3115" t="Kućni broj 1: "/>
+<phrase i="3116" t="Melodija zvona"/>
+<phrase i="3117" t="Izbrisati: "/>
+<phrase i="3118" t="Popis je prazan"/>
+<phrase i="3119" t="Pogrešna lozinka. Pokušati ponovno?"/>
+<phrase i="3120" t="Unesite lozinku:"/>
+<phrase i="3121" t="Stavljanje poz. na ček., u spremnik"/>
+<phrase i="3123" t="Zahtjev za stavljanje poziva na čekanje, u spremnik&#xA;Stanje neuspješno"/>
+<phrase i="3124" t="Spremnik poz.na ček. je prazan"/>
+<phrase i="3125" t="U tijeku je slanje zahtjeva \n za stavljanje poz. na ček.\n u spremnik&#xA;Status..."/>
+<phrase i="3126" t="Pogrešan broj telefona za stavljanje poziva na čekanje, u spremnik&#xA;Molimo pokušajte ponovno"/>
+<phrase i="3127" t="Stanica za zvonjavu"/>
+<phrase i="3128" t="Odgovaranje na poziv"/>
+<phrase i="3129" t="Odaberite liniju za prebacivanje&#xA;poziva na čekanju"/>
+<phrase i="3130" t="Odaberite liniju za prebacivanje&#xA;na konferencijski poziv"/>
+<phrase i="3131" t="Kod* biranja"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="Prinudno G729A"/>
+<phrase i="3133" t="Željeno G729A"/>
+<phrase i="3134" t="Prinudno G726r40"/>
+<phrase i="3135" t="Željeno G726r40"/>
+<phrase i="3136" t="Prinudno G726r32"/>
+<phrase i="3137" t="Željeno G726r32"/>
+<phrase i="3138" t="Prinudno G726r24"/>
+<phrase i="3139" t="Željeno G726r24"/>
+<phrase i="3140" t="Prinudno G726r16"/>
+<phrase i="3141" t="Željeno G726r16"/>
+<phrase i="3142" t="Prinudno G723"/>
+<phrase i="3143" t="Željeno G723"/>
+<phrase i="3144" t="Prinudno G711A"/>
+<phrase i="3145" t="Željeno G711A"/>
+<phrase i="3146" t="Prinudno G711U"/>
+<phrase i="3147" t="Željeno G711U"/>
+<phrase i="3148" t="Listanje stranica"/>
+<phrase i="3149" t="Poništi Osiguraj slj. poziv"/>
+<phrase i="3150" t="Osiguraj sljedeći poziv"/>
+<phrase i="3151" t="Poništi Osiguraj sve pozive"/>
+<phrase i="3152" t="Osiguraj sve pozive"/>
+<phrase i="3153" t="Poništi značajku Ne smetaj"/>
+<phrase i="3155" t="Deblok. nepoznate pozive"/>
+<phrase i="3157" t="Deblok. ID slj. pozivatelja"/>
+<phrase i="3158" t="Blok. ID slj. pozivatelja"/>
+<phrase i="3159" t="Poništi Blok. ID pozivatelja"/>
+<phrase i="3160" t="Blokiraj ID pozivatelja"/>
+<phrase i="3161" t="Poništi Uzvratni poziv"/>
+<phrase i="3162" t="Uzvratni poziv"/>
+<phrase i="3163" t="Poništi Preusmj. poziv ako nema odgovora"/>
+<phrase i="3164" t="Preusmjeri poziv ako nema odgovora"/>
+<phrase i="3165" t="Poniš. Preusmj.poz.pri zauzeću"/>
+<phrase i="3166" t="Preusmj. poz. pri zauzeću"/>
+<phrase i="3167" t="Poništi Preusmj. sve poz"/>
+<phrase i="3168" t="Preusmjeri sve pozive"/>
+<phrase i="3169" t="Povr. inf. o poslj.poz"/>
+<phrase i="3190" t="Slušalice   "/>
+<phrase i="3191" t="Mikrotelefonska kombinacija   "/>
+<phrase i="3192" t="Zvučnik   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Tipkovnica   "/>
+<phrase i="3201" t="Lozinka"/>
+<phrase i="3202" t="Neuspješno"/>
+<phrase i="3216" t="Zvonjava:"/>
+<phrase i="3217" t="Broj:"/>
+<phrase i="3218" t="Naziv:"/>
+<phrase i="3219" t="Izbrisati:"/>
+<phrase i="3220" t="Izbornik za odabir zvonjave"/>
+<phrase i="3221" t="Direktorij"/>
+<phrase i="3222" t="Unesite broj:"/>
+<phrase i="3223" t="Unesite ciljnu stranicu:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Unesite grupu za odgovor na poziv:"/>
+<phrase i="3225" t="Unesite odredište posebne usluge:"/>
+<phrase i="3226" t="Unesite odredište referentne usluge:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Unesite br.za nast.poz iz sprem:"/>
+<phrase i="3228" t="Unesite broj za stavljanje poziva na čekanje, u spremnik:"/>
+<phrase i="3229" t="Unesite odredište za prespajanje poziva bez prethodne najave:"/>
+<phrase i="3230" t="Unesite br. za preusmj. poziva ako nema odgovora:"/>
+<phrase i="3231" t="Unesite br. za preusmj. poziva ako je linija zauzeta:"/>
+<phrase i="3232" t="Unesite br. za preus. svih poz:"/>
+<phrase i="3234" t="Unesite više znamenki:"/>
+<phrase i="3237" t="Propušteni pozivi"/>
+<phrase i="3238" t="Odgovoreni' pozivi"/>
+<phrase i="3239" t="Odgovoreni pozivi"/>
+<phrase i="3240" t="Popis ponovno bir. broj."/>
+<phrase i="3241" t="Pokretanje mreže"/>
+<phrase i="3242" t="Provjera DNS-a"/>
+<phrase i="3243" t="direkt"/><!-- This is a softkey label -->
+<phrase i="3244" t="preusm"/><!-- This is a softkey label -->
+<phrase i="3245" t="Jezik"/>
+<phrase i="3246" t="Odabir jezika"/>
+<phrase i="3248" t="Preusmjereni pozivi"/>
+<phrase i="3249" t="Novi propušteni pozivi"/>
+<phrase i="3250" t="Novi propušteni pozivi"/>
+<phrase i="3251" t="više"/><!-- This is a softkey label -->
+<phrase i="3252" t="ponovi"/><!-- This is a softkey label -->
+<phrase i="3253" t="prekid"/><!-- This is a softkey label -->
+<phrase i="3254" t="nedost"/><!-- This is a softkey label -->
+<phrase i="3255" t="dostup"/><!-- This is a softkey label -->
+<phrase i="3258" t="odabir"/><!-- This is a softkey label -->
+<phrase i="3259" t="odgov."/><!-- This is a softkey label -->
+<phrase i="3260" t="nast."/><!-- This is a softkey label -->
+<phrase i="3261" t="na ček"/><!-- This is a softkey label -->
+<phrase i="3262" t="PrbNaj"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="pr.Al"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="presp."/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*kod"/><!-- This is a softkey label -->
+<phrase i="3267" t="odabir"/><!-- This is a softkey label -->
+<phrase i="3268" t="spremi"/><!-- This is a softkey label -->
+<phrase i="3270" t="nast."/><!-- This is a softkey label -->
+<phrase i="3272" t="preth."/><!-- This is a softkey label -->
+<phrase i="3273" t="reprod"/><!-- This is a softkey label -->
+<phrase i="3274" t="zalij."/><!-- This is a softkey label -->
+<phrase i="3275" t="opcija"/><!-- This is a softkey label -->
+<phrase i="3276" t="u redu"/><!-- This is a softkey label -->
+<phrase i="3277" t="broj"/><!-- This is a softkey label -->
+<phrase i="3278" t="sljed."/><!-- This is a softkey label -->
+<phrase i="3279" t="prop."/><!-- This is a softkey label -->
+<phrase i="3281" t="lcr"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="spoji"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="izađi"/><!-- This is a softkey label -->
+<phrase i="3285" t="uredi"/><!-- This is a softkey label -->
+<phrase i="3286" t="nesmet"/><!-- This is a softkey label -->
+<phrase i="3288" t="biraj"/><!-- This is a softkey label -->
+<phrase i="3289" t="briši"/><!-- This is a softkey label -->
+<phrase i="3290" t="kopir."/><!-- This is a softkey label -->
+<phrase i="3291" t="konfLi"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="konfer"/><!-- This is a softkey label -->
+<phrase i="3293" t="obriši"/><!-- This is a softkey label -->
+<phrase i="3294" t="-preus"/><!-- This is a softkey label -->
+<phrase i="3295" t="-nsmet"/><!-- This is a softkey label -->
+<phrase i="3296" t="prom."/><!-- This is a softkey label -->
+<phrase i="3298" t="poništ"/><!-- This is a softkey label -->
+<phrase i="3299" t="premos"/><!-- This is a softkey label -->
+<phrase i="3300" t="izbrZn"/><!-- This is a softkey label -->
+<phrase i="3301" t="alfa"/><!-- This is a softkey label -->
+<phrase i="3302" t="dodaj"/><!-- This is a softkey label -->
+<phrase i="3303" t="Postavljanje x"/>
+<phrase i="3304" t="Postavljanje"/>
+<phrase i="3305" t="Podijeljeno"/>
+<phrase i="3306" t="Pokušavam nastaviti"/>
+<phrase i="3307" t="Pokušavam staviti poziv na čekanje"/>
+<phrase i="3308" t="Poziv je na čekanju"/>
+<phrase i="3309" t="Povezano"/>
+<phrase i="3310" t="Odgovaram na poziv"/>
+<phrase i="3311" t="Poziv je završen"/>
+<phrase i="3312" t="Zvoni"/>
+<phrase i="3313" t="Zvoni telefon na biranom broju"/>
+<phrase i="3314" t="Pozivanje u tijeku"/>
+<phrase i="3315" t="Uspostavljanje veze sa STUN poslužiteljem u tijeku"/>
+<phrase i="3316" t="Biranje broja u tijeku"/>
+<phrase i="3317" t="Odabir stanice"/>
+<phrase i="3318" t="Odabir poziva"/>
+<phrase i="3319" t="Prikupljanje inf. o pozivu"/>
+<phrase i="3320" t="Pokušaj pozivanja u tijeku, linija je zauzeta"/>
+<phrase i="3321" t="Spreman"/>
+<phrase i="3322" t="Da"/>
+<phrase i="3323" t="Nije registrirano"/>
+<phrase i="3324" t="Registrirano"/>
+<phrase i="3325" t="Dolazni poziv"/>
+<phrase i="3326" t="Odlazni poziv"/>
+<phrase i="3327" t="Uzvratni poziv"/>
+<phrase i="3328" t="Preusmjeren poziv"/>
+<phrase i="3329" t="Prebačen poziv"/>
+<phrase i="3330" t="Pogrešno"/>
+<phrase i="3331" t="Stanje mirovanja"/>
+<phrase i="3332" t="Poziv na čekanju"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Zvonjava - uzvratni poziv"/>
+<phrase i="3334" t="Zvonjava - poziv na čekanju"/>
+<phrase i="3335" t="Zvonjava"/>
+<phrase i="3336" t="Oznaka sigurnog poziva"/>
+<phrase i="3337" t="Konferencijski poziv"/>
+<phrase i="3338" t="Stavi poziv na čekanje"/>
+<phrase i="3339" t="Pogreška"/>
+<phrase i="3340" t="Potvrdi"/>
+<phrase i="3341" t="Upit"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Upozorenje za nepoklopljenu slušalicu"/>
+<phrase i="3347" t="Ponovno pozovi"/>
+<phrase i="3348" t="Promijeni redoslijed"/>
+<phrase i="3349" t="Linija je zauzeta"/>
+<phrase i="3350" t="MWI (oznaka za primanje poruke govorne pote)"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Biranje vanjskog broja"/>
+<phrase i="3352" t="2. biranje"/>
+<phrase i="3353" t="Biraj"/><!-- This is a softkey label -->
+<phrase i="3354" t="ništa"/>
+<phrase i="3355" t="Xfr (prebacivanje poziva)"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Preusmjeravanje"/>
+<phrase i="3357" t="Cb"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Za"/>
+<phrase i="3359" t="Od"/>
+<phrase i="3360" t="Novi unos"/>
+<phrase i="3361" t="(FULL) (spremnik je pun)"/>
+<phrase i="3362" t="Korporativni direktorij"/>
+<phrase i="3363" t="Unesite br. za odg. na poziv:"/>
+<phrase i="3365" t="Brzo biranje"/>
+<phrase i="3366" t="&lt;Nije dodijeljeno&gt;"/>
+<phrase i="3367" t="Unesi brzo biranje 2"/>
+<phrase i="3368" t="Unesi brzo biranje 3"/>
+<phrase i="3369" t="Unesi brzo biranje 4"/>
+<phrase i="3370" t="Unesi brzo biranje 5"/>
+<phrase i="3371" t="Unesi brzo biranje 6"/>
+<phrase i="3372" t="Unesi brzo biranje 7"/>
+<phrase i="3373" t="Unesi brzo biranje 8"/>
+<phrase i="3374" t="Unesi brzo biranje 9"/>
+<phrase i="3375" t="Unesi brzo biranje"/>
+<phrase i="3376" t="Zapisnik poziva"/>
+<phrase i="3377" t="Odgovoreni pozivi"/>
+<phrase i="3378" t="Melodija zvona"/>
+<phrase i="3379" t="Zvonjava E1"/>
+<phrase i="3380" t="Zvonjava E2"/>
+<phrase i="3381" t="Zvonjava E3"/>
+<phrase i="3382" t="Zvonjava E4"/>
+<phrase i="3383" t="Korporativni direktorij"/>
+<phrase i="3384" t="Omiljene postavke"/>
+<phrase i="3385" t="da/ne"/><!-- This is a softkey label -->
+<phrase i="3386" t="Blokiraj ID pozivatelja&#xA;"/>
+<phrase i="3387" t="Blokiraj nepoznate pozive&#xA;"/>
+<phrase i="3388" t="Ne smetaj&#xA;"/>
+<phrase i="3389" t="Siguran poziv&#xA;"/>
+<phrase i="3390" t="Biraj pomoć&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Omiljeni audiouređaj&#xA;"/>
+<phrase i="3394" t="Stranica za automatsko odgovaranje na poziv&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Pošalji audiozapis na zvučnik&#xA;"/>
+<phrase i="3396" t="Format vremena&#xA;"/>
+<phrase i="3397" t="Format datuma&#xA;"/>
+<phrase i="3398" t="dan/mjesec"/>
+<phrase i="3399" t="mjesec/dan"/>
+<phrase i="3400" t="Jezik"/>
+<phrase i="3401" t="Status poz. na ček., u spremniku"/>
+<phrase i="3402" t="Status"/>
+<phrase i="3403" t="Status telefona"/>
+<phrase i="3405" t="Status kućnog broja 2"/>
+<phrase i="3406" t="Status L1"/>
+<phrase i="3407" t="Status L2"/>
+<phrase i="3408" t="Status L3"/>
+<phrase i="3409" t="Status L4"/>
+<phrase i="3410" t="Poziv 1:"/>
+<phrase i="3412" t="Datum: "/>
+<phrase i="3413" t="Vrijeme odaziva: "/>
+<phrase i="3415" t="Posljed. reg. u %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Sljed. reg. za %us&#xA;"/>
+<phrase i="3418" t="Poziv 1: "/>
+<phrase i="3420" t="Ton: "/>
+<phrase i="3421" t="Ništa"/>
+<phrase i="3422" t="Nije instalirano"/>
+<phrase i="3423" t="Zadano"/><!-- This is a softkey label -->
+<phrase i="3425" t="Stanica"/>
+<phrase i="3426" t="Grupa stranice"/>
+<phrase i="3427" t="Automatski odabir telefonista/telefonistice"/>
+<phrase i="3428" t="Interna glazba"/>
+<phrase i="3429" t="Molimo pričekajte"/>
+<phrase i="3430" t="Pokušaj prijave u tijeku"/>
+<phrase i="3432" t="Uspostavljanje komunikacije s ACD poslužiteljem u tijeku&#xA;Za dostupne"/>
+<phrase i="3433" t="Uspostavljanje komunikacije s ACD poslužiteljem u tijeku&#xA;Za nedostupne"/>
+<phrase i="3434" t="Neuspješna prijava.&#xA;"/>
+<phrase i="3435" t="Provjerite svoj korisnički ID&#xA;i lozinku."/>
+<phrase i="3437" t="Neuspješno slanje obavijesti o dostupnosti&#xA;"/>
+<phrase i="3438" t="Neuspješno slanje obavijesti o nedostupnosti&#xA;"/>
+<phrase i="3439" t="Korisnički ID:"/>
+<phrase i="3440" t="Lozinka:"/>
+<phrase i="3441" t="ACD prijava"/>
+<phrase i="3445" t="Nadogradnja ugrađ. softvera u tijeku&#xA;Ne prekidajte napajanje&#xA;Telefon će se autom. ponovno podići"/>
+<phrase i="3446" t="&#xA;&#xA;PU: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Podizanje sustava u tijeku"/>
+<phrase i="3451" t="Slanje zahtjeva za pristup korporativnom&#xA;direktoriju s poslužitelja u tijeku..."/>
+<phrase i="3452" t="Neuspješno slanje zahtjeva za pristup korporativnom&#xA;direktoriju"/>
+<phrase i="3453" t="cdir (korporativni direktorij)"/>
+<phrase i="3461" t="Nepoznat unos"/>
+<phrase i="3468" t="Nepoznat korisnik"/>
+<phrase i="3469" t="Autor: %s"/>
+<phrase i="3470" t="pristupnik"/>
+<phrase i="3472" t="Podijeli poziv %s"/>
+<phrase i="3473" t="Autor: %s&#xA;"/>
+<phrase i="3476" t="primatelj"/>
+<phrase i="3477" t="stanje"/>
+<phrase i="3478" t="završeno"/>
+<phrase i="3479" t="pokušavam"/>
+<phrase i="3480" t="rano"/>
+<phrase i="3481" t="nastavljam"/>
+<phrase i="3482" t="potvrđeno"/>
+<phrase i="3503" t="Korisnik %d"/>
+<phrase i="3504" t="Ne zvoni"/>
+<phrase i="3509" t="Korisnik %d (nije instalirano)"/>
+<phrase i="3510" t="12 sati"/>
+<phrase i="3511" t="24 sata"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Statična IP adresa"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="pwd (isključivanje)"/><!-- password -->
+<phrase i="3517" t="cfg (konfiguriranje)"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Jezik (nedostupno)"/>
+<phrase i="3519" t="Nedost"/>
+<phrase i="3520" t="potvrdi"/>
+<phrase i="3521" t="kontrast"/>
+<phrase i="3522" t="brzo biranje"/>
+<phrase i="3523" t="%d dana"/>
+<phrase i="3524" t="1 dan"/>
+<phrase i="3525" t="Onemogućeno&#xA;"/>
+<phrase i="3526" t="Vrsta poziva %d: %s&#xA;"/>
+<phrase i="3527" t="Naziv mreže: %s&#xA;"/>
+<phrase i="3528" t="Mrežni telefon: %s&#xA;"/>
+<phrase i="3529" t="Trajanje: %02d:%02d:%02d"/>
+<phrase i="3530" t="Poziv %d: %s&#xA;"/>
+<phrase i="3531" t="Ton: %s&#xA;"/>
+<phrase i="3532" t="Šifriranje: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Dešifriranje: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Nema signala&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Status telefona"/>
+<phrase i="3536" t="Status kućnog broja %d"/>
+<phrase i="3537" t="Status L%d"/>
+<phrase i="3538" t="Vrijeme i datum"/>
+<phrase i="3539" t="Spremi promjene glasnoće&#xA;"/>
+<phrase i="3540" t="Spremi promjene kontrasta&#xA;"/>
+<phrase i="3541" t="ponBir"/><!-- This is a softkey label -->
+<phrase i="3542" t="prijav"/><!-- This is a softkey label -->
+<phrase i="3543" t="odjava"/><!-- This is a softkey label -->
+<phrase i="3544" t="glasnoća"/>
+<phrase i="3545" t="postavljanje"/>
+<phrase i="3546" t="Propušten poziv"/>
+<phrase i="3548" t="Neuspješno&#xA;"/>
+<phrase i="3549" t="Nastaviti poziv iz spremnika?"/>
+<phrase i="3550" t="Engleski"/>
+<phrase i="3551" t="Španjolski"/>
+<phrase i="3552" t="Portugalski"/>
+<phrase i="3553" t="Talijanski"/>
+<phrase i="3554" t="Njemački"/>
+<phrase i="3555" t="Danski"/>
+<phrase i="3556" t="Finski"/>
+<phrase i="3557" t="Nizozemski"/>
+<phrase i="3558" t="Norveški"/>
+<phrase i="3559" t="Francuski"/>
+<phrase i="3560" t="Tajmer pozad. osvjet."/>
+<phrase i="3561" t="Uvijek uključeno"/>
+<phrase i="3562" t="Isključeno"/>
+<phrase i="3563" t="Prečac do propušt. poziva"/>
+<phrase i="3564" t="Poziv na čekanju"/>
+<phrase i="3565" t="Omogući VLAN"/>
+<phrase i="3566" t="ID VLAN-a"/>
+<phrase i="3567" t="Ured"/>
+<phrase i="3568" t="Klasično-1"/>
+<phrase i="3569" t="Klasično- 2"/>
+<phrase i="3570" t="Klasično- 3"/>
+<phrase i="3571" t="Klasično- 4"/>
+<phrase i="3572" t="Jednostavno-1"/>
+<phrase i="3573" t="Jednostavno- 2"/>
+<phrase i="3574" t="Jednostavno- 3"/>
+<phrase i="3575" t="Jednostavno- 4"/>
+<phrase i="3576" t="Jednostavno- 5"/>
+<phrase i="3577" t="Instalirano"/>
+<phrase i="3578" t="izbriši znak"/>
+<phrase i="3579" t="Preusm"/><!-- This is a softkey label -->
+<phrase i="3580" t="Pon NS"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Ne smetaj "/>
+<phrase i="3582" t="Pon PP"/><!-- This is a softkey label -->
+<phrase i="3583" t="KonfLi"/><!-- This is a softkey label -->
+<phrase i="3584" t="PovPoz"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Preth."/><!-- This is a softkey label -->
+<phrase i="3586" t="Prebac"/><!-- This is a softkey label -->
+<phrase i="3587" t="PrAl"/><!-- This is a softkey label -->
+<phrase i="3588" t="PrbNaj"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="Odg.gr"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Pregl."/><!-- This is a softkey label -->
+<phrase i="3591" t="GUI svojstvo"/>
+<phrase i="3592" t="GUI svojstvo"/>
+<phrase i="3593" t="Željena slika u pozadini"/>
+<phrase i="3594" t="Preuzeto"/>
+<phrase i="3596" t="Željena shema boje izbornika"/>
+<phrase i="3597" t="Svijetloplava"/>
+<phrase i="3598" t="Svijetlozelena"/>
+<phrase i="3599" t="Ružičasta"/>
+<phrase i="3600" t="Srebrna"/>
+<phrase i="3601" t="Preusmjereni pozivi "/>
+<phrase i="3602" t="Linijska tipka 5"/>
+<phrase i="3603" t="Linijska tipka 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Kućni broj 5"/>
+<phrase i="3606" t="Kućni broj 6"/>
+<phrase i="3607" t="Zvučnik"/>
+<phrase i="3608" t="Slušalice"/>
+<phrase i="3609" t="am"/>
+<phrase i="3610" t="pm"/>
+<phrase i="3614" t="Linija %d: %s(%s)"/>
+<phrase i="3616" t="Vraćanje na korisnički zadane postavke"/>
+<phrase i="3617" t="Provjeriti ažuriranja&#xA;za korisničko prilagođavanje profila?&#xA;(radi u pozadini)"/>
+<phrase i="3618" t="Web-usluge"/>
+<phrase i="3619" t="Web-usluge"/>
+<phrase i="3620" t="Lokalne vijesti"/>
+<phrase i="3621" t="Vijesti iz svijeta"/>
+<phrase i="3623" t="Vijesti iz sporta"/>
+<phrase i="3624" t="Vijesti iz politike"/>
+<phrase i="3625" t="Vijesti na području tehnologije"/>
+<phrase i="3626" t="Zabavne vijesti"/>
+<phrase i="3627" t="Stanje u prometu"/>
+<phrase i="3628" t="Simbol za indeks dionica"/>
+<phrase i="3629" t="Simbol za indeks dionica:"/>
+<phrase i="3630" t="RSS obavijest 1"/>
+<phrase i="3631" t="RSS obavijest 2"/>
+<phrase i="3632" t="RSS obavijest 3"/>
+<phrase i="3633" t="RSS obavijest 4"/>
+<phrase i="3634" t="RSS obavijest 5"/>
+<phrase i="3635" t="Simbol:"/>
+<phrase i="3636" t="Posljednje:"/>
+<phrase i="3637" t="Izmjena:"/>
+<phrase i="3638" t="Kupovna cijena:"/>
+<phrase i="3639" t="Tražena cijena:"/>
+<phrase i="3640" t="Nove usluge"/>
+<phrase i="3641" t="Pregled statistike poziva"/>
+<phrase i="3642" t="Proxy poslužitelj:%s:%u&#xA;"/>
+<phrase i="3643" t="Profil:%s&#xA;"/>
+<phrase i="3644" t="Status:%s&#xA;"/>
+<phrase i="3645" t="Razlog:%s&#xA;"/>
+<phrase i="3647" t="Onemogućeno"/>
+<phrase i="3649" t="Pogreška raščlambe u pravilu"/>
+<phrase i="3650" t="U tijeku"/>
+<phrase i="3651" t="Uspješno provedeno"/>
+<phrase i="3652" t="DNS razlučivost"/>
+<phrase i="3653" t="Nema naziva poslužitelja"/>
+<phrase i="3654" t="Pogrešan ili ograničen poslužitelj"/>
+<phrase i="3655" t="Izvori su iscrpljeni"/>
+<phrase i="3656" t="Oštećena datoteka"/>
+<phrase i="3657" t="Ključ za šifriranje"/>
+<phrase i="3658" t="Pogrečna URL adresa"/>
+<phrase i="3659" t="Datoteka nije pronađena"/>
+<phrase i="3660" t="Neuspješno preuzimanje"/>
+<phrase i="3661" t="&lt;Stavka ne postoji&lt;"/>
+<phrase i="3662" t="Vrsta:%s"/>
+<phrase i="3663" t="Naziv mreže:%s"/>
+<phrase i="3664" t="Mrežni telefon:%s"/>
+<phrase i="3665" t="Trajanje:"/>
+<phrase i="3666" t="Vrijeme poziva:"/>
+<phrase i="3667" t="Šifriranje:%s"/>
+<phrase i="3668" t="Dešifriranje:%s"/>
+<phrase i="3669" t="ID poziva:%s"/>
+<phrase i="3674" t="Ažuriranje podataka s vijestima u tijeku..."/>
+<phrase i="3675" t="Nisu dostupni podaci s vijestima..."/>
+<phrase i="3676" t="Neuspješan dohvat podataka s vijestima..."/>
+<phrase i="3677" t="Vijesti"/>
+<phrase i="3680" t="Tx: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Rx: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy poslužitelj:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Vrsta poziva: %s&#xA;"/>
+<phrase i="3687" t="Prazno"/>
+<phrase i="3690" t="Status dohvata novih usl."/>
+<phrase i="3693" t="Statistike poziva"/>
+<phrase i="3703" t="KUĆNI:%d"/>
+<phrase i="3704" t="Ažuriranje podataka o indeksu dionica u tijeku..."/>
+<phrase i="3705" t="Nisu dostupni podaci o indeksu dionica..."/>
+<phrase i="3706" t="Neuspješan dohvat podataka o indeksu dionica..."/>
+<phrase i="3713" t="Indeks dionica Yahoo"/>
+<phrase i="3715" t="Ažuriranje podataka s vijestima o stanju u prometu u tijeku..."/>
+<phrase i="3716" t="Nisu dostupni podaci s vijestima o stanju u prometu..."/>
+<phrase i="3717" t="Neuspjean dohvat podataka s vijestima o stanju u prometu..."/>
+<phrase i="3718" t="Nisu dostupne detaljne informacije o stanju u prometu..."/>
+<phrase i="3719" t="Neuspješan prikaz podataka s vijestima o stanju u prometu..."/>
+<phrase i="3721" t="Indeks dionica"/>
+<phrase i="3730" t="Yahoo! Prijava"/>
+<phrase i="3731" t="Odjaviti se s Yahoo-a!?"/>
+<phrase i="3732" t="Uspješno"/>
+<phrase i="3733" t="Neuspješno. Provjerite&#xA;korisnički ID i lozinku"/>
+<phrase i="3734" t="Prijava u tijeku. Molimo pričekajte."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="Preusmjereni pozivi&#xA;"/>
+<phrase i="3737" t="Odjavljeni ste&#xA;"/>
+<phrase i="3738" t="Prijava u tijeku&#xA;"/>
+<phrase i="3739" t="Niste registrirani&#xA;"/>
+<phrase i="3741" t="&#xA;Autor: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;PU: "/>
+<phrase i="3744" t="%sOdjavljeni ste"/>
+<phrase i="3745" t="ažur."/><!-- This is a softkey label -->
+<phrase i="3746" t="Detalj"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_JEZIK"/>
+<phrase i="3757" t="BMP slika"/>
+<phrase i="3758" t="Dodaj"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alfa"/><!-- This is a softkey label -->
+<phrase i="3760" t="IzbrZn"/><!-- This is a softkey label -->
+<phrase i="3761" t="Premos"/><!-- This is a softkey label -->
+<phrase i="3762" t="Poništ"/><!-- This is a softkey label -->
+<phrase i="3764" t="Obriši"/><!-- This is a softkey label -->
+<phrase i="3765" t="KonfPo"/><!-- This is a softkey label -->
+<phrase i="3766" t="Kopir."/><!-- This is a softkey label -->
+<phrase i="3767" t="Briši"/><!-- This is a softkey label -->
+<phrase i="3771" t="Uredi"/><!-- This is a softkey label -->
+<phrase i="3772" t="Izađi"/><!-- This is a softkey label -->
+<phrase i="3774" t="Spoji"/><!-- This is a softkey label -->
+<phrase i="3775" t="Prop."/><!-- This is a softkey label -->
+<phrase i="3776" t="Sljed."/><!-- This is a softkey label -->
+<phrase i="3777" t="Broj"/><!-- This is a softkey label -->
+<phrase i="3778" t="U redu"/><!-- This is a softkey label -->
+<phrase i="3779" t="Opcija"/><!-- This is a softkey label -->
+<phrase i="3780" t="Zalij."/><!-- This is a softkey label -->
+<phrase i="3781" t="Reprod"/><!-- This is a softkey label -->
+<phrase i="3783" t="Nast."/><!-- This is a softkey label -->
+<phrase i="3784" t="Spremi"/><!-- This is a softkey label -->
+<phrase i="3785" t="Odabir"/><!-- This is a softkey label -->
+<phrase i="3786" t="*Kod"/><!-- This is a softkey label -->
+<phrase i="3787" t="Da/ne"/><!-- This is a softkey label -->
+<phrase i="3793" t="Dostup"/><!-- This is a softkey label -->
+<phrase i="3794" t="Nedost"/><!-- This is a softkey label -->
+<phrase i="3795" t="Prekid"/><!-- This is a softkey label -->
+<phrase i="3796" t="Ponovi"/><!-- This is a softkey label -->
+<phrase i="3797" t="Više"/><!-- This is a softkey label -->
+<phrase i="3798" t="Ažur."/><!-- This is a softkey label -->
+<phrase i="3799" t="Pregl."/><!-- This is a softkey label -->
+<phrase i="3800" t="Detalj"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Odjava"/>
+<phrase i="3807" t="Korporativni direktorij"/>
+<phrase i="3808" t="Nema dostupnih slika za preuzimanje"/>
+<phrase i="3809" t="Blokiraj nepoznate pozive"/>
+<phrase i="3810" t="Nisu dostupne detaljne vijesti..."/>
+<phrase i="3811" t="Nisu dostupne detaljne vijesti&#xA;"/>
+<phrase i="3812" t="Neuspješan prikaz podataka s vijestima..."/>
+<phrase i="3813" t="Prebacivanje poziva u tijeku"/>
+<phrase i="3814" t="Neuspješno prebacivanje"/>
+<phrase i="3815" t="Trajanje: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Statistike poziva:"/>
+<phrase i="3817" t="Neuspješan prikaz podataka o indeksu dionica..."/>
+<phrase i="3818" t="Nisu dostupne detaljne informacije o stanju u prometu&#xA;"/>
+<phrase i="3822" t="Zvonjava E5"/>
+<phrase i="3824" t="Ne smetaj"/>
+<phrase i="3825" t="Preusmjereni pozivi"/>
+<phrase i="3826" t="&lt;Stavka ne postoji&gt;"/>
+<phrase i="3827" t="Korisnička prilagodba"/>
+<phrase i="3828" t="Otvori"/>
+<phrase i="3829" t="U redu čekanja"/>
+<phrase i="3830" t="Korisnički prilagođeno"/>
+<phrase i="3831" t="Zadano&quot;Preuzeto"/>
+<phrase i="3832" t="Nepoznat pozivatelj"/>
+<phrase i="3833" t="%sPreusmjereni pozivi"/>
+<phrase i="3834" t="%sOdjava u tijeku"/>
+<phrase i="3835" t="%sPrijava u tijeku"/>
+<phrase i="3836" t="%sNiste registrirani"/>
+<phrase i="3837" t="%sRegistracija u tijeku"/>
+<phrase i="3838" t="%sNe smetaj"/>
+<phrase i="3839" t="Zvonjava E1"/>
+<phrase i="3840" t="Zvonjava E2"/>
+<phrase i="3841" t="Zvonjava E3"/>
+<phrase i="3842" t="Zvonjava E4"/>
+<phrase i="3843" t="Zvonjava E5"/>
+<phrase i="3844" t="Zvonjava E6"/>
+<phrase i="3845" t="Neuspješna prijava.&#xA;Provjerite svoj korisnički ID&#xA;i lozinku."/>
+<phrase i="3846" t="Pokušaj prijave u tijeku."/>
+<phrase i="3847" t="Autorizacija u tijeku..."/>
+<phrase i="3848" t="CMS prijava"/>
+<phrase i="3849" t="Odjaviti se iz CMS-a?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c č ć 2 A B C Č Ć "/>
+<phrase i="3852" t=" d đ e f 3 D Đ E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O "/>
+<phrase i="3856" t=" p q r s š 7 P Q R S Š "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z ž 9 W X Y Z Ž "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Poljski"/>
+<phrase i="3864" t="Ruski"/>
+<phrase i="3865" t="Mađarski"/>
+<phrase i="3866" t="Češki"/>
+<phrase i="3867" t="Turski"/>
+<phrase i="3868" t="Švedski"/>
+<phrase i="3869" t="Slovenski"/>
+<phrase i="3870" t="Bugarski"/>
+<phrase i="3871" t="Slovački"/>
+<phrase i="3872" t="Hrvatski"/>
+<phrase i="3950" t="Nema odgovora"/>
+<phrase i="3951" t="Nije dostupno"/>
+<phrase i="3952" t="Autentificiraj"/>
+<phrase i="3953" t="Nepoznato"/>
+<phrase i="3954" t="Pokušavam staviti poziv na čekanje"/>
+<phrase i="3955" t="Pokušavam nastaviti"/>
+<phrase i="3956" t="Prom."/><!-- This is a softkey label -->
+<phrase i="3957" t="na ček"/><!-- This is a softkey label -->
+<phrase i="3958" t="Nast."/><!-- This is a softkey label -->
+<phrase i="3959" t="Odgov."/><!-- This is a softkey label -->
+<phrase i="3960" t="Resink"/><!-- This is a softkey label -->
+<phrase i="3961" t="Aktiv."/><!-- This is a softkey label -->
+<phrase i="3962" t="Prihv."/><!-- This is a softkey label -->
+<phrase i="3963" t="Poveži"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Spoji"/><!-- This is a softkey label -->
+<phrase i="3965" t="Šalji"/><!-- This is a softkey label -->
+<phrase i="3966" t="Resink"/><!-- This is a softkey label -->
+<phrase i="3967" t="Aktiv."/><!-- This is a softkey label -->
+<phrase i="3968" t="Prihv."/><!-- This is a softkey label -->
+<phrase i="3969" t="Poveži"/><!-- This is a softkey label -->
+<phrase i="3970" t="-Spoji"/><!-- This is a softkey label -->
+<phrase i="3971" t="dolje"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="gore"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="zadano"/><!-- This is a softkey label -->
+<phrase i="3974" t="ur.br."/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Nadogradnja ugrađ. softvera u tijeku&#xA;Ne prekidajte napajanje&#xA;Telefon će se autom. ponovno podići"/>
+<phrase i="3976" t="Učitavanje XML aplikacije u tijeku..."/>
+<phrase i="3977" t="Neuspješna nadogradnja"/>
+<phrase i="3978" t="Uspješno učitavanje aplikacije"/>
+<phrase i="3979" t="Neuspješno učitavanje aplikacije"/>
+<phrase i="3980" t="CME usluge"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Pokušavam se odjaviti.&#xA;Molimo pričekajte..."/>
+<phrase i="3982" t="Neuspješna odjava.&#xA;Ponovno podizanje sustava u tijeku..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Odaberite melodiju zvona"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Zadana zvonjava: %s"/>
+<phrase i="3987" t="Odaberite liniju"/>
+<phrase i="3988" t="Zadana zvonjava za liniju                        "/>
+<phrase i="3989" t="Zadani naziv zvonjave                     "/>
+<phrase i="3990" t="Postavke"/>
+<phrase i="3991" t="Način čuvara zaslona"/>
+<phrase i="3992" t="Omogući čuvara zaslona"/>
+<phrase i="3993" t="Vrij.ček. za uklj. čuvara zaslona"/>
+<phrase i="3994" t="Ikona čuvara zaslona"/>
+<phrase i="3995" t="Vrijeme na stanici&quot;Zaključavanje&quot;telefona&quot;Datum i vrijeme&quot;Slika u pozadini"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Vraćanje na tvorn. zadane postav. u tijeku&#xA;Molimo pričekajte"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;Sustav se ponovno podiže&#xA;Molimo pričekajte"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Sustav se ponovno pokreće&#xA;Molimo pričekajte"/>
+<phrase i="4001" t="Pravilo profila:"/>
+<phrase i="4002" t="Pravilo profila:"/>
+<phrase i="4003" t="Resinkronizacija profila: %s&#xA;"/>
+<phrase i="4004" t="Rezultat: %s&#xA;"/>
+<phrase i="4005" t="Razlog: %s&#xA;"/>
+<phrase i="4006" t="Resinkroniziraj na&#xA;%s&#xA;Telefon se može ponovno pokrenuti nakon uspješne resinkronizacije!"/>
+<phrase i="4007" t="Pogrešno pravilo profila!&#xA;"/>
+<phrase i="4008" t="U tijeku je zahtjev za resinkronizaciju na&#xA;%s&#xA;dok je telefon u stanju mirovanja!"/>
+<phrase i="4009" t="Neuspješno slanje zahtjeva za resinkronizaciju!&#xA;Telefon obrađuje zahtjev za resinkronizaciju.&#xA;Pokušajte ponovno kasnije."/>
+<phrase i="4010" t="Registracija u tijeku&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Pritisnite bilo koju tipku za otključavanje telefona"/>
+<phrase i="4013" t="Protokol za upravljanje pozivima"/>
+<phrase i="4014" t="Zadani usmjerivač"/>
+<phrase i="4015" t="TFTP poslužitelj"/>
+<phrase i="4016" t="Administratorski ID VLAN-a"/>
+<phrase i="4017" t="Omogući CDP"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Upravitelj poziva"/>
+<phrase i="4019" t="Naziv PPPoE usluge"/>
+<phrase i="4020" t="Ime za prijavu na PPPOE"/>
+<phrase i="4021" t="Lozinka za prijavu na PPPoE"/>
+<phrase i="4022" t="Web-poslužitelj je omogućen"/>
+<phrase i="4023" t="Ukloni pogreške na poslužitelju"/>
+<phrase i="4024" t="Isključeno&quot;10 s&quot;20 s&quot;30 s&quot;Uvijek uključeno"/>
+<phrase i="4025" t="Lokalne postavke"/>
+<phrase i="4026" t="Inačica ugrađenog softvera"/>
+<phrase i="4027" t="Rcv: %u, "/>
+<phrase i="4028" t="Xmt: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Proteklo vrijeme: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Model: %s&#xA;"/>
+<phrase i="4032" t="Inačica: %s&#xA;"/>
+<phrase i="4033" t="Linija:%s"/>
+<phrase i="4034" t="Nije primjenjivo"/>
+<phrase i="4038" t="Povezivanje s &#xA;VPN poslužiteljem u tijeku..."/>
+<phrase i="4039" t="Raskidanje veze s &#xA;VPN poslužiteljem u tijeku..."/>
+<phrase i="4040" t="Neuspješno uspostavljanje veze s VPN poslužiteljem!&#xA;"/>
+<phrase i="4041" t="Veza s VPN poslužiteljem je uspostavljena!"/>
+<phrase i="4042" t="Veza s VPN poslužiteljem je raskinuta!"/>
+<phrase i="4043" t="Nepoznati CA. Prihvatiti?&#xA;"/>
+<phrase i="4044" t="Radnja je prekinuta!"/>
+<phrase i="4045" t="Molimo pričekajte..."/>
+<phrase i="4046" t="Povezati se s VPN poslužiteljem prilikom podizanja sustava?"/>
+<phrase i="4047" t="VPN poslužitelj"/>
+<phrase i="4048" t="Korisnički ID"/>
+<phrase i="4049" t="Grupa tunela"/>
+<phrase i="4050" t="Je li uspostavljena veza s VPN poslužiteljem?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Trajanje"/>
+<phrase i="4054" t="Poslani bitovi"/>
+<phrase i="4055" t="Primljeni bitovi"/>
+<phrase i="4056" t="Razlog posljednjeg neuspješnog povezivanja"/>
+<phrase i="4057" t="Prvo konfigurirajte VPN poslužitelj"/>
+<phrase i="4058" t="Telefon je povezan s VPN poslužiteljem"/>
+<phrase i="4059" t="Prekinite vezu na telefonu prije povezivanja VPN-a na poslužitelj"/>
+<phrase i="4060" t="Telefon nije povezan s VPN poslužiteljem"/>
+<phrase i="4061" t="Prvo prekinite vezu na telefonu"/>
+<phrase i="4062" t="Povezivanje sa CME-om"/>
+<phrase i="4063" t="Registriranje na CME-u"/>
+<phrase i="4064" t="Token za SPCP registraciju"/>
+<phrase i="4065" t="Neuspješno preuzimanje zvonjave"/>
+<phrase i="4066" t="Nadogradnja ugrađ. softvera u tijeku&#xA;Ne prekidajte napajanje"/>
+<phrase i="4067" t="Nadogradnja je uspješno provedena&#xA;...ponovno podizanje sustava je u tijeku"/>
+<phrase i="4068" t="Upit LDAP"/>
+<phrase i="4069" t="Direktorij upita LDAP"/>
+<phrase i="4070" t="Pogrešan unos/konfiguracija,&#xA;Provjerite svoj unos/konfiguraciju"/>
+<phrase i="4071" t="LDAP pogreška: povezivanje s poslužiteljem nije moguće"/>
+<phrase i="4072" t="LDAP pogreška: Unos pogrešne vrijednosti"/>
+<phrase i="4073" t="Nema podudarnosti"/>
+<phrase i="4074" t="Rezultat upita LDAP"/>
+<phrase i="4075" t="U tijeku je slanje zahtjeva za pristup direktoriju s LDAP poslužitelja..."/>
+<phrase i="4076" t="Neuspješno slanje zahtjeva za pristup direktoriju LDAP"/>
+<phrase i="4077" t="Pronađeno je previše podudarnosti,&#xA;Suzite svoju potragu"/>
+<phrase i="4079" t="Odgovaranje na poziv"/>
+<phrase i="4080" t="Nastav. poz. iz spremnika"/>
+<phrase i="4081" t="Odgov. na grupni poziv"/>
+<phrase i="4083" t="Omogući VLAN ozn.račun.porta"/>
+<phrase i="4084" t="VLAN ID računalnog porta"/>
+<phrase i="4085" t="Upozorenje"/>
+<phrase i="4086" t="Stranica"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="nNazad"/><!-- This is a softkey label -->
+<phrase i="4088" t="Prebac"/><!-- This is a softkey label -->
+<phrase i="4089" t="Nazad"/><!-- This is a softkey label -->
+<phrase i="4090" t="Ur.br."/><!-- This is a softkey label -->
+<phrase i="4091" t="Naziv"/>
+<phrase i="4092" t="Traži"/>
+<phrase i="4093" t="Šalji"/><!-- This is a softkey label -->
+<phrase i="4094" t="Medijski povratni krug"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Dolje"/><!-- This is a softkey label -->
+<phrase i="4096" t="Gore"/><!-- This is a softkey label -->
+<phrase i="4097" t="Prebac"/><!-- This is a softkey label -->
+<phrase i="4098" t="Slanje zahtjeva u tijeku..."/>
+<phrase i="4099" t="Pogrešan broj"/>
+<phrase i="4100" t="Nema linije"/>
+<phrase i="4101" t="Istek vremena"/>
+<phrase i="4102" t="Usluga nije dostupna"/>
+<phrase i="4103" t="Pogreška u mreži"/>
+<phrase i="4104" t="Pogreška u protokolu"/>
+<phrase i="4105" t="Pokušavam i dalje"/>
+<phrase i="4106" t="U tijeku je preusmjeravanje poziva"/>
+<phrase i="4107" t="U redu čekanja"/>
+<phrase i="4108" t="Napredovanje sesije"/>
+<phrase i="4109" t="Prihvaćeno"/>
+<phrase i="4110" t="Mogućnost više odabira"/>
+<phrase i="4111" t="Trajno pomaknuto"/>
+<phrase i="4112" t="Privremeno pomaknuto"/>
+<phrase i="4113" t="Upotrijebite Proxy poslužitelj"/>
+<phrase i="4114" t="Alternativna usluga"/>
+<phrase i="4115" t="Neispravan zahtjev"/>
+<phrase i="4116" t="Neovlašteno"/>
+<phrase i="4117" t="Usluga koja se plaća"/>
+<phrase i="4118" t="Zabranjeno"/>
+<phrase i="4119" t="Nije pronađeno"/>
+<phrase i="4120" t="Nedopušten postupak"/>
+<phrase i="4121" t="Neprihvatljivo"/>
+<phrase i="4122" t="Potrebna je autentifikacija proxy poslužitelja"/>
+<phrase i="4123" t="Istek vremena zahtjeva"/>
+<phrase i="4124" t="Više ne postoji"/>
+<phrase i="4125" t="Zahtjev je prevelik"/>
+<phrase i="4126" t="URI zahtjev je prevelik"/>
+<phrase i="4127" t="Nepodržana vrsta medija"/>
+<phrase i="4128" t="Nepodržana URI shema"/>
+<phrase i="4129" t="Neispravan kućni broj"/>
+<phrase i="4130" t="Obavezno biranje kućnog broja"/>
+<phrase i="4131" t="Prekratak interval"/>
+<phrase i="4132" t="Privremeno nije dostupno"/>
+<phrase i="4133" t="Logička veza poziva s usmjerivačem/transakcija ne postoji"/>
+<phrase i="4134" t="Otkriven je krug"/>
+<phrase i="4135" t="Ima previše skokova"/>
+<phrase i="4136" t="Adresa je nepotpuna"/>
+<phrase i="4137" t="Neodređeno"/>
+<phrase i="4138" t="Linija je zauzeta"/>
+<phrase i="4139" t="Zahtjev je prekinut"/>
+<phrase i="4140" t="Neprihvatljivo"/>
+<phrase i="4141" t="Neispravan događaj"/>
+<phrase i="4142" t="Zahtjev u tijeku"/>
+<phrase i="4143" t="Nečitko"/>
+<phrase i="4144" t="Interna pogreška poslužitelja"/>
+<phrase i="4145" t="Nije primijenjeno"/>
+<phrase i="4146" t="Neispravan pristupnik"/>
+<phrase i="4147" t="Usluga nije dostupna"/>
+<phrase i="4148" t="Istek vremena poslužitelja"/>
+<phrase i="4149" t="Nepodržana inačica SIP-a"/>
+<phrase i="4150" t="Poruka je prevelika"/>
+<phrase i="4151" t="Svi su zauzeti"/>
+<phrase i="4152" t="Odbij poziv"/>
+<phrase i="4153" t="Nigdje ne postoji"/>
+<phrase i="4154" t="Pogreška u slojevitoj strukturi mrežnih komponenti i protokola"/>
+<phrase i="4155" t="Vrijeme na stanici"/>
+<phrase i="4156" t="Zaključaj"/>
+<phrase i="4157" t="Telefon"/>
+<phrase i="4158" t="Datum i vrijeme"/>
+<phrase i="4159" t="Slika u pozadini"/>
+<phrase i="4160" t="Vijesti iz financija"/>
+<phrase i="4161" t="Istek vremena za transakciju"/>
+<phrase i="4162" t="Nije pronađena ruta"/>
+<phrase i="4163" t="Privremeno nedostupno"/>
+<phrase i="4164" t="Zahtjev je poništen"/>
+<phrase i="4165" t="Poslužitelj je zauzet"/>
+<phrase i="4166" t="Nedovoljna pojasna širina medija"/>
+<phrase i="4200" t="404 nije pronađeno"/>
+<phrase i="4201" t="Dodaj u Osobni unos"/>
+<phrase i="4202" t="Napredno pretraživanje"/>
+<phrase i="4203" t="Odgovori na poziv"/>
+<phrase i="4204" t="odgovori na poziv"/>
+<phrase i="4205" t="Neuspješno slanje zahtjeva za pristup Broadsoft direktoriju"/>
+<phrase i="4206" t="BroadSoft direktorij"/>
+<phrase i="4207" t="Broadsoft: Korisnik je poništio zahtjev"/>
+<phrase i="4208" t="Postavke za upravlj. poz."/>
+<phrase i="4209" t="CME direktorij"/>
+<phrase i="4210" t="Odjel: "/>
+<phrase i="4211" t="DHCP opcija za upotrebu"/>
+<phrase i="4212" t="Mogućnosti resinkr. DHCP-a"/>
+<phrase i="4213" t="E-pošta: "/>
+<phrase i="4214" t="Detalji o unosu"/>
+<phrase i="4215" t="Pogreška: Unosa nema ili je pogrešan."/>
+<phrase i="4216" t="Kućni broj 10"/>
+<phrase i="4217" t="Kućni broj 11"/>
+<phrase i="4218" t="Kućni broj 12"/>
+<phrase i="4219" t="Kućni broj 7"/>
+<phrase i="4220" t="Kućni broj 8"/>
+<phrase i="4221" t="Kućni broj 9"/>
+<phrase i="4222" t="Kućni broj: "/>
+<phrase i="4223" t="Prvo: "/>
+<phrase i="4224" t="Čekanje odgovora"/>
+<phrase i="4225" t="Prinudno G722"/>
+<phrase i="4226" t="ID grupe: "/>
+<phrase i="4227" t="HTTP zahtjev je poništen"/>
+<phrase i="4228" t="Neuspješno slanje HTTP zahtjeva"/>
+<phrase i="4229" t="Zanemari"/>
+<phrase i="4230" t="zanemari"/>
+<phrase i="4231" t="Aut. otkriv. ključa sustava"/>
+<phrase i="4232" t="IP adresa ključa sustava"/>
+<phrase i="4233" t="Posljednje: "/>
+<phrase i="4234" t="LDAP pogreška: povezivanje s poslužiteljem nije moguće."/>
+<phrase i="4235" t="Linijska tipka 10"/>
+<phrase i="4236" t="Linijska tipka 11"/>
+<phrase i="4237" t="Linijska tipka 12"/>
+<phrase i="4238" t="Linijska tipka 7"/>
+<phrase i="4239" t="Linijska tipka 8"/>
+<phrase i="4240" t="Linijska tipka 9"/>
+<phrase i="4241" t="Mobilni telefon: "/>
+<phrase i="4242" t="Naziv: "/>
+<phrase i="4243" t="Nema podudarnosti&#xA;"/>
+<phrase i="4244" t="ništa&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Broj: "/>
+<phrase i="4246" t="Broj telefona:"/>
+<phrase i="4247" t="Željeno G722"/>
+<phrase i="4248" t="PrvHld"/>
+<phrase i="4249" t="prvHld"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Direktorij upit BS"/>
+<phrase i="4257" t="U tijeku je slanje zahtjeva za pristup direktoriju s Broadsoft poslužitelja..."/>
+<phrase i="4258" t="Signalizacijski protokol"/>
+<phrase i="4259" t="Jednostavna pretraga"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="Model SPA5X5"/>
+<phrase i="4263" t="Automatsko otkrivanje SPCP"/>
+<phrase i="4264" t="toCdir"/>
+<phrase i="4265" t="Previše unosa&#xA;"/>
+<phrase i="4266" t="Previše osobnih unosa&#xA;"/>
+<phrase i="4267" t="Transportni protokol"/>
+<phrase i="4268" t="Pokušavam se odjaviti.&#xA;Molimo pričekajte..."/>
+<phrase i="4269" t="Korisnički ID: "/>
+<phrase i="4270" t="Pogreška XML formata ili pogrešna aplikacija"/>
+<phrase i="4271" t="Usluge XML"/>
+<phrase i="4272" t="Autor"/>
+<phrase i="4273" t="Naziv mreže"/>
+<phrase i="4274" t="Mrežni telefon"/>
+<phrase i="4275" t="Mrežni telefon"/>
+<phrase i="4276" t="Prvo:"/>
+<phrase i="4277" t="Završi"/><!-- This is a softkey label -->
+<phrase i="4278" t="NovPoz"/><!-- This is a softkey label -->
+<phrase i="4279" t="Duboki bas"/>
+<phrase i="4280" t="Novi unos u osobni direkt."/>
+<phrase i="4281" t="Pretraži osobni direktorij"/>
+<phrase i="12000" t="Pokreni aplikaciju"/>
+<phrase i="12001" t="Pogrešna IP adresa"/>
+<phrase i="12002" t="Odaberite liniju..."/>
+<phrase i="12003" t="Odaberite melodiju zvona..."/>
+<phrase i="12004" t="Potrebna je autorizacija!"/>
+<phrase i="12005" t="CM-ICMP-Nedostupno"/>
+<phrase i="12006" t="Pomak(\202H:m:s):"/>
+<phrase i="12007" t="Registracija u tijeku"/>
+<phrase i="12008" t="STUN dolazno"/>
+<phrase i="12009" t="Administratorski ID VLAN-a"/>
+<phrase i="12010" t="Promijeni TFTP"/>
+<phrase i="12011" t="Upravitelj poziva 1"/>
+<phrase i="12012" t="Zadani usmjerivač 1"/>
+<phrase i="12013" t="DHCP&quot;Statična IP adresa"/>
+<phrase i="12014" t="TFTP poslužitelj 1"/>
+<phrase i="12015" t="Omogućen je web-pristup"/>
+<phrase i="12016" t="Proteklo vrijeme"/>
+<phrase i="12017" t="Rcv"/>
+<phrase i="12018" t="Inačica"/>
+<phrase i="12019" t="Xmt"/>
+<phrase i="12020" t="Povezivanje u tijeku..."/>
+<phrase i="12021" t="Nadogradnja uspješno provedena"/>
+<phrase i="12022" t="Propušten poziv"/>
+<phrase i="12023" t="Datoteka sa zvonjavama je nedostupna!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Registracija odbijena:&#xA;%s"/>
+<phrase i="12026" t="Token za registraciju na SPCP je odbijem [%d]&#xA;...u tijeku je ponovni pokušaj"/>
+<phrase i="12027" t="Pogreška: Nemoguće pronaći UC500.&#xA;Obratite se svom administratoru"/>
+<phrase i="12028" t="10 s"/>
+<phrase i="12029" t="20 s"/>
+<phrase i="12030" t="30 s"/>
+<phrase i="12031" t="Preuzimanje u tijeku&#xA;%s"/>
+<phrase i="12032" t="(Nema odg. rezultata)"/>
+<phrase i="12033" t="Novi naziv"/>
+<phrase i="12034" t="Posljednji TFTP poslužitelj"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Test BMP-a"/>
+<phrase i="12037" t="Rumunjski"/>
+<phrase i="12038" t="Duboki bas"/>
+<phrase i="12039" t="Ključna riječ:"/>
+<phrase i="12040" t="Rezultati"/>
+<phrase i="12041" t="Rezultat"/>
+<phrase i="12043" t="Želite se odjaviti?"/>
+<phrase i="12044" t="Odaberite broj"/>
+<phrase i="12045" t="stavi poziv na čekanje"/>
+<phrase i="12046" t="Ograničen broj"/>
+<phrase i="12047" t="izvan dosega!"/>
+<phrase i="12048" t="traži"/>
+<phrase i="12049" t="Može se upisivati na web-poslužitelj"/>
+<phrase i="12050" t="Španjolski-Meksiko"/>
+<phrase i="12051" t="Nemoguć pristup govornoj pošti za vrijeme trajanja poziva"/>
+<phrase i="12052" t="Adresa poslužitelja je pogrešna"/>
+<phrase i="12053" t="Neuspješno povezivanje u mrežu"/>
+<phrase i="12054" t="Pogrešan format govorne pošte"/>
+<phrase i="12055" t="Neuspješno slanje zahtjeva"/>
+<phrase i="12056" t="Molimo uredite:"/>
+<phrase i="12057" t="Odredište za prespajanje poziva bez prethodne najave:"/>
+<phrase i="12058" t="poziv bez najave"/>
+<phrase i="12059" t="(Nema poziva sa zvonjavom)"/>
+<phrase i="12060" t="Traka propuštenih poziva"/>
+<phrase i="12061" t="Poziv bez najave"/>
+<phrase i="12062" t="stanje mirovanja"/>
+<phrase i="12063" t="odgovoreni pozivi"/>
+<phrase i="12064" t="pozivi u tijeku"/>
+<phrase i="12065" t="slanje upozorenja"/>
+<phrase i="12066" t="na čekanju-privatno"/>
+<phrase i="12067" t="aktivno"/>
+<phrase i="12068" t="na čekanju"/>
+<phrase i="12069" t="prespojen-aktivan"/>
+<phrase i="12070" t="prespojen-na čekanju"/>
+<phrase i="12071" t="zvoni"/>
+<phrase i="12072" t="u upotrebi"/>
+<phrase i="12073" t="drugi-zvonjava"/>
+<phrase i="12074" t="drugo-na čekanju"/>
+<phrase i="12075" t="nema signala"/>
+<phrase i="12076" t="drugo-u stanju mirovanja"/>
+<phrase i="12077" t="rezervirano"/>
+<phrase i="12078" t="Nekonfigurirano"/>
+<phrase i="12079" t="U tijeku je potvrda URL-a za nadogradnju&#xA;Ne prekidajte napajanje"/>
+<phrase i="12080" t="Resinkronizacija u tijeku"/>
+<phrase i="12081" t="Resinkronizacija je uspješno provedena."/>
+<phrase i="12082" t="Resinkronizacija je uspješno provedena.&#xA;Sustav na telefonu će se ponovno podići. Molimo pričekajte"/>
+<phrase i="12083" t="Neuspješna resinkronizacija"/>
+<phrase i="12084" t="Engleski-SAD"/>
+<phrase i="12085" t="Prebacivanje na konferencijski poziv"/>
+<phrase i="12086" t="Nepoznat pozivatelj"/>
+<phrase i="12087" t="resetiranje"/>
+<phrase i="12088" t="podijeljeno"/>
+<phrase i="12089" t="povezano"/>
+<phrase i="12090" t="dodaj u direktorij"/>
+<phrase i="12091" t="na čekanju"/>
+<phrase i="12092" t="pogrešno"/>
+<phrase i="12093" t="nastavljam"/>
+<phrase i="12094" t="pozivam"/>
+<phrase i="12095" t="odgovaram na poziv"/>
+<phrase i="12096" t="Osobno brzo biranje"/>
+<phrase i="12097" t="Popis poziva prespojenih na pozvani broj"/>
+<phrase i="12098" t="Popis već aktivnih poziva stavljenih u konferencije"/>
+<phrase i="12099" t="inačica"/>
+<phrase i="12100" t="Tvrtka&quot;Grupa&quot;Osobno"/>
+<phrase i="12101" t="Naziv direktorija"/>
+<phrase i="12102" t="Poslužitelj koji djeluje kao centralno računalo"/>
+<phrase i="12103" t="Putem"/>
+<phrase i="12104" t="Postavi stanje agenta"/>
+<phrase i="12105" t="Dostupno"/>
+<phrase i="12106" t="Povijest ponovnog podizanja sustava"/>
+<phrase i="12107" t="Zadani&quot;HiDef&quot;standard"/>
+<phrase i="12108" t="Odgoda pokretanja mreže"/>
+<phrase i="12109" t="Poseban CWT"/>
+<phrase i="12110" t="Omogući LLDP-MED"/>
+<phrase i="12111" t="Registracija odbijena:&#xA;%s"/>
+<phrase i="12112" t="Pogreška: Neuspješna registracija.&#xA;Obratite se svom administratoru..."/>
+<phrase i="12113" t="Otkrivena je pogreška u mreži."/>
+<phrase i="12114" t="Registracija u tijeku..."/>
+<phrase i="12115" t="Pogreška u mreži."/>
+<phrase i="12116" t="Lozinka"/>
+<phrase i="12117" t="Resinkronizacija je uspješno provedena.&#xA;Sustav na telefonu će se ponovno podići. Molimo pričekajte."/>
+<phrase i="12118" t="Inačica mikrotel. komb."/>
+<phrase i="12119" t="Auto&quot;Original&quot;v3"/>
+<phrase i="12120" t="Neispravnost u radu DHCP-a"/>
+<phrase i="12121" t="Nadogradnja"/>
+<phrase i="12122" t="Nove usluge"/>
+<phrase i="12123" t="Korisnički potaknute"/>
+<phrase i="12124" t="SIP potaknute"/>
+<phrase i="12125" t="Pogreška u sustavu"/>
+<phrase i="12126" t="Poveznica na dolje"/>
+<phrase i="12127" t="Sustav 1"/>
+<phrase i="12128" t="Sustav 2"/>
+<phrase i="12129" t="Dupla IP adresa"/>
+<phrase i="12130" t="Rezervna IP adresa"/>
+<phrase i="12131" t="Sustav 3"/>
+<phrase i="12132" t="Sustav 4"/>
+<phrase i="12133" t="Sustav 5"/>
+<phrase i="12134" t="Sustav 6"/>
+<phrase i="12135" t="Sustav 7"/>
+<phrase i="12136" t="SIP potaknute"/>
+<phrase i="12137" t="Preuzimanje rječnika"/>
+<phrase i="12138" t="VLAN je promijenjen"/>
+<phrase i="12139" t="RC"/>
+<phrase i="12140" t="Vraćanje na tvorničke postavke"/>
+<phrase i="12141" t="Softverski zahtjevi"/>
+<phrase i="12142" t="Promijenjena je IP adresa"/>
+<phrase i="12143" t="Unesite kod računa"/>
+<phrase i="12144" t="Unesite vanjski broj"/>
+<phrase i="12145" t="Interni direktorij"/>
+<phrase i="12146" t="Eksterni direktorij"/>
+<phrase i="12147" t="Direktorij grupa"/>
+<phrase i="12148" t="Direktorij stanica"/>
+<phrase i="12149" t="Vanjska glazba"/>
+<phrase i="12150" t="Grupa stranice 1"/>
+<phrase i="12151" t="Grupa stranice 2"/>
+<phrase i="12152" t="Grupa stranice 3"/>
+<phrase i="12153" t="Grupa stranice 4"/>
+<phrase i="12154" t="Grupa stranice 5"/>
+<phrase i="12155" t="Vanjska stranica"/>
+<phrase i="12156" t="Primjer poziva"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Sustav za način zvonjave noću"/>
+<phrase i="12159" t="U tijeku je stavljanje poziva na čekanje, u spremnik"/>
+<phrase i="12160" t="Upisivanje istih podataka u više portova"/>
+<phrase i="12161" t="Izvan dosega!"/>
+<phrase i="12162" t="Usluge XML"/>
+<phrase i="12163" t="hebrejski"/>
+<phrase i="12164" t="U tijeku je stavljanje poziva na čekanje, u spremnik"/>
+<phrase i="12165" t="Linija"/>
+<phrase i="12166" t="Prebacivanje između LTR ili RTL,&#xA; prethodno unesen tekst bit će&#xA; izbrisan, nastaviti?"/>
+<phrase i="12167" t="Veličina fonta"/>
+<phrase i="12168" t="Omilj. postav. centrale"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Def. liniju za brzo biranje %d"/><!--Def. means define-->
+<phrase i="12170" t="Def. tipku za brzo biranje %d"/><!--Def. means define-->
+<phrase i="12171" t="poz. na čekanju"/>
+<phrase i="12172" t="Čekam unos više znamenaka...&#xA;Kada završite, pritisnite U redu za nastavak."/>
+<phrase i="12173" t="Pulsno"/>
+<phrase i="12174" t="IzbSve"/>
+<phrase i="12175" t="IzbPop"/>
+<phrase i="12176" t="Želite li izbrisati sve zabilježene pozive?"/>
+<phrase i="12177" t="Način prikazivanja"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Kućni broj"/>
+<phrase i="12179" t="Oboje"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Wi-Fi konfiguracija"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Nije nađen Wi-Fi uređaj."/>
+<phrase i="12182" t="Bežični profil"/>
+<phrase i="12183" t="Wi-Fi zaštićeno postavljanje"/>
+<phrase i="12184" t="Bežični status"/>
+<phrase i="12185" t="Osnovna konfiguracija"/>
+<phrase i="12186" t="Sigurnosni način rada"/>
+<phrase i="12187" t="Konfiguracija šifriranja"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Pojas"/>
+<phrase i="12190" t="WPA šifriranje"/>
+<phrase i="12191" t="Format zajedničkog ključa"/>
+<phrase i="12192" t="WPA ključ"/>
+<phrase i="12193" t="Vrsta WEP provjere autentičnosti"/>
+<phrase i="12194" t="Dužina WEP ključa"/>
+<phrase i="12195" t="WEP ključ"/>
+<phrase i="12196" t="Profil"/>
+<phrase i="12197" t="Konfiguracija PIN-a"/>
+<phrase i="12198" t="Pokrenuta je bežična konfiguracija PIN-a!"/>
+<!--phrase i="12199" t="Za uređaje koji zahtijevaju PIN upišite sljedeći broj: [%s], a zatim odaberite ovaj način rada."/-->
+<phrase i="12200" t="Bežično skeniranje..."/>
+<phrase i="12201" t="Odaberite profil"/>
+<phrase i="12202" t="Konfiguracija gumba za slanje"/>
+<phrase i="12203" t="Početak bežične konfiguracije pritiskom na gumb!"/>
+<phrase i="12204" t="Wi-Fi zaštićeno postavljanje"/>
+<phrase i="12205" t="Bežični status"/>
+<phrase i="12206" t="Naziv mreže (SSID)"/>
+<phrase i="12207" t="Jačina signala"/>
+<phrase i="12208" t="skeniraj"/>
+<phrase i="12209" t="Da biste mogli upotrebljavati ovu značajku, ažurirajte WBPN softver na najnoviju verziju."/>
+<phrase i="12210" t="Prijava gosta"/>
+<phrase i="12211" t="gstPri"/>
+<phrase i="12212" t="gstOdj"/>
+<phrase i="12213" t="(Prisutan je gost)"/> 
+<phrase i="12214" t="Svi parametri vratit će se na zadane tvorničke vrijednosti. Nastaviti?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c č ć "/>
+<phrase i="12401" t=" d đ e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s š "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z ž "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

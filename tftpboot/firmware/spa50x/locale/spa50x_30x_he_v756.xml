@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>hebrew</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="שם תחום"/>
+<phrase i="204" t="כתובת IP"/>
+<phrase i="205" t="מסכת רשת משנה"/>
+<phrase i="212" t="שרת DNS‏ 1"/>
+<phrase i="213" t="שרת DNS‏ 2"/>
+<phrase i="225" t="כתובת URL של ספרי טלפונים"/>
+<phrase i="226" t="כתובת URL של הודעות"/>
+<phrase i="227" t="כתובת URL של שירותים"/>
+<phrase i="354" t="שיחות שהתקבלו"/>
+<phrase i="355" t="שיחות שבוצעו"/>
+<phrase i="364" t="ניגודיות"/>
+<phrase i="365" t="תצורת רשת"/>
+<phrase i="374" t="ציוץ 1"/>
+<phrase i="375" t="ציוץ 2"/>
+<phrase i="378" t="סוג צלצול"/>
+<phrase i="384" t="הודעות סטטוס"/>
+<phrase i="393" t="סטטיסטיקת רשת"/>
+<phrase i="473" t="כתובת IP ששוחררה"/>
+<phrase i="500" t="כתובת DHCP ששוחררה"/>
+<phrase i="502" t="מחק תצורה"/>
+<phrase i="552" t="כתובת URL של אימות"/>
+<phrase i="585" t="אזור המשתמש"/>
+<phrase i="586" t="אזור הרשת"/>
+<phrase i="635" t="שרת DHCP"/>
+<phrase i="655" t="פרטי דגם"/>
+<phrase i="657" t="מספר דגם"/>
+<phrase i="670" t="צלצול ברירת מחדל"/>
+<phrase i="676" t="חיוג מקוצר"/>
+<phrase i="716" t="תצורת אבטחה"/>
+<phrase i="3000" t="שיחות שלא נענו"/>
+<phrase i="3001" t="רשימת חיוג חוזר"/>
+<phrase i="3002" t="עוצמת צלצול"/>
+<phrase i="3003" t="עוצמת רמקול"/>
+<phrase i="3004" t="עוצמת אוזניות"/>
+<phrase i="3005" t="עוצמת שפופרת"/>
+<phrase i="3006" t="ניגודיות LCD"/>
+<phrase i="3007" t="סטטוס"/>
+<phrase i="3008" t="סטטוס"/>
+<phrase i="3009" t="מפתח קו 4"/><!-- comment content -->
+<phrase i="3010" t="מפתח קו 3"/>
+<phrase i="3011" t="מפתח קו 2"/>
+<phrase i="3012" t="מפתח קו 1"/>
+<phrase i="3013" t="שלוחה 4"/>
+<phrase i="3014" t="שלוחה 3"/>
+<phrase i="3015" t="שלוחה 2"/>
+<phrase i="3016" t="שלוחה 1"/>
+<phrase i="3018" t="נל&quot;ל"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="שירותים מקומיים"/>
+<phrase i="3020" t="שיחה חדשה"/>
+<phrase i="3021" t="צלצול נכנס"/>
+<phrase i="3022" t="אינטרקום"/>
+<phrase i="3023" t="חיוג חוזר"/><!-- This is a softkey label -->
+<phrase i="3027" t="המערכת מופעלת מחדש&#xA;אנא המתן"/>
+<phrase i="3028" t="המערכת מאותחלת מחדש&#xA;אנא המתן"/>
+<phrase i="3029" t="מאפס לברירת המחדל של היצרן&#xA;אנא המתן"/>
+<phrase i="3030" t="לאשר הפעלה מחדש של המערכת?"/>
+<phrase i="3031" t="לאשר אתחול מחדש של המערכת?"/>
+<phrase i="3032" t="כל הפרמטרים יאופסו&#xA;לערכי ברירת המחדל של היצרן.&#xA;להמשיך?"/>
+<phrase i="3033" t="שגיאת סיסמה. לנסות שוב?"/>
+<phrase i="3034" t="סיסמה חדשה:"/>
+<phrase i="3035" t="מספר תא קולי:"/>
+<phrase i="3036" t="קיזוז(H:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="שעה(H:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="תאריך(m/d/y):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="התנתקות"/><!-- This is a softkey label -->
+<phrase i="3040" t="כניסה"/><!-- This is a softkey label -->
+<phrase i="3041" t="הגדרת x"/>
+<phrase i="3042" t="הגדרה"/>
+<phrase i="3043" t="רשת"/>
+<phrase i="3044" t="הזן סיסמת מנהל:"/>
+<phrase i="3045" t="לא"/>
+<phrase i="3046" t="השהיה עד העברת שיחה כשאין תשובה"/>
+<phrase i="3047" t="מספר להעברת שיחה כשאין תשובה"/>
+<phrase i="3048" t="מספר להעברת שיחה כשתפוס"/>
+<phrase i="3049" t="מספר להעברת כל השיחות"/>
+<phrase i="3050" t="כתובת רב-שידור"/>
+<phrase i="3051" t="שרת Non-DHCP NTP מס' ‏2"/>
+<phrase i="3052" t="שרת Non-DHCP NTP מס' ‏1"/>
+<phrase i="3053" t="Non-DHCP DNS 2"/>
+<phrase i="3054" t="Non-DHCP DNS 1"/>
+<phrase i="3055" t="נתיב בר. מח. של Non-DHCP"/>
+<phrase i="3056" t="מסכת רשת משנה Non-DHCP"/>
+<phrase i="3057" t="כתובת IP של Non-DHCP"/>
+<phrase i="3058" t="הפעל שרת אינטרנט"/>
+<phrase i="3059" t="שער נוכחי"/>
+<phrase i="3060" t="מסכת רשת נוכחית"/>
+<phrase i="3061" t="תחום"/>
+<phrase i="3062" t="שם מארח"/>
+<phrase i="3063" t="כתובת IP נוכחית"/>
+<phrase i="3064" t="הפעל DHCP"/>
+<phrase i="3065" t="סוג חיבור WAN"/>
+<phrase i="3066" t="תבנית תאריך"/>
+<phrase i="3067" t="תבנית שעה"/>
+<phrase i="3068" t="שלח שמע לרמקול"/>
+<phrase i="3069" t="זימון מענה אוטומטי"/>
+<phrase i="3070" t="התקן שמע מועדף"/>
+<phrase i="3071" t="סיוע בחיוג"/>
+<phrase i="3072" t="שיחה מאובטחת"/>
+<phrase i="3073" t="נא לא להפריע"/>
+<phrase i="3074" t="חסימת שיחות אנונימיות"/>
+<phrase i="3075" t="חסימת מזהה מתקשר"/>
+<phrase i="3076" t="אישור לקוח"/>
+<phrase i="3077" t="כתובת MAC"/>
+<phrase i="3078" t="גרסת חומרה"/>
+<phrase i="3079" t="גרסת תוכנה"/>
+<phrase i="3080" t="מספר סידורי"/>
+<phrase i="3081" t="שם המוצר"/>
+<phrase i="3082" t="התקן מועדף"/>
+<phrase i="3083" t="שם התחנה"/>
+<phrase i="3085" t="סטטוס חניית שיחה"/>
+<phrase i="3087" t="הגדר סיסמה"/>
+<phrase i="3088" t="איפוס להגדרות יצרן"/>
+<phrase i="3089" t="הפעלה מחדש"/>
+<phrase i="3090" t="אתחול מחדש"/>
+<phrase i="3092" t="פרטי מוצר"/>
+<phrase i="3094" t="תא קולי"/>
+<phrase i="3095" t="שעה/תאריך"/>
+<phrase i="3096" t="הפניית שיחות"/>
+<phrase i="3097" t="העדפות"/>
+<phrase i="3099" t="היסטוריית שיחות"/>
+<phrase i="3100" t="חיוג מהיר"/>
+<phrase i="3101" t="מדריך טלפון"/>
+<phrase i="3102" t="הזן חיוג מהיר x"/>
+<phrase i="3104" t="צלצול 10"/>
+<phrase i="3105" t="צלצול 9"/>
+<phrase i="3106" t="צלצול 8"/>
+<phrase i="3107" t="צלצול 7"/>
+<phrase i="3108" t="צלצול 6"/>
+<phrase i="3109" t="צלצול 5"/>
+<phrase i="3110" t="צלצול 4"/>
+<phrase i="3111" t="צלצול 3"/>
+<phrase i="3112" t="צלצול 2"/>
+<phrase i="3113" t="צלצול 1"/>
+<phrase i="3114" t="צלצול שלוחה"/>
+<phrase i="3115" t="שלוחה 1: "/>
+<phrase i="3116" t="רינגטון"/>
+<phrase i="3117" t="מחק: "/>
+<phrase i="3118" t="הרשימה ריקה"/>
+<phrase i="3119" t="סיסמה שגויה. לנסות שוב?"/>
+<phrase i="3120" t="הזן סיסמה:"/>
+<phrase i="3121" t="חניית שיחה"/>
+<phrase i="3123" t="בקשת סטטוס&#xA;חניית שיחה נכשלה"/>
+<phrase i="3124" t="חניית שיחה ריקה"/>
+<phrase i="3125" t="מבקש סטטוס&#xA;חניית שיחה..."/>
+<phrase i="3126" t="מספר חניה לא חוקי&#xA;אנא נסה שוב"/>
+<phrase i="3127" t="תחנה מצלצלת"/>
+<phrase i="3128" t="חטיפת שיחה"/>
+<phrase i="3129" t="בחר קו בהמתנה&#xA;להעברה"/>
+<phrase i="3130" t="בחר קו בהמתנה&#xA;לוועידה"/>
+<phrase i="3131" t="*קוד חיוג"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="אלץ G729A"/>
+<phrase i="3133" t="העדף G729A"/>
+<phrase i="3134" t="אלץ G726r40"/>
+<phrase i="3135" t="העדף G726r40"/>
+<phrase i="3136" t="אלץ G726r32"/>
+<phrase i="3137" t="העדף G726r32"/>
+<phrase i="3138" t="אלץ G726r24"/>
+<phrase i="3139" t="העדף G726r24"/>
+<phrase i="3140" t="אלץ G726r16"/>
+<phrase i="3141" t="העדף G726r16"/>
+<phrase i="3142" t="אלץ G723"/>
+<phrase i="3143" t="העדף G723"/>
+<phrase i="3144" t="אלץ G711A"/>
+<phrase i="3145" t="העדף G711A"/>
+<phrase i="3146" t="אלץ G711U"/>
+<phrase i="3147" t="העדף G711U"/>
+<phrase i="3148" t="זימון"/>
+<phrase i="3149" t="ביטול אבטחת הבאה"/>
+<phrase i="3150" t="אבטחת הבא"/>
+<phrase i="3151" t="ביטול אבטחת כל השיחות"/>
+<phrase i="3152" t="אבטחת כל השיחות"/>
+<phrase i="3153" t="ביטול נא לא להפריע"/>
+<phrase i="3155" t="ביטול חסימת שיחות אנונימיות"/>
+<phrase i="3157" t="ביטול חסימת מזהה המתקשר הבא"/>
+<phrase i="3158" t="חסימת מזהה מתקשר הבא"/>
+<phrase i="3159" t="ביטול חסימת מזהה מתקשר"/>
+<phrase i="3160" t="חסימת מזהה מתקשר"/>
+<phrase i="3161" t="ביטול התקשרות חזרה"/>
+<phrase i="3162" t="התקשרות חזרה"/>
+<phrase i="3163" t="ביטול העברת שיחות כשאין תשובה"/>
+<phrase i="3164" t="הפניית שיחה כשאין תשובה"/>
+<phrase i="3165" t="ביטול הפניית שיחה כשתפוס"/>
+<phrase i="3166" t="הפניית שיחה כשתפוס"/>
+<phrase i="3167" t="ביטול העברת כל השיחות"/>
+<phrase i="3168" t="הפניית כל השיחות"/>
+<phrase i="3169" t="אחזור שיחה"/>
+<phrase i="3190" t="אוזניות   "/>
+<phrase i="3191" t="שפופרת   "/>
+<phrase i="3192" t="רמקול   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="לוח מקשים   "/>
+<phrase i="3201" t="עבר"/>
+<phrase i="3202" t="נכשל"/>
+<phrase i="3216" t="צלצול:"/>
+<phrase i="3217" t="מספר:"/>
+<phrase i="3218" t="שם:"/>
+<phrase i="3219" t="מחק:"/>
+<phrase i="3220" t="בוחר הצלצולים"/>
+<phrase i="3221" t="ספרייה"/>
+<phrase i="3222" t="הזן מספר:"/>
+<phrase i="3223" t="הזן יעד זימון:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="הזן קבוצה לחטיפה:"/>
+<phrase i="3225" t="הזן יעד לשירות מיוחד:"/>
+<phrase i="3226" t="הזן יעד לשירות הפניה:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="הזן מספר לביטול חניה:"/>
+<phrase i="3228" t="הזן מספר לחניה:"/>
+<phrase i="3229" t="הזן יעד להעברת שיחה עיוורת:"/>
+<phrase i="3230" t="הזן מספר להעברת שיחות כשאין תשובה:"/>
+<phrase i="3231" t="הזן מספר להעברת שיחות כשתפוס:"/>
+<phrase i="3232" t="הזן מספר להעברת כל השיחות:"/>
+<phrase i="3234" t="הזן ספרות נוספות:"/>
+<phrase i="3237" t="שיחות שלא נענו"/>
+<phrase i="3238" t="שיחות שנ'ענו"/>
+<phrase i="3239" t="שיחות שנענו"/>
+<phrase i="3240" t="רשימת חיוג חוזר"/>
+<phrase i="3241" t="מאתחל רשת"/>
+<phrase i="3242" t="בודק DNS"/>
+<phrase i="3243" t="מד. טלפ."/><!-- This is a softkey label -->
+<phrase i="3244" t="הע. שיחה"/><!-- This is a softkey label -->
+<phrase i="3245" t="שפה"/>
+<phrase i="3246" t="בחירת שפה"/>
+<phrase i="3248" t="שיחות הופנו"/>
+<phrase i="3249" t="שיחה 1 חדשה שלא נענתה"/>
+<phrase i="3250" t="שיחות חדשות שלא נענו"/>
+<phrase i="3251" t="עוד"/><!-- This is a softkey label -->
+<phrase i="3252" t="נסה שוב"/><!-- This is a softkey label -->
+<phrase i="3253" t="בטל"/><!-- This is a softkey label -->
+<phrase i="3254" t="לא זמין"/><!-- This is a softkey label -->
+<phrase i="3255" t="זמין"/><!-- This is a softkey label -->
+<phrase i="3258" t="חטיפה"/><!-- This is a softkey label -->
+<phrase i="3259" t="חטיפה"/><!-- This is a softkey label -->
+<phrase i="3260" t="ביטול חניה"/><!-- This is a softkey label -->
+<phrase i="3261" t="חניה"/><!-- This is a softkey label -->
+<phrase i="3262" t="העברה עיוורת"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="הע-קוX"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="הע. שיחה"/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*קוד"/><!-- This is a softkey label -->
+<phrase i="3267" t="בחר"/><!-- This is a softkey label -->
+<phrase i="3268" t="שמור"/><!-- This is a softkey label -->
+<phrase i="3270" t="חדש הפעלה"/><!-- This is a softkey label -->
+<phrase i="3272" t="הקודם"/><!-- This is a softkey label -->
+<phrase i="3273" t="השמע"/><!-- This is a softkey label -->
+<phrase i="3274" t="הדבק"/><!-- This is a softkey label -->
+<phrase i="3275" t="אפשרות"/><!-- This is a softkey label -->
+<phrase i="3276" t="אישור"/><!-- This is a softkey label -->
+<phrase i="3277" t="מספר"/><!-- This is a softkey label -->
+<phrase i="3278" t="הבא"/><!-- This is a softkey label -->
+<phrase i="3279" t="לא נענו"/><!-- This is a softkey label -->
+<phrase i="3281" t="ח&quot;שא"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="צרף"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="צא"/><!-- This is a softkey label -->
+<phrase i="3285" t="ערוך"/><!-- This is a softkey label -->
+<phrase i="3286" t="נל&quot;ל"/><!-- This is a softkey label -->
+<phrase i="3288" t="חיוג"/><!-- This is a softkey label -->
+<phrase i="3289" t="מחק"/><!-- This is a softkey label -->
+<phrase i="3290" t="העתק"/><!-- This is a softkey label -->
+<phrase i="3291" t="שו&quot;נ הש&quot;קx"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="ועידה"/><!-- This is a softkey label -->
+<phrase i="3293" t="נקה"/><!-- This is a softkey label -->
+<phrase i="3294" t="-הע. שיחה"/><!-- This is a softkey label -->
+<phrase i="3295" t="-נל&quot;ל"/><!-- This is a softkey label -->
+<phrase i="3296" t="שנה"/><!-- This is a softkey label -->
+<phrase i="3298" t="ביטול"/><!-- This is a softkey label -->
+<phrase i="3299" t="גשר"/><!-- This is a softkey label -->
+<phrase i="3300" t="מחק תו"/><!-- This is a softkey label -->
+<phrase i="3301" t="אלפא"/><!-- This is a softkey label -->
+<phrase i="3302" t="הוסף"/><!-- This is a softkey label -->
+<phrase i="3303" t="הגדרת x"/>
+<phrase i="3304" t="הגדרה"/>
+<phrase i="3305" t="משותף"/>
+<phrase i="3306" t="מנסה לחדש הפעלה"/>
+<phrase i="3307" t="מנסה להעביר להמתנה"/>
+<phrase i="3308" t="בהמתנה"/>
+<phrase i="3309" t="מחובר"/>
+<phrase i="3310" t="עונה"/>
+<phrase i="3311" t="השיחה הסתיימה"/>
+<phrase i="3312" t="מצלצל"/>
+<phrase i="3313" t="צלצול לגורם שהתקשר"/>
+<phrase i="3314" t="מתקשר"/>
+<phrase i="3315" t="יוצר קשר עם שרת STUN"/>
+<phrase i="3316" t="מחייג"/>
+<phrase i="3317" t="בוחר תחנה"/>
+<phrase i="3318" t="בוחר שיחה"/>
+<phrase i="3319" t="אוסף פרטי שיחה"/>
+<phrase i="3320" t="מנסה לתפוס קו"/>
+<phrase i="3321" t="מוכן"/>
+<phrase i="3322" t="כן"/>
+<phrase i="3323" t="לא רשום"/>
+<phrase i="3324" t="רשום"/>
+<phrase i="3325" t="נכנסת"/>
+<phrase i="3326" t="יוצאת"/>
+<phrase i="3327" t="התקשרות חזרה"/>
+<phrase i="3328" t="שיחה שהופנתה"/>
+<phrase i="3329" t="הועברה"/>
+<phrase i="3330" t="לא חוקי"/>
+<phrase i="3331" t="לא פעיל"/>
+<phrase i="3332" t="צליל שיחה ממתינה"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="צלצול - התקשרות חזרה"/>
+<phrase i="3334" t="צלצול - המתנה"/>
+<phrase i="3335" t="צלצול"/>
+<phrase i="3336" t="חיווי שיחה מאובטחת"/>
+<phrase i="3337" t="ועידה"/>
+<phrase i="3338" t="העבר להמתנה"/>
+<phrase i="3339" t="שגיאה"/>
+<phrase i="3340" t="אשר"/>
+<phrase i="3341" t="הנחיה"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="אזהרת שפופרת מורמת"/>
+<phrase i="3347" t="צלצל חזרה"/>
+<phrase i="3348" t="סדר מחדש"/>
+<phrase i="3349" t="תפוס"/>
+<phrase i="3350" t="מחוון הודעה ממתינה"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="חיוג החוצה"/>
+<phrase i="3352" t="חיוג שני"/>
+<phrase i="3353" t="חייג"/><!-- This is a softkey label -->
+<phrase i="3354" t="ללא"/>
+<phrase i="3355" t="הועברה"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="העברה"/>
+<phrase i="3357" t="Cb"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="אל"/>
+<phrase i="3359" t="מאת"/>
+<phrase i="3360" t="ערך חדש"/>
+<phrase i="3361" t="(מלא)"/>
+<phrase i="3362" t="מדריך טלפון ארגוני"/>
+<phrase i="3363" t="הזן מספר לחטיפה:"/>
+<phrase i="3365" t="חיוג מהיר"/>
+<phrase i="3366" t="&lt;לא הוקצה&gt;"/>
+<phrase i="3367" t="הזן חיוג מהיר 2"/>
+<phrase i="3368" t="הזן חיוג מהיר 3"/>
+<phrase i="3369" t="הזן חיוג מהיר 4"/>
+<phrase i="3370" t="הזן חיוג מהיר 5"/>
+<phrase i="3371" t="הזן חיוג מהיר 6"/>
+<phrase i="3372" t="הזן חיוג מהיר 7"/>
+<phrase i="3373" t="הזן חיוג מהיר 8"/>
+<phrase i="3374" t="הזן חיוג מהיר 9"/>
+<phrase i="3375" t="הזן חיוג מהיר"/>
+<phrase i="3376" t="היסטוריית שיחות"/>
+<phrase i="3377" t="שיחות שנענו"/>
+<phrase i="3378" t="רינגטון"/>
+<phrase i="3379" t="צלצול ש1"/>
+<phrase i="3380" t="צלצול ש2"/>
+<phrase i="3381" t="צלצול ש3"/>
+<phrase i="3382" t="צלצול ש4"/>
+<phrase i="3383" t="מדריך טלפון ארגוני"/>
+<phrase i="3384" t="העדפות"/>
+<phrase i="3385" t="כ/ל"/><!-- This is a softkey label -->
+<phrase i="3386" t="חסימת מזהה מתקשר&#xA;"/>
+<phrase i="3387" t="חסימת שיחה אנונימית&#xA;"/>
+<phrase i="3388" t="נא לא להפריע&#xA;"/>
+<phrase i="3389" t="שיחה מאובטחת&#xA;"/>
+<phrase i="3390" t="סיוע בחיוג&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="התקן שמע מועדף&#xA;"/>
+<phrase i="3394" t="זימון מענה אוטומטי&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="שלח שמע לרמקול&#xA;"/>
+<phrase i="3396" t="תבנית שעה&#xA;"/>
+<phrase i="3397" t="תבנית תאריך&#xA;"/>
+<phrase i="3398" t="יום/חודש"/>
+<phrase i="3399" t="חודש/יום"/>
+<phrase i="3400" t="שפה"/>
+<phrase i="3401" t="סטטוס חניית שיחה"/>
+<phrase i="3402" t="סטטוס"/>
+<phrase i="3403" t="סטטוס טלפון"/>
+<phrase i="3405" t="סטטוס שלוחה 2"/>
+<phrase i="3406" t="סטטוס ק1"/>
+<phrase i="3407" t="סטטוס ק2"/>
+<phrase i="3408" t="סטטוס ק3"/>
+<phrase i="3409" t="סטטוס ק4"/>
+<phrase i="3410" t="שיחה1:"/>
+<phrase i="3412" t="תאריך: "/>
+<phrase i="3413" t="זמן פעולה: "/>
+<phrase i="3415" t="הרישום האחרון היה בשעה %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="הרישום הבא בשעה %us&#xA;"/>
+<phrase i="3418" t="שיחה 1: "/>
+<phrase i="3420" t="צליל: "/>
+<phrase i="3421" t="ללא"/>
+<phrase i="3422" t="לא מותקן"/>
+<phrase i="3423" t="ברירת מחדל"/><!-- This is a softkey label -->
+<phrase i="3425" t="תחנה"/>
+<phrase i="3426" t="קבוצת זימון"/>
+<phrase i="3427" t="מערכת ניתוב שיחות"/>
+<phrase i="3428" t="מוסיקה פנימית"/>
+<phrase i="3429" t="אנא המתן"/>
+<phrase i="3430" t="מנסה להיכנס"/>
+<phrase i="3432" t="יוצר קשר עם שרת מערכת ניהול תורים&#xA;כדי לברר זמינות"/>
+<phrase i="3433" t="יוצר קשר עם שרת מערכת ניהול תורים&#xA;ללא זמין"/>
+<phrase i="3434" t="הכניסה נכשלה.&#xA;"/>
+<phrase i="3435" t="אנא בדוק את מזהה המשתמש&#xA;והסיסמה שלך."/>
+<phrase i="3437" t="הודעת זמינות נכשלה&#xA;"/>
+<phrase i="3438" t="הודעת אי זמינות נכשלה&#xA;"/>
+<phrase i="3439" t="מזהה משתמש:"/>
+<phrase i="3440" t="סיסמה:"/>
+<phrase i="3441" t="כניסה למערכת ניהול התורים"/>
+<phrase i="3445" t="משדרג קושחה&#xA;נא לא לנתק מהחשמל&#xA;הטלפון יאותחל מחדש אוטומטית"/>
+<phrase i="3446" t="&#xA;&#xA;PU: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="המערכת מאותחלת"/>
+<phrase i="3451" t="מבקש מדריך טלפון&#xA;ארגוני מהשרת..."/>
+<phrase i="3452" t="בקשת מדריך&#xA;ארגוני נכשלה"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="ערך לא ידוע"/>
+<phrase i="3468" t="משתמש לא ידוע"/>
+<phrase i="3469" t="עד: %s"/>
+<phrase i="3470" t="שער"/>
+<phrase i="3472" t="שיתוף שיחה %s"/>
+<phrase i="3473" t="עד: %s&#xA;"/>
+<phrase i="3476" t="נמען"/>
+<phrase i="3477" t="מצב"/>
+<phrase i="3478" t="הסתיימה"/>
+<phrase i="3479" t="מנסה"/>
+<phrase i="3480" t="מוקדם"/>
+<phrase i="3481" t="ממשיך"/>
+<phrase i="3482" t="אושר"/>
+<phrase i="3503" t="משתמש %d"/>
+<phrase i="3504" t="אין צלצול"/>
+<phrase i="3509" t="משתמש %d (לא מותקן)"/>
+<phrase i="3510" t="12 שעות"/>
+<phrase i="3511" t="24 שעות"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="סטטית IP"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="pwd"/><!-- password -->
+<phrase i="3517" t="cfg"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="שפה (לא זמין)"/>
+<phrase i="3519" t="לא זמין"/>
+<phrase i="3520" t="אשר"/>
+<phrase i="3521" t="ניגודיות"/>
+<phrase i="3522" t="spd_dial"/>
+<phrase i="3523" t="%d ימים"/>
+<phrase i="3524" t="יום 1"/>
+<phrase i="3525" t="מושבת&#xA;"/>
+<phrase i="3526" t="סוג %d שיחה: %s&#xA;"/>
+<phrase i="3527" t="שם עמית: %s&#xA;"/>
+<phrase i="3528" t="טל' עמית: %s&#xA;"/>
+<phrase i="3529" t="משך: %02d:%02d:%02d"/>
+<phrase i="3530" t="שיחה %d: %s&#xA;"/>
+<phrase i="3531" t="צליל: %s&#xA;"/>
+<phrase i="3532" t="קידוד: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="פענוח: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="ק%d: אין שירות&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="סטטוס טלפון"/>
+<phrase i="3536" t="סטטוס שלוחה %d"/>
+<phrase i="3537" t="סטס קו %d"/>
+<phrase i="3538" t="TimeDate"/>
+<phrase i="3539" t="שמור שינויי עוצמת קול&#xA;"/>
+<phrase i="3540" t="שמור ניגודיות עוצמת קול&#xA;"/>
+<phrase i="3541" t="חיוג חוזר"/><!-- This is a softkey label -->
+<phrase i="3542" t="כניסה"/><!-- This is a softkey label -->
+<phrase i="3543" t="התנתקות"/><!-- This is a softkey label -->
+<phrase i="3544" t="עוצמה"/>
+<phrase i="3545" t="הגדרה"/>
+<phrase i="3546" t="שיחה שלא נענתה"/>
+<phrase i="3548" t="נכשל&#xA;"/>
+<phrase i="3549" t="לבטל חניה?"/>
+<phrase i="3550" t="אנגלית"/>
+<phrase i="3551" t="ספרדית"/>
+<phrase i="3552" t="פורטוגלית"/>
+<phrase i="3553" t="איטלקית"/>
+<phrase i="3554" t="גרמנית"/>
+<phrase i="3555" t="דנית"/>
+<phrase i="3556" t="פינית"/>
+<phrase i="3557" t="הולנדית"/>
+<phrase i="3558" t="נורווגית"/>
+<phrase i="3559" t="צרפתית"/>
+<phrase i="3560" t="קוצב זמן לתאורת הרקע"/>
+<phrase i="3561" t="מופעל תמיד"/>
+<phrase i="3562" t="כבוי"/>
+<phrase i="3563" t="קיצור דרך לשיחה שלא נענתה"/>
+<phrase i="3564" t="שיחה ממתינה"/>
+<phrase i="3565" t="אפשר VLAN"/>
+<phrase i="3566" t="מזהה VLAN"/>
+<phrase i="3567" t="משרד"/>
+<phrase i="3568" t="קלסי-1"/>
+<phrase i="3569" t="קלסי-2"/>
+<phrase i="3570" t="קלסי-3"/>
+<phrase i="3571" t="קלסי-4"/>
+<phrase i="3572" t="פשוט-1"/>
+<phrase i="3573" t="פשוט-2"/>
+<phrase i="3574" t="פשוט-3"/>
+<phrase i="3575" t="פשוט-4"/>
+<phrase i="3576" t="פשוט-5"/>
+<phrase i="3577" t="מותקן"/>
+<phrase i="3578" t="מחק תו"/>
+<phrase i="3579" t="הפנה"/><!-- This is a softkey label -->
+<phrase i="3580" t="נקה 'נל&quot;ל'"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="נא לא להפריע "/>
+<phrase i="3582" t="נקה העברה"/><!-- This is a softkey label -->
+<phrase i="3583" t="קו ועידה"/><!-- This is a softkey label -->
+<phrase i="3584" t="החזרת שיחה"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="הקודם"/><!-- This is a softkey label -->
+<phrase i="3586" t="העברה"/><!-- This is a softkey label -->
+<phrase i="3587" t="קו העברה"/><!-- This is a softkey label -->
+<phrase i="3588" t="העברה עיוורת"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="חטיפה קבוצתית"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="תצוגה מקדימה"/><!-- This is a softkey label -->
+<phrase i="3591" t="מאפיין GUI"/>
+<phrase i="3592" t="מאפיין GUI"/>
+<phrase i="3593" t="תמונת רקע מועדפת"/>
+<phrase i="3594" t="בוצעה הורדה"/>
+<phrase i="3596" t="סכמת צבע תפריט מועדפת"/>
+<phrase i="3597" t="תכלת"/>
+<phrase i="3598" t="ירקרק"/>
+<phrase i="3599" t="ורוד"/>
+<phrase i="3600" t="כסף"/>
+<phrase i="3601" t="שיחות הופנו "/>
+<phrase i="3602" t="מפתח קו 5"/>
+<phrase i="3603" t="מפתח קו 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="שלוחה 5"/>
+<phrase i="3606" t="שלוחה 6"/>
+<phrase i="3607" t="רמקול"/>
+<phrase i="3608" t="אוזניות"/>
+<phrase i="3609" t="לפנה&quot;צ"/>
+<phrase i="3610" t="אחה&quot;צ"/>
+<phrase i="3614" t="קו %d: %s(%s)"/>
+<phrase i="3616" t="איפוס התאמה אישית"/>
+<phrase i="3617" t="לחפש עדכונים&#xA;לפרופיל ההתאמה האישית?&#xA;(עבודה ברקע)"/>
+<phrase i="3618" t="שירות אינטרנט"/>
+<phrase i="3619" t="שירות אינטרנט"/>
+<phrase i="3620" t="חדשות מקומיות"/>
+<phrase i="3621" t="חדשות מהעולם"/>
+<phrase i="3623" t="חדשות ספורט"/>
+<phrase i="3624" t="חדשות פוליטיקה"/>
+<phrase i="3625" t="חדשות טכנולוגיה"/>
+<phrase i="3626" t="חדשות בידור"/>
+<phrase i="3627" t="תנועה"/>
+<phrase i="3628" t="סמל מחיר מניה"/>
+<phrase i="3629" t="סמל מחיר מניה:"/>
+<phrase i="3630" t="הזנת RSS ‏1"/>
+<phrase i="3631" t="הזנת RSS ‏2"/>
+<phrase i="3632" t="הזנת RSS ‏3"/>
+<phrase i="3633" t="הזנת RSS ‏4"/>
+<phrase i="3634" t="הזנת RSS ‏5"/>
+<phrase i="3635" t="סמל:"/>
+<phrase i="3636" t="אחרון:"/>
+<phrase i="3637" t="שינוי:"/>
+<phrase i="3638" t="הצעת מחיר:"/>
+<phrase i="3639" t="בקשה:"/>
+<phrase i="3640" t="הקצאה"/>
+<phrase i="3641" t="היסטוריית סטטיסטיקת שיחות"/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="פרופיל:%s&#xA;"/>
+<phrase i="3644" t="סטטוס:%s&#xA;"/>
+<phrase i="3645" t="סיבה:%s&#xA;"/>
+<phrase i="3647" t="מושבת"/>
+<phrase i="3649" t="שגיאת ניתוח בכלל"/>
+<phrase i="3650" t="מתבצע"/>
+<phrase i="3651" t="הצליח"/>
+<phrase i="3652" t="זיהוי DNS"/>
+<phrase i="3653" t="אין שם שרת"/>
+<phrase i="3654" t="שרת לא חוקי או מוגבל"/>
+<phrase i="3655" t="המשאבים מוצו"/>
+<phrase i="3656" t="קובץ פגום"/>
+<phrase i="3657" t="מפתח הצפנה"/>
+<phrase i="3658" t="כתובת URL לא חוקית"/>
+<phrase i="3659" t="הקובץ לא נמצא"/>
+<phrase i="3660" t="ההורדה נכשלה"/>
+<phrase i="3661" t="&lt;אין פריט&lt;"/>
+<phrase i="3662" t="סוג:%s"/>
+<phrase i="3663" t="שם עמית:%s"/>
+<phrase i="3664" t="טלפון עמית%s"/>
+<phrase i="3665" t="משך:"/>
+<phrase i="3666" t="שעת שיחה:"/>
+<phrase i="3667" t="קידוד:%s"/>
+<phrase i="3668" t="פענוח:%s"/>
+<phrase i="3669" t="מזהה שיחה:%s"/>
+<phrase i="3674" t="מעדכן נתוני הזנת חדשות..."/>
+<phrase i="3675" t="אין נתוני הזנת חדשות זמינים..."/>
+<phrase i="3676" t="אחזור נתוני הזנת החדשות נכשל..."/>
+<phrase i="3677" t="חדשות"/>
+<phrase i="3680" t="שידור: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="קליטה: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="ק%d: %s&#xA;"/>
+<phrase i="3685" t="סוג  שיחה: %s&#xA;"/>
+<phrase i="3687" t="ריק"/>
+<phrase i="3690" t="סטטוס הקצאה"/>
+<phrase i="3693" t="סטטיסטיקת שיחות"/>
+<phrase i="3703" t="שלוחה:%d"/>
+<phrase i="3704" t="מעדכן נתוני מחיר מניה..."/>
+<phrase i="3705" t="אין נתוני מחיר מניה זמינים..."/>
+<phrase i="3706" t="אחזור נתוני הזנת המניות נכשל..."/>
+<phrase i="3713" t="מחירי מניות ב-Yahoo"/>
+<phrase i="3715" t="מעדכן נתוני הזנת תנועה..."/>
+<phrase i="3716" t="אין נתוני הזנת תנועה זמינים..."/>
+<phrase i="3717" t="אחזור נתוני הזנת התנועה נכשל..."/>
+<phrase i="3718" t="אין פירוט זמין על מצב התנועה..."/>
+<phrase i="3719" t="הצגת נתוני הזנת תנועה נכשלה..."/>
+<phrase i="3721" t="מחיר מניה"/>
+<phrase i="3730" t="Yahoo!‎ התחבר"/>
+<phrase i="3731" t="להתנתק מ-Yahoo!‎?"/>
+<phrase i="3732" t="הצליח"/>
+<phrase i="3733" t="נכשל. אנא בדוק את &#xA;מזהה המשתמש והסיסמה שלך"/>
+<phrase i="3734" t="מתחבר. אנא המתן."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="שיחות הופנו&#xA;"/>
+<phrase i="3737" t="מנותק&#xA;"/>
+<phrase i="3738" t="מתחבר&#xA;"/>
+<phrase i="3739" t="לא רשום&#xA;"/>
+<phrase i="3741" t="&#xA;עד: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;PU: "/>
+<phrase i="3744" t="%sמנותק"/>
+<phrase i="3745" t="עדכן"/><!-- This is a softkey label -->
+<phrase i="3746" t="פירוט"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_LANGUAGE"/>
+<phrase i="3757" t="תמונת BMP"/>
+<phrase i="3758" t="הוסף"/><!-- This is a softkey label -->
+<phrase i="3759" t="אלפא"/><!-- This is a softkey label -->
+<phrase i="3760" t="מחק תו"/><!-- This is a softkey label -->
+<phrase i="3761" t="גשר"/><!-- This is a softkey label -->
+<phrase i="3762" t="בטל"/><!-- This is a softkey label -->
+<phrase i="3764" t="נקה"/><!-- This is a softkey label -->
+<phrase i="3765" t="ועידה"/><!-- This is a softkey label -->
+<phrase i="3766" t="העתק"/><!-- This is a softkey label -->
+<phrase i="3767" t="מחק"/><!-- This is a softkey label -->
+<phrase i="3771" t="ערוך"/><!-- This is a softkey label -->
+<phrase i="3772" t="צא"/><!-- This is a softkey label -->
+<phrase i="3774" t="צרף"/><!-- This is a softkey label -->
+<phrase i="3775" t="לא נענו"/><!-- This is a softkey label -->
+<phrase i="3776" t="הבא"/><!-- This is a softkey label -->
+<phrase i="3777" t="מספר"/><!-- This is a softkey label -->
+<phrase i="3778" t="אישור"/><!-- This is a softkey label -->
+<phrase i="3779" t="אפשרות"/><!-- This is a softkey label -->
+<phrase i="3780" t="הדבק"/><!-- This is a softkey label -->
+<phrase i="3781" t="השמע"/><!-- This is a softkey label -->
+<phrase i="3783" t="חדש הפעלה"/><!-- This is a softkey label -->
+<phrase i="3784" t="שמור"/><!-- This is a softkey label -->
+<phrase i="3785" t="בחר"/><!-- This is a softkey label -->
+<phrase i="3786" t="*קוד"/><!-- This is a softkey label -->
+<phrase i="3787" t="כ/ל"/><!-- This is a softkey label -->
+<phrase i="3793" t="זמין"/><!-- This is a softkey label -->
+<phrase i="3794" t="לא זמין"/><!-- This is a softkey label -->
+<phrase i="3795" t="בטל"/><!-- This is a softkey label -->
+<phrase i="3796" t="נסה שנית"/><!-- This is a softkey label -->
+<phrase i="3797" t="עוד"/><!-- This is a softkey label -->
+<phrase i="3798" t="עדכן"/><!-- This is a softkey label -->
+<phrase i="3799" t="תצוגה מקדימה"/><!-- This is a softkey label -->
+<phrase i="3800" t="פרט"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo!‎ התנתק"/>
+<phrase i="3807" t="מדריך טלפון ארגוני"/>
+<phrase i="3808" t="אין תמונה זמינה להורדה"/>
+<phrase i="3809" t="חסימת שיחות אנונימיות"/>
+<phrase i="3810" t="אין פירוט חדשות זמין..."/>
+<phrase i="3811" t="אין פירוט חדשות זמין&#xA;"/>
+<phrase i="3812" t="הצגת נתוני הזנת חדשות נכשלה..."/>
+<phrase i="3813" t="מעביר"/>
+<phrase i="3814" t="ההעברה נכשלה"/>
+<phrase i="3815" t="משך: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="סטטיסטיקת שיחות:"/>
+<phrase i="3817" t="הצגת נתוני מחירי מניות נכשלה..."/>
+<phrase i="3818" t="אין פירוט זמין של מצב התנועה&#xA;"/>
+<phrase i="3822" t="צלצול ש5"/>
+<phrase i="3824" t="נא לא להפריע"/>
+<phrase i="3825" t="שיחות הופנו"/>
+<phrase i="3826" t="&lt;אין פריט&gt;"/>
+<phrase i="3827" t="התאמה אישית"/>
+<phrase i="3828" t="פתוח"/>
+<phrase i="3829" t="בהמתנה"/>
+<phrase i="3830" t="בהתאמה אישית"/>
+<phrase i="3831" t="מתבצעת הורדת&quot;ברירת מחדל"/>
+<phrase i="3832" t="מתקשר אנונימי"/>
+<phrase i="3833" t="%sשיחות שהופנו"/>
+<phrase i="3834" t="%sמתנתק"/>
+<phrase i="3835" t="%sמתחבר"/>
+<phrase i="3836" t="%sלא רשום"/>
+<phrase i="3837" t="%sרושם"/>
+<phrase i="3838" t="%sנא לא להפריע"/>
+<phrase i="3839" t="צלצול ש1"/>
+<phrase i="3840" t="צלצול ש2"/>
+<phrase i="3841" t="צלצול ש3"/>
+<phrase i="3842" t="צלצול ש4"/>
+<phrase i="3843" t="צלצול ש5"/>
+<phrase i="3844" t="צלצול ש6"/>
+<phrase i="3845" t="הכניסה נכשלה.&#xA;אנא בדוק את מזהה המשתמש&#xA;והסיסמה שלך."/>
+<phrase i="3846" t="מנסה להיכנס."/>
+<phrase i="3847" t="מאשר..."/>
+<phrase i="3848" t="כניסה ל-CMS"/>
+<phrase i="3849" t="להתנתק מ-CMS?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="פולנית"/>
+<phrase i="3864" t="רוסית"/>
+<phrase i="3865" t="הונגרית"/>
+<phrase i="3866" t="צ'כית"/>
+<phrase i="3867" t="טורקית"/>
+<phrase i="3868" t="שוודית"/>
+<phrase i="3869" t="סלובנית"/>
+<phrase i="3870" t="בולגרית"/>
+<phrase i="3871" t="סלובאקית"/>
+<phrase i="3872" t="קרואטית"/>
+<phrase i="3950" t="אין תגובה"/>
+<phrase i="3951" t="לא ניתן להשיג"/>
+<phrase i="3952" t="אימות"/>
+<phrase i="3953" t="לא ידוע"/>
+<phrase i="3954" t="מנסה להעביר להמתנה"/>
+<phrase i="3955" t="מנסה לחדש הפעלה"/>
+<phrase i="3956" t="שינוי"/><!-- This is a softkey label -->
+<phrase i="3957" t="חניה"/><!-- This is a softkey label -->
+<phrase i="3958" t="ביטול חניה"/><!-- This is a softkey label -->
+<phrase i="3959" t="חטיפה"/><!-- This is a softkey label -->
+<phrase i="3960" t="סנכרן מחדש"/><!-- This is a softkey label -->
+<phrase i="3961" t="הפעל"/><!-- This is a softkey label -->
+<phrase i="3962" t="קבל"/><!-- This is a softkey label -->
+<phrase i="3963" t="התחבר"/><!-- This is a softkey label -->
+<phrase i="3964" t="-התחבר"/><!-- This is a softkey label -->
+<phrase i="3965" t="שלח"/><!-- This is a softkey label -->
+<phrase i="3966" t="סנכרן מחדש"/><!-- This is a softkey label -->
+<phrase i="3967" t="פעיל"/><!-- This is a softkey label -->
+<phrase i="3968" t="קבל"/><!-- This is a softkey label -->
+<phrase i="3969" t="התחבר"/><!-- This is a softkey label -->
+<phrase i="3970" t="-התחבר"/><!-- This is a softkey label -->
+<phrase i="3971" t="מטה"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="מעלה"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="ברירת מחדל"/><!-- This is a softkey label -->
+<phrase i="3974" t="ערוך חיוג"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;משדרג קושחה&#xA;נא לא לנתק מהחשמל&#xA;הטלפון יאותחל מחדש אוטומטית"/>
+<phrase i="3976" t="טוען יישום XML...‏"/>
+<phrase i="3977" t="השדרוג נכשל"/>
+<phrase i="3978" t="טעינת היישום הצליחה"/>
+<phrase i="3979" t="טעינת היישום נכשלה"/>
+<phrase i="3980" t="שירותי CME"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="מנסה להתנתק.&#xA;אנא המתן..."/>
+<phrase i="3982" t="ההתנתקות נכשלה.&#xA;מאתחל מחדש..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="בחר צלצול"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="צלצול ברירת מחדל: %s"/>
+<phrase i="3987" t="בחר קו"/>
+<phrase i="3988" t="צלצול ברירת מחדל לקו                        "/>
+<phrase i="3989" t="שם צלצול ברירת מחדל                     "/>
+<phrase i="3990" t="הגדרות"/>
+<phrase i="3991" t="מצב שומר מסך"/>
+<phrase i="3992" t="הפעל שומר מסך"/>
+<phrase i="3993" t="זמן המתנה עד שומר מסך"/>
+<phrase i="3994" t="סמל שומר מסך"/>
+<phrase i="3995" t="השעה בתחנה&quot;נעל&quot;טלפון&quot;תאריך ושעה&quot;תמונת רקע"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;מאפס לברירת המחדל של היצרן&#xA;אנא המתן"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;המערכת מאותחלת מחדש&#xA;אנא המתן"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;המערכת מופעלת מחדש&#xA;אנא המתן"/>
+<phrase i="4001" t="כלל פרופיל"/>
+<phrase i="4002" t="כלל פרופיל:"/>
+<phrase i="4003" t="פרופיל סינכרון מחדש: %s&#xA;"/>
+<phrase i="4004" t="תוצאה: %s&#xA;"/>
+<phrase i="4005" t="סיבה: %s&#xA;"/>
+<phrase i="4006" t="סנכרן מחדש עם&#xA;%s&#xA;הצלחה עשויה לגרום להפעלה מחדש של הטלפון!"/>
+<phrase i="4007" t="כלל פרופיל לא חוקי!&#xA;"/>
+<phrase i="4008" t="מבקש סינכרון מחדש&#xA;%s&#xA;לרגע בו הטלפון לא יהיה פעיל!"/>
+<phrase i="4009" t="בקשת סינכרון מחדש נכשלה!&#xA;הטלפון מעבד כעת בקשת סינכרון מחדש.&#xA;אנא נסה מאוחר יותר."/>
+<phrase i="4010" t="רושם&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="הקש על מקש כלשהו כדי לבטל את נעילת הטלפון"/>
+<phrase i="4013" t="פרוטוקול בקרת שיחה"/>
+<phrase i="4014" t="נתב ברירת מחדל"/>
+<phrase i="4015" t="שרת TFTP"/>
+<phrase i="4016" t="מנהל מזהה VLAN"/>
+<phrase i="4017" t="אפשר CDP"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="מנהל שיחות"/>
+<phrase i="4019" t="שם שירות PPPoE"/>
+<phrase i="4020" t="שם כניסה ל-PPPoE"/>
+<phrase i="4021" t="סיסמת כניסה ל-PPPoE"/>
+<phrase i="4022" t="שרת אינטרנט מופעל"/>
+<phrase i="4023" t="איתור באגים בשרת"/>
+<phrase i="4024" t="כבוי&quot;10 שנ'&quot;20 שנ'&quot;30 שנ'&quot;מופעל תמיד"/>
+<phrase i="4025" t="הגדרות מקומיות"/>
+<phrase i="4026" t="גרסת קושחה"/>
+<phrase i="4027" t="Rcv: %u, "/>
+<phrase i="4028" t="Xmt: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="הזמן שחלף: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="דגם: %s&#xA;"/>
+<phrase i="4032" t="גרסה: %s&#xA;"/>
+<phrase i="4033" t="קו:%s"/>
+<phrase i="4034" t="לא רלוונטי"/>
+<phrase i="4038" t="מתחבר לשרת &#xA;VPN..."/>
+<phrase i="4039" t="מתנתק משרת &#xA;ה-VPN..."/>
+<phrase i="4040" t="החיבור אל VPN נכשל!&#xA;"/>
+<phrase i="4041" t="מחובר ל-VPN!"/>
+<phrase i="4042" t="מנותק מ-VPN!"/>
+<phrase i="4043" t="מתקשר לא ידוע. לקבל?&#xA;"/>
+<phrase i="4044" t="הפעולה בוטלה!"/>
+<phrase i="4045" t="אנא המתן..."/>
+<phrase i="4046" t="להתחבר ל-VPN באתחול?"/>
+<phrase i="4047" t="שרת VPN"/>
+<phrase i="4048" t="_מזהה משתמש"/>
+<phrase i="4049" t="קבוצת מנהרה"/>
+<phrase i="4050" t="מחובר ל-VPN?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="משך"/>
+<phrase i="4054" t="בתים שנשלחו"/>
+<phrase i="4055" t="בתים שהתקבלו"/>
+<phrase i="4056" t="הסיבה לכשל האחרון"/>
+<phrase i="4057" t="הגדר תחילה את תצורת שרת ה-VPN"/>
+<phrase i="4058" t="הטלפון מחובר לשרת ה-VPN"/>
+<phrase i="4059" t="נתק את הטלפון לפני חיבור VPN לשרת"/>
+<phrase i="4060" t="הטלפון אינו מחובר לשרת ה-VPN"/>
+<phrase i="4061" t="נתק את הטלפון תחילה"/>
+<phrase i="4062" t="מתחבר עם CME"/>
+<phrase i="4063" t="רושם עם CME"/>
+<phrase i="4064" t="אסימון רישום SPCP"/>
+<phrase i="4065" t="הורדת הצלצול נכשלה"/>
+<phrase i="4066" t="משדרג קושחה&#xA;נא לא לנתק מהחשמל"/>
+<phrase i="4067" t="השדרוג הצליח&#xA;...מאתחל מחדש"/>
+<phrase i="4068" t="שאילתה ל-LDAP"/>
+<phrase i="4069" t="שאילתה למדריך טלפון של שרת LDAP"/>
+<phrase i="4070" t="הזנה/תצורה לא חוקיות,&#xA;אנא בדוק את ההזנה/התצורה"/>
+<phrase i="4071" t="שגיאת LDAP: לא ניתן להתחבר לשרת"/>
+<phrase i="4072" t="שגיאת LDAP: ערך הזנה לא חוקי"/>
+<phrase i="4073" t="לא נמצאה התאמה"/>
+<phrase i="4074" t="תוצאת שאילתה ל-LDAP"/>
+<phrase i="4075" t="מבקש מדריך טלפון משרת LDAP..."/>
+<phrase i="4076" t="בקשת מדריך טלפון מ-LDAP נכשלה"/>
+<phrase i="4077" t="נמצאו יותר מדי התאמות,&#xA; אנא מקד את החיפוש"/>
+<phrase i="4079" t="חטיפת שיחה"/>
+<phrase i="4080" t="ביטול חניית שיחה"/>
+<phrase i="4081" t="חטיפת שיחה קבוצתית"/>
+<phrase i="4083" t="אפשר תיוג VLAN של יציאת PC"/>
+<phrase i="4084" t="מזהה VLAN של יציאת PC"/>
+<phrase i="4085" t="התראה"/>
+<phrase i="4086" t="זימון"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="הקודם"/><!-- This is a softkey label -->
+<phrase i="4088" t="החלף"/><!-- This is a softkey label -->
+<phrase i="4089" t="הקודם"/><!-- This is a softkey label -->
+<phrase i="4090" t="ערוך חיוג"/><!-- This is a softkey label -->
+<phrase i="4091" t="שם"/>
+<phrase i="4092" t="חפש"/>
+<phrase i="4093" t="שלח"/><!-- This is a softkey label -->
+<phrase i="4094" t="לולאת מדיה חוזרת"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="מטה"/><!-- This is a softkey label -->
+<phrase i="4096" t="מעלה"/><!-- This is a softkey label -->
+<phrase i="4097" t="החלף"/><!-- This is a softkey label -->
+<phrase i="4098" t="מבקש..."/>
+<phrase i="4099" t="מספר לא חוקי"/>
+<phrase i="4100" t="אין קו"/>
+<phrase i="4101" t="תום-זמן"/>
+<phrase i="4102" t="השירות אינו זמין"/>
+<phrase i="4103" t="שגיאת רשת"/>
+<phrase i="4104" t="שגיאת פרוטוקול"/>
+<phrase i="4105" t="מנסה"/>
+<phrase i="4106" t="השיחה מופנית"/>
+<phrase i="4107" t="בתור"/>
+<phrase i="4108" t="התקדמות ההפעלה"/>
+<phrase i="4109" t="התקבל"/>
+<phrase i="4110" t="מספר בחירות"/>
+<phrase i="4111" t="הועבר לתמיד"/>
+<phrase i="4112" t="הועבר זמנית"/>
+<phrase i="4113" t="השתמש ב-Proxy"/>
+<phrase i="4114" t="שירות חלופי"/>
+<phrase i="4115" t="בקשה פגומה"/>
+<phrase i="4116" t="לא מורשה"/>
+<phrase i="4117" t="נדרש תשלום"/>
+<phrase i="4118" t="אסור"/>
+<phrase i="4119" t="לא נמצא"/>
+<phrase i="4120" t="שיטה לא מותרת"/>
+<phrase i="4121" t="לא מקובל"/>
+<phrase i="4122" t="נדרש אימות Proxy"/>
+<phrase i="4123" t="תום-זמן בקשה"/>
+<phrase i="4124" t="אזל"/>
+<phrase i="4125" t="ישות בקשה גדולה מדי"/>
+<phrase i="4126" t="ה-URI של הבקשה גדול מדי"/>
+<phrase i="4127" t="סוג מדיה לא נתמך"/>
+<phrase i="4128" t="סכמת URI לא נתמכת"/>
+<phrase i="4129" t="שלוחה פגומה"/>
+<phrase i="4130" t="נדרשת שלוחה"/>
+<phrase i="4131" t="מרווח זמן קצר מדי"/>
+<phrase i="4132" t="לא זמין כעת"/>
+<phrase i="4133" t="קטע/עסקת שיחה לא קיימים"/>
+<phrase i="4134" t="זוהתה לולאה"/>
+<phrase i="4135" t="יותר מדי דילוגים"/>
+<phrase i="4136" t="כתובת לא שלמה"/>
+<phrase i="4137" t="דו-משמעי"/>
+<phrase i="4138" t="תפוס כאן"/>
+<phrase i="4139" t="הבקשה הסתיימה"/>
+<phrase i="4140" t="לא יכולה להתקבל כאן"/>
+<phrase i="4141" t="אירוע פגום"/>
+<phrase i="4142" t="הבקשה ממתינה"/>
+<phrase i="4143" t="לא ניתן לפענוח"/>
+<phrase i="4144" t="שגיאה פנימית בשרת"/>
+<phrase i="4145" t="לא מומש"/>
+<phrase i="4146" t="שער פגום"/>
+<phrase i="4147" t="השירות אינו זמין"/>
+<phrase i="4148" t="הזמן שהוקצב לשרת הסתיים"/>
+<phrase i="4149" t="אין תמיכה בגרסת SIP"/>
+<phrase i="4150" t="הודעה גדולה מדי"/>
+<phrase i="4151" t="תפוס בכל המקומות"/>
+<phrase i="4152" t="דחה"/>
+<phrase i="4153" t="לא קיים בשום מקום"/>
+<phrase i="4154" t="שגיאה בשכבת הובלה"/>
+<phrase i="4155" t="השעה בתחנה"/>
+<phrase i="4156" t="נעל"/>
+<phrase i="4157" t="טלפון"/>
+<phrase i="4158" t="תאריך ושעה"/>
+<phrase i="4159" t="תמונת רקע"/>
+<phrase i="4160" t="חדשות כספים"/>
+<phrase i="4161" t="הזמן שהוקצב לטרנזקציה הסתיים"/>
+<phrase i="4162" t="לא נמצא נתיב"/>
+<phrase i="4163" t="לא זמין כעת"/>
+<phrase i="4164" t="הבקשה בוטלה"/>
+<phrase i="4165" t="השרת עמוס מדי"/>
+<phrase i="4166" t="רוחב הפס של המדיה לא מספיק"/>
+<phrase i="4200" t="404 לא נמצא"/>
+<phrase i="4201" t="הוסף לערך אישי"/>
+<phrase i="4202" t="חיפוש מתקדם"/>
+<phrase i="4203" t="ענה"/>
+<phrase i="4204" t="ענה"/>
+<phrase i="4205" t="בקשת מדריך טלפון מ-Broadsoft נכשלה"/>
+<phrase i="4206" t="מדריך טלפון Broadsoft"/>
+<phrase i="4207" t="Broadsoft: המשתמש ביטל את הבקשה"/>
+<phrase i="4208" t="הגדרות בקרת שיחה"/>
+<phrase i="4209" t="מדריך טלפון CME"/>
+<phrase i="4210" t="מחלקה: "/>
+<phrase i="4211" t="אפשרות DHCP בשימוש"/>
+<phrase i="4212" t="אפשרויות DHCP לסינכ. מחדש"/>
+<phrase i="4213" t="דואר אלקטרוני: "/>
+<phrase i="4214" t="פרטי הזנה"/>
+<phrase i="4215" t="שגיאה: קלט ריק או לא חוקי."/>
+<phrase i="4216" t="שלוחה 10"/>
+<phrase i="4217" t="שלוחה 11"/>
+<phrase i="4218" t="שלוחה 12"/>
+<phrase i="4219" t="שלוחה 7"/>
+<phrase i="4220" t="שלוחה 8"/>
+<phrase i="4221" t="שלוחה 9"/>
+<phrase i="4222" t="שלוחה: "/>
+<phrase i="4223" t="ראשון: "/>
+<phrase i="4224" t="הבהוב"/>
+<phrase i="4225" t="אלץ G722"/>
+<phrase i="4226" t="מזהה קבוצה: "/>
+<phrase i="4227" t="בקשת HTTP בוטלה"/>
+<phrase i="4228" t="בקשת HTTP נכשלה"/>
+<phrase i="4229" t="התעלם"/>
+<phrase i="4230" t="התעלם"/>
+<phrase i="4231" t="זיהוי אוטומטי של מערכת מפתח"/>
+<phrase i="4232" t="כתובת IP של מערכת מפתח"/>
+<phrase i="4233" t="אחרון: "/>
+<phrase i="4234" t="שגיאת LDAP: לא ניתן להתחבר לשרת."/>
+<phrase i="4235" t="מפתח קו 10"/>
+<phrase i="4236" t="מפתח קו 11"/>
+<phrase i="4237" t="מפתח קו 12"/>
+<phrase i="4238" t="מפתח קו 7"/>
+<phrase i="4239" t="מפתח קו 8"/>
+<phrase i="4240" t="מפתח קו 9"/>
+<phrase i="4241" t="נייד: "/>
+<phrase i="4242" t="שם: "/>
+<phrase i="4243" t="לא נמצאה התאמה&#xA;"/>
+<phrase i="4244" t="ללא&quot;tftp‏&quot;http‏&quot;https‏"/>
+<phrase i="4245" t="מספר: "/>
+<phrase i="4246" t="מספר טלפון:"/>
+<phrase i="4247" t="העדף G722"/>
+<phrase i="4248" t="PrvHld"/>
+<phrase i="4249" t="PrvHld"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="שאילתה למדריך טלפון של BS"/>
+<phrase i="4257" t="מבקש מדריך טלפון משרת Broadsoft..."/>
+<phrase i="4258" t="פרוטוקול איתות"/>
+<phrase i="4259" t="חיפוש פשוט"/>
+<phrase i="4260" t="SIP‏&quot;SPCP"/>
+<phrase i="4262" t="דגם SPA5X5"/>
+<phrase i="4263" t="זיהוי אוטומטי של SPCP"/>
+<phrase i="4264" t="toCdir"/>
+<phrase i="4265" t="יותר מדי ערכים&#xA;"/>
+<phrase i="4266" t="יותר מדי ערכים אישיים&#xA;"/>
+<phrase i="4267" t="פרוטוקול הובלה"/>
+<phrase i="4268" t="מנסה להתנתק.&#xA;אנא המתן..."/>
+<phrase i="4269" t="מזהה משתמש: "/>
+<phrase i="4270" t="שגיאה בתבנית XML או יישום לא חוקי"/>
+<phrase i="4271" t="שירותי XML"/>
+<phrase i="4272" t="עד"/>
+<phrase i="4273" t="שם עמית"/>
+<phrase i="4274" t="טל' עמית"/>
+<phrase i="4275" t="טלפון עמית"/>
+<phrase i="4276" t="ראשון:"/>
+<phrase i="4277" t="סיום שיחה"/><!-- This is a softkey label -->
+<phrase i="4278" t="שיחה חדשה"/><!-- This is a softkey label -->
+<phrase i="4279" t="בס עמוק"/>
+<phrase i="4280" t="ערך חדש במדריך הטלפון האישי"/>
+<phrase i="4281" t="חיפוש במדריך טלפון אישי"/>
+<phrase i="12000" t="הרץ יישום"/>
+<phrase i="12001" t="כתובת IP לא חוקית"/>
+<phrase i="12002" t="בחירת קו..."/>
+<phrase i="12003" t="בחר צלצול..."/>
+<phrase i="12004" t="נדרש אישור!"/>
+<phrase i="12005" t="CM-ICMP-Unreach"/>
+<phrase i="12006" t="קיזוז(H:m:s\202):"/>
+<phrase i="12007" t="רושם"/>
+<phrase i="12008" t="כניסת STUN"/>
+<phrase i="12009" t="מנהל מזהה VLAN"/>
+<phrase i="12010" t="TFTP חלופי"/>
+<phrase i="12011" t="מנהל שיחה 1"/>
+<phrase i="12012" t="נתב ברירת מחדל 1"/>
+<phrase i="12013" t="DHCP‏&quot;IP סטטית"/>
+<phrase i="12014" t="שרת TFTP ‏1"/>
+<phrase i="12015" t="הגישה לאינטרנט מופעלת"/>
+<phrase i="12016" t="הזמן שחלף"/>
+<phrase i="12017" t="Rcv"/>
+<phrase i="12018" t="גרסה"/>
+<phrase i="12019" t="Xmt"/>
+<phrase i="12020" t="מתחבר..."/>
+<phrase i="12021" t="השדרוג הצליח"/>
+<phrase i="12022" t="שיחה שלא נענתה"/>
+<phrase i="12023" t="קובץ צלצול לא זמין!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="הרישום נדחה:&#xA;%s"/>
+<phrase i="12026" t="אסימון רישום SPCP נדחה [%d]&#xA;...מנסה שוב"/>
+<phrase i="12027" t="שגיאה: UC500 לא נמצא.&#xA;פנה למנהל המערכת"/>
+<phrase i="12028" t="10 שנ'"/>
+<phrase i="12029" t="20 שנ'"/>
+<phrase i="12030" t="30 שנ'"/>
+<phrase i="12031" t="מוריד&#xA;%s"/>
+<phrase i="12032" t="(אין תוצאה מתאימה)"/>
+<phrase i="12033" t="שם חדש"/>
+<phrase i="12034" t="שרת TFTP אחרון"/>
+<phrase i="12035" t="SIP‏&quot;SPCP"/>
+<phrase i="12036" t="בדיקת BMP"/>
+<phrase i="12037" t="רומנית"/>
+<phrase i="12038" t="בס עמוק"/>
+<phrase i="12039" t="מילת מפתח:"/>
+<phrase i="12040" t="תוצאות"/>
+<phrase i="12041" t="תוצאה"/>
+<phrase i="12043" t="להתנתק?"/>
+<phrase i="12044" t="בחר מספר"/>
+<phrase i="12045" t="העבר להמתנה"/>
+<phrase i="12046" t="מספר מוגבל"/>
+<phrase i="12047" t="חריגה מהטווח!"/>
+<phrase i="12048" t="חיפוש"/>
+<phrase i="12049" t="שרת האינטרנט מאפשר כתיבה"/>
+<phrase i="12050" t="ספרדית-מקסיקו"/>
+<phrase i="12051" t="לא ניתן להביא דואר קולי במהלך שיחה"/>
+<phrase i="12052" t="כתובת השרת שגויה"/>
+<phrase i="12053" t="החיבור לרשת נכשל"/>
+<phrase i="12054" t="שגיאה בתבנית דואר קולי"/>
+<phrase i="12055" t="הבקשה נכשלה"/>
+<phrase i="12056" t="אנא ערוך:"/>
+<phrase i="12057" t="יעד להעברת שיחה עיוורת:"/>
+<phrase i="12058" t="הצטרפות"/>
+<phrase i="12059" t="(אין שיחות מצלצלות)"/>
+<phrase i="12060" t="התראה על שיחה שלא נענתה"/>
+<phrase i="12061" t="הצטרפות"/>
+<phrase i="12062" t="לא פעיל"/>
+<phrase i="12063" t="נתפס"/>
+<phrase i="12064" t="מתקדם"/>
+<phrase i="12065" t="מתריע"/>
+<phrase i="12066" t="בהחזקה פרטית"/>
+<phrase i="12067" t="פעיל"/>
+<phrase i="12068" t="בהחזקה"/>
+<phrase i="12069" t="גשר פעיל"/>
+<phrase i="12070" t="גשר בהחזקה"/>
+<phrase i="12071" t="מצלצל"/>
+<phrase i="12072" t="בשימוש"/>
+<phrase i="12073" t="צלצול אחר"/>
+<phrase i="12074" t="בהמתנה אחר"/>
+<phrase i="12075" t="אין שירות"/>
+<phrase i="12076" t="לא פעיל אחר"/>
+<phrase i="12077" t="שמור"/>
+<phrase i="12078" t="לא הוגדר"/>
+<phrase i="12079" t="מאמת שדרוג כתובת URL&#xA;נא לא לנתק מהחשמל"/>
+<phrase i="12080" t="סינכרון מחדש מתבצע"/>
+<phrase i="12081" t="סינכרון מחדש הצליח"/>
+<phrase i="12082" t="סינכרון מחדש הצליח. &#xA;הטלפון יאותחל מחדש. אנא המתן"/>
+<phrase i="12083" t="סינכרון מחדש נכשל"/>
+<phrase i="12084" t="אנגלית-ארה&quot;ב"/>
+<phrase i="12085" t="גשר שיחת ועידה"/>
+<phrase i="12086" t="אנונימי"/>
+<phrase i="12087" t="איפוס"/>
+<phrase i="12088" t="משותף"/>
+<phrase i="12089" t="מחובר"/>
+<phrase i="12090" t="הוסף למדריך טלפון"/>
+<phrase i="12091" t="בהמתנה"/>
+<phrase i="12092" t="לא חוקי"/>
+<phrase i="12093" t="מחדש"/>
+<phrase i="12094" t="מתקשר"/>
+<phrase i="12095" t="עונה"/>
+<phrase i="12096" t="חיוג מהיר אישי"/>
+<phrase i="12097" t="רשימת שיחות 'העבר שיחה נוכחית לשיחת המתנה בקו x'"/>
+<phrase i="12098" t="רשימת שיחות 'שיחת ועידה נוכחית והשהיית שיחה בקו x&quot;"/>
+<phrase i="12099" t="גרסה"/>
+<phrase i="12100" t="ארגון&quot;קבוצה&quot;אישי"/>
+<phrase i="12101" t="שם מדריך טלפון"/>
+<phrase i="12102" t="שרת מארח"/>
+<phrase i="12103" t="דרך"/>
+<phrase i="12104" t="הגדר מצב סוכן"/>
+<phrase i="12105" t="זמין"/>
+<phrase i="12106" t="היסטוריית אתחול מחדש"/>
+<phrase i="12107" t="ברירת מחדל&quot;‏HiDef&quot;רגיל"/>
+<phrase i="12108" t="השהיית הפעלת רשת"/>
+<phrase i="12109" t="צליל שיחה ממתינה ייחודי"/>
+<phrase i="12110" t="הפעל LLDP-MED"/>
+<phrase i="12111" t="הרישום נדחה:&#xA;%s"/>
+<phrase i="12112" t="שגיאה: הרישום נדחה.&#xA;פנה למנהל המערכת..."/>
+<phrase i="12113" t="זוהתה שגיאת רשת."/>
+<phrase i="12114" t="רושם..."/>
+<phrase i="12115" t="שגיאת רשת."/>
+<phrase i="12116" t="סיסמה"/>
+<phrase i="12117" t="סינכרון מחדש הצליח. &#xA;הטלפון יאותחל מחדש. נא המתן."/>
+<phrase i="12118" t="גרסת שפופרת"/>
+<phrase i="12119" t="אוטומטי&quot;מקורי&quot;v3‏"/>
+<phrase i="12120" t="DHCP נכשל"/>
+<phrase i="12121" t="שדרג"/>
+<phrase i="12122" t="הקצאה"/>
+<phrase i="12123" t="בייזום המשתמש"/>
+<phrase i="12124" t="בייזום SIP"/>
+<phrase i="12125" t="שגיאת מערכת"/>
+<phrase i="12126" t="קישור לא פעיל"/>
+<phrase i="12127" t="מערכת 1"/>
+<phrase i="12128" t="מערכת 2"/>
+<phrase i="12129" t="כתובת IP כפולה"/>
+<phrase i="12130" t="כתובת IP של גיבוי"/>
+<phrase i="12131" t="מערכת 3"/>
+<phrase i="12132" t="מערכת 4"/>
+<phrase i="12133" t="מערכת 5"/>
+<phrase i="12134" t="מערכת 6"/>
+<phrase i="12135" t="מערכת 7"/>
+<phrase i="12136" t="בייזום SIP"/>
+<phrase i="12137" t="הורדת מדריך"/>
+<phrase i="12138" t="VLAN השתנה"/>
+<phrase i="12139" t="RC"/>
+<phrase i="12140" t="איפוס להגדרות יצרן"/>
+<phrase i="12141" t="בקשת תוכנה"/>
+<phrase i="12142" t="כתובת ה-IP השתנתה"/>
+<phrase i="12143" t="הזן קוד חשבון"/>
+<phrase i="12144" t="הזן מספר חיצוני"/>
+<phrase i="12145" t="מדריך טלפון פנימי"/>
+<phrase i="12146" t="מדריך טלפון חיצוני"/>
+<phrase i="12147" t="מדריך טלפון של קבוצות"/>
+<phrase i="12148" t="מדריך טלפון של תחנות"/>
+<phrase i="12149" t="מוסיקה חיצונית"/>
+<phrase i="12150" t="קבוצת זימון 1"/>
+<phrase i="12151" t="קבוצת זימון 2"/>
+<phrase i="12152" t="קבוצת זימון 3"/>
+<phrase i="12153" t="קבוצת זימון 4"/>
+<phrase i="12154" t="קבוצת זימון 5"/>
+<phrase i="12155" t="זימון חיצוני"/>
+<phrase i="12156" t="דוגמת שיחה"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="מצב צלצול לילה של המערכת"/>
+<phrase i="12159" t="השיחה חונה"/>
+<phrase i="12160" t="שיקוף יציאה"/>
+<phrase i="12161" t="חריגה מהטווח!"/>
+<phrase i="12162" t="שירות XML"/>
+<phrase i="12163" t="עברית"/>
+<phrase i="12164" t="השיחה חונה"/>
+<phrase i="12165" t="קו"/>
+<phrase i="12166" t="החלפה בין LTR ל-‏RTL,&#xA; קלט הטקסט הקודם&#xA; יימחק, להמשיך?"/>
+<phrase i="12167" t="גודל גופן"/>
+<phrase i="12168" t="העד. ממשק נתב שיחות"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="הגדר חיוג מהיר - שורה %d"/><!--Def. means define-->
+<phrase i="12170" t="הגדר חיוג מהיר - מקש %d"/><!--Def. means define-->
+<phrase i="12171" t="חניית שיחה"/>
+<phrase i="12172" t="ממתין להזנת ספרות נוספות...&#xA;בסיום, לחץ אישור כדי להמשיך."/>
+<phrase i="12173" t="מקצב"/>
+<phrase i="12174" t="מחק הכל"/>
+<phrase i="12175" t="מחק רשימה"/>
+<phrase i="12176" t="האם ברצונך למחוק את כל ההיסטוריה?"/>
+<phrase i="12177" t="מצב תצוגה"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="שלוחה"/>
+<phrase i="12179" t="שניהם"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="תצורת Wi-Fi"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="לא נמצא התקן Wi-Fi."/>
+<phrase i="12182" t="פרופיל תקשורת אלחוטית"/>
+<phrase i="12183" t="הגדרת Wi-Fi מוגנת"/>
+<phrase i="12184" t="מצב תקשורת אלחוטית"/>
+<phrase i="12185" t="תצורה בסיסית"/>
+<phrase i="12186" t="מצב אבטחה"/>
+<phrase i="12187" t="תצורת הצפנה"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="פס"/>
+<phrase i="12190" t="הצפנת WPA"/>
+<phrase i="12191" t="תבנית מפתח משותף"/>
+<phrase i="12192" t="מפתח WPA"/>
+<phrase i="12193" t="סוג אימות WEP"/>
+<phrase i="12194" t="אורך מפתח WEP"/>
+<phrase i="12195" t="מפתח WEP"/>
+<phrase i="12196" t="פרופיל"/>
+<phrase i="12197" t="תצורת קוד PIN"/>
+<phrase i="12198" t="החלה תצורת קוד PIN אלחוטית!"/>
+<!--phrase i="12199" t="עבור התקנים שמחייבים קוד PIN, הזן את המספר הבא: [%s], ולאחר מכן בחר במצב זה."/-->
+<phrase i="12200" t="מחפש תקשורת אלחוטית..."/>
+<phrase i="12201" t="בחר פרופיל"/>
+<phrase i="12202" t="תצורת לחצן דחיפה"/>
+<phrase i="12203" t="החלה תצורת לחצן אלחוטית"/>
+<phrase i="12204" t="הגדרת Wi-Fi מוגנת"/>
+<phrase i="12205" t="מצב תקשורת אלחוטית"/>
+<phrase i="12206" t="שם רשת (SSID)"/>
+<phrase i="12207" t="עוצמת אות"/>
+<phrase i="12208" t="סרוק"/>
+<phrase i="12209" t="כדי להשתמש בתכונה זו, עליך לשדרג לקושחת WBPN העדכנית ביותר."/>
+<phrase i="12210" t="כניסת אורח"/>
+<phrase i="12211" t="gstIn"/>
+<phrase i="12212" t="gstOut"/>
+<phrase i="12213" t="(אורח נכנס)"/> 
+<phrase i="12214" t="כל הפרמטרים יאופסו לערכי ברירת המחדל של היצרן. האם להמשיך?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" י "/>
+<phrase i="12400" t=" ד ה ו ף "/>
+<phrase i="12401" t=" א ב ג ר "/>
+<phrase i="12402" t=" מ נ ץ ן "/>
+<phrase i="12403" t=" כ ל "/>
+<phrase i="12404" t=" ז ח ט "/>
+<phrase i="12405" t=" ך ש ת "/>
+<phrase i="12406" t=" צ ק ס "/>
+<phrase i="12407" t=" ם ע פ "/>
+<phrase i="12408" t="    "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

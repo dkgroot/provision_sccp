@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Norwegian</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Domenenavn"/>
+<phrase i="204" t="IP-adresse"/>
+<phrase i="205" t="Nettverksmaske"/>
+<phrase i="212" t="DNS-server 1"/>
+<phrase i="213" t="DNS-server 2"/>
+<phrase i="225" t="Katalog-URL"/>
+<phrase i="226" t="Meldings-URL"/>
+<phrase i="227" t="Tjeneste-URL"/>
+<phrase i="354" t="Mottatte anrop"/>
+<phrase i="355" t="Oppringte numre"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="365" t="Nettverkskonfigurasjon"/>
+<phrase i="374" t="Kvitter 1"/>
+<phrase i="375" t="Kvitter 2"/>
+<phrase i="378" t="Ringetype"/>
+<phrase i="384" t="Statusmeldinger"/>
+<phrase i="393" t="Nettverksstatistikk"/>
+<phrase i="473" t="IP-adresse frigitt"/>
+<phrase i="500" t="DHCP-adresse frigitt"/>
+<phrase i="502" t="Slett konfigurasjon"/>
+<phrase i="552" t="URL for autentisering"/>
+<phrase i="585" t="Brukerspråk"/>
+<phrase i="586" t="Nettverksspråk"/>
+<phrase i="635" t="DHCP-server"/>
+<phrase i="655" t="Modellinformasjon"/>
+<phrase i="657" t="Modellnummer"/>
+<phrase i="670" t="St. ringetone"/>
+<phrase i="676" t="Kortnr"/>
+<phrase i="716" t="Sikkerhetskonfigurasjon"/>
+<phrase i="3000" t="Tapte anrop"/>
+<phrase i="3001" t="Gjen.ringliste"/>
+<phrase i="3002" t="Ringevolum"/>
+<phrase i="3003" t="Høyttalervolum"/>
+<phrase i="3004" t="Hodetelefonvolum"/>
+<phrase i="3005" t="Håndsettvolum"/>
+<phrase i="3006" t="LCD-kontrast"/>
+<phrase i="3007" t="status"/>
+<phrase i="3008" t="Status"/>
+<phrase i="3009" t="Linjetast 4"/><!-- comment content -->
+<phrase i="3010" t="Linjetast 3"/>
+<phrase i="3011" t="Linjetast 2"/>
+<phrase i="3012" t="Linjetast 1"/>
+<phrase i="3013" t="Linje 4"/>
+<phrase i="3014" t="Linje 3"/>
+<phrase i="3015" t="Linje 2"/>
+<phrase i="3016" t="Linje 1"/>
+<phrase i="3018" t="IkkeFrst"/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Lokale tjenester"/>
+<phrase i="3020" t="NyttAnrop"/>
+<phrase i="3021" t="Ring-inn"/>
+<phrase i="3022" t="Intercom"/>
+<phrase i="3023" t="Gjenta"/><!-- This is a softkey label -->
+<phrase i="3027" t="System starter om&#xA;Vent litt"/>
+<phrase i="3028" t="System starter om&#xA;Vent litt"/>
+<phrase i="3029" t="Nullstiller til standardinnstillinger&#xA;Vent litt"/>
+<phrase i="3030" t="Bekreft systemomstart?"/>
+<phrase i="3031" t="Bekreft systemomstart?"/>
+<phrase i="3032" t="Alle parametre nullstilles&#xA;til standardverdier.&#xA;Fortsette?"/>
+<phrase i="3033" t="Passordfeil. Prøve igjen?"/>
+<phrase i="3034" t="Nytt passord:"/>
+<phrase i="3035" t="Talepostnummer:"/>
+<phrase i="3036" t="Forsky(T:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Time(T:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Dato(m/d/å):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Logg av"/><!-- This is a softkey label -->
+<phrase i="3040" t="Logg på"/><!-- This is a softkey label -->
+<phrase i="3041" t="Sett opp x"/>
+<phrase i="3042" t="Oppsett"/>
+<phrase i="3043" t="Nettverk"/>
+<phrase i="3044" t="Tast inn adminpassord:"/>
+<phrase i="3045" t="Nei"/>
+<phrase i="3046" t="CFWD. ingen svarfo."/>
+<phrase i="3047" t="CFWD ingen svarnr."/>
+<phrase i="3048" t="CFWD opptatt num."/>
+<phrase i="3049" t="CFWD alle nummer"/>
+<phrase i="3050" t="Flere adresser"/>
+<phrase i="3051" t="Ikke-DHCP NTP-server 2"/>
+<phrase i="3052" t="Ikke-DHCP NTP-server 1"/>
+<phrase i="3053" t="Ikke-DHCP DNS 2"/>
+<phrase i="3054" t="Ikke-DHCP DNS 1"/>
+<phrase i="3055" t="Ikke-DHCP stand. ruter"/>
+<phrase i="3056" t="Ikke-DHCP nettverksm."/>
+<phrase i="3057" t="Ikke-DHCP IP-adresse"/>
+<phrase i="3058" t="Aktiver webserver"/>
+<phrase i="3059" t="Aktuell gateway"/>
+<phrase i="3060" t="Aktuell nettverksmaske"/>
+<phrase i="3061" t="Domene"/>
+<phrase i="3062" t="Vertsnavn"/>
+<phrase i="3063" t="Aktuell IP"/>
+<phrase i="3064" t="DHCP aktiver"/>
+<phrase i="3065" t="WAN-tilkoblingstype"/>
+<phrase i="3066" t="Datoformat"/>
+<phrase i="3067" t="Tidsformat"/>
+<phrase i="3068" t="Send lyd til høyttaler"/>
+<phrase i="3069" t="Automatisk svar-side"/>
+<phrase i="3070" t="Foretrukket lydenhet"/>
+<phrase i="3071" t="Ringehjelp"/>
+<phrase i="3072" t="Sikker samtale"/>
+<phrase i="3073" t="Ikke forstyrr"/>
+<phrase i="3074" t="Blokker ukjente anrop"/>
+<phrase i="3075" t="Blokker nummervisning"/>
+<phrase i="3076" t="Klientsert."/>
+<phrase i="3077" t="MAC-adresse"/>
+<phrase i="3078" t="Maskinvarevers."/>
+<phrase i="3079" t="Programversjon"/>
+<phrase i="3080" t="Serienummer"/>
+<phrase i="3081" t="Produktnavn"/>
+<phrase i="3082" t="Foretrukket enhet"/>
+<phrase i="3083" t="Stasjonsnavn"/>
+<phrase i="3085" t="Status for samtaleparkering"/>
+<phrase i="3087" t="Angi passord"/>
+<phrase i="3088" t="Fabrikknullstill"/>
+<phrase i="3089" t="Start på nytt"/>
+<phrase i="3090" t="Omstart"/>
+<phrase i="3092" t="Produktinfo"/>
+<phrase i="3094" t="Talepost"/>
+<phrase i="3095" t="Tid/Dato"/>
+<phrase i="3096" t="Videreføring"/>
+<phrase i="3097" t="Innstillinger"/>
+<phrase i="3099" t="Samtalehistorikk"/>
+<phrase i="3100" t="Kortnummer"/>
+<phrase i="3101" t="Katalog"/>
+<phrase i="3102" t="Tast inn kortnummer x"/>
+<phrase i="3104" t="Ring 10"/>
+<phrase i="3105" t="Ring 9"/>
+<phrase i="3106" t="Ring 8"/>
+<phrase i="3107" t="Ring 7"/>
+<phrase i="3108" t="Ring 6"/>
+<phrase i="3109" t="Ring 5"/>
+<phrase i="3110" t="Ring 4"/>
+<phrase i="3111" t="Ring 3"/>
+<phrase i="3112" t="Ring 2"/>
+<phrase i="3113" t="Ring 1"/>
+<phrase i="3114" t="Ekst ring"/>
+<phrase i="3115" t="Linje 1: "/>
+<phrase i="3116" t="Ringetone"/>
+<phrase i="3117" t="Slett: "/>
+<phrase i="3118" t="Listen er tom"/>
+<phrase i="3119" t="Feil passord. Prøve igjen?"/>
+<phrase i="3120" t="Tast inn passord:"/>
+<phrase i="3121" t="Parker samtale"/>
+<phrase i="3123" t="Foresp. parker samtale&#xA;status mislyktes"/>
+<phrase i="3124" t="Samtaleparkering tom"/>
+<phrase i="3125" t="Foresp. parker samtale&#xA;status..."/>
+<phrase i="3126" t="Ugyldig parkernummer&#xA;Prøv igjen"/>
+<phrase i="3127" t="Ringer stasjon"/>
+<phrase i="3128" t="Ring svarer"/>
+<phrase i="3129" t="Velg en holdelinje&#xA;for overfør."/>
+<phrase i="3130" t="Velg en holdelinje&#xA;for konferanse"/>
+<phrase i="3131" t="Ring *Kode"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="Tving G729A"/>
+<phrase i="3133" t="Foretrekk G729A"/>
+<phrase i="3134" t="Tving G726r40"/>
+<phrase i="3135" t="Foretrekk G726r40"/>
+<phrase i="3136" t="Tving G726r32"/>
+<phrase i="3137" t="Foretrekk G726r32"/>
+<phrase i="3138" t="Tving G726r24"/>
+<phrase i="3139" t="Foretrekk G726r24"/>
+<phrase i="3140" t="Tving G726r16"/>
+<phrase i="3141" t="Foretrekk G726r16"/>
+<phrase i="3142" t="Tving G723"/>
+<phrase i="3143" t="Foretrekk G723"/>
+<phrase i="3144" t="Tving G711A"/>
+<phrase i="3145" t="Foretrekk G711A"/>
+<phrase i="3146" t="Tving G711U"/>
+<phrase i="3147" t="Foretrekk G711U"/>
+<phrase i="3148" t="Personsøking"/>
+<phrase i="3149" t="Avbryt Sikre neste"/>
+<phrase i="3150" t="Sikre neste"/>
+<phrase i="3151" t="Deakt. Sik av alle anrop"/>
+<phrase i="3152" t="Sikre alle samtaler"/>
+<phrase i="3153" t="Deaktiver Ikke forstyrr"/>
+<phrase i="3155" t="Ikke-blokker ukjente anrop"/>
+<phrase i="3157" t="Ikke-blokker CID neste"/>
+<phrase i="3158" t="Blokker CID neste"/>
+<phrase i="3159" t="Opphev blokk. nummervisning"/>
+<phrase i="3160" t="Blokker nummervisning"/>
+<phrase i="3161" t="Deaktiver tilbakeringing"/>
+<phrase i="3162" t="Ring tilbake"/>
+<phrase i="3163" t="Avbryt videresending ingen svar"/>
+<phrase i="3164" t="Viderekoble ved ikke svar"/>
+<phrase i="3165" t="Deaktiver opptatt viderek."/>
+<phrase i="3166" t="Viderekoble ved opptatt"/>
+<phrase i="3167" t="Avbryt all viderekobling"/>
+<phrase i="3168" t="Viderekoble alle samtaler"/>
+<phrase i="3169" t="Tilbakekobling av samtale"/>
+<phrase i="3190" t="Hodetelefoner   "/>
+<phrase i="3191" t="Håndsett   "/>
+<phrase i="3192" t="Høyttaler   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Tastatur   "/>
+<phrase i="3201" t="Godkjent"/>
+<phrase i="3202" t="Mislykket"/>
+<phrase i="3216" t="Ringesignal:"/>
+<phrase i="3217" t="Nummer:"/>
+<phrase i="3218" t="Navn:"/>
+<phrase i="3219" t="Slett:"/>
+<phrase i="3220" t="Ringesvarer"/>
+<phrase i="3221" t="Katalog"/>
+<phrase i="3222" t="Tast inn nummer:"/>
+<phrase i="3223" t="Angi sidemål:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Angi svargruppe:"/>
+<phrase i="3225" t="Angi mål for spesialtjeneste:"/>
+<phrase i="3226" t="Angi mål for henvisningstjeneste:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Angi nr som skal hentes:"/>
+<phrase i="3228" t="Angi nr som skal parkeres:"/>
+<phrase i="3229" t="Angi mål for uovervåket overføring:"/>
+<phrase i="3230" t="Tast inn CFWD ved ikke svar:"/>
+<phrase i="3231" t="Tast inn CFWD ved opptatt:"/>
+<phrase i="3232" t="CFWD alle nummer:"/>
+<phrase i="3234" t="Angi flere sifre:"/>
+<phrase i="3237" t="Ubesvarte anrop"/>
+<phrase i="3238" t="Svarte anrop"/>
+<phrase i="3239" t="Svarte anrop"/>
+<phrase i="3240" t="Gjen.ringliste"/>
+<phrase i="3241" t="Initialiserer nettverk"/>
+<phrase i="3242" t="Sjekker DNS"/>
+<phrase i="3243" t="kat"/><!-- This is a softkey label -->
+<phrase i="3244" t="cfwd"/><!-- This is a softkey label -->
+<phrase i="3245" t="Språk"/>
+<phrase i="3246" t="Språkvalg"/>
+<phrase i="3248" t="Viderekoblet samtale"/>
+<phrase i="3249" t="Nytt tapt anrop"/>
+<phrase i="3250" t="Nye tapte anrop"/>
+<phrase i="3251" t="mer"/><!-- This is a softkey label -->
+<phrase i="3252" t="prøv igjen"/><!-- This is a softkey label -->
+<phrase i="3253" t="avbryt"/><!-- This is a softkey label -->
+<phrase i="3254" t="ikke tilgj."/><!-- This is a softkey label -->
+<phrase i="3255" t="tilgj."/><!-- This is a softkey label -->
+<phrase i="3258" t="grSvar"/><!-- This is a softkey label -->
+<phrase i="3259" t="svar"/><!-- This is a softkey label -->
+<phrase i="3260" t="hent"/><!-- This is a softkey label -->
+<phrase i="3261" t="park"/><!-- This is a softkey label -->
+<phrase i="3262" t="bxfer"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="xferLx"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="xfer"/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*kode"/><!-- This is a softkey label -->
+<phrase i="3267" t="velg"/><!-- This is a softkey label -->
+<phrase i="3268" t="lagre"/><!-- This is a softkey label -->
+<phrase i="3270" t="gjenoppta"/><!-- This is a softkey label -->
+<phrase i="3272" t="forr"/><!-- This is a softkey label -->
+<phrase i="3273" t="spill"/><!-- This is a softkey label -->
+<phrase i="3274" t="lim inn"/><!-- This is a softkey label -->
+<phrase i="3275" t="valg"/><!-- This is a softkey label -->
+<phrase i="3276" t="ok"/><!-- This is a softkey label -->
+<phrase i="3277" t="nr."/><!-- This is a softkey label -->
+<phrase i="3278" t="neste"/><!-- This is a softkey label -->
+<phrase i="3279" t="tapt"/><!-- This is a softkey label -->
+<phrase i="3281" t="lcr"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="bli med"/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="avslutt"/><!-- This is a softkey label -->
+<phrase i="3285" t="endre"/><!-- This is a softkey label -->
+<phrase i="3286" t="ifst"/><!-- This is a softkey label -->
+<phrase i="3288" t="ring"/><!-- This is a softkey label -->
+<phrase i="3289" t="slett"/><!-- This is a softkey label -->
+<phrase i="3290" t="kopier"/><!-- This is a softkey label -->
+<phrase i="3291" t="konfLx"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="konf"/><!-- This is a softkey label -->
+<phrase i="3293" t="fjern"/><!-- This is a softkey label -->
+<phrase i="3294" t="-cfwd"/><!-- This is a softkey label -->
+<phrase i="3295" t="-ifst"/><!-- This is a softkey label -->
+<phrase i="3296" t="endre"/><!-- This is a softkey label -->
+<phrase i="3298" t="avbryt"/><!-- This is a softkey label -->
+<phrase i="3299" t="bru"/><!-- This is a softkey label -->
+<phrase i="3300" t="slTegn"/><!-- This is a softkey label -->
+<phrase i="3301" t="alfa"/><!-- This is a softkey label -->
+<phrase i="3302" t="legg til"/><!-- This is a softkey label -->
+<phrase i="3303" t="Sett opp x"/>
+<phrase i="3304" t="Oppsett"/>
+<phrase i="3305" t="Delt"/>
+<phrase i="3306" t="Prøver å gjenoppta"/>
+<phrase i="3307" t="Prøver å parkere"/>
+<phrase i="3308" t="Venter"/>
+<phrase i="3309" t="Tilkoblet"/>
+<phrase i="3310" t="Svarer"/>
+<phrase i="3311" t="Samtale avsluttet"/>
+<phrase i="3312" t="Ringer"/>
+<phrase i="3313" t="Oppringt nummer ringer"/>
+<phrase i="3314" t="Ringer"/>
+<phrase i="3315" t="Kontakter STUN-server"/>
+<phrase i="3316" t="Slår nummer"/>
+<phrase i="3317" t="Velger stasjon"/>
+<phrase i="3318" t="Velger samtale"/>
+<phrase i="3319" t="Innhenter samtaleinfo"/>
+<phrase i="3320" t="Prøver å overta linje"/>
+<phrase i="3321" t="Klar"/>
+<phrase i="3322" t="Ja"/>
+<phrase i="3323" t="Ikke registrert"/>
+<phrase i="3324" t="Registrert"/>
+<phrase i="3325" t="Innkommende"/>
+<phrase i="3326" t="Utgående"/>
+<phrase i="3327" t="Tilbakeringing"/>
+<phrase i="3328" t="Viderekoblet"/>
+<phrase i="3329" t="Overført"/>
+<phrase i="3330" t="Ugyldig"/>
+<phrase i="3331" t="Ledig"/>
+<phrase i="3332" t="CWT"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Signal - tilbakeringing"/>
+<phrase i="3334" t="Signal - vent"/>
+<phrase i="3335" t="Ringesignal"/>
+<phrase i="3336" t="Indikasjon for sikker samtale"/>
+<phrase i="3337" t="Konferanse"/>
+<phrase i="3338" t="Vent"/>
+<phrase i="3339" t="Feil"/>
+<phrase i="3340" t="Bekreft"/>
+<phrase i="3341" t="Spør"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Advarsel om rør av"/>
+<phrase i="3347" t="Ring tilbake"/>
+<phrase i="3348" t="Omorganiser"/>
+<phrase i="3349" t="Opptatt"/>
+<phrase i="3350" t="MWI"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Ekstern samtale"/>
+<phrase i="3352" t="2. samtale"/>
+<phrase i="3353" t="Ring"/><!-- This is a softkey label -->
+<phrase i="3354" t="ingen"/>
+<phrase i="3355" t="Xfr"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Viderekoble"/>
+<phrase i="3357" t="Cb"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Til"/>
+<phrase i="3359" t="Fra"/>
+<phrase i="3360" t="Ny oppf."/>
+<phrase i="3361" t="(FULL)"/>
+<phrase i="3362" t="Firmakatalog"/>
+<phrase i="3363" t="Angi svarernummer:"/>
+<phrase i="3365" t="Kortnummer"/>
+<phrase i="3366" t="&lt;Ikke tildelt&gt;"/>
+<phrase i="3367" t="Tast inn kortnummer 2"/>
+<phrase i="3368" t="Tast inn kortnummer 3"/>
+<phrase i="3369" t="Tast inn kortnummer 4"/>
+<phrase i="3370" t="Tast inn kortnummer 5"/>
+<phrase i="3371" t="Tast inn kortnummer 6"/>
+<phrase i="3372" t="Tast inn kortnummer 7"/>
+<phrase i="3373" t="Tast inn kortnummer 8"/>
+<phrase i="3374" t="Tast inn kortnummer 9"/>
+<phrase i="3375" t="Tast inn kortnummer"/>
+<phrase i="3376" t="Anropslogg"/>
+<phrase i="3377" t="Svarte anrop"/>
+<phrase i="3378" t="Ringetone"/>
+<phrase i="3379" t="E1-Ring"/>
+<phrase i="3380" t="E2-Ring"/>
+<phrase i="3381" t="E3-Ring"/>
+<phrase i="3382" t="E4-Ring"/>
+<phrase i="3383" t="Firmakatalog"/>
+<phrase i="3384" t="Innstillinger"/>
+<phrase i="3385" t="j/n"/><!-- This is a softkey label -->
+<phrase i="3386" t="Blokker nummervisning&#xA;"/>
+<phrase i="3387" t="Blokker ukjent nummer&#xA;"/>
+<phrase i="3388" t="Ikke forstyrr&#xA;"/>
+<phrase i="3389" t="Sikker samtale&#xA;"/>
+<phrase i="3390" t="Ringehjelp&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Foretrukket lydenhet&#xA;"/>
+<phrase i="3394" t="Autosvarside&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Send lyd til høyttaler&#xA;"/>
+<phrase i="3396" t="Tidsformat&#xA;"/>
+<phrase i="3397" t="Datoformat&#xA;"/>
+<phrase i="3398" t="dag/måned"/>
+<phrase i="3399" t="måned/dag"/>
+<phrase i="3400" t="Språk"/>
+<phrase i="3401" t="Status for samtaleparkering"/>
+<phrase i="3402" t="Status"/>
+<phrase i="3403" t="Telefonstatus"/>
+<phrase i="3405" t="Linje 2 status"/>
+<phrase i="3406" t="L1-Status"/>
+<phrase i="3407" t="L2-Status"/>
+<phrase i="3408" t="L3-Status"/>
+<phrase i="3409" t="L4-Status"/>
+<phrase i="3410" t="Ring1:"/>
+<phrase i="3412" t="Dato: "/>
+<phrase i="3413" t="Oppetid: "/>
+<phrase i="3415" t="Siste reg på %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Neste reg. om %us&#xA;"/>
+<phrase i="3418" t="Ring 1: "/>
+<phrase i="3420" t="Tone: "/>
+<phrase i="3421" t="Ingen"/>
+<phrase i="3422" t="Ikke installert"/>
+<phrase i="3423" t="Stndrd"/><!-- This is a softkey label -->
+<phrase i="3425" t="Stasjon"/>
+<phrase i="3426" t="Sidegruppe"/>
+<phrase i="3427" t="Automatisk svartjenese"/>
+<phrase i="3428" t="Intern musikk"/>
+<phrase i="3429" t="Vent litt"/>
+<phrase i="3430" t="Prøver å logge på"/>
+<phrase i="3432" t="Kontakter ACD-server&#xA;for tilgjengelighet"/>
+<phrase i="3433" t="Kontakter ACD-server&#xA;for utilgjengelighet"/>
+<phrase i="3434" t="Pålogging mislyktes.&#xA;"/>
+<phrase i="3435" t="Kontroller bruker-ID&#xA;og passord."/>
+<phrase i="3437" t="Varsle tilgj. mislykt.&#xA;"/>
+<phrase i="3438" t="Varsle utilgj. mislykt.&#xA;"/>
+<phrase i="3439" t="Bruker-ID:"/>
+<phrase i="3440" t="Passord:"/>
+<phrase i="3441" t="ACD-pålogging"/>
+<phrase i="3445" t="Oppgrader fastvare&#xA;Ikke koble fra strømmen&#xA;Telefonen omstarter&#xA;automatisk"/>
+<phrase i="3446" t="&#xA;&#xA;PU: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Systemet starter opp"/>
+<phrase i="3451" t="Forespør firma&#xA;katalog fra server..."/>
+<phrase i="3452" t="Forespørsel om firma&#xA;katalog mislyktes"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="Ukjent oppføring"/>
+<phrase i="3468" t="Ukjent bruker"/>
+<phrase i="3469" t="Av: %s"/>
+<phrase i="3470" t="gateway"/>
+<phrase i="3472" t="Del samtale %s"/>
+<phrase i="3473" t="Av: %s&#xA;"/>
+<phrase i="3476" t="mottaker"/>
+<phrase i="3477" t="status"/>
+<phrase i="3478" t="avsluttet"/>
+<phrase i="3479" t="prøver"/>
+<phrase i="3480" t="tidlig"/>
+<phrase i="3481" t="fortsetter"/>
+<phrase i="3482" t="bekreftet"/>
+<phrase i="3503" t="Bruker %d"/>
+<phrase i="3504" t="Ingen ring"/>
+<phrase i="3509" t="Bruker %d (ikke installert)"/>
+<phrase i="3510" t="12t"/>
+<phrase i="3511" t="24t"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Stati. IP"/>
+<phrase i="3515" t="PPPOE"/>
+<phrase i="3516" t="pass"/><!-- password -->
+<phrase i="3517" t="konf"/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Språk (utilgj.)"/>
+<phrase i="3519" t="Utilgjengelig"/>
+<phrase i="3520" t="bekreft"/>
+<phrase i="3521" t="kontrast"/>
+<phrase i="3522" t="kortnr"/>
+<phrase i="3523" t="%d dager"/>
+<phrase i="3524" t="1 dag"/>
+<phrase i="3525" t="Deaktivert&#xA;"/>
+<phrase i="3526" t="Ring %d type: %s&#xA;"/>
+<phrase i="3527" t="Nodenavn: %s&#xA;"/>
+<phrase i="3528" t="Peertlf: %s&#xA;"/>
+<phrase i="3529" t="Var: %02d:%02d:%02d"/>
+<phrase i="3530" t="Ring %d: %s&#xA;"/>
+<phrase i="3531" t="Tone: %s&#xA;"/>
+<phrase i="3532" t="Krypter: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Des: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Ingen tjeneste&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Telefonstatus"/>
+<phrase i="3536" t="Linje %d status"/>
+<phrase i="3537" t="L%d status"/>
+<phrase i="3538" t="TidDato"/>
+<phrase i="3539" t="Lagre volumendringer&#xA;"/>
+<phrase i="3540" t="Lagre kontrastendringer&#xA;"/>
+<phrase i="3541" t="gjenta"/><!-- This is a softkey label -->
+<phrase i="3542" t="logg på"/><!-- This is a softkey label -->
+<phrase i="3543" t="logg av"/><!-- This is a softkey label -->
+<phrase i="3544" t="vol"/>
+<phrase i="3545" t="oppsett"/>
+<phrase i="3546" t="Tapt anrop"/>
+<phrase i="3548" t="Mislyktes&#xA;"/>
+<phrase i="3549" t="hente?"/>
+<phrase i="3550" t="Engelsk"/>
+<phrase i="3551" t="Spansk"/>
+<phrase i="3552" t="Portugisisk"/>
+<phrase i="3553" t="Italiensk"/>
+<phrase i="3554" t="Tysk"/>
+<phrase i="3555" t="Dansk"/>
+<phrase i="3556" t="Finsk"/>
+<phrase i="3557" t="Nederlandsk"/>
+<phrase i="3558" t="Norsk"/>
+<phrase i="3559" t="Fransk"/>
+<phrase i="3560" t="Baklystimer"/>
+<phrase i="3561" t="Alltid på"/>
+<phrase i="3562" t="Av"/>
+<phrase i="3563" t="Snarvei tapt anrop"/>
+<phrase i="3564" t="Samtale venter"/>
+<phrase i="3565" t="Aktiver VLAN"/>
+<phrase i="3566" t="VLAN-ID"/>
+<phrase i="3567" t="Kontor"/>
+<phrase i="3568" t="Klassisk-1"/>
+<phrase i="3569" t="Klassisk-2"/>
+<phrase i="3570" t="Klassisk-3"/>
+<phrase i="3571" t="Klassisk-4"/>
+<phrase i="3572" t="Enkel-1"/>
+<phrase i="3573" t="Enkel-2"/>
+<phrase i="3574" t="Enkel-3"/>
+<phrase i="3575" t="Enkel-4"/>
+<phrase i="3576" t="Enkel-5"/>
+<phrase i="3577" t="Installert"/>
+<phrase i="3578" t="SlTegn"/>
+<phrase i="3579" t="Vdsend"/><!-- This is a softkey label -->
+<phrase i="3580" t="Fj iFst"/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Ikke forstyrr "/>
+<phrase i="3582" t="FjVkbl"/><!-- This is a softkey label -->
+<phrase i="3583" t="KonfL"/><!-- This is a softkey label -->
+<phrase i="3584" t="snsam"/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Forr"/><!-- This is a softkey label -->
+<phrase i="3586" t="Overf"/><!-- This is a softkey label -->
+<phrase i="3587" t="Ovrf L"/><!-- This is a softkey label -->
+<phrase i="3588" t="BlndOv"/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="GrSvar"/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Forhåndsvis"/><!-- This is a softkey label -->
+<phrase i="3591" t="GUI eiendom"/>
+<phrase i="3592" t="GUI eiendom"/>
+<phrase i="3593" t="Foretrukket bakgrunnsbilde"/>
+<phrase i="3594" t="Nedlastet"/>
+<phrase i="3596" t="Foretrukket menyfargestil"/>
+<phrase i="3597" t="Lyseblå"/>
+<phrase i="3598" t="Lysegrøn"/>
+<phrase i="3599" t="Rosa"/>
+<phrase i="3600" t="Sølv"/>
+<phrase i="3601" t="Viderekoblet samtale "/>
+<phrase i="3602" t="Linjetast 5"/>
+<phrase i="3603" t="Linjetast 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Linje 5"/>
+<phrase i="3606" t="Linje 6"/>
+<phrase i="3607" t="Høyttaler"/>
+<phrase i="3608" t="Hodetelefoner"/>
+<phrase i="3609" t="am"/>
+<phrase i="3610" t="pm"/>
+<phrase i="3614" t="Linje %d: %s(%s)"/>
+<phrase i="3616" t="Egendefin. tilbakest."/>
+<phrase i="3617" t="Sjekk for oppdateringer&#xA;til tilpasningsprofil?&#xA;(fungerer i bakgrunnen)"/>
+<phrase i="3618" t="Webtjeneste"/>
+<phrase i="3619" t="Webtjeneste"/>
+<phrase i="3620" t="Lokale nyheter"/>
+<phrase i="3621" t="Verdensnyheter"/>
+<phrase i="3623" t="Sportsnyheter"/>
+<phrase i="3624" t="Politiske nyheter"/>
+<phrase i="3625" t="Teknologinyheter"/>
+<phrase i="3626" t="Underholdningsnyheter"/>
+<phrase i="3627" t="Trafikk"/>
+<phrase i="3628" t="Børssymbol"/>
+<phrase i="3629" t="Børssymbol:"/>
+<phrase i="3630" t="RSS-Feed 1"/>
+<phrase i="3631" t="RSS-Feed 2"/>
+<phrase i="3632" t="RSS-Feed 3"/>
+<phrase i="3633" t="RSS-Feed 4"/>
+<phrase i="3634" t="RSS-Feed 5"/>
+<phrase i="3635" t="Symbol:"/>
+<phrase i="3636" t="Siste:"/>
+<phrase i="3637" t="Endre:"/>
+<phrase i="3638" t="Bud:"/>
+<phrase i="3639" t="Spør:"/>
+<phrase i="3640" t="Provisjonering"/>
+<phrase i="3641" t="Samtalestatistikk"/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="Profil %s&#xA;"/>
+<phrase i="3644" t="Status:%s&#xA;"/>
+<phrase i="3645" t="Årsak:%s&#xA;"/>
+<phrase i="3647" t="Deaktivert"/>
+<phrase i="3649" t="Analysefeil i regel"/>
+<phrase i="3650" t="Pågår"/>
+<phrase i="3651" t="Vellykket"/>
+<phrase i="3652" t="DNS-løsning"/>
+<phrase i="3653" t="Ingen servernavn"/>
+<phrase i="3654" t="Ugyldig eller begrenset server"/>
+<phrase i="3655" t="Ressurser oppbrukt"/>
+<phrase i="3656" t="Ødelagt fil"/>
+<phrase i="3657" t="Krypteringsnøkkel"/>
+<phrase i="3658" t="Ugyldig URL"/>
+<phrase i="3659" t="Finner ikke fil"/>
+<phrase i="3660" t="Nedlasting mislyktes"/>
+<phrase i="3661" t="&lt;Ingen element&lt;"/>
+<phrase i="3662" t="Type:%s"/>
+<phrase i="3663" t="Nodenavn:%s"/>
+<phrase i="3664" t="Nodetelefon:%s"/>
+<phrase i="3665" t="Var:"/>
+<phrase i="3666" t="Samtaletid:"/>
+<phrase i="3667" t="Krypt:%s"/>
+<phrase i="3668" t="Dekrypt:%s"/>
+<phrase i="3669" t="Nummervisning:%s"/>
+<phrase i="3674" t="Oppdaterer nyhetsfeeddata..."/>
+<phrase i="3675" t="Ingen nyhetsfeeddata tilgjengelige..."/>
+<phrase i="3676" t="Kunne ikke innhente nyhetsfeeddata..."/>
+<phrase i="3677" t="Nyheter"/>
+<phrase i="3680" t="Opp: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Ned: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Anropstype: %s&#xA;"/>
+<phrase i="3687" t="Tom"/>
+<phrase i="3690" t="Provisjoneringsstatus"/>
+<phrase i="3693" t="Anropsstatistikk"/>
+<phrase i="3703" t="Linje:%d"/>
+<phrase i="3704" t="Oppdaterer børsdata..."/>
+<phrase i="3705" t="Ingen børsdata tilgjengelige..."/>
+<phrase i="3706" t="Kunne ikke innhente børsdata..."/>
+<phrase i="3713" t="Yahoo-børs"/>
+<phrase i="3715" t="Oppdaterer trafikkfeeddata..."/>
+<phrase i="3716" t="Ingen trafikkfeeddata tilgjengelige..."/>
+<phrase i="3717" t="Kunne ikke innhente trafikkfeeddata..."/>
+<phrase i="3718" t="Ingen detaljert trafikk tilgjengelig..."/>
+<phrase i="3719" t="Kunne ikke vise trafikkfeeddata..."/>
+<phrase i="3721" t="Børs"/>
+<phrase i="3730" t="Yahoo! Logg på"/>
+<phrase i="3731" t="Logg av fra Yahoo!?"/>
+<phrase i="3732" t="Vellykket"/>
+<phrase i="3733" t="Mislykket. Kontroller&#xA;Bruker-ID og passord"/>
+<phrase i="3734" t="Logger på. Vent litt."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="Samtaler videresendt&#xA;"/>
+<phrase i="3737" t="Logget av&#xA;"/>
+<phrase i="3738" t="Logger på&#xA;"/>
+<phrase i="3739" t="Ikke registrert&#xA;"/>
+<phrase i="3741" t="&#xA;Av: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;PU: "/>
+<phrase i="3744" t="%sLogget av"/>
+<phrase i="3745" t="oppdater"/><!-- This is a softkey label -->
+<phrase i="3746" t="Detalj"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_SPRÅK"/>
+<phrase i="3757" t="BMP bilde"/>
+<phrase i="3758" t="Legg til"/><!-- This is a softkey label -->
+<phrase i="3759" t="Alfa"/><!-- This is a softkey label -->
+<phrase i="3760" t="SlTegn"/><!-- This is a softkey label -->
+<phrase i="3761" t="Bru"/><!-- This is a softkey label -->
+<phrase i="3762" t="Avbr."/><!-- This is a softkey label -->
+<phrase i="3764" t="Fjern"/><!-- This is a softkey label -->
+<phrase i="3765" t="Konf"/><!-- This is a softkey label -->
+<phrase i="3766" t="Kopier"/><!-- This is a softkey label -->
+<phrase i="3767" t="Slett"/><!-- This is a softkey label -->
+<phrase i="3771" t="Rediger"/><!-- This is a softkey label -->
+<phrase i="3772" t="Avslutt"/><!-- This is a softkey label -->
+<phrase i="3774" t="Delta"/><!-- This is a softkey label -->
+<phrase i="3775" t="Tap"/><!-- This is a softkey label -->
+<phrase i="3776" t="Neste"/><!-- This is a softkey label -->
+<phrase i="3777" t="Num"/><!-- This is a softkey label -->
+<phrase i="3778" t="OK"/><!-- This is a softkey label -->
+<phrase i="3779" t="Alt."/><!-- This is a softkey label -->
+<phrase i="3780" t="Lim"/><!-- This is a softkey label -->
+<phrase i="3781" t="SpillAv"/><!-- This is a softkey label -->
+<phrase i="3783" t="HentAnr"/><!-- This is a softkey label -->
+<phrase i="3784" t="Lagre"/><!-- This is a softkey label -->
+<phrase i="3785" t="Velg"/><!-- This is a softkey label -->
+<phrase i="3786" t="*Kode"/><!-- This is a softkey label -->
+<phrase i="3787" t="J/N"/><!-- This is a softkey label -->
+<phrase i="3793" t="Tilgj"/><!-- This is a softkey label -->
+<phrase i="3794" t="Utilgj"/><!-- This is a softkey label -->
+<phrase i="3795" t="Avbryt"/><!-- This is a softkey label -->
+<phrase i="3796" t="Igjen"/><!-- This is a softkey label -->
+<phrase i="3797" t="Mer"/><!-- This is a softkey label -->
+<phrase i="3798" t="Oppdater"/><!-- This is a softkey label -->
+<phrase i="3799" t="forhåndsvis"/><!-- This is a softkey label -->
+<phrase i="3800" t="detalj"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Logg av"/>
+<phrase i="3807" t="Firmakat"/>
+<phrase i="3808" t="Ingen nedlastbilde tilgjengelig"/>
+<phrase i="3809" t="Blokker ukjente anrop"/>
+<phrase i="3810" t="Ingen detaljerte nyheter tilgjengelige..."/>
+<phrase i="3811" t="Ingen detaljerte nyheter tilgjengelige&#xA;"/>
+<phrase i="3812" t="Kunne ikke vise nyhetsfeeddata..."/>
+<phrase i="3813" t="Overfører"/>
+<phrase i="3814" t="Overføring mislyktes"/>
+<phrase i="3815" t="Var: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Anropsstatistikk:"/>
+<phrase i="3817" t="Kunne ikke vise børsdata..."/>
+<phrase i="3818" t="Ingen detaljert trafikk tilgjengelig&#xA;"/>
+<phrase i="3822" t="E5 Ring"/>
+<phrase i="3824" t="Ikke forstyrr,"/>
+<phrase i="3825" t="Viderekoblet samtale,"/>
+<phrase i="3826" t="&lt;Ingen element&gt;"/>
+<phrase i="3827" t="Tilpassing"/>
+<phrase i="3828" t="Åpne"/>
+<phrase i="3829" t="Venter"/>
+<phrase i="3830" t="Tilpasset"/>
+<phrase i="3831" t="Standard&quot;nedlastet"/>
+<phrase i="3832" t="Ukjent anrop"/>
+<phrase i="3833" t="%sAnrop videresendt"/>
+<phrase i="3834" t="%sLogger av"/>
+<phrase i="3835" t="%sLogger på"/>
+<phrase i="3836" t="%sIkke registrert"/>
+<phrase i="3837" t="%sRegistrerer"/>
+<phrase i="3838" t="%sIkke forstyrr"/>
+<phrase i="3839" t="E1-Ring"/>
+<phrase i="3840" t="E2-Ring"/>
+<phrase i="3841" t="E3-Ring"/>
+<phrase i="3842" t="E4-Ring"/>
+<phrase i="3843" t="E5-Ring"/>
+<phrase i="3844" t="E6-Ring"/>
+<phrase i="3845" t="Pålogging mislyktes.&#xA;Kontroller bruker-ID&#xA;og passord."/>
+<phrase i="3846" t="Prøver å logge på."/>
+<phrase i="3847" t="Autoriserer..."/>
+<phrase i="3848" t="CMS pålogging"/>
+<phrase i="3849" t="Logg av fra CMS?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C å Å æ Æ "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O ø Ø "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Polsk"/>
+<phrase i="3864" t="Russisk"/>
+<phrase i="3865" t="Ungarsk"/>
+<phrase i="3866" t="Tsjekkisk"/>
+<phrase i="3867" t="Tyrkisk"/>
+<phrase i="3868" t="Svensk"/>
+<phrase i="3869" t="Slovensk"/>
+<phrase i="3870" t="Bulgarsk"/>
+<phrase i="3871" t="Slovakisk"/>
+<phrase i="3872" t="Kroatisk"/>
+<phrase i="3950" t="Ikke svar"/>
+<phrase i="3951" t="Kan ikke nås"/>
+<phrase i="3952" t="Godkjenn"/>
+<phrase i="3953" t="Ukjent"/>
+<phrase i="3954" t="Prøver å parkere"/>
+<phrase i="3955" t="Prøver å gjenoppta"/>
+<phrase i="3956" t="Endre"/><!-- This is a softkey label -->
+<phrase i="3957" t="Parker"/><!-- This is a softkey label -->
+<phrase i="3958" t="Hent"/><!-- This is a softkey label -->
+<phrase i="3959" t="Svar"/><!-- This is a softkey label -->
+<phrase i="3960" t="Syn ig"/><!-- This is a softkey label -->
+<phrase i="3961" t="Aktiver"/><!-- This is a softkey label -->
+<phrase i="3962" t="Godta"/><!-- This is a softkey label -->
+<phrase i="3963" t="Kobl"/><!-- This is a softkey label -->
+<phrase i="3964" t="-Kobl"/><!-- This is a softkey label -->
+<phrase i="3965" t="send"/><!-- This is a softkey label -->
+<phrase i="3966" t="syn ig"/><!-- This is a softkey label -->
+<phrase i="3967" t="aktiv"/><!-- This is a softkey label -->
+<phrase i="3968" t="godta"/><!-- This is a softkey label -->
+<phrase i="3969" t="kobl"/><!-- This is a softkey label -->
+<phrase i="3970" t="-kobl"/><!-- This is a softkey label -->
+<phrase i="3971" t="ned"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="opp"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="standard"/><!-- This is a softkey label -->
+<phrase i="3974" t="redNum"/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Oppgrader fastvare&#xA;Ikke koble fra strømmen&#xA;Telefonen omstarter&#xA;automatisk"/>
+<phrase i="3976" t="Laster XML-program..."/>
+<phrase i="3977" t="Oppgradering mislyktes"/>
+<phrase i="3978" t="Last prog OK"/>
+<phrase i="3979" t="Last prog mislyktes"/>
+<phrase i="3980" t="CME-tjenester"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Prøver å logge ut&#xA;Vent litt..."/>
+<phrase i="3982" t="Utlogging mislyktes.&#xA;Omstarter..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Velg ringer"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="St. ringetone: %s"/>
+<phrase i="3987" t="Velg linje"/>
+<phrase i="3988" t="Linje standard ring                        "/>
+<phrase i="3989" t="Standard ringenavn                     "/>
+<phrase i="3990" t="Innstillinger"/>
+<phrase i="3991" t="Skjermsparermodus"/>
+<phrase i="3992" t="Aktiver skjermsparer"/>
+<phrase i="3993" t="Skjermsparer ventetid"/>
+<phrase i="3994" t="Skjermsparerikon"/>
+<phrase i="3995" t="Stasjonstid&quot;Lås&quot;Telefon&quot;DatoTid&quot;Bakgrunnsbilde"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Nullstiller til standard&#xA;Vent litt"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;Systemet omstarter&#xA;Vent litt"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Systemet omstarter&#xA;Vent litt"/>
+<phrase i="4001" t="Profilregel"/>
+<phrase i="4002" t="Profilregel:"/>
+<phrase i="4003" t="Resynk.profil: %s&#xA;"/>
+<phrase i="4004" t="Resultat: %s&#xA;"/>
+<phrase i="4005" t="Årsak: %s&#xA;"/>
+<phrase i="4006" t="Resynk til&#xA;%s&#xA;Telefon kan omstarte hvis vellykket!"/>
+<phrase i="4007" t="Ugyldig profilregel!&#xA;"/>
+<phrase i="4008" t="Forespør resynk til&#xA;%s&#xA;når telefonen venter!"/>
+<phrase i="4009" t="Forespøring av resynk. mislyktes&#xA;Telefonen behandler en forespørsel.&#xA;Prøv igjen senere."/>
+<phrase i="4010" t="Registrerer&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Trykk på en tast for å låse opp telefonen"/>
+<phrase i="4013" t="Samtalekontroll-protokoll"/>
+<phrase i="4014" t="Standardruter"/>
+<phrase i="4015" t="TFTP-server"/>
+<phrase i="4016" t="Admin. VLAN-Id"/>
+<phrase i="4017" t="Aktiver CDP"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Anropsbehandling"/>
+<phrase i="4019" t="PPPoE-tjenestenavn"/>
+<phrase i="4020" t="PPPOE-påloggingsnavn"/>
+<phrase i="4021" t="PPPoE-påloggingspassord"/>
+<phrase i="4022" t="Webserver aktivert"/>
+<phrase i="4023" t="Finn feil på server"/>
+<phrase i="4024" t="Av&quot;10 s&quot;20 s&quot;30 s&quot;Alltid på"/>
+<phrase i="4025" t="Lokale innstillinger"/>
+<phrase i="4026" t="Fastvareversjon"/>
+<phrase i="4027" t="Mott: %u, "/>
+<phrase i="4028" t="Xmt: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Forløpt tid: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Modell: %s&#xA;"/>
+<phrase i="4032" t="Versjon: %s&#xA;"/>
+<phrase i="4033" t="Linje:%s"/>
+<phrase i="4034" t="I/T"/>
+<phrase i="4038" t="Kobler til &#xA;VPN-serveren..."/>
+<phrase i="4039" t="Kobler fra &#xA;VPN-serveren..."/>
+<phrase i="4040" t="VPN-tilkobling mislyktes!&#xA;"/>
+<phrase i="4041" t="VPN tilkoblet!"/>
+<phrase i="4042" t="VPN frakoblet!"/>
+<phrase i="4043" t="Ukjent CA. Godta?&#xA;"/>
+<phrase i="4044" t="Operasjon avbrutt!"/>
+<phrase i="4045" t="Vent litt..."/>
+<phrase i="4046" t="Koble til VPN ved oppstart?"/>
+<phrase i="4047" t="VPN-server"/>
+<phrase i="4048" t="Bruker-ID"/>
+<phrase i="4049" t="Tunnelgruppe"/>
+<phrase i="4050" t="VPN tilkoblet?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Varighet"/>
+<phrase i="4054" t="Byte sendt"/>
+<phrase i="4055" t="Byte mottatt"/>
+<phrase i="4056" t="Siste årsak til feil"/>
+<phrase i="4057" t="Konfigurer VPN-serveren først"/>
+<phrase i="4058" t="Telefon er koblet til VPN-serveren"/>
+<phrase i="4059" t="Legg på telefonen før du kobler VPN til serveren"/>
+<phrase i="4060" t="Telefon er ikke koblet til VPN-serveren"/>
+<phrase i="4061" t="Legg på telefonen først"/>
+<phrase i="4062" t="Kobler til m/ CME"/>
+<phrase i="4063" t="Registrerer m/ CME"/>
+<phrase i="4064" t="SPCP-registreringstoken"/>
+<phrase i="4065" t="Ringnedlasting mislyktes"/>
+<phrase i="4066" t="Oppgraderer fastvare&#xA;Ikke koble fra strøm"/>
+<phrase i="4067" t="Oppgradering vellykket&#xA;... starter på nytt"/>
+<phrase i="4068" t="Spørring LDAP"/>
+<phrase i="4069" t="Spørring LDAP-katalog"/>
+<phrase i="4070" t="Ugyldig inntasting/konfigurasjon,&#xA;Kontroller inntasting/konfigurasjon"/>
+<phrase i="4071" t="LDAP-feil: kan ikke koble til server"/>
+<phrase i="4072" t="LDAP-feil: Ugyldig inntastingsverdi"/>
+<phrase i="4073" t="Ingen treff"/>
+<phrase i="4074" t="Spørring LDAP-resultat"/>
+<phrase i="4075" t="Forespør katalog fra LDAP-server..."/>
+<phrase i="4076" t="Forespørring av LDPA-katalog mislyktes"/>
+<phrase i="4077" t="For mange treff,&#xA;avgrens søket."/>
+<phrase i="4079" t="Svar på anrop"/>
+<phrase i="4080" t="Hent samtale"/>
+<phrase i="4081" t="Svar gruppesamtale"/>
+<phrase i="4083" t="PC-port VLAN-tagging"/>
+<phrase i="4084" t="PC-port VLAN ID"/>
+<phrase i="4085" t="Varsel"/>
+<phrase i="4086" t="Side"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="tilbake"/><!-- This is a softkey label -->
+<phrase i="4088" t="bytt"/><!-- This is a softkey label -->
+<phrase i="4089" t="Tilbake"/><!-- This is a softkey label -->
+<phrase i="4090" t="RedNum"/><!-- This is a softkey label -->
+<phrase i="4091" t="Navn"/>
+<phrase i="4092" t="Søk"/>
+<phrase i="4093" t="Send"/><!-- This is a softkey label -->
+<phrase i="4094" t="Medietilbakekobling"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Ned"/><!-- This is a softkey label -->
+<phrase i="4096" t="Opp"/><!-- This is a softkey label -->
+<phrase i="4097" t="Bytt"/><!-- This is a softkey label -->
+<phrase i="4098" t="Sender forespørsel..."/>
+<phrase i="4099" t="Ugyldig nummer"/>
+<phrase i="4100" t="Ingen linje"/>
+<phrase i="4101" t="Tidsavbrudd"/>
+<phrase i="4102" t="Tjenesten er utilgjengelig"/>
+<phrase i="4103" t="Nettverksfeil"/>
+<phrase i="4104" t="Protokollfeil"/>
+<phrase i="4105" t="Prøver"/>
+<phrase i="4106" t="Samtale viderekobles"/>
+<phrase i="4107" t="I kø"/>
+<phrase i="4108" t="Øktfremgang"/>
+<phrase i="4109" t="Godkjent"/>
+<phrase i="4110" t="Flere valg"/>
+<phrase i="4111" t="Flyttet permanent"/>
+<phrase i="4112" t="Flyttet midlertidig"/>
+<phrase i="4113" t="Bruk proxy"/>
+<phrase i="4114" t="Alternativ tjeneste"/>
+<phrase i="4115" t="Ugyldig forespørsel"/>
+<phrase i="4116" t="Ikke autorisert"/>
+<phrase i="4117" t="Betaling kreves"/>
+<phrase i="4118" t="Forbudt"/>
+<phrase i="4119" t="Ikke funnet"/>
+<phrase i="4120" t="Metode tillates ikke"/>
+<phrase i="4121" t="Ikke godtatt"/>
+<phrase i="4122" t="Proxygodkjenning kreves"/>
+<phrase i="4123" t="Forespørsel tidsavbrutt"/>
+<phrase i="4124" t="Borte"/>
+<phrase i="4125" t="Forespurt enhet for stor"/>
+<phrase i="4126" t="Forespurt URI for stor"/>
+<phrase i="4127" t="Ikke støttet medietype"/>
+<phrase i="4128" t="Ikke støttet URI-stil"/>
+<phrase i="4129" t="Feil filtype"/>
+<phrase i="4130" t="Filtype kreves"/>
+<phrase i="4131" t="Intervall er for kort"/>
+<phrase i="4132" t="Midlertidig utilgjengelig"/>
+<phrase i="4133" t="Opprop-etappe/transaksjon eksisterer ikke"/>
+<phrase i="4134" t="Løkke registrert"/>
+<phrase i="4135" t="For mange hopp"/>
+<phrase i="4136" t="Ufullstendig adresse"/>
+<phrase i="4137" t="Tvetydig"/>
+<phrase i="4138" t="Opptatt her"/>
+<phrase i="4139" t="Forespørsel avsluttet"/>
+<phrase i="4140" t="Ikke godtatt her"/>
+<phrase i="4141" t="Ugyldig hendelse"/>
+<phrase i="4142" t="Forespørsel venter"/>
+<phrase i="4143" t="Kan ikke dekrypteres"/>
+<phrase i="4144" t="Intern serverfeil"/>
+<phrase i="4145" t="Kan ikke implementeres"/>
+<phrase i="4146" t="Ugyldig gateway"/>
+<phrase i="4147" t="Tjeneste utilgjengelig"/>
+<phrase i="4148" t="Servertidsavbrudd"/>
+<phrase i="4149" t="SIP-versjon støttes ikke"/>
+<phrase i="4150" t="Melding er for stor"/>
+<phrase i="4151" t="Opptatt overalt"/>
+<phrase i="4152" t="Avvis"/>
+<phrase i="4153" t="Eksisterer ikke"/>
+<phrase i="4154" t="Transportlagfeil"/>
+<phrase i="4155" t="Stasjonstid"/>
+<phrase i="4156" t="Lås"/>
+<phrase i="4157" t="Telefon"/>
+<phrase i="4158" t="DatoTid"/>
+<phrase i="4159" t="Bakgrunnsbilde"/>
+<phrase i="4160" t="Finansnyheter"/>
+<phrase i="4161" t="Transaksjon tidsavbrutt"/>
+<phrase i="4162" t="Ingen rute funnet"/>
+<phrase i="4163" t="Midlertidig utilgjengelig"/>
+<phrase i="4164" t="Forespørsel avbrutt"/>
+<phrase i="4165" t="Server for opptatt"/>
+<phrase i="4166" t="Manglende mediabåndbredde"/>
+<phrase i="4200" t="404 ikke funnet"/>
+<phrase i="4201" t="Legg til personlig oppføring"/>
+<phrase i="4202" t="Avansert søk"/>
+<phrase i="4203" t="Svar"/>
+<phrase i="4204" t="svar"/>
+<phrase i="4205" t="Forespørsel om Broadsoft-katalog mislyktes"/>
+<phrase i="4206" t="Broadsoft-katalog"/>
+<phrase i="4207" t="Broadsoft: Forespørsel avbrutt av bruker"/>
+<phrase i="4208" t="Anrops-kontrollinnst."/>
+<phrase i="4209" t="CME-katalog"/>
+<phrase i="4210" t="Avdeling: "/>
+<phrase i="4211" t="DHCP-valg for bruk"/>
+<phrase i="4212" t="DHCP-resynk.alt."/>
+<phrase i="4213" t="E-post: "/>
+<phrase i="4214" t="Detaljer om oppføring"/>
+<phrase i="4215" t="Feil: Tom eller ugyldig inntast."/>
+<phrase i="4216" t="Linje 10"/>
+<phrase i="4217" t="Linje 11"/>
+<phrase i="4218" t="Linje 12"/>
+<phrase i="4219" t="Linje 7"/>
+<phrase i="4220" t="Linje 8"/>
+<phrase i="4221" t="Linje 9"/>
+<phrase i="4222" t="Filtype: "/>
+<phrase i="4223" t="Første: "/>
+<phrase i="4224" t="blink"/>
+<phrase i="4225" t="Tving G722"/>
+<phrase i="4226" t="GruppeID: "/>
+<phrase i="4227" t="HTTP-forespørsel avbrutt"/>
+<phrase i="4228" t="HTTP-forespørsel mislyktes"/>
+<phrase i="4229" t="Ignorer"/>
+<phrase i="4230" t="ignorer"/>
+<phrase i="4231" t="Nøkkelsystem auto. oppdag"/>
+<phrase i="4232" t="System IP-adresse"/>
+<phrase i="4233" t="Siste: "/>
+<phrase i="4234" t="LDAP-feil: kan ikke koble til server."/>
+<phrase i="4235" t="Linjetast 10"/>
+<phrase i="4236" t="Linjetast 11"/>
+<phrase i="4237" t="Linjetast 12"/>
+<phrase i="4238" t="Linjetast 7"/>
+<phrase i="4239" t="Linjetast 8"/>
+<phrase i="4240" t="Linjetast 9"/>
+<phrase i="4241" t="Mobil: "/>
+<phrase i="4242" t="Navn: "/>
+<phrase i="4243" t="Ingen treff&#xA;"/>
+<phrase i="4244" t="ingen&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Nummer: "/>
+<phrase i="4246" t="Telefonnr:"/>
+<phrase i="4247" t="Foretrekk G722"/>
+<phrase i="4248" t="PrvHld"/>
+<phrase i="4249" t="prvHld"/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Forespør BS-katalog"/>
+<phrase i="4257" t="Forespør katalog fra Broadsoft-server..."/>
+<phrase i="4258" t="Signalgir protokoll"/>
+<phrase i="4259" t="Enkelt søk"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="SPA5X5 Modell"/>
+<phrase i="4263" t="SPCP Autoreg."/>
+<phrase i="4264" t="tilCkat"/>
+<phrase i="4265" t="For mange oppføringer&#xA;"/>
+<phrase i="4266" t="For mange personlige oppføringer&#xA;"/>
+<phrase i="4267" t="Transportprotokoll"/>
+<phrase i="4268" t="Prøver å logge ut&#xA;Vent litt..."/>
+<phrase i="4269" t="Bruker-ID: "/>
+<phrase i="4270" t="XML-formatfeil eller ugyldig program"/>
+<phrase i="4271" t="XML-tjenester"/>
+<phrase i="4272" t="Av"/>
+<phrase i="4273" t="Nodenavn"/>
+<phrase i="4274" t="Node-tlf"/>
+<phrase i="4275" t="Nodetelefon"/>
+<phrase i="4276" t="Første:"/>
+<phrase i="4277" t="avsluttAnrop"/><!-- This is a softkey label -->
+<phrase i="4278" t="nyttAnrop"/><!-- This is a softkey label -->
+<phrase i="4279" t="Dyp bass"/>
+<phrase i="4280" t="Ny oppf. i personlig kat."/>
+<phrase i="4281" t="Søk personlig katalog"/>
+<phrase i="12000" t="Kjør program"/>
+<phrase i="12001" t="Ugyldig IP-adresse"/>
+<phrase i="12002" t="Velg linje..."/>
+<phrase i="12003" t="Velg ringer..."/>
+<phrase i="12004" t="Godkjenning kreves!"/>
+<phrase i="12005" t="CM-ICMP-utilgj."/>
+<phrase i="12006" t="Forskyvning(\200t:m:s):"/>
+<phrase i="12007" t="Registrerer"/>
+<phrase i="12008" t="STUN Inn"/>
+<phrase i="12009" t="Admin. VLAN-ID"/>
+<phrase i="12010" t="Alternativ TFTP"/>
+<phrase i="12011" t="Anropsbehandling 1"/>
+<phrase i="12012" t="Standard ruter 1"/>
+<phrase i="12013" t="DHCP&quot;Statisk IP"/>
+<phrase i="12014" t="TFTP Server 1"/>
+<phrase i="12015" t="Webtilgang aktivert"/>
+<phrase i="12016" t="Forløpt tid"/>
+<phrase i="12017" t="Mott"/>
+<phrase i="12018" t="Versjon"/>
+<phrase i="12019" t="Xmt"/>
+<phrase i="12020" t="Kobler til..."/>
+<phrase i="12021" t="Oppgradert"/>
+<phrase i="12022" t="TaptAnrop"/>
+<phrase i="12023" t="Ringefil utilgjengelig!"/>
+<phrase i="12024" t="toner.xml"/>
+<phrase i="12025" t="Registrer avvist:&#xA;%s"/>
+<phrase i="12026" t="SPCP-registrertoken avvist [%d]&#xA;...prøver igjen"/>
+<phrase i="12027" t="Feil: Kan ikke finne UC500.&#xA;Kontakt administrator"/>
+<phrase i="12028" t="10 s"/>
+<phrase i="12029" t="20 s"/>
+<phrase i="12030" t="30 s"/>
+<phrase i="12031" t="Laster ned&#xA;%s"/>
+<phrase i="12032" t="(Ingen treff)"/>
+<phrase i="12033" t="Et nytt navn"/>
+<phrase i="12034" t="Siste TFTP-server"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Test BMP"/>
+<phrase i="12037" t="Rumensk"/>
+<phrase i="12038" t="Dyp bass"/>
+<phrase i="12039" t="Søkeord:"/>
+<phrase i="12040" t="Resultater"/>
+<phrase i="12041" t="Resultat"/>
+<phrase i="12043" t="Logge av?"/>
+<phrase i="12044" t="Velg et nummer"/>
+<phrase i="12045" t="parker"/>
+<phrase i="12046" t="Begrenset nummer"/>
+<phrase i="12047" t="utenfor rekkevidde!"/>
+<phrase i="12048" t="søk"/>
+<phrase i="12049" t="Webserver skrivbar"/>
+<phrase i="12050" t="Spansk-Mexico"/>
+<phrase i="12051" t="Kan ikke hente talemelding under en samtale"/>
+<phrase i="12052" t="Serveradressen er feil"/>
+<phrase i="12053" t="Nettverkstilkobling mislyktes"/>
+<phrase i="12054" t="Formatfeil med talebeskjed"/>
+<phrase i="12055" t="Forespørsel mislyktes"/>
+<phrase i="12056" t="Rediger:"/>
+<phrase i="12057" t="Mål blind overf.:"/>
+<phrase i="12058" t="brytInn"/>
+<phrase i="12059" t="(Ingen ringeliste)"/>
+<phrase i="12060" t="Tapt anropbanner"/>
+<phrase i="12061" t="BrytInn"/>
+<phrase i="12062" t="ledig"/>
+<phrase i="12063" t="tatt"/>
+<phrase i="12064" t="går fremover"/>
+<phrase i="12065" t="varsler"/>
+<phrase i="12066" t="holdt, privat"/>
+<phrase i="12067" t="aktiv"/>
+<phrase i="12068" t="holdt"/>
+<phrase i="12069" t="bro, aktiv"/>
+<phrase i="12070" t="bro, holdt"/>
+<phrase i="12071" t="ringer"/>
+<phrase i="12072" t="i bruk"/>
+<phrase i="12073" t="div., ring"/>
+<phrase i="12074" t="div., vent"/>
+<phrase i="12075" t="ingen tjeneste"/>
+<phrase i="12076" t="annet, ledig"/>
+<phrase i="12077" t="reservert"/>
+<phrase i="12078" t="Ikke konfigurert"/>
+<phrase i="12079" t="Validerer oppgraderings-URL&#xA;Ikke koble fra strøm"/>
+<phrase i="12080" t="Resynkronisering pågår"/>
+<phrase i="12081" t="Resynkronisering vellykket"/>
+<phrase i="12082" t="Resynkronisering vellykket.&#xA;Telefonen starter på ny. Vent litt"/>
+<phrase i="12083" t="Resynkronisering mislyktes"/>
+<phrase i="12084" t="Engelsk (US)"/>
+<phrase i="12085" t="Konferansebro"/>
+<phrase i="12086" t="Anonym"/>
+<phrase i="12087" t="tilbakest."/>
+<phrase i="12088" t="delt"/>
+<phrase i="12089" t="tilkoplet"/>
+<phrase i="12090" t="legg til mappe"/>
+<phrase i="12091" t="venter"/>
+<phrase i="12092" t="ugyldig"/>
+<phrase i="12093" t="gjenopptar"/>
+<phrase i="12094" t="ringer"/>
+<phrase i="12095" t="svarer"/>
+<phrase i="12096" t="Personlig kortnummer"/>
+<phrase i="12097" t="Overføringsanropsliste"/>
+<phrase i="12098" t="Konferanseanropsliste"/>
+<phrase i="12099" t="versjon"/>
+<phrase i="12100" t="Firma&quot;Gruppe&quot;Personlig"/>
+<phrase i="12101" t="Katalognavn"/>
+<phrase i="12102" t="Vertsserver"/>
+<phrase i="12103" t="Via"/>
+<phrase i="12104" t="Angi agentstatus"/>
+<phrase i="12105" t="Tilgjengelig"/>
+<phrase i="12106" t="Omstarthistorikk"/>
+<phrase i="12107" t="Standard&quot;HiDef&quot;Standard"/>
+<phrase i="12108" t="Nettverksoppstartsfor."/>
+<phrase i="12109" t="Konkret CWT"/>
+<phrase i="12110" t="Aktiver LLDP-MED"/>
+<phrase i="12111" t="Registrering avvist:&#xA;%s"/>
+<phrase i="12112" t="Feil: Registrering mislyktes.&#xA;Kontakt administratoren din..."/>
+<phrase i="12113" t="Nettverksfeil registrert."/>
+<phrase i="12114" t="Registrerer..."/>
+<phrase i="12115" t="Nettverksfeil."/>
+<phrase i="12116" t="Password"/>
+<phrase i="12117" t="Resynkronisering vellykket.&#xA;Telefonen starter på ny. Vent litt."/>
+<phrase i="12118" t="Håndsettversjon"/>
+<phrase i="12119" t="Auto&quot;Original&quot;v3"/>
+<phrase i="12120" t="DHCP mislykkes"/>
+<phrase i="12121" t="Oppgrader"/>
+<phrase i="12122" t="Forsyne"/>
+<phrase i="12123" t="Brukerutløst"/>
+<phrase i="12124" t="SIP-utløst"/>
+<phrase i="12125" t="Systemfeil"/>
+<phrase i="12126" t="Link nede"/>
+<phrase i="12127" t="System 1"/>
+<phrase i="12128" t="System 2"/>
+<phrase i="12129" t="Duplikat IP"/>
+<phrase i="12130" t="Reserve IP"/>
+<phrase i="12131" t="System 3"/>
+<phrase i="12132" t="System 4"/>
+<phrase i="12133" t="System 5"/>
+<phrase i="12134" t="System 6"/>
+<phrase i="12135" t="System 7"/>
+<phrase i="12136" t="SIP-utløst"/>
+<phrase i="12137" t="Ordl nedlastning"/>
+<phrase i="12138" t="VLAN endret"/>
+<phrase i="12139" t="RC"/>
+<phrase i="12140" t="Fabrikknullstill"/>
+<phrase i="12141" t="Programforesp"/>
+<phrase i="12142" t="IP endret"/>
+<phrase i="12143" t="Angi kontokode"/>
+<phrase i="12144" t="Angi eksternt nummer"/>
+<phrase i="12145" t="Intern katalog"/>
+<phrase i="12146" t="Ekstern katalog"/>
+<phrase i="12147" t="Gruppekatalog"/>
+<phrase i="12148" t="Stasjonkatalog"/>
+<phrase i="12149" t="Ekstern musikk"/>
+<phrase i="12150" t="Sidegruppe 1"/>
+<phrase i="12151" t="Sidegruppe 2"/>
+<phrase i="12152" t="Sidegruppe 3"/>
+<phrase i="12153" t="Sidegruppe 4"/>
+<phrase i="12154" t="Sidegruppe 5"/>
+<phrase i="12155" t="Ekstern side"/>
+<phrase i="12156" t="Anropseksempel"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Systemmodus nattanrop"/>
+<phrase i="12159" t="Samtale satt på vent"/>
+<phrase i="12160" t="Portspeiling"/>
+<phrase i="12161" t="Utenfor rekkevidde!"/>
+<phrase i="12162" t="XML-tjeneste"/>
+<phrase i="12163" t="hebraisk"/>
+<phrase i="12164" t="Samtalen blir parkert"/>
+<phrase i="12165" t="Linje"/>
+<phrase i="12166" t="Bytte mellom LTR eller RTL,&#xA; tekst som er lagt inn tidligere blir&#xA; slettet. Vil du fortsette?"/>
+<phrase i="12167" t="Skriftstørrelse"/>
+<phrase i="12168" t="Op. konsollpreferanser"/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Def. kortnummer - linje %d"/><!--Def. means define-->
+<phrase i="12170" t="Def. kortnummer - tast %d"/><!--Def. means define-->
+<phrase i="12171" t="samt.parkering"/>
+<phrase i="12172" t="Du må angi flere sifre… &#xA;Trykk OK for å gå videre når du er ferdig."/>
+<phrase i="12173" t="Pulserende"/>
+<phrase i="12174" t="Slett Al."/>
+<phrase i="12175" t="Slett Lis."/>
+<phrase i="12176" t="Vil du slette alle oppføringer?"/>
+<phrase i="12177" t="Visningsmodus"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Ekst."/>
+<phrase i="12179" t="Både"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Wi-Fi-konfigurasjon"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Wi-Fi-enhet ikke funnet."/>
+<phrase i="12182" t="Trådløs profil"/>
+<phrase i="12183" t="Wi-Fi-beskyttet oppsett"/>
+<phrase i="12184" t="Trådløs status"/>
+<phrase i="12185" t="Grunnleggende konfigurasjon"/>
+<phrase i="12186" t="Sikkerhetsmodus"/>
+<phrase i="12187" t="Krypteringskonfigurasjon"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Bånd"/>
+<phrase i="12190" t="WPA-kryptering"/>
+<phrase i="12191" t="Delt-nøkkel-format"/>
+<phrase i="12192" t="WPA-nøkkel"/>
+<phrase i="12193" t="WEP-autentiseringstype"/>
+<phrase i="12194" t="WEP-nøkkellengde"/>
+<phrase i="12195" t="WEP-nøkkel"/>
+<phrase i="12196" t="Profil"/>
+<phrase i="12197" t="PIN-konfigurasjon"/>
+<phrase i="12198" t="Trådløs PIN konfigurasjon har begynnt!"/>
+<!--phrase i="12199" t="For enheter som krever en PIN-kode skal du skrive følgende nummer: [%s], og velg denne modusen."/-->
+<phrase i="12200" t="Trådløs skanning..."/>
+<phrase i="12201" t="Velg en profil"/>
+<phrase i="12202" t="Konfigurering med knapp"/>
+<phrase i="12203" t="Start på trådløs trykknappkonfigurasjon"/>
+<phrase i="12204" t="Wi-Fi-beskyttet oppsett"/>
+<phrase i="12205" t="Trådløs status"/>
+<phrase i="12206" t="Nettverksnavn(SSID)"/>
+<phrase i="12207" t="Signalstyrke"/>
+<phrase i="12208" t="søk"/>
+<phrase i="12209" t="Du må oppgradere til den siste versjonen av WBPN-fastvaren for å bruke denne funksjonen."/>
+<phrase i="12210" t="Gjestepålogging"/>
+<phrase i="12211" t="gjestInn"/>
+<phrase i="12212" t="gjestUt"/>
+<phrase i="12213" t="(Gjest inn)"/> 
+<phrase i="12214" t="Alle parametre vil bli tilbakestilt til fabrikkstandardverdier. Fortsett?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>

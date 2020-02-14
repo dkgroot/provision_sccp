@@ -1,0 +1,1686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Hebrew</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion></trkTranslationVersion>
+
+<!-- #############  #SCCP BOOT message  #############-->
+<phrase i="L_S_INIT" t="מפעיל את המערכת...."/>
+<phrase i="L_S_NET" t="מאתחל רשת...."/>
+<phrase i="L_S_DOWNLOAD" t="מוריד"/>
+<phrase i="L_S_UPGRADE" t="משדרג ל-"/>
+<phrase i="L_S_UPGRADEFAILED" t="השדרוג נכשל."/>
+<phrase i="L_S_RESYNC" t="מסנכרן מחדש ל-"/>
+<phrase i="L_S_RESYNCFAILED" t="סינכרון מחדש נכשל"/>
+<phrase i="L_S_CONNECT" t="מתחבר..."/>
+<phrase i="L_S_NOCME" t="שגיאה: UCxxx לא נמצא. פנה למנהל המערכת."/>
+<phrase i="L_S_REGTOKENREJECT" t="אסימון רישום SPCP נפסל. מנסה שוב...."/>
+<phrase i="L_S_REGISTERING" t="רושם...."/>
+<phrase i="L_S_REGISTERED" t="הרישום הושלם."/>
+<phrase i="L_S_REGREJECT" t="הרישום נפסל."/>
+<phrase i="L_S_REGFAILED" t="הרישום נכשל."/>
+
+<!-- #############  #dial screen  #############-->
+<phrase i="L_DS_ENTERNUMBER" t="הזן מספר"/>
+<phrase i="L_DS_ENTER_CFWDALL" t="הזן מספר להעברת כל השיחות"/>
+<phrase i="L_DS_ENTER_CFWDBUSY" t="הזן מספר להעברת שיחות כשתפוס"/>
+<phrase i="L_DS_ENTER_NOANS" t="הזן מספר להעברת שיחות כשאין תשובה"/>
+<phrase i="L_DS_ENTER_BXFER" t="הזן יעד להעברת שיחה עיוורת"/>
+<phrase i="L_DS_ENTER_PARK" t="הזן מספר לחניה"/>
+<phrase i="L_DS_ENTER_UNPARK" t="הזן מספר לביטול חניה"/>
+<phrase i="L_DS_ENTER_REFERRAL" t="הזן יעד לשירות הפניה"/>
+<phrase i="L_DS_ENTER_SPECIAL" t="הזן יעד לשירות מיוחד"/>
+<phrase i="L_DS_ENTER_MORE" t="הזן ספרות נוספות"/>
+<phrase i="L_DS_ENTER_PICKUP" t="הזן מספר לחטיפה"/>
+<phrase i="L_DS_ENTER_PICKUPGROUP" t="הזן קבוצה למענה"/>
+<phrase i="L_DS_ENTER_PAGE" t="הזן יעד זימון"/>
+<phrase i="L_DS_ENTER_OUTSIDENUMBER" t="הזן מספר חיצוני"/>
+<phrase i="L_DS_ENTER_ACCOUNTCODE" t="הזן קוד חשבון"/>
+
+<!-- #############  #call screen #############-->
+<phrase i="L_CAPPN_LINE" t="קו"/>
+<phrase i="L_READY" t="מוכן"/>
+<phrase i="L_CAPPN_UNREGISTERED" t="רישום בוטל"/>
+<phrase i="L_CAPPN_DISABLED" t="מושבת"/>
+<phrase i="L_CAPPN_SPEEDDIAL" t="חיוג מהיר"/>
+<phrase i="L_CAPPN_APP" t="יישום"/>
+<phrase i="L_CAPPN_URL" t="כתובת URL של השירות"/>
+<phrase i="L_CAPPN_FEAT" t="תכונה"/>
+<phrase i="L_CAPPN_EXTFUNC" t="פונקציה מורחבת"/>
+<phrase i="L_CAPPN_HOTELING_GUESTIN" t="מוכן לאורח"/>
+<phrase i="CALL_RINGING" t="מצלצל"/>
+<phrase i="L_CONNECTED" t="מחובר"/>
+<phrase i="L_NOT_CONNECTED" t="לא מחובר"/>
+<phrase i="L_OK" t="אישור"/>
+<phrase i="L_DUPLICATED" t="כפול"/>
+<phrase i="CALL_HOLDING" t="בהשהיה"/>
+<phrase i="CALL_END" t="השיחה הסתיימה"/>
+<phrase i="CALL_CALLING" t="מתקשר"/>
+<phrase i="CALL_SEIZED" t="נתפס"/>
+<phrase i="CALL_TRYING_TO_HOLD" t="מנסה להשהות"/>
+<phrase i="CALL_DIALING" t="מחייג"/>
+<phrase i="CALL_TRYING_TO_RESUME" t="מנסה לחדש"/>
+<phrase i="CALL_SHARE" t="שיתוף שיחה"/>
+<phrase i="CALL_PAGE" t="זימון"/>
+<phrase i="CALL_PICKUP" t="חטיפת שיחה"/>
+<phrase i="CALL_PICKUPCALL" t="חטוף שיחה"/>
+<phrase i="CALL_PICKUPFAILED" t="חטיפת השיחה נכשלה."/>
+<phrase i="CALL_PICKUP_NULL" t="אין שיחות מצלצלות."/>
+<phrase i="CALL_GPICKUP" t="חטיפת שיחה קבוצתית"/>
+<phrase i="CALL_GPICKUPSTATION" t="חטיפת תחנה"/>
+<phrase i="CALL_ANSWERING" t="מענה"/>
+<phrase i="CALL_UNKNOWN" t="לא ידוע"/>
+<phrase i="CALL_ANONYMOUS" t="אנונימי"/>
+<phrase i="CALL_USER" t="משתמש"/>
+<phrase i="CALL_IDLE" t="לא פעיל"/>
+<phrase i="CALL_PROGRESSING" t="מתקדם"/>
+<phrase i="CALL_ALERT" t="מתריע"/>
+<phrase i="CALL_ACTIVE" t="פעיל"/>
+<phrase i="CALL_HELD" t="בהשהיה"/>
+<phrase i="CALL_BRIDGE_ACTIVE" t="גשר פעיל"/>
+<phrase i="CALL_BRIDGE_HELD" t="גשר בהשהיה"/>
+<phrase i="CALL_FROM" t="מ-"/>
+<phrase i="CALL_TO" t="אל"/>
+<phrase i="CALL_CALLBACK" t="התקשרות חזרה"/>
+<phrase i="CALL_FORWARD" t="העברה"/>
+<phrase i="CALL_XFERTO" t="העבר אל"/>
+<phrase i="CALL_PAGEFROM" t="זימון מ-"/>
+<phrase i="CALL_PAGETO" t="זימון עד"/>
+<phrase i="CALL_BY" t="עד"/>
+<phrase i="CALL_CALLER" t="מתקשר"/>
+<phrase i="CALL_BUSY" t="תפוס"/>
+<phrase i="CALL_CONGESTION" t="עומס"/>
+<phrase i="CALL_PROCEED" t="המשך"/>
+<phrase i="CALL_RML" t="ריבוי קווים מרוחק בשימוש"/>
+<phrase i="CALL_INVALIDNUM" t="מספר לא חוקי"/>
+<phrase i="CALL_INVALID" t="לא חוקי"/>
+<phrase i="L_GATHERINFO" t="אוסף מידע..."/>
+<phrase i="L_FAILED" t="נכשל"/>
+<phrase i="L_Empty" t="ריק"/>
+<phrase i="L_DND" t="נא לא להפריע"/>
+<phrase i="L_CFWD" t="שיחות הועברו"/>
+<phrase i="L_CFWDTO" t="העברת שיחות אל"/>
+<phrase i="L_MissedCall" t="שיחה 1 חדשה שלא נענתה"/>
+<phrase i="L_MissedCalls" t="שיחות חדשות שלא נענו"/>
+<phrase i="L_RingCallList" t="רשימת שיחות מצלצלות"/>
+<phrase i="L_RingStationList" t="רשימת תחנות מצלצלות"/>
+<phrase i="L_SECS_INVALID_PARKINGLOT" t="מספר חניה לא חוקי.\r הזן מספר חניה מחדש."/>
+<phrase i="L_SECS_LOGIN_OK" t="הכניסה הצליחה."/>
+<phrase i="L_SECS_LOGIN_FAILED" t="הכניסה נכשלה. \rאמת את מזהה המשתמש \rוהסיסמה."/>
+<phrase i="L_SECS_ACD_AVAIL_FAILED" t="עדכון זמינות מערכת ניהול תורים נכשל."/>
+<phrase i="L_SECS_ACD_AVAIL_OK" t="עדכון זמינות מערכת ניהול תורים הצליח."/>
+<phrase i="L_SECS_ACD_PROGRESS" t="פונה לשרת מערכת ניהול תורים...."/>
+<phrase i="L_SECS_ACD_LOGIN_WARNING" t="הזן מזהה משתמש וסיסמה."/>
+<phrase i="L_SECS_HOTELING_PROGRESS" t="יוצר קשר עם שרת Hoteling...."/>
+<phrase i="L_SECS_HOTELING_OK" t="כניסת Hoteling בוצעה בהצלחה."/>
+<phrase i="L_SECS_HOTELING_FAILED" t="כניסת Hoteling נכשלה."/>
+<phrase i="L_ACD_LoginForm" t="צורת כניסה למערכת ניהול תורים"/>
+<phrase i="L_TRANSFERRING" t="מעביר"/>
+<phrase i="L_XFERFAILED" t="ההעברה נכשלה"/>
+<phrase i="L_LineSeizing" t="מנסה לתפוס קו"/>
+<phrase i="L_GatheringCallInfo" t="אוסף פרטי שיחה"/>
+<phrase i="L_SelectingCall" t="בוחר שיחה"/>
+<phrase i="L_SelectingStation" t="בוחר תחנה"/>
+<phrase i="L_ContactingStunServer" t="פונה לשרת STUN"/>
+<phrase i="L_CalledPartyRinging" t="צלצול לצד שהתקשר"/>
+<phrase i="L_TryingHold" t="מנסה להשהות"/>
+<phrase i="L_TringResume" t="מנסה לחדש"/>
+<phrase i="L_StunIn" t="כניסת STUN"/>
+<phrase i="L_Shared" t="משותף"/>
+<phrase i="L_Conference" t="ועידה"/>
+<phrase i="L_SecureCallIndication" t="חיווי שיחה מאובטחת"/>
+<phrase i="L_SystemBeep" t="צפצוף מערכת"/>
+<phrase i="L_2ndDial" t="חיג שני"/>
+<phrase i="L_OutsideDial" t="חיוג חיצוני"/>
+<phrase i="L_BluetoothDial" t="חיוג Bluetooth"/>
+<phrase i="L_MessageWaiting" t="הודעה ממתינה"/>
+<phrase i="L_RingBack" t="צלצל חזרה"/>
+<phrase i="L_OffhookWarning" t="אזהרת שפופרת מורמת"/>
+<phrase i="L_Ring" t="צלצול"/>
+<phrase i="L_Alert" t="התראה"/>
+<phrase i="L_Ring_hold" t="צלצול - השהיה"/>
+<phrase i="L_Ring_Callback" t="צלצול - התקשרות חזרה"/>
+<phrase i="L_Inbound" t="שיחה נכנסת"/>
+<phrase i="L_Outbound" t="שיחה יוצאת"/>
+<phrase i="L_Forwarded" t="שיחה שהועברה"/>
+<phrase i="L_Transfered" t="הועברה"/>
+<phrase i="L_Secure" t="שמור"/>
+<phrase i="L_CallsList" t="רשימת שיחות"/>
+<phrase i="L_InvalidAcntCode" t="קוד חשבון לא חוקי"/>
+<phrase i="L_ServiceUnavailable" t="השירות אינו זמין"/>
+<phrase i="L_Avail" t="זמין"/>
+<phrase i="L_Unavail" t="לא זמין"/>
+<phrase i="L_Wrap" t="סיכום"/>
+<phrase i="L_Via" t="דרך"/>
+<phrase i="L_CALL_DTMF_WAIT" t="ממתין להזנת ספרות נוספות...\rבסיום הקש על אישור להמשך."/>
+<phrase i="L_CALL_PARKED" t="שיחה חונה"/>
+<phrase i="L_TO" t="אל"/>
+<phrase i="L_Hoteling_LoginForm" t="טופס כניסת Hoteling"/>
+
+<!-- #############  #Phone booth related  #############-->
+<phrase i="CALL_OTHERINUSE" t="בשימוש"/>
+<phrase i="CALL_OTHERRESERVED" t="שמור"/>
+<phrase i="CALL_OTHERIDLE" t="לא פעיל אחר"/>
+<phrase i="CALL_OTHERNOSERV" t="אין שירות"/>
+<phrase i="CALL_OTHERHOLD" t="השהיה אחרת"/>
+<phrase i="CALL_OTHERRING" t="צלצול אחר"/>
+
+<!-- #############  #sts call history  #############-->
+<phrase i="T_AB_STSCH_ENTRY" t="סטטיסטיקת שיחות"/>
+<phrase i="T_AB_STSCH_LIST" t="סטטיסטיקת שיחות"/>
+<phrase i="L_Name" t="שם"/>
+<phrase i="L_WorkPhone" t="מספר בעבודה"/>
+<phrase i="L_HomePhone" t="מספר בבית"/>
+<phrase i="L_MobilePhone" t="מספר נייד"/>
+<phrase i="L_RingTone" t="צלצול"/>
+<phrase i="L_AT" t="ב -"/>
+<phrase i="L_PeerName" t="שם עמית"/>
+<phrase i="L_PeerNumber" t="טלפון עמית"/>
+<phrase i="L_CallType" t="סוג שיחה"/>
+<phrase i="L_CallDuration" t="משך שיחה"/>
+<phrase i="L_EncCodec" t="קידוד Codec"/>
+<phrase i="L_DecCodec" t="פענוח Codec"/>
+<phrase i="L_CallTime" t="שעת שיחה"/>
+<phrase i="L_CallID" t="מזהה שיחה"/>
+
+<!-- #############  # call park  #############-->
+<phrase i="L_CParkStatus" t="מצב חניית שיחה"/>
+<phrase i="T_AB_CALLPARK_LIST" t="רשימת חניות שיחה"/>
+<phrase i="L_ParkingAt" t="חונה ב-"/>
+<phrase i="L_ParkingBy" t="חונה עד"/>
+<phrase i="CPARK_PROGRESSING" t="קבלת מצב חניית שיחה מתבצעת..."/>
+<phrase i="CPARK_FAILED" t="בקשת מצב חניית שיחה נכשלה"/>
+<phrase i="CPARK_EMPTY" t="חניית שיחה ריקה"/>
+
+<!-- #############  #starcode page #############-->
+<phrase i="StarCodeSelection" t="בחירת קוד כוכבית"/>
+<phrase i="callReturnCode" t="החז. שיחה"/>
+<phrase i="blindXferCode" t="העברה עיוורת"/>
+<phrase i="callBackActCode" t="נסה שוב"/>
+<phrase i="callBackDeactCode" t="ביטול ניסיון חוזר"/>
+<phrase i="forwardAllActCode" t="העברת כל השיחות"/>
+<phrase i="forwardAllDeactCode" t="ביטול העברת כל השיחות"/>
+<phrase i="forwardBusyActCode" t="העברת שיחה כשתפוס"/>
+<phrase i="forwardBusyDeactCode" t="ביטול העברת שיחה כשתפוס"/>
+<phrase i="forwardNoAnsActCode" t="העברת שיחה כשאין תשובה"/>
+<phrase i="forwardNoAnsDeactCode" t="ביטול העברת שיחה כשאין תשובה"/>
+<phrase i="blockCIDActCode" t="חסימת מזהה מתקשר"/>
+<phrase i="blockCIDDeactCode" t="ביטול חסימת מזהה מתקשר"/>
+<phrase i="blockCIDPerCallActCode" t="חסימת מזהה מתקשר הבא"/>
+<phrase i="blockCIDPerCallDeactCode" t="ביטול חסימת מזהה מתקשר הבא"/>
+<phrase i="blockANCode" t="חסימת שיחות אנונימיות"/>
+<phrase i="blockANCDeactCode" t="ביטול חסימת שיחות אנונימיות"/>
+<phrase i="DNDActCode" t="נא לא להפריע"/>
+<phrase i="DNDDeactCode" t="ביטול נא לא להפריע"/>
+<phrase i="CIDActCode" t="מזהה מתקשר"/>
+<phrase i="CIDDeactCode" t="ביטול מזהה מתקשר"/>
+<phrase i="secureAllActCode" t="אבטחת כל השיחות"/>
+<phrase i="secureAllDeactCode" t="ביטול אבטחת כל השיחות"/>
+<phrase i="secureOneCallActCode" t="אבטחת הבא"/>
+<phrase i="secureOneCallDeactCode" t="ביטול אבטחת הבא"/>
+<phrase i="pagingCode" t="זימון"/>
+<phrase i="callParkCode" t="חניית שיחה"/>
+<phrase i="callUnparkCode" t="ביטול ח. ש."/>
+<phrase i="callPickupCode" t="חטיפת שיחה"/>
+<phrase i="groupCallPickupCode" t="חטיפת שיחה קבוצתית"/>
+<phrase i="mediaLoopBackCode" t="לולאת מדיה חוזרת"/>
+<phrase i="preferG711uCode" t="העדף G711U"/>
+<phrase i="forceG711uCode" t="אלץ G711U"/>
+<phrase i="preferG711aCode" t="העדף G711A"/>
+<phrase i="forceG711aCode" t="אלץ G711A"/>
+<phrase i="preferG723Code" t="העדף G723"/>
+<phrase i="forceG723Code" t="אלץ G723"/>
+<phrase i="preferG726r16Code" t="העדף G726r16"/>
+<phrase i="forceG726r16Code" t="אלץ G726r16"/>
+<phrase i="preferG726r24Code" t="העדף G726r24"/>
+<phrase i="forceG726r24Code" t="אלץ G726r24"/>
+<phrase i="preferG726r32Code" t="העדף G726r32"/>
+<phrase i="forceG726r32Code" t="אלץ G726r32"/>
+<phrase i="preferG726r40Code" t="העדף G726r40"/>
+<phrase i="forceG726r40Code" t="אלץ G726r40"/>
+<phrase i="preferG729aCode" t="העדף G729A"/>
+<phrase i="forceG729aCode" t="אלץ G729A"/>
+<phrase i="preferG722Code" t="העדף G722"/>
+<phrase i="forceG722Code" t="אלץ G722"/>
+<phrase i="preferL16Code" t="העדף L16"/>
+<phrase i="forceL16Code" t="אלץ L16"/>
+<phrase i="preferiLBCCode" t="העדף iLBC"/>
+<phrase i="forceiLBCCode" t="אלץ iLBC"/>
+
+<!-- #############  #status page #############-->
+<phrase i="L_UpTime" t="זמן שחלף"/>
+<!-- for up time: ex 1 day and 11:10:30 or 3 days and 03:01:01-->
+<phrase i="L_DAY_AND" t="יום ו-"/> 
+<phrase i="L_DAYS_AND" t="ימים ו-"/>
+<phrase i="L_Packets" t="(מנות)"/>
+<phrase i="L_Registered" t="רשום"/>
+<phrase i="L_notRegistered" t="לא רשום"/>
+<phrase i="L_notReachable" t="לא ניתן להגיע"/>
+<phrase i="L_Authenticate" t="אימות"/>
+<phrase i="L_Succeeded" t="הצליח"/>
+<phrase i="L_Error" t="שגיאה"/>
+<phrase i="L_LastRegAt" t="רישום אחרון ב-"/>
+<phrase i="L_NextRegIn" t="הרישום הבא ב-"/>
+<phrase i="L_Proxy" t="Proxy"/>
+<phrase i="L_Reason" t="סיבה"/>
+<phrase i="L_Status" t="מצב"/>
+<phrase i="L_XMLServices" t="שירותי XML"/>
+<phrase i="L_Tone" t="צליל"/>
+<phrase i="L_Type" t="סוג"/>
+<phrase i="L_Number" t="מספר"/>
+<phrase i="L_Enc" t="קידוד"/>
+<phrase i="L_Dec" t="פענוח"/>
+<phrase i="L_CALL" t="שיחה"/>
+<phrase i="L_INFO" t="פרטים"/>
+<phrase i="L_Extension" t="שלוחה"/>
+<phrase i="T_PHN_STATUS" t="מצב טלפון"/>
+<phrase i="T_PROV_STATUS" t="הקצאה"/>
+<phrase i="T_PHN_SYS_STATUS" t="מצב טלפון"/>
+<phrase i="L_Ext1Status" t="מצב שלוחה 1"/>
+<phrase i="L_Ext2Status" t="מצב שלוחה 2"/>
+<phrase i="L_Ext3Status" t="מצב שלוחה 3"/>
+<phrase i="L_Ext4Status" t="מצב שלוחה 4"/>
+<phrase i="L_Ext5Status" t="מצב שלוחה 5"/>
+<phrase i="L_Line1Status" t="מצב קו 1"/>
+<phrase i="L_Line2Status" t="מצב קו 2"/>
+<phrase i="L_Line3Status" t="מצב קו 3"/>
+<phrase i="L_Line4Status" t="מצב קו 4"/>
+<phrase i="L_Line5Status" t="מצב קו 5"/>
+<phrase i="DeletePrompt" t="האם ברצונך למחוק\r [%s]?"/>
+<phrase i="DeleteListPrompt" t="האם ברצונך למחוק את היסטוריית\r [%s]?"/>
+<phrase i="DeleteAllPrompt" t="האם ברצונך למחוק\r את כל ההקלטות?"/>
+<phrase i="AddPrompt" t="הזנת הנתונים לא הושלמה. \r האם ברצונך לשמור?"/>
+<phrase i="AddNullPrompt" t="הזנת הנתונים לא הושלמה. "/>
+<phrase i="AddFullPrompt" t="פנקס הכתובות מלא, \rלא ניתן להדביק את הערך."/>
+<phrase i="UpdatePrompt" t="הזנת הנתונים לא הושלמה. \r האם ברצונך לעדכן?"/>
+<phrase i="ClearPrompt" t="האם ברצונך לנקות \r הקלטה [%s]?"/>
+<phrase i="ClearString" t="האם ברצונך למחוק את \r [%s]?"/>
+<phrase i="Prompt_Logout" t="האם ברצונך להתנתק?"/>
+<phrase i="Message_Rebooting" t="מפעיל מחדש...."/>
+<phrase i="Message_FactoryReset" t="איפוס להגדרות יצרן\r מפעיל מחדש...."/>
+<phrase i="Message_RebootingVoIP" t="מרענן רכיב קול...."/>
+<phrase i="Message_CustomReset" t="איפוס התאמה אישית\r מפעיל מחדש...."/>
+<phrase i="All" t="כל השיחות"/>
+<phrase i="Answered" t="שיחות שהתקבלו"/>
+<phrase i="Outgoing" t="שיחות יוצאות"/>
+<phrase i="Missed" t="שיחות שלא נענו"/>
+<phrase i="AnsweredCallType" t="שיחה שהתקבלה"/>
+<phrase i="OutgoingCallType" t="שיחה שבוצעה"/>
+<phrase i="MissedCallType" t="שיחה שלא נענתה"/>
+<phrase i="GetNews" t="מקבל חדשות...."/>
+<phrase i="GetWeather" t="מקבל פרטי מזג אוויר...."/>
+<phrase i="Searching" t="מחפש..."/>
+<phrase i="Binding" t="מאגד..."/>
+<phrase i="CityAccessError" t="שגיאה בקבלת מידע על העיר\rעבור [%s]."/>
+<phrase i="NewsAccessError" t="נתוני התגובה גדולים מדי.\r שגיאה בקריאת מידע החדשות\r מאת [%s]."/>
+<phrase i="NewsAccessError1" t="שגיאה בקריאת מידע החדשות\r מאת [%s]."/>
+<phrase i="WeatherAccessError" t="שגיאה בקריאת נתוני מזג האוויר\r לעיר\r[%s]."/>
+<phrase i="WeatherSearchError" t="שגיאה בחיפוש מידע על\r העיר.\r בדוק את הרשת או\r את ערך הקלט."/>
+<phrase i="WeatherDupInfo" t="הערך שאתה מוסיף\r כבר קיים."/>
+<phrase i="RebootPrompt" t="האם ברצונך להפעיל מחדש\r את המערכת?"/>
+<phrase i="FactoryResetPrompt" t="האם ברצונך לבצע \r איפוס של המערכת להגדרות היצרן?"/>
+<phrase i="CustomResetPrompt" t="לחפש עדכונים \r לפרופיל ההתאמה האישית? \r (עבודה ברקע)"/>
+<phrase i="FirmwareUpgradePrompt" t="האם ברצונך לשדרג \r את המערכת?"/>
+<phrase i="MSG_InvalidPasswordData" t="הסיסמה אינה חוקית."/>
+<phrase i="Label_Day" t="יום"/>
+<phrase i="CertInstall" t="מותקן"/>
+<phrase i="CertNotInstall" t="לא מותקן"/>
+<phrase i="L_Network_Type" t="סוג רשת"/>
+<phrase i="L_Network_Statistics" t="סטטיסטיקת רשת"/>
+<phrase i="L_Address_Type" t="סוג מיעון"/>
+<phrase i="L_Gateway" t="נתב ברירת מחדל"/>
+<phrase i="L_MAC_Address" t="כתובת MAC"/>
+<phrase i="T_DEVICE_INFO" t="פרטי מוצר"/>
+<phrase i="L_Product_Name" t="שם המוצר"/>
+<phrase i="L_Serial_Number" t="מספר סידורי"/>
+<phrase i="L_Software_Version" t="גרסת תוכנה"/>
+<phrase i="L_Hardware_Version" t="גרסת חומרה"/>
+<phrase i="L_Certificate" t="אישור"/>
+<phrase i="L_CustomizationInfo" t="התאמה אישית"/>
+<phrase i="L_Asset_ID" t="מזהה נכס"/>
+<phrase i="L_DHCP_Server" t="שרת DHCP"/>
+<phrase i="L_TFTP_Server_1" t="שרת TFTP ‏1"/>
+<phrase i="L_Last_TFTP_Server" t="שרת TFTP אחרון"/>
+<phrase i="L_Host_Name" t="שם מארח"/>
+<phrase i="L_Domain_Name" t="דומיין"/>
+<phrase i="L_CallManager_1" t="CallManager 1"/>
+<phrase i="L_Directories_URL" t="כתובת URL של ספרי טלפונים"/>
+<phrase i="L_Services_URL" t="כתובת URL של השירותים"/>
+<phrase i="L_Messages_URL" t="כתובת URL של ההודעות"/>
+<phrase i="L_Authentication_URL" t="כתובת URL של אימות"/>
+<phrase i="L_User_Locale" t="אזור המשתמש"/>
+<phrase i="L_Network_Locale" t="אזור הרשת"/>
+<phrase i="L_Status_Messages" t="הודעות מצב"/>
+<phrase i="T_PERIPHERAL_STATUS" t="מצב הציוד ההיקפי"/>
+<phrase i="L_USB_Status" t="כונן USB"/>
+<phrase i="L_xmit" t="xmit"/>
+<phrase i="L_recv" t="recv"/>
+<phrase i="L_Multicast" t="mcst"/>
+<phrase i="L_EthPackets" t="Ethernet: מנות (בתים)"/>
+<phrase i="L_WiFiPackets" t="Wi-Fi: מנות (בתים)"/>
+
+<!-- Att Cons is Attendant Console -->
+<phrase i="L_Sidecar1_Status" t="מע. ניתוב שיחות 1"/>
+<phrase i="L_Sidecar2_Status" t="מע. ניתוב שיחות 2"/>
+<phrase i="L_DISCONNECTED" t="נותק"/>
+<phrase i="L_Wireless" t="רשת אלחוטית"/>
+<phrase i="L_Ethernet" t="Ethernet"/>
+<phrase i="L_KEY" t="מקש"/>
+
+<!-- #############  #label #############-->
+<phrase i="L_Yes" t="כן"/>
+<phrase i="L_No" t="לא"/>
+
+<!-- #############  #contact #############-->
+<phrase i="T_AB_Edit_Entry" t="ערוך ערך כתובת אישית"/>
+<phrase i="T_AB_Add_Entry" t="הוסף ערך כתובת אישית"/>
+<phrase i="T_AB_Search" t="חפש ערך כתובת"/>
+<phrase i="T_AB_Select" t="בחר ערך כתובת"/>
+
+<!-- #############  #callhistory #############-->
+<phrase i="L_TimeOfCall" t="שעת שיחה"/>
+<phrase i="T_CH_CallType" t="[% $n %]"/>
+<phrase i="T_CH_MissedCall" t="שיחה שלא נענתה"/>
+<phrase i="L_PhoneNo" t="מספר טלפון"/>
+<phrase i="L_CallAt" t="מועד השיחה"/>
+<phrase i="L_Duration" t="משך"/>
+
+<!-- #############  #speeddial #############-->
+<phrase i="T_SD_Edit_Entry" t="ערוך ערך חיוג מהיר"/>
+<phrase i="T_SD_List" t="רשימת חיוג מהיר"/>
+<phrase i="L_SpeedDialNo" t="מספר חיוג מהיר"/>
+
+<!-- #############  #ring tone #############-->
+<phrase i="T_RT_Select" t="בחר צלצול"/>
+<phrase i="T_RT_Select_USB" t="בחר צלצול מ-USB"/>
+<phrase i="T_RT_Select_Slot" t="בחר חריץ לשמירת צלצול"/>
+<phrase i="T_RT_Not_Installed" t="לא מותקן"/>
+<phrase i="T_RT_USER_1" t="משתמש 1"/>
+<phrase i="T_RT_USER_2" t="משתמש 2"/>
+
+<!-- #############  #Setting #############-->
+<phrase i="T_ST_Info" t="מידע והגדרות"/>
+<phrase i="T_ST_BlueTooth" t="תצורת Bluetooth"/>
+<phrase i="T_ST_BlueTooth_Plus" t="אוזניית Bluetooth"/>
+<phrase i="L_UserPref" t="העדפות משתמש"/>
+<phrase i="L_CallRecord" t="תצורת הקלטת שיחה"/>
+<phrase i="L_CallRecordMode" t="מצב הקלטת שמע"/>
+<phrase i="L_CallRecordAudioPath" t="נתיב הקלטת שמע"/>
+<phrase i="L_CallRecordBeep" t="תזכורת בצפצוף של הקלטה"/>
+<phrase i="L_CallRecords" t="הקלטות"/>
+<phrase i="L_CallRecordsPlayer" t="שיחות מוקלטות"/>
+<phrase i="L_Directory" t="ספרי טלפון"/>
+<phrase i="L_CallHistory" t="היסטוריית שיחות"/>
+<phrase i="L_SpeedDial" t="חיוגים מהירים"/>
+<phrase i="L_VideoMonitoring" t="ניטור וידאו"/>
+<phrase i="L_MP3Player" t="נגן MP3"/>
+<phrase i="L_PictureViewer" t="מציג תמונות"/>
+<phrase i="L_Messaging" t="העברת הודעות"/>
+<phrase i="L_WebApplication" t="יישומי אינטרנט"/>
+<phrase i="L_CMEServices" t="שירותי CME"/>
+<phrase i="L_CallPreferences" t="העדפות שיחה"/>
+<phrase i="L_ConnectionSetting" t="הגדרות חיבור"/>
+<phrase i="L_NetworkConfig" t="תצורת רשת"/>
+<phrase i="L_AudioPreferences" t="העדפות שמע"/>
+<phrase i="L_RingSetting" t="הגדרות צלצול"/>
+<phrase i="L_ScreenPreferences" t="העדפות מסך"/>
+<phrase i="L_Administration" t="ניהול התקן"/>
+<phrase i="T_ST_IP_Address" t="הגדרות כתובת IP סטטית"/>
+<phrase i="L_IPAddress" t="כתובת IP"/>
+<phrase i="L_SubnetMask" t="מסכת רשת משנה"/>
+<phrase i="L_GatewayAddress" t="כתובת שער"/>
+<phrase i="L_PrimaryDNS" t="DNS 1"/>
+<phrase i="L_SecondaryDNS" t="DNS 2"/>
+<phrase i="T_ST_Admin" t="ניהול"/>
+<phrase i="T_ST_PartitionList" t="בחר את המחיצה"/>
+<phrase i="L_About" t="אודות"/>
+<phrase i="L_SetPassword" t="הגדר סיסמה"/>
+<phrase i="L_DateTime" t="תאריך/שעה"/>
+<phrase i="L_Language" t="שפה"/>
+<phrase i="L_Reboot" t="הפעלה מחדש"/>
+<phrase i="L_FactoryReset" t="איפוס להגדרות יצרן"/>
+<phrase i="L_CustomReset" t="איפוס התאמה אישית"/>
+<phrase i="L_ProfileRule" t="כלל פרופיל"/>
+<phrase i="L_CallControlSettings" t="הגדרות בקרת שיחה"/>
+<phrase i="L_SignalingProtocol" t="פרוטוקול איתות"/>
+<phrase i="L_AutoDetectSPCP" t="SCCP של זיהוי אוטומטי"/>
+<phrase i="T_ST_Audio" t="הגדרות שמע"/>
+<phrase i="L_PrefAudioDevice" t="התקן שמע מועדף"/>
+<phrase i="L_SwapLRChannel" t="החלפת ערוץ ש/י"/>
+<phrase i="L_EnableStereo" t="סוג אוזניה"/>
+<phrase i="L_PhRingTone" t="צלצול ברירת מחדל"/>
+<phrase i="L_Ext1RingTone" t="שלוחה 1 - צלצול"/>
+<phrase i="L_Ext2RingTone" t="שלוחה 2 - צלצול"/>
+<phrase i="L_Ext3RingTone" t="שלוחה 3 - צלצול"/>
+<phrase i="L_Ext4RingTone" t="שלוחה 4 - צלצול"/>
+<phrase i="L_Ext5RingTone" t="שלוחה 5 - צלצול"/>
+<phrase i="T_ST_CallForward" t="הגדרות העברת שיחה"/>
+<phrase i="L_ForwardAllNumbers" t="מספר להעברת כל השיחות"/>
+<phrase i="L_ForwardBusyNumber" t="מספר להעברה כשתפוס"/>
+<phrase i="L_ForwardNoAnsNumber" t="מספר להעברה כשאין תשובה"/>
+<phrase i="L_ForwardNoAnsDelay" t="השהיה עד העברה כשאין תשובה"/>
+<phrase i="L_WiFiConfiguration" t="תצורת Wi-Fi"/>
+<phrase i="L_ConnectionType" t="סוג חיבור"/>
+<phrase i="L_Bluetooth" t="Bluetooth"/>
+<phrase i="L_Autoconnect" t="חיבור אוטומטי"/>
+<phrase i="L_Headset" t="אוזניות"/>
+<phrase i="L_WebServer" t="שרת אינטרנט"/>
+<phrase i="L_DiscoveryAddress" t="כתובת זיהוי"/>
+<phrase i="L_LVSAutoDiscovery" t="זיהוי אוטומטי של מערכת מפתח"/>
+<phrase i="L_LVSProxyAddress" t="כתובת IP של מערכת מפתח"/>
+<phrase i="L_DHCPOption" t="אפשרות DHCP לשימוש"/>
+<phrase i="L_TranProtocol" t="פרוטוקול הובלה"/>
+<phrase i="L_NetworkStatus" t="מצב רשת"/>
+<phrase i="L_RebootHistory" t="היסטוריית הפעלה מחדש"/>
+<phrase i="L_IPStatus" t="מצב IP"/>
+<phrase i="T_ST_SetTime" t="הגדרת שעה נוכחית"/>
+<phrase i="L_AB" t="פנקס כתובות אישי"/>
+<phrase i="L_XMLDirectory" t="מדריך טלפון ארגוני (XML)"/>
+<phrase i="L_LDAPDirectory" t="מדריך טלפון ארגוני (LDAP)"/>
+<phrase i="L_LVSDirectory" t="מדריך טלפון ארגוני"/>
+<phrase i="L_BroadsoftDirectory" t="מדריך Broadsoft"/>
+<phrase i="L_XMLService" t="שירותי XML של Cisco"/>
+<phrase i="T_ST_CallHistories" t="היסטוריית שיחות"/>
+<phrase i="T_ST_Language" t="בחירת שפה"/>
+<phrase i="T_ST_Password" t="הגדר סיסמה"/>
+<phrase i="L_OldPassword" t="סיסמה ישנה"/>
+<phrase i="L_NewPassword" t="סיסמה חדשה"/>
+<phrase i="L_ReEnterNewPassword" t="הזן סיסמה חדשה שוב"/>
+<phrase i="L_CallForwarding" t="העברת שיחות"/>
+<phrase i="L_CallWaiting" t="שיחה ממתינה"/>
+<phrase i="L_VoiceMail" t="תא קולי"/>
+<phrase i="L_BlockCallerID" t="חסימת מזהה מתקשר"/>
+<phrase i="L_BlockAnonymCall" t="חסימת שיחה אנונימית"/>
+<phrase i="L_SecureCall" t="שיחה מאובטחת"/>
+<phrase i="L_DialAssist" t="סיוע בחיוג"/>
+<phrase i="L_AutoAnswerPage" t="זימון מענה אוטומטי"/>
+<phrase i="L_MissCallShortCut" t="קיצור דרך לשיחה שלא נענתה"/>
+<phrase i="L_MissCallBanner" t="התראה על שיחה שלא נענתה"/>
+<phrase i="L_EnabledScreenSaver" t="שומר מסך"/>
+<phrase i="L_Constrast" t="בהירות תצוגה"/>
+<phrase i="L_WallPaper" t="טפט"/>
+<phrase i="L_Theme" t="ערכת נושא"/>
+<phrase i="T_ST_ScreenSaver" t="הגדרות שומר מסך"/>
+<phrase i="L_ScreenSaverType" t="סוג שומר מסך"/>
+<phrase i="L_TriggerInterval" t="מרווח זמן להפעלה (שניות)"/>
+<phrase i="L_RefreshInterval" t="מרווח זמן לרענון (שניות)"/>
+<phrase i="L_BackLight" t="תאורת רקע"/>
+<phrase i="L_BackLightTimer" t="קוצב זמן לתאורת רקע (שניות)"/>
+<phrase i="L_Contrast" t="בהירות"/>
+<phrase i="T_StarCodeList" t="בחר קוד כוכבית"/>
+<phrase i="T_Select_Image" t="בחר תמונה"/>
+<phrase i="T_ST_Time" t="הגדרות שעה"/>
+<phrase i="L_TimeZone" t="אזור זמן"/>
+<phrase i="L_DayLightSaving" t="שעון קיץ"/>
+<phrase i="L_AutomaticMode" t="מצב אוטומטי"/>
+<phrase i="L_NTPServer1" t="שרת 1 NTP"/>
+<phrase i="L_NTPServer2" t="שרת 2 NTP"/>
+<phrase i="L_SetCurrentTimeManually" t="הגדר שעה נוכחית באופן ידני"/>
+<phrase i="T_ST_TimeZone" t="בחר אזור זמן"/>
+<phrase i="T_ST_VPN" t="הגדרות VPN"/>
+<phrase i="L_VPNServer" t="שרת VPN"/>
+<phrase i="L_UserName" t="שם משתמש"/>
+<phrase i="L_VPNTunnelGroup" t="קבוצת מנהרה"/>
+<phrase i="L_VPNStatus" t="מצב VPN"/>
+<phrase i="L_ConnectOnBootup" t="התחבר באתחול"/>
+<phrase i="L_Connect" t="אפשר חיבור"/>
+<phrase i="L_Weather" t="מזג אוויר"/>
+<phrase i="L_News" t="חדשות"/>
+<phrase i="L_City" t="עיר"/>
+<phrase i="L_ZipCode" t="מיקוד"/>
+<phrase i="L_CityZipCode" t="עיר או מיקוד"/>
+<phrase i="T_WeatherSearch" t="הזן שם עיר או מיקוד"/>
+<phrase i="T_WeatherList" t="רשימת ערים"/>
+<phrase i="T_WeatherInfo" t="פרטי מזג אוויר"/>
+<phrase i="L_LastUpdateOn" t="עדכון אחרון ב- "/>
+<phrase i="L_CurrentCondition" t="המצב כרגע:"/>
+<phrase i="L_Forecast" t="תחזית:"/>
+<phrase i="T_NewsCategories" t="קטגוריות חדשות"/>
+<phrase i="T_NewsCategory" t="[% $category %]"/>
+<phrase i="L_DHCP_Address_Released" t="כתובת DHCP ששוחרר"/>
+<phrase i="L_Erase_Config" t="מחק תצורה"/>
+<phrase i="L_Alternate_TFTP" t="TFTP חלופי"/>
+<phrase i="L_WebServerWritable" t="שרת אינטרנט מאפשר כתיבה"/>
+<phrase i="M_ABEmpty" t="פנקס הכתובות ריק."/>
+<phrase i="M_ABDuplicate" t="כל הרשומות זהות."/>
+<phrase i="M_InvalidVLAN" t="מזהה VLAN [%d] לא חוקי.\rהערך צריך להיות \rבין 1 ל-4094."/>
+<phrase i="M_InvalidDataportVLAN" t="מזהה VLAN של יציאת PC [%d] לא חוקי.\rהערך צריך להיות \rבין 1 ל-4094."/>
+<phrase i="M_InvalidDataportPriority" t="עדיפות [%d] לא חוקית.\rהערך צריך להיות \rבין 0 ל-7."/>
+<phrase i="M_InvalidMAddr" t="כתובת זיהוי \r[%s] לא חוקית.\rעל הערך להיות במבנה \raaa.bbb.ccc.ddd:pppp"/>
+<phrase i="M_RebootInvalid" t="יש שיחות טלפון פעילות.\r אין אפשרות להפעיל מחדש."/>
+<phrase i="M_FactoryResetInvalid" t="יש שיחות טלפון פעילות.\r אין הרשאה לאפס להגדרות יצרן."/>
+<phrase i="M_CustomResetInvalid" t="יש שיחות טלפון פעילות.\r אין הרשאה לאפס התאמה אישית."/>
+<phrase i="M_OperationInvalid" t="יש שיחות טלפון פעילות.\r אין הרשאה לביצוע הפעולה."/>
+<phrase i="M_ProfileRuleInvalid" t="יש שיחות טלפון פעילות.\r אין הרשאה לסינכרון מחדש באמצעות\r כלל פרופיל."/>
+<phrase i="M_UpgradeStart" t="השדרוג החל."/>
+<phrase i="M_UpgradeInProgress" t="משדרג... אל תכבה."/>
+<phrase i="M_DownloadProgress" t="מוריד ערכי כתובת..."/>
+<phrase i="M_UpgradeCompleted" t="השדרוג הושלם."/>
+<phrase i="M_UpgradeAborted" t="המשתמש ביטל את השדרוג."/>
+<phrase i="M_UpgradeAbortedWithError" t="השדרוג בוטל בשל שגיאה."/>
+<phrase i="M_UpgradeCompletedReboot" t="השדרוג הושלם.\rמפעיל מחדש...."/>
+<phrase i="M_UpgradeAbortedWithErrorReboot" t="השדרוג בוטל בשל שגיאה.\rמפעיל מחדש..."/>
+<phrase i="T_ContactVcardFullAddressBook" t="פנקס הכתובות מלא, \rלא ניתן לייבא פריטי vcard."/>
+<phrase i="T_ContactVcardInvalid" t="תבנית vCard לא חוקית"/>
+<phrase i="T_Login_Form" t="צורת כניסה"/>
+<phrase i="L_Pending" t="בהמתנה"/>
+<phrase i="L_Customized" t="בהתאמה אישית"/>
+<phrase i="L_Open" t="פתוח"/>
+<phrase i="L_Hour" t="שעה"/>
+<phrase i="L_Minute" t="דקות"/>
+<phrase i="L_Second" t="שניות"/>
+<phrase i="L_HourShort" t="שעה"/>
+<phrase i="L_MinuteShort" t="דק'"/>
+<phrase i="L_SecondShort" t="שנ'"/>
+<phrase i="M_InvalidRefreshTime" t="זמן הרענון \r חייב להיות 1 או יותר."/>
+<phrase i="M_InvalidBackLightTime" t="זמן הפעלת תאורת הרקע \r חייב להיות 30 או יותר."/>
+<phrase i="M_InvalidScreenSaverTriggerTime" t="זמן הפעלת שומר המסך \r חייב להיות 30 או יותר."/>
+<phrase i="M_InvalidContrastLevel" t="על הבהירות להיות \r בין 1 ל-15."/>
+<phrase i="L_DeepBass" t="בס עמוק"/>
+<phrase i="L_HandsetVersion" t="גרסת שפופרת"/>
+<phrase i="L_ACD_AGENT_STATE" t="מצב סוכן מערכת ניהול תורים"/>
+<phrase i="L_Att_Cons_Pref" t="ניתוב שיחות העדפות מסוף"/>
+<phrase i="L_Attendant_Console_Pref" t="העדפות מסוף ניתוב שיחות"/>
+<phrase i="L_LCD_Contrast" t="ניגודיות"/>
+<phrase i="L_Font_Size" t="גודל גופן"/>
+<phrase i="L_Display_Mode" t="מצב תצוגה"/>
+<!-- #############  #LVS directory #############-->
+<phrase i="L_INTERNAL_DIR" t="מדריך טלפון פנימי"/>
+<phrase i="L_EXTERNAL_DIR" t="מדריך טלפון חיצוני"/>
+<phrase i="L_GROUPS_DIR" t="מדריך טלפון של קבוצות"/>
+<phrase i="L_STATIONS_DIR" t="מדריך טלפון של תחנות"/>
+<phrase i="L_Auto_Attnd" t="מערכת ניתוב שיחות"/>
+<phrase i="L_Int_Music" t="מוסיקה פנימית"/>
+<phrase i="L_ExternalMusic" t="מוסיקה חיצונית"/>
+<phrase i="L_Station" t="תחנה"/>
+<phrase i="L_PageGroup1" t="קבוצת זימון 1"/>
+<phrase i="L_PageGroup2" t="קבוצת זימון 2"/>
+<phrase i="L_PageGroup3" t="קבוצת זימון 3"/>
+<phrase i="L_PageGroup4" t="קבוצת זימון 4"/>
+<phrase i="L_PageGroup5" t="קבוצת זימון 5"/>
+<phrase i="L_Page_Grp" t="קבוצת זימון"/>
+<phrase i="L_ExternalPage" t="זימון חיצוני"/>
+<phrase i="L_CallPark" t="חניית שיחה"/>
+<phrase i="L_PickUp" t="חטיפה"/>
+
+<!-- #############  #LDAP #############-->
+<phrase i="LDAP_ORGANIZATION" t="ארגון"/>
+<phrase i="L_FirstName" t="שם פרטי"/>
+<phrase i="L_LastName" t="שם משפחה"/>
+<phrase i="LDAP_DISPLAY_NAME" t="שם"/>
+<phrase i="LDAP_TELEPHONE_NUMBER" t="טלפון בעבודה"/>
+<phrase i="LDAP_MOBILE_NUMBER" t="טלפון נייד"/>
+<phrase i="LDAP_ACCESS_ERROR" t="שגיאת LDAP: לא ניתן להתחבר\r לשרת"/>
+<phrase i="LDAP_InvalidInput" t="שגיאת LDAP: ערך קלט\r לא חוקי"/>
+<phrase i="LDAP_NoFilter" t="אנא הגדר מסנן."/>
+<phrase i="LDAP_TooManyResults" t="נמצאו יותר מדי התאמות,\r אנא מקד את החיפוש"/>
+<phrase i="LDAP_NoResult" t="לא נמצאה התאמה"/>
+<phrase i="NoRingTone" t="אין צלצול"/>
+<phrase i="S_Failed" t="החיפוש נכשל."/>
+<phrase i="S_Sys_Err" t="שגיאת מערכת."/>
+<phrase i="T_LDAP_ResultList" t="רשימת תוצאות במ. טלפונים ארגוני (LDAP)"/>
+<phrase i="T_LDAPQueryForm" t="מבנה שאילתה ל-LDAP"/>
+<phrase i="T_LDAPAddrEntry" t="ערך כתובת במדריך טלפונים ארגוני (LDAP)"/>
+<phrase i="T_LDAPQuery" t="שאילתה לשרת LDAP"/>
+<phrase i="L_SimpleSearch" t="חיפוש פשוט"/>
+<phrase i="L_AdvSearch" t="חיפוש מתקדם"/>
+
+<!-- #############  #Broadsoft #############-->
+<phrase i="BSDIR_ACCESS_ERROR" t="שגיאת מדריך Broadsoft:\r לא ניתן להתחבר לשרת."/>
+<phrase i="BSDIR_InvalidInput" t="שגיאת מדריך Broadsoft:\r ערך קלט לא חוקי."/>
+<phrase i="BSDIR_TooManyResults" t="נמצאו יותר מדי התאמות.\r אנא מקד את החיפוש."/>
+<phrase i="T_BSDIR_CONFIG" t="תצורת מדריך Broadsoft"/>
+<phrase i="T_BSDIR_SEARCH_PERSONAL" t="חיפוש במדריך טלפון אישי"/>
+<phrase i="T_BSDIR_SEARCH_GROUP" t="חיפוש במדריך טלפון קבוצתי"/>
+<phrase i="T_BSDIR_SEARCH_ENTERPRISE" t="חיפוש במדריך טלפון ארגוני"/>
+<phrase i="T_BSDIR_HTTP_AUTH_ERR" t="שגיאת אימות:\r אנא בדוק את הסיסמה."/>
+<phrase i="L_HOST_SERVER" t="שרת מארח"/>
+<phrase i="L_DIR_NAME" t="שם מדריך טלפון"/>
+<phrase i="T_Configure" t="קבע תצורה"/>
+
+<phrase i="T_BSDIR_SEARCH" t="חיפוש במדריך Broadsoft"/>
+<phrase i="T_SIMPLE_SEARCH" t="חיפוש פשוט"/>
+<phrase i="T_ADVANCED_SEARCH" t="חיפוש מתקדם"/>
+<phrase i="L_BSDIR_LNAME" t="שם משפחה"/>
+<phrase i="L_BSDIR_FNAME" t="שם פרטי"/>
+<phrase i="L_BSDIR_GROUPID" t="מזהה קבוצה"/>
+<phrase i="L_BSDIR_DEPT" t="מחלקה"/>
+<phrase i="L_BSDIR_ABRV_DEPT" t="מח'"/>
+<phrase i="L_BSDIR_EMAIL" t="דואר אלקטרוני"/>
+
+<phrase i="T_LVSDIR_REQ" t="מבקש מדריך LVS מהשרת..."/>
+<phrase i="T_LVSDIR_REQ_FAILED" t="בקשת מדריך LVS נכשלה."/>
+
+<!-- #############  #Softkey Labels #############-->
+<phrase i="S_ConfLx" t="קו ועידה"/>
+<phrase i="S_XferLx" t="קו העברה"/>
+<phrase i="S_Redial" t="חיוג חוזר"/>
+<phrase i="S_Contacts" t="ספריה"/>
+<phrase i="S_Forward" t="העבר"/>
+<phrase i="S_DND" t="נא לא להפריע"/>
+<phrase i="S_NForward" t="נקה העברה"/>
+<phrase i="S_NDND" t="נקה נ.ל.ל."/>
+<phrase i="S_LCR" t="החז. שיחה"/>
+<phrase i="S_Missed" t="לא נענו"/>
+<phrase i="S_Login" t="כניסה"/>
+<phrase i="S_Logout" t="התנתקות"/>
+<phrase i="S_Avail" t="זמין"/>
+<phrase i="S_UnAvail" t="לא זמין"/>
+<phrase i="S_UnPark" t="ביטול חנ."/>
+<phrase i="S_PickUp" t="חטיפה"/>
+<phrase i="S_Mobility" t="ניידות"/>
+<phrase i="S_GrPickup" t="חטיפה קב."/>
+<phrase i="S_NewCall" t="שיחה חדשה"/>
+<phrase i="S_Barge" t="הצטרפות"/>
+<phrase i="S_Resume" t="המשך"/>
+<phrase i="S_Answer" t="ענה"/>
+<phrase i="S_Hold" t="החזק"/>
+<phrase i="S_EndCall" t="סיים שיחה"/>
+<phrase i="S_Transfer" t="העברה"/>
+<phrase i="S_CONF" t="ועידה"/>
+<phrase i="S_BXfer" t="עיוורת .ה"/>
+<phrase i="S_Park" t="חניה"/>
+<phrase i="S_Join" t="צרף"/>
+<phrase i="S_Update" t="עדכן"/>
+<phrase i="S_Dial" t="חייג"/>
+<phrase i="S_delChar" t="מחק תו"/>
+<phrase i="S_AbbrDial" t="חיוג מקוצר"/>
+<phrase i="S_Back" t="חזור"/>
+<phrase i="S_Save" t="שמור"/>
+<phrase i="S_Delete" t="מחק"/>
+<phrase i="S_Add" t="הוסף"/>
+<phrase i="S_Option" t="אפשרות"/>
+<phrase i="S_EditDial" t="ערוך חיוג"/>
+<phrase i="S_EditDial1" t="ערוך חיוג"/>
+<phrase i="S_AddNew" t="הוסף חדש"/>
+<phrase i="S_Copy" t="העתק"/>
+<phrase i="S_Paste" t="הדבק"/>
+<phrase i="S_Search" t="חפש"/>
+<phrase i="S_Select" t="בחר"/>
+<phrase i="S_Default" t="ברירת מחדל"/>
+<phrase i="S_Add2SpeedDial" t="הוסף לחיוג מהיר"/>
+<phrase i="S_SendMessage" t="שלח הודעה"/>
+<phrase i="S_InputAll" t="הזן הכל"/>
+<phrase i="S_InputNum" t="הזן מספר"/>
+<phrase i="S_InputIP" t="הזן IP"/>
+<phrase i="S_InputHebrew" t="הזן עברית"/>
+<phrase i="S_InputStarCode" t="הזן קוד כוכבית"/>
+<phrase i="S_Clear" t="נקה"/>
+<phrase i="S_DeleteList" t="מחק רשימה"/>
+<phrase i="S_DeleteAll" t="מחק הכל"/>
+<phrase i="S_DeleteEntry" t="מחק ערך"/>
+<phrase i="S_Add2AB" t="הוסף לפנקס כתובות"/>
+<phrase i="S_Next" t="הבא"/>
+<phrase i="S_Zoom" t="זום"/>
+<phrase i="S_Previous" t="הקודם"/>
+<phrase i="S_Previous1" t="הקודם"/>
+<phrase i="S_Up" t="מעלה"/>
+<phrase i="S_Down" t="מטה"/>
+<phrase i="S_SelectFromAB" t="בחר מפנקס כתובות"/>
+<phrase i="S_Play" t="השמע"/>
+<phrase i="S_Exit" t="צא"/>
+<phrase i="S_Resync" t="סנכרן מחדש"/>
+<phrase i="S_SetTime" t="שמור"/>
+<phrase i="S_Set" t="הגדר"/>
+<phrase i="S_MoveUp" t="הזז מעלה"/>
+<phrase i="S_MoveDown" t="הזז מטה"/>
+<phrase i="S_Edit" t="ערוך"/>
+<phrase i="S_View" t="תצוגה"/>
+<phrase i="S_Enable_Disable" t="אפשר/השבת"/>
+<phrase i="S_Refresh" t="רענן"/>
+<phrase i="S_List" t="רשימה"/>
+<phrase i="S_Stop" t="עצור"/>
+<phrase i="S_AddList" t="הוסף רשימה"/>
+<phrase i="S_Scan" t="סרוק"/>
+<phrase i="S_Connect" t="התחבר"/>
+<phrase i="S_Disconnect" t="התנתק"/>
+<phrase i="S_ConnectAll" t="התחבר להכל"/>
+<phrase i="S_Detail" t="פירוט"/>
+<phrase i="S_Cancel" t="בטל"/>
+<phrase i="S_OK" t="אישור"/>
+<phrase i="S_Unpair" t="בטל צימוד"/>
+<phrase i="S_SelectAll" t="בחר הכל"/>
+<phrase i="S_ClearAll" t="נקה הכל"/>
+<phrase i="S_More" t="עוד"/>
+<phrase i="S_Format" t="תבנית"/>
+<phrase i="S_Monitor" t="נטר"/>
+<phrase i="S_VCARD" t="יבא"/> 
+<phrase i="S_FromUsb" t="מ-USB"/> 
+<phrase i="S_Retry" t="נסה שנית"/> 
+<phrase i="S_FLASH" t="Flash"/> 
+<phrase i="S_STARCODE" t="*קוד"/> 
+<phrase i="S_IP" t="IP"/> 
+<phrase i="S_NUM" t="מספר"/> 
+<phrase i="S_ALPHA" t="אלפא"/> 
+<phrase i="S_Audio" t="שמע"/> 
+<phrase i="S_Video" t="וידאו"/> 
+<phrase i="S_Call" t="שיחה"/> 
+<phrase i="S_Submit" t="שלח"/> 
+<phrase i="S_CallRecordStart" t="הקלט כעת"/> 
+<phrase i="S_CallRecordStop" t="עצור הקלטה"/> 
+<phrase i="S_Ignore" t="התעלם"/> 
+<phrase i="S_Override" t="דרוס"/>
+<phrase i="S_AState" t="מצב סוכן"/>
+<phrase i="S_HotelingGuestIn" t="GuestIn"/>
+<phrase i="S_HotelingGuestOut" t="GuestOut"/>
+<!-- #############  Option Labels #############-->
+<phrase i="OL_Fahrenheit" t="פרנהייט"/>
+<phrase i="OL_Celsius" t="צלזיוס"/>
+<phrase i="OL_MONO" t="מונו"/>
+<phrase i="OL_STEREO" t="סטריאו"/>
+<phrase i="OL_InProgress" t="מתבצע"/>
+<phrase i="OL_DnsResolution" t="זיהוי DNS"/>
+<phrase i="OL_NoServerName" t="אין שם שרת"/>
+<phrase i="OL_InvalidServer" t="שרת לא חוקי או מוגבל"/>
+<phrase i="OL_NoResources" t="המשאבים מוצו"/>
+<phrase i="OL_FileNotFound" t="הקובץ לא נמצא"/>
+<phrase i="OL_CorruptFile" t="קובץ פגום"/>
+<phrase i="OL_EncrptionKey" t="מפתח הצפנה"/>
+<phrase i="OL_InvalidURL" t="כתובת URL לא חוקית"/>
+<phrase i="OL_Phone" t="טלפון"/>
+<phrase i="OL_Handsfree" t="דיבורית"/>
+<phrase i="OL_Both" t="שניהם"/>
+<phrase i="OL_DownloadFailed" t="ההורדה נכשלה"/>
+<phrase i="OL_DownloadConflict" t="%d הערכים חדשים\r %d יש סתירה בין הערכים"/>
+<phrase i="OL_DownloadTypeError" t="Bluetooth אינו במצב דיבורית."/>
+<phrase i="OL_DownloadFull" t="פנקס הכתובות מלא, \rלא ניתן להוריד ערכים."/>
+<phrase i="OL_ParsingError" t="שגיאת ניתוח כלל"/>
+<phrase i="OL_Ended" t="הסתיים"/>
+<phrase i="OL_StaticIP" t="IP סטטית"/>
+<phrase i="OL_BlackBackground" t="רקע שחור"/>
+<phrase i="OL_GrayBackground" t="רקע אפור"/>
+<phrase i="OL_BlackGrayRotation" t="סבב שחור/אפור"/>
+<phrase i="OL_PictureRotation" t="סבב תמונות"/>
+<phrase i="OL_DigitalFrame" t="תמונה דיגיטלית"/>
+<phrase i="OL_DownloadPicture" t="הורד תמונה"/>
+<phrase i="OL_Clock" t="שעון"/>
+<phrase i="OL_Speaker" t="רמקול"/>
+<phrase i="OL_Headset" t="אוזניות"/>
+<phrase i="OL_Handset" t="שפופרת"/>
+<phrase i="OL_Ringer" t="צלצול"/>
+<phrase i="OL_LightBlue" t="תכלת"/>
+<phrase i="OL_LightGray" t="אפרפר"/>
+<phrase i="OL_LightGreen" t="ירקרק"/>
+<phrase i="OL_None" t="ללא"/>
+<phrase i="OL_Simple" t="פשוט"/>
+<phrase i="OL_PlainTLS" t="TLS פשוט"/>
+<phrase i="OL_64HEX" t="10 ספרות הקס'"/>
+<phrase i="OL_128HEX" t="26 ספרות הקס'"/>
+<phrase i="OL_64ASCII" t="5 תווי ascii"/>
+<phrase i="OL_128ASCII" t="13 תווי ascii"/>
+<phrase i="OL_Enterprise" t="ארגון"/>
+<phrase i="OL_Group" t="קבוצה"/>
+<phrase i="OL_Personal" t="אישי"/>
+<phrase i="OL_1" t="1"/>
+<phrase i="OL_2" t="2"/>
+<phrase i="OL_3" t="3"/>
+<phrase i="OL_4" t="4"/>
+<phrase i="OL_5" t="5"/>
+<phrase i="OL_Disabled" t="מושבת"/>
+<!-- Option Label for handset version(Rocky) -->
+<phrase i="OL_Auto" t="אוטומטי"/>
+<phrase i="OL_Original" t="מקורי"/>
+<phrase i="OL_v3" t="v3"/>
+<phrase i="OL_Name" t="שם"/>
+<phrase i="OL_Ext" t="שלוחה"/>
+<phrase i="OL_Both" t="שניהם"/>
+
+<!-- #############  COMPLETE VERIFICATION #############-->
+
+<!-- #############  #Wireless #############--> 
+<phrase i="T_WlanProfileList" t="בחר פרופיל"/>
+<phrase i="T_WlanScanList" t="בחר פרופיל להתחברות"/>
+<phrase i="T_WlanServerCaList" t="בחר קובץ כאישור שרת"/>
+<phrase i="T_WlanClientCaList" t="בחר קובץ כאישור לקוח"/>
+<phrase i="T_WlanProfileReplace" t="בחר פרופיל להחלפה"/>
+<phrase i="T_WlanWpsSelect" t="בחר מצב WPS"/>
+<phrase i="WirelessStatusDetail" t="פרטי תקשורת אלחוטית"/>
+<phrase i="T_Profile" t="פרופיל"/>
+<phrase i="T_WlanPartitionLsit" t="בחר מחיצה"/>
+<phrase i="L_InvalidProfile" t="פרופיל לא חוקי"/>
+<phrase i="L_Disable" t="השבת"/>
+<phrase i="L_WpaEnt" t="WPA ארגוני"/>
+<phrase i="L_Wpa2Ent" t="WPA2 ארגוני"/>
+<phrase i="L_Connection" t="חיבור"/>
+<phrase i="L_SecurityMode" t="מצב אבטחה"/>
+<phrase i="L_ProfileName" t="שם פרופיל"/>
+<phrase i="L_NetworkName" t="שם רשת (SSID)"/>
+<phrase i="L_CipherType" t="סוג צופן"/>
+<phrase i="L_KeyId" t="מפתח שידור שנקבע כברירת מחדל"/>
+<phrase i="L_KeyLen" t="אורך מפתח"/>
+<phrase i="L_Key1" t="מפתח 1"/>
+<phrase i="L_Key2" t="מפתח 2"/>
+<phrase i="L_Key3" t="מפתח 3"/>
+<phrase i="L_Key4" t="מפתח 4"/>
+<phrase i="L_PskKey" t="מפתח WPA משותף"/>
+<phrase i="L_EapType" t="סוג EAP"/>
+<phrase i="L_UserId" t="_מזהה משתמש"/>
+<phrase i="L_Password" t="סיסמה"/>
+<phrase i="L_CheckSvrCa" t="בדוק אישור שרת"/>
+<phrase i="L_On" t="פועל"/>
+<phrase i="L_Off" t="כבוי"/>
+<phrase i="L_LinkSignal" t="עוצמת אות"/>
+<phrase i="L_NoiseLevel" t="רמת רעש"/>
+<phrase i="L_Bssid" t="כתובת AP MAC קשורה"/>
+<phrase i="L_Frequency" t="תדירות"/>
+<phrase i="L_DataEncryption" t="הצפנת נתונים"/>
+<phrase i="L_EncryptionType" t="סוג הצפנה"/>
+<phrase i="L_TransmitRate" t="קצב שידור"/>
+<phrase i="L_Channel" t="ערוץ"/>
+<phrase i="L_RootCa" t="אישור בסיס"/>
+<phrase i="L_UserCa" t="אישור משתמש"/>
+<phrase i="L_UserCaPrivateKeyPwd" t="סיסמת מפתח פרטי"/>
+<phrase i="L_AnonyId" t="מזהה אנונימי"/>
+<phrase i="L_TtlsInnerProto" t="פרוטוקול TTLS פנימי"/>
+<phrase i="L_PeapInnerProto" t="פרוטוקול PEAP פנימי"/>
+<phrase i="L_WlanConfiguration" t="תצורת תקשורת אלחוטית"/>
+<phrase i="L_WlanWpsPbc" t="תצורת לחצן"/>
+<phrase i="L_WlanWpsPbcText1" t="בהתקנים עם לחצן הגדרת Wi-Fi מוגנת,"/>
+<phrase i="L_WlanWpsPbcText2" t="לחץ בהתקן על הלחצן"/>
+<phrase i="L_WlanWpsPbcText3" t="ואז בחר במצב זה."/>
+<phrase i="L_WlanWpsPin" t="תצורת קוד PIN"/>
+<phrase i="L_WlanWpsPinText1" t="בהתקנים המצריכים קוד PIN, הזן את"/>
+<phrase i="L_WlanWpsPinText2" t="המספר הבא: [%s], לאחר מכן"/>
+<phrase i="L_WlanWpsPinText3" t="בחר במצב זה."/>
+<phrase i="L_WlanProfile" t="פרופיל תקשורת אלחוטית"/>
+<phrase i="L_WlanAddCurrent" t="הוסף חיבור כפרופיל"/>
+<phrase i="L_WlanStatus" t="מצב תקשורת אלח."/>
+<phrase i="L_WlanWps" t="הגדרת Wi-Fi מוגנת"/>
+<phrase i="WlanMsgPfLock" t="פרופיל תקשורת אלחוטית נעול"/>
+<phrase i="WlanMsgPfNameLenNull" t="שם פרופיל לא חוקי"/>
+<phrase i="WlanMsgPfNameLenOver" t="שם פרופיל ארוך מדי"/>
+<phrase i="WlanMsgSssidLenNull" t="SSID לא חוקי"/>
+<phrase i="WlanMsgSssidLenOver" t="SSID ארוך מדי"/>
+<phrase i="WlanMsgWepNoValue" t="קבע מזהה מפתח כ-%d, שאין לו \r ערך מפתח."/>
+<phrase i="WlanMsgWepWrongLen" t="מפתח %d האורך לא חוקי."/>
+<phrase i="WlanMsgWepWrongHex" t="מפתח %d כולל ספרות שאינן בתבנית הקס'."/>
+<phrase i="WlanMsgPsKeyLenLess" t="מפתח WPA משותף קצר מדי."/>
+<phrase i="WlanMsgPsKeyLenOver" t="מפתח WPA משותף ארוך מדי"/>
+<phrase i="WlanMsgIdentityLenNull" t="זהות לא חוקית"/>
+<phrase i="WlanMsgIdentityLenOver" t="זהות ארוכה מדי"/>
+<phrase i="WlanMsgServerCaWrong" t="אישור שרת לא חוקי"/>
+<phrase i="WlanMsgClientCaWrong" t="אישור לקוח לא חוקי"/>
+<phrase i="WlanMsgPasswordLenNull" t="סיסמה לא חוקית"/>
+<phrase i="WlanMsgPasswordLenOver" t="סיסמה ארוכה מדי"/>
+<phrase i="WlanMsgAnonyIdLenNull" t="אין זהות אנונימית"/>
+<phrase i="WlanMsgAnonyIdLenOver" t="זהות אנונימית \r ארוכה מדי"/>
+<phrase i="WlanMsgOverMaxPFNum" t="הרשימה מלאה. האם ברצונך \rלהחליף פרופיל אחר?"/>
+<phrase i="WlanMsgUseWpsPbc" t="השתמש ב-WPS PBC כדי להתחבר"/>
+<phrase i="WlanMsgUseWpsPin" t="השתמש ב-WPS PIN כדי להתחבר"/>
+<phrase i="WlanNoProfileConnect" t="אין פרופיל קיים להתחברות"/>
+<phrase i="WlanNoScanProfileAdd" t="אין פרופיל סריקה להוספה"/>
+<phrase i="WlanProfileExistReplace" t="פרופיל עם SSID: %s \r כבר קיים. \r האם ברצונך להחליף פרופיל \r זה?"/>
+<phrase i="WlanNotEnable" t="Wi-Fi חייב להיות מופעל \r כדי להתחבר."/>
+<phrase i="WlanNotConnect" t="Wi-Fi לא התחבר, אין אפשרות \r להוסיף לרשימת פרופילים"/>
+<phrase i="WlanProfileExist" t="פרופיל עם SSID: [%s]\r כבר קיים."/>
+<phrase i="WlanNotInterface" t="Ethernet חייבת להיות מנותקת \r כדי להשתמש ב-Wi-Fi."/>
+<phrase i="WlanMsgAssociating" t="שיוך ל-SSID: [%s]"/>
+<phrase i="WlanMsgFailAssociation" t="שיוך ל-SSID נכשל: \r[%s] \rממשיך לנסות ברקע."/>
+<phrase i="WlanProfileAlreadyConnected" t="הפרופיל כבר מחובר."/>
+<phrase i="WlanWpsFailConnect" t="החיבור עם WPS נכשל \r וממשיך לנסות ברקע."/>
+<phrase i="WlanAddIntoProfile" t="האם ברצונך להוסיף הגדרה זו \r כפרופיל?"/>
+<phrase i="WlanScanning" t="מחפש תקשורת אלחוטית..."/>
+<phrase i="WlanWpsConnect" t="תצורת ה-WPS הושלמה.\r באפשרותך להוסיף את ההגדרה\r לפרופיל מהדף מצב תקשורת אלחוטית\r."/>
+<phrase i="WlanConnectAll1" t="האם ברצונך להשתמש ברשימת פרופילים \r כדי להתחבר?"/>
+<phrase i="WlanConnectAll2" t="האם ברצונך לנתק את \r החיבור הנוכחי ולהשתמש ברשימת פרופילים \r כדי להתחבר?"/>
+<phrase i="WlanMsgConnectAll" t="השתמש ברשימת פרופילים כדי להתחבר"/>
+<phrase i="WlanMsgFailConnectAll" t="ההתחברות נכשלה, ממשיך לנסות \r ברקע."/>
+<phrase i="WlanAddCurrent" t="האם ברצונך להוסיף את החיבור \r הנוכחי כפרופיל?"/>
+<phrase i="FileLengthOver" t="שם הקובץ ארוך מ-%d."/>
+<phrase i="WlanProfileConnectDisable" t="פרופיל Wi-Fi מושבת"/>
+<phrase i="WlanProfileEnable" t="האם ברצונך להפעיל \r פרופיל זה?"/>
+<phrase i="WlanProfileDisable" t="האם ברצונך להשבית \r פרופיל זה?"/>
+<phrase i="WlanEmptyScanningResult" t="אין תוצאת סריקה, אנא \r נסה שוב"/>
+
+<!-- #############  #MP3 #############-->
+<phrase i="T_MP3PlayList" t="בחר כותר"/>
+<phrase i="T_MP3SourceList" t="בחר כותר לרשימת ההשמעה"/>
+<phrase i="T_MP3PartitionList" t="בחר מחיצה להבאת שירים"/>
+<phrase i="MP3MsgOverMaxSongNum" t="הרשימה מוגבלת ל-%d ערכים."/>
+<phrase i="MP3MsgEntryNotExist" t="הערך לא קיים."/>
+<phrase i="MP3MsgAPendingCall" t="לא ניתן להשמיע מוסיקה במהלך שיחה."/>
+<phrase i="MP3MsgFileNameOverLen" t="%d שם הקבצים \r ארוך מ-%d."/>
+<phrase i="MP3MsgGetList" t="מביא רשימה מכונן USB...."/>
+<phrase i="MP3MsgSaveRing" t="שומר צלצול מכונן USB...."/>
+<phrase i="MP3MsgFileIllegle" t="תבנית הקובץ לא חוקית."/>
+<phrase i="MP3DeletePrompt" t="האם ברצונך למחוק את \r [%s]\r מרשימת ההשמעה?"/>
+<phrase i="MP3MsgSelectNull" t="לא נבחר שיר \r להוספה לרשימת ההשמעה."/>
+<phrase i="MP3MsgSelectOverMax" t="בחרת יותר מ-\r %d שירים!"/>
+<phrase i="MP3UsbFolderNotPresent" t="התיקייה '%s' לא קיימת. \rודא שישנם קובצי mp3 בתיקייה \r'mp3' בהתקן ה-USB."/>
+<phrase i="MP3UsbFileNotPresent" t="אין קובצי MP3 בתיקייה '%s'. \rודא שישנם קובצי mp3 בתיקייה \r'mp3' בהתקן ה-USB."/>
+<phrase i="MP3DeleteAllPrompt" t="האם ברצונך למחוק את \r כל השירים מרשימת ההשמעה?"/>
+<phrase i="MP3MsgCalcTime" t="מחשב את זמן ההשמעה..."/> 
+
+<!-- #############  #NetworkController #############-->
+<phrase i="NC_TITLE_WIRED" t="באמצעות Ethernet"/>
+<phrase i="NC_TITLE_WIRELESS" t="באמצעות תקשורת אלחוטית"/>
+<phrase i="NC_NOT_AVAILABLE" t="לא זמין"/>
+<phrase i="NC_L2_CONNECTING_WIRELESS" t="מתחבר ל-AP...."/>
+<phrase i="NC_L2_CONNECTING_WIRED" t="בודק חיבור ל-Ethernet...."/>
+<phrase i="NC_L2_FAIL_WIRELESS" t="החיבור לרשת האלחוטית נכשל."/>
+<phrase i="NC_L2_FAIL_WIRED" t="החיבור לרשת ה-Ethernet נכשל."/>
+<phrase i="NC_L2_CONNECTED_WIRELESS" t="החיבור לרשת האלחוטית תקין."/>
+<phrase i="NC_L2_CONNECTED_WIRED" t="החיבור לרשת ה-Ethernet תקין."/>
+<phrase i="NC_L3_CONNECTING_STATIC" t="השתמש ב-IP סטטית"/>
+<phrase i="NC_L3_CONNECTING_DHCP" t="מביא IP באמצעות DHCP..."/>
+<phrase i="NC_L3_CONNECTING_PPPOE" t="מביא IP באמצעות PPPOE..."/>
+<phrase i="NC_L3_FAIL_STATIC" t="הגדרת כתובת IP נכשלה."/>
+<phrase i="NC_L3_FAIL_DHCP" t="הבאת IP באמצעות DHCP נכשלה."/>
+<phrase i="NC_L3_FAIL_PPPOE" t="הבאת IP באמצעות PPPOE נכשלה."/>
+<phrase i="NC_L3_CONNECTED_STATIC" t="הגדר כתובת IP"/>
+<phrase i="NC_L3_CONNECTED_DHCP" t="הבא כתובת IP"/>
+<phrase i="NC_WAIT_VLAN_ID" t="מביא מזהה VLAN..."/>
+<phrase i="NC_NO_PROFILE_LIST" t="אין רשימת פרופילים"/>
+<phrase i="NC_VPN_CONNECTING" t="צור חיבור VPN."/>
+<phrase i="NC_VPN_CONNECTED" t="חיבור ה-VPN תקין."/>
+<phrase i="NC_VPN_FAILED" t="יצירת חיבור VPN נכשלה."/>
+
+<!-- #############  #USB #############-->
+<phrase i="UsbDeviceNotPresent" t="התקן ה-USB לא נמצא.\r אנא הכנס התקן USB \r לחריץ ה-USB שבטלפון."/>
+<phrase i="UsbFolderNotPresent" t="התיקייה '%s' \rלא קיימת."/>
+<phrase i="UsbFileNotPresent" t="אין קובץ בתיקייה \r'%s'."/>
+<phrase i="UsbFileNotPresent2" t="[%s]\rהקובץ לא קיים."/>
+<phrase i="UsbUnknownError" t="שגיאת USB לא ידועה"/>
+<phrase i="UsbPartitionName" t="מחיצה"/>
+<phrase i="UsbDevicePluged" t="התקן USB מחובר.\r אנא המתן רגע \rלהתקנת ההתקן."/>
+<!-- #############  #CRD_START #############-->
+<phrase i="UsbDeviceIsFullAndRestart" t="USB מלא כעת.\r הקלטת שיחה נעצרה.\r אנא חבר חדש\r והתחל להקליט מחדש."/>
+<phrase i="UsbDeviceIsFull" t="USB מלא כעת.\r אנא חבר חדש\r והתחל בהקלטה פעם נוספת."/>
+<phrase i="CallRecordMaxSingleFileReached" t="הגעת לאורך המרבי של הקלטה יחידה,\r אנא התחל הקלטה חדשה."/>
+<phrase i="CallRecordMaxFileNumberReached" t="הגעת למספר ההקלטות המרבי,\r אנא מחק חלק מההקלטות\r והתחל להקליט שוב."/>
+<phrase i="CallRecordListDeletePrompt" t="האמנם ברצונך למחוק הקלטה \r זו:"/>
+<phrase i="CallRecordListDeleteAllPrompt" t="האמנם ברצונך למחוק\r את כל ההקלטות?"/>
+<phrase i="CallRecordNameInvalid" t="שם קובץ הקלטת השיחה אינו חוקי."/>
+<phrase i="CallRecordLenInvalid" t="לא ניתן לחשב את אורך הקלטת השיחה."/>
+<phrase i="CallRecordFoldInvalid" t="ספריית הקלטות השיחה אינה חוקית."/>
+<phrase i="CallRecordUnknownError" t="שגיאה לא ידועה בהקלטת שיחה"/>
+<phrase i="CallRecordMsgAPendingCall" t="לא ניתן להשמיע הקלטה במהלך שיחה."/>
+
+<!-- #############  #Bluetooth #############-->
+<phrase i="BT_NotEnabled" t="Bluetooth חייב להיות מופעל\r לפני %s."/>
+<phrase i="BT_Discovering" t="גילוי %s מתבצע."/>
+<phrase i="BT_Discovered" t="%s התגלה."/>
+<phrase i="BT_DiscoveredFaild" t="%s שהתגלה נכשל."/>
+<phrase i="BT_DeviceNotFound" t="לא נמצא התקן Bluetooth."/>
+<phrase i="BT_Pairing" t="צימוד %s מתבצע."/>
+<phrase i="BT_Paired" t="%s צומד בהצלחה."/>
+<phrase i="BT_PairingFailed" t="הצימוד נכשל."/>
+<phrase i="BT_Abort" t="ההתחברות אל %s בוטלה."/>
+<phrase i="BT_UnPairPrompt" t="האם ברצונך להתנתק\r [%s]?"/>
+<phrase i="BT_PinCodePrompt" t="הזן קוד PIN."/>
+<phrase i="BT_ScanningPrompt" t="במצב סריקה.\r המתן 10 שניות והפעל שוב."/>
+<phrase i="BT_ConnectingPrompt" t="במצב התחברות,\r המתן 10 שניות והפעל שוב."/>
+<phrase i="BT_DownloadingPrompt" t="במצב הורדה,\r המתן דקה והפעל שוב."/>
+<phrase i="BT_CallActivePrompt" t="במצב שיחה פעילה,\r ממתין לסיום השיחה."/>
+<phrase i="BT_OP_FAIL" t="הפעולה נכשלה."/>
+<phrase i="BT_Dev_Connected" t="התקן כבר מחובר."/>
+<phrase i="BT_Search" t="סרוק לאיתור התקני Bluetooth"/>
+<phrase i="BT_Connecting_Dev" t="מחבר התקן Bluetooth "/>
+<phrase i="BT_HeadsetNamePrompt" t="חובה להזין שם אוזניה."/>
+<phrase i="BT_PhoneModeError" t="מצב הטלפון לא מסוגל להתחבר \r לטלפון נייד."/>
+<phrase i="BT_HandsfreeModeError" t="מצב הדיבורית לא יכול להתחבר \r לאוזניה."/>
+<phrase i="BT_DownloadUpdate" t="מעדכן פנקס כתובות אישי."/>
+<phrase i="BT_DownloadAddFull" t="פנקס הכתובות מלא, \rלא ניתן להוסיף ערכים שוב. \r הוסף %dערכים חדשים \rהתעלם %d מערכים חדשים"/>
+<phrase i="BT_DownloadConflictFull" t="פנקס הכתובות מלא, \rלא ניתן להוסיף ערכים שוב. \rעדכן %dערכים מתנגשים \rהוסף %dערכים חדשים \rהתעלם %d מערכים חדשים"/>
+<phrase i="BT_OverMaxProfileNum" t="הרשימה מלאה. האם ברצונך \rלהחליף פרופיל אחר?"/>
+<phrase i="T_BluetoothProfileList" t="בחר פרופיל Bluetooth"/>
+<phrase i="T_BluetoothProfilePlace" t="בחר פרופיל Bluetooth להחלפה"/>
+<phrase i="T_BTMode" t="מצב Bluetooth"/>
+<phrase i="T_BTProfile" t="פרופילי Bluetooth"/>
+<phrase i="T_BTHeadsetName" t="שם אוזניה"/>
+<phrase i="T_BTLoadPhoneBook" t="הורד ספר טלפונים"/>
+<phrase i="T_BTShowPhoneBook" t="הצג ספר טלפונים"/>
+<phrase i="T_BTChoosePair" t="בחר התקן Bluetooth לצימוד"/>
+<phrase i="T_BTEditProfile" t="ערוך פרופיל Bluetooth"/>
+<phrase i="L_BTDeviceName" t="שם מכשיר"/>
+<phrase i="L_BTPINCODE" t="קוד PIN"/>
+<phrase i="L_BTConnectAuto" t="התחבר אוטומטית"/>
+<phrase i="T_BTDownLoad" t="הורד"/>
+<phrase i="T_BTReplace" t="החלף"/>
+<phrase i="CALL_SERVNOTAVAIL" t="השירות אינו זמין"/>
+<phrase i="CALL_NETERR" t="שגיאת רשת"/>
+<phrase i="CALL_NORES" t="אין תגובה"/>
+<phrase i="CALL_PROTOERR" t="שגיאת פרוטוקול"/>
+<phrase i="CALL_NOLINE" t="אין קו"/>
+<phrase i="CALL_TIMEOUT" t="הזמן שהוקצב עבר"/>
+<phrase i="S_PHOLD" t="החזקה פרטית"/>
+<phrase i="CALL_PHELD" t="בהחזקה פרטית"/>
+<phrase i="S_IGNORE" t="התעלם"/>
+<phrase i="LINE_INUSE" t="בשימוש"/>
+<phrase i="CALL_SERVUNAVAIL" t="השירות אינו זמין"/>
+
+<!-- #############  DO NOT TRANSLATE FROM HERE ONWARD #############-->
+
+<!-- #############  MACROS #############-->
+<phrase i="URL_Dial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+<phrase i="URL_EditDial" t="Application_CallEditDial?number=%s&amp;name=%s&amp;lock=0"/>
+<phrase i="URL_SendMessage" t="Application_MsgSend?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToQuickDial" t="Application_SpeedDialAdd?number=%s&amp;name=%s"/>
+<phrase i="URL_AddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;name=%s"/>
+<phrase i="URL_BTAddToAB" t="Application_ContactAddToForm?workPhone=%s&amp;homePhone=%s&amp;mobilePhone=%s&amp;name=%s"/>
+<phrase i="URL_BTDial" t="Application_CallDial?number=%s&amp;name=%s&amp;keypress=%d&amp;lock=0"/>
+
+<!-- #############  TECHNICAL TERMS #############-->
+<phrase i="L_CAPPN_BLF" t="BLF"/>
+<phrase i="L_Radius" t="RADIUS"/>
+<phrase i="L_Ssid" t="SSID"/>
+<phrase i="L_Wep" t="WEP"/>
+<phrase i="L_WpaPsk" t="WPA PSK"/>
+<phrase i="L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="L_VPN" t="VPN"/>
+<phrase i="L_WiFi" t="Wi-Fi"/>
+<phrase i="L_PPPoE" t="PPPoE"/>
+<phrase i="Label_YYYY" t="YYYY"/>
+<phrase i="Label_MM" t="MM"/>
+<phrase i="Label_DD" t="DD"/>
+<phrase i="Label_hh" t="hh"/>
+<phrase i="Label_mm" t="mm"/>
+<phrase i="Label_ss" t="ss"/>
+<phrase i="L_Tls" t="TLS"/>
+<phrase i="L_Ttls" t="TTLS"/>
+<phrase i="L_Leap" t="LEAP"/>
+<phrase i="L_Peap" t="PEAP"/>
+<phrase i="L_QoS" t="QoS"/>
+<phrase i="L_Rx" t="Rx"/>
+<phrase i="L_Tx" t="Tx"/>
+<phrase i="L_CDP" t="CDP"/>
+<phrase i="L_LLDPMED" t="LLDP-MED"/>
+<phrase i="L_STARTUP_DELAY" t="השהיית הפעלה"/>
+<phrase i="L_VLAN" t="VLAN"/>
+<phrase i="L_VLANID" t="מזהה VLAN"/>
+<phrase i="L_VLAN_PRIPORITY" t="עדיפות VLAN"/>
+<phrase i="L_DATAPORT_VLAN" t="VLAN של יציאת PC"/>
+<phrase i="L_DATAPORT_VLANID" t="מזהה VLAN של יציאת PC"/>
+<phrase i="L_DATAPORT_PRIORITY" t="עדיפות של יציאת PC"/>
+<phrase i="OL_NO_LIMIT" t="ללא הגבלה"/>
+<phrase i="S_FDegree" t="°F"/>
+<phrase i="S_CDegree" t="°C"/>
+<phrase i="OL_DHCP" t="DHCP"/>
+<phrase i="OL_ID1" t="1"/>
+<phrase i="OL_ID2" t="2"/>
+<phrase i="OL_ID3" t="3"/>
+<phrase i="OL_ID4" t="4"/>
+<phrase i="OL_TKIP" t="TKIP"/>
+<phrase i="OL_AES" t="AES CCMP"/>
+<phrase i="OL_MD5" t="MD5"/>
+<phrase i="OL_MD5-Digest" t="MD5-Digest"/>
+<phrase i="OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="OL_MSCHAP" t="MSCHAP"/>
+<phrase i="OL_PAP" t="PAP"/>
+<phrase i="OL_CHAP" t="CHAP"/>
+<phrase i="OL_SIP" t="SIP"/>
+<phrase i="OL_SPCP" t="SCCP"/>
+
+<!-- #############  KEYMAP #############-->
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C "/>
+<phrase i="3852" t=" d e f 3 D E F "/>
+<phrase i="3853" t=" g h i 4 G H I "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O "/>
+<phrase i="3856" t=" p q r s 7 P Q R S "/>
+<phrase i="3857" t=" t u v 8 T U V "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+ 
+<!-- #############  #language #############-->
+<phrase i="L_English" t="אנגלית"/>
+<phrase i="L_English-US" t="אנגלית-ארהב"/>
+<phrase i="L_English-Canada" t="אנגלית-קנדה"/>
+<phrase i="L_English-Australia" t="אנגלית-אוסטרליה"/>
+<phrase i="L_English-Britain" t="אנגלית-בריטניה"/>
+<phrase i="L_English-NewZealand" t="אנגלית-ניו זילנד"/>
+<phrase i="L_French" t="צרפתית"/>
+<phrase i="L_French-Canada" t="צרפתית-קנדה"/>
+<phrase i="L_Spanish" t="ספרדית"/>
+<phrase i="L_Spanish-Mexico" t="ספרדית-מקסיקו"/>
+<phrase i="L_Italian" t="איטלקית"/>
+<phrase i="L_German" t="גרמנית"/>
+<phrase i="L_Norwegian" t="נורווגית"/>
+<phrase i="L_Portuguese" t="פורטוגזית"/>
+<phrase i="L_Polish" t="פולנית"/>
+<phrase i="L_Dutch" t="הולנדית"/>
+<phrase i="L_Swedish" t="שוודית"/>
+<phrase i="L_Russian" t="רוסית"/>
+<phrase i="L_Turkish" t="טורקית"/>
+<phrase i="L_Slovak" t="סלובאקית"/>
+<phrase i="L_Hungarian" t="הונגרית"/>
+<phrase i="L_Croatian" t="קרואטית"/>
+<phrase i="L_Bulgarian" t="בולגרית"/>
+<phrase i="L_Czech_Republic" t="צ'כית"/>
+<phrase i="L_Slovenian" t="סלובנית"/>
+<phrase i="L_Danish" t="דנית"/>
+<phrase i="L_Hebrew" t="עברית"/>
+
+<!-- #############  #Test Data #############-->
+<phrase i="DemoDataResetPrompt" t="האם ברצונך להעתיק \r נתוני הדגמה?"/>
+<phrase i="DemoDataClearPrompt" t="האם ברצונך לנקות \r נתוני הדגמה?"/>
+
+<!-- #############  #Web Page Message #############-->
+<phrase i="S_Pg_Title" t="Cisco IP Phone"/>
+<phrase i="S_Pg_FirmwareUpgrade" t="Firmware Upgrade"/>
+<phrase i="S_Pg_Voice" t="Voice"/>
+<phrase i="S_Pg_Com_CR" t="Copyright"/>
+<phrase i="S_Pg_Com_Year" t="1992-2013"/>
+<phrase i="S_Pg_Com_Cisco" t="Cisco Systems, Inc."/>
+<phrase i="S_Pg_Com_AR" t="All Rights Reserved."/>
+<phrase i="S_Pg_Com_Model" t="IP Phone SPA525G2"/>
+<phrase i="S_Pg_WiFi_Confg" t="Wi-Fi Device"/>
+<phrase i="S_Pg_WiFi_Enable" t="Wireless Enable"/>
+<phrase i="S_Pg_WiFi_Status" t="Wireless Status"/>
+<phrase i="S_Pg_WPS" t="Wi-Fi Protected Setup"/>
+<phrase i="S_Pg_Table_Yes" t="Yes"/>
+<phrase i="S_Pg_Table_No" t="No"/>
+<phrase i="S_Pg_BT_Status" t="Bluetooth Status"/>
+<phrase i="S_Pg_BT_History" t="Bluetooth Profiles"/>
+<phrase i="S_Pg_Upgrade_File" t="Upgrade File Select"/>
+<phrase i="S_Pg_Upgrade_Warning" t="Warning"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg1_1" t="Firmware Upgrade may take a few "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_1" t="minutes. Please do not turn off the "/>
+<phrase i="S_Pg_Upgrade_Warning_Msg2_2" t="power or press the reset button."/>
+<phrase i="S_Pg_Warning_Assign" t="Assign to :"/>
+<phrase i="S_Pg_Warning_Choose" t="Choose :"/>
+<phrase i="S_Pg_WiFi_Profile_Name" t="Wi-Fi Profile Name"/>
+<phrase i="S_Pg_Table_Priority" t="Priority"/>
+<phrase i="S_Pg_Table_Order" t="Order"/>
+<phrase i="S_Pg_Table_Edit" t="Edit"/>
+<phrase i="S_Pg_WPS_Desp" t="Choose one of the following methods:"/>
+<phrase i="S_Pg_PBC" t="1. Push Button Configuration"/>
+<phrase i="S_Pg_PBC_Desp1" t="Press the WPS button on your router."/>
+<phrase i="S_Pg_PBC_Desp2" t="Then press the WPS button on the right."/>
+<phrase i="S_Pg_Pin" t="2. PIN Configuration"/>
+<phrase i="S_Pg_Pin_Desp1" t="If your device ask for the PIN, enter the number "/>
+<phrase i="S_Pg_Pin_Desp2" t=" in your router, and press the [Connect] button on the right."/>
+<phrase i="S_Pg_WiFi_Survey" t="Searching Available Sites"/>
+<phrase i="S_Pg_WiFi_Wait" t="Please Wait"/>
+<phrase i="S_Pg_WiFi_MAC" t="MAC Address"/>
+<phrase i="S_Pg_WiFi_Channel" t="Channel"/>
+<phrase i="S_Pg_WiFi_Signal" t="Signal Level"/>
+<phrase i="S_Pg_WiFi_Mode" t="Mode"/>
+<phrase i="S_Pg_BT_Download" t="Download the phone book to Personal Address Book"/>
+<phrase i="S_Pg_BT_Dlok" t="Download successfully, "/>
+<phrase i="S_Pg_BT_Dlfail" t="Download failure, back to Bluetooth page"/>
+<phrase i="S_Pg_BT_PAB" t="Redirect to Personal Address Book"/>
+<phrase i="S_Pg_BT_Entry_Add" t=" entries were added, "/>
+<phrase i="S_Pg_BT_Entry_Discard" t=" entries were discarded"/>
+<phrase i="S_Pg_BT_No_Entry" t="Not found any address book entry in the mobile phone"/>
+<phrase i="S_Pg_BT_LCD_BUSY" t="Download address book action is now processing in LCD GUI side"/>
+<phrase i="S_Pg_BT_Entry_Identical" t="All entries were identical with Personal Address Book, no data to be added"/>
+<phrase i="S_Pg_BT_Override" t=" entries were override, "/>
+<phrase i="S_Pg_BT_Bk_Cf_lst" t="Back to the Conflict List"/>
+<phrase i="S_Pg_BT_replace" t=" Check the checkbox to override the conflict entry to the Personal Address Book."/>
+<phrase i="S_Pg_BT_Class" t="Bluetooth Type"/>
+<phrase i="S_Pg_BT_MAC" t="Bluetooth MAC"/>
+<phrase i="S_Pg_BT_Device" t="Bluetooth Device Name"/>
+<phrase i="S_Pg_Cont_BT_Dev_Scan" t="Scanning for Bluetooth devices...."/>
+<phrase i="S_Pg_BT_Pin_Code_Note" t="Enter the PIN of the Bluetooth device."/>
+<phrase i="S_Pg_SpdDial_No" t="NO."/>
+<phrase i="S_Pg_WiFi_Note" t="Note:"/>
+<phrase i="S_Pg_WiFi_Max_Profile" t="Allows 3 Wi-Fi Profiles"/>
+<phrase i="S_Pg_Cont_Waiting" t="Wait..."/>
+<phrase i="S_Pg_Cont_WiFi_Profile" t="Connecting Wireless Profile...."/>
+<phrase i="S_Pg_Cont_SSID" t="Connecting SSID "/>
+<phrase i="S_Pg_Cont_BT_Dev" t="Connecting Bluetooth Device "/>
+<phrase i="S_Pg_CallHist_No" t="Phone Number"/>
+<phrase i="S_Pg_CallHist_CID" t="Caller ID"/>
+<phrase i="S_Pg_CallHist_STime" t="Start Time"/>
+<phrase i="S_Pg_CallHist_ETime" t="End Time"/>
+<phrase i="S_Pg_CallHist_Type" t="Call History Type"/>
+<phrase i="S_Pg_WiFi_Add_New" t="Add New Wi-Fi Profile"/>
+<phrase i="S_Pg_WiFi_SiteSurvey" t="Site Survey"/>
+<phrase i="S_Pg_Btn_Remove" t="Remove"/>
+<phrase i="S_Pg_Btn_Save" t="Submit All Changes"/>
+<phrase i="S_Pg_Btn_Cancel" t="Cancel Settings"/>
+<phrase i="S_Pg_WiFi_Rescan" t="Re-Scan"/>
+<phrase i="S_Pg_Btn_Close" t="Close"/>
+<phrase i="S_Pg_Upgrade_Window" t="Firmware Upgrade Window"/>
+<phrase i="S_Pg_Upgrade_Submit" t="Submit"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth Devices"/>
+<phrase i="S_Pg_Warning_Comfirm" t="Confirm"/>
+<phrase i="S_Pg_WiFi_Subject" t="Warning ! IP address may be changed after Wi-Fi reconnection"/>
+<phrase i="S_Pg_WiFi_Msg1" t="Webpage may not be available after"/>
+<phrase i="S_Pg_WiFi_Msg2" t="Wi-Fi reconnection. Press the [Close]"/>
+<phrase i="S_Pg_WiFi_Msg3" t="button to close this webpage."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg3" t="Before upgrading the firmware, download the IP Phone firmware upgrade file"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg4" t="from the Cisco website."/>
+<phrase i="S_Pg_Upgrade_Warning_Msg5" t="Extract the file and"/>
+<phrase i="S_Pg_Upgrade_Warning_Msg6" t="press the firmware upgrade button."/>
+<phrase i="S_Pg_Btn_Modify" t="Modify"/>
+<phrase i="S_Pg_status_no_connection" t="No connection"/>
+<phrase i="S_Pg_status_download_webpage" t="Address book is in progress from\r webpage"/>
+<phrase i="S_Pg_status_connected" t="connected"/>
+<phrase i="S_Pg_ErrMsg_01" t="Invalid ASCII code."/>
+<phrase i="S_Pg_ErrMsg_02" t="Space Not Allowed."/>
+<phrase i="S_Pg_ErrMsg_03" t="Illegal characters [must be 0 - 9 ]."/>
+<phrase i="S_Pg_ErrMsg_04" t="Value out of range."/>
+<phrase i="S_Pg_ErrMsg_05" t="Must input passphrase."/>
+<phrase i="S_Pg_ErrMsg_06" t="Illegal hexadecimal digits."/>
+<phrase i="S_Pg_ErrMsg_07h" t="WEP key must contain "/>
+<phrase i="S_Pg_ErrMsg_07t" t=" chars."/>
+<phrase i="S_Pg_ErrMsg_08" t="Valid key is between 8 and 63 ASCII characters."/>
+<phrase i="S_Pg_ErrMsg_09" t="Port number must be between 0 and 65535."/>
+<phrase i="S_Pg_ErrMsg_10" t="Password Not Valid."/>
+<phrase i="S_Pg_ErrMsg_11" t="Static IP and gateway cannot be in different subnet."/>
+<phrase i="S_Pg_ErrMsg_12" t="Select a file to upgrade."/>
+<phrase i="S_Pg_ErrMsg_13" t="Incorrect image file."/>
+<phrase i="S_Pg_ErrMsg_14" t="Must input PIN"/>
+<phrase i="S_Pg_ErrMsg_15" t="Caution: You have reached the maximum number of profiles"/>
+<phrase i="S_Pg_ErrMsg_16" t="You have reached the maximum number of profiles."/>
+<phrase i="S_Pg_ErrMsg_17" t="You must remove a profile to"/>
+<phrase i="S_Pg_ErrMsg_18" t="add a new profile into the preferred profile list."/>
+<phrase i="S_Pg_ErrMsg_19" t="Press [Back] to go back."/>
+<phrase i="S_Pg_ErrMsg_20" t="Caution: You have reached maximum number of accounts"/>
+<phrase i="S_Pg_ErrMsg_21" t="You have reached maximum number of accounts."/>
+<phrase i="S_Pg_ErrMsg_22" t="Remove some of the entries."/>
+<phrase i="S_Pg_ErrMsg_23" t="Select an available Speed Dial field to"/>
+<phrase i="S_Pg_ErrMsg_24" t="add the current Personal Directory entry."/>
+<phrase i="S_Pg_ErrMsg_25" t="Push [Confirm] button to apply the"/>
+<phrase i="S_Pg_ErrMsg_26" t="setting or [Back] button to go back."/>
+<phrase i="S_Pg_ErrMsg_27" t=""/>
+<phrase i="S_Pg_ErrMsg_28" t="Cautions"/>
+<phrase i="S_Pg_ErrMsg_29" t="The characters for the 64-bits WEP"/>
+<phrase i="S_Pg_ErrMsg_30" t="encryption, Each key must be"/>
+<phrase i="S_Pg_ErrMsg_31" t="10 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_32" t="press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_33" t="The characters for the 128-bit WEP"/>
+<phrase i="S_Pg_ErrMsg_34" t="26 hexadecimal characters in length."/>
+<phrase i="S_Pg_ErrMsg_35" t="Shared Key for WPA-PSK and"/>
+<phrase i="S_Pg_ErrMsg_36" t="WPA2-PSK must contain 8 - 32 characters."/>
+<phrase i="S_Pg_ErrMsg_37" t="Press [Back] to go back"/>
+<phrase i="S_Pg_ErrMsg_38" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_39" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_40" t="Extension Name of Certificate for"/>
+<phrase i="S_Pg_ErrMsg_41" t="Root or Server must be .cer."/>
+<phrase i="S_Pg_ErrMsg_42" t="Verify the extension name again."/>
+<phrase i="S_Pg_ErrMsg_43" t="User Certificate must be .pfx."/>
+<phrase i="S_Pg_ErrMsg_44" t="Invalid Certificate."/>
+<phrase i="S_Pg_ErrMsg_45" t="Verify again."/>
+<phrase i="S_Pg_ErrMsg_46" t="Phone number must be numeric."/>
+<phrase i="S_Pg_ErrMsg_47" t="Enter Pin."/>
+<phrase i="S_Pg_ErrMsg_48" t="Wireless profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_49" t="SSID name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_50" t="User ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_51" t="Password cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_52" t="Select the root cetificate file."/>
+<phrase i="S_Pg_ErrMsg_53" t="Select the user cetificate file."/>
+<phrase i="S_Pg_ErrMsg_54" t="Anonymous ID cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_55" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_56" t="Invalid email format."/>
+<phrase i="S_Pg_ErrMsg_57" t="You must select the item before removing."/>
+<phrase i="S_Pg_ErrMsg_58" t="Camera profile name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_59" t="Remote IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_60" t="Remote port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_61" t="RTP port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_62" t="Name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_63" t="Work phone cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_64" t="LDAP Server IP address cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_65" t="LDAP Server port cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_66" t="LDAP field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_67" t="LCD field name cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_68" t="Illegal phone number format."/>
+<phrase i="S_Pg_ErrMsg_69" t="All WEP key fields cannot be empty."/>
+<phrase i="S_Pg_ErrMsg_70" t="Selected default transmit \r WEP key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_71" t="WPA shared key cannot be empty"/>
+<phrase i="S_Pg_ErrMsg_72" t="Work phone cannot be empty before adding to speed dial."/>
+<phrase i="S_Pg_ErrMsg_73" t="Invalid root certificate file."/>
+<phrase i="S_Pg_ErrMsg_74" t="Invalid user certificate file."/>
+<phrase i="S_Pg_ErrMsg_75" t="The SSID is the same as Profile"/>
+<phrase i="S_Pg_ErrMsg_76" t=".\n Press [OK] button to replace profile "/>
+<phrase i="S_Pg_ErrMsg_77" t=" with new profile,\n or press [Cancel] button."/>
+<phrase i="S_Pg_ErrMsg_78" t="Do you want to remove this page of Personal Address Book entries?"/>
+<phrase i="S_Pg_ErrMsg_79" t="Do you want to remove this page of Call History entries?"/>
+<phrase i="S_Pg_ErrMsg_80" t="Do you want to remove this page of Received Calls?"/>
+<phrase i="S_Pg_ErrMsg_81" t="Do you want to remove this page of Placed Calls?"/>
+<phrase i="S_Pg_ErrMsg_82" t="Do you want to remove this page of Missed Calls?"/>
+<phrase i="S_Pg_ErrMsg_83" t="Do you want to remove all Bluetooth History entries?"/>
+<phrase i="S_Pg_ErrMsg_84" t="Do you want to remove all Wi-Fi Profile entries?"/>
+<phrase i="S_Pg_ErrMsg_85" t="Do you want to remove selected Personal Address Book entries?"/>
+<phrase i="S_Pg_ErrMsg_86" t="Do you want to remove selected Call History entries?"/>
+<phrase i="S_Pg_ErrMsg_87" t="Do you want to remove selected Received Calls?"/>
+<phrase i="S_Pg_ErrMsg_88" t="Do you want to remove selected Placed Calls?"/>
+<phrase i="S_Pg_ErrMsg_89" t="Do you want to remove selected Missed Calls?"/>
+<phrase i="S_Pg_ErrMsg_90" t="Do you want to remove selected Bluetooth History entries?"/>
+<phrase i="S_Pg_ErrMsg_91" t="Do you want to remove selected Wi-Fi Profile entries?"/>
+<phrase i="S_Pg_ErrMsg_92" t="Illegal characters [must be 0 - 9, a-z, A-Z ]. ?"/>
+<phrase i="S_Pg_ErrMsg_93" t="Wi-Fi must be enabled to connect."/>
+<phrase i="S_Pg_ErrMsg_94" t="Ethernet must be disconnected to use Wi-Fi."/>
+<phrase i="S_Pg_ErrMsg_95" t="Do you want to enable the the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_96" t="Do you want to disable the Wi-Fi profile ?"/>
+<phrase i="S_Pg_ErrMsg_97" t="Do you want download the phone book from Bluetooth device to Personal Address Book ?"/>
+<phrase i="S_Pg_ErrMsg_98" t="Do you really override all conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_99" t="Do you really override selected conflict entries ?"/>
+<phrase i="S_Pg_ErrMsg_100" t="You must select the item before override."/>
+<phrase i="S_Pg_ErrMsg_101" t="It only allow maximum 3 BT connect histories."/>
+<phrase i="S_Pg_ErrMsg_102" t="LCD GUI is implementing Bluetooth searching feature."/>
+<phrase i="S_Pg_ErrMsg_103" t="Select an available Speed Dial field to add the current Personal Directory entry. Push [Confirm] button to apply the setting or [Back] button to go back."/>
+
+<phrase i="S_Pg_C_L_WiFi" t="Wi-Fi"/>
+<phrase i="S_Pg_C_L_Bluetooth" t="Bluetooth"/>
+<phrase i="S_Pg_C_L_AB" t="Personal Address Book"/>
+<phrase i="S_Pg_C_L_CallHistory" t="Call History"/>
+<phrase i="S_Pg_C_L_SpeedDial" t="Speed Dials"/>
+<phrase i="S_Pg_C_Btn_Update" t="Update"/>
+<phrase i="S_Pg_C_WiFi_Profile" t="Wi-Fi Profile"/>
+<phrase i="S_Pg_C_L_On" t="On"/>
+<phrase i="S_Pg_C_L_Off" t="Off"/>
+<phrase i="S_Pg_C_BT_Confg" t="Bluetooth Device"/>
+<phrase i="S_Pg_C_BT_Dev_List" t="Bluetooth Device List"/>
+<phrase i="S_Pg_C_L_Ssid" t="SSID"/>
+<phrase i="S_Pg_C_L_SecurityMode" t="Security Mode"/>
+<phrase i="S_Pg_C_L_CipherType" t="Cipher Type"/>
+<phrase i="S_Pg_C_L_KeyId" t="Default Transmit Key"/>
+<phrase i="S_Pg_C_L_KeyLen" t="Key Length"/>
+<phrase i="S_Pg_C_L_Key1" t="Key 1"/>
+<phrase i="S_Pg_C_L_Key2" t="Key 2"/>
+<phrase i="S_Pg_C_L_Key3" t="Key 3"/>
+<phrase i="S_Pg_C_L_Key4" t="Key 4"/>
+<phrase i="S_Pg_C_OL_64HEX" t="10 hex digits"/>
+<phrase i="S_Pg_C_OL_128HEX" t="26 hex digits"/>
+<phrase i="S_Pg_C_OL_64ASCII" t="5 ascii characters"/>
+<phrase i="S_Pg_C_OL_128ASCII" t="13 ascii characters"/>
+<phrase i="S_Pg_C_OL_TKIP" t="TKIP"/>
+<phrase i="S_Pg_C_OL_AES" t="AES CCMP"/>
+<phrase i="S_Pg_C_L_PskKey" t="WPA Shared Key"/>
+<phrase i="S_Pg_C_L_RootCa" t="Root Certificate"/>
+<phrase i="S_Pg_C_L_UserCa" t="User Certificate"/>
+<phrase i="S_Pg_C_L_UserCaPrivateKeyPwd" t="Password of Private Key"/>
+<phrase i="S_Pg_C_L_TtlsInnerProto" t="TTLS Inner Protocol"/>
+<phrase i="S_Pg_C_L_PeapInnerProto" t="PEAP Inner Protocol"/>
+<phrase i="S_Pg_C_OL_MD5" t="MD5"/>
+<phrase i="S_Pg_C_OL_MSCHV2" t="MSCHAPv2"/>
+<phrase i="S_Pg_C_OL_MSCHAP" t="MSCHAP"/>
+<phrase i="S_Pg_C_OL_PAP" t="PAP"/>
+<phrase i="S_Pg_C_OL_CHAP" t="CHAP"/>
+<phrase i="S_Pg_C_L_UserId" t="User ID"/>
+<phrase i="S_Pg_C_L_Password" t="Password"/>
+<phrase i="S_Pg_C_L_ProfileName" t="Profile Name"/>
+<phrase i="S_Pg_C_S_Add" t="Add"/>
+<phrase i="S_Pg_C_L_BTConnectAuto" t="Connect Automatically"/>
+<phrase i="S_Pg_C_L_BTPINCODE" t="Pin"/>
+<phrase i="S_Pg_C_L_Name" t="Name"/>
+<phrase i="S_Pg_C_L_PhoneNo" t="Phone No"/>
+<phrase i="S_Pg_C_L_WorkPhone" t="Work No"/>
+<phrase i="S_Pg_C_L_MobilePhone" t="Mobile No"/>
+<phrase i="S_Pg_C_L_HomePhone" t="Home No"/>
+<phrase i="S_Pg_C_L_RingTone" t="Ring Tone"/>
+<phrase i="S_Pg_C_L_Duration" t="Duration"/>
+<phrase i="S_Pg_C_S_Back" t="Back"/>
+<phrase i="S_Pg_C_T_AB_Add_Entry" t="Add Personal Address Entry"/>
+<phrase i="S_Pg_C_S_Previous" t="Prev"/>
+<phrase i="S_Pg_C_S_Next" t="Next"/>
+<phrase i="S_Pg_C_S_Connect" t="Connect"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Wep" t="WEP"/>
+<phrase i="S_Pg_C_L_WpaPsk" t="WPA PSK"/>
+<phrase i="S_Pg_C_L_Wpa2Psk" t="WPA2 PSK"/>
+<phrase i="S_Pg_C_L_WpaEnt" t="WPA Enterprise"/>
+<phrase i="S_Pg_C_L_Wpa2Ent" t="WPA2 Enterprise"/>
+<phrase i="S_Pg_C_L_Radius" t="RADIUS"/>
+<phrase i="S_Pg_C_L_EapType" t="EAP Type"/>
+<phrase i="S_Pg_C_L_Tls" t="TLS"/>
+<phrase i="S_Pg_C_L_Ttls" t="TTLS"/>
+<phrase i="S_Pg_C_L_Leap" t="LEAP"/>
+<phrase i="S_Pg_C_L_Peap" t="PEAP"/>
+<phrase i="S_Pg_C_L_AnonyId" t="Anonymous ID"/>
+<phrase i="S_Pg_C_L_CheckSvrCa" t="Check Server Certificate"/>
+<phrase i="S_Pg_C_Answered" t="Received Calls"/>
+<phrase i="S_Pg_C_Outgoing" t="Placed Calls"/>
+<phrase i="S_Pg_C_Missed" t="Missed Calls"/>
+<phrase i="S_Pg_C_All" t="All Calls"/>
+<phrase i="S_Pg_BT_Dev_List" t="Bluetooth Device List"/>
+<phrase i="S_Pg_BT_Search" t="Scan for Bluetooth Devices"/>
+<phrase i="S_Pg_C_L_WifiConn" t="Enable Wi-Fi Connection"/>
+<phrase i="S_Pg_C_L_Enable" t="Enable"/>
+<phrase i="S_Pg_C_L_Disable" t="Disable"/>
+<phrase i="S_Pg_C_L_Lock" t="Lock"/>
+<phrase i="S_Pg_C_L_Import" t="Import Address Book from Mobile Phone"/>
+<phrase i="S_Pg_C_L_Override" t="Override"/>
+
+<!-- #############  #Video #############-->
+<phrase i="L_Camera_No" t="מס' מצלמה"/>
+<phrase i="L_Camera_Name" t="שם מצלמה"/>
+<phrase i="L_Camera_Ip" t="כתובת IP"/>
+<phrase i="L_Camara_UserName" t="שם משתמש"/>
+<phrase i="L_Camera_Password" t="סיסמה"/>
+<phrase i="L_Camera_Port" t="מס' יציאה"/>
+<phrase i="L_Camera_Resolution" t="רזולוציה"/>
+<phrase i="L_Camera_Quality" t="איכות וידאו"/>
+<phrase i="L_Camera_FrameRate" t="קצב מסגרות"/>
+<phrase i="L_Camera_Status" t="מצב"/>
+<phrase i="T_Camera_Entry" t="פרטי מצלמה"/>
+<phrase i="T_Camera_List" t="בחר מצלמה לניטור"/>
+<phrase i="CamInvalidParam" t="פרמטרי המצלמה [%s]\r לא חוקיים."/>
+<phrase i="CamMissingURL" t="כתובת ה-URL לגישה למצלמה [%s]\r חסרה."/>
+<phrase i="CamMissingUserName" t="שם המשתמש למצלמה [%s]\r חסר."/>
+<phrase i="CamMissingPassword" t="הסיסמה למצלמה [%s]\r חסרה."/>
+<phrase i="CamInvalidURL" t="כתובת ה-URL לגישה למצלמה [%s]\r לא חוקית."/>
+<phrase i="CamInvalidProtocol" t="פרוטוקול המצלמה [%s]\r אינו RTSP."/>
+<phrase i="CamNoVideo" t="אין וידאו."/>
+<phrase i="CamConnecting" t="מתחבר..."/>
+<phrase i="CamConnectError" t="אין וידאו - ההתחברות נכשלה."/>
+<phrase i="CamAccessError" t="אין וידאו - הגישה נדחתה."/>
+<phrase i="CamResolveError" t="אין וידאו - זיהוי הכתובת נכשל."/>
+<phrase i="CamResolutionError" t="אין וידאו - רזולוציה גבוהה מדי."/>
+<phrase i="CamBusy" t="המצלמה לא פנויה.\r אנא המתן ונסה שוב."/>
+<phrase i="CamActivateDoorOK" t="פתיחת דלת הצליחה\rעבור [%s]."/>
+<phrase i="CamActivateDoorFailed" t="פתיחת דלת נכשלה\r עבור [%s]."/>
+<phrase i="CamFeatureNotAvailable" t="התכונה אינה זמינה\r כאשר Bluetooth מופעל"/>
+<phrase i="P_CamAccess" t="ניגש לווידאו"/>
+
+<phrase i="OL_160_120" t="160 * 120"/>
+<phrase i="OL_320_240" t="320 * 240"/>
+<phrase i="OL_640_480" t="640 * 480"/>
+<phrase i="OL_Very_Low" t="נמוך מאוד"/>
+<phrase i="OL_Low" t="נמוך"/>
+<phrase i="OL_Normal" t="רגיל"/>
+<phrase i="OL_High" t="גבוה"/>
+<phrase i="OL_Very_High" t="גבוה מאוד"/>
+<phrase i="OL_10fps" t="10 מסגרות לשנייה"/>
+<phrase i="OL_15fps" t="15 מסגרות לשנייה"/>
+<phrase i="OL_20fps" t="20 מסגרות לשנייה"/>
+
+<!-- #############  #SMS #############-->
+<phrase i="T_SMS_Title" t="הודעות דואר SMS"/>
+<phrase i="L_SMS_Create_Msg" t="צור הודעת SMS"/>
+<phrase i="L_SMS_Inbox" t="תיבת הודעות SMS נכנסות"/>
+<phrase i="L_SMS_Outbox" t="תיבת הודעות SMS יוצאות"/>
+<phrase i="L_SMS_Saved" t="הודעות SMS שנשמרו"/>
+<phrase i="SMSInbox_Title" t="הודעות SMS שהתקבלו"/>
+<phrase i="SMSOutBoxType_Title" t="הודעות SMS שנשלחו"/>
+<phrase i="SMSSavedType_Title" t="הודעות SMS שנשמרו"/>
+<phrase i="SMSEditTitle_Title" t="שמור הודעת SMS"/>
+<phrase i="SMSMessage_Title" t="הודעת SMS"/>
+<phrase i="SMSRecipient_Title" t="נמען"/>
+<phrase i="S_Reply" t="השב"/>
+<phrase i="S_Send" t="שלח"/>
+<phrase i="S_EditTitle" t="תפקיד"/>
+<phrase i="CreateSMS" t="צור הודעת SMS"/>
+<phrase i="EditSMS" t="ערוך הודעת SMS"/>
+<phrase i="SMS_RecNULLPrompt" t="לא נמצאה רשימת שליחה"/>
+<phrase i="SMS_SendOverMaxPFNum" t="רשימת השליחה נבחרה יותר מדי פעמים"/>
+<phrase i="SMS_TitileLenNull" t="כותרת שגויה"/>
+
+<!-- #############  #EXTENSION MOBILITY #############-->
+<phrase i="L_ExtMob" t="שלוחת נייד"/>
+<phrase i="L_ExtMob_LoginForm" t="צורת כניסה לשלוחת נייד"/>
+<phrase i="L_EM_LOGIN_TRY" t="מנסה להיכנס. אנא המתן..."/>
+<phrase i="L_EM_LOGIN_OK" t="הכניסה הצליחה. תיתכן הפעלה מחדש..."/>
+<phrase i="L_EM_LOGIN_FAILED" t="הכניסה נכשלה. אמת את מזהה המשתמש, הסיסמה וכללי הפרופיל שלך."/>
+<phrase i="L_EM_LOGOUT_TRY" t="מנסה להתנתק. אנא המתן..."/>
+<phrase i="L_EM_LOGOUT_OK" t="ההתנתקות הצליחה. תיתכן הפעלה מחדש"/>
+<phrase i="L_EM_LOGOUT_FAILED" t="ההתנתקות נכשלה, מפעיל מחדש..."/>
+<phrase i="L_EM_LOGIN_WARNING" t="הזן מזהה משתמש וסיסמה."/>
+
+<!-- #############  #DIAG #############-->
+<phrase i="Message_RecoveryReset" t="האם ברצונך לבצע\r איפוס שחזור?"/>
+<phrase i="L_RecoveryReset" t="איפוס שחזור"/>
+<phrase i="L_FirmwareUpgrade" t="שדרוג קושחה"/>
+<phrase i="T_ST_Diag" t="שחזור אבחון"/>
+<phrase i="UsbImageFileNotPresent" t="/image/spa525g.bin לא נמצא.\rאנא העתק את תמונת הקושחה\rאל /image/spa525g.bin."/>
+<phrase i="L_Picture" t="תמונה"/>
+
+<!-- #############  #VPN #############-->
+<phrase i="VPNConnecting" t="מתחבר אל VPN..."/>
+<phrase i="VPNDisconnecting" t="מתנתק מ-VPN..."/>
+<phrase i="VPNConnectSuccess" t="נוצרה הפעלת VPN."/>
+<phrase i="VPNDisconnectSuccess" t="הפעלת VPN הסתיימה."/>
+<phrase i="VPNConnectFailed" t="החיבור אל VPN נכשל."/>
+<phrase i="L_VPNStatus" t="מצב VPN"/>
+<phrase i="L_VPNConnected" t="מחובר ל-VPN"/>
+<phrase i="L_BytesSend" t="בתים שנשלחו"/>
+<phrase i="L_BytesRecv" t="בתים שהתקבלו"/>
+<phrase i="V_AuthFail" t="האימות נכשל."/>
+<phrase i="V_HTTPSFail" t="פתיחת חיבור HTTPS \rלשרת נכשלה."/>
+<phrase i="V_NegFail" t="שגיאה בתגובת HTTP."/>
+<phrase i="V_URLFail" t="ניתוח כתובת ה-URL של השרת נכשל."/>
+<phrase i="V_HTTPSOnly" t="רק https מותר לכתובת ה-URL של השרת."/>
+<phrase i="V_CookieFail" t="קבלת קובץ Cookie של WebVPN נכשלה."/>
+<phrase i="V_CSTPFail" t="יצירת חיבור CSTP נכשלה."/>
+<phrase i="V_TUNFail" t="הגדרת התקן TUN נכשלה."/>
+<phrase i="V_AuthGroup_Invalid" t="הגדרת אימות קבוצה אינה חוקית."/>
+
+<!-- #############  #IMAGE #############-->
+<phrase i="ImageUsbFolderNotPresent" t="התיקייה '%s' לא קיימת. \rודא שישנם קובצי jpg בתיקייה \r'%s' בהתקן ה-USB."/>
+<phrase i="ImageUsbFileNotPresent" t="אין קובצי JPG בתיקייה '%s'. \rודא שישנם קובצי jpg בתיקייה \r'%s' בהתקן ה-USB."/>
+<phrase i="T_ImageSelect" t="בחר תמונה"/>
+<phrase i="ImageMsgOverMaxImageNum" t="בחרת יותר מ-\r %d תמונות!"/>
+
+<!-- #############  #Weather #############-->
+<phrase i="WS_Today" t="       היום"/> 
+<phrase i="WS_Night" t="       לילה"/>
+<phrase i="WS_Tomorrow" t="   מחר"/>
+<phrase i="WS_Sunday" t="     ראשון"/>
+<phrase i="WS_Monday" t="     שני"/>
+<phrase i="WS_Tuesday" t="     שלישי"/>
+<phrase i="WS_Wednesday" t=" רביעי"/>
+<phrase i="WS_Thursday" t="     חמישי"/>
+<phrase i="WS_Friday" t="       שישי"/>
+<phrase i="WS_Saturday" t="   שבת"/>
+<phrase i="WS_Jan" t="ינו'"/>
+<phrase i="WS_Feb" t="פבר'"/>
+<phrase i="WS_Mar" t="מרץ"/>
+<phrase i="WS_Apr" t="אפר'"/>
+<phrase i="WS_May" t="מאי"/>
+<phrase i="WS_Jun" t="יוני"/>
+<phrase i="WS_Jul" t="יולי"/>
+<phrase i="WS_Aug" t="אוג'"/>
+<phrase i="WS_Sep" t="ספט'"/>
+<phrase i="WS_Oct" t="אוק'"/>
+<phrase i="WS_Nov" t="נוב'"/>
+<phrase i="WS_Dec" t="דצמ'"/>
+<phrase i="WS_Mostly Cloudy" t="בעיקר מעונן"/>
+<phrase i="WS_Partly Cloudy" t="מעונן חלקית"/>
+<phrase i="WS_Cloudy" t="מעונן"/>
+<phrase i="WS_Clouds" t="עננים"/>
+<phrase i="WS_Cloudy and Wind" t="עננות ורוח"/>
+<phrase i="WS_Cloudy / Wind" t="עננות / רוח"/>
+<phrase i="WS_Mostly Sunny" t="בעיקר שמשי"/>
+<phrase i="WS_Mostly Clear" t="בעיקר בהיר"/>
+<phrase i="WS_Fair" t="נוח"/>
+<phrase i="WS_Sun" t="שמש"/>
+<phrase i="WS_Sunny" t="שמשי"/>
+<phrase i="WS_Clear" t="נקה"/>
+<phrase i="WS_Clearing" t="מתבהר"/>
+<phrase i="WS_Hot" t="חם"/>
+<phrase i="WS_Rain and Snow" t="גשם ושלג"/>
+<phrase i="WS_Rain / Snow" t="גשם / שלג"/>
+<phrase i="WS_Rain" t="גשם"/>
+<phrase i="WS_Drizzle" t="טפטוף"/>
+<phrase i="WS_Showers" t="ממטרים"/>
+<phrase i="WS_T-showers" t="ממטרים מלווים ברעמים"/>
+<phrase i="WS_Scattered Showers" t="ממטרים פזורים"/>
+<phrase i="WS_Scattered T-storms" t="סופות רעמים פזורות"/>
+<phrase i="WS_Isolated T-storms" t="סופות רעמים בודדות"/>
+<phrase i="WS_Severe T-storms" t="סופות רעמים חזקות"/>
+<phrase i="WS_T-storms" t="סופות רעמים"/>
+<phrase i="WS_Thunder" t="רעמים"/>
+<phrase i="WS_Tornado" t="טורנדו"/>
+<phrase i="WS_Tropical Storm" t="סערה טרופית"/>
+<phrase i="WS_Storm" t="סערה"/>
+<phrase i="WS_Hurricane" t="הוריקן"/>
+<phrase i="WS_Typhoon" t="טייפון"/>
+<phrase i="WS_Snow Shower and Windy" t="משבי רוח"/>
+<phrase i="WS_Snow Shower" t="ממטרי שלג"/>
+<phrase i="WS_Snow Flurries" t="סופות שלג קלות"/>
+<phrase i="WS_Scattered Snow Showers" t="ממטרי שלג פזורים"/>
+<phrase i="WS_Blowing Snow" t="משבי רוח עם שלג"/>
+<phrase i="WS_Flurries" t="סופות שלג קצרות"/>
+<phrase i="WS_Scattered Flurries" t="סופות קצרות פזורות"/>
+<phrase i="WS_Snow" t="שלג"/>
+<phrase i="WS_Wintry Mix" t="חורפי"/>
+<phrase i="WS_Cold" t="קר"/>
+<phrase i="WS_Windy" t="משבי רוח"/>
+<phrase i="WS_Wind" t="רוח"/>
+<phrase i="WS_Blustery" t="סוער"/>
+<phrase i="WS_Foggy" t="ערפילי"/>
+<phrase i="WS_Fog" t="ערפל"/>
+<phrase i="WS_Mist" t="רסס"/>
+<phrase i="WS_Haze" t="אובך"/>
+<phrase i="WS_Smoky" t="אפוף עשן"/>
+<phrase i="WS_Widespread Dust" t="מכוסה אבק"/>
+<phrase i="WS_Dust" t="אבק"/>
+<phrase i="WS_Hail" t="ברד"/>
+<phrase i="WS_Sleet" t="גשם מעורב בשלג"/>
+<phrase i="WS_Freezing Drizzle" t="טפטוף קפוא"/>
+<phrase i="WS_Freezing Rain" t="גשם קפוא"/>
+<phrase i="WS_Ice" t="קרח"/>
+<phrase i="WS_Scattered" t="פזורים"/>
+<phrase i="WS_N/A" t="לא רלוונטי"/>
+<phrase i="WS_Sprinkles" t="טפטופים"/>
+
+<!-- #############  #cisco XML #############-->
+<phrase i="L_Request" t="מבקש..."/>
+<phrase i="T_EmptyHTTPBody" t="גוף Http ריק."/>
+<phrase i="T_404NotFound" t="404 לא נמצא."/>
+<phrase i="T_AudioDataError" t="שגיאת נתוני שמע."/>
+<phrase i="T_DNSError" t="שגיאת DNS."/>
+<phrase i="T_NoServer" t="לא ניתן להתחבר לשרת."/>
+<phrase i="T_NoResponse" t="השרת לא הגיב. אנא נסה שוב."/>
+<phrase i="T_DataError" t="שגיאת נתונים."/>
+<phrase i="T_UnknownError" t="שגיאה לא ידועה."/>
+<phrase i="T_RTPFail" t="הטלפון מעבד שיחה אחרת.\r אנא נסה שוב."/>
+
+<!-- #############  #SPRVOIP MISC #############-->
+<phrase i="PL_Result" t="תוצאה"/>
+<phrase i="PRV_Msg_Resync" t="סנכרן מחדש ל-"/>
+<phrase i="PRV_Msg_ReqFailed" t="בקשת סינכרון מחדש נכשלה! הטלפון מעבד בקשת סינכרון מחדש. אנא נסה שוב."/>
+<phrase i="PRV_Invalid_URL" t="כלל פרופיל סינכרון מחדש לא חוקי!"/>
+<phrase i="L_DefSpeedDial" t="הגדר חיוג מהיר"/>
+<phrase i="L_SDLK_ERROR" t="שגיאה: קלט ריק או לא חוקי."/>
+<phrase i="SDLK_DeletePrompt" t="האם ברצונך למחוק\r חיוג מהיר במפתח קו [%d]?"/>
+<phrase i="PRV_Msg_Resync_Inprogress" t="סינכרון מחדש מתבצע..."/>
+<phrase i="PRV_Msg_Resync_OK" t="סינכרון מחדש הצליח."/>
+<phrase i="PRV_Msg_Resync_OK_REBOOT" t="הטלפון יופעל מחדש. אנא המתן..."/>
+<!-- #############  #REBOOT REASON - must match reboot.c #############-->
+<phrase i="L_RReason0" t="ללא"/>
+<phrase i="L_RReason1" t="DHCP נכשל"/>
+<phrase i="L_RReason2" t="שדרג"/>
+<phrase i="L_RReason3" t="הקצאה"/>
+<phrase i="L_RReason4" t="שדרג"/>
+<phrase i="L_RReason5" t="מופעל על-ידי המשתמש"/>
+<phrase i="L_RReason6" t="שדרג"/>
+<phrase i="L_RReason7" t="מופעל על-ידי SIP"/>
+<phrase i="L_RReason8" t="שדרג"/>
+<phrase i="L_RReason9" t="שגיאת מערכת"/>
+<phrase i="L_RReason10" t="קישור לא פעיל"/>
+<phrase i="L_RReason11" t="מערכת 1"/>
+<phrase i="L_RReason12" t="מערכת 2"/>
+<phrase i="L_RReason13" t="כתובת IP כפולה"/>
+<phrase i="L_RReason14" t="כתובת IP של גיבוי"/>
+<phrase i="L_RReason15" t="מערכת 3"/>
+<phrase i="L_RReason16" t="מערכת 4"/>
+<phrase i="L_RReason17" t="מערכת 5"/>
+<phrase i="L_RReason18" t="מערכת 6"/>
+<phrase i="L_RReason19" t="מערכת 7"/>
+<phrase i="L_RReason20" t="מופעל על-ידי SIP"/>
+<phrase i="L_RReason21" t="הורדת מדריך"/>
+<phrase i="L_RReason22" t="VLAN השתנה"/>
+<phrase i="L_RReason23" t="RC"/>
+<phrase i="L_RReason24" t="איפוס להגדרות יצרן"/>
+<phrase i="L_RReason25" t="בקשת תוכנה"/>
+<phrase i="L_RReason26" t="כתובת ה-IP השתנתה"/>
+<phrase i="T_WeatherSearch2" t="הזן שם עיר"/>
+
+</phrases>

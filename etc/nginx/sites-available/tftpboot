@@ -218,7 +218,10 @@ server {
 		rewrite ^/firmware/(ATA030204SCCP090202A.zup)$ /firmware/ata188/$1 last;
 
 		# SPA50x
-		rewrite ^/firmware/(SPA504G-762.BIN)$ /firmware/spa50x/$1 last;
+		rewrite ^/firmware/(spa50x.+\.bin)$ /firmware/spa50x/$1 last;
+		rewrite ^/firmware/(spa51x.+\.bin)$ /firmware/spa51x/$1 last;
+		rewrite ^/firmware/(spa515.+\.bin)$ /firmware/spa525/$1 last;
+		rewrite ^/firmware/(spa941.+\.bin)$ /firmware/spa941/$1 last;
 
 		try_files $uri $uri/ =404;
 		autoindex off;

@@ -1,0 +1,1226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<phrases>
+<trkLocaleName>Czech</trkLocaleName>
+<trkBaseClearcaseVersion></trkBaseClearcaseVersion>
+<trkTranslationVersion>3157</trkTranslationVersion>
+<phrase i="203" t="Název domény"/>
+<phrase i="204" t="Adresa IP"/>
+<phrase i="205" t="Maska podsítě"/>
+<phrase i="212" t="DNS server 1"/>
+<phrase i="213" t="DNS server 2"/>
+<phrase i="225" t="Adresáře URL"/>
+<phrase i="226" t="Zprávy URL"/>
+<phrase i="227" t="Služby URL"/>
+<phrase i="354" t="Přijaté hovory"/>
+<phrase i="355" t="Uskutečněné hovory"/>
+<phrase i="364" t="Kontrast"/>
+<phrase i="365" t="Síťová konfigurace"/>
+<phrase i="374" t="Pípání 1"/>
+<phrase i="375" t="Pípání 2"/>
+<phrase i="378" t="Typ zvonění"/>
+<phrase i="384" t="Stavové zprávy"/>
+<phrase i="393" t="Statistika sítě"/>
+<phrase i="473" t="Vydané IP adresy"/>
+<phrase i="500" t="Vydané adresy serveru DHCP"/>
+<phrase i="502" t="Odstranit konfiguraci"/>
+<phrase i="552" t="Ověřování adresy URL"/>
+<phrase i="585" t="Jazyk uživatel"/>
+<phrase i="586" t="Jazyk sítě"/>
+<phrase i="635" t="Server DHCP"/>
+<phrase i="655" t="Informace o modelu"/>
+<phrase i="657" t="Číslo modelu"/>
+<phrase i="670" t="Výchozí zvonění"/>
+<phrase i="676" t="Zkr. vytáč."/>
+<phrase i="716" t="Konfigurace zabezpečení"/>
+<phrase i="3000" t="Zmeškané hovory"/>
+<phrase i="3001" t="Odchozí hovory"/>
+<phrase i="3002" t="Hlasitost vyzvánění"/>
+<phrase i="3003" t="Hlasitost reproduktoru"/>
+<phrase i="3004" t="Hlasitost náhl. soupravy"/>
+<phrase i="3005" t="Hlasitost sluchátka"/>
+<phrase i="3006" t="Kontrast LCD"/>
+<phrase i="3007" t="stav"/>
+<phrase i="3008" t="Stav"/>
+<phrase i="3009" t="Tlačítko linky 4"/><!-- comment content -->
+<phrase i="3010" t="Tlačítko linky 3"/>
+<phrase i="3011" t="Tlačítko linky 2"/>
+<phrase i="3012" t="Tlačítko linky 1"/>
+<phrase i="3013" t="Linka 4"/>
+<phrase i="3014" t="Linka 3"/>
+<phrase i="3015" t="Linka 2"/>
+<phrase i="3016" t="Linka 1"/>
+<phrase i="3018" t="Neruš."/><!-- Do not disturb, This is a softkey label -->
+<phrase i="3019" t="Místní služby"/>
+<phrase i="3020" t="Nový hovor"/>
+<phrase i="3021" t="Vyzvánění příchozího hovoru"/>
+<phrase i="3022" t="Interkom"/>
+<phrase i="3023" t="Opak."/><!-- This is a softkey label -->
+<phrase i="3027" t="Restartuji telefon&#xA;Prosím čekejte"/>
+<phrase i="3028" t="Restartuji telefon a síť&#xA;Prosím čekejte"/>
+<phrase i="3029" t="Reset. na tovární nastavení&#xA;Prosím čekejte"/>
+<phrase i="3030" t="Opravdu restartovat?"/>
+<phrase i="3031" t="Opravdu rebootovat?"/>
+<phrase i="3032" t="Všechny parametry budou resetovány&#xA;na tovární hodnoty.&#xA;Opravdu pokračovat?"/>
+<phrase i="3033" t="Chyba hesla. Opakovat akci?"/>
+<phrase i="3034" t="Nové heslo:"/>
+<phrase i="3035" t="Číslo hlasové schránky:"/>
+<phrase i="3036" t="Posun (h:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3037" t="Čas (h:m:s):"/><!-- OK to localize the letters H,m, and s. But don't change the order. -->
+<phrase i="3038" t="Datum (m/d/r):"/><!-- OK to localize the letters m,d, and y. But don't change the order. -->
+<phrase i="3039" t="Uzamk."/><!-- This is a softkey label -->
+<phrase i="3040" t="Odemk."/><!-- This is a softkey label -->
+<phrase i="3041" t="Nastavení x"/>
+<phrase i="3042" t="Nastavení"/>
+<phrase i="3043" t="Síťová nastavení"/>
+<phrase i="3044" t="Zadejte heslo správce:"/>
+<phrase i="3045" t="Ne"/>
+<phrase i="3046" t="Prodl. př. pokud neodp."/>
+<phrase i="3047" t="Čís. přesm.pokud neod."/>
+<phrase i="3048" t="Číslo přesm. je-li obs."/>
+<phrase i="3049" t="Číslo přesm. všech hov."/>
+<phrase i="3050" t="Adresa multicast"/>
+<phrase i="3051" t="Pevný NTP server 2"/>
+<phrase i="3052" t="Pevný NTP server 1"/>
+<phrase i="3053" t="Pevný DNS server 2"/>
+<phrase i="3054" t="Pevný DNS server 1"/>
+<phrase i="3055" t="Pevné výchozí směrování"/>
+<phrase i="3056" t="Pevná síťová maska"/>
+<phrase i="3057" t="Pevná IP adresa"/>
+<phrase i="3058" t="Povolit webový server"/>
+<phrase i="3059" t="Aktuální brána"/>
+<phrase i="3060" t="Aktuální síťová maska"/>
+<phrase i="3061" t="Doména"/>
+<phrase i="3062" t="Název hostitele"/>
+<phrase i="3063" t="Aktuální IP adresa"/>
+<phrase i="3064" t="Povolit DHCP"/>
+<phrase i="3065" t="Typ připojení WAN"/>
+<phrase i="3066" t="Formát data"/>
+<phrase i="3067" t="Formát času"/>
+<phrase i="3068" t="Přepnout zvuk do reprod."/>
+<phrase i="3069" t="Přepnout na auto. odp."/>
+<phrase i="3070" t="Výchozí zvuk. zařízení"/>
+<phrase i="3071" t="Podpora vytáčení"/>
+<phrase i="3072" t="Zabezpečený hovor"/>
+<phrase i="3073" t="Nerušit"/>
+<phrase i="3074" t="Blok. anonym. vol."/>
+<phrase i="3075" t="Blokování ID volajícího"/>
+<phrase i="3076" t="Klientský certifikát"/>
+<phrase i="3077" t="MAC adresa"/>
+<phrase i="3078" t="Verze hardwaru"/>
+<phrase i="3079" t="Verze softwaru"/>
+<phrase i="3080" t="Sériové číslo"/>
+<phrase i="3081" t="Model"/>
+<phrase i="3082" t="Výchozí zařízení"/>
+<phrase i="3083" t="Název stanice"/>
+<phrase i="3085" t="Stav zapark. hovorů"/>
+<phrase i="3087" t="Heslo"/>
+<phrase i="3088" t="Tovární nastavení"/>
+<phrase i="3089" t="Restartovat"/>
+<phrase i="3090" t="Rebootovat"/>
+<phrase i="3092" t="Info o produktu"/>
+<phrase i="3094" t="Hlasová schránka"/>
+<phrase i="3095" t="Datum a čas"/>
+<phrase i="3096" t="Přesměrování hovorů"/>
+<phrase i="3097" t="Předvolby"/>
+<phrase i="3099" t="Historie volání"/>
+<phrase i="3100" t="Rychlé vytáčení"/>
+<phrase i="3101" t="Adresář"/>
+<phrase i="3102" t="Zadejte rychlou volbu x"/>
+<phrase i="3104" t="Vyzvánění 10"/>
+<phrase i="3105" t="Vyzvánění 9"/>
+<phrase i="3106" t="Vyzvánění 8"/>
+<phrase i="3107" t="Vyzvánění 7"/>
+<phrase i="3108" t="Vyzvánění 6"/>
+<phrase i="3109" t="Vyzvánění 5"/>
+<phrase i="3110" t="Vyzvánění 4"/>
+<phrase i="3111" t="Vyzvánění 3"/>
+<phrase i="3112" t="Vyzvánění 2"/>
+<phrase i="3113" t="Vyzvánění 1"/>
+<phrase i="3114" t="Vyzvánění linky"/>
+<phrase i="3115" t="Linka 1: "/>
+<phrase i="3116" t="Nastavení vyzvánění"/>
+<phrase i="3117" t="Smazat: "/>
+<phrase i="3118" t="Prázdný seznam"/>
+<phrase i="3119" t="Chybné heslo. Opakovat akci?"/>
+<phrase i="3120" t="Zadejte heslo:"/>
+<phrase i="3121" t="Park. hov."/>
+<phrase i="3123" t="Provádím zaparkování&#xA;Stav selhal"/>
+<phrase i="3124" t="Park. hovorů je prázdné"/>
+<phrase i="3125" t="Provádím zaparkování&#xA;Stav..."/>
+<phrase i="3126" t="Neplatné číslo parkování.&#xA;Opakujte volbu"/>
+<phrase i="3127" t="Stanice vyzvání"/>
+<phrase i="3128" t="Vyzvednutí hovoru"/>
+<phrase i="3129" t="Vyber přidržený hovor&#xA;pro přesměrování"/>
+<phrase i="3130" t="Vyber přidržený hovor&#xA;na konferenci"/>
+<phrase i="3131" t="Vytočit *kód"/><!-- star code, when user dial star code and some special number, user can go into dial configuration directly, for example, *69 is config call return. -->
+<phrase i="3132" t="Vynutit G729A"/>
+<phrase i="3133" t="Prefer. G729A"/>
+<phrase i="3134" t="Vynutit G726r40"/>
+<phrase i="3135" t="Preferovat G726r40"/>
+<phrase i="3136" t="Vynutit G726r32"/>
+<phrase i="3137" t="Preferovat G726r32"/>
+<phrase i="3138" t="Vynutit G726r24"/>
+<phrase i="3139" t="Preferovat G726r24"/>
+<phrase i="3140" t="Vynutit G726r16"/>
+<phrase i="3141" t="Preferovat G726r16"/>
+<phrase i="3142" t="Vynutit G723"/>
+<phrase i="3143" t="Preferovat G723"/>
+<phrase i="3144" t="Vynutit G711A"/>
+<phrase i="3145" t="Preferovat G711A"/>
+<phrase i="3146" t="Vynutit G711U"/>
+<phrase i="3147" t="Preferovat G711U"/>
+<phrase i="3148" t="Vyvolávání"/>
+<phrase i="3149" t="Následující nebude zabezpečený"/>
+<phrase i="3150" t="Následující zabezpečit"/>
+<phrase i="3151" t="Všechny hovory nezabezpečené"/>
+<phrase i="3152" t="Všechny hovory zabezpečené"/>
+<phrase i="3153" t="Zrušit funkci Nerušit"/>
+<phrase i="3155" t="Povolit anonymní hovor"/>
+<phrase i="3157" t="Odblokovat následující ID volajícího"/>
+<phrase i="3158" t="Blokovat následující ID volajícího"/>
+<phrase i="3159" t="Zrušit blokování ID volajícího"/>
+<phrase i="3160" t="Blokovat ID volajícího"/>
+<phrase i="3161" t="Zrušit zpětné volání"/>
+<phrase i="3162" t="Zpětné volání"/>
+<phrase i="3163" t="Zrušit přesměr. neodpovídá-li"/>
+<phrase i="3164" t="Přesměrovat, neodpovídá-li"/>
+<phrase i="3165" t="Zrušit přesměr., je-li obsazeno"/>
+<phrase i="3166" t="Přesměrovat, je-li obsazeno"/>
+<phrase i="3167" t="Zrušit přesměr. vždy"/>
+<phrase i="3168" t="Přesměrovat vždy"/>
+<phrase i="3169" t="Návrat volání"/>
+<phrase i="3190" t="Náhlavní souprava   "/>
+<phrase i="3191" t="Sluchátko   "/>
+<phrase i="3192" t="Reprod.   "/>
+<phrase i="3194" t="LCD   "/>
+<phrase i="3195" t="Klávesnice   "/>
+<phrase i="3201" t="Úspěšný"/>
+<phrase i="3202" t="Selhalo"/>
+<phrase i="3216" t="Vyzvánění:"/>
+<phrase i="3217" t="Číslo:"/>
+<phrase i="3218" t="Jméno:"/>
+<phrase i="3219" t="Smazat:"/>
+<phrase i="3220" t="Volba vyzvánění"/>
+<phrase i="3221" t="Adresář"/>
+<phrase i="3222" t="Zadejte číslo:"/>
+<phrase i="3223" t="Cíl vyvolávání:"/><!-- enter the number you want to page?-->
+<phrase i="3224" t="Zadejte vyzved. skup.:"/>
+<phrase i="3225" t="Cíl speciální služby:"/>
+<phrase i="3226" t="Cíl referentské služby:"/><!-- enter the number you want to refer the current peer to (similar to a transfer, for example)?-->
+<phrase i="3227" t="Číslo pro odparkování:"/>
+<phrase i="3228" t="Číslo pro zaparkování:"/>
+<phrase i="3229" t="Přepojit hovor na číslo:"/>
+<phrase i="3230" t="Přesměr. neodpovídá-li na:"/>
+<phrase i="3231" t="Přesměr. při obsazení na:"/>
+<phrase i="3232" t="Přesměrovat vše na:"/>
+<phrase i="3234" t="Zadejte více číslic:"/>
+<phrase i="3237" t="Zmeškané hovory"/>
+<phrase i="3238" t="Přijaté hovory"/>
+<phrase i="3239" t="Přijaté hovory"/>
+<phrase i="3240" t="Odchozí hovory"/>
+<phrase i="3241" t="Inicializuji síť"/>
+<phrase i="3242" t="Kontroluji DNS"/>
+<phrase i="3243" t="adres."/><!-- This is a softkey label -->
+<phrase i="3244" t="přesm."/><!-- This is a softkey label -->
+<phrase i="3245" t="Jazyk"/>
+<phrase i="3246" t="Volba jazyka"/>
+<phrase i="3248" t="Hovory přesměrovány"/>
+<phrase i="3249" t="Nový zmešk. hovor"/>
+<phrase i="3250" t="Nové zmešk. hovory"/>
+<phrase i="3251" t="více"/><!-- This is a softkey label -->
+<phrase i="3252" t="znovu"/><!-- This is a softkey label -->
+<phrase i="3253" t="zrušit"/><!-- This is a softkey label -->
+<phrase i="3254" t="nedos."/><!-- This is a softkey label -->
+<phrase i="3255" t="dost."/><!-- This is a softkey label -->
+<phrase i="3258" t="sk.zv."/><!-- This is a softkey label -->
+<phrase i="3259" t="vyzv.."/><!-- This is a softkey label -->
+<phrase i="3260" t="odpar."/><!-- This is a softkey label -->
+<phrase i="3261" t="zapar."/><!-- This is a softkey label -->
+<phrase i="3262" t="sPrep"/><!-- Blind Transfer. This is a softkey label -->
+<phrase i="3264" t="př.Lx"/><!-- transfer current call to a holding call on Line x (one of the lines on the phone). This is a softkey label -->
+<phrase i="3265" t="prep."/><!-- call transfer. This is a softkey label -->
+<phrase i="3266" t="*kód"/><!-- This is a softkey label -->
+<phrase i="3267" t="vybrat"/><!-- This is a softkey label -->
+<phrase i="3268" t="uložit"/><!-- This is a softkey label -->
+<phrase i="3270" t="pokr."/><!-- This is a softkey label -->
+<phrase i="3272" t="před."/><!-- This is a softkey label -->
+<phrase i="3273" t="přehr."/><!-- This is a softkey label -->
+<phrase i="3274" t="vložit"/><!-- This is a softkey label -->
+<phrase i="3275" t="změnit"/><!-- This is a softkey label -->
+<phrase i="3276" t="ok"/><!-- This is a softkey label -->
+<phrase i="3277" t="čísla"/><!-- This is a softkey label -->
+<phrase i="3278" t="další"/><!-- This is a softkey label -->
+<phrase i="3279" t="zmešk."/><!-- This is a softkey label -->
+<phrase i="3281" t="opv"/><!-- last call redial, the phone will dial the last miss call when you press the key. This is a softkey label -->
+<phrase i="3282" t="přip."/><!-- This is a softkey label -->
+<phrase i="3283" t="IP"/><!-- This is a softkey label -->
+<phrase i="3284" t="konec"/><!-- This is a softkey label -->
+<phrase i="3285" t="uprav."/><!-- This is a softkey label -->
+<phrase i="3286" t="neruš."/><!-- This is a softkey label -->
+<phrase i="3288" t="volat"/><!-- This is a softkey label -->
+<phrase i="3289" t="odstranit"/><!-- This is a softkey label -->
+<phrase i="3290" t="kopír."/><!-- This is a softkey label -->
+<phrase i="3291" t="kon.Lx"/><!-- start a conf?with the current call?peer and ?a hold call on Line x. This is a softkey label -->
+<phrase i="3292" t="konf."/><!-- This is a softkey label -->
+<phrase i="3293" t="smazat"/><!-- This is a softkey label -->
+<phrase i="3294" t="přesm."/><!-- This is a softkey label -->
+<phrase i="3295" t="vym.ner."/><!-- This is a softkey label -->
+<phrase i="3296" t="změnit"/><!-- This is a softkey label -->
+<phrase i="3298" t="storno"/><!-- This is a softkey label -->
+<phrase i="3299" t="spoj."/><!-- This is a softkey label -->
+<phrase i="3300" t="od.zn."/><!-- This is a softkey label -->
+<phrase i="3301" t="písm."/><!-- This is a softkey label -->
+<phrase i="3302" t="přidat"/><!-- This is a softkey label -->
+<phrase i="3303" t="Nastavení x"/>
+<phrase i="3304" t="Nastavení"/>
+<phrase i="3305" t="Sdíleno"/>
+<phrase i="3306" t="Pokus o obnovení"/>
+<phrase i="3307" t="Pokus o přidržení"/>
+<phrase i="3308" t="Přidržený"/>
+<phrase i="3309" t="Připojeno"/>
+<phrase i="3310" t="Příjem"/>
+<phrase i="3311" t="Hovor ukončen"/>
+<phrase i="3312" t="Vyzvánění"/>
+<phrase i="3313" t="Spojuji hovor"/>
+<phrase i="3314" t="Volání"/>
+<phrase i="3315" t="Kontaktuji server STUN"/>
+<phrase i="3316" t="Vytáčím"/>
+<phrase i="3317" t="Vybírám stanici"/>
+<phrase i="3318" t="Vybírám hovor"/>
+<phrase i="3319" t="Zjišťuji info o hovoru"/>
+<phrase i="3320" t="Zkouším obsadit linku"/>
+<phrase i="3321" t="Připraveno"/>
+<phrase i="3322" t="Ano"/>
+<phrase i="3323" t="Není registrováno"/>
+<phrase i="3324" t="Registrován"/>
+<phrase i="3325" t="Příchozí"/>
+<phrase i="3326" t="Odchozí"/>
+<phrase i="3327" t="Zpětné volání"/>
+<phrase i="3328" t="Přesměrováno"/>
+<phrase i="3329" t="Přepojeno"/>
+<phrase i="3330" t="Neplatný"/>
+<phrase i="3331" t="Nečinný"/>
+<phrase i="3332" t="CWT"/><!-- Call Waiting Tone -->
+<phrase i="3333" t="Vyzvánění – zpětné volání"/>
+<phrase i="3334" t="Vyzvánění – přidrženo"/>
+<phrase i="3335" t="Vyzvánění"/>
+<phrase i="3336" t="Indikace zabezpečeného hovoru"/>
+<phrase i="3337" t="Konference"/>
+<phrase i="3338" t="Přidržet"/>
+<phrase i="3339" t="Chyba"/>
+<phrase i="3340" t="Potvrdit"/>
+<phrase i="3341" t="Výzva"/>
+<phrase i="3342" t="SIT 4"/><!-- special information tone 4. see http://en.wikipedia.org/wiki/Special_information_tone -->
+<phrase i="3343" t="SIT 3"/>
+<phrase i="3344" t="SIT 2"/>
+<phrase i="3345" t="SIT 1"/>
+<phrase i="3346" t="Pozor: vyvěšené sluchátko"/>
+<phrase i="3347" t="Zpětné vyzvánění"/>
+<phrase i="3348" t="Přeuspořádat"/>
+<phrase i="3349" t="Obsazeno"/>
+<phrase i="3350" t="Indikace hlasové schránky"/><!-- Message WAiting Indicator, it is a tone. -->
+<phrase i="3351" t="Externí hovor"/>
+<phrase i="3352" t="Druhé volání"/>
+<phrase i="3353" t="Volat"/><!-- This is a softkey label -->
+<phrase i="3354" t="žádný"/>
+<phrase i="3355" t="Přepojen"/><!-- a call type, means the call has been transferred -->
+<phrase i="3356" t="Přesm."/>
+<phrase i="3357" t="Cb"/><!-- for outbound call, meaning callback call, to indicate on the status page that the current call is a callback call. -->
+<phrase i="3358" t="Komu"/>
+<phrase i="3359" t="Od"/>
+<phrase i="3360" t="Nový kontakt"/>
+<phrase i="3361" t="(PLNÝ)"/>
+<phrase i="3362" t="Firemní adresář"/>
+<phrase i="3363" t="Zadejte číslo k vyzvednutí:"/>
+<phrase i="3365" t="Rychlé vytáčení"/>
+<phrase i="3366" t="&lt;Nepřiřazeno&gt;"/>
+<phrase i="3367" t="Zadejte rychlou volbu 2"/>
+<phrase i="3368" t="Zadejte rychlou volbu 3"/>
+<phrase i="3369" t="Zadejte rychlou volbu 4"/>
+<phrase i="3370" t="Zadejte rychlou volbu 5"/>
+<phrase i="3371" t="Zadejte rychlou volbu 6"/>
+<phrase i="3372" t="Zadejte rychlou volbu 7"/>
+<phrase i="3373" t="Zadejte rychlou volbu 8"/>
+<phrase i="3374" t="Zadejte rychlou volbu 9"/>
+<phrase i="3375" t="Zadejte rychlou volbu"/>
+<phrase i="3376" t="Historie volání"/>
+<phrase i="3377" t="Přijaté hovory"/>
+<phrase i="3378" t="Nastavení vyzvánění"/>
+<phrase i="3379" t="Vyzvánění E1"/>
+<phrase i="3380" t="Vyzvánění E2"/>
+<phrase i="3381" t="Vyzvánění E3"/>
+<phrase i="3382" t="Vyzvánění E4"/>
+<phrase i="3383" t="Firemní adresář"/>
+<phrase i="3384" t="Předvolby hovorů"/>
+<phrase i="3385" t="a/n"/><!-- This is a softkey label -->
+<phrase i="3386" t="Blokování ID volajícího&#xA;"/>
+<phrase i="3387" t="Blokování anonymních volání&#xA;"/>
+<phrase i="3388" t="Nerušit&#xA;"/>
+<phrase i="3389" t="Zabezpečený hovor&#xA;"/>
+<phrase i="3390" t="Podpora vytáčení&#xA;"/><!-- it is a assistence system for dialing. When user dials numbers, it gives suggestion numbers to the user. -->
+<phrase i="3391" t="Výchozí zvukové zařízení&#xA;"/>
+<phrase i="3394" t="Přepnutí na automatickou odpověď&#xA;"/><!-- When local call enable the Auto Answer Page feature, remote caller call local call with page mode, local phone will answer it directly. -->
+<phrase i="3395" t="Přepnout zvuk do reproduktoru&#xA;"/>
+<phrase i="3396" t="Formát času&#xA;"/>
+<phrase i="3397" t="Formát data&#xA;"/>
+<phrase i="3398" t="den/měsíc"/>
+<phrase i="3399" t="měsíc/den"/>
+<phrase i="3400" t="Jazyk"/>
+<phrase i="3401" t="Stav zaparkovaných hovorů"/>
+<phrase i="3402" t="Stav"/>
+<phrase i="3403" t="Stav telefonu"/>
+<phrase i="3405" t="Stav klap. 2"/>
+<phrase i="3406" t="Stav L1"/>
+<phrase i="3407" t="Stav L2"/>
+<phrase i="3408" t="Stav L3"/>
+<phrase i="3409" t="Stav L4"/>
+<phrase i="3410" t="Volání1:"/>
+<phrase i="3412" t="Datum: "/>
+<phrase i="3413" t="V provozu: "/>
+<phrase i="3415" t="Posl. registr. v %02d:%02d %d/%d&#xA;"/>
+<phrase i="3416" t="Další registr. za %us&#xA;"/>
+<phrase i="3418" t="Volání 1: "/>
+<phrase i="3420" t="Vyzvánění: "/>
+<phrase i="3421" t="Žádné"/>
+<phrase i="3422" t="Neinstalován"/>
+<phrase i="3423" t="Vých."/><!-- This is a softkey label -->
+<phrase i="3425" t="Stanice"/>
+<phrase i="3426" t="Skupina vyvolávání"/>
+<phrase i="3427" t="Automatická obsluha"/>
+<phrase i="3428" t="Interní hudba"/>
+<phrase i="3429" t="Prosím čekejte"/>
+<phrase i="3430" t="Pokus o přihlášení"/>
+<phrase i="3432" t="Kontaktuji server autorizace distribuce hovorů&#xA;pro dostupné"/>
+<phrase i="3433" t="Kontaktuji server autorizace distribuce hovorů&#xA;pro nedostupné"/>
+<phrase i="3434" t="Přihlášení se nezdařilo.&#xA;"/>
+<phrase i="3435" t="Prosím ověřte ID uživatele&#xA;a heslo."/>
+<phrase i="3437" t="Oznámení dostup. selhalo&#xA;"/>
+<phrase i="3438" t="Oznámení nedostup. selhalo&#xA;"/>
+<phrase i="3439" t="ID uživatele:"/>
+<phrase i="3440" t="Heslo:"/>
+<phrase i="3441" t="Přihlášení automatické distribuce hovorů"/>
+<phrase i="3445" t="Aktualizuji firmware&#xA;Prosím neodpojujte napájení!&#xA;Telefon bude autom. restart."/>
+<phrase i="3446" t="&#xA;&#xA;PU: "/><!-- PU stands for Pickup -->
+<phrase i="3450" t="Systém startuje"/>
+<phrase i="3451" t="Vyžádávám firemní&#xA;adresář ze serveru..."/>
+<phrase i="3452" t="Vyžádání firemního&#xA;adresáře selhalo"/>
+<phrase i="3453" t="cdir"/>
+<phrase i="3461" t="Neznámý záznam"/>
+<phrase i="3468" t="Neznámý uživatel"/>
+<phrase i="3469" t="Podle: %s"/>
+<phrase i="3470" t="brána"/>
+<phrase i="3472" t="Sdílet hovor %s"/>
+<phrase i="3473" t="Podle: %s&#xA;"/>
+<phrase i="3476" t="příjemce"/>
+<phrase i="3477" t="stav"/>
+<phrase i="3478" t="ukončeno"/>
+<phrase i="3479" t="zkouším"/>
+<phrase i="3480" t="předčasný"/>
+<phrase i="3481" t="pokračuji"/>
+<phrase i="3482" t="potvrzeno"/>
+<phrase i="3503" t="Uživatel %d"/>
+<phrase i="3504" t="Bez vyzvánění"/>
+<phrase i="3509" t="Uživatel %d (neinstal.)"/>
+<phrase i="3510" t="12h"/>
+<phrase i="3511" t="24h"/>
+<phrase i="3512" t="DHCP"/>
+<phrase i="3513" t="Statická IP"/>
+<phrase i="3515" t="PPPoE"/>
+<phrase i="3516" t="heslo"/><!-- password -->
+<phrase i="3517" t="konfig."/><!-- it is a name for a gui page, which is for phone parameter configuration. -->
+<phrase i="3518" t="Jazyk(nedostupný)"/>
+<phrase i="3519" t="Nedostupný"/>
+<phrase i="3520" t="potvrdit"/>
+<phrase i="3521" t="kontrast"/>
+<phrase i="3522" t="rych._vol."/>
+<phrase i="3523" t="%d dní"/>
+<phrase i="3524" t="1 den"/>
+<phrase i="3525" t="Zakázáno&#xA;"/>
+<phrase i="3526" t="Typ hovoru %d: %s&#xA;"/>
+<phrase i="3527" t="Název jednotky: %s&#xA;"/>
+<phrase i="3528" t="Ph jednotky: %s&#xA;"/>
+<phrase i="3529" t="Délka: %02d:%02d:%02d"/>
+<phrase i="3530" t="Hovor %d: %s&#xA;"/>
+<phrase i="3531" t="Vyzvánění: %s&#xA;"/>
+<phrase i="3532" t="Kód.: %s&#xA;"/><!-- Enc means encoder -->
+<phrase i="3533" t="Dek: %s&#xA;"/><!-- Dec means decoder -->
+<phrase i="3534" t="L%d: Žádná služba&#xA;"/><!-- "L" means line -->
+<phrase i="3535" t="Stav telefonu"/>
+<phrase i="3536" t="Stav linky %d"/>
+<phrase i="3537" t="Stav L%d"/>
+<phrase i="3538" t="ČasDatum"/>
+<phrase i="3539" t="Uložit změny hlasitosti&#xA;"/>
+<phrase i="3540" t="Uložit změny kontrastu&#xA;"/>
+<phrase i="3541" t="opak."/><!-- This is a softkey label -->
+<phrase i="3542" t="přihl."/><!-- This is a softkey label -->
+<phrase i="3543" t="odhl."/><!-- This is a softkey label -->
+<phrase i="3544" t="hlas."/>
+<phrase i="3545" t="nastavení telefonu"/>
+<phrase i="3546" t="Zmeškaný hovor"/>
+<phrase i="3548" t="Selhalo&#xA;"/>
+<phrase i="3549" t="odpark.?"/>
+<phrase i="3550" t="Angličtina"/>
+<phrase i="3551" t="Španělština"/>
+<phrase i="3552" t="Portugalština"/>
+<phrase i="3553" t="Italština"/>
+<phrase i="3554" t="Němčina"/>
+<phrase i="3555" t="Dánština"/>
+<phrase i="3556" t="Finština"/>
+<phrase i="3557" t="Holandština"/>
+<phrase i="3558" t="Norština"/>
+<phrase i="3559" t="Francouzština"/>
+<phrase i="3560" t="Trvání podsvícení"/>
+<phrase i="3561" t="Vždy zapnuto"/>
+<phrase i="3562" t="Vyp."/>
+<phrase i="3563" t="Zkratka zmešk. hovorů"/>
+<phrase i="3564" t="Čekající hovor"/>
+<phrase i="3565" t="Povolit VLAN"/>
+<phrase i="3566" t="VLAN ID"/>
+<phrase i="3567" t="Kancelář"/>
+<phrase i="3568" t="Klas.-1"/>
+<phrase i="3569" t="Klas.-2"/>
+<phrase i="3570" t="Klas.-3"/>
+<phrase i="3571" t="Klas.-4"/>
+<phrase i="3572" t="Jedn.-1"/>
+<phrase i="3573" t="Jedn.-2"/>
+<phrase i="3574" t="Jedn.-3"/>
+<phrase i="3575" t="Jedn.-4"/>
+<phrase i="3576" t="Jedn.-5"/>
+<phrase i="3577" t="Instalován"/>
+<phrase i="3578" t="Od.zn."/>
+<phrase i="3579" t="Přesm."/><!-- This is a softkey label -->
+<phrase i="3580" t="Vym.ner."/><!-- "Clr" means clear, This is a softkey label -->
+<phrase i="3581" t="Nerušit Aktivní! "/>
+<phrase i="3582" t="Od.př."/><!-- This is a softkey label -->
+<phrase i="3583" t="Kon.lin."/><!-- This is a softkey label -->
+<phrase i="3584" t="Op.vol."/><!-- Call return, This is a softkey label -->
+<phrase i="3585" t="Před."/><!-- This is a softkey label -->
+<phrase i="3586" t="Přep."/><!-- This is a softkey label -->
+<phrase i="3587" t="Př.lin."/><!-- This is a softkey label -->
+<phrase i="3588" t="Sl.př."/><!-- blind transfer, this is the equivalent of "bxfer", bxfer is used by SPA942 IP Phone, and BlindXfer is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3589" t="Sk.zv."/><!-- Group Pick Up, this is the equivalent of "grPick", grPick is used by SPA942, and GrPickup is used by SPA962, because of SPA962 can fit more words in softkey box. This is a softkey label -->
+<phrase i="3590" t="Náhled"/><!-- This is a softkey label -->
+<phrase i="3591" t="Nastavení vzhledu"/>
+<phrase i="3592" t="Nastavení vzhledu"/>
+<phrase i="3593" t="Obrázek pozadí"/>
+<phrase i="3594" t="Stáhnuto"/>
+<phrase i="3596" t="Barevné schéma menu"/>
+<phrase i="3597" t="Bleděmodrá"/>
+<phrase i="3598" t="Světle zelená"/>
+<phrase i="3599" t="Růžová"/>
+<phrase i="3600" t="Stříbrná"/>
+<phrase i="3601" t="Hovory přesměrovány "/>
+<phrase i="3602" t="Tlačítko linky 5"/>
+<phrase i="3603" t="Tlačítko linky 6"/>
+<phrase i="3604" t="CDP"/>
+<phrase i="3605" t="Linka 5"/>
+<phrase i="3606" t="Linka 6"/>
+<phrase i="3607" t="Reprod."/>
+<phrase i="3608" t="Náhlavní souprava"/>
+<phrase i="3609" t="dop."/>
+<phrase i="3610" t="odp."/>
+<phrase i="3614" t="Linka %d: %s(%s)"/>
+<phrase i="3616" t="Reset customizace"/>
+<phrase i="3617" t="Kontrolovat aktualizace&#xA;profilu přednastavení?&#xA;(pracuje na pozadí)"/>
+<phrase i="3618" t="Webové služby"/>
+<phrase i="3619" t="Webové služby"/>
+<phrase i="3620" t="Místní zprávy"/>
+<phrase i="3621" t="Zprávy ze světa"/>
+<phrase i="3623" t="Sport"/>
+<phrase i="3624" t="Politika"/>
+<phrase i="3625" t="Technologie"/>
+<phrase i="3626" t="Zábava"/>
+<phrase i="3627" t="Doprava"/>
+<phrase i="3628" t="Symbol akcie"/>
+<phrase i="3629" t="Symbol akcie:"/>
+<phrase i="3630" t="RSS zdroj 1"/>
+<phrase i="3631" t="RSS zdroj 2"/>
+<phrase i="3632" t="RSS zdroj 3"/>
+<phrase i="3633" t="RSS zdroj 4"/>
+<phrase i="3634" t="RSS zdroj 5"/>
+<phrase i="3635" t="Symbol:"/>
+<phrase i="3636" t="Poslední:"/>
+<phrase i="3637" t="Změna"/>
+<phrase i="3638" t="Poptávka:"/>
+<phrase i="3639" t="Nabídka:"/>
+<phrase i="3640" t="Zřizování"/>
+<phrase i="3641" t="Historie statistik hovorů"/>
+<phrase i="3642" t="Proxy:%s:%u&#xA;"/>
+<phrase i="3643" t="Profil:%s&#xA;"/>
+<phrase i="3644" t="Stav:%s&#xA;"/>
+<phrase i="3645" t="Důvod:%s&#xA;"/>
+<phrase i="3647" t="Zakázáno"/>
+<phrase i="3649" t="Syntaktická chyba v pravidle"/>
+<phrase i="3650" t="Probíhá"/>
+<phrase i="3651" t="Úspěch"/>
+<phrase i="3652" t="DNS dotaz"/>
+<phrase i="3653" t="Není jméno serveru"/>
+<phrase i="3654" t="Neplatný nebo omezený server"/>
+<phrase i="3655" t="Prostředky vyčerpány"/>
+<phrase i="3656" t="Poškozený soubor"/>
+<phrase i="3657" t="Šifrovací klíč"/>
+<phrase i="3658" t="Neplatné URL"/>
+<phrase i="3659" t="Soubor nenalezen"/>
+<phrase i="3660" t="Stahování selhalo"/>
+<phrase i="3661" t="&lt;Žádná položka&lt;"/>
+<phrase i="3662" t="Typ:%s"/>
+<phrase i="3663" t="Název jednotky:%s"/>
+<phrase i="3664" t="Jednotka telefonu:%s"/>
+<phrase i="3665" t="Délka:"/>
+<phrase i="3666" t="Čas hovoru:"/>
+<phrase i="3667" t="Kód.:%s"/>
+<phrase i="3668" t="Pro:%s"/>
+<phrase i="3669" t="ID volání: %s"/>
+<phrase i="3674" t="Aktualizuji data zdroje zpráv..."/>
+<phrase i="3675" t="Nejsou k dispozici nová data..."/>
+<phrase i="3676" t="Aktualizace zdroje selhala..."/>
+<phrase i="3677" t="Zprávy"/>
+<phrase i="3680" t="Odes.: %uP&#xA;"/><!-- Tx means transmit, P means package -->
+<phrase i="3681" t="Příj.: %uP&#xA;"/><!-- Rx means receive, P means package -->
+<phrase i="3683" t="Proxy:%s&#xA;"/>
+<phrase i="3684" t="L%d: %s&#xA;"/>
+<phrase i="3685" t="Typ volání: %s&#xA;"/>
+<phrase i="3687" t="Prázdný"/>
+<phrase i="3690" t="Stav zřizování"/>
+<phrase i="3693" t="Statistiky hovorů"/>
+<phrase i="3703" t="LIN:%d"/>
+<phrase i="3704" t="Aktualizuji burzovní data..."/>
+<phrase i="3705" t="Burz. data nejsou k dispozici..."/>
+<phrase i="3706" t="Aktualizace burz. dat selhala..."/>
+<phrase i="3713" t="Ceny akcií Yahoo"/>
+<phrase i="3715" t="Aktualizuji dopravní data..."/>
+<phrase i="3716" t="Nejsou k disp. dopravní data..."/>
+<phrase i="3717" t="Aktualizace dopravních dat selhala..."/>
+<phrase i="3718" t="Není k disp. podrobná doprava..."/>
+<phrase i="3719" t="Data o dopravě se nepodařilo zobrazit..."/>
+<phrase i="3721" t="Cena akcií"/>
+<phrase i="3730" t="Yahoo! Přihlásit"/>
+<phrase i="3731" t="Odhlásit z Yahoo!?"/>
+<phrase i="3732" t="Úspěšné"/>
+<phrase i="3733" t="Selhalo. Prosím zkontrolujte&#xA;ID uživatele a heslo"/>
+<phrase i="3734" t="Přihlašuji. Prosím počkejte."/>
+<phrase i="3735" t="PU: "/>
+<phrase i="3736" t="Hovory přesměrovány&#xA;"/>
+<phrase i="3737" t="Odhlášeno&#xA;"/>
+<phrase i="3738" t="Přihlašuji&#xA;"/>
+<phrase i="3739" t="Není registrováno&#xA;"/>
+<phrase i="3741" t="&#xA;Podle: %s&#xA;%s: "/>
+<phrase i="3743" t="&#xA;PU: "/>
+<phrase i="3744" t="%sOdhlášeno"/>
+<phrase i="3745" t="akt."/><!-- This is a softkey label -->
+<phrase i="3746" t="Detail"/><!-- This is a softkey label -->
+<phrase i="3756" t="TEST_LANGUAGE"/>
+<phrase i="3757" t="Obrázek BMP"/>
+<phrase i="3758" t="Přidat"/><!-- This is a softkey label -->
+<phrase i="3759" t="Písm."/><!-- This is a softkey label -->
+<phrase i="3760" t="Od.zn."/><!-- This is a softkey label -->
+<phrase i="3761" t="Prop."/><!-- This is a softkey label -->
+<phrase i="3762" t="Storno"/><!-- This is a softkey label -->
+<phrase i="3764" t="Smaž"/><!-- This is a softkey label -->
+<phrase i="3765" t="Konf."/><!-- This is a softkey label -->
+<phrase i="3766" t="Kopír."/><!-- This is a softkey label -->
+<phrase i="3767" t="Odstranit"/><!-- This is a softkey label -->
+<phrase i="3771" t="Uprav."/><!-- This is a softkey label -->
+<phrase i="3772" t="Konec"/><!-- This is a softkey label -->
+<phrase i="3774" t="Přip."/><!-- This is a softkey label -->
+<phrase i="3775" t="Zmešk."/><!-- This is a softkey label -->
+<phrase i="3776" t="Další"/><!-- This is a softkey label -->
+<phrase i="3777" t="Čísla"/><!-- This is a softkey label -->
+<phrase i="3778" t="OK"/><!-- This is a softkey label -->
+<phrase i="3779" t="Změnit"/><!-- This is a softkey label -->
+<phrase i="3780" t="Vložit"/><!-- This is a softkey label -->
+<phrase i="3781" t="Přehr."/><!-- This is a softkey label -->
+<phrase i="3783" t="Pokr."/><!-- This is a softkey label -->
+<phrase i="3784" t="Uložit"/><!-- This is a softkey label -->
+<phrase i="3785" t="Vybrat"/><!-- This is a softkey label -->
+<phrase i="3786" t="*Kód"/><!-- This is a softkey label -->
+<phrase i="3787" t="A/N"/><!-- This is a softkey label -->
+<phrase i="3793" t="Dost."/><!-- This is a softkey label -->
+<phrase i="3794" t="Nedos."/><!-- This is a softkey label -->
+<phrase i="3795" t="Zrušit"/><!-- This is a softkey label -->
+<phrase i="3796" t="Znovu"/><!-- This is a softkey label -->
+<phrase i="3797" t="Více"/><!-- This is a softkey label -->
+<phrase i="3798" t="Akt."/><!-- This is a softkey label -->
+<phrase i="3799" t="náhled"/><!-- This is a softkey label -->
+<phrase i="3800" t="detail"/><!-- This is a softkey label -->
+<phrase i="3803" t="Yahoo! Odhlásit"/>
+<phrase i="3807" t="Fir. Adr."/>
+<phrase i="3808" t="Není dostup. obrázek ke stažení"/>
+<phrase i="3809" t="Zakázat anonymní volání"/>
+<phrase i="3810" t="Žádné detaily k dispozici..."/>
+<phrase i="3811" t="Žádné detaily k dispozici&#xA;"/>
+<phrase i="3812" t="Zobrazení zdroje zpráv selhalo..."/>
+<phrase i="3813" t="Přepojuji"/>
+<phrase i="3814" t="Přepojení selhalo"/>
+<phrase i="3815" t="Délka: %02d:%02d:%02d&#xA;"/>
+<phrase i="3816" t="Statistika hovorů:"/>
+<phrase i="3817" t="Zobrazení cen akcií selhalo..."/>
+<phrase i="3818" t="Není k disp. podrobná doprava&#xA;"/>
+<phrase i="3822" t="Vyzvánění E5"/>
+<phrase i="3824" t="Nerušit"/>
+<phrase i="3825" t="Hovory přesměrovány"/>
+<phrase i="3826" t="&lt;Žádná položka&gt;"/>
+<phrase i="3827" t="Přednastavení"/>
+<phrase i="3828" t="Otevřít"/>
+<phrase i="3829" t="Probíhá"/>
+<phrase i="3830" t="Přednastaveno"/>
+<phrase i="3831" t="Staženo&quot;výchozí"/>
+<phrase i="3832" t="Anonymní volající"/>
+<phrase i="3833" t="%sHovory přesměrovány"/>
+<phrase i="3834" t="%sOdhlašování"/>
+<phrase i="3835" t="%sPřihlašuji"/>
+<phrase i="3836" t="%sNení registrováno"/>
+<phrase i="3837" t="%sRegistruji"/>
+<phrase i="3838" t="%sNerušit"/>
+<phrase i="3839" t="Vyzvánění E1"/>
+<phrase i="3840" t="Vyzvánění E2"/>
+<phrase i="3841" t="Vyzvánění E3"/>
+<phrase i="3842" t="Vyzvánění E4"/>
+<phrase i="3843" t="Vyzvánění E5"/>
+<phrase i="3844" t="Vyzvánění E6"/>
+<phrase i="3845" t="Přihlášení selhalo.&#xA;Prosím ověřte ID uživatele&#xA;a heslo."/>
+<phrase i="3846" t="Zkouším se přihlásit."/>
+<phrase i="3847" t="Autorizuji..."/>
+<phrase i="3848" t="Přihlášení do CMS"/>
+<phrase i="3849" t="Odhlásit z CMS?"/>
+<phrase i="3850" t=" 1 / : \\ , ! ; $ ^ | "/>
+<phrase i="3851" t=" a b c 2 A B C á č Á Č "/>
+<phrase i="3852" t=" d e f 3 D E F ď é ě Ď É Ě "/>
+<phrase i="3853" t=" g h i 4 G H I í Í "/>
+<phrase i="3854" t=" j k l 5 J K L "/>
+<phrase i="3855" t=" m n o 6 M N O ň ó Ň Ó "/>
+<phrase i="3856" t=" p q r s 7 P Q R S ř š Ř Š "/>
+<phrase i="3857" t=" t u v 8 T U V ť ú ů Ť Ú Ů "/>
+<phrase i="3858" t=" w x y z 9 W X Y Z ý ž Ý Ž "/>
+<phrase i="3859" t=" . @ * &amp; % [ ] _ "/>
+<phrase i="3860" t="   0 ~ ? &gt; ' &lt; \&quot; "/>
+<phrase i="3861" t=" # + - = ( ) { } "/>
+<phrase i="3863" t="Polština"/>
+<phrase i="3864" t="Ruština"/>
+<phrase i="3865" t="Maďarština"/>
+<phrase i="3866" t="Čeština"/>
+<phrase i="3867" t="Turečtina"/>
+<phrase i="3868" t="Švédština"/>
+<phrase i="3869" t="Slovinština"/>
+<phrase i="3870" t="Bulharština"/>
+<phrase i="3871" t="Slovenština"/>
+<phrase i="3872" t="Chorvatština"/>
+<phrase i="3950" t="Neodpovídá"/>
+<phrase i="3951" t="Nedostupný"/>
+<phrase i="3952" t="Autorizace"/>
+<phrase i="3953" t="Neznámý"/>
+<phrase i="3954" t="Pokus o přidržení"/>
+<phrase i="3955" t="Pokus o obnovení"/>
+<phrase i="3956" t="Změnit"/><!-- This is a softkey label -->
+<phrase i="3957" t="Zapar."/><!-- This is a softkey label -->
+<phrase i="3958" t="Odpar."/><!-- This is a softkey label -->
+<phrase i="3959" t="Vyzv."/><!-- This is a softkey label -->
+<phrase i="3960" t="Synch."/><!-- This is a softkey label -->
+<phrase i="3961" t="Aktiv."/><!-- This is a softkey label -->
+<phrase i="3962" t="Přijmi"/><!-- This is a softkey label -->
+<phrase i="3963" t="Připoj"/><!-- This is a softkey label -->
+<phrase i="3964" t="Odpoj"/><!-- This is a softkey label -->
+<phrase i="3965" t="odesl."/><!-- This is a softkey label -->
+<phrase i="3966" t="synch."/><!-- This is a softkey label -->
+<phrase i="3967" t="aktiv."/><!-- This is a softkey label -->
+<phrase i="3968" t="přijmi"/><!-- This is a softkey label -->
+<phrase i="3969" t="připoj"/><!-- This is a softkey label -->
+<phrase i="3970" t="odpoj"/><!-- This is a softkey label -->
+<phrase i="3971" t="dolů"/><!-- softkey name, used to turn down the volume for sccp mode. This is a softkey label -->
+<phrase i="3972" t="nahoru"/><!-- softkey name, used to turn up the volume for sccp mode. This is a softkey label -->
+<phrase i="3973" t="vých."/><!-- This is a softkey label -->
+<phrase i="3974" t="upr.vyt."/><!-- This is a softkey label -->
+<phrase i="3975" t="&#xA;&#xA;&#xA;Aktualizuji firmware&#xA;Prosím neodpojujte napájení!&#xA;Telefon automaticky restartován"/>
+<phrase i="3976" t="Nahrávám XML aplikaci..."/>
+<phrase i="3977" t="Aktualizace selhala"/>
+<phrase i="3978" t="Nahrání aplikace OK"/>
+<phrase i="3979" t="Nahrání aplikace selhalo"/>
+<phrase i="3980" t="Služby CCME"/><!-- CME is "Cisco Call Manager Express" -->
+<phrase i="3981" t="Probíhá odhlášení.&#xA;Prosím čekejte..."/>
+<phrase i="3982" t="Odhlášení selhalo.&#xA;Restartuji..."/>
+<phrase i="3983" t="   0 ~ ? &gt; ' &lt; &quot; "/>
+<phrase i="3984" t="Vyberte vyzvánění"/>
+<phrase i="3985" t="Mn"/>
+<phrase i="3986" t="Výchozí zvonění: %s"/>
+<phrase i="3987" t="Vyberte linku"/>
+<phrase i="3988" t="Vých. vyzvánění linky                        "/>
+<phrase i="3989" t="Výchozí název vyzvánění                     "/>
+<phrase i="3990" t="Nastavení"/>
+<phrase i="3991" t="Režim spořiče"/>
+<phrase i="3992" t="Povolit spořič"/>
+<phrase i="3993" t="Prodleva spořiče"/>
+<phrase i="3994" t="Ikona spořiče"/>
+<phrase i="3995" t="Čas stanice&quot;Zámek&quot;Telefon&quot;Datum a čas&quot;Obrázek na pozadí"/>
+<phrase i="3996" t="&#xA;&#xA;&#xA;Navracím do továrního nastavení&#xA;Prosím čekejte"/>
+<phrase i="3997" t="&#xA;&#xA;&#xA;Restartuji telefon a síť&#xA;Prosím čekejte"/>
+<phrase i="3998" t="&#xA;&#xA;&#xA;Restartuji telefon&#xA;Prosím čekejte"/>
+<phrase i="4001" t="Pravidlo profilu"/>
+<phrase i="4002" t="Pravidlo profilu:"/>
+<phrase i="4003" t="Opětovná synch. profilu: %s&#xA;"/>
+<phrase i="4004" t="Výsledek: %s&#xA;"/>
+<phrase i="4005" t="Důvod: %s&#xA;"/>
+<phrase i="4006" t="Synchronizace s &#xA;%s&#xA;Telefon se může při úspěchu restartovat!"/>
+<phrase i="4007" t="Neplatné pravidlo profilu!&#xA;"/>
+<phrase i="4008" t="Požadována synchronizace se &#xA;%s&#xA;při nečinnosti telefonu!"/>
+<phrase i="4009" t="Požadavek na synchronizaci selhal!&#xA;Synchronizace již probíhá.&#xA;Prosím zkuste to později."/>
+<phrase i="4010" t="Registruji&#xA;"/>
+<phrase i="4011" t="%2d:%02d:%02d%cm"/>
+<phrase i="4012" t="Telefon odemknete libovolným tlačítkem"/>
+<phrase i="4013" t="Call Control Protocol"/>
+<phrase i="4014" t="Výchozí brána"/>
+<phrase i="4015" t="Server TFTP"/>
+<phrase i="4016" t="Správce VLAN ID"/>
+<phrase i="4017" t="Povolit CDP"/><!-- CDP is "Cisco Discovery Protocol" -->
+<phrase i="4018" t="Call Manager"/>
+<phrase i="4019" t="Název služby PPPoE"/>
+<phrase i="4020" t="Přihl. jméno PPPoE"/>
+<phrase i="4021" t="Heslo pro PPPoE"/>
+<phrase i="4022" t="Webový server povolen"/>
+<phrase i="4023" t="Server pro ladění"/>
+<phrase i="4024" t="Vypnuto&quot;10 s&quot;20 s&quot;30 s&quot;Vždy zapnuto"/>
+<phrase i="4025" t="Místní nastavení"/>
+<phrase i="4026" t="Verze firmwaru"/>
+<phrase i="4027" t="Příj.: %u, "/>
+<phrase i="4028" t="Přenést: %u&#xA;"/><!-- Transmit, to count transmit package number -->
+<phrase i="4029" t="Uplynulý čas: "/>
+<phrase i="4030" t="E%d "/><!-- E means extension, for IP Phone spa942 each line can be configured to use a unique phone number(or extension) -->
+<phrase i="4031" t="Model: %s&#xA;"/>
+<phrase i="4032" t="Verze: %s&#xA;"/>
+<phrase i="4033" t="Řádek:%s"/>
+<phrase i="4034" t="---"/>
+<phrase i="4038" t="Připojuji se &#xA;k serveru VPN..."/>
+<phrase i="4039" t="Odpojuji se &#xA;od serveru VPN..."/>
+<phrase i="4040" t="Připojení k VPN selhalo!&#xA;"/>
+<phrase i="4041" t="VPN připojena!"/>
+<phrase i="4042" t="VPN odpojena!"/>
+<phrase i="4043" t="Neznámý manažer CA. Přijmout?&#xA;"/>
+<phrase i="4044" t="Operace stornována!"/>
+<phrase i="4045" t="Prosím čekejte..."/>
+<phrase i="4046" t="Připojit se k VPN při startu?"/>
+<phrase i="4047" t="Server VPN"/>
+<phrase i="4048" t="ID uživatele"/>
+<phrase i="4049" t="Skupina tunelu"/>
+<phrase i="4050" t="VPN připojena?"/>
+<phrase i="4051" t="DNS 1"/>
+<phrase i="4052" t="DNS 2"/>
+<phrase i="4053" t="Trvání"/>
+<phrase i="4054" t="Bajtů odes."/>
+<phrase i="4055" t="Bajtů přij."/>
+<phrase i="4056" t="Důvod posledního selhání"/>
+<phrase i="4057" t="Prosím nakonfigurujte nejprve server VPN"/>
+<phrase i="4058" t="Telefon je spojen se serverem VPN"/>
+<phrase i="4059" t="Před připojením k serveru VNP prosím zavěste"/>
+<phrase i="4060" t="Telefon není spojen se serverem VPN"/>
+<phrase i="4061" t="Nejprve prosím zavěste telefon"/>
+<phrase i="4062" t="Připojování k CME"/>
+<phrase i="4063" t="Registrace v CME"/>
+<phrase i="4064" t="Registrační token SPCP"/>
+<phrase i="4065" t="Stažení melodie selhalo"/>
+<phrase i="4066" t="Aktualizuji firmware&#xA;Prosím neodpojujte napájení"/>
+<phrase i="4067" t="Aktualizace úspěšná&#xA;...restartuji"/>
+<phrase i="4068" t="Dotaz LDAP"/>
+<phrase i="4069" t="Dotaz na adresář LDAP"/>
+<phrase i="4070" t="Neplatný vstup/konfigurace.&#xA;Zkontrolujte prosím vstup/konfiguraci."/>
+<phrase i="4071" t="Chyba LDAP: nelze se připojit k serveru"/>
+<phrase i="4072" t="Chyba LDAP: Chybná vstupní hodnota"/>
+<phrase i="4073" t="Nebyla nalezena odpovídající položka"/>
+<phrase i="4074" t="Výsledek dotazu LDAP"/>
+<phrase i="4075" t="Požadavek na adresář ze serveru LDAP..."/>
+<phrase i="4076" t="Požadavek na adresář LDAP se nezdařil"/>
+<phrase i="4077" t="Bylo nalezeno příliš mnoho &#xA;položek, upřesněte hledání."/>
+<phrase i="4079" t="Vyzvednutí hovoru"/>
+<phrase i="4080" t="Odparkování hovoru"/>
+<phrase i="4081" t="Vyzved. skup. hovoru"/>
+<phrase i="4083" t="Pov. tag. VLAN portu poč."/>
+<phrase i="4084" t="ID VLAN portu počítače"/>
+<phrase i="4085" t="Upozornění"/>
+<phrase i="4086" t="Vyvolávání"/><!-- it is a system tone name for paging. -->
+<phrase i="4087" t="zpět"/><!-- This is a softkey label -->
+<phrase i="4088" t="přepni"/><!-- This is a softkey label -->
+<phrase i="4089" t="Zpět"/><!-- This is a softkey label -->
+<phrase i="4090" t="Upr.vyt."/><!-- This is a softkey label -->
+<phrase i="4091" t="Jméno"/>
+<phrase i="4092" t="Hledat"/>
+<phrase i="4093" t="Odeslat"/><!-- This is a softkey label -->
+<phrase i="4094" t="Zpětná smyčka"/><!-- When local call enable the Media Loopback feaure, remote caller call local call with Media Loopback star code, local phone will do the media loopback to caller phone. -->
+<phrase i="4095" t="Dolů"/><!-- This is a softkey label -->
+<phrase i="4096" t="Nahoru"/><!-- This is a softkey label -->
+<phrase i="4097" t="Přepni"/><!-- This is a softkey label -->
+<phrase i="4098" t="Požadování..."/>
+<phrase i="4099" t="Neplatné číslo"/>
+<phrase i="4100" t="Žádná linka"/>
+<phrase i="4101" t="Vypršení časového limitu"/>
+<phrase i="4102" t="Služba není dostupná"/>
+<phrase i="4103" t="Chyba sítě"/>
+<phrase i="4104" t="Chyba protokolu"/>
+<phrase i="4105" t="Pokus probíhá"/>
+<phrase i="4106" t="Probíhá přesměrování hovoru"/>
+<phrase i="4107" t="Zařazeno do fronty"/>
+<phrase i="4108" t="Průběh relace"/>
+<phrase i="4109" t="Přijato"/>
+<phrase i="4110" t="Více voleb"/>
+<phrase i="4111" t="Trvale přesunuto"/>
+<phrase i="4112" t="Dočasně přesunuto"/>
+<phrase i="4113" t="Používat proxy"/>
+<phrase i="4114" t="Alternativní služba"/>
+<phrase i="4115" t="Chybný požadavek"/>
+<phrase i="4116" t="Neoprávněný"/>
+<phrase i="4117" t="Je požadována platba"/>
+<phrase i="4118" t="Zakázáno"/>
+<phrase i="4119" t="Nenalezeno"/>
+<phrase i="4120" t="Metoda není povolená"/>
+<phrase i="4121" t="Nepřijatelné"/>
+<phrase i="4122" t="Je vyžadováno ověření proxy"/>
+<phrase i="4123" t="Vypršení časového limitu požadavku"/>
+<phrase i="4124" t="Pryč"/>
+<phrase i="4125" t="Požadovaná entita je příliš velká"/>
+<phrase i="4126" t="Požadované URI je příliš velké"/>
+<phrase i="4127" t="Nepodporovaný typ média"/>
+<phrase i="4128" t="Nepodporované schéma URI"/>
+<phrase i="4129" t="Chybná přípona"/>
+<phrase i="4130" t="Je požadována přípona"/>
+<phrase i="4131" t="Interval je příliš krátký"/>
+<phrase i="4132" t="Dočasně nedostupné"/>
+<phrase i="4133" t="Etapa/transakce neexistuje"/>
+<phrase i="4134" t="Byla zjištěna smyčka"/>
+<phrase i="4135" t="Příliš mnoho segmentů"/>
+<phrase i="4136" t="Neúplná adresa"/>
+<phrase i="4137" t="Nejednoznačné"/>
+<phrase i="4138" t="Obsazeno"/>
+<phrase i="4139" t="Požadavek ukončen"/>
+<phrase i="4140" t="Zde nelze použít"/>
+<phrase i="4141" t="Chybná událost"/>
+<phrase i="4142" t="Požadavek čekající na vyřízení"/>
+<phrase i="4143" t="Nedešifrovatelné"/>
+<phrase i="4144" t="Interní chyba serveru"/>
+<phrase i="4145" t="Neimplementováno"/>
+<phrase i="4146" t="Chybná brána"/>
+<phrase i="4147" t="Služba není dostupná"/>
+<phrase i="4148" t="Vypršení časového limitu serveru"/>
+<phrase i="4149" t="Nepodporovaná verze SIP"/>
+<phrase i="4150" t="Příliš dlouhá zpráva"/>
+<phrase i="4151" t="Všude obsazeno"/>
+<phrase i="4152" t="Odmítnuto"/>
+<phrase i="4153" t="Nikde neexistuje"/>
+<phrase i="4154" t="Chyba transportní vrstvy"/>
+<phrase i="4155" t="Čas stanice"/>
+<phrase i="4156" t="Zámek"/>
+<phrase i="4157" t="Telefon"/>
+<phrase i="4158" t="Datum a čas"/>
+<phrase i="4159" t="Obrázek na pozadí"/>
+<phrase i="4160" t="Finanční zprávy"/>
+<phrase i="4161" t="Vypršela platnost transakce"/>
+<phrase i="4162" t="Nebyla nalezena trasa"/>
+<phrase i="4163" t="Dočasně nedostupný"/>
+<phrase i="4164" t="Žádost byla zrušena"/>
+<phrase i="4165" t="Server je příliš zahlcen"/>
+<phrase i="4166" t="Nedostatečná rychlost přenosu médií"/>
+<phrase i="4200" t="404 nebyl nalezen"/>
+<phrase i="4201" t="Přidat do osobního vstupu"/>
+<phrase i="4202" t="Rozšířené hledání"/>
+<phrase i="4203" t="Odpověď"/>
+<phrase i="4204" t="odpověď"/>
+<phrase i="4205" t="Žádost o adresář Broadsoft selhala"/>
+<phrase i="4206" t="Adresář BroadSoft"/>
+<phrase i="4207" t="Broadsoft: Žádost zrušena uživatelem"/>
+<phrase i="4208" t="Nastav. řízení hovorů"/>
+<phrase i="4209" t="Adresář CME"/>
+<phrase i="4210" t="Oddělení: "/>
+<phrase i="4211" t="Možnosti použití DHCP"/>
+<phrase i="4212" t="Možn.opět.synch.DHCP"/>
+<phrase i="4213" t="E-mail: "/>
+<phrase i="4214" t="Zadejte podrobnosti"/>
+<phrase i="4215" t="Chyba: Prázdný nebo neplatný vstup"/>
+<phrase i="4216" t="Linka 10"/>
+<phrase i="4217" t="Linka 11"/>
+<phrase i="4218" t="Linka 12"/>
+<phrase i="4219" t="Linka 7"/>
+<phrase i="4220" t="Linka 8"/>
+<phrase i="4221" t="Linka 9"/>
+<phrase i="4222" t="Rozšíření: "/>
+<phrase i="4223" t="První: "/>
+<phrase i="4224" t="flash"/>
+<phrase i="4225" t="Vynutit G722"/>
+<phrase i="4226" t="ID skupiny: "/>
+<phrase i="4227" t="Žádost HTTP byla zrušena"/>
+<phrase i="4228" t="Žádost HTTP selhala"/>
+<phrase i="4229" t="Ignorovat"/>
+<phrase i="4230" t="ignorovat"/>
+<phrase i="4231" t="Auto. zjišťování syst. tlač."/>
+<phrase i="4232" t="IP adresa sys. tlač."/>
+<phrase i="4233" t="Poslední: "/>
+<phrase i="4234" t="Chyba LDAP: nelze se připojit k serveru."/>
+<phrase i="4235" t="Tlačítko linky 10"/>
+<phrase i="4236" t="Tlačítko linky 11"/>
+<phrase i="4237" t="Tlačítko linky 12"/>
+<phrase i="4238" t="Tlačítko linky 7"/>
+<phrase i="4239" t="Tlačítko linky 8"/>
+<phrase i="4240" t="Tlačítko linky 9"/>
+<phrase i="4241" t="Mobilní telefon: "/>
+<phrase i="4242" t="Jméno: "/>
+<phrase i="4243" t="Nebyla nalezena odpovídající položka&#xA;"/>
+<phrase i="4244" t="žádný&quot;tftp&quot;http&quot;https"/>
+<phrase i="4245" t="Číslo: "/>
+<phrase i="4246" t="Telefonní číslo:"/>
+<phrase i="4247" t="Preferovat G722"/>
+<phrase i="4248" t="Soukr. podrž."/>
+<phrase i="4249" t="soukr. podrž."/>
+<phrase i="4250" t="psk1"/>
+<phrase i="4251" t="psk2"/>
+<phrase i="4252" t="psk3"/>
+<phrase i="4253" t="psk4"/>
+<phrase i="4254" t="psk5"/>
+<phrase i="4255" t="psk6"/>
+<phrase i="4256" t="Dotaz na adresář BS"/>
+<phrase i="4257" t="Požadavek na adresář ze serveru Broadsoft..."/>
+<phrase i="4258" t="Signalizační protokol"/>
+<phrase i="4259" t="Jednoduché vyhledávání"/>
+<phrase i="4260" t="SIP&quot;SPCP"/>
+<phrase i="4262" t="Model SPA5X5"/>
+<phrase i="4263" t="Automat. detekce SPCP"/>
+<phrase i="4264" t="toCdir"/>
+<phrase i="4265" t="Příliš mnoho vstupů&#xA;"/>
+<phrase i="4266" t="Příliš mnoho osobních vstupů&#xA;"/>
+<phrase i="4267" t="Přenosový protokol"/>
+<phrase i="4268" t="Probíhá odhlášení.&#xA;Prosím čekejte..."/>
+<phrase i="4269" t="ID uživatele: "/>
+<phrase i="4270" t="Chyba formátu XML nebo neplatná aplikace"/>
+<phrase i="4271" t="Služby XML"/>
+<phrase i="4272" t="Do"/>
+<phrase i="4273" t="Jméno:"/>
+<phrase i="4274" t="Ph jednotky"/>
+<phrase i="4275" t="Telefon:"/>
+<phrase i="4276" t="První:"/>
+<phrase i="4277" t="Uk.hov."/><!-- This is a softkey label -->
+<phrase i="4278" t="Nov.hov."/><!-- This is a softkey label -->
+<phrase i="4279" t="Hluboké basy"/>
+<phrase i="4280" t="Nový vstup os. adresáře"/>
+<phrase i="4281" t="Vyhledat osob. adresář"/>
+<phrase i="12000" t="Spustit aplikaci"/>
+<phrase i="12001" t="Neplatná adresa IP"/>
+<phrase i="12002" t="Vyberte linku..."/>
+<phrase i="12003" t="Vyberte vyzvánění..."/>
+<phrase i="12004" t="Požadováno ověření!"/>
+<phrase i="12005" t="CM-ICMP-Nedosažen"/>
+<phrase i="12006" t="Odsazení(\202H:m:s):"/>
+<phrase i="12007" t="Registruji"/>
+<phrase i="12008" t="Vstup serveru STUN"/>
+<phrase i="12009" t="Správce VLAN ID"/>
+<phrase i="12010" t="Alternativní TFTP"/>
+<phrase i="12011" t="Správce volání 1"/>
+<phrase i="12012" t="Výchozí směrovač 1"/>
+<phrase i="12013" t="DHCP&quot;Statická IP"/>
+<phrase i="12014" t="Server TFTP 1"/>
+<phrase i="12015" t="Webový přístup povolen"/>
+<phrase i="12016" t="Uplynulý čas"/>
+<phrase i="12017" t="Příj."/>
+<phrase i="12018" t="Verze"/>
+<phrase i="12019" t="Přenést"/>
+<phrase i="12020" t="Připojování..."/>
+<phrase i="12021" t="Aktualizace byla úspěšná"/>
+<phrase i="12022" t="Zmeškaný hovor"/>
+<phrase i="12023" t="Soubor zvonění je nedostupný!"/>
+<phrase i="12024" t="tones.xml"/>
+<phrase i="12025" t="Registrace zamítnuta:&#xA;%s"/>
+<phrase i="12026" t="Registrační token SPCP byl zamítnut [%d]&#xA;...opakování"/>
+<phrase i="12027" t="Chyba: Nelze najít UC500.&#xA;Kontaktujte správce"/>
+<phrase i="12028" t="10 s"/>
+<phrase i="12029" t="20 s"/>
+<phrase i="12030" t="30 s"/>
+<phrase i="12031" t="Stahování&#xA;%s"/>
+<phrase i="12032" t="(Žádný odp. výsl.)"/>
+<phrase i="12033" t="Nový název"/>
+<phrase i="12034" t="Poslední server TFTP"/>
+<phrase i="12035" t="SIP&quot;SPCP"/>
+<phrase i="12036" t="Testovací BMP"/>
+<phrase i="12037" t="Rumunština"/>
+<phrase i="12038" t="Hluboké basy"/>
+<phrase i="12039" t="Klíčové slovo:"/>
+<phrase i="12040" t="Výsledky"/>
+<phrase i="12041" t="Výsledek"/>
+<phrase i="12043" t="Odhlásit?"/>
+<phrase i="12044" t="Vyberte číslo"/>
+<phrase i="12045" t="přidržet"/>
+<phrase i="12046" t="Zakázané číslo"/>
+<phrase i="12047" t="mimo rozsah!"/>
+<phrase i="12048" t="hledat"/>
+<phrase i="12049" t="Zapisovatelný webový server"/>
+<phrase i="12050" t="Španělština – Mexiko"/>
+<phrase i="12051" t="Během hovoru nelze načíst hlasovou schránku"/>
+<phrase i="12052" t="Adresa serveru je chybná"/>
+<phrase i="12053" t="Došlo k selhání síťového připojení"/>
+<phrase i="12054" t="Chyba formátu hlasové schránky"/>
+<phrase i="12055" t="Požadavek selhal"/>
+<phrase i="12056" t="Proveďte prosím úpravu:"/>
+<phrase i="12057" t="Zadejte přepojení hovoru na číslo:"/>
+<phrase i="12058" t="zapojit se"/>
+<phrase i="12059" t="(Bez zvonění hovorů)"/>
+<phrase i="12060" t="Panel zmešk. hovorů"/>
+<phrase i="12061" t="Zapojit se"/>
+<phrase i="12062" t="nečinný"/>
+<phrase i="12063" t="zadržené"/>
+<phrase i="12064" t="probíhající"/>
+<phrase i="12065" t="upozornění"/>
+<phrase i="12066" t="podržený-soukromý"/>
+<phrase i="12067" t="aktivní"/>
+<phrase i="12068" t="podržený"/>
+<phrase i="12069" t="přemostění-aktivní"/>
+<phrase i="12070" t="přemostění-přidržené"/>
+<phrase i="12071" t="vyzvánění"/>
+<phrase i="12072" t="aktivní"/>
+<phrase i="12073" t="další vyzvánění"/>
+<phrase i="12074" t="další-přidržení"/>
+<phrase i="12075" t="žádná služba"/>
+<phrase i="12076" t="další-nečinné"/>
+<phrase i="12077" t="vyhrazené"/>
+<phrase i="12078" t="Nekonfigurované"/>
+<phrase i="12079" t="Ověřování adresy URL aktualizace&#xA;Prosím neodpojujte napájení"/>
+<phrase i="12080" t="Probíhá resynchronizace"/>
+<phrase i="12081" t="Resynchronizace byla úspěšná"/>
+<phrase i="12082" t="Resynchronizace byla úspěšná. &#xA;Telefon se restartuje. Prosím čekejte"/>
+<phrase i="12083" t="Opětovná synchronizace selhala"/>
+<phrase i="12084" t="Angličtina – US"/>
+<phrase i="12085" t="Konferenční přemostění"/>
+<phrase i="12086" t="Anonymní"/>
+<phrase i="12087" t="reset"/>
+<phrase i="12088" t="sdíleno"/>
+<phrase i="12089" t="připojeno"/>
+<phrase i="12090" t="přidat do adresáře"/>
+<phrase i="12091" t="přidržený"/>
+<phrase i="12092" t="neplatný"/>
+<phrase i="12093" t="obnovení"/>
+<phrase i="12094" t="volání"/>
+<phrase i="12095" t="příjem"/>
+<phrase i="12096" t="Osobní rychlé vytáčení"/>
+<phrase i="12097" t="Seznam hovorů XferLx"/>
+<phrase i="12098" t="Seznam hovorů ConfLx"/>
+<phrase i="12099" t="verze"/>
+<phrase i="12100" t="Osobní&quot;podniková&quot;skupina"/>
+<phrase i="12101" t="Název adresáře"/>
+<phrase i="12102" t="Hostitelský server"/>
+<phrase i="12103" t="Pomocí"/>
+<phrase i="12104" t="Nastavit stav agenta"/>
+<phrase i="12105" t="K dispozici"/>
+<phrase i="12106" t="Historie rebootování"/>
+<phrase i="12107" t="Výchozí&quot;HiDef&quot;norma"/>
+<phrase i="12108" t="Prodleva spuštění sítě"/>
+<phrase i="12109" t="Rozlišení CWT"/>
+<phrase i="12110" t="Povolit LLDP-MED"/>
+<phrase i="12111" t="Registrace zamítnuta:&#xA;%s"/>
+<phrase i="12112" t="Chyba: Registrace zamítnuta.&#xA;Kontaktujte správce..."/>
+<phrase i="12113" t="Zjištěna chyba sítě."/>
+<phrase i="12114" t="Registruji..."/>
+<phrase i="12115" t="Chyba sítě."/>
+<phrase i="12116" t="Heslo"/>
+<phrase i="12117" t="Resynchronizace byla úspěšná. &#xA;Telefon se restartuje. Prosím čekejte."/>
+<phrase i="12118" t="Verze sluchátka"/>
+<phrase i="12119" t="Automatický&quot;originál&quot;v3"/>
+<phrase i="12120" t="Server DHCP selhal"/>
+<phrase i="12121" t="Inovace"/>
+<phrase i="12122" t="Zřizování"/>
+<phrase i="12123" t="Spouštěné uživatelem"/>
+<phrase i="12124" t="Spouštěné SIP"/>
+<phrase i="12125" t="Chyba systému"/>
+<phrase i="12126" t="Odpojeno"/>
+<phrase i="12127" t="Systém 1"/>
+<phrase i="12128" t="Systém 2"/>
+<phrase i="12129" t="Duplikovat IP adresu"/>
+<phrase i="12130" t="Záložní IP adresa"/>
+<phrase i="12131" t="Systém 3"/>
+<phrase i="12132" t="Systém 4"/>
+<phrase i="12133" t="Systém 5"/>
+<phrase i="12134" t="Systém 6"/>
+<phrase i="12135" t="Systém 7"/>
+<phrase i="12136" t="Spouštěné SIP"/>
+<phrase i="12137" t="Stahování slovníku"/>
+<phrase i="12138" t="Změna VLAN"/>
+<phrase i="12139" t="Zpětný kód"/>
+<phrase i="12140" t="Tovární nastavení"/>
+<phrase i="12141" t="Pož. softwaru"/>
+<phrase i="12142" t="Změna IP adresy"/>
+<phrase i="12143" t="Zadejte kód účtu"/>
+<phrase i="12144" t="Zadejte vnější číslo"/>
+<phrase i="12145" t="Interní adresář"/>
+<phrase i="12146" t="Externí adresář"/>
+<phrase i="12147" t="Adresář skupin"/>
+<phrase i="12148" t="Adresář stanic"/>
+<phrase i="12149" t="Externí hudba"/>
+<phrase i="12150" t="Skupina vyvolávání 1"/>
+<phrase i="12151" t="Skupina vyvolávání 2"/>
+<phrase i="12152" t="Skupina vyvolávání 3"/>
+<phrase i="12153" t="Skupina vyvolávání 4"/>
+<phrase i="12154" t="Skupina vyvolávání 5"/>
+<phrase i="12155" t="Externí vyvolávání"/>
+<phrase i="12156" t="Příklad hovoru"/>
+<phrase i="12157" t="BLF"/>
+<phrase i="12158" t="Režim vyzvánění systému v noci"/>
+<phrase i="12159" t="Hovor je parkován"/>
+<phrase i="12160" t="Zrcadlení portů"/>
+<phrase i="12161" t="Mimo rozsah!"/>
+<phrase i="12162" t="Služba XML"/>
+<phrase i="12163" t="hebrejština"/>
+<phrase i="12164" t="Hovor je parkován"/>
+<phrase i="12165" t="Linka"/>
+<phrase i="12166" t="Po přepnutí mezi LTR a RTL&#xA; bude dříve zadaný text&#xA; odstraněn, pokračovat?"/>
+<phrase i="12167" t="Velikost písma"/>
+<phrase i="12168" t="Předvolby konzoly op."/><!--maneas Attendant Console Preferences-->
+<phrase i="12169" t="Def. rychlého vytáčení – linka %d"/><!--Def. means define-->
+<phrase i="12170" t="Def. rychlého vytáčení – klíč %d"/><!--Def. means define-->
+<phrase i="12171" t="park. hovorů"/>
+<phrase i="12172" t="Čekání na zadání dalších číslic...&#xA;Po dokončení stisknutím tlačítka OK pokračujte."/>
+<phrase i="12173" t="Pulz"/>
+<phrase i="12174" t="OdstVše"/>
+<phrase i="12175" t="OdstSez"/>
+<phrase i="12176" t="Chcete odstranit všechny záznamy?"/>
+<phrase i="12177" t="Režim zobrazení"/> <!-- 7.5.5 start -->
+<phrase i="12178" t="Linka"/>
+<phrase i="12179" t="Obojí"/> <!-- 7.5.5 end -->
+<phrase i="12180" t="Konfigurace Wi-Fi"/> <!-- 7.5.6 start -->
+<phrase i="12181" t="Nebylo nalezeno žádné zařízení Wi-Fi."/>
+<phrase i="12182" t="Bezdrátový profil"/>
+<phrase i="12183" t="WPS (Wi-Fi Protected Setup)"/>
+<phrase i="12184" t="Stav bezdrátové sítě"/>
+<phrase i="12185" t="Základní konfigurace"/>
+<phrase i="12186" t="Režim zabezpečení"/>
+<phrase i="12187" t="Konfigurace šifrování"/>
+<phrase i="12188" t="SSID"/>
+<phrase i="12189" t="Pásmo"/>
+<phrase i="12190" t="Šifrování WPA"/>
+<phrase i="12191" t="Formát sdíleného klíče"/>
+<phrase i="12192" t="Klíč WPA"/>
+<phrase i="12193" t="Typ ověření WEP"/>
+<phrase i="12194" t="Délka klíče WEP"/>
+<phrase i="12195" t="Klíč WEP"/>
+<phrase i="12196" t="Profil"/>
+<phrase i="12197" t="Konfigurace pomocí čísla PIN"/>
+<phrase i="12198" t="Bezdrátová konfigurace PIN začala!"/>
+<!--phrase i="12199" t="Pro zařízení, která vyžadují číslo PIN, zadejte číslo [%s] a potom vyberte tento režim."/-->
+<phrase i="12200" t="Prohledávání bezdrátových sítí..."/>
+<phrase i="12201" t="Vyberte profil"/>
+<phrase i="12202" t="Konfigurace tlačítkem"/>
+<phrase i="12203" t="Bezdrátový vypínač začal konfiguraci"/>
+<phrase i="12204" t="WPS (Wi-Fi Protected Setup)"/>
+<phrase i="12205" t="Stav bezdrátové sítě"/>
+<phrase i="12206" t="Název sítě (SSID)"/>
+<phrase i="12207" t="Síla signálu"/>
+<phrase i="12208" t="prohledat"/>
+<phrase i="12209" t="Chcete-li použít tuto funkci, musíte inovovat na nejnovější firmware WBPN."/>
+<phrase i="12210" t="Přihlášení hosta"/>
+<phrase i="12211" t="gstIn"/>
+<phrase i="12212" t="gstOut"/>
+<phrase i="12213" t="(Host připojen)"/> 
+<phrase i="12214" t="Všechny parametry budou nastaveny na výchozí tovární hodnoty. Pokračovat?"/><!-- 7.5.6 end -->
+
+<!-- HEBREW KEYMAP START Needn't translate-->
+<phrase i="12399" t=" 1 "/>
+<phrase i="12400" t=" a b c "/>
+<phrase i="12401" t=" d e f "/>
+<phrase i="12402" t=" g h i "/>
+<phrase i="12403" t=" j k l "/>
+<phrase i="12404" t=" m n o "/>
+<phrase i="12405" t=" p q r s "/>
+<phrase i="12406" t=" t u v "/>
+<phrase i="12407" t=" w x y z "/>
+<phrase i="12408" t="   0 "/>
+<!-- HEBREW KEYMAP END Needn't translate-->
+</phrases>
