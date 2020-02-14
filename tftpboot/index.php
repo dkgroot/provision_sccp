@@ -48,7 +48,8 @@ $ringtones_list = array('distinctive.xml', 'ringlist.xml','distinctiveringlist.x
 $ringtones_suffix = array('.raw', '.pcm', '.rwb');
 
 $locale_list = array('-dictionary.', 'dictionary-ext.', '-dictionary.utf-8.', '-kate.xml', '-font.xml', '-font.dat','-tones.xml',
-                     'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml');
+                     'be-sccp.jar', 'tc-sccp.jar', 'td-sccp.jar', 'ipc-sccp.jar', 'mk-sccp.jar', '_locale.loads', 'i-button-help.xml',
+                     'tc-sip.jar', 'td-sipp.jar');
 
 # Show debug output
 if ($print_debug == 'on') {
@@ -86,7 +87,7 @@ if (!empty($req_file)) {
         $tmp_file = explode('.', $req_file_name);
         
         if (strpos_array($req_file_name, $fw_suffix,'any') !== FALSE) {			// Firmware file was requested
-            $firmware_list = find_all_files($config['tftproot'].'/'.$config['firmware']);
+            $firmware_list = find_all_files($config['firmware']);
             $pos2 = strpos_array($firmware_list, $req_file_name, 'any'); 		// case unsensitive
             if ($pos2 !== FALSE) { 							// Request Firmware 
                 $req_file_full_path = $firmware_list[$pos2];
@@ -101,7 +102,7 @@ if (!empty($req_file)) {
             if (strpos(strtolower($req_file_name), '.cnf.xml') !==  FALSE) {		// Request Settings
                 $tmp_file = $config['settings'].'/'.$req_file_name;
             }
-            else if (strpos(strtolower($req_file), '/desktops/') !== FALSE) { 		// Request Wallpapers
+            else if (strpos(strtolower($req_file), 'desktops/') !== FALSE) { 		// Request Wallpapers
                 $tmp_file = $config['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
             }
             else if (strpos_array($ringtones_list, $req_file_name, 'any') !== FALSE) {	// Request RingTones
@@ -140,19 +141,21 @@ if (!empty($req_file)) {
 */
             if ($print_debug == 'on'){ print_r('<br>File : '. $orig_req_file_name. ' not found.<br>');}
             if (empty($tmp_file)) { 
-                if (!empty($config['log'])) { to_log(array('GET :'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
+                if (!empty($config['log'])) { to_log(array('GET ('.$req_file.'):'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
+                header("HTTP/1.0 404 Not Found");
                 die('ERROR: no match found.');
             }
             $req_file_full_path = $tmp_file;
         }
     }
-    if (!empty($config['log'])) { to_log(array('GET :'.$orig_req_file_name, 'Remap :'.$req_file_full_path),'i',$config['log']); }
+    if (!empty($config['log'])) { to_log(array('GET ('.$req_file.') :'.$orig_req_file_name, 'Remap :'.$req_file_full_path),'i',$config['log']); }
     
     if (!empty($req_file_full_path)) { 
         if ($signed) {
             $req_file_full_path .= '.sgn';
         }
         if (!file_exists($req_file_full_path)) { 
+            header("HTTP/1.0 404 Not Found");
             die('Could not find:'. $req_file_full_path);
         }
         if ($print_debug == 'on'){ print_r('<br>Returning: '. $req_file_full_path. '<br>');}
