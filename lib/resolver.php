@@ -1,6 +1,6 @@
 #!/usr/bin/php
 <?php
-$CACHEFILE_NAME="/tmp/provision_sccp_resolver.cache";
+include_once("config.php");
 
 /* Todo:
  - setup logging
@@ -15,9 +15,11 @@ $CACHEFILE_NAME="/tmp/provision_sccp_resolver.cache";
 class Resolver {
 	private $isDirty = FALSE;
 	private $cache = array();
-	function __construct() {
-		if(file_exists($GLOBALS["CACHEFILE_NAME"])) {
-	 		$this->cache = unserialize(file_get_contents($GLOBALS["CACHEFILE_NAME"])); 
+	private $config;
+	function __construct($config) {
+		$this->config = $config;
+		if(file_exists($this->config['main']['cache_filename'])) {
+	 		$this->cache = unserialize(file_get_contents($config['main']['cache_filename'])); 
 		} else {
 			$this->buildCleanCache();
 		}
@@ -25,58 +27,57 @@ class Resolver {
 	function __destruct() {
 		//print_r($this->cache);
 		if ($this->isDirty) {
-			if (!file_put_contents($GLOBALS["CACHEFILE_NAME"], serialize($this->cache))) {
-				throw new Exception("Could not write to file ".$GLOBALS["CACHEFILE_NAME"]." at Resolver::destruct");
+			if (!file_put_contents($this->config['main']['cache_filename'], serialize($this->cache))) {
+				throw new Exception("Could not write to file '".$this->config['cache_filename']."' at Resolver::destruct");
 			}
 		}
 	}
 	function searchForFile($filename) {
-		foreach(["settings","wallpapers","ringtones","locales/countries","locales/languages"] as $subdir) {
-			$path = "$subdir/$filename";
+		foreach($this->config['subdirs'] as $key => $value) {
+			if ($key === "firmware" || $key === "tftproot" ) {
+				continue;
+			}
+			$path = realpath($this->config['main']['base_path'] . "/" . $value['path'] . "/$filename");
 			if (file_exists($path)) {
 				 $this-> addFile($filename, $path);
 				 return $path;
 			}
 		}
-		throw new Exception("File '$request' does not exist");
+		throw new Exception("File '$filename' does not exist");
 	}
 	function buildCleanCache() {
-		// Intelligently walk tree
-		$currentdir=getcwd();
-		//foreach(["firmware","ringtones","settings"] as $subdir) {
-		foreach(["firmware","ringtones"] as $subdir) {
-			$dir_iterator = new RecursiveDirectoryIterator("$currentdir/$subdir");
-			$iterator = new RecursiveIteratorIterator($dir_iterator, RecursiveIteratorIterator::SELF_FIRST);
-			foreach ($iterator as $file) {
-				if ($file->isFile()) {
-					$this->addFile($file->getFileName(), $file->getPathname());
-				}
+		foreach($this->config['subdirs'] as $key =>$value) {
+			if ($key === "tftproot") {
+				continue;
 			}
-		}
-		foreach(["locales/languages", "locales/countries", "wallpapers"] as $subdir) {
-			$dir_iterator = new RecursiveDirectoryIterator("$currentdir/$subdir");
+			$path = $this->config['main']['base_path'] . "/" . $value['path'] . "/";
+			$dir_iterator = new RecursiveDirectoryIterator($path);
 			$iterator = new RecursiveIteratorIterator($dir_iterator, RecursiveIteratorIterator::SELF_FIRST);
 			foreach ($iterator as $file) {
 				if ($file->isFile()) {
-					$path = basename(dirname($file->getPathname()));
-					$this->addFile("$path/".$file->getFileName(), $file->getPathname());
+					if ($value['strip'] === 1) {
+						$this->addFile($file->getFileName(), $file->getPathname());
+					} else {
+						$subdir = basename(dirname($file->getPathname()));
+						$this->addFile('$subpath/'.$file->getFileName(), $file->getPathname());
+					}
 				}
 			}
 		}
 		$this->isDirty  = TRUE;
 	}
 	function addFile($hash, $path) {
-		//echo "Rdding $hash\n";
+		//echo 'Adding $hash\n';
 		$this->cache[$hash] = $path;
 		$this->isDirty  =TRUE;
 	}
 	function removeFile($hash) {
-		//echo "Removing $hash\n";
+		//echo 'Removing $hash\n';
 		unset($this->cache[$hash]);
 		$this->isDirty = TRUE;
 	}
 	function resolve($request) /* canthrow */ {
-		$path = "";
+		$path = '';
 		if (array_key_exists($request, $this->cache)) {
 			if ($path = $this->cache[$request]) {
 				if (!file_exists($path)) {
@@ -93,7 +94,7 @@ class Resolver {
 	}
 }
 
-$resolver = new Resolver();
+$resolver = new Resolver($config);
 try {
 	print($resolver->resolve("jar70sccp.9-4-2ES26.sbn")."\n");
 	print($resolver->resolve("Russian_Russian_Federation/be-sccp.jar")."\n");

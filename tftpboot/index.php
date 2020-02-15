@@ -2,38 +2,7 @@
 //
 // Written by Alex / github.com/PhantomVI
 //
-
-$base_path = realpath($_SERVER['DOCUMENT_ROOT']);
-$base_config = Array(
-    'debug' => 1,
-    'tftproot' => $base_path,
-    'default_language' => 'English_United_States',
-    'firmware' => 'firmware', 'settings' => 'settings', 'wallpapers' => 'wallpapers', 'ringtones' => 'ringtones',
-    'locales' => 'locales', 'countries' => 'countries', 'languages' => 'languages'
-);
-$base_tree = Array('settings' => 'tftproot', 'wallpapers' => 'tftproot', 'ringtones'=>'tftproot',
-                   'locales' => 'tftproot',  'firmware' => 'tftproot', 'languages' => 'locales', 
-                   'countries' => 'locales', 'default_language' => 'locales');
-
-# Merge config
-$ini_array = parse_ini_file('index.cnf');
-if (!empty($ini_array)) {
-    $config = array_merge($base_config, $ini_array);
-}
-
-foreach ($base_tree as $key => $value) {
-     if (!empty($config[$key])) {
-        if (substr($config[$key],0,1) != "/") {
-             $config[$key] = $config[$value].'/'.$config[$key];
-         }
-     }
-}
- 
-#$config['tftproot'] = (!empty($config['tftproot'])) ? $config['tftproot'] : '/tftpboot';
-
-# Fixup debug
-$print_debug = (!empty($config['debug'])) ? $config['debug'] : 'off';
-$print_debug = ($print_debug == 1) ? 'on' : $print_debug;
+include_once("../lib/config.php");
 
 # Parse request
 $request = $_REQUEST;
@@ -78,16 +47,16 @@ if (!empty($req_file)) {
     }
 
         
-    if (file_exists($config['tftproot'].'/'.$req_file_name))				// prevent "/../...//" browsing - (eliminate back door)
+    if (file_exists($config['main']['tftproot'].'/'.$req_file_name))				// prevent "/../...//" browsing - (eliminate back door)
     {
-        $req_file_full_path = $config['tftproot'].'/'.$req_file_name;
+        $req_file_full_path = $config['main']['tftproot'].'/'.$req_file_name;
     } 
     else 
     { 
         $tmp_file = explode('.', $req_file_name);
         
         if (strpos_array($req_file_name, $fw_suffix,'any') !== FALSE) {			// Firmware file was requested
-            $firmware_list = find_all_files($config['firmware']);
+            $firmware_list = find_all_files($config['subdirs']['firmware']);
             $pos2 = strpos_array($firmware_list, $req_file_name, 'any'); 		// case unsensitive
             if ($pos2 !== FALSE) { 							// Request Firmware 
                 $req_file_full_path = $firmware_list[$pos2];
@@ -100,55 +69,55 @@ if (!empty($req_file)) {
 
             //if (strpos_array($req_file_name, $settings_suffix, 'any') !==  FALSE) { 	// Request Settings
             if (strpos(strtolower($req_file_name), '.cnf.xml') !==  FALSE) {		// Request Settings
-                $tmp_file = $config['settings'].'/'.$req_file_name;
+                $tmp_file = $config['subdirs']['settings'].'/'.$req_file_name;
             }
             else if (strpos(strtolower($req_file), 'desktops/') !== FALSE) { 		// Request Wallpapers
-                $tmp_file = $config['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
+                $tmp_file = $config['subdirs']['wallpapers'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
             }
             else if (strpos_array($ringtones_list, $req_file_name, 'any') !== FALSE) {	// Request RingTones
-                $tmp_file = $config['ringtones'].'/'.$req_file_name;
+                $tmp_file = $config['subdirs']['ringtones'].'/'.$req_file_name;
                 if (!file_exists($tmp_file)) {
-                    $tmp_file = $config['ringtones'].'/ringlist.xml';
+                    $tmp_file = $config['subdirs']['ringtones'].'/ringlist.xml';
                 }
             } 
             else if(strpos_array($req_file_name, $ringtones_suffix,'any') !== FALSE) {			// Firmware file was requested
-                $tmp_file = $config['ringtones'].'/'.$req_file_name;
+                $tmp_file = $config['subdirs']['ringtones'].'/'.$req_file_name;
             }
             else if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 		// Request Languages
                 if (!empty($req_data_ar[$req_data_len-1])) {
-                    $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
+                    $tmp_file = $config['subdirs']['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_file_name;
                 } else {
-                    $tmp_file = $config['default_language'].'/'. $req_file_name;
+                    $tmp_file = $config['main']['default_language'].'/'. $req_file_name;
                 }
             }
             
 /*
             else if (strpos(strtolower($req_file), '-tones.xml') !== FALSE) { 		// Request Countries
-                $tmp_file = $config['countries'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['subdirs']['countries'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
  
             else if (strpos(strtolower($req_file), '-dictionary.') !== FALSE) { 		// Request Countries
-                $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['subdirs']['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 
             else if (strpos_array($req_file, $locale_list, 'any') !== FALSE) { 		// Request Languages
-                $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['subdirs']['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 
             else if (strpos(strtolower($req_file), '-dictionary.jar') !== FALSE) { 	// Request Countries
-                $tmp_file = $config['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
+                $tmp_file = $config['subdirs']['languages'].'/'. $req_data_ar[$req_data_len-1].'/'. $req_data_ar[$req_data_len];
             }
 */
             if ($print_debug == 'on'){ print_r('<br>File : '. $orig_req_file_name. ' not found.<br>');}
             if (empty($tmp_file)) { 
-                if (!empty($config['log'])) { to_log(array('GET ('.$req_file.'):'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
+                if (!empty($config['main']['log'])) { to_log(array('GET ('.$req_file.'):'.$orig_req_file_name, 'no match found'),'E',$config['log']); }
                 header("HTTP/1.0 404 Not Found");
                 die('ERROR: no match found.');
             }
             $req_file_full_path = $tmp_file;
         }
     }
-    if (!empty($config['log'])) { to_log(array('GET ('.$req_file.') :'.$orig_req_file_name, 'Remap :'.$req_file_full_path),'i',$config['log']); }
+    if (!empty($config['main']['log'])) { to_log(array('GET ('.$req_file.') :'.$orig_req_file_name, 'Remap :'.$req_file_full_path),'i',$config['main']['log']); }
     
     if (!empty($req_file_full_path)) { 
         if ($signed) {
