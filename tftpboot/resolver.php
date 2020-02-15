@@ -25,13 +25,9 @@ class Resolver {
 	function __destruct() {
 		//print_r($this->cache);
 		if ($this->isDirty) {
-			if($f = @fopen($GLOBALS["CACHEFILE_NAME"],"w")) {
-				//if(@fwrite($f,serialize(get_object_vars($this))))
-				if(@fwrite($f,serialize($this->cache))) {
-		   		  	@fclose($f);
-				}
-			} else
-        	        	die("Could not write to file ".$GLOBALS["CACHEFILE_NAME"]." at Resolver::destruct");
+			if (!file_put_contents($GLOBALS["CACHEFILE_NAME"], serialize($this->cache))) {
+				throw new Exception("Could not write to file ".$GLOBALS["CACHEFILE_NAME"]." at Resolver::destruct");
+			}
 		}
 	}
 	function searchForFile($filename) {
@@ -83,7 +79,7 @@ class Resolver {
 		$path = "";
 		if (array_key_exists($request, $this->cache)) {
 			if ($path = $this->cache[$request]) {
-				if (!stat($path)) {
+				if (!file_exists($path)) {
 					 $this->removeFile($request);
 					 throw new Exception("File '$request' does not exist on FS");
 				}
