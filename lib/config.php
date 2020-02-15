@@ -50,7 +50,6 @@ foreach ($tree_base as $key => $value) {
 }
 
 $config['main']['base_path'] = $base_path;
-print_r($config['main']['base_path']);
 $config['main']['tftproot'] = (!empty($config['main']['tftproot'])) ? $base_path . "tftpboot" : '/tftpboot';
 
 # Fixup debug
