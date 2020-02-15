@@ -6,7 +6,7 @@ if [ ! -z "`ls *.pcm 2>/dev/null`" ]; then
 		basename=`basename ${filename} .pcm`
 		echo -e "\t<Ring>" >>$outfile
 		echo -e "\t\t<DisplayName>${basename}</DisplayName>" >>$outfile
-		echo -e "\t\t<FileName>ringtones\${filename}</FileName>" >>$outfile
+		echo -e "\t\t<FileName>ringtones\\${filename}</FileName>" >>$outfile
 		echo -e "\t</Ring>" >>$outfile
 	done
 fi
@@ -15,7 +15,7 @@ if [ ! -z "`ls *.raw 2>/dev/null`" ]; then
 		basename=`basename ${filename} .raw`
 		echo -e "\t<Ring>" >>$outfile
 		echo -e "\t\t<DisplayName>${basename}</DisplayName>" >>$outfile
-		echo -e "\t\t<FileName>ringtones\${filename}</FileName>" >>$outfile
+		echo -e "\t\t<FileName>ringtones\\${filename}</FileName>" >>$outfile
 		echo -e "\t</Ring>" >>$outfile
 	done
 fi
