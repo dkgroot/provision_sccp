@@ -8,6 +8,7 @@ include_once("config.php");
  - improve error handling
  - secure urlencoding/urldecoding
  - don't allow browsing
+   - See isValidRequest()
  - check source ip-range
  - check HTTPHeader for known BrowserTypes
 */
@@ -76,7 +77,16 @@ class Resolver {
 		unset($this->cache[$hash]);
 		$this->isDirty = TRUE;
 	}
+	function isValidRequest($request) {
+		/* todo: make sure request does not startwith or contain: "/", "../" or "/./" */
+		/* todo: make sure request only starts with filename or one of $config[$subdir]['locale'] or $config[$subdir]['wallpaper'] */
+		/* todo: check uri/url decode */
+		return TRUE;
+	}
 	function resolve($request) /* canthrow */ {
+		if (!$this->isValidRequest($request)) {
+			throw new Exception("Invalid request:'$request'");
+		}
 		$path = '';
 		if (array_key_exists($request, $this->cache)) {
 			if ($path = $this->cache[$request]) {
