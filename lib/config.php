@@ -58,12 +58,18 @@ $config['main']['tftproot'] = (!empty($config['main']['tftproot'])) ? $base_path
 switch($config['main']['log_type']) {
 	case 'SYSLOG':
 		$logger = new Logger_Syslog($config['main']['log_level']);
+		break;
 	case 'FILE':
-		$logger = new Logger_Filename($config['main']['log_level'], $config['main']['log_file']);
+		if (!isempty($config['main']['log_file'])) {
+			$logger = new Logger_Filename($config['main']['log_level'], $config['main']['log_file']);
+		}
+		break;
 	case 'STDOUT':
 		$logger = new Logger_Stdout($config['main']['log_level']);
+		break;
 	case 'STDERR':
 		$logger = new Logger_Stderr($config['main']['log_level']);
+		break;
 	default:
 		$logger = new Logger_Null($config['main']['log_level']);
 }

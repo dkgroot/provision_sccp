@@ -1,4 +1,3 @@
-#!/usr/bin/php
 <?php
 include_once("config.php");
 include_once("utils.php");
@@ -97,6 +96,9 @@ class Resolver {
 		/* make sure request does not startwith or contain: "/", "../" or "/./" */
 		/* make sure request only starts with filename or one of $config[$subdir]['locale'] or $config[$subdir]['wallpaper'] */
 		/* check uri/url decode */
+		if (!is_string($request)) {
+			$this->log_error_and_throw("Request is not a string");
+		}
 		$this->log_debug($request . ":" . escapeshellarg($request) . ":" . utf8_urldecode($request) . "\n");
 		$escaped_request = escapeshellarg(utf8_urldecode($request));
 		if ($escaped_request !== "'" . $request . "'") {
@@ -123,43 +125,44 @@ class Resolver {
 		}
 		return $path;
 	}
-	/* temporairy */
+	/* temporary */
 	function printCache() {
 		print_r($this->cache);
 	}
 }
 
-//$resolver = new Resolver($config);
-$resolver = new Resolver($config);
+// Testing
+if(defined('STDIN') ) {
+	$resolver = new Resolver($config);
 
-// Tests
-$test_cases = Array(
-	Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/tftpboot/firmware/7970/jar70sccp.9-4-2ES26.sbn', 'throws' => FALSE),
-	Array('request' => 'Russian_Russian_Federation/be-sccp.jar', 'expected' => '/tftpboot/locales/languages/Russian_Russian_Federation/be-sccp.jar', 'throws' => FALSE),
-	Array('request' => 'Spain/g3-tones.xml', 'expected' => '/tftpboot/locales/countries/Spain/g3-tones.xml', 'throws' => FALSE),
-	Array('request' => '320x196x4/Chan-SCCP-b.png', 'expected' => '/tftpboot/wallpapers/320x196x4/Chan-SCCP-b.png', 'throws' => FALSE),
-	Array('request' => 'XMLDefault.cnf.xml', 'expected' => '/tftpboot/settings/bak/XMLDefault.cnf.xml', 'throws' => FALSE),
-	Array('request' => '../XMLDefault.cnf.xml', 'expected' => '', 'throws' => TRUE),
-	Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => '', 'throws' => TRUE),
-	
-);
-foreach($test_cases as $test) {
-	try {
-		$result = $resolver->resolve($test['request']);
-		if ($result !== $base_path . $test['expected']) {
-			print("Error: expected result does not match what we got\n");
-			print("request:'".$test['request']."', result:'" . $base_path . $test['expected'] . "'\n");
-		} else {
-			print("'" . $test['request'] . "' => '" . $result . "'\n");
-		}
-	} catch (Exception $e) {
-		if (!$test['throws']) {
-			print("Error: request was expected to throw: $e\n");
-		} else {
-			print("'" . $test['request'] . "' => throws error as expected\n");
+	$test_cases = Array(
+		Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/tftpboot/firmware/7970/jar70sccp.9-4-2ES26.sbn', 'throws' => FALSE),
+		Array('request' => 'Russian_Russian_Federation/be-sccp.jar', 'expected' => '/tftpboot/locales/languages/Russian_Russian_Federation/be-sccp.jar', 'throws' => FALSE),
+		Array('request' => 'Spain/g3-tones.xml', 'expected' => '/tftpboot/locales/countries/Spain/g3-tones.xml', 'throws' => FALSE),
+		Array('request' => '320x196x4/Chan-SCCP-b.png', 'expected' => '/tftpboot/wallpapers/320x196x4/Chan-SCCP-b.png', 'throws' => FALSE),
+		Array('request' => 'XMLDefault.cnf.xml', 'expected' => '/tftpboot/settings/bak/XMLDefault.cnf.xml', 'throws' => FALSE),
+		Array('request' => '../XMLDefault.cnf.xml', 'expected' => '', 'throws' => TRUE),
+		Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => '', 'throws' => TRUE),
+		
+	);
+	foreach($test_cases as $test) {
+		try {
+			$result = $resolver->resolve($test['request']);
+			if ($result !== $base_path . $test['expected']) {
+				print("Error: expected result does not match what we got\n");
+				print("request:'".$test['request']."', result:'" . $base_path . $test['expected'] . "'\n");
+			} else {
+				print("'" . $test['request'] . "' => '" . $result . "'\n");
+			}
+		} catch (Exception $e) {
+			if (!$test['throws']) {
+				print("Error: request was expected to throw: $e\n");
+			} else {
+				print("'" . $test['request'] . "' => throws error as expected\n");
+			}
 		}
 	}
+	unset($resolver);
+	#unlink($CACHEFILE_NAME);
 }
-unset($resolver);
-#unlink($CACHEFILE_NAME);
 ?>
