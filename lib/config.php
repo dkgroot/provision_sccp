@@ -1,9 +1,13 @@
 <?php
+include_once("logger.php");
+
 $base_path = !empty($_SERVER['DOCUMENT_ROOT']) ? realpath($_SERVER['DOCUMENT_ROOT'] . "/../"): realpath(getcwd()."/../");
 $base_config = Array(
 	'main' => Array(
 		'debug' => 1,
 		'default_language' => 'English_United_States',
+		'log_type' => "NULL",
+		'log_level' => LOG_EMERG
 	),
 	'subdirs' => Array(
 		'tftproot' => 'tftpboot',
@@ -50,6 +54,19 @@ foreach ($tree_base as $key => $value) {
 
 $config['main']['base_path'] = $base_path;
 $config['main']['tftproot'] = (!empty($config['main']['tftproot'])) ? $base_path . "tftpboot" : '/tftpboot';
+
+switch($config['main']['log_type']) {
+	case 'SYSLOG':
+		$config['main']['logger']=new Logger_Syslog($config['main']['log_level']);
+	case 'FILE':
+		$config['main']['logger']=new Logger_Filename($config['main']['log_level'], $config['main']['log_file']);
+	case 'STDOUT':
+		$config['main']['logger']=new Logger_Stdout($config['main']['log_level']);
+	case 'STDERR':
+		$config['main']['logger']=new Logger_Stderr($config['main']['log_level']);
+	default:
+		$config['main']['logger']=new Logger_Null($config['main']['log_level']);
+}
 
 # Fixup debug
 $print_debug = (!empty($config['main']['debug'])) ? $config['main']['debug'] : 'off';

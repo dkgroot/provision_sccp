@@ -4,7 +4,7 @@ include_once("config.php");
 include_once("utils.php");
 
 /* Todo:
- - setup logging
+ ✔️ setup logging
  ✔️ read config.file
  - improve error handling
  ?✔️ secure urlencoding/urldecoding
@@ -17,8 +17,10 @@ class Resolver {
 	private $isDirty = FALSE;
 	private $cache = array();
 	private $config;
+	private $logger;
 	function __construct($config) {
 		$this->config = $config;
+		$this->logger = $config['main']['logger'];
 		if(file_exists($this->config['main']['cache_filename'])) {
 	 		$this->cache = unserialize(file_get_contents($config['main']['cache_filename'])); 
 		} else {
@@ -29,9 +31,13 @@ class Resolver {
 		// $this->printCache()
 		if ($this->isDirty) {
 			if (!file_put_contents($this->config['main']['cache_filename'], serialize($this->cache))) {
-				throw new Exception("Could not write to file '".$this->config['cache_filename']."' at Resolver::destruct");
+				$this->log_error_and_throw("Could not write to file '".$this->config['cache_filename']."' at Resolver::destruct");
 			}
 		}
+	}
+	function log_error_and_throw($message) {
+		$this->logger->log('LOG_ERROR', $message);
+		throw new Exception($message);
 	}
 	function searchForFile($filename) {
 		foreach($this->config['subdirs'] as $key => $value) {
@@ -44,7 +50,7 @@ class Resolver {
 				 return $path;
 			}
 		}
-		throw new Exception("File '$filename' does not exist");
+		$this->log_error_and_throw("File '$filename' does not exist");
 	}
 	function buildCleanCache() {
 		foreach($this->config['subdirs'] as $key =>$value) {
@@ -68,12 +74,12 @@ class Resolver {
 		$this->isDirty  = TRUE;
 	}
 	function addFile($requestpath, $truepath) {
-		//echo 'Adding $hash\n';
+		$this->logger->log('LOG_DEBUG', "Adding $requestpath");
 		$this->cache[$requestpath] = $truepath;
 		$this->isDirty  =TRUE;
 	}
 	function removeFile($requestpath) {
-		//echo 'Removing $hash\n';
+		$this->logger->log('LOG_DEBUG', "Removing $hash");
 		unset($this->cache[$requestpath]);
 		$this->isDirty = TRUE;
 	}
@@ -84,12 +90,10 @@ class Resolver {
 		//print($request . ":" . escapeshellarg($request) . ":" . $this->utf8_urldecode($request) . "\n");
 		$escaped_request = escapeshellarg(utf8_urldecode($request));
 		if ($escaped_request !== "'" . $request . "'") {
-			// log error
-			throw new Exception("Request '$request' contains invalid characters");
+			$this->log_error_and_throw("Request '$request' contains invalid characters");
 		}
 		if (strstr($escaped_request, "..")) {
-			// log error
-			throw new Exception("Request '$request' contains '..'");
+			$this->log_error_and_throw("Request '$request' containst '..'");
 		}
 	}
 	function resolve($request) /* canthrow */ {
@@ -99,7 +103,7 @@ class Resolver {
 			if ($path = $this->cache[$request]) {
 				if (!file_exists($path)) {
 					 $this->removeFile($request);
-					 throw new Exception("File '$request' does not exist on FS");
+					 $this->log_error_and_throw("File '$request' does not exist on FS");
 				}
 				return $path;
 			}
@@ -114,7 +118,6 @@ class Resolver {
 	}
 }
 
-# Some simple inline testing
 $resolver = new Resolver($config);
 $test_cases = Array(
 	Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/tftpboot/firmware/7970/jar70sccp.9-4-2ES26.sbn', 'throws' => FALSE),
@@ -126,6 +129,7 @@ $test_cases = Array(
 	Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => '', 'throws' => TRUE),
 	
 );
+
 foreach($test_cases as $test) {
 	try {
 		$result = $resolver->resolve($test['request']);
@@ -143,6 +147,21 @@ foreach($test_cases as $test) {
 		}
 	}
 }
+/*
+try {
+	print($resolver->resolve("jar70sccp.9-4-2ES26.sbn")."\n");
+	print($resolver->resolve("Russian_Russian_Federation/be-sccp.jar")."\n");
+	print($resolver->resolve("Spain/g3-tones.xml")."\n");
+	print($resolver->resolve("320x196x4/Chan-SCCP-b.png")."\n");
+} catch (Exception $e) {
+	print($e . "\n");
+}
+try {
+	print($resolver->resolve("XMLDefault.cnf.xml")."\n");
+} catch (Exception $e) {
+	print($e . "\n");
+}
+*/
 unset($resolver);
 #unlink($CACHEFILE_NAME);
 ?>
