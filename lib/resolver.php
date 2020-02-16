@@ -56,7 +56,7 @@ class Resolver {
 			$iterator = new RecursiveIteratorIterator($dir_iterator, RecursiveIteratorIterator::SELF_FIRST);
 			foreach ($iterator as $file) {
 				if ($file->isFile()) {
-					if ($value['strip'] === 1) {
+					if ($value['strip']) {
 						$this->addFile($file->getFileName(), $file->getPathname());
 					} else {
 						$subdir = basename(dirname($file->getPathname()));

@@ -17,14 +17,14 @@ $base_config = Array(
 	)
 );
 $tree_base = Array(
-	'settings' => array('path' => 'tftproot', "strip" => 1),
-	'wallpapers' => array('path' => 'tftproot', "strip" => 0),
-	'ringtones' => array('path' => 'tftproot', "strip" => 1),
-	'locales' => array('path' => 'tftproot', "strip" => 1),
-	'firmware' => array('path' => 'tftproot', "strip" => 1),
-	'languages' => array('path' => 'locales', "strip" => 0),
-	'countries' => array('path' => 'locales', "strip" => 0),
-	'default_language' => array('path' => 'locales', "strip" => 1),
+	'settings' => array('path' => 'tftproot', "strip" => TRUE),
+	'wallpapers' => array('path' => 'tftproot', "strip" => FALSE),
+	'ringtones' => array('path' => 'tftproot', "strip" => TRUE),
+	'locales' => array('path' => 'tftproot', "strip" => TRUE),
+	'firmware' => array('path' => 'tftproot', "strip" => TRUE),
+	'languages' => array('path' => 'locales', "strip" => FALSE),
+	'countries' => array('path' => 'locales', "strip" => FALSE),
+	'default_language' => array('path' => 'locales', "strip" => TRUE),
 );
 
 # Merge config
@@ -33,19 +33,18 @@ if (!empty($ini_array)) {
 	$config = array_merge($base_config, $ini_array);
 }
 
-# rewrite config['subdirs'] paths using tree_base data
-# Not sure if this is a good way
+# build new config['subdirs'] paths substituting bases from tree_base
 foreach ($tree_base as $key => $value) {
-	if (!empty($config['subdirs'][$key])) {
-		if (substr($config['subdirs'][$key], 0, 1) !== "/") {
-			$path = $config['subdirs'][$value['path']].'/'.$config['subdirs'][$key];
-			$config['subdirs'][$key] = $path;
+	$tmp = $config;
+	if (!empty($tmp['subdirs'][$key])) {
+		if (substr($tmp['subdirs'][$key], 0, 1) !== "/") {
+			if (is_array($tmp['subdirs'][$value['path']])) {
+				$path = $tmp['subdirs'][$value['path']]['path'].'/'.$tmp['subdirs'][$key];
+			} else {
+				$path = $tmp['subdirs'][$value['path']].'/'.$tmp['subdirs'][$key];
+			}
 		}
-	}
-}
-foreach ($tree_base as $key => $value) {
-	if (!empty($config['subdirs'][$key])) {
-		$config['subdirs'][$key] = array('path' => $config['subdirs'][$key], 'strip' => $value['strip']);
+		$config['subdirs'][$key] = array('path' => $path, 'strip' => $value['strip']);
 	}
 }
 
