@@ -1,13 +1,15 @@
 <?php
 include_once("logger.php");
+include_once("utils.php");
+//$base_path = !empty($_SERVER['DOCUMENT_ROOT']) ? realpath($_SERVER['DOCUMENT_ROOT'] . "/.."): realpath(getcwd() . "/..");
+$base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "..");
 
-$base_path = !empty($_SERVER['DOCUMENT_ROOT']) ? realpath($_SERVER['DOCUMENT_ROOT'] . "/../"): realpath(getcwd()."/../");
 $base_config = Array(
 	'main' => Array(
-		'debug' => 1,
+		'debug' => true,
 		'default_language' => 'English_United_States',
 		'log_type' => "NULL",
-		'log_level' => LOG_EMERG
+		'log_level' => 'LOG_EMERG'
 	),
 	'subdirs' => Array(
 		'tftproot' => 'tftpboot',
@@ -17,22 +19,63 @@ $base_config = Array(
 		'ringtones' => 'ringtones',
 		'locales' => 'locales',
 		'countries' => 'countries',
-		'languages' => 'languages',
+		'languages' => 'languages'
+	),
+	'security' => Array(
+        	'cert_ca' => NULL,
+        	'cert_priv' => NULL,
+        	'cert_pub' => NULL,
+        	'hash' => NULL
+        ),
+	'settings' => Array(
+		'sshUserId' => 'cisco',
+		'sshPassword' => 'cisco',
+		'ipAddress' => '0',
+		'datetime' => Array(
+			'template' => 'M/D/YA',
+			'timezone' => 'W. Europe Standard/Daylight Time',
+			'ipaddress' => '10.x.x.x',
+			'mode' => 'Unicast'
+		),
+		'members' => Array(
+			'myhost' => Array(
+				'hostname' => 'myhost.domain.com',
+				'ipv4' => '10.x.x.x',
+				'ipv6' => '2001:470::x:x',
+				'port' => '2000'
+			)
+		),
+		'locale' => Array(
+			'country' => 'United_States',
+			'language' => 'English_United_States',
+			'langcode' => 'en_US',
+			'charset' => 'utf-8'
+		),
+		'urls' => Array(
+			'security' => false,
+			'information' => NULL,
+			'authentication' => NULL,
+			'services' => NULL,
+			'direcory' => NULL,
+			'messages' => NULL,
+			'proxyserver' => NULL
+		)
 	)
 );
 $tree_base = Array(
-	'settings' => array('path' => 'tftproot', "strip" => TRUE),
-	'wallpapers' => array('path' => 'tftproot', "strip" => FALSE),
-	'ringtones' => array('path' => 'tftproot', "strip" => TRUE),
-	'locales' => array('path' => 'tftproot', "strip" => TRUE),
-	'firmware' => array('path' => 'tftproot', "strip" => TRUE),
-	'languages' => array('path' => 'locales', "strip" => FALSE),
-	'countries' => array('path' => 'locales', "strip" => FALSE),
-	'default_language' => array('path' => 'locales', "strip" => TRUE),
+	'settings' => array('path' => 'tftproot', "strip" => true),
+	'wallpapers' => array('path' => 'tftproot', "strip" => false),
+	'ringtones' => array('path' => 'tftproot', "strip" => true),
+	'locales' => array('path' => 'tftproot', "strip" => true),
+	'firmware' => array('path' => 'tftproot', "strip" => true),
+	'languages' => array('path' => 'locales', "strip" => false),
+	'countries' => array('path' => 'locales', "strip" => false),
+	'default_language' => array('path' => 'locales', "strip" => true),
 );
 
 # Merge config
-$ini_array = parse_ini_file('../config.ini', TRUE, INI_SCANNER_TYPED);
+//$ini_array = parse_ini_file("$base_path/config.ini", true, INI_SCANNER_TYPED);
+$ini_array = parse_ini_file_multi("$base_path/config.ini", true, INI_SCANNER_TYPED);
 if (!empty($ini_array)) {
 	$config = array_merge($base_config, $ini_array);
 }
@@ -77,4 +120,10 @@ switch($config['main']['log_type']) {
 # Fixup debug
 $print_debug = (!empty($config['main']['debug'])) ? $config['main']['debug'] : 'off';
 $print_debug = ($print_debug == 1) ? 'on' : $print_debug;
+
+if(defined('STDIN') ) {
+	print_r($config);
+	//var_dump($config);
+}
+
 ?>
