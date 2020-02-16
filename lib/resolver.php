@@ -6,21 +6,25 @@ include_once("utils.php");
 /* Todo:
  ✔️ setup logging
  ✔️ read config.file
- - improve error handling
- ?✔️ secure urlencoding/urldecoding
- - don't allow browsing
-   - See isValidRequest()
+ 
+ ✔?️ improve error handling
+ ✔️? secure urlencoding/urldecoding
+ ✔️? don't allow browsing
+ 
  - check source ip-range
  - check HTTPHeader for known BrowserTypes
+ 
+ - Could use some more test-cases, especially error ones
 */
 class Resolver {
 	private $isDirty = FALSE;
 	private $cache = array();
 	private $config;
-	private $logger;
+	//private $logger;
 	function __construct($config) {
+		//global $logger;
 		$this->config = $config;
-		$this->logger = $config['main']['logger'];
+		//$this->logger = $logger;
 		if(file_exists($this->config['main']['cache_filename'])) {
 	 		$this->cache = unserialize(file_get_contents($config['main']['cache_filename'])); 
 		} else {
@@ -36,8 +40,13 @@ class Resolver {
 		}
 	}
 	function log_error_and_throw($message) {
-		$this->logger->log('LOG_ERROR', $message);
+		global $logger;
+		$logger->log('LOG_ERROR', $message);
 		throw new Exception($message);
+	}
+	function log_debug($message) {
+		global $logger;
+		$logger->log('LOG_DEBUG', $message);
 	}
 	function searchForFile($filename) {
 		foreach($this->config['subdirs'] as $key => $value) {
@@ -74,20 +83,21 @@ class Resolver {
 		$this->isDirty  = TRUE;
 	}
 	function addFile($requestpath, $truepath) {
-		$this->logger->log('LOG_DEBUG', "Adding $requestpath");
+		//$this->logger->log('LOG_DEBUG', "Adding $requestpath");
+		$this->log_debug("Adding $requestpath");
 		$this->cache[$requestpath] = $truepath;
 		$this->isDirty  =TRUE;
 	}
 	function removeFile($requestpath) {
-		$this->logger->log('LOG_DEBUG', "Removing $hash");
+		$this->log_debug("Removing $hash");
 		unset($this->cache[$requestpath]);
 		$this->isDirty = TRUE;
 	}
 	function validateRequest($request) {
-		/* todo: make sure request does not startwith or contain: "/", "../" or "/./" */
-		/* todo: make sure request only starts with filename or one of $config[$subdir]['locale'] or $config[$subdir]['wallpaper'] */
-		/* todo: check uri/url decode */
-		//print($request . ":" . escapeshellarg($request) . ":" . $this->utf8_urldecode($request) . "\n");
+		/* make sure request does not startwith or contain: "/", "../" or "/./" */
+		/* make sure request only starts with filename or one of $config[$subdir]['locale'] or $config[$subdir]['wallpaper'] */
+		/* check uri/url decode */
+		$this->log_debug($request . ":" . escapeshellarg($request) . ":" . utf8_urldecode($request) . "\n");
 		$escaped_request = escapeshellarg(utf8_urldecode($request));
 		if ($escaped_request !== "'" . $request . "'") {
 			$this->log_error_and_throw("Request '$request' contains invalid characters");
@@ -113,12 +123,16 @@ class Resolver {
 		}
 		return $path;
 	}
+	/* temporairy */
 	function printCache() {
 		print_r($this->cache);
 	}
 }
 
+//$resolver = new Resolver($config);
 $resolver = new Resolver($config);
+
+// Tests
 $test_cases = Array(
 	Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/tftpboot/firmware/7970/jar70sccp.9-4-2ES26.sbn', 'throws' => FALSE),
 	Array('request' => 'Russian_Russian_Federation/be-sccp.jar', 'expected' => '/tftpboot/locales/languages/Russian_Russian_Federation/be-sccp.jar', 'throws' => FALSE),
@@ -129,7 +143,6 @@ $test_cases = Array(
 	Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => '', 'throws' => TRUE),
 	
 );
-
 foreach($test_cases as $test) {
 	try {
 		$result = $resolver->resolve($test['request']);
@@ -147,21 +160,6 @@ foreach($test_cases as $test) {
 		}
 	}
 }
-/*
-try {
-	print($resolver->resolve("jar70sccp.9-4-2ES26.sbn")."\n");
-	print($resolver->resolve("Russian_Russian_Federation/be-sccp.jar")."\n");
-	print($resolver->resolve("Spain/g3-tones.xml")."\n");
-	print($resolver->resolve("320x196x4/Chan-SCCP-b.png")."\n");
-} catch (Exception $e) {
-	print($e . "\n");
-}
-try {
-	print($resolver->resolve("XMLDefault.cnf.xml")."\n");
-} catch (Exception $e) {
-	print($e . "\n");
-}
-*/
 unset($resolver);
 #unlink($CACHEFILE_NAME);
 ?>
