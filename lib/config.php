@@ -5,10 +5,10 @@ include_once("utils.php");
 $base_path = !empty($_SERVER['DOCUMENT_ROOT']) ? realpath($_SERVER['DOCUMENT_ROOT'] . "/../"): realpath(getcwd()."/../");
 $base_config = Array(
 	'main' => Array(
-		'debug' => 1,
+		'debug' => TRUE,
 		'default_language' => 'English_United_States',
 		'log_type' => "NULL",
-		'log_level' => LOG_EMERG
+		'log_level' => 'LOG_EMERG'
 	),
 	'subdirs' => Array(
 		'tftproot' => 'tftpboot',
@@ -18,13 +18,13 @@ $base_config = Array(
 		'ringtones' => 'ringtones',
 		'locales' => 'locales',
 		'countries' => 'countries',
-		'languages' => 'languages',
+		'languages' => 'languages'
 	),
 	'security' => Array(
-        	'cert_ca' => null,
-        	'cert_priv' => null,
-        	'cert_pub' => null,
-        	'hash' => null,
+        	'cert_ca' => NULL,
+        	'cert_priv' => NULL,
+        	'cert_pub' => NULL,
+        	'hash' => NULL
         ),
 	'settings' => Array(
 		'sshUserId' => 'cisco',
@@ -34,30 +34,30 @@ $base_config = Array(
 			'template' => 'M/D/YA',
 			'timezone' => 'W. Europe Standard/Daylight Time',
 			'ipaddress' => '10.x.x.x',
-			'mode' => 'Unicast',
+			'mode' => 'Unicast'
 		),
 		'members' => Array(
 			'myhost' => Array(
 				'hostname' => 'myhost.domain.com',
 				'ipv4' => '10.x.x.x',
 				'ipv6' => '2001:470::x:x',
-				'port' => '2000',
+				'port' => '2000'
 			)
 		),
 		'locale' => Array(
 			'country' => 'United_States',
 			'language' => 'English_United_States',
 			'langcode' => 'en_US',
-			'charset' => 'utf-8',
+			'charset' => 'utf-8'
 		),
 		'urls' => Array(
-			'secury' => '',
-			'information' => '',
-			'authentication' => '',
-			'services' => '',
-			'direcory' => '',
-			'messages' => '',
-			'proxyserver' => '',
+			'security' => FALSE,
+			'information' => NULL,
+			'authentication' => NULL,
+			'services' => NULL,
+			'direcory' => NULL,
+			'messages' => NULL,
+			'proxyserver' => NULL
 		)
 	)
 );
