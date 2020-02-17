@@ -1,5 +1,6 @@
 <?php
 include_once("logger.php");
+include_once("utils.php");
 
 $base_path = !empty($_SERVER['DOCUMENT_ROOT']) ? realpath($_SERVER['DOCUMENT_ROOT'] . "/../"): realpath(getcwd()."/../");
 $base_config = Array(
@@ -18,6 +19,46 @@ $base_config = Array(
 		'locales' => 'locales',
 		'countries' => 'countries',
 		'languages' => 'languages',
+	),
+	'security' => Array(
+        	'cert_ca' => null,
+        	'cert_priv' => null,
+        	'cert_pub' => null,
+        	'hash' => null,
+        ),
+	'settings' => Array(
+		'sshUserId' => 'cisco',
+		'sshPassword' => 'cisco',
+		'ipAddress' => '0',
+		'datetime' => Array(
+			'template' => 'M/D/YA',
+			'timezone' => 'W. Europe Standard/Daylight Time',
+			'ipaddress' => '10.x.x.x',
+			'mode' => 'Unicast',
+		),
+		'members' => Array(
+			'myhost' => Array(
+				'hostname' => 'myhost.domain.com',
+				'ipv4' => '10.x.x.x',
+				'ipv6' => '2001:470::x:x',
+				'port' => '2000',
+			)
+		),
+		'locale' => Array(
+			'country' => 'United_States',
+			'language' => 'English_United_States',
+			'langcode' => 'en_US',
+			'charset' => 'utf-8',
+		),
+		'urls' => Array(
+			'secury' => '',
+			'information' => '',
+			'authentication' => '',
+			'services' => '',
+			'direcory' => '',
+			'messages' => '',
+			'proxyserver' => '',
+		)
 	)
 );
 $tree_base = Array(
@@ -32,7 +73,8 @@ $tree_base = Array(
 );
 
 # Merge config
-$ini_array = parse_ini_file('../config.ini', TRUE, INI_SCANNER_TYPED);
+//$ini_array = parse_ini_file("$base_path/config.ini", TRUE, INI_SCANNER_TYPED);
+$ini_array = parse_ini_file_multi("$base_path/config.ini", TRUE, INI_SCANNER_TYPED);
 if (!empty($ini_array)) {
 	$config = array_merge($base_config, $ini_array);
 }
@@ -77,4 +119,10 @@ switch($config['main']['log_type']) {
 # Fixup debug
 $print_debug = (!empty($config['main']['debug'])) ? $config['main']['debug'] : 'off';
 $print_debug = ($print_debug == 1) ? 'on' : $print_debug;
+
+if(defined('STDIN') ) {
+	print_r($config);
+	//var_dump($config);
+}
+
 ?>
