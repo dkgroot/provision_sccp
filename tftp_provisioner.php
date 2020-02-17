@@ -8,7 +8,7 @@ class TFTPProvisioner extends TFTPServer
 {
   private $_debug;
   private $_resolver;
-  private $_filename;
+  private $_settings_path;
 
   function __construct($server_url, $config, $logger = NULL, $debug = false)
   {
@@ -20,42 +20,32 @@ class TFTPProvisioner extends TFTPServer
     $this->_debug = $debug;
     $this->max_put_size = 60000000;
     $this->_resolver = new Resolver($config);
-  }
-
-  public function exists($peer, $req_filename)
-  {
-    if (($this->_filename = $this->_resolver->resolve($req_filename))) {
-      return file_exists($this->_filename);
-    }
-    return false;
-  }
-
-  public function readable($peer, $req_filename)
-  {
-    return is_readable($this->_filename);
-  }
-
-  public function get($peer, $req_filename, $mode)
-  {
-    return file_get_contents($this->_filename);
+    $this->_settings_path = $this->_config['main']['base_path'] . DIRECTORY_SEPARATOR
+                . $this->_config['subdirs']['settings']['path'] . DIRECTORY_SEPARATOR;
   }
 
   public function writable($peer, $req_filename)
   {
-    // check $req_filename starts with 'settings/' (SPA phones can write to tftpboot)
-    $settings_path = $this->_config['main']['base_path'] . DIRECTORY_SEPARATOR
-                . $this->_config['subdirs']['settings']['path'] . DIRECTORY_SEPARATOR;
-    $filename = $settings_path . basename($req_filename);
-    if (is_writable($filename) || (!file_exists($filename) && is_writable($settings_path))) {
-      $this->_filename = $filename;
-      return true;
+    $filename = $this->_settings_path . basename($req_filename);
+    if (file_exists($filename)) {
+      return is_writable($filename);
     }
+    return is_writable($this->_settings_path);
+  }
+
+  public function get($peer, $req_filename, $mode)
+  {
+    $filename = $this->_resolver->resolve($req_filename);
+    if (file_exists($filename) && is_readable($filename))
+      return file_get_contents($filename);
     return false;
   }
 
-  public function put($peer, $filename, $mode, $content)
+  public function put($peer, $req_filename, $mode, $content)
   {
-    return file_put_contents($this->_filename, $content);
+    // (SPA phones can write to tftpboot -> redirect PUT request to 'settings' folder)
+    $filename = $this->_settings_path . basename($req_filename);
+    return file_put_contents($filename, $content);
   }
 
   /*
