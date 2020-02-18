@@ -39,7 +39,6 @@ class Resolver {
 		}
 	}
 	
-	
 	public function searchForFile($filename) {
 		foreach($this->config['subdirs'] as $key => $value) {
 			if ($key === "firmware" || $key === "tftproot" ) {
@@ -47,7 +46,7 @@ class Resolver {
 			}
 			$path = realpath($this->config['main']['base_path'] . "/" . $value['path'] . "/$filename");
 			if (file_exists($path)) {
-				 $this-> addFile($filename, $path);
+				 $this->cache->addFile($filename, $path);
 				 return $path;
 			}
 		}
@@ -56,6 +55,7 @@ class Resolver {
 	}
 	
 	public function rebuildCache() {
+		log_debug("Rebuilding Cache, standby...");
 		foreach($this->config['subdirs'] as $key =>$value) {
 			if ($key === "tftproot") {
 				continue;
@@ -66,25 +66,15 @@ class Resolver {
 			foreach ($iterator as $file) {
 				if ($file->isFile()) {
 					if ($value['strip']) {
-						$this->addFile($file->getFileName(), $file->getPathname());
+						$this->cache->addFile($file->getFileName(), $file->getPathname());
 					} else {
 						$subdir = basename(dirname($file->getPathname()));
-						$this->addFile('$subpath/'.$file->getFileName(), $file->getPathname());
+						$this->cache->addFile('$subpath/'.$file->getFileName(), $file->getPathname());
 					}
 				}
 			}
 		}
 		$this->isDirty  = TRUE;
-	}
-	
-	public function addFile($requestpath, $truepath) {
-		log_debug("Adding $requestpath");
-		$this->cache->addFile($requestpath, $truepath);
-	}
-	
-	public function removeFile($requestpath) {
-		log_debug("Removing $hash");
-		$this->cache->removeFile($requestpath, $truepath);
 	}
 	
 	public function validateRequest($request) {
@@ -120,7 +110,7 @@ class Resolver {
 		}
 		if (($path = $this->cache->getPath($request))) {
 			if (!file_exists($path)) {
-				 $this->removeFile($request);
+				 $this->cache->removeFile($request);
 				 log_error("File '$request' does not exist on FS");
 				 return ResolveResult::FileNotFound;
 			}

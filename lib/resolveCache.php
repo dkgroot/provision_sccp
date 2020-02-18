@@ -23,10 +23,10 @@ class fileCache extends resolveCache {
 
 	function __destruct() {
 		if ($this->_isDirty) {
-			if (!is_writable($this->_cache_file)) {
+			/*if (!is_writable($this->_cache_file)) {
 				log_error_and_throw("Could not write to file '".$this->_cache_file."' at Resolver::destruct");
-			}
-			if (!file_put_contents($this->_cache_file, serialize($this->cache))) {
+			}*/
+			if (!file_put_contents($this->_cache_file, serialize($this->_cache))) {
 				log_error_and_throw("Could not write to file '".$this->_cache_file."' at Resolver::destruct");
 			}
 		}
