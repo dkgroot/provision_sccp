@@ -36,24 +36,26 @@ class fileCache extends resolveCache {
 		return $this->_isDirty;
 	}
 
+	public function check($filename) {
+		return array_key_exists($filename, $this->_cache);
+	}
+
 	public function addFile($filename, $realpath) {
+		if ($this->check($filename))
+			log_error("Duplicate file:$filename");	/* should we prevent this ? */
 		$this->_cache[$filename] = $realpath;
 		$this->_isDirty  =true;
 	}
 
 	public function removeFile($filename) {
-		if (array_key_exists($filename, $this->_cache)) {
+		if ($this->check($filename)) {
 			unset($this->_cache[$filename]);
 			$this->_isDirty = true;
 		}
 	}
-	
-	public function check($filename) {
-		return array_key_exists($filename, $this->_cache);
-	}
-	
+
 	public function getPath($filename) {
-		if (array_key_exists($filename, $this->_cache)) {
+		if ($this->check($filename)) {
 			return $this->_cache[$filename];
 		}
 		return false;
