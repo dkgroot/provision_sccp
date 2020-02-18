@@ -50,4 +50,19 @@ function parse_ini_file_multi($file, $process_sections = false, $scanner_mode = 
 	}
 	return $data;
 }
+
+function log_debug($message) {
+	global $logger;
+	$logger->log('LOG_DEBUG', $message);
+}
+
+function log_error($message) {
+	global $logger;
+	$logger->log('LOG_ERROR', $message);
+}
+
+function log_error_and_throw($message) {
+	log_error($message);
+	throw new Exception($message);
+}
 ?>

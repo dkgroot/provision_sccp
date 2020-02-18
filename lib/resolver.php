@@ -1,6 +1,7 @@
 <?php
 include_once("config.php");
 include_once("utils.php");
+include_once("resolveCache.php");
 
 /* Todo:
  ✔️ setup logging
@@ -28,45 +29,16 @@ class ResolveResult {
 
 class Resolver {
 	private $isDirty = FALSE;
-	private $cache = array();
+	private $cache;
 	private $config;
-	//private $logger;
 	function __construct($config) {
-		//global $logger;
 		$this->config = $config;
-		//$this->logger = $logger;
-		if(file_exists($this->config['main']['cache_filename'])) {
-	 		$this->cache = unserialize(file_get_contents($config['main']['cache_filename'])); 
-		} else {
-			$this->buildCleanCache();
-		}
-	}
-	function __destruct() {
-		// $this->printCache()
-		if ($this->isDirty) {
-			if (!is_writable($this->config['main']['cache_filename'])) {
-				$this->log_error_and_throw("Could not write to file '".$this->config['cache_filename']."' at Resolver::destruct");
-			}
-			if (!file_put_contents($this->config['main']['cache_filename'], serialize($this->cache))) {
-				$this->log_error_and_throw("Could not write to file '".$this->config['cache_filename']."' at Resolver::destruct");
-			}
+		$this->cache = new fileCache($this->config['main']['cache_filename']);
+		if ($this->cache->isDirty()) {
+			$this->rebuildCache();
 		}
 	}
 	
-	public function log_debug($message) {
-		global $logger;
-		$logger->log('LOG_DEBUG', $message);
-	}
-
-	public function log_error($message) {
-		global $logger;
-		$logger->log('LOG_ERROR', $message);
-	}
-
-	public function log_error_and_throw($message) {
-		$this->log_error($message);
-		throw new Exception($message);
-	}
 	
 	public function searchForFile($filename) {
 		foreach($this->config['subdirs'] as $key => $value) {
@@ -79,11 +51,11 @@ class Resolver {
 				 return $path;
 			}
 		}
-		$this->log_error("File '$filename' does not exist");
+		log_error("File '$filename' does not exist");
 		return ResolveResult::FileNotFound;
 	}
 	
-	public function buildCleanCache() {
+	public function rebuildCache() {
 		foreach($this->config['subdirs'] as $key =>$value) {
 			if ($key === "tftproot") {
 				continue;
@@ -106,15 +78,13 @@ class Resolver {
 	}
 	
 	public function addFile($requestpath, $truepath) {
-		$this->log_debug("Adding $requestpath");
-		$this->cache[$requestpath] = $truepath;
-		$this->isDirty  =TRUE;
+		log_debug("Adding $requestpath");
+		$this->cache->addFile($requestpath, $truepath);
 	}
 	
 	public function removeFile($requestpath) {
-		$this->log_debug("Removing $hash");
-		unset($this->cache[$requestpath]);
-		$this->isDirty = TRUE;
+		log_debug("Removing $hash");
+		$this->cache->removeFile($requestpath, $truepath);
 	}
 	
 	public function validateRequest($request) {
@@ -122,21 +92,21 @@ class Resolver {
 		/* make sure request only starts with filename or one of $config[$subdir]['locale'] or $config[$subdir]['wallpaper'] */
 		/* check uri/url decode */
 		if (!$request || empty($request)) {
-			$this->log_error("Request is empty");
+			log_error("Request is empty");
 			return ResolveResult::EmptyRequest;
 		}
 		if (!is_string($request)) {
-			$this->log_error("Request is not a string");
+			log_error("Request is not a string");
 			return ResolveResult::RequestNotAString;
 		}
-		$this->log_debug($request . ":" . escapeshellarg($request) . ":" . utf8_urldecode($request) . "\n");
+		log_debug($request . ":" . escapeshellarg($request) . ":" . utf8_urldecode($request) . "\n");
 		$escaped_request = escapeshellarg(utf8_urldecode($request));
 		if ($escaped_request !== "'" . $request . "'") {
-			$this->log_error("Request '$request' contains invalid characters");
+			log_error("Request '$request' contains invalid characters");
 			return ResolveResult::RequestContainsInvalidChar;
 		}
 		if (strstr($escaped_request, "..")) {
-			$this->log_error("Request '$request' contains '..'");
+			log_error("Request '$request' contains '..'");
 			return ResolveResult::RequestContainsPathWalk;
 		}
 		return ResolveResult::Ok;
@@ -148,18 +118,16 @@ class Resolver {
 		if ($result !== ResolveResult::Ok) {
 			return $result;
 		}
-		if (array_key_exists($request, $this->cache)) {
-			if ($path = $this->cache[$request]) {
-				if (!file_exists($path)) {
-					 $this->removeFile($request);
-					 $this->log_error("File '$request' does not exist on FS");
-					 return ResolveResult::FileNotFound;
-				}
-				return $path;
+		if (($path = $this->cache->getPath($request))) {
+			if (!file_exists($path)) {
+				 $this->removeFile($request);
+				 log_error("File '$request' does not exist on FS");
+				 return ResolveResult::FileNotFound;
 			}
+			return $path;
 		}
 		if ($this->searchForFile($request)) {
-			$path = $this->cache[$request];
+			$path = $this->cache->getPath($request);
 		}
 		return $path;
 	}
