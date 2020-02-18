@@ -65,7 +65,7 @@ class ConfigParser {
 	';
 
 	function __construct($base_path, $config_file) {
-		# Merge config
+		# Merge defaults with ini file
 		$default_config = $this->parse_multi_ini_string($this->defaults,true,INI_SCANNER_TYPED);
 		$ini_config = $this->parse_multi_ini_file("$base_path/$config_file", true, INI_SCANNER_TYPED);
 		if (!empty($ini_config)) {
@@ -77,21 +77,26 @@ class ConfigParser {
 		$this->config = $config;
 	}
 	
-	private $tree_structure = Array(
-		'etc' => array('parent' => NULL, "strip" => true),
-		'tftproot' => array('parent' => NULL, "strip" => true),
-		'settings' => array('parent' => 'tftproot', "strip" => true),
-		'wallpapers' => array('parent' => 'tftproot', "strip" => false),
-		'ringtones' => array('parent' => 'tftproot', "strip" => true),
-		'locales' => array('parent' => 'tftproot', "strip" => true),
-		'firmware' => array('parent' => 'tftproot', "strip" => true),
-		'languages' => array('parent' => 'locales', "strip" => false),
-		'countries' => array('parent' => 'locales', "strip" => false),
-	);
-	function replaceSubdirTreeStructure($tmpSubdirs) {
-		# replace config['subdirs'] paths using tree_structure
+	/*!
+	 * replace config['subdirs'] paths using tree_structure
+	 * method imported from old version (and rewritten)
+	 * Note: Still not sure if we actually need to do all this
+	 */
+	private function replaceSubdirTreeStructure($tmpSubdirs) {
+		$tree_structure = Array(
+			'etc' => array('parent' => NULL, "strip" => true),
+			'tftproot' => array('parent' => NULL, "strip" => true),
+			'settings' => array('parent' => 'tftproot', "strip" => true),
+			'wallpapers' => array('parent' => 'tftproot', "strip" => false),
+			'ringtones' => array('parent' => 'tftproot', "strip" => true),
+			'locales' => array('parent' => 'tftproot', "strip" => true),
+			'firmware' => array('parent' => 'tftproot', "strip" => true),
+			'languages' => array('parent' => 'locales', "strip" => false),
+			'countries' => array('parent' => 'locales', "strip" => false),
+		);
+
 		$subdirs = Array();
-		foreach ($this->tree_structure as $key => $value) {
+		foreach ($tree_structure as $key => $value) {
 			if (!empty($tmpSubdirs[$key])) {
 				if (substr($tmpSubdirs[$key], 0, 1) !== "/") {
 					if (!$value['parent']) {
@@ -110,6 +115,11 @@ class ConfigParser {
 		return $subdirs;
 	}
 
+	/*!
+	 * config parser that understands multidimensional ini entries
+	 * using "." as the dimension separator
+	 * standin replacement for parse_ini_string
+	 */
 	private function parse_multi_ini_string($string, $process_sections = false, $scanner_mode = INI_SCANNER_NORMAL) {
 		$explode_str = '.';
 		$escape_char = "'";
@@ -153,9 +163,13 @@ class ConfigParser {
 		}
 		return $data;
 	}
-	
+
+	/*!	
+	 * config file parser that understands multidimensional ini entries
+	 * using "." as the dimension separator
+	 * standin replacement for parse_ini_file
+	 */
 	private function parse_multi_ini_file($file, $process_sections = false, $scanner_mode = INI_SCANNER_NORMAL) {
-		// load ini file the normal way
 		$string = file_get_contents($file);
 		return $this->parse_multi_ini_string($string, $process_sections, $scanner_mode);
 		return $data;
