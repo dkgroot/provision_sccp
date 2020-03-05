@@ -27,7 +27,7 @@ server {
 		rewrite ^/(.*)/((.*)(-kate(.*)\.xml)(\.sgn)?)$ /locales/languages/$1/$2 last;
 		rewrite ^/(.*)/((.*)(-sccp\.jar)(\.sgn)?)$ /locales/languages/$1/$2 last;
 		rewrite ^/(.*)/((.*)(-font\.xml)(\.sgn)?)$ /locales/languages/$1/$2 last;
-		rewrite ^/(.*)/(CIPC_Locale\.(.*))(\.sgn)?)$ /locales/languages/$1/$2 last;
+		rewrite ^/(.*)/(CIPC_Locale\.(.*))(\.sgn)?$ /locales/languages/$1/$2 last;
 
 		rewrite ^/(.*)/((.*)(-tones.xml)(\.sgn)?)$ /locales/countries/$1/$2 last;
 
