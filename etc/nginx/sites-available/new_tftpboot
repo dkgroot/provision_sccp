@@ -1,0 +1,29 @@
+server {
+	listen 6971;
+	server_name tftp.servername.org;
+	root /data/development/sccp/sources/tftp/tftpboot;
+
+	# Normal Logging
+	access_log /var/log/nginx/tftp1.access.log;
+	error_log /var/log/nginx/tftp1.error.log;
+
+	index           index.php;
+	location ~ \.php$ {
+		fastcgi_split_path_info ^(.+\.php)(/.+)$;
+		fastcgi_pass unix:/var/run/php/php7.3-fpm.sock;
+		fastcgi_index index.php;
+		fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+		include fastcgi_params;
+	}
+
+	location / {
+		try_files $uri $uri/ /index.php$is_args$args;
+		rewrite ^/(.*)$ /index.php?filename=$1 last;
+	}
+
+	error_page 404 /;
+	error_page 500 502 503 504 /50x.html;
+	location = /50x.html {
+		root /usr/share/nginx/html;
+	}
+}
