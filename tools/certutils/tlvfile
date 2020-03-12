@@ -537,7 +537,7 @@ eval {
               '  -d --digest <name>         signature digest (sha1, sha256)', "\n",
               '  -F --filename <name>       header filename in built .tlv file (optional)', "\n",
               '  -r --record <file>         additional record certificate', "\n",
-              '  -f --function <name>       record function (sast, ccm, ccm+tftp tftp, https)', "\n",
+              '  -f --function <name>       record function (sast, ccm, ccm+tftp, tftp, capf, srst, https, tvs)', "\n",
               '  -h --help                  print this help and exit', "\n",
               "\n";
 
