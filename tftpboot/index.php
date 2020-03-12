@@ -29,29 +29,24 @@ function send_fallback_html($message) {
 	flush();
 }
 
-function sendfile($file) {
-	if (file_exists($file)) {
+function sendfile($filename) {
+	if (file_exists($filename)) {
 		while (ob_get_level()) {ob_end_clean();}
 		header('Content-Description: File Transfer');
 		header('Content-Type: application/octet-stream');
-		header('Content-Disposition: attachment; filename=' . basename($file));
+		header('Content-Disposition: attachment; filename=' . basename($filename));
 		header('Content-Transfer-Encoding: binary');
 		header('Expires: 0');
 		header('Cache-Control: must-revalidate');
 		header('Pragma: public');
-		header('Content-Length: ' . filesize($file));
+		header('Content-Length: ' . filesize($filename));
 
 		/* want to stream out, so don't use file_get_contents() in this case */
-		if ($fd = fopen($file, 'rb')) {
-			while (!feof($fd)) {
-				print fread($fd, 1024);
-			}
-			fclose($fd);
-		}
+		return readfile ($filename, FALSE);
 	}
 }
 if (!$request || empty($request) || !array_key_exists('filename',$request) || empty($request['filename'])) {
-	send_fallback_html("Empty request sent");
+	send_fallback_html("Empty 'filename' request sent");
 	exit();
 }
 try {

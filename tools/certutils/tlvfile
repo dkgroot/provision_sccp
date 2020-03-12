@@ -176,7 +176,6 @@ sub parse_tlv {
                 $record_function = $function;
 
                 print 'Function:                 ';
-
                 if ($function == FUNCTION_SAST) {
                     print 'SAST';
                 } elsif ($function == FUNCTION_CCM) {
@@ -185,10 +184,17 @@ sub parse_tlv {
                     print 'CCM+TFTP';
                 } elsif ($function == FUNCTION_TFTP) {
                     print 'TFTP';
+                } elsif ($function == FUNCTION_CAPF) {
+                    print 'CAPF';
+               } elsif ($function == FUNCTION_SRST) {
+                   print 'SRST';
                 } elsif ($function == FUNCTION_HTTPS) {
                     print 'HTTPS';
+               } elsif ($function == FUNCTION_TVS) {
+                   print 'TVS';
+                } else {
+                    print 'Unknown';
                 }
-
                 print "\n";
             } elsif ($parser->tag == RECORD_ISSUER_NAME) {
                 my $issuer_name = unpack ('Z*', $parser->next_value);
@@ -432,8 +438,14 @@ sub build_tlv {
                 FUNCTION_CCM_TFTP;
             } elsif ($function eq 'TFTP') {
                 FUNCTION_TFTP;
+            } elsif ($function eq 'CAPF') {
+                FUNCTION_CAPF;
+            } elsif ($function eq 'SRST') {
+                FUNCTION_SRST;
             } elsif ($function eq 'HTTPS') {
                 FUNCTION_HTTPS;
+            } elsif ($function eq 'TVS') {
+                FUNCTION_TVS;
             } else {
                 die 'Unknown record function: ' . $function;
             };
@@ -525,7 +537,7 @@ eval {
               '  -d --digest <name>         signature digest (sha1, sha256)', "\n",
               '  -F --filename <name>       header filename in built .tlv file (optional)', "\n",
               '  -r --record <file>         additional record certificate', "\n",
-              '  -f --function <name>       record function (sast, ccm, ccm+tftp tftp, https)', "\n",
+              '  -f --function <name>       record function (sast, ccm, ccm+tftp, tftp, capf, srst, https, tvs)', "\n",
               '  -h --help                  print this help and exit', "\n",
               "\n";
 
