@@ -2,6 +2,14 @@
 env/
 *~
 *.bak
+*.enc
+*.sgn
+.requirements_satisfied
 etc/nginx/site-available/nginx.rules
 etc/tftpd-hpa/tftpd.rules
-.requirements_satisfied
+etc/certs/*.pem
+tftpboot/settings/*.cnf.xml
+tftpboot/settings/*.tlv
+tftpboot/settings/authorized_keys
+tftpboot/settings/*.jar
+tftpboot/settings/*.json

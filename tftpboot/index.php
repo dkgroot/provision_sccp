@@ -51,7 +51,7 @@ function sendfile($file) {
 	}
 }
 if (!$request || empty($request) || !array_key_exists('filename',$request) || empty($request['filename'])) {
-	send_fallback_html("Empty request sent");
+	send_fallback_html("Empty 'filename' request sent");
 	exit();
 }
 try {
