@@ -2,15 +2,16 @@
 
 if [ $# == 0 ]; then
 # Create ITLFile.tlv in the tftpboot provisioning directory, the certificate used to sign the .tlv file is automatically included as providing the SAST function.
-../../tools/certutils/tlvfile -b ../../tftpboot/settings/ITLFile.tlv -c CA.pem -r asterisk.pem -f ccm -r capf.pem -f capf -r tvs.pem -f tvs -r tftp.pem -f tftp  -r webserver.pem -f https
-
+#../../tools/certutils/tlvfile -b ../../tftpboot/settings/ITLFile.tlv -c CA.pem -r asterisk.pem -f ccm -r capf.pem -f capf -r tvs.pem -f tvs -r tftp.pem -f tftp  -r webserver.pem -f https -r vpn.pem -f https
+../../tools/certutils/tlvfile -b ../../tftpboot/settings/ITLFile.tlv -c CA.pem -r asterisk.pem -f ccm -r tftp.pem -f tftp  -r webserver.pem -f https -r vpn.pem -f https
 else
 # Optionally, the default ITLFile.tlv can be overridden using a file name based on the MAC address of the phone, eg: ITLSEP58971ECC97C1.tlv.
 #../../tools/certutils/tlvfile -b ../../tftpboot/settings/ITL${1}.tlv -c CA.pem -r vpn.pem -f https -F ITLFile.tlv
+../../tools/certutils/tlvfile -b ../../tftpboot/settings/ITL${1}.tlv -c CA.pem -r asterisk.pem -f ccm -r tftp.pem -f tftp  -r webserver.pem -f https -r vpn.pem -f https -F ITLFile.tlv
 
 # Optionally, additional certificates can be included using a file name based on the MAC address of the phone, eg: CTLSEP58971ECC97C1.tlv.
 # Example for the VPN certificate
-../../tools/certutils/tlvfile -b ../../tftpboot/settings/CTL${1}.tlv -c CA.pem -r vpn.pem -f https -F CTLFile.tlv
+#../../tools/certutils/tlvfile -b ../../tftpboot/settings/CTL${1}.tlv -c CA.pem -r vpn.pem -f https -F CTLFile.tlv
 
 # Enable SIP-TLS mode by setting <transportLayerProtocol> to 3 and setting <deviceSecurityMode> to either 2 (Authenticated) or 3 (Encrypted) in SEPMAC.cnf.xml. Optionally, any XML services can be configured to use HTTPS.
 fi
