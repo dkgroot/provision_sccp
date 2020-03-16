@@ -1,7 +1,12 @@
 <?php
+declare(strict_types=1);
+namespace SCCP\Resolve;
 include_once("config.php");
 include_once("utils.php");
 include_once("resolveCache.php");
+
+use SCCP\Utils as Utils;
+use SCCP\ResolveCache as ResolveCache; 
 
 /* Todo:
  ✔️ setup logging
@@ -16,6 +21,7 @@ include_once("resolveCache.php");
  
  - Could use some more test-cases, especially error ones
 */
+//class ResolveResult extends Enum {
 class ResolveResult {
 	const Ok = 0;
 	const EmptyRequest = 1;
@@ -33,43 +39,57 @@ class Resolver {
 	private $config;
 	function __construct($config) {
 		$this->config = $config;
-		$this->cache = new fileCache($this->config['main']['cache_filename']);
+ 		$this->cache = new ResolveCache\fileCache($this->config['main']['cache_filename']);
 		if ($this->cache->isDirty()) {
 			$this->rebuildCache();
 		}
 	}
 	
 	public function searchForFile($filename) {
+		$path = "";
 		foreach($this->config['subdirs'] as $key => $value) {
-			if ($key === "firmware" || $key === "tftproot" ) {
+			if ($key === "firmware" || $key === "data" || $key === "etc") {
 				continue;
 			}
-			$path = realpath($this->config['main']['base_path'] . "/" . $value['path'] . "/$filename");
-			if (file_exists($path)) {
-				 $this->cache->addFile($filename, $path);
-				 return $path;
+			$path = realpath($this->config['main']['base_path'] . DIRECTORY_SEPARATOR . $value['path'] . DIRECTORY_SEPARATOR . $filename);
+			if (!$path) {
+				print("path: '" . $this->config['main']['base_path'] . DIRECTORY_SEPARATOR . $value['path'] . DIRECTORY_SEPARATOR . $filename . "' not found\n");
+				return ResolveResult::FileNotFound;
 			}
+			$this->cache->addFile($filename, $path);
+			return $path;
 		}
-		log_error("File '$filename' does not exist");
+		Utils\log_error("File '$filename' does not exist");
 		return ResolveResult::FileNotFound;
 	}
 	
 	public function rebuildCache() {
-		log_debug("Rebuilding Cache, standby...");
+		Utils\log_debug("Rebuilding Cache, standby...");
 		foreach($this->config['subdirs'] as $key =>$value) {
-			if ($key === "tftproot") {
+			if ($key === "data" || $key === "etc") {
 				continue;
 			}
-			$path = $this->config['main']['base_path'] . "/" . $value['path'] . "/";
-			$dir_iterator = new RecursiveDirectoryIterator($path);
-			$iterator = new RecursiveIteratorIterator($dir_iterator, RecursiveIteratorIterator::SELF_FIRST);
+			$path = realpath($this->config['main']['base_path'] . DIRECTORY_SEPARATOR . $value['path'] . DIRECTORY_SEPARATOR);
+			if (!$path) {
+				print("path: '" . $this->config['main']['base_path'] . DIRECTORY_SEPARATOR . $value['path'] . "' not found\n");
+				break;
+			}
+			$dir_iterator = new \RecursiveDirectoryIterator($path);
+			$filter = new \RecursiveCallbackFilterIterator($dir_iterator, function ($current, $key, $iterator) {
+				// Skip hidden files and directories.
+				if ($current->getFilename()[0] === '.' || $current->getFilename() == "bak") {
+					return FALSE;
+				}
+				return TRUE;
+			});
+			$iterator = new \RecursiveIteratorIterator($filter, \RecursiveIteratorIterator::SELF_FIRST);
 			foreach ($iterator as $file) {
 				if ($file->isFile()) {
 					if ($value['strip']) {
 						$this->cache->addFile($file->getFileName(), $file->getPathname());
 					} else {
 						$subdir = basename(dirname($file->getPathname()));
-						$this->cache->addFile('$subpath/'.$file->getFileName(), $file->getPathname());
+						$this->cache->addFile($subdir. DIRECTORY_SEPARATOR . $file->getFileName(), $file->getPathname());
 					}
 				}
 			}
@@ -89,14 +109,14 @@ class Resolver {
 			log_error("Request is not a string");
 			return ResolveResult::RequestNotAString;
 		}
-		log_debug($request . ":" . escapeshellarg($request) . ":" . utf8_urldecode($request) . "\n");
-		$escaped_request = escapeshellarg(utf8_urldecode($request));
+		Utils\log_debug($request . ":" . escapeshellarg($request) . ":" . Utils\utf8_urldecode($request) . "\n");
+		$escaped_request = escapeshellarg(Utils\utf8_urldecode($request));
 		if ($escaped_request !== "'" . $request . "'") {
 			log_error("Request '$request' contains invalid characters");
 			return ResolveResult::RequestContainsInvalidChar;
 		}
 		if (strstr($escaped_request, "..")) {
-			log_error("Request '$request' contains '..'");
+			Utils\log_error("Request '$request' contains '..'");
 			return ResolveResult::RequestContainsPathWalk;
 		}
 		return ResolveResult::Ok;
@@ -132,11 +152,11 @@ class Resolver {
 if(defined('STDIN') ) {
 	$resolver = new Resolver($config);
 	$test_cases = Array(
-		Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/tftpboot/firmware/7970/jar70sccp.9-4-2ES26.sbn'),
-		Array('request' => 'Russian_Russian_Federation/be-sccp.jar', 'expected' => '/tftpboot/locales/languages/Russian_Russian_Federation/be-sccp.jar'),
-		Array('request' => 'Spain/g3-tones.xml', 'expected' => '/tftpboot/locales/countries/Spain/g3-tones.xml'),
-		Array('request' => '320x196x4/Chan-SCCP-b.png', 'expected' => '/tftpboot/wallpapers/320x196x4/Chan-SCCP-b.png'),
-		Array('request' => 'XMLDefault.cnf.xml', 'expected' => '/tftpboot/settings/XMLDefault.cnf.xml'),
+		Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/data/firmware/7970/jar70sccp.9-4-2ES26.sbn'),
+		Array('request' => 'Russian_Russian_Federation/be-sccp.jar', 'expected' => '/data/locales/languages/Russian_Russian_Federation/be-sccp.jar'),
+		Array('request' => 'Spain/g3-tones.xml', 'expected' => '/data/locales/countries/Spain/g3-tones.xml'),
+		Array('request' => '320x196x4/Chan-SCCP-b.png', 'expected' => '/data/wallpapers/320x196x4/Chan-SCCP-b.png'),
+		Array('request' => 'XMLDefault.cnf.xml', 'expected' => '/data/settings/XMLDefault.cnf.xml'),
 		Array('request' => '../XMLDefault.cnf.xml', 'expected' => ResolveResult::RequestContainsPathWalk),
 		Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => ResolveResult::RequestContainsPathWalk),
 	);

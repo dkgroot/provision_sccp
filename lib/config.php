@@ -1,4 +1,7 @@
 <?php
+declare(strict_types=1);
+namespace SCCP\Config;
+
 include_once("logger.php");
 include_once("utils.php");
 $base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "..");
@@ -24,8 +27,8 @@ class ConfigParser {
 		hash = NULL
 
 		[subdirs]
-		etc = ../etc
-		tftproot = tftpboot
+		etc = etc
+		data = data
 		firmware = firmware
 		settings = settings
 		wallpapers = wallpapers
@@ -72,7 +75,7 @@ class ConfigParser {
 			$config = array_merge($default_config, $ini_config);
 		}
 		$config['main']['base_path'] = $base_path;
-		$config['main']['tftproot'] = (!empty($config['main']['tftproot'])) ? $base_path . "tftpboot" : '/tftpboot';
+		$config['main']['data'] = (!empty($config['main']['data'])) ? $base_path . "data" : DIRECTORY_SEPARATOR . 'data';
 		$config['subdirs'] = $this->replaceSubdirTreeStructure($config['subdirs']);
 		$this->config = $config;
 	}
@@ -85,12 +88,12 @@ class ConfigParser {
 	private function replaceSubdirTreeStructure($tmpSubdirs) {
 		$tree_structure = Array(
 			'etc' => array('parent' => NULL, "strip" => true),
-			'tftproot' => array('parent' => NULL, "strip" => true),
-			'settings' => array('parent' => 'tftproot', "strip" => true),
-			'wallpapers' => array('parent' => 'tftproot', "strip" => false),
-			'ringtones' => array('parent' => 'tftproot', "strip" => true),
-			'locales' => array('parent' => 'tftproot', "strip" => true),
-			'firmware' => array('parent' => 'tftproot', "strip" => true),
+			'data' => array('parent' => NULL, "strip" => true),
+			'settings' => array('parent' => 'data', "strip" => true),
+			'wallpapers' => array('parent' => 'data', "strip" => false),
+			'ringtones' => array('parent' => 'data', "strip" => true),
+			'locales' => array('parent' => 'data', "strip" => true),
+			'firmware' => array('parent' => 'data', "strip" => true),
 			'languages' => array('parent' => 'locales', "strip" => false),
 			'countries' => array('parent' => 'locales', "strip" => false),
 		);
@@ -98,16 +101,10 @@ class ConfigParser {
 		$subdirs = Array();
 		foreach ($tree_structure as $key => $value) {
 			if (!empty($tmpSubdirs[$key])) {
-				if (substr($tmpSubdirs[$key], 0, 1) !== "/") {
-					if (!$value['parent']) {
-						$path = $tmpSubdirs[$key];
-					} else {
-						if (is_array($tmpSubdirs[$value['parent']])) {
-							$path = $tmpSubdirs[$value['parent']]['path'].'/'.$tmpSubdirs[$key];
-						} else {
-							$path = $tmpSubdirs[$value['parent']].'/'.$tmpSubdirs[$key];
-						}
-					}
+				if (!$value['parent']) {
+					$path = $tmpSubdirs[$key];
+				} else {
+					$path = $subdirs[$value['parent']]['path'] . DIRECTORY_SEPARATOR . $tmpSubdirs[$key];
 				}
 				$subdirs[$key] = array('path' => $path, 'strip' => $value['strip']);
 			}
@@ -190,7 +187,7 @@ $config = $configParser->getConfiguration();
 
 switch($config['main']['log_type']) {
 	case 'SYSLOG':
-		$logger = new Logger_Syslog($config['main']['log_level']);
+		$logger = new \SCCP\Logger\Logger_Syslog($config['main']['log_level']);
 		break;
 	case 'FILE':
 		if (!isempty($config['main']['log_file'])) {
