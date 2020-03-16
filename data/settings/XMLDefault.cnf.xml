@@ -27,7 +27,7 @@
             <ports>
               <ethernetPhonePort>2000</ethernetPhonePort>
             </ports>
-            <processNodeName>192.168.1.1</processNodeName>
+            <processNodeName>192.168.178.3</processNodeName>
           </callManager>
         </member>
         <member priority="1">
@@ -115,9 +115,9 @@
   </commonProfile>
 
   <vendorConfig>
-    <logServer>192.168.1.1</logServer>
-    <syslogServer>192.168.1.1</syslogServer>
-    <debugServer>192.168.1.1</debugServer>
+    <logServer>192.168.178.3</logServer>
+    <syslogServer>192.168.178.3</syslogServer>
+    <debugServer>192.168.178.3</debugServer>
     <debugLevel>3</debugLevel>
     <disableSpeaker>false</disableSpeaker>
     <disableSpeakerAndHeadset>false</disableSpeakerAndHeadset>
@@ -225,12 +225,12 @@
   <userId>9999</userId>
   
   <!-- Begin URL's -->
-  <idleURL>http://192.168.1.1/idle.php</idleURL>
-  <authenticationURL>http://192.168.1.1/authenticate.php</authenticationURL>
-  <informationURL>http://192.168.1.1/cisco_menu/help/help.php</informationURL>
+  <idleURL>http://192.168.178.3/idle.php</idleURL>
+  <authenticationURL>http://192.168.178.3/authenticate.php</authenticationURL>
+  <informationURL>http://192.168.178.3/cisco_menu/help/help.php</informationURL>
   <messagesURL/>
   <proxyServerURL/>
-  <servicesURL>http://192.168.1.1/tests.xml</servicesURL>
-  <directoryURL>http://192.168.1.1/cisco_menu/directory/menu.php</directoryURL>
+  <servicesURL>http://192.168.178.3/tests.xml</servicesURL>
+  <directoryURL>http://192.168.178.3/cisco_menu/directory/menu.php</directoryURL>
   <!-- End URL's -->
 </Default>
