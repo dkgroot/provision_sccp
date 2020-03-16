@@ -1,4 +1,7 @@
 <?php
+
+namespace SCCP\Logger;
+
 /* Note about the Logger class:
  * The "priority" and "minimum should be one of the constants used for syslog.
  * See: http://php.net/manual/en/function.syslog.php

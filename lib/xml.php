@@ -1,4 +1,6 @@
 <?php
+declare(strict_types=1);
+namespace SCCP\XML;
 include_once("config.php");
 
 class XML {
