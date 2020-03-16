@@ -10,6 +10,11 @@ The project also serves as a repository of current / up to date cisco skinny/scc
 - [tftp-hpa](http://www.chschneider.eu/linux/server/tftpd-hpa.shtml)
 - [nginx](https://www.nginx.com/resources/wiki/)
 
+## PHP Dependencies
+- php >= 7.x
+- php-cli
+- php-xml
+
 ## Usage
 - Clone the repository
 - Move the tftpboot directory (depends on your operating system):

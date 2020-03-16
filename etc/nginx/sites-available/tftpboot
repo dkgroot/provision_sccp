@@ -1,7 +1,7 @@
 server {
     listen 6970;
     server_name tftp.servername.org;
-    root /data/development/sccp/sources/tftp/tftpboot;
+    root /data/development/sccp/sources/tftp/srv/web;
 
     # Normal Logging
     access_log /var/log/nginx/tftp1.access.log;

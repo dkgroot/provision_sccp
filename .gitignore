@@ -8,8 +8,8 @@ env/
 etc/nginx/site-available/nginx.rules
 etc/tftpd-hpa/tftpd.rules
 etc/certs/*.pem
-tftpboot/settings/*.cnf.xml
-tftpboot/settings/*.tlv
-tftpboot/settings/authorized_keys
-tftpboot/settings/*.jar
-tftpboot/settings/*.json
+data/settings/*.cnf.xml
+data/settings/*.tlv
+data/settings/authorized_keys
+data/settings/*.jar
+data/settings/*.json
