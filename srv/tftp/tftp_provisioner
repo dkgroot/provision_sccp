@@ -1,10 +1,14 @@
 #!/usr/bin/env php
 <?php
+declare(strict_types=1);
+
 require_once("lib/tftp.php");
 require_once("lib/config.php");
 require_once("lib/resolver.php");
 
-class TFTPProvisioner extends TFTPServer
+use SCCP\TFTP as TFTP;
+use SCCP\Resolve as Resolve;
+class TFTPProvisioner extends TFTP\TFTPServer
 {
   private $_debug;
   private $_resolver;
@@ -19,7 +23,7 @@ class TFTPProvisioner extends TFTPServer
     parent::__construct($server_url, $logger);
     $this->_debug = $debug;
     $this->max_put_size = 60000000;
-    $this->_resolver = new Resolver($config);
+    $this->_resolver = new Resolve\Resolver($config);
     $this->_settings_path = $this->_config['main']['base_path'] . DIRECTORY_SEPARATOR
                 . $this->_config['subdirs']['settings']['path'] . DIRECTORY_SEPARATOR;
   }
