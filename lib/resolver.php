@@ -1,5 +1,6 @@
 <?php
 declare(strict_types=1);
+
 namespace SCCP\Resolve;
 include_once("config.php");
 include_once("utils.php");
