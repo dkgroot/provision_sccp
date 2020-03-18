@@ -103,17 +103,17 @@ class Resolve {
 		/* make sure request only starts with filename or one of $config[$subdir]['locale'] or $config[$subdir]['wallpaper'] */
 		/* check uri/url decode */
 		if (!$request || empty($request)) {
-			log_error("Request is empty");
+			Utils\log_error("Request is empty");
 			return ResolveResult::EmptyRequest;
 		}
 		if (!is_string($request)) {
-			log_error("Request is not a string");
+			Utils\log_error("Request is not a string");
 			return ResolveResult::RequestNotAString;
 		}
 		Utils\log_debug($request . ":" . escapeshellarg($request) . ":" . Utils\utf8_urldecode($request) . "\n");
 		$escaped_request = escapeshellarg(Utils\utf8_urldecode($request));
 		if ($escaped_request !== "'" . $request . "'") {
-			log_error("Request '$request' contains invalid characters");
+			Utils\log_error("Request '$request' contains invalid characters");
 			return ResolveResult::RequestContainsInvalidChar;
 		}
 		if (strstr($escaped_request, "..")) {
@@ -132,7 +132,7 @@ class Resolve {
 		if (($path = $this->cache->getPath($request))) {
 			if (!file_exists($path)) {
 				 $this->cache->removeFile($request);
-				 log_error("File '$request' does not exist on FS");
+				 Utils\log_error("File '$request' does not exist on FS");
 				 return ResolveResult::FileNotFound;
 			}
 			return $path;
@@ -147,44 +147,5 @@ class Resolve {
 	function printCache() {
 		print_r($this->cache);
 	}
-}
-
-// Testing
-if(defined('STDIN') ) {
-	$resolve = new Resolve($config);
-	$test_cases = Array(
-		Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/data/firmware/7970/jar70sccp.9-4-2ES26.sbn'),
-		Array('request' => 'Russian_Russian_Federation/be-sccp.jar', 'expected' => '/data/locales/languages/Russian_Russian_Federation/be-sccp.jar'),
-		Array('request' => 'Spain/g3-tones.xml', 'expected' => '/data/locales/countries/Spain/g3-tones.xml'),
-		Array('request' => '320x196x4/Chan-SCCP-b.png', 'expected' => '/data/wallpapers/320x196x4/Chan-SCCP-b.png'),
-		Array('request' => 'XMLDefault.cnf.xml', 'expected' => '/data/settings/XMLDefault.cnf.xml'),
-		Array('request' => '../XMLDefault.cnf.xml', 'expected' => ResolveResult::RequestContainsPathWalk),
-		Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => ResolveResult::RequestContainsPathWalk),
-	);
-	foreach($test_cases as $test) {
-		try {
-			$result = $resolve->resolve($test['request']);
-			if (is_string($result)) {
-				if ($result === $base_path . $test['expected']) {
-					print("'" . $test['request'] . "' => '" . $result . "'\n");
-					continue;
-				}
-			} else {
-				if ($result === $test['expected']) {
-					print("'" . $test['request'] . "' => '" . $result . "'\n");
-					continue;
-				}
-			}
-			print("Error: expected result does not match what we got\n");
-			print("request:'".$test['request']."'\n");
-			print("expected:'" . $base_path . $test['expected'] . "'\n");
-			print("result:'" . $result . "'\n\n");
-		} catch (Exception $e) {
-			print("'" . $test['request'] . "' => throws error as expected\n");
-			print("Exception: " . $e->getMessage() . "\n");
-		}
-	}
-	unset($resolve);
-	#unlink($CACHEFILE_NAME);
 }
 ?>

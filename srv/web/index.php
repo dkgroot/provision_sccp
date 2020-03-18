@@ -1,6 +1,6 @@
 <?php
-include_once("../lib/config.php");
-include_once("../lib/resolve.php");
+include_once("../../lib/config.php");
+include_once("../../lib/resolve.php");
 $request = $_REQUEST ?? null;
 
 function send_fallback_html($message) {
@@ -50,8 +50,10 @@ if (!$request || empty($request) || !array_key_exists('filename',$request) || em
 	exit();
 }
 try {
+    	global $base_path;
 	$req_filename=$request['filename'];
-	$resolve = new Resolver($config);
+	$configParser = new SCCP\Config\ConfigParser($base_path, "config.ini");
+	$resolve = new SCCP\Resolve\Resolve($configParser->getConfiguration());
 	if (($filename = $resolve->resolve($req_filename))) {
 		sendfile($filename);
 	}

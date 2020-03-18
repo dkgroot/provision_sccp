@@ -78,6 +78,30 @@ class ConfigParser {
 		$config['main']['data'] = (!empty($config['main']['data'])) ? $base_path . "data" : DIRECTORY_SEPARATOR . 'data';
 		$config['subdirs'] = $this->replaceSubdirTreeStructure($config['subdirs']);
 		$this->config = $config;
+		$this->initializeLogger();
+	}
+	
+	private function initializeLogger() {
+		global $logger;
+		switch($this->config['main']['log_type']) {
+			case 'SYSLOG':
+				$logger = new \SCCP\Logger\Logger_Syslog($this->config['main']['log_level']);
+				break;
+			case 'FILE':
+				if (!isempty($config['main']['log_file'])) {
+					$logger = new Logger_Filename($this->config['main']['log_level'], $this->config['main']['log_file']);
+				}
+				break;
+			case 'STDOUT':
+				$logger = new Logger_Stdout($this->config['main']['log_level']);
+				break;
+			case 'STDERR':
+				$logger = new Logger_Stderr($this->config['main']['log_level']);
+				break;
+			default:
+				$logger = new Logger_Null($this->config['main']['log_level']);
+		}
+		$this->config['main']['logger'] = $logger;
 	}
 	
 	/*!
@@ -175,40 +199,12 @@ class ConfigParser {
 	public function getConfiguration() {
 		return $this->config;
 	}
-	
-	public function printConfiguration() {
-		print_r($this->config);
-		//var_dump($this->config);
-	}
 }
 
 $configParser = new ConfigParser($base_path, "config.ini");
 $config = $configParser->getConfiguration();
 
-switch($config['main']['log_type']) {
-	case 'SYSLOG':
-		$logger = new \SCCP\Logger\Logger_Syslog($config['main']['log_level']);
-		break;
-	case 'FILE':
-		if (!isempty($config['main']['log_file'])) {
-			$logger = new Logger_Filename($config['main']['log_level'], $config['main']['log_file']);
-		}
-		break;
-	case 'STDOUT':
-		$logger = new Logger_Stdout($config['main']['log_level']);
-		break;
-	case 'STDERR':
-		$logger = new Logger_Stderr($config['main']['log_level']);
-		break;
-	default:
-		$logger = new Logger_Null($config['main']['log_level']);
-}
-
 # Fixup debug
-$print_debug = (!empty($config['main']['debug'])) ? $config['main']['debug'] : 'off';
-$print_debug = ($print_debug == 1) ? 'on' : $print_debug;
-
-if(defined('STDIN') ) {
-	$configParser->printConfiguration();
-}
+//$print_debug = (!empty($config['main']['debug'])) ? $config['main']['debug'] : 'off';
+//$print_debug = ($print_debug == 1) ? 'on' : $print_debug;
 ?>
