@@ -34,7 +34,7 @@ class ResolveResult {
 	const InvalidPath = 7;
 }
 
-class Resolver {
+class Resolve {
 	private $isDirty = FALSE;
 	private $cache;
 	private $config;
@@ -151,7 +151,7 @@ class Resolver {
 
 // Testing
 if(defined('STDIN') ) {
-	$resolver = new Resolver($config);
+	$resolve = new Resolve($config);
 	$test_cases = Array(
 		Array('request' => 'jar70sccp.9-4-2ES26.sbn', 'expected' => '/data/firmware/7970/jar70sccp.9-4-2ES26.sbn'),
 		Array('request' => 'Russian_Russian_Federation/be-sccp.jar', 'expected' => '/data/locales/languages/Russian_Russian_Federation/be-sccp.jar'),
@@ -163,7 +163,7 @@ if(defined('STDIN') ) {
 	);
 	foreach($test_cases as $test) {
 		try {
-			$result = $resolver->resolve($test['request']);
+			$result = $resolve->resolve($test['request']);
 			if (is_string($result)) {
 				if ($result === $base_path . $test['expected']) {
 					print("'" . $test['request'] . "' => '" . $result . "'\n");
@@ -184,7 +184,7 @@ if(defined('STDIN') ) {
 			print("Exception: " . $e->getMessage() . "\n");
 		}
 	}
-	unset($resolver);
+	unset($resolve);
 	#unlink($CACHEFILE_NAME);
 }
 ?>

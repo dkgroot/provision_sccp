@@ -1,6 +1,6 @@
 <?php
 include_once("../lib/config.php");
-include_once("../lib/resolver.php");
+include_once("../lib/resolve.php");
 $request = $_REQUEST ?? null;
 
 function send_fallback_html($message) {
@@ -51,11 +51,11 @@ if (!$request || empty($request) || !array_key_exists('filename',$request) || em
 }
 try {
 	$req_filename=$request['filename'];
-	$resolver = new Resolver($config);
-	if (($filename = $resolver->resolve($req_filename))) {
+	$resolve = new Resolver($config);
+	if (($filename = $resolve->resolve($req_filename))) {
 		sendfile($filename);
 	}
-	unset($resolver);
+	unset($resolve);
 } catch(Exception $e) {
 	send_fallback_html($e->getMessage());
 }
