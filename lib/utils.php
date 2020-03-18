@@ -12,12 +12,16 @@ function utf8_urldecode($str) {
 
 function log_debug($message) {
 	global $logger;
-	$logger->log('LOG_DEBUG', $message);
+	if ($logger) {
+		$logger->log('LOG_DEBUG', $message);
+	}
 }
 
 function log_error($message) {
 	global $logger;
-	$logger->log('LOG_ERROR', $message);
+	if ($logger) {
+		$logger->log('LOG_ERROR', $message);
+	}
 }
 
 function log_error_and_throw($message) {

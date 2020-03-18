@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<!-- phing build file -->
+<project
+  name="provision_sccp"
+  default="build"
+  basedir="."
+  description="SCCP/Skinny Provisioner">
+
+  <target name="install">
+    <exec command="./composer.phar install" checkreturn="true" passthru="true"/>
+    <exec command="./composer.phar update" checkreturn="true" passthru="true"/>
+  </target>
+
+  <target name="clean">
+    <delete dir="build"/>
+  </target>
+
+  <target name="prepare">
+    <mkdir dir="build" mode="0755"/>
+  </target>
+
+  <target name="fixstyle">
+    <exec command="phpcbf --tab-width=4 --standard=PSR2 src test"
+      checkreturn="true"
+      passthru="false"/>
+  </target>
+
+  <target name="test">
+    <exec command="phpunit -v --debug tests"
+      checkreturn="true"
+      passthru="true"/>
+  </target>
+
+  <target name="build" depends="clean, prepare, test"/>
+
+</project>

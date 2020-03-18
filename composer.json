@@ -1,0 +1,45 @@
+{
+    "name": "chan-sccp/provisioner",
+    "type": "library",
+    "description": "SCCP/Skinny Provisioner",
+    "keywords": ["sccp","skinny","sip","cisco","tftp","http","chan-sccp"],
+    "homepage": "http://github.com/dkgroot/provision_sccp",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Diederik de Groot",
+            "email": "ddegroot@talon.nl",
+            "homepage": "http://github.com/chan-sccp/",
+            "role": "Developer"
+        },
+        {
+            "name": "Marcello Ceschia",
+            "email": "marcello@ceschia.de",
+            "homepage": "https://github.com/marcelloceschia/",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/dkgroot/provision_sccp/issues",
+        "wiki": "https://github.com/dkgroot/provision_sccp/wiki",
+        "source": "https://github.com/dkgroot/provision_sccp"
+    },
+    "autoload": {
+        "psr-4": {
+            "provision\\": "lib/"
+        }
+    },
+    "require": {
+        "php": ">=5.6.0",
+        "psr/log": ">= 1.0.0"
+    },
+    "require-dev": {
+        "phing/phing": "*",
+        "phpunit/phpunit": "*",
+        "codeclimate/php-test-reporter": "*",
+        "php-coveralls/php-coveralls": "*",
+        "phpmd/phpmd": ">=2.5.0",
+        "squizlabs/php_codesniffer": ">=3.4.0",
+        "sebastian/phpcpd": "*"
+    }
+}
