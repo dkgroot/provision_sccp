@@ -13,3 +13,6 @@ data/settings/*.tlv
 data/settings/authorized_keys
 data/settings/*.jar
 data/settings/*.json
+vendor/
+bak/
+build/

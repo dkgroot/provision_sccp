@@ -1,15 +1,9 @@
 <?php
-namespace SCCP\ResolveCache;
-use SCCP\Utils as Utils;
+namespace PROVISION\ResolveCache;
 
-abstract class resolveCache {
-	abstract protected function addFile($filename, $realpath);
-	abstract protected function removeFile($filename);
-	abstract protected function check($filename);
-	abstract protected function getPath($filename);
-}
+use PROVISION\Utils as Utils;
 
-class fileCache extends resolveCache {
+class FileCache extends ResolveCache {
 	private $_isDirty = false;
 	private $_cache = array();
 	private $_cache_file = NULL;
@@ -30,7 +24,7 @@ class fileCache extends resolveCache {
 				log_error_and_throw("Could not write to file '".$this->_cache_file."' at Resolver::destruct");
 			}*/
 			if (!file_put_contents($this->_cache_file, serialize($this->_cache))) {
-				Utils\log_error_and_throw("Could not write to file '".$this->_cache_file."' at Resolver::destruct");
+				Utils::log_error_and_throw("Could not write to file '".$this->_cache_file."' at Resolver::destruct");
 			}
 		}
 	}
@@ -45,7 +39,7 @@ class fileCache extends resolveCache {
 
 	public function addFile($filename, $realpath) {
 		if ($this->check($filename))
-			Utils\log_error("Duplicate file:$filename");	/* should we prevent this ? */
+			Utils::log_error("Duplicate file:$filename");	/* should we prevent this ? */
 		$this->_cache[$filename] = $realpath;
 		$this->_isDirty  =true;
 	}
@@ -69,16 +63,4 @@ class fileCache extends resolveCache {
 	}
 }
 
-/*
-class sqliteCache extends resolveCache {
-	function __construct() {
-	}
-	function __destruct() {
-	}
-	public function addFile($filename, $realpath);
-	public function removeFile($filename);
-	public function check($filename);
-	public function getPath($filename);
-}
-*/
 ?>

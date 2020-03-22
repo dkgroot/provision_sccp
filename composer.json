@@ -26,12 +26,13 @@
     },
     "autoload": {
         "psr-4": {
-            "provision\\": "lib/"
+            "PROVISION\\": "lib/"
         }
     },
     "require": {
         "php": ">=5.6.0",
-        "psr/log": ">= 1.0.0"
+        "psr/log": ">= 1.0.0",
+        "myclabs/php-enum": ">= 1.7.6"
     },
     "require-dev": {
         "phing/phing": "*",

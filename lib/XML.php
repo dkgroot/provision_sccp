@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
-namespace SCCP\XML;
-include_once("config.php");
+namespace PROVISION;
+//use PROVISION\ConfigParser;
 
 class XML {
 	private $config;

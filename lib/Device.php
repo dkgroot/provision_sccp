@@ -1,11 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace SCCP;
-//include_once("config.php");
-//include_once("utils.php");
-//include_once("resolveCache.php");
-abstract class DeviceType
+namespace PROVISION;
+//use PROVISION\Utils as Utils;
+
+abstract class DeviceType extends \SplEnum
 {
 	const CiscoIPCommunicator = 30016;
 	const CiscoIPPhone6901 = 547;

@@ -1,13 +1,10 @@
 <?php
 declare(strict_types=1);
 
-namespace SCCP\Resolve;
-include_once("config.php");
-include_once("utils.php");
-include_once("resolveCache.php");
-
-use SCCP\Utils as Utils;
-use SCCP\ResolveCache as ResolveCache; 
+namespace PROVISION;
+//use PROVISION\ConfigParser;
+use PROVISION\ResolveCache as ResolveCache;
+use PROVISION\Utils as Utils; 
 
 /* Todo:
  ✔️ setup logging
@@ -23,7 +20,7 @@ use SCCP\ResolveCache as ResolveCache;
  - Could use some more test-cases, especially error ones
 */
 //class ResolveResult extends Enum {
-class ResolveResult {
+abstract class ResolveResult {
 	const Ok = 0;
 	const EmptyRequest = 1;
 	const RequestNotAString = 2;
@@ -40,7 +37,7 @@ class Resolve {
 	private $config;
 	function __construct($config) {
 		$this->config = $config;
- 		$this->cache = new ResolveCache\fileCache($this->config['main']['cache_filename']);
+ 		$this->cache = new ResolveCache\FileCache($this->config['main']['cache_filename']);
 		if ($this->cache->isDirty()) {
 			$this->rebuildCache();
 		}
@@ -60,12 +57,12 @@ class Resolve {
 			$this->cache->addFile($filename, $path);
 			return $path;
 		}
-		Utils\log_error("File '$filename' does not exist");
+		Utils::log_error("File '$filename' does not exist");
 		return ResolveResult::FileNotFound;
 	}
 	
 	public function rebuildCache() {
-		Utils\log_debug("Rebuilding Cache, standby...");
+		Utils::log_debug("Rebuilding Cache, standby...");
 		foreach($this->config['subdirs'] as $key =>$value) {
 			if ($key === "data" || $key === "etc") {
 				continue;
@@ -103,21 +100,21 @@ class Resolve {
 		/* make sure request only starts with filename or one of $config[$subdir]['locale'] or $config[$subdir]['wallpaper'] */
 		/* check uri/url decode */
 		if (!$request || empty($request)) {
-			Utils\log_error("Request is empty");
+			Utils::log_error("Request is empty");
 			return ResolveResult::EmptyRequest;
 		}
 		if (!is_string($request)) {
-			Utils\log_error("Request is not a string");
+			Utils::log_error("Request is not a string");
 			return ResolveResult::RequestNotAString;
 		}
-		Utils\log_debug($request . ":" . escapeshellarg($request) . ":" . Utils\utf8_urldecode($request) . "\n");
-		$escaped_request = escapeshellarg(Utils\utf8_urldecode($request));
+		Utils::log_debug($request . ":" . escapeshellarg($request) . ":" . Utils::utf8_urldecode($request) . "\n");
+		$escaped_request = escapeshellarg(Utils::utf8_urldecode($request));
 		if ($escaped_request !== "'" . $request . "'") {
-			Utils\log_error("Request '$request' contains invalid characters");
+			Utils::log_error("Request '$request' contains invalid characters");
 			return ResolveResult::RequestContainsInvalidChar;
 		}
 		if (strstr($escaped_request, "..")) {
-			Utils\log_error("Request '$request' contains '..'");
+			Utils::log_error("Request '$request' contains '..'");
 			return ResolveResult::RequestContainsPathWalk;
 		}
 		return ResolveResult::Ok;
@@ -132,7 +129,7 @@ class Resolve {
 		if (($path = $this->cache->getPath($request))) {
 			if (!file_exists($path)) {
 				 $this->cache->removeFile($request);
-				 Utils\log_error("File '$request' does not exist on FS");
+				 Utils::log_error("File '$request' does not exist on FS");
 				 return ResolveResult::FileNotFound;
 			}
 			return $path;

@@ -2,13 +2,21 @@
 <?php
 declare(strict_types=1);
 
-require_once("lib/tftp.php");
-require_once("lib/config.php");
-require_once("lib/resolve.php");
+require(implode(DIRECTORY_SEPARATOR, array(
+    __DIR__,
+    '..',
+    '..',
+    'vendor',
+    'autoload.php'
+)));
 
-use SCCP\TFTP as TFTP;
-use SCCP\Resolve as Resolve;
-class TFTPProvisioner extends TFTP\TFTPServer
+use PROVISION\TFTP;
+use PROVISION\ConfigParser;
+use PROVISION\Resolve;
+use PROVISION\Logger;
+use PROVISION\Utilts;
+
+class TFTPProvisioner extends TFTP\Server
 {
   private $_debug;
   private $_resolve;
@@ -23,7 +31,7 @@ class TFTPProvisioner extends TFTP\TFTPServer
     parent::__construct($server_url, $logger);
     $this->_debug = $debug;
     $this->max_put_size = 60000000;
-    $this->_resolve = new Resolve\Resolve($config);
+    $this->_resolve = new Resolve($config);
     $this->_settings_path = $this->_config['main']['base_path'] . DIRECTORY_SEPARATOR
                 . $this->_config['subdirs']['settings']['path'] . DIRECTORY_SEPARATOR;
   }
@@ -83,13 +91,13 @@ class TFTPProvisioner extends TFTP\TFTPServer
 
 }
 
-global $base_path;
 $host = "127.0.0.1";
 $port = 10069;
 $url = "udp://$host:$port";
+$base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "../..");
 
 echo "\nStarting TFTP Provisioner...\n";
-$configParser = new SCCP\Config\ConfigParser($base_path, "config.ini");
+$configParser = new ConfigParser($base_path, "config.ini");
 $server = new TFTPProvisioner($url, $configParser->getConfiguration(), $logger);
 if(!$server->loop($error))
   die("$error\n");

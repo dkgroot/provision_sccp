@@ -1,9 +1,19 @@
 <?php
-include_once("../../lib/config.php");
-include_once("../../lib/resolve.php");
+
+require(implode(DIRECTORY_SEPARATOR, array(
+    __DIR__,
+    '..',
+    '..',
+    'vendor',
+    'autoload.php'
+)));
+
+use PROVISION\ConfigParser;
+use PROVISION\Resolve;
 $request = $_REQUEST ?? null;
 
 function send_fallback_html($message) {
+	global $request;
 	while (ob_get_level()) {ob_end_clean();}
 	if (ob_get_length() === false) {
 		ob_start();
@@ -50,10 +60,11 @@ if (!$request || empty($request) || !array_key_exists('filename',$request) || em
 	exit();
 }
 try {
-    	global $base_path;
+	$base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "../..");
+    	//global $base_path;
 	$req_filename=$request['filename'];
-	$configParser = new SCCP\Config\ConfigParser($base_path, "config.ini");
-	$resolve = new SCCP\Resolve\Resolve($configParser->getConfiguration());
+	$configParser = new ConfigParser($base_path, "config.ini");
+	$resolve = new Resolve($configParser->getConfiguration());
 	if (($filename = $resolve->resolve($req_filename))) {
 		sendfile($filename);
 	}
