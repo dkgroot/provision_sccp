@@ -1,25 +1,32 @@
 <?php declare(strict_types=1);
-use PHPUnit\Framework\TestCase;
 
-include_once "lib/resolve.php";
-use SCCP\Resolve as Resolve;
+require(implode(DIRECTORY_SEPARATOR, array(
+    __DIR__,
+    '..',
+    'vendor',
+    'autoload.php'
+)));
+
+use PHPUnit\Framework\TestCase;
+use PROVISION\ConfigParser as ConfigParser;
+use PROVISION\Resolve as Resolve;
+use PROVISION\ResolveResult as ResolveResult;
 
 final class ResolverTest extends TestCase
 {
     private function getConfig()
     {
-    	global $base_path;
-	$configParser = new SCCP\Config\ConfigParser($base_path, "config.ini");
+	$base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "..");
+	$configParser = new ConfigParser($base_path, "config.ini");
 	return $configParser->getConfiguration();
     }    
 
     public function testCanBeCreated(): void
     {
-        //global $config;
     	$config = $this->getConfig();
-        $resolve = new \SCCP\Resolve\Resolve($config);
+        $resolve = new Resolve($config);
         $this->assertInstanceOf(
-            \SCCP\Resolve\Resolve::class,
+            Resolve::class,
             $resolve
         );
     }
@@ -30,17 +37,16 @@ final class ResolverTest extends TestCase
             Array('request' => 'Spain/g3-tones.xml', 'expected' => '/data/locales/countries/Spain/g3-tones.xml'),
             Array('request' => '320x196x4/Chan-SCCP-b.png', 'expected' => '/data/wallpapers/320x196x4/Chan-SCCP-b.png'),
             Array('request' => 'XMLDefault.cnf.xml', 'expected' => '/data/settings/XMLDefault.cnf.xml'),
-            Array('request' => '../XMLDefault.cnf.xml', 'expected' => Resolve\ResolveResult::RequestContainsPathWalk),
-            Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => Resolve\ResolveResult::RequestContainsPathWalk),
+            Array('request' => '../XMLDefault.cnf.xml', 'expected' => ResolveResult::RequestContainsPathWalk),
+            Array('request' => 'XMLDefault.cnf.xml/../../text.xml', 'expected' => ResolveResult::RequestContainsPathWalk),
     );
     
     public function testCanResolveFiles(): void
     {
     	global $base_path;
     	$config = $this->getConfig();
-        //global $config;
         
-        $resolve = new \SCCP\Resolve\Resolve($config);
+        $resolve = new Resolve($config);
 	foreach($this->test_cases as $test) {
 		try {
 			$result = $resolve->resolve($test['request']);

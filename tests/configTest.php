@@ -1,24 +1,30 @@
 <?php declare(strict_types=1);
+
+require(implode(DIRECTORY_SEPARATOR, array(
+    __DIR__,
+    '..',
+    'vendor',
+    'autoload.php'
+)));
+
 use PHPUnit\Framework\TestCase;
+use PROVISION\ConfigParser as ConfigParser;
 
-include_once "lib/config.php";
-use SCCP\Config as Config;
-
-final class ConfigTest extends TestCase
+final class ConfigParserTest extends TestCase
 {
     public function testCanBeCreated(): void
     {
-    	global $base_path;
-	$configParser = new Config\ConfigParser($base_path, "config.ini");
+	$base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "..");
+	$configParser = new ConfigParser($base_path, "config.ini");
         $this->assertInstanceOf(
-            Config\ConfigParser::class,
+            ConfigParser::class,
             $configParser
         );
     }
     public function testCanGetConfig(): void
     {
-    	global $base_path;
-	$configParser = new Config\ConfigParser($base_path, "config.ini");
+	$base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "..");
+	$configParser = new ConfigParser($base_path, "config.ini");
 	$config = $configParser->getConfiguration();
 	$this->assertNotEmpty($config);
     }

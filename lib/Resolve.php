@@ -1,8 +1,7 @@
-<?php
-declare(strict_types=1);
+<?php declare(strict_types=1);
 
 namespace PROVISION;
-//use PROVISION\ConfigParser;
+use PROVISION\ResolveResult as ResolveResult;
 use PROVISION\ResolveCache as ResolveCache;
 use PROVISION\Utils as Utils; 
 
@@ -19,18 +18,6 @@ use PROVISION\Utils as Utils;
  
  - Could use some more test-cases, especially error ones
 */
-//class ResolveResult extends Enum {
-abstract class ResolveResult {
-	const Ok = 0;
-	const EmptyRequest = 1;
-	const RequestNotAString = 2;
-	const RequestContainsInvalidChar = 3;
-	const RequestContainsPathWalk = 4;
-	const FileNotFound = 5;
-	const InvalidFilename = 6;
-	const InvalidPath = 7;
-}
-
 class Resolve {
 	private $isDirty = FALSE;
 	private $cache;

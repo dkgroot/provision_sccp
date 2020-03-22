@@ -14,7 +14,7 @@ use PROVISION\TFTP;
 use PROVISION\ConfigParser;
 use PROVISION\Resolve;
 use PROVISION\Logger;
-use PROVISION\Utilts;
+use PROVISION\Utils;
 
 class TFTPProvisioner extends TFTP\Server
 {

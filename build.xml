@@ -26,7 +26,7 @@
   </target>
 
   <target name="test">
-    <exec command="phpunit -v --debug tests"
+    <exec command="vendor/phpunit/phpunit/phpunit -v --debug tests"
       checkreturn="true"
       passthru="true"/>
   </target>
