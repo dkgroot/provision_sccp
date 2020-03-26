@@ -26,7 +26,7 @@
 <part m="off" t="300"/>
 <part m="on" t="200"/>
 <part m="off" t="300"/>
-<part m="on" t="300"/>
+<part m="on" t="200"/>
 <part m="off" t="800"/>
 <repeat c="65535"/>
 </tone>
