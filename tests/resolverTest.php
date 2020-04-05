@@ -43,7 +43,7 @@ final class ResolverTest extends TestCase
     
     public function testCanResolveFiles(): void
     {
-    	global $base_path;
+    	$base_path = realpath(__DIR__ . DIRECTORY_SEPARATOR . "..");
     	$config = $this->getConfig();
         
         $resolve = new Resolve($config);
