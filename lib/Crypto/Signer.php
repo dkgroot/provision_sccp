@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace PROVISION\Signer;
+namespace PROVISION\Crypto;
 
 class Signer {
 }

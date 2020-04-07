@@ -10,3 +10,4 @@ class Crypto {
                 .hashAsBase64($hashAlg);
     }
 }
+?>

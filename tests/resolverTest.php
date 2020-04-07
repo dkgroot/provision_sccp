@@ -47,20 +47,20 @@ final class ResolverTest extends TestCase
     	$config = $this->getConfig();
         
         $resolve = new Resolve($config);
-	foreach($this->test_cases as $test) {
-		try {
-			$result = $resolve->resolve($test['request']);
-			if (is_string($result)) {
-				$this->assertStringContainsString($result, $base_path . $test['expected']);
-			} else {
-				$this->assertEquals($result, $test['expected']);
-			}
-		} catch (Exception $e) {
-			print("'" . $test['request'] . "' => throws error as expected\n");
-			print("Exception: " . $e->getMessage() . "\n");
-		}
-	}
-	unset($resolve);
+        foreach($this->test_cases as $test) {
+            try {
+                $result = $resolve->resolve($test['request']);
+                if (is_string($result)) {
+                    $this->assertStringContainsString($result, $base_path . $test['expected']);
+                } else {
+                    $this->assertEquals($result, $test['expected']);
+                }
+            } catch (Exception $e) {
+                print("'" . $test['request'] . "' => throws error as expected\n");
+                print("Exception: " . $e->getMessage() . "\n");
+            }
+        }
+        unset($resolve);
     }
 }
 
