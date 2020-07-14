@@ -1,7 +1,7 @@
 #!/bin/bash
-
+ROOTDIR=/data/development/sccp/sources/tftp 
 if [ $# -gt 0 ]; then
 	#  Encrypt SEPMAC.cnf.xml
-	openssl enc -aes-256-cbc -salt -in ../../tftpboot/settings/${1} -out ../../tftpboot/settings/${1}.enc -k tftp.pem
-	../../tools/certutils/sgnfile -b ../../tftpboot/settings/${1}.enc -c tftp.pem
+	openssl enc -aes-256-cbc -salt -in $ROOTDIR/data/settings/${1} -out $ROOTDIR/data/settings/${1}.enc -k $ROOTDIR/etc/certs/tftp.pem
+	../../tools/certutils/sgnfile -b $ROOTDIR/data/settings/${1}.enc -c $ROOTDIR/etc/certs/tftp.pem
 fi

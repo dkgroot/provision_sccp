@@ -45,6 +45,159 @@
   </devicePool>
   <!-- End Device Pool -->
 
+  <!--
+    loadInformation1 - Cisco 30 SP +
+    loadInformation2 - Cisco 12 SP +
+    loadInformation3 - Cisco 12 SP
+    loadInformation4 - Cisco 12S
+    loadInformation5 - Cisco 30 VIP
+    loadInformation6 - Cisco 910
+    loadInformation7 - Cisco 7960
+    loadInformation8 - Cisco 7940
+    loadInformation9 - Cisco 7935
+    loadInformation10 - Cisco VGC Phone
+    loadInformation11 - Cisco VGC Virtual Phone
+    loadInformation12 - Cisco ATA 186
+    loadInformation30 - Analog Access
+    loadInformation40 - Digital Access
+    loadInformation42 - Digital Access +
+    loadInformation43 - Digital Access WS-X6608
+    loadInformation47 - Analog Access WS-X6624
+    loadInformation51 - Conference Bridge WS-X6608
+    loadInformation61 - H. 323 Phone
+    loadInformation100 - load Simulator
+    loadInformation111 - Media Termination Point Hardware
+    loadInformation115 - Cisco 7941
+    loadInformation118 - Cisco 7971G GE
+    loadInformation119 - Cisco 7971
+    loadInformation120 - MGCP station
+    loadInformation121 - MGCP trunk
+    loadInformation124 - Cisco 7914
+    loadInformation227 - Cisco 7915 12-Button
+    loadInformation228 - Cisco 7915 24-Button
+    loadInformation229 - Cisco 7916 12-button
+    loadInformation230 - Cisco 7916 24-Button
+    loadInformation302 - Cisco 7985
+    loadInformation307 - Cisco 7911
+    loadInformation308 - Cisco 7961G GE
+    loadInformation309 - Cisco 7941G GE
+    loadInformation335 - Motorola CN622
+    loadInformation348 - Cisco 7931
+    loadInformation358 - Cisco Unified Personal Communicator
+    loadInformation365 - Cisco 7921
+    loadInformation369 - Cisco 7906
+    loadInformation375 - Cisco TelePresence
+    loadInformation376 - Nokia S60
+    loadInformation404 - Cisco 7962
+    loadInformation412 - Cisco 3951
+    loadInformation431 - Cisco 7937
+    loadInformation434 - Cisco 7942
+    loadInformation435 - Cisco 7945
+    loadInformation436 - Cisco 7965
+    loadInformation437 - Cisco 7975
+    loadInformation446 - Cisco 3911
+    loadInformation478 - Cisco TelePresence 1000
+    loadInformation479 - Cisco TelePresence 3000
+    loadInformation480 - Cisco TelePresence 3200
+    loadInformation481 - Cisco TelePresence 500-37
+    loadInformation484 - Cisco 7925
+    loadInformation493 - Cisco 9971
+    loadInformation495 - Cisco 6921
+    loadInformation496 - Cisco 6941
+    loadInformation497 - Cisco 6961
+    loadInformation503 - Cisco Unified Client Services Framework
+    loadInformation505 - Cisco TelePresence 1300-65
+    loadInformation520 - Cisco TelePresence 1100
+    loadInformation521 - Transnova S3
+    loadInformation537 - Cisco 9951
+    loadInformation540 - Cisco 8961
+    loadInformation547 - Cisco 6901
+    loadInformation548 - Cisco 6911
+    loadInformation550 - Cisco ATA 187
+    loadInformation557 - Cisco TelePresence 200
+    loadInformation558 - Cisco TelePresence 400
+    loadInformation562 - Cisco Dual Mode for iPhone
+    loadInformation564 - Cisco 6945
+    loadInformation575 - Cisco Dual Mode for Android
+    loadInformation577 - Cisco 7926
+    loadInformation580 - Cisco E20
+    loadInformation582 - Generic Single Screen Room System
+    loadInformation583 - Generic Multiple Screen Room System
+    loadInformation584 - Cisco TelePresence EX90
+    loadInformation585 - Cisco 8945
+    loadInformation586 - Cisco 8941
+    loadInformation588 - Generic Desktop Video Endpoint
+    loadInformation590 - Cisco TelePresence 500-32
+    loadInformation591 - Cisco TelePresence 1300-47
+    loadInformation592 - Cisco 3905
+    loadInformation593 - Cisco Cius
+    loadInformation596 - Cisco TelePresence TX1310-65
+    loadInformation604 - Cisco TelePresence EX60
+    loadInformation606 - Cisco TelePresence Codec C90
+    loadInformation607 - Cisco TelePresence Codec C60
+    loadInformation608 - Cisco TelePresence Codec C40
+    loadInformation609 - Cisco TelePresence Quick Set C20
+    loadInformation610 - Cisco TelePresence Profile 42 (C20)
+    loadInformation611 - Cisco TelePresence Profile 42 (C60)
+    loadInformation612 - Cisco TelePresence Profile 52 (C40)
+    loadInformation613 - Cisco TelePresence Profile 52 (C60)
+    loadInformation614 - Cisco TelePresence Profile 52 Dual (C60)
+    loadInformation615 - Cisco TelePresence Profile 65 (C60)
+    loadInformation616 - Cisco TelePresence Profile 65 Dual (C90)
+    loadInformation617 - Cisco TelePresence MX200
+    loadInformation619 - Cisco TelePresence TX9000
+    loadInformation620 - Cisco TelePresence TX9200
+    loadInformation621 - Cisco 7821
+    loadInformation622 - Cisco 7841
+    loadInformation623 - Cisco 7861
+    loadInformation626 - Cisco TelePresence SX20
+    loadInformation627 - Cisco TelePresence MX300
+    loadInformation628 - IMS-integrated Mobile (Basic)
+    loadInformation632 - Cisco Cius SP
+    loadInformation633 - Cisco TelePresence Profile 42 (C40)
+    loadInformation634 - Cisco VXC 6215
+    loadInformation635 - CTI Remote Device
+    loadInformation642 - Carrier-integrated Mobile
+    loadInformation645 - Universal Device Template
+    loadInformation647 - Cisco DX650
+    loadInformation648 - Cisco Unified Communications for RTX
+    loadInformation652 - Cisco Jabber for Tablet
+    loadInformation659 - Cisco 8831
+    loadInformation682 - Cisco TelePresence SX10
+    loadInformation683 - Cisco 8841
+    loadInformation684 - Cisco 8851
+    loadInformation685 - Cisco 8861
+    loadInformation688 - Cisco TelePresence SX80
+    loadInformation689 - Cisco TelePresence MX200 G2
+    loadInformation690 - Cisco TelePresence MX300 G2
+    loadInformation20000 - Cisco 7905
+    loadInformation30002 - Cisco 7920
+    loadInformation30006 - Cisco 7970
+    loadInformation30007 - Cisco 7912
+    loadInformation30008 - Cisco 7902
+    loadInformation30016 - Cisco IP Communicator
+    loadInformation30018 - Cisco 7961
+    loadInformation30019 - Cisco 7936
+    loadInformation30027 - Analog Phone
+    loadInformation30028 - ISDN BRI Phone
+    loadInformation30032 - SCCP gateway virtual phone
+    loadInformation30035 - IP STE
+    loadInformation36042 - Cisco DX80
+    loadInformation36043 - Cisco DX70
+    loadInformation36207 - Cisco TelePresence MX700
+    loadInformation36208 - Cisco TelePresence MX800
+    loadInformation80000 - Cisco CP-521G
+    loadInformation80001 - Cisco CP-524G
+    loadInformation80002 - Cisco CP-525G
+    loadInformation80003 - Cisco SPA502G
+    loadInformation80004 - Cisco SPA504G
+    loadInformation80005 - Cisco SPA525G
+    loadInformation80006 - Cisco SPA508G
+    loadInformation80007 - Cisco SPA509G
+    loadInformation80009 - Cisco CP-525G2
+    loadInformation80010 - Cisco SPA301
+    loadInformation80011 - Cisco SPA303
+  -->
   <!-- Begin Firmware Load Information for all known SCCP Device Types -->
   <loadInformation00005 model="Cisco IP Phone 7961">SCCP41.9-4-2SR3-1S</loadInformation00005>
   <loadInformation00006 model="Cisco IP Phone 7910">SCCP11.9-0-2SR1S</loadInformation00006>
