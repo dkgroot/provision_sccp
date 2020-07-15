@@ -1,23 +1,18 @@
 #!/usr/bin/env bash
-outfile=ringlist.xml
+outfile=Ringlist.xml
 echo -e "<CiscoIPPhoneRingList>" >$outfile
-if [ ! -z "`ls *.pcm 2>/dev/null`" ]; then
-	for filename in *.pcm;do
-		basename=`basename ${filename} .pcm`
+for filename in *.pcm *.raw; do
+	if [ -f $filename ]; then 
 		echo -e "\t<Ring>" >>$outfile
-		echo -e "\t\t<DisplayName>${basename}</DisplayName>" >>$outfile
-		echo -e "\t\t<FileName>ringtones\\${filename}</FileName>" >>$outfile
+		echo -e "\t\t<DisplayName>${filename%.*}</DisplayName>" >>$outfile
+ 		echo -e "\t\t<FileName>${filename}</FileName>" >>$outfile
 		echo -e "\t</Ring>" >>$outfile
-	done
-fi
-if [ ! -z "`ls *.raw 2>/dev/null`" ]; then
-	for filename in *.raw;do
-		basename=`basename ${filename} .raw`
-		echo -e "\t<Ring>" >>$outfile
-		echo -e "\t\t<DisplayName>${basename}</DisplayName>" >>$outfile
-		echo -e "\t\t<FileName>ringtones\\${filename}</FileName>" >>$outfile
-		echo -e "\t</Ring>" >>$outfile
-	done
-fi
+	fi
+done
 echo -e "</CiscoIPPhoneRingList>" >>$outfile
-
+[ -f DistinctiveRinglist.xml ] || ln -s Ringlist.xml DistinctiveRinglist.xml
+[ -f distinctiveringlist.xml ] || ln -s Ringlist.xml distinctiveringlist.xml
+[ -f ringlist.xml ] || ln -s Ringlist.xml ringlist.xml
+for x in *.pcm *.xml *.raw; do
+	[ -f $x ] && ../../etc/certs/signfile $x
+done
