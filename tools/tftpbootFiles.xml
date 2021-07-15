@@ -61,7 +61,7 @@
       <FileName>P00405000700.sbn</FileName>
     </Directory>
     <Directory name="7911">
-      <DirectoryPath>tftpboot/firmware/7911/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/7906/</DirectoryPath>
       <FileName>SCCP11.9-4-2SR3-1S.loads</FileName>
       <FileName>apps11.9-4-2ES26.sbn</FileName>
       <FileName>cnu11.9-4-2ES26.sbn</FileName>
@@ -194,7 +194,7 @@
       <FileName>term65.default.loads</FileName>
     </Directory>
     <Directory name="7960">
-      <DirectoryPath>tftpboot/firmware/7960/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/7940/</DirectoryPath>
       <FileName>P0030801SR02.bin</FileName>
       <FileName>P0030801SR02.loads</FileName>
       <FileName>P0030801SR02.sb2</FileName>
@@ -202,7 +202,7 @@
       <FileName>P0030801SR02.txt</FileName>
     </Directory>
     <Directory name="7961">
-      <DirectoryPath>tftpboot/firmware/7961/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/7941/</DirectoryPath>
       <FileName>SCCP41.9-4-2SR3-1S.loads</FileName>
       <FileName>apps41.9-4-2ES26.sbn</FileName>
       <FileName>cnu41.9-4-2ES26.sbn</FileName>
@@ -213,7 +213,7 @@
       <FileName>term61.default.loads</FileName>
     </Directory>
     <Directory name="7962">
-      <DirectoryPath>tftpboot/firmware/7962/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/7942/</DirectoryPath>
       <FileName>SCCP42.9-4-2SR3-1S.loads</FileName>
       <FileName>apps42.9-4-2ES26.sbn</FileName>
       <FileName>cnu42.9-4-2ES26.sbn</FileName>
@@ -224,7 +224,7 @@
       <FileName>term62.default.loads</FileName>
     </Directory>
     <Directory name="7965">
-      <DirectoryPath>tftpboot/firmware/7965/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/7945/</DirectoryPath>
       <FileName>SCCP45.9-3-1SR1-1S.loads</FileName>
       <FileName>SCCP45.9-4-2SR4-3S.loads</FileName>
       <FileName>apps45.9-3-1ES8.sbn</FileName>
@@ -252,7 +252,7 @@
       <FileName>term71.default.loads</FileName>
     </Directory>
     <Directory name="7971">
-      <DirectoryPath>tftpboot/firmware/7971/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/7970/</DirectoryPath>
       <FileName>SCCP70.9-4-2SR3-1S.loads</FileName>
       <FileName>apps70.9-4-2ES26.sbn</FileName>
       <FileName>cnu70.9-4-2ES26.sbn</FileName>
@@ -302,12 +302,12 @@
       <FileName>ATA030204SCCP090202A.zup</FileName>
     </Directory>
     <Directory name="ata188">
-      <DirectoryPath>tftpboot/firmware/ata188/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/ata186/</DirectoryPath>
       <FileName>ATA030204SCCP090202A.zup</FileName>
     </Directory>
     <FileName>mkregex.py</FileName>
     <Directory name="spa30x">
-      <DirectoryPath>tftpboot/firmware/spa30x/</DirectoryPath>
+      <DirectoryPath>tftpboot/firmware/spa50x/</DirectoryPath>
       <Directory name="locale">
         <DirectoryPath>tftpboot/firmware/spa30x/locale/</DirectoryPath>
         <FileName>spa50x_30x_bg_v756.xml</FileName>
